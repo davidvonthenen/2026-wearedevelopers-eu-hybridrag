@@ -18,8 +18,9 @@ Participants should ensure they have the minimum requirements:
   - No GPU is required. Will strictly be using CPU only.
   - Windows Users should use a VM or Cloud Instance
     - If you opt for this, you must provide your own instances
-- Python Installed: Using Only 3.10
-  - (HIGHLY Recommended) Use [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install/overview) or [venv](https://docs.python.org/3/library/venv.html) virtual development environment. (I prefer miniconda)
+- Python Installed: **Using Only 3.10** Sections off 
+  - (HIGHLY Recommended) Use [uv](https://docs.astral.sh/uv/getting-started/installation/), [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install/overview) or [venv](https://docs.python.org/3/library/venv.html) virtual development environment. (I prefer miniconda or uv)
+- (HIGHLY Recommended) [Huggingface developer token](https://huggingface.co/settings/tokens) saved to `HF_TOKEN` environment variable.
 - Familiarity with Python is a must.
 - Install [Podman](https://podman.io/docs/installation) (or equivalent container runtime).
   - Will use [OpenSearch](https://opensearch.org/) and [Neo4j](https://neo4j.com/) containers.
@@ -29,8 +30,8 @@ LLM / Model to Pre-Download :
   - On the HuggingFace page, navigate to “files” and [download this model](https://huggingface.co/bartowski/Qwen2.5-7B-Instruct-1M-GGUF/blob/main/Qwen2.5-7B-Instruct-1M-Q5_K_M.gguf).
   - Drop the file into your ~/models folder. (You might need to create this.)
 - Pre-pull the following containers:
-  - podman pull opensearchproject/opensearch:3.2.0
-  - podman pull opensearchproject/opensearch-dashboards:3.2.0
+  - podman pull opensearchproject/opensearch:3.5.0
+  - podman pull opensearchproject/opensearch-dashboards:3.5.0
   - podman pull neo4j:5.26.16
 
 ## Workshop Materials
