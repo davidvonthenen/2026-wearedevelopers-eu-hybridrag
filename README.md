@@ -18,8 +18,9 @@ Participants should ensure they have the minimum requirements:
   - No GPU is required. Will strictly be using CPU only.
   - Windows Users should use a VM or Cloud Instance
     - If you opt for this, you must provide your own instances
-- Python Installed: **Using Only 3.10** Sections off 
-  - (HIGHLY Recommended) Use [uv](https://docs.astral.sh/uv/getting-started/installation/), [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install/overview) or [venv](https://docs.python.org/3/library/venv.html) virtual development environment. (I prefer miniconda or uv)
+- Python Version: **Using Only 3.10** 
+  - **Sections of the workshop will not function using a version other than 3.10**
+  - (HIGHLY Recommended) Use [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install/overview), [uv](https://docs.astral.sh/uv/getting-started/installation/), or [venv](https://docs.python.org/3/library/venv.html) virtual development environment. (I prefer miniconda or uv)
 - (HIGHLY Recommended) [Huggingface developer token](https://huggingface.co/settings/tokens) saved to `HF_TOKEN` environment variable.
 - Familiarity with Python is a must.
 - Install [Podman](https://podman.io/docs/installation) (or equivalent container runtime).
