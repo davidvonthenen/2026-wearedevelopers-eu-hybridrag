@@ -34,6 +34,31 @@ LLM / Model to Pre-Download :
   - podman pull opensearchproject/opensearch-dashboards:3.5.0
   - podman pull neo4j:5.26.16
 
+## Python Software Prerequisities
+
+This workshop will **only work with Python version 3.10**. I would highly recommend using [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install/overview), [uv](https://docs.astral.sh/uv/getting-started/installation/), or [venv](https://docs.python.org/3/library/venv.html) so you can run **Python 3.10** in its own isolated environment.
+
+To install the software dependencies:
+
+```bash
+# if you are using: miniconda or venv
+pip install -r requirements.txt
+
+# OR, if using  uv
+uv pip install -r requirements.txt 
+```
+
+Then:
+
+```bash
+# For miniconda or venv:
+pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
+# OR, if using uv:
+uv pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
+```
+
+Done!
+
 ## Workshop Materials
 
 Coming Soon!
