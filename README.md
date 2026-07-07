@@ -4,7 +4,7 @@ Welcome to the landing page for the workshop `From Vector Search to Better Under
 
 ## What to Expect
 
-This repo intends to provide instructions and materials for our workshop. Instruction will be provided and tasks are self-paced (with help from me should you need it). This workshop is broken down into 3 majors sections:
+This repo intends to provide slides, instructions and materials for our workshop. Instruction will be provided (1hr to 1h2 20min) and tasks are self-paced (about 30-40mins with help from me should you need it). This workshop is broken down into 3 majors sections:
 
 1. Introduction to Alternative Data Retrieval Methods for RAG
 2. Highlight RAG Challenges When Answering User's Questions
