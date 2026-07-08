@@ -1,0 +1,95 @@
+Chocolate-Sunflower Butter Protein Smoothie
+===========================================
+
+Recipe Metadata
+---------------
+Recipe ID: 2063fae30092fca5
+CSV row number: 290
+Recipe name: Chocolate-Sunflower Butter Protein Smoothie
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/270037/chocolate-sunflower-butter-protein-smoothie
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01d11769bb693ede148d1375d8aff005e9a08e8b81c508a6924f161d5e6470fe/21102340.jpg
+Servings: 1
+Calories: 416.21
+Diet labels: High-Fiber, Low-Carb
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: breakfast
+Dish type: drinks
+
+Original CSV Fields
+-------------------
+recipe_name: Chocolate-Sunflower Butter Protein Smoothie
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/270037/chocolate-sunflower-butter-protein-smoothie
+servings: 1
+calories: 416.2100000004144
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01d11769bb693ede148d1375d8aff005e9a08e8b81c508a6924f161d5e6470fe/21102340.jpg
+diet_labels: ["High-Fiber","Low-Carb"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["drinks"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Chocolate-Sunflower Butter Protein Smoothie
+
+Description: This four ingredient smoothie with sunflower seed butter can satisfy a chocolate craving in a healthier way. Feel free to add ice if you want a thicker smoothie.
+
+Recipe category: ['Breakfast', 'Drink']
+
+Yield: ['1', '1 smoothie']
+
+Prep time: PT5M
+
+Total time: PT5M
+
+Ingredients:
+- 1 cup almond milk
+- 1 scoop chocolate-flavored protein powder (such as FitMiss®)
+- 2 tablespoons sunflower seed butter
+- 2 teaspoons unsweetened cocoa powder
+
+Instructions:
+1. Pour almond milk into a blender. Add protein powder, sunflower seed butter, and cocoa powder. Blend until smooth, about 1 minute.
+
+Visible page text:
+Recipes
+Breakfast and Brunch
+Drinks
+Chocolate-Sunflower Butter Protein Smoothie
+This 4-ingredient smoothie with sunbutter can satisfy a chocolate craving in a healthier way. Feel free to add ice if you want a thicker smoothie.
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 1 servings
+1 cup almond milk
+1 scoop chocolate-flavored protein powder (such as FitMiss®)
+2 tablespoons sunflower seed butter
+2 teaspoons unsweetened cocoa powder
+Directions
+Pour almond milk into a blender. Add protein powder, sunflower seed butter, and cocoa powder. Blend until smooth, about 1 minute.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Chocolate-Sunflower Butter Protein Smoothie
+1
+Most-Saved Recipes Like This
+Strawberry Oatmeal Breakfast Smoothie 1,248 Ratings 5 mins Save
+Peanut Butter Banana Smoothie 1,116 Ratings 5 mins Save
+Strawberry Banana Protein Smoothie 64 Ratings 10 mins Save
+California Smoothie 150 Ratings 1 hr 10 mins Save
+Basic Fruit Smoothie 89 Ratings 10 mins Save
+Heavenly Blueberry Smoothie 170 Ratings 10 mins Save
+Green Monster Smoothie 143 Ratings 5 mins Save
+Low-Carb Chocolate Peanut Butter Smoothie 62 Ratings 10 mins Save
+Chocolate Banana Smoothie 164 Ratings 5 mins Save
+Chocolate Banana Peanut Butter Protein Shake 108 Ratings 10 mins Save
+You’ll Also Love

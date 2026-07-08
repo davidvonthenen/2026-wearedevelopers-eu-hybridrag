@@ -1,0 +1,126 @@
+Ricotta, Pecorino and Parmesan Ravioli
+======================================
+
+Recipe Metadata
+---------------
+Recipe ID: 36beacfd7279a543
+CSV row number: 320
+Recipe name: Ricotta, Pecorino and Parmesan Ravioli
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/jamie-oliver/ricotta-pecorino-and-parmesan-ravioli-recipe-1941467
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/026c047af4f5b7f0364b00cced4641ec66d8f7dcb83fb7a0a45a14fdd8b5dfb6/21124199.jpg
+Servings: 4
+Calories: 2826.54
+Diet labels: Balanced, High-Fiber
+Health labels: Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Ricotta, Pecorino and Parmesan Ravioli
+source: Food Network
+url: https://www.foodnetwork.com/recipes/jamie-oliver/ricotta-pecorino-and-parmesan-ravioli-recipe-1941467
+servings: 4
+calories: 2826.543499
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/026c047af4f5b7f0364b00cced4641ec66d8f7dcb83fb7a0a45a14fdd8b5dfb6/21124199.jpg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Ricotta, Pecorino and Parmesan Ravioli
+
+Description: The copyright of this recipe is owned by Jamie Oliver. All rights of the owner are reserved and asserted including the right to be attributed as the author. Unauthorized copying, adapting, display or re-publication of this recipe (or any part of this recipe) in any material form is strictly prohibited.
+
+Recipe category: main-dish
+
+Recipe cuisine: italian
+
+Yield: 4 servings
+
+Prep time: P0Y0M0DT0H30M0.000S
+
+Cook time: P0Y0M0DT0H8M0.000S
+
+Total time: P0Y0M0DT1H8M0.000S
+
+Ingredients:
+- 5 fresh large organic egg yolks
+- 1 pound strong pasta flour (Tipo `OO`)
+- 2 tablespoons extra-virgin olive oil
+- 4 sprigs fresh sage, leaves picked
+- 9 ounces buffalo ricotta
+- 2 tablespoons finely grated pecorino, plus extra for finishing
+- 2 tablespoons finely grated Parmesan, plus extra for finishing
+- Small bunch fresh marjoram, leaves picked, 1/2 finely chopped, other 1/2 kept whole and reserved
+- 1 lemon, zested
+- Sea salt and freshly ground black pepper
+
+Instructions:
+1. Make the pasta by plonking the eggs and flour in a food processor, turning it on and within 30 seconds it should look like chewy-looking bread crumbs. These will start to come together into larger balls of dough. Take the dough out and work by hand for 2 minutes or until smooth, silky and elastic. Wrap in plastic and allow to rest in the refrigerator.
+2. Prepare the filling by mixing everything except the whole marjoram leaves together, checking the seasoning.
+3. Cut off pieces of the pasta and roll out on a lightly floured clean work surface to about 1mm thick, then cut into pieces about 14 by 14cm (6 by 6 inches). Place a good heaped teaspoon of filling on 1 side, then using a clean pastry brush and some water, lightly but evenly brush the pasta. Pinch 1 side of the pasta over the filling so it forms a parcel, then with your thumb or the base of your palm gently pat the pasta down all around the filling. (The most important thing about ravioli is it must be sealed completely, so if there are any rips, chuck them out.) Trim and cut the ravioli into shape with a knife or crinkly cutter.
+4. Cook the ravioli in salted, gently boiling water for 3 to 4 minutes.
+5. Meanwhile, fry the marjoram leaves and sage leaves in the olive oil until crispy, then drain on kitchen paper.
+6. Put the cooked ravioli in a warmed small frying pan, add a little of the cooking water and another tablespoon of the grated pecorino, and toss. To serve, spoon the ravioli into a dish, sprinkle some of the crispy herbs on top, and add another grating of Parmesan and some freshly ground black pepper to finish.
+
+Visible page text:
+Home
+Recipes
+Main Dishes
+Pasta
+Ricotta, Pecorino and Parmesan Ravioli
+Level: Intermediate
+Total: 1 hr 8 min
+Prep: 30 min
+Inactive: 30 min
+Cook: 8 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+5 fresh large organic egg yolks
+1 pound strong pasta flour (Tipo `OO`)
+2 tablespoons extra-virgin olive oil
+4 sprigs fresh sage, leaves picked
+Filling:
+9 ounces buffalo ricotta
+2 tablespoons finely grated pecorino, plus extra for finishing
+2 tablespoons finely grated Parmesan, plus extra for finishing
+Small bunch fresh marjoram, leaves picked, 1/2 finely chopped, other 1/2 kept whole and reserved
+1 lemon, zested
+Sea salt and freshly ground black pepper
+Make the pasta by plonking the eggs and flour in a food processor, turning it on and within 30 seconds it should look like chewy-looking bread crumbs. These will start to come together into larger balls of dough. Take the dough out and work by hand for 2 minutes or until smooth, silky and elastic. Wrap in plastic and allow to rest in the refrigerator.
+Prepare the filling by mixing everything except the whole marjoram leaves together, checking the seasoning.
+Cut off pieces of the pasta and roll out on a lightly floured clean work surface to about 1mm thick, then cut into pieces about 14 by 14cm (6 by 6 inches). Place a good heaped teaspoon of filling on 1 side, then using a clean pastry brush and some water, lightly but evenly brush the pasta. Pinch 1 side of the pasta over the filling so it forms a parcel, then with your thumb or the base of your palm gently pat the pasta down all around the filling. (The most important thing about ravioli is it must be sealed completely, so if there are any rips, chuck them out.) Trim and cut the ravioli into shape with a knife or crinkly cutter.
+Cook the ravioli in salted, gently boiling water for 3 to 4 minutes.
+Meanwhile, fry the marjoram leaves and sage leaves in the olive oil until crispy, then drain on kitchen paper.
+Put the cooked ravioli in a warmed small frying pan, add a little of the cooking water and another tablespoon of the grated pecorino, and toss. To serve, spoon the ravioli into a dish, sprinkle some of the crispy herbs on top, and add another grating of Parmesan and some freshly ground black pepper to finish.
+Fresh pasta is so easy to make, and this ravioli is so delicious and a great one for the kids to help you with – you don`t need a pasta machine, just a wine bottle or a rolling pin.
+Categories:
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Superb Squash Soup with the Best Parmesan...
+Watercress, Rocket, Sweet Pear, Walnut and...
+Proper Polenta Recipe
+Seared Carpaccio of Beef with roasted Baby Beets,...
+Ravioli with Potato, Watercress, and Cheeses...
+Ravioli of Smashed Fava Beans, Mint and Ricotta...

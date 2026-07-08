@@ -1,0 +1,101 @@
+Roasted vegetable baguettes
+===========================
+
+Recipe Metadata
+---------------
+Recipe ID: f125bc685b6217b3
+CSV row number: 311
+Recipe name: Roasted vegetable baguettes
+Source: kitchen.nine.com.au
+URL: https://kitchen.nine.com.au/recipes/roasted-vegetable-baguettes/dd21a8be-f7f6-4ea0-936c-5c196fd54d9e
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01fce0ce1ca645da30340e848e1ef7c2b8a6a72c5ecb873d12a9556440c9f207/21105369.jpg
+Servings: 2
+Calories: 2071.07
+Diet labels: High-Fiber
+Health labels: Vegetarian, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: french
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Roasted vegetable baguettes
+source: kitchen.nine.com.au
+url: https://kitchen.nine.com.au/recipes/roasted-vegetable-baguettes/dd21a8be-f7f6-4ea0-936c-5c196fd54d9e
+servings: 2
+calories: 2071.065
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01fce0ce1ca645da30340e848e1ef7c2b8a6a72c5ecb873d12a9556440c9f207/21105369.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Vegetarian","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["french"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Roasted vegetable baguettes
+
+Recipe category: dinner
+
+Recipe cuisine: Italian
+
+Yield: serves 2
+
+Total time: PT1H
+
+Ingredients:
+- 2 roma tomatoes, halved
+- 1 small red onion, cut in wedges
+- 1 small sweet potato, peeled and sliced
+- 1 teaspoon olive oil
+- 2 baguettes
+- basil leaves
+- 100g feta cheese
+
+Visible page text:
+Nine
+9Honey
+Kitchen
+Recipes
+Cooking time less than 60 minutes
+Serves serves 2
+Ingredients Method
+2 roma tomatoes, halved
+1 small red onion, cut in wedges
+1 small sweet potato, peeled and sliced
+1 teaspoon olive oil
+2 baguettes
+basil leaves
+100g feta cheese
+Preheat the oven to 180°C. Place the tomatoes, onion and sweet potato on to a baking tray and drizzle with the oil. Cook for 25 minutes, then cool slightly. Fill the baguettes with the vegetables, basil leaves and feta.
+Share
+Mail
+Pinterest
+X
+Bread
+Healthy Ingredients
+Low Cholesterol
+Low Fat
+Vegetarian
+Vegetable
+Italian
+Dinner
+Finger Food
+Baked
+Roast
+Serves 2
+Less Than 60 Minutes
+Recipe Finder
+Property News: Australia's most popular suburbs in every capital city.
+Related Recipes
+$10 shepherd's pie
+Kitchen Australia's best cafe of 2026 has been crowned
+Kitchen Subway announces next move after cancelling loyalty program
+Kitchen Coles releases more M&S food products in supermarkets

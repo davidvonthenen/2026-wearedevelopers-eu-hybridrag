@@ -1,0 +1,106 @@
+Belgian Endive Wrapped in Ham with Cheese / Lof met Ham en Kaas
+===============================================================
+
+Recipe Metadata
+---------------
+Recipe ID: b4d3ea58e7c1086f
+CSV row number: 83
+Recipe name: Belgian Endive Wrapped in Ham with Cheese / Lof met Ham en Kaas
+Source: food.com
+URL: http://www.food.com/recipe/belgian-endive-wrapped-in-ham-with-cheese-lof-met-ham-en-kaas-51903
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0073d04ad17852c0aa040b9c69fe29b5fea58789cb80ad88ca1b00756ef7e253/21113703.jpg
+Servings: 4
+Calories: 1323.64
+Diet labels: Low-Carb
+Health labels: Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: central europe, italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Belgian Endive Wrapped in Ham with Cheese / Lof met Ham en Kaas
+source: food.com
+url: http://www.food.com/recipe/belgian-endive-wrapped-in-ham-with-cheese-lof-met-ham-en-kaas-51903
+servings: 4
+calories: 1323.637271155469
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0073d04ad17852c0aa040b9c69fe29b5fea58789cb80ad88ca1b00756ef7e253/21113703.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["central europe","italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Belgian Endive Wrapped in Ham with Cheese / Lof met Ham en Kaas
+
+Description: Belgian endive or chicory is not a vegetable that will be liked by everybody. It being slightly bitter puts it in the category for an acquired taste. The recipe is based on 2 pieces per serving, so if you buy the endive heads and they are large or thick and you will halve them buy less heads. You can also make a bechamel sauce to which you add cheese and nutmeg, pour that over the ham wrapped endive, add more cheese on the top and bake. Bread crumbs can be mixed in the cheese for the topping. In Holland we usually serve this with mashed potatoes.
+
+Recipe category: Ham
+
+Yield: 4 serving(s)
+
+Prep time: PT30M
+
+Cook time: PT40M
+
+Total time: PT1H10M
+
+Ingredients:
+- 8 heads Belgian endive, approx
+- 1 tablespoon lemon juice
+- 8 slices of good flavored ham, approx
+- freshly grated nutmeg
+- 1 cup grated cheddar cheese
+- 1 -2 ounce butter
+
+Instructions:
+1. Cut of a thin slice of the bottom of the endive, with a small knife remove the bitter core of the endive.
+2. Cut large heads in half and don’t forget to remove the core.
+3. Cook the endive in salted water and the lemon juice for 20 to 30 minutes or until cooked.
+4. Drain and put them in a colander.
+5. Preheat oven to 350 degrees F.
+6. When cool enough to handle, wrap each endive in a slice of ham, also the loose leaves, put them in a greased oven proof dish, add grated nutmeg, sprinkle the cheese on top and add some flecks of butter.
+7. Bake for 30 to 40 minutes.
+
+Visible page text:
+Belgian Endive Wrapped in Ham with Cheese / Lof met Ham en Kaas
+ingredients
+8 heads Belgian endive , approx
+1 tablespoon lemon juice
+8 slices of good flavored ham , approx
+freshly grated nutmeg
+1 cup grated cheddar cheese
+1 -2 ounce butter
+directions
+Cut of a thin slice of the bottom of the endive, with a small knife remove the bitter core of the endive.
+Cut large heads in half and don’t forget to remove the core.
+Cook the endive in salted water and the lemon juice for 20 to 30 minutes or until cooked.
+Drain and put them in a colander.
+Preheat oven to 350 degrees F.
+When cool enough to handle, wrap each endive in a slice of ham, also the loose leaves, put them in a greased oven proof dish, add grated nutmeg, sprinkle the cheese on top and add some flecks of butter.
+Bake for 30 to 40 minutes.
+Questions & Replies
+Reviews
+this is an excellent recipe. i loved how the ham and cheese offset the bitterness of the endive. even though after cooking the endive remains bitter it isn't overpowering...at least not for me but then again i do love bitter vegetables. i used black forest ham, cheddar cheese, and a little heavy cream. i didn't have any nutmeg but next time i will add it because it can only make this even better. thank you for the recipe. taylortwo Reply 5
+Wonderful! If you are a fan of Belgian Endive aka Chicory, then you are in for a real treat with this recipe. It may be an acquired taste for some, but fans of this bitter veggie will love this tasty dish. I found this very easy to prepare and loved the taste. Notes: I added a dot of butter and a grating of nutemgs in the hollows where the core had been, before wrapping each endive piece in the ham. I also used grated Gouda cheese rather than Cheddar, as that was what I had available to me. Delicious, unique dish! HeatherFeather Reply 5
+Very good and so easy. I boiled the endive about 8 minutes and they were well done. So quick to put together. Nutmeg really added a lot to the aroma and flavor of this dish. Glad I remembered and put on after I put the pan in the oven. Thank you. Nado2003 Reply
+My boyfriend is french Belgium and I'll be moving over to Belgium this year so am busy learning the language and cuisine. This was the first Belgian dish he taught me on a trip over here to see me in Canada. It's delicious!!! The Romantic Chef Reply
+Wonderful--this was our first taste of Belgian endive, and we loved it! Subbed gruyere for the cheddar and added a touch of cream, really lovely--thanks Pets'R'us! BecR2400 Reply
+Tweaks
+This recipe is an absolute Belgian classic, I think every Belgian mother knows how to make it. As a kid I wasn't really fond of it (because of the bitter taste of the chicory) but now I find it a perfect and quick winter dish.
+Some remarks: I always make it with bechamel-cheese sauce; I always use cooked rather than smoked ham (the latter would be too salty to my taste); you can substitute the ham with smoked salmon if you feel luxurious; and you can also replace the chicory with leeks which makes an equally delicious dish! spinster Reply
+RECIPE SUBMITTED BY
+60 Followers
+300 Recipes
+6 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

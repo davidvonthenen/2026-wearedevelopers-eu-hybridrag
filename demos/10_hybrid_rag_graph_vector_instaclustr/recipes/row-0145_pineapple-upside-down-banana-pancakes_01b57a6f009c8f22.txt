@@ -1,0 +1,93 @@
+Pineapple Upside Down Banana Pancakes
+=====================================
+
+Recipe Metadata
+---------------
+Recipe ID: 01b57a6f009c8f22
+CSV row number: 145
+Recipe name: Pineapple Upside Down Banana Pancakes
+Source: tastykitchen.com
+URL: https://tastykitchen.com/recipes/breakfastbrunch/pancakeswaffles/pineapple-upside-down-banana-pancakes/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00e696aa6b2c5f3bb4a87ab5e41e46c187eada5f3ca54eb3403131d2519cd1ad/21109899.jpg
+Servings: 8
+Calories: 1783.66
+Diet labels: none listed
+Health labels: Vegan, Vegetarian, Dairy-Free, Egg-Free, Peanut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: american
+Meal type: breakfast
+Dish type: pancake
+
+Original CSV Fields
+-------------------
+recipe_name: Pineapple Upside Down Banana Pancakes
+source: tastykitchen.com
+url: https://tastykitchen.com/recipes/breakfastbrunch/pancakeswaffles/pineapple-upside-down-banana-pancakes/
+servings: 8
+calories: 1783.661495
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00e696aa6b2c5f3bb4a87ab5e41e46c187eada5f3ca54eb3403131d2519cd1ad/21109899.jpg
+diet_labels: []
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Egg-Free","Peanut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["pancake"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Pineapple Upside Down Banana Pancakes
+Print
+Leave a comment
+3 Reviews
+Print Options
+Description
+A twist on a classic: These are sugarless and vegan Pineapple Upside Down Banana Pancakes!
+Ingredients
+3 Ripe Bananas
+2-¼ cups Vanilla Almond Or Soy Milk
+1-½ cup Whole Grain Flour (such As Wheat Or Oat)
+2 teaspoons Baking Powder
+½ teaspoons Salt
+1 Small Pineapple
+A Little Canola Oil
+Preparation
+Mash bananas with a fork—you should have 1 ½ cups. Process the banana in food processor with about ½ cup of milk until smooth. Blend in remaining milk. Whisk together the flour, baking powder and salt. Stir dry ingredients into banana mixture until blended. Let sit while cooking pineapple slices.
+Cut outer skin off pineapple. Cut pineapple into slices ½ inch thick, making 8 slices. Using a small round cookie cutter, remove center core of each slice. Heat a skillet to medium low heat. Add a little oil to skillet. Cook pineapple slices in batches for about 2 minutes.
+Turn pineapple slices over. Immediately pour ¼ cup batter into the center of each pineapple slice, allowing batter to spill over and form a circle around the outside of the pineapple slice. Add a little more batter if necessary to form about 1 inch of pancake around the outside of the pineapple slice. Cook for 2 to 3 minutes, until lightly browned.
+Carefully flip over and cook other side for about 2 minutes, until pancake is cooked through and is lightly browned.
+More Recipes from Donna @ apron strings
+Snow Covered Cranberries
+Homemade Madagasgar Vanilla Extract
+Find Donna @ apron strings elsewhere on the web.
+Website
+Facebook
+Twitter
+No Comments
+Leave a Comment!
+You must be logged in to post a comment.
+Write a Review
+You must be logged in to post a review.
+heidimay18 on 2.10.2015
+We loved the flavor of these! One of my sons ate 4. You definitely have to cook them at a low temperature and slow. I also found it worked better to use pam in addition to or just in place of the canola oil.
+Kim on 6.17.2013
+I also had to throw away my disaster pancakes. The cakes will fall apart when you try to flip them because of the pineapple ring, they don’t cook evenly and honestly, they tasted pretty bad (maybe the acid from the pineapple reacting with something else?). They looked so good in the photo
+scratchcook3 on 6.5.2013
+The picture looks great. The recipe looks easy enough but I had to throw my pancake batter away. It was a disaster I am sorry to say. Hope others enjoy it though!
+Food Gifts
+View Recipe
+Slow Cooker Season!
+Related Recipes
+Prep: 10 mins Cook: 1 hr 15 mins
+Serves: 10 Level: Easy
+Share f a e
+Prep: 10 mins Cook: 20 mins
+Serves: 6 Level: Easy
+Prep: 2 mins Cook: 3 mins
+Serves: 1 Level: Easy
+Prep: 15 mins Cook: 45 mins
+Serves: 11 Level: Easy

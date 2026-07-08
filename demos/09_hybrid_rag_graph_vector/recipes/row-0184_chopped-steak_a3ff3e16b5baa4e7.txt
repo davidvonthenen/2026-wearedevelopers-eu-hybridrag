@@ -1,0 +1,124 @@
+Chopped Steak
+=============
+
+Recipe Metadata
+---------------
+Recipe ID: a3ff3e16b5baa4e7
+CSV row number: 184
+Recipe name: Chopped Steak
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/256356/chopped-steak
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0128b87ee0928062e630d23c6e5d9b7722efa660f627ce154da5f00ee50133f1/21067297.jpg
+Servings: 4
+Calories: 2100.79
+Diet labels: Low-Carb
+Health labels: Dairy-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: french
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Chopped Steak
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/256356/chopped-steak
+servings: 4
+calories: 2100.78893
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0128b87ee0928062e630d23c6e5d9b7722efa660f627ce154da5f00ee50133f1/21067297.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Dairy-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["french"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Chopped Steak
+
+Description: This easy chopped steak recipe uses lean ground beef flavored with onion and a savory blend of spices that is shaped into patties and grilled.
+
+Recipe category: ['Dinner', 'Snack']
+
+Recipe cuisine: ['American']
+
+Yield: ['4', '4 patties']
+
+Prep time: PT20M
+
+Cook time: PT10M
+
+Total time: PT30M
+
+Ingredients:
+- 1.5 pounds lean ground beef
+- 2 tablespoons sea salt
+- 1 tablespoon coarsely ground black pepper
+- 2 teaspoons garlic powder
+- 1 teaspoon dried rosemary
+- 1 teaspoon mustard
+- 0.5 teaspoon ground paprika
+- 0.5 teaspoon dill weed
+- 0.5 large white onion, finely chopped
+- 1 egg, beaten
+- 1 tablespoon Worcestershire sauce
+- 0.75 cup finely crushed unsalted saltine crackers
+
+Instructions:
+1. Place ground beef into a large bowl and break into smaller pieces. Cover with salt, black pepper, garlic powder, rosemary, mustard, paprika, and dill weed; knead thoroughly. Knead in onion, egg, and Worcestershire sauce. Mix in crackers until thoroughly incorporated.
+2. Shape beef mixture into 5-ounce, 1/2-inch thick patties.
+3. Preheat a grill pan over medium heat. Grill patties until an instant-read thermometer into the center reads 165 degrees F (74 degrees C), 5 to 7 minutes per side.
+
+Visible page text:
+Recipes
+Everyday Cooking
+Chopped Steak
+This chopped steak may make you forget you're eating ground beef. You won't need ketchup or mustard! This savory blend of spices will be enough for any person. Serve with a light gravy, garlic mashed potato and veg of your choice. I like Italian green beans.
+Why You’ll Love This Recipe
+This recipe combines ground beef with a savory blend of onion, rosemary, garlic powder, and mustard.
+Home cooks rave over the flavor of the onion and seasoning, comparing it to Salisbury Steak.
+Reviewer TxCin2 says, "Lots of flavor in this dish. I cut this in half and it still made 3 patties."
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 4 servings
+1 1/2 pounds lean ground beef
+1/2 teaspoon sea salt, or to taste
+1 teaspoon coarsely ground black pepper, or to taste
+2 teaspoons garlic powder
+1 teaspoon dried rosemary
+1 teaspoon mustard
+1/2 teaspoon ground paprika
+1/2 teaspoon dill weed
+1/2 large white onion, finely chopped
+1 egg, beaten
+1 tablespoon Worcestershire sauce
+3/4 cup finely crushed unsalted saltine crackers
+Directions
+Place ground beef into a large bowl and break into smaller pieces. Cover with salt, black pepper, garlic powder, rosemary, mustard, paprika, and dill weed; knead thoroughly. Knead in onion, egg, and Worcestershire sauce. Mix in crackers until thoroughly incorporated.
+Shape beef mixture into 5-ounce, 1/2-inch thick patties.
+Preheat a grill pan over medium heat. Grill patties until an instant-read thermometer into the center reads 165 degrees F (74 degrees C), 5 to 7 minutes per side.
+Cook’s Note
+I have used a George Foreman grill for this, but be careful if you do! The patties cook faster due to being grilled on both sides. Let them go for about 5 to 6 minutes, then check the internal temperature.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Chopped Steak
+1
+Most-Saved Recipes Like This
+Hamburger Steak with Onions and Gravy 4,472 Ratings 40 mins Save
+Salisbury Steak 4,763 Ratings 40 mins Save
+Slow Cooker Salisbury Steak 2,884 Ratings 4 hrs 15 mins Save
+Salisbury Steak with Mushrooms 1,314 Ratings 40 mins Save
+Country-Style Steak 508 Ratings 2 hrs 35 mins Save
+Chinese Pepper Steak 1,079 Ratings 30 mins Save
+Berdean's Cube Steak 698 Ratings 2 hrs 15 mins Save
+Mock Chicken Fried Steak 198 Ratings 1 hr 30 mins Save
+Country Fried Steak 201 Ratings 25 mins Save
+BBQ Steak 197 Ratings 3 hrs 30 mins Save
+You’ll Also Love

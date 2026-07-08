@@ -1,0 +1,94 @@
+Crab Cake & Egg Scramble
+========================
+
+Recipe Metadata
+---------------
+Recipe ID: bc0436071a5487f5
+CSV row number: 229
+Recipe name: Crab Cake & Egg Scramble
+Source: food.com
+URL: http://www.food.com/recipe/crab-cake-egg-scramble-493548
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/016bf3a636aefcce2cc48f363cab05ce67d44bcb7eeea43a46f0ff001b1d57d7/21101140.jpg
+Servings: 1
+Calories: 925.65
+Diet labels: Low-Carb
+Health labels: none listed
+Allergy cautions: Soy, Sulfites
+Cuisine type: american
+Meal type: lunch/dinner, breakfast
+Dish type: main course, egg, desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Crab Cake & Egg Scramble
+source: food.com
+url: http://www.food.com/recipe/crab-cake-egg-scramble-493548
+servings: 1
+calories: 925.6531817711306
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/016bf3a636aefcce2cc48f363cab05ce67d44bcb7eeea43a46f0ff001b1d57d7/21101140.jpg
+diet_labels: ["Low-Carb"]
+health_labels: []
+cautions: ["Soy","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner","breakfast"]
+dish_type: ["main course","egg","desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Crab Cake &amp; Egg Scramble
+
+Description: I had a small little crab cake left from Recipe#250972 By Recipe Reader and wanted to do something different with it besides just re-heating it. So the cake, and a few other little ingredients became a very enjoyable breakfast. Unless you use the same recipe as I did for the Crab Cake, you may not get the same taste as I did. But everyone likes to put their own spin on recipes, so that's o.k. :) If desired, serve with your favorite bread or English muffin toasted. Posted to Food.com (a.k.a. &quot; ZAAR &quot;) on January 14th., 2013
+
+Recipe category: Breakfast
+
+Yield: 1 serving(s)
+
+Prep time: PT10M
+
+Cook time: PT10M
+
+Total time: PT20M
+
+Ingredients:
+- 2 ounces crab cakes, crumbled
+- 4 tablespoons margarine, divided
+- 2 large eggs, well beaten
+- 1/4 teaspoon ground black pepper
+- 4 tablespoons monterey jack cheese, divided (optional)
+
+Instructions:
+1. In a small skillet, melt 2 Tablespoons of margarine over medium heat.
+2. Add crumbled crab cake into melted margarine and warm through.
+3. Then add remaining margarine and melt,add beaten eggs at this time.
+4. Sprinkle with pepper and 2 Tablespoons of cheese, if using.
+5. Scramble eggs until desired doneness is reached.
+6. Place eggs on a plate and top with the remaining cheese.
+
+Visible page text:
+Crab Cake & Egg Scramble
+ingredients
+2 ounces crab cakes, crumbled
+4 tablespoons margarine , divided
+2 large eggs , well beaten
+1 ⁄ 4 teaspoon ground black pepper
+4 tablespoons monterey jack cheese , divided (optional)
+directions
+In a small skillet, melt 2 Tablespoons of margarine over medium heat.
+Add crumbled crab cake into melted margarine and warm through.
+Then add remaining margarine and melt,add beaten eggs at this time.
+Sprinkle with pepper and 2 Tablespoons of cheese, if using.
+Scramble eggs until desired doneness is reached.
+Place eggs on a plate and top with the remaining cheese.
+Questions & Replies
+Reviews
+RECIPE SUBMITTED BY
+82 Followers
+322 Recipes
+112 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

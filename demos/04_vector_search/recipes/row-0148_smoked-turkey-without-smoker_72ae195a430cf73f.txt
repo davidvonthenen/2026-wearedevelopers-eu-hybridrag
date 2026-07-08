@@ -1,0 +1,106 @@
+Smoked Turkey (Without Smoker)
+==============================
+
+Recipe Metadata
+---------------
+Recipe ID: 72ae195a430cf73f
+CSV row number: 148
+Recipe name: Smoked Turkey (Without Smoker)
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/254884/smoked-turkey-without-smoker
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00ed55222b6a2eb01a10448ff82015b5f95ff0f504191461f429166329334bb3/21020241.jpg
+Servings: 12
+Calories: 6586.55
+Diet labels: High-Protein, Low-Carb
+Health labels: Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Smoked Turkey (Without Smoker)
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/254884/smoked-turkey-without-smoker
+servings: 12
+calories: 6586.554069056001
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00ed55222b6a2eb01a10448ff82015b5f95ff0f504191461f429166329334bb3/21020241.jpg
+diet_labels: ["High-Protein","Low-Carb"]
+health_labels: ["Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Smoked Turkey (Without Smoker)
+
+Description: Create the delicious taste of smoked turkey without the hassle of the meat smoker in this 3-ingredient recipe that is great for holidays.
+
+Recipe category: ['Dinner']
+
+Yield: ['12', '12 servings']
+
+Prep time: PT20M
+
+Cook time: PT420M
+
+Total time: PT1880M
+
+Ingredients:
+- 1 cup sugar-based curing mixture (such as Morton® Tender Quick®)
+- 0.25 cup liquid smoke, or more to taste
+- 1 (12 pound) thawed whole turkey, neck and giblets removed
+- 2 tablespoons cooking oil
+
+Instructions:
+1. Combine curing mixture and liquid smoke together in a bowl; mix into a paste. Pat paste on inside and outside of turkey. Place turkey in a resealable plastic bag; refrigerate for 24 hours.
+2. Preheat oven to 350 degrees F (175 degrees C).
+3. Wash turkey inside and out with cold water; dry. Pat with cooking oil. Place turkey in an oven bag; poke holes into bag for ventilation according to manufacturer&#39;s instructions. Set bagged turkey into a 9x13-inch baking pan.
+4. Bake in the preheated oven for 1 hour. Reduce heat to 250 degrees F (120 degrees C). Bake until turkey comes easily off the bone and an instant-read thermometer inserted into the thickest part of the thigh should read 165 degrees F (74 degrees C), about 6 hours.
+
+Visible page text:
+Holidays and Events Recipes
+Thanksgiving
+Turkey
+Smoked
+Smoked Turkey (Without Smoker)
+This delicious smoked turkey will literally fall off the bones. It may look done, but keep it in oven the entire time for fall-off-the-bone goodness. Delicious!
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 12 servings
+1 cup sugar-based curing mixture (such as Morton® Tender Quick®)
+¼ cup liquid smoke, or more to taste
+1 (12 pound) thawed whole turkey, neck and giblets removed
+2 tablespoons cooking oil
+Directions
+Combine curing mixture and liquid smoke together in a bowl; mix into a paste. Pat paste on inside and outside of turkey. Place turkey in a resealable plastic bag; refrigerate for 24 hours.
+Preheat oven to 350 degrees F (175 degrees C).
+Wash turkey inside and out with cold water; dry. Pat with cooking oil. Place turkey in an oven bag; poke holes into bag for ventilation according to manufacturer's instructions. Set bagged turkey into a 9x13-inch baking pan.
+Bake in the preheated oven for 1 hour. Reduce heat to 250 degrees F (120 degrees C). Bake until turkey comes easily off the bone and an instant-read thermometer inserted into the thickest part of the thigh should read 165 degrees F (74 degrees C), about 6 hours.
+Editor's Note:
+Nutrition data for this recipe includes the full amount of liquid smoke and curing mixture. The actual amount of liquid smoke and curing mixture consumed will vary.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Smoked Turkey (Without Smoker)
+1
+Most-Saved Recipes Like This
+Slow Cooker Turkey Breast 1,663 Ratings 8 hrs 10 mins Save
+Best Turkey Burgers 2,645 Ratings 30 mins Save
+Perfect Turkey 1,772 Ratings 17 hrs Save
+Bacon Wrapped Smokies 1,920 Ratings 1 hr Save
+Homestyle Turkey, the Michigander Way 2,234 Ratings 5 hrs 10 mins Save
+A Simply Perfect Roast Turkey 546 Ratings 4 hrs 45 mins Save
+Juicy Thanksgiving Turkey 928 Ratings 3 hrs 30 mins Save
+Turkey in a Smoker 276 Ratings 9 hrs 40 mins Save
+Slow Cooker Boneless Turkey Breast 191 Ratings 8 hrs 10 mins Save
+Easy Herb-Roasted Turkey 665 Ratings 3 hrs 45 mins Save
+You’ll Also Love

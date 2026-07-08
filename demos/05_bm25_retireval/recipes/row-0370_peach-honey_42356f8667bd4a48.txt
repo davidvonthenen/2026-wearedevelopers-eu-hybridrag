@@ -1,0 +1,73 @@
+Peach Honey
+===========
+
+Recipe Metadata
+---------------
+Recipe ID: 42356f8667bd4a48
+CSV row number: 370
+Recipe name: Peach Honey
+Source: Foodista
+URL: http://www.foodista.com/recipe/YWY8F8YJ/peach-honey
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/025c1ffba2d0f4951ada38cf9e3d2cc39abdfaca6203b0e9afae0e6c35c9632e/21068845.jpg
+Servings: 8
+Calories: 3815.42
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Peach Honey
+source: Foodista
+url: http://www.foodista.com/recipe/YWY8F8YJ/peach-honey
+servings: 8
+calories: 3815.42
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/025c1ffba2d0f4951ada38cf9e3d2cc39abdfaca6203b0e9afae0e6c35c9632e/21068845.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Total Steps
+8
+Ingredients
+3
+Tools Needed
+1
+Related Article
+4 <a href="/food/SHT7274N/peaches">peach</a> kernels
+4 cup <a href="/food/6H6G87VP/sugar">Sugar</a>
+8 cup <a href="/food/SHT7274N/peaches">Peach</a> Juice, (from pealings)
+Instructions
+Step 1
+General directions for all fruit-
+Step 2
+Save all washed, sound pieces and <a href="/technique/RSDQ7YW8/peeling">peelings</a> from fruit used for <a href="/technique/WXJN6QKP/preserve">preserves</a>, <a href="/technique/5LQDVZ7L/pickle">pickles</a> etc. Cover with water and cook
+Step 3
+Slowly in a covered vessel until soft. then put in cheesecloth bag and <a href="/technique/4NXSJQ3D/press">press</a> to remove all <a href="/technique/QDWRNXYW/juice">juice.</a> Drip the <a href="/technique/QDWRNXYW/juice">juice</a> through a
+Step 4
+Jelly bag, <a href="/technique/PPPKH5Q4/measure">measure</a> and return to the fire..
+Step 5
+When it <a href="/technique/W7VKDJHH/boil">boils</a> vigorously, add sugar at the rate 1/2 as much as the <a href="/technique/QDWRNXYW/juice">juice</a>.
+Step 6
+<a href="/technique/W7VKDJHH/boil">Boil</a> rapidly until consistency of honey.
+Step 7
+Pour into sterlized jars. <a href="/technique/K4VJ7RZ7/seal">Seal</a> and process 5 min. May use pear or others..
+Step 8
+Be sure to remove kernels before pouring into jars...
+Tools & Equipment
+Tags
+Cookie Consent
+We use cookies to enhance your browsing experience, serve personalized content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies. Learn more

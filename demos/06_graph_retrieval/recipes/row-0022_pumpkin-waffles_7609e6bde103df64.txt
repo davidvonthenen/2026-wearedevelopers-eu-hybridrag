@@ -1,0 +1,270 @@
+Pumpkin Waffles
+===============
+
+Recipe Metadata
+---------------
+Recipe ID: 7609e6bde103df64
+CSV row number: 22
+Recipe name: Pumpkin Waffles
+Source: strengthandsunshine.com
+URL: https://strengthandsunshine.com/introducing-pumpkin-waffles
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00177023dabcad4aeaaa534e7b53ce27f6be51e80c35ae8a4a897b75d6299cbc/21075735.jpg
+Servings: 1
+Calories: 191.55
+Diet labels: High-Fiber, Low-Fat
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Soy, Sulfites, FODMAP
+Cuisine type: french
+Meal type: breakfast
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Pumpkin Waffles
+source: strengthandsunshine.com
+url: https://strengthandsunshine.com/introducing-pumpkin-waffles
+servings: 1
+calories: 191.5537941
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00177023dabcad4aeaaa534e7b53ce27f6be51e80c35ae8a4a897b75d6299cbc/21075735.jpg
+diet_labels: ["High-Fiber","Low-Fat"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Soy","Sulfites","FODMAP"]
+cuisine_type: ["french"]
+meal_type: ["breakfast"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Pumpkin Waffles
+
+Description: Simple, crispy, and delicious pumpkin waffles! A single-serve, gluten-free, vegan breakfast recipe that's easy and ready in a snap any day of the year! Plus, you can sneak your veggies in!
+
+Recipe category: Breakfast
+
+Recipe cuisine: American
+
+Yield: 1
+
+Ingredients:
+- 1/3 Cup All-Purpose Gluten-Free Flour
+- 1/2 Tsp Baking Powder
+- 1/2 Tsp Cinnamon
+- 1/2 Tsp Pumpkin Pie Spice
+- 1/4 Tsp Pure Madagascar Bourbon Vanilla Extract
+- 1/4 Cup Pure Pumpkin Puree
+- 1/3 Cup Water
+- Maple Syrup (to serve)
+
+Instructions:
+1. Heat your greased waffle iron while you prep the batter.
+2. In a mixing bowl, combine all the waffle ingredients and mix with a fork to combine.
+3. Pour the batter in the heated iron and spread it evenly over the grills.
+4. Close the iron and let it do its magic!
+5. Then remove and serve with your favorite topping, like syrup!
+
+Visible page text:
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+Simple, crispy, and delicious pumpkin waffles! A single-serve, gluten-free, vegan, and allergy-free breakfast recipe that's easy and ready in a snap any day of the year! Plus, you can sneak veggies in for kids and make multiple batches to freeze!
+***This post has been updated in April 2016. Original writing stands***
+Merry Christmas Eve! I am keeping this short because we all should be enjoying this lovely day 🙂 Can you believe that tomorrow really is Christmas! This year flew by, I feel like it was just December of 2012! But then again it also feels like it was really long if I think back to all that has happened since last Christmas.
+Yesterday I was in the kitchen all day and now am so excited to eat what I made! It was torture having to wait until today to try it, haha! That also means 3 new recipes for you guys soon (not to mention the one below!). I also helped my mom with some wrapping. I really do suck at folding the corners but otherwise I am pretty good...I think 😉 And of course I went to Group Power last night. Getting strong and sweaty is always a good way to end the night. Well, anyway, today I need to get ready to head over to my grandparents. I am getting in my workout early today, my usually HIIT on the bike and then yoga! Can't miss a yoga day now can we 😉 I won't delay you any longer. I know you have been anticipating this recipe since I told you yesterday...right? 🙂 Well here we go!
+Pumpkin Waffles
+5 Stars 4 Stars 3 Stars 2 Stars 1 Star
+No reviews
+Simple, crispy, and delicious pumpkin waffles! A single-serve, gluten-free, vegan breakfast recipe that's easy and ready in a snap any day of the year! Plus, you can sneak your veggies in!
+Author: Rebecca Pytell
+Yield: 1 1 x
+Category: Breakfast
+Cuisine: American
+Ingredients
+⅓ Cup All-Purpose Gluten-Free Flour
+½ Tsp Baking Powder
+½ Tsp Cinnamon
+½ Tsp Pumpkin Pie Spice
+¼ Tsp Pure Madagascar Bourbon Vanilla Extract
+¼ Cup Pure Pumpkin Puree
+⅓ Cup Water
+Maple Syrup (to serve)
+Instructions
+Heat your greased waffle iron while you prep the batter.
+In a mixing bowl, combine all the waffle ingredients and mix with a fork to combine.
+Pour the batter in the heated iron and spread it evenly over the grills.
+Close the iron and let it do its magic!
+Then remove and serve with your favorite topping, like syrup!
+Nutrition
+Serving Size: 1
+If you're looking for a fabulous waffle iron that is easy and makes perfect waffles every time, I recommend, 100%, the Hamilton Beach Mess-Free Belgium Style Waffle Maker ! I literally don't even have to clean it after using! The waffles comes off clean and easy! (Plus, it's only $20!)
+Perfect easy breakfast for Christmas Eve morning, Christmas morning, or like...everyday! I can't believe it was this easy and they came out so good! Plus it was a lot quicker than pancakes 🙂
+So tell me:
++ Have you made waffles recently?
++ What will you be making for Christmas breakfast? I can't believe people think pumpkin is only for Thanksgiving and Fall. No, just no. Pumpkin is an all-year-round every day and every way ingredient! I just had my Pumpkin Spice Granola this morning and it is not Thanksgiving 😉
++ What are you doing today? Visiting family, staying home? Prepping for a big Christmas Day?
+I think I may pop in tomorrow just to say hi, but if not MERRY CHRISTMAS !
+———————————————-
+Related
+Reader Interactions
+Comments
+Although waffles aren't a big thing in where I live, they sound like a delish dish. Thank you so very much for this awesome recipe! Reply Alright. Reply
+Although waffles aren't a big thing in where I live, they sound like a delish dish. Thank you so very much for this awesome recipe!
+Alright. Reply
+Alright.
+A great idea to get more nutrients in our food! I love pumpkin. 🙂 Sharing! Reply Thank you! Reply
+A great idea to get more nutrients in our food! I love pumpkin. 🙂 Sharing!
+Thank you! Reply
+Thank you!
+Your pumpkin waffles look so good. What a healthy and delectable way to start the day! Reply Thank you! Reply
+Your pumpkin waffles look so good. What a healthy and delectable way to start the day!
+These look incredible! Pinning so I can give them a try 🙂 Reply Thank you! You will love them! Reply
+These look incredible! Pinning so I can give them a try 🙂
+Thank you! You will love them! Reply
+Thank you! You will love them!
+I love all things pumpkin! Waffles sound amazing! Wish I had some right now. Reply Totally! Reply
+I love all things pumpkin! Waffles sound amazing! Wish I had some right now.
+Totally! Reply
+Totally!
+Those look delicious! I have to try them 🙂 I love pumpkin in this kind of recepies 🙂 Reply Pumpkin wins in any recipe! Reply
+Those look delicious! I have to try them 🙂 I love pumpkin in this kind of recepies 🙂
+Pumpkin wins in any recipe! Reply
+Pumpkin wins in any recipe!
+Anything pumpkin gets my vote. Reply Same here! Reply
+Anything pumpkin gets my vote.
+Same here! Reply
+Same here!
+These waffles look delicious! I love the fact that this is just another way that you can get your kids to eat vegetables... without them knowing! lol! 🙂 Reply Haha, yes, but the best part is they will LOVE eating "veggies" 😉 Reply
+These waffles look delicious! I love the fact that this is just another way that you can get your kids to eat vegetables... without them knowing! lol! 🙂
+Haha, yes, but the best part is they will LOVE eating "veggies" 😉 Reply
+Haha, yes, but the best part is they will LOVE eating "veggies" 😉
+I'm definitely going to have to try these; they look amazing, and we're GF at our house. I'm pinning them so I don't forget about it. Reply You will not be let down! They are so yummy! Reply
+I'm definitely going to have to try these; they look amazing, and we're GF at our house. I'm pinning them so I don't forget about it.
+You will not be let down! They are so yummy! Reply
+You will not be let down! They are so yummy!
+These look so yummy, never tried pumpkin before ... Reply That's insane! Reply
+These look so yummy, never tried pumpkin before ...
+That's insane! Reply
+That's insane!
+The waffles look delicious and I loved reading about Christmas today. Sweet 🙂 Reply Hahahaha! Thank you! Reply
+The waffles look delicious and I loved reading about Christmas today. Sweet 🙂
+Hahahaha! Thank you! Reply
+Hahahaha! Thank you!
+My husband and my sister would love these Pumpkin Pancakes and I can't wait to make them for them. As my sisters Birthday is on the 4th of May and this would be the best present ever for her. Reply Yes they would! She would love some I'm sure! Reply
+My husband and my sister would love these Pumpkin Pancakes and I can't wait to make them for them. As my sisters Birthday is on the 4th of May and this would be the best present ever for her.
+Yes they would! She would love some I'm sure! Reply
+Yes they would! She would love some I'm sure!
+These sound so simple to make! Your waffle iron makes super cute shapes too. I don't think I was reading your blog back when you originally posted this - it's nice seeing something from the past 🙂 I'm pinning & sharing. Reply That's because it makes STICKS! Haha! The best waffles! Reply
+These sound so simple to make! Your waffle iron makes super cute shapes too. I don't think I was reading your blog back when you originally posted this - it's nice seeing something from the past 🙂 I'm pinning & sharing.
+That's because it makes STICKS! Haha! The best waffles! Reply
+That's because it makes STICKS! Haha! The best waffles!
+Once again you're making me hungry!! I think you should put together a pumpkin cookbook! Reply Hahaha, that could happen 😉 Reply
+Once again you're making me hungry!! I think you should put together a pumpkin cookbook!
+Hahaha, that could happen 😉 Reply
+Hahaha, that could happen 😉
+I'm up for anything Pumpkin Pie and Vegan! Yum! Reply Haha, I always am! Reply
+I'm up for anything Pumpkin Pie and Vegan! Yum!
+Haha, I always am! Reply
+Haha, I always am!
+My mouth is now watering! It's not even pumpkin season, but I could eat all the pumpkins all year long! I will have to try these. Thanks for sharing. Reply Pumpkin has no season in my life 😉 Hahaha! Reply
+My mouth is now watering! It's not even pumpkin season, but I could eat all the pumpkins all year long! I will have to try these. Thanks for sharing.
+Pumpkin has no season in my life 😉 Hahaha! Reply
+Pumpkin has no season in my life 😉 Hahaha!
+These look so delicious! Thanks for sharing the recipe. 🙂 Reply Enjoy! Reply
+These look so delicious! Thanks for sharing the recipe. 🙂
+Enjoy! Reply
+Enjoy!
+These look so yummy!!!!! I want to try this asap 😀 Blessings, Edye // Gracefulcoffee Reply I hope you do! Enjoy! Reply
+These look so yummy!!!!! I want to try this asap 😀
+Blessings, Edye // Gracefulcoffee
+I hope you do! Enjoy! Reply
+I hope you do! Enjoy!
+I need pumpkin pie spice in Germany!! These look delicious 😀 Reply You can make your own, my friend ! Reply
+I need pumpkin pie spice in Germany!! These look delicious 😀
+You can make your own, my friend ! Reply
+You can make your own, my friend !
+It looks great, I love anything pumpkin! I'm not allergic, so I don't care if it's gluten free or not. I'm pinning it. Thanks for sharing. this yummy recipe. FABBY Reply Enjoy! Reply
+It looks great, I love anything pumpkin! I'm not allergic, so I don't care if it's gluten free or not. I'm pinning it. Thanks for sharing. this yummy recipe. FABBY
+Yum! I literally just picked up a waffle iron the other week, so happy to have a new recipe to try out in there! I also happen to have some pumpkin in the cupboard - yay 🙂 Reply Awesome!!!! You are going to become waffle obsessed! Reply
+Yum! I literally just picked up a waffle iron the other week, so happy to have a new recipe to try out in there! I also happen to have some pumpkin in the cupboard - yay 🙂
+Awesome!!!! You are going to become waffle obsessed! Reply
+Awesome!!!! You are going to become waffle obsessed!
+Well I just had a mini panic attack. Christmas? What?! It pays to read the bold print. 😉 I love pumpkin waffles, they really are the most delicious things. Your waffle iron leaves the coolest pattern. Reply Bahahaha! You've been in a coma the last 7 months 😉 Best waffle iron there is! Reply
+Well I just had a mini panic attack. Christmas? What?! It pays to read the bold print. 😉 I love pumpkin waffles, they really are the most delicious things. Your waffle iron leaves the coolest pattern.
+Bahahaha! You've been in a coma the last 7 months 😉 Best waffle iron there is! Reply
+Bahahaha! You've been in a coma the last 7 months 😉 Best waffle iron there is!
+I so wanna eat it right out of the screen - this looks absolutely yum!! Reply Hahaha, perfect 😉 Thanks Molly! Reply
+I so wanna eat it right out of the screen - this looks absolutely yum!!
+Hahaha, perfect 😉 Thanks Molly! Reply
+Hahaha, perfect 😉 Thanks Molly!
+I have a waffle maker just sitting there. You have inspired me to get it out and try these. Reply Perfect! It should always be in easy reach 😉 Reply
+I have a waffle maker just sitting there. You have inspired me to get it out and try these.
+Perfect! It should always be in easy reach 😉 Reply
+Perfect! It should always be in easy reach 😉
+Hi Rebecca, This sounds like a breakfast worth getting up for -- tasty & Pinned & tweeted! Reply Yes! Thank you! Reply
+Hi Rebecca, This sounds like a breakfast worth getting up for -- tasty & Pinned & tweeted!
+Yes! Thank you! Reply
+Yes! Thank you!
+This is so yum! Now I need to buy a waffle iron ???? Reply Yes you do! Kitchen essential for us chefs! Reply
+This is so yum! Now I need to buy a waffle iron ????
+Yes you do! Kitchen essential for us chefs! Reply
+Yes you do! Kitchen essential for us chefs!
+Sooo, I PROMISE I'm buying that waffle iron this weekend. I've got some other things to get from Amazon too. I seriously thought I had hit the buy button after I added it to my cart last time, but whatever...mommy brain. Love the crispy edges on this delicious looking pumpkin waffles!! Yum! Reply You made me cry when you said you still hadn't bought it!!! You are missing out on waffle heaven!!!! Reply
+Sooo, I PROMISE I'm buying that waffle iron this weekend. I've got some other things to get from Amazon too. I seriously thought I had hit the buy button after I added it to my cart last time, but whatever...mommy brain. Love the crispy edges on this delicious looking pumpkin waffles!! Yum!
+You made me cry when you said you still hadn't bought it!!! You are missing out on waffle heaven!!!! Reply
+You made me cry when you said you still hadn't bought it!!! You are missing out on waffle heaven!!!!
+Pumpkin and waffles - two of my favorite things! Thanks 🙂 Reply Heck yea! Reply
+Pumpkin and waffles - two of my favorite things! Thanks 🙂
+Heck yea! Reply
+Heck yea!
+These look delicious! We make pancakes with sweet potato, but pumpkin would be a nice change of pace! It's hard finding tasty food for my daughters who are allergic to gluten, dairy, soya, egg, oats and peas beans and lentils, thank you so much for sharing this recipe. Reply O well everyone will love these! Reply
+These look delicious! We make pancakes with sweet potato, but pumpkin would be a nice change of pace! It's hard finding tasty food for my daughters who are allergic to gluten, dairy, soya, egg, oats and peas beans and lentils, thank you so much for sharing this recipe.
+O well everyone will love these! Reply
+O well everyone will love these!
+These look divine! Pumpkin puree works so well in gluten-free recipes and this one looks like a winner. Reply Keeps them nice and moist! Reply
+These look divine! Pumpkin puree works so well in gluten-free recipes and this one looks like a winner.
+Keeps them nice and moist! Reply
+Keeps them nice and moist!
+Hello breakfast! I love the pumpkin flavor. And waffles are just the best. My kids eat them a lot and LOVE them! Reply Yea!! Waffles are so fun to eat at any age! Reply
+Hello breakfast! I love the pumpkin flavor. And waffles are just the best. My kids eat them a lot and LOVE them!
+Yea!! Waffles are so fun to eat at any age! Reply
+Yea!! Waffles are so fun to eat at any age!
+No waffle iron here, but I imagine these would work just fine as pancakes too, and I have two cups pumpkin puree sitting in my freezer needing to be used. A few batches of this, plus our favorite pumpkin scones ought to do the trick, yes? Reply Then you should make my pumpkin pancakes here . Reply
+No waffle iron here, but I imagine these would work just fine as pancakes too, and I have two cups pumpkin puree sitting in my freezer needing to be used. A few batches of this, plus our favorite pumpkin scones ought to do the trick, yes?
+Then you should make my pumpkin pancakes here . Reply
+Then you should make my pumpkin pancakes here .
+Sounds like a really easy batter, and they turn out so, so pretty! Love it! Reply Thanks Patricia! Reply
+Sounds like a really easy batter, and they turn out so, so pretty! Love it!
+Thanks Patricia! Reply
+Thanks Patricia!
+these look amazing! I love pumpkin anything so thanks for this! Reply Woohoo! Pumpkin always rocks! Reply
+these look amazing! I love pumpkin anything so thanks for this!
+Woohoo! Pumpkin always rocks! Reply
+Woohoo! Pumpkin always rocks!
+i think pumpkin year round is a great idea, and i LOVE these waffles Reply Totally! Thanks Heather! Reply
+i think pumpkin year round is a great idea, and i LOVE these waffles
+Totally! Thanks Heather! Reply
+Totally! Thanks Heather!
+Yum! Waffles are one of my favorite breakfast foods! I think I need to make these, especially this fall! Thanks for sharing! Reply They are so crisp and great! Reply
+Yum! Waffles are one of my favorite breakfast foods! I think I need to make these, especially this fall! Thanks for sharing!
+They are so crisp and great! Reply
+They are so crisp and great!
+That waffle looks perfect, Rebecca! I'm craving it now even though it's April 😉 Looks delicious! Reply Thank you Vanessa 🙂 I am too! Reply
+That waffle looks perfect, Rebecca! I'm craving it now even though it's April 😉 Looks delicious!
+Thank you Vanessa 🙂 I am too! Reply
+Thank you Vanessa 🙂 I am too!
+These sound so good! We will share this on Pinterest. Reply Ha, thanks! Reply
+These sound so good! We will share this on Pinterest.
+Ha, thanks! Reply
+Ha, thanks!
+These look amazing! Adding them to the breakfast rotation! Reply Awesome! Haha me too now that I know just how easy waffles are to make 🙂 I really missed not eating them for years. Reply
+These look amazing! Adding them to the breakfast rotation!
+Awesome! Haha me too now that I know just how easy waffles are to make 🙂 I really missed not eating them for years. Reply
+Awesome! Haha me too now that I know just how easy waffles are to make 🙂 I really missed not eating them for years.
+Anyone who eats pumpkin year round is my bff 🙂 My husband actually said to me yesterday "Oh I'm so glad that pumpkin foods are done for a whole year" and I almost killed him (jk!). Every Christmas morning since I was a little girl, my mom makes a tube of Pillsbury cinnamon rolls. It's the tradition to unwrap our stockings while they're cooking, and then take a break to eat them before opening presents! Tomorrow is the first Christmas that I'll be home in a long time and I'm really excited for those cinnamon buns! Reply
+Anyone who eats pumpkin year round is my bff 🙂 My husband actually said to me yesterday "Oh I'm so glad that pumpkin foods are done for a whole year" and I almost killed him (jk!). Every Christmas morning since I was a little girl, my mom makes a tube of Pillsbury cinnamon rolls. It's the tradition to unwrap our stockings while they're cooking, and then take a break to eat them before opening presents! Tomorrow is the first Christmas that I'll be home in a long time and I'm really excited for those cinnamon buns!
+Leave a Reply Cancel reply
+This site uses Akismet to reduce spam. Learn how your comment data is processed.

@@ -1,0 +1,74 @@
+Broken Noodle Zucchini Soup
+===========================
+
+Recipe Metadata
+---------------
+Recipe ID: e197c8c169618343
+CSV row number: 177
+Recipe name: Broken Noodle Zucchini Soup
+Source: gardendish.com
+URL: http://www.gardendish.com/broken-noodle-zucchini-soup/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0115c909573c8c370bb6ba7ba8645b497893d043aa350a918878d299b2e6c1ae/21111562.jpg
+Servings: 8
+Calories: 2226.59
+Diet labels: High-Fiber, Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: asian
+Meal type: lunch/dinner
+Dish type: soup
+
+Original CSV Fields
+-------------------
+recipe_name: Broken Noodle Zucchini Soup
+source: gardendish.com
+url: http://www.gardendish.com/broken-noodle-zucchini-soup/
+servings: 8
+calories: 2226.594199099732
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0115c909573c8c370bb6ba7ba8645b497893d043aa350a918878d299b2e6c1ae/21111562.jpg
+diet_labels: ["High-Fiber","Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["asian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["soup"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+If you think 16 cups of soup is a lot for four people, well, that’s the beauty of low calorie-density foods. So enjoy and eat heartily!
+Ingredients
+1 medium - onion, chopped
+1 medium - poblano chili pepper, seeded and diced
+2 Tbs - dried oregano
+8 cups - water
+4 medium - zucchini, chopped
+1 16 oz pkg - frozen mixed vegetables (peas, carrots, corn, and green beans)
+1 16 oz pkg - whole-wheat fettuccini or spaghetti, broken in quarters
+Instructions
+In a soup pot over medium heat, sauté the onion, poblano pepper, and dried oregano until the vegetables are tender, about 3 minutes. Add a little water as needed to prevent sticking.
+Add the water, zucchini, mixed vegetables, and spaghetti noodles, cover, and cook for about 15 minutes, until the pasta is tender. Salt to taste.
+Nutrition Information
+Nutrition (per serving): 507 calories, 78% calories from carbohydrates, 15% calories from protein, 8% calories from fat, 19g fiber.
+Search
+Categories
+Recipes The Basics Breakfast Sandwiches and Wraps Soups, Stews, and Chilis Appetizers and Snacks Entrees Sides Breads Desserts Salads and Dressings Holidays and Events Preserving
+The Basics
+Breakfast
+Sandwiches and Wraps
+Soups, Stews, and Chilis
+Appetizers and Snacks
+Entrees
+Sides
+Breads
+Desserts
+Salads and Dressings
+Holidays and Events
+Preserving
+Taste Testing
+Blog
+Get Social

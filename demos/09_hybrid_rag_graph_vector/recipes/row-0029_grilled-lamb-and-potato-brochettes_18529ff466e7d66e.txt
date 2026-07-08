@@ -1,0 +1,86 @@
+Grilled Lamb and Potato Brochettes
+==================================
+
+Recipe Metadata
+---------------
+Recipe ID: 18529ff466e7d66e
+CSV row number: 29
+Recipe name: Grilled Lamb and Potato Brochettes
+Source: Men's Health
+URL: https://www.menshealth.com/recipes/grilled-lamb-and-potato-brochettes
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0022be3d203d68c9dfa461b8c4e54223a154f9c0f2f9e7fc7effb603176fb01d/21089863.jpg
+Servings: 26
+Calories: 9251.93
+Diet labels: Low-Carb
+Health labels: Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Grilled Lamb and Potato Brochettes
+source: Men's Health
+url: https://www.menshealth.com/recipes/grilled-lamb-and-potato-brochettes
+servings: 26
+calories: 9251.932710365249
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0022be3d203d68c9dfa461b8c4e54223a154f9c0f2f9e7fc7effb603176fb01d/21089863.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Veggies with Creamy Cashew-Miso Aioli
+Steamed Silken Tofu and Shiitake Parcels
+Poached Chicken with Herbed Rice and Pepper Relish
+Halibut in Tomato-Fennel Broth
+Nutritious Pasta Recipes to Cook All Week Long
+Tagliatelle With Creamy Gochujang Tofu Sauce
+Harvest Spaghetti
+Cavatappi With Moroccan-Spiced Chicken
+Antipasto Pasta Salad
+Kaiserschmarrn With Roasted Mixed Berries
+Blueberry Corn Salad
+Raspberry, Pineapple, and Feta Salad
+Blackberry-Balsamic Glazed Pork Skewers
+Green Summer Minestrone
+Soba With Chicken and Baby Greens
+Salmon, Avocado, and Citrus Salad
+Blueberry-Chia Jam Oat Cake
+Jammy Tomato and Tofu Burrito Bowls
+Frijoles-Stuffed Peppers
+Protein-Packed Lentil Salad With Chicken and Fresh
+Green Juice Smoothies
+Golden Turmeric Pickled Eggs
+Strawberry Citrus Shrimp "Ceviche"
+Broiled Mackerel With Agrodolce Tomatoes
+Satay-Style Cauliflower
+Mocha Overnight Oats
+Collard Green ‘Noodles’ and Chicken With Peanut Sa
+Make These 2 Nutritious Snacks, Stat
+Jennifer Garner Reveals Her Go-To Elektra Smoothie
+Portobellos With Cannellini and Chimichurri
+Quick and Easy Grab-and-Go Breakfast Ideas
+22 Healthy Mediterranean Diet Breakfast Recipes
+Red Wine Risotto With Mushrooms and Radicchio
+Roasted Mushrooms on Greens With Miso Dressing
+Saucy Chipotle Pork Tenderloin
+Smashed Sunchokes and Potatoes
+Banana-Chocolate Chip Muffins
+Smoky Glazed Chickpeas
+Fried Green Moong Dal Cakes
+Banana and Coconut Baked Tempeh
+Sticky Riesling Chicken
+Tomato-Poached Cod With Olives and Capers
+Curried Spaghetti Squash and Collards
+Spinach Salad With Crispy Lentils and Aged Gouda

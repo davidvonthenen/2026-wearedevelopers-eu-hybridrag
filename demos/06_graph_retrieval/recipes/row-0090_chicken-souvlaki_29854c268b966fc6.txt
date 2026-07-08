@@ -1,0 +1,78 @@
+Chicken Souvlaki
+================
+
+Recipe Metadata
+---------------
+Recipe ID: 29854c268b966fc6
+CSV row number: 90
+Recipe name: Chicken Souvlaki
+Source: thefamilydinnerproject.org
+URL: https://thefamilydinnerproject.org/food/chicken-souvlaki
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0081a004e7015466f93c892a461186ef190558cedc05ea9f7f1017d366f61359/21128477.jpg
+Servings: 4
+Calories: 4005.46
+Diet labels: Low-Carb
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Chicken Souvlaki
+source: thefamilydinnerproject.org
+url: https://thefamilydinnerproject.org/food/chicken-souvlaki
+servings: 4
+calories: 4005.463363
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0081a004e7015466f93c892a461186ef190558cedc05ea9f7f1017d366f61359/21128477.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Want to share this page with your friends?
+Interested in partnering with The Family Dinner Project?
+Bring us to your community with workshops, partnership programs, and more! Learn more
+the FamilyDinnerProject.org
+Chicken Souvlaki
+To make this dish easier to put together, use leftover cooked chicken or rotisserie chicken from the supermarket.
+Ingredients
+Serves 4
+4 pita breads
+1 tsp. dried oregano
+1/4 tsp. freshly ground black pepper
+1 Tbsp. fresh lemon juice
+1/4 cup extra-virgin olive oil, plus oil for sautéing the chicken
+4 boneless, skinless chicken breasts, cut into pieces
+1/2 cup plain yogurt
+1 small cucumber, diced
+1 1/2 Tbsp. minced fresh dill
+Instructions
+Heat oven to 200 degrees F. Wrap the bread in foil and place in oven.
+In a large bowl, combine the oregano, thyme, pepper and lemon juice. Slowly add the oil in a steady stream, whisking constantly until incorporated.
+Pour the vinaigrette over the chicken and let marinate for 10 minutes at room temperature.
+Heat a large skillet over medium-high heat and fill it with a little more olive oil. Transfer the chicken but not the liquid to the skillet and heat, turning occasionally, until cooked through, about 5 minutes.
+Meanwhile, in a small bowl, combine the yogurt, cucumber and dill. Spread the bread with some of the yogurt sauce and top with the chicken.
+Share
+About Us
+Project Team
+Privacy Policy
+Terms of Use
+FAQ
+FDP in the News
+Partners
+Facebook
+Twitter
+Threads
+Instagram
+2026 The Family Dinner Project

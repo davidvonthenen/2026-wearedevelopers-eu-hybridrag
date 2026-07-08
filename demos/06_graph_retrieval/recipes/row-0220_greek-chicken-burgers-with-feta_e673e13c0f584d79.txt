@@ -1,0 +1,100 @@
+Greek Chicken Burgers With Feta
+===============================
+
+Recipe Metadata
+---------------
+Recipe ID: e673e13c0f584d79
+CSV row number: 220
+Recipe name: Greek Chicken Burgers With Feta
+Source: food.com
+URL: http://www.food.com/recipe/greek-chicken-burgers-with-feta-498952
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0163f60d7afd22637fd9ba87f43f585f52a62e46510be90c429ac6012b6bde75/21135990.jpg
+Servings: 4
+Calories: 1107.79
+Diet labels: Low-Carb
+Health labels: Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: greek, mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Greek Chicken Burgers With Feta
+source: food.com
+url: http://www.food.com/recipe/greek-chicken-burgers-with-feta-498952
+servings: 4
+calories: 1107.790170526567
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0163f60d7afd22637fd9ba87f43f585f52a62e46510be90c429ac6012b6bde75/21135990.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["greek","mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Greek Chicken Burgers With Feta
+
+Description: Make and share this Greek Chicken Burgers With Feta recipe from Food.com.
+
+Recipe category: Chicken
+
+Yield: 4 serving(s)
+
+Prep time: PT20M
+
+Cook time: PT10M
+
+Total time: PT30M
+
+Ingredients:
+- 1 lb ground chicken
+- 1/2 cup dry breadcrumbs
+- 1 egg
+- 1 tablespoon lemon juice
+- 2 tablespoons chopped sun-dried tomatoes
+- 1 tablespoon chopped fresh basil
+- 3 teaspoons chopped fresh oregano
+- salt and pepper
+- 2 ounces crumbled feta cheese
+
+Instructions:
+1. Preheat an outdoor grill for medium-high heat, and lightly oil the grate.
+2. Mix the chicken, bread crumbs, egg, lemon juice, sun-dried tomatoes, basil, oregano, salt, and pepper together in a bowl; form the mixture into 4 thin patties.
+3. Divide the feta cheese between the 4 patties; place a portion of the feta cheese atop each patty and fold the chicken mixture around the cheese so that the cheese is in the center and seal well.
+4. Cook on the preheated grill until no longer pink on the inside and the juices run clear, about 5 minutes per side. An instant-read thermometer inserted into the center should read 165 degrees F (75 degrees C).
+
+Visible page text:
+Greek Chicken Burgers With Feta
+ingredients
+1 lb ground chicken
+1 ⁄ 2 cup dry breadcrumbs
+1 egg
+1 tablespoon lemon juice
+2 tablespoons chopped sun-dried tomatoes
+1 tablespoon chopped fresh basil
+3 teaspoons chopped fresh oregano
+salt and pepper
+2 ounces crumbled feta cheese
+directions
+Preheat an outdoor grill for medium-high heat, and lightly oil the grate.
+Mix the chicken, bread crumbs, egg, lemon juice, sun-dried tomatoes, basil, oregano, salt, and pepper together in a bowl; form the mixture into 4 thin patties.
+Divide the feta cheese between the 4 patties; place a portion of the feta cheese atop each patty and fold the chicken mixture around the cheese so that the cheese is in the center and seal well.
+Cook on the preheated grill until no longer pink on the inside and the juices run clear, about 5 minutes per side. An instant-read thermometer inserted into the center should read 165 degrees F (75 degrees C).
+Questions & Replies
+Reviews
+Made for the ZWT #9 and it's a keeper! Delicious and moist, we will have these again. Thanks for posting. CaliforniaJan Reply
+These burgers are really good! However, I did not stuff these, and instead just put the feta on top of the patties. I also topped these with some sliced black olives and tomatoes. I loved the addition of sun-dried tomatoes to the ground chicken- I will double the amount next time. rpgaymer Reply
+RECIPE SUBMITTED BY
+169 Followers
+1624 Recipes
+232 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

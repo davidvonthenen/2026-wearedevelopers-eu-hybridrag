@@ -1,0 +1,122 @@
+Roast Beef And Horseradish Slaw Sandwich
+========================================
+
+Recipe Metadata
+---------------
+Recipe ID: bab9f9e1543e6934
+CSV row number: 385
+Recipe name: Roast Beef And Horseradish Slaw Sandwich
+Source: Real Simple
+URL: http://www.realsimple.com/food-recipes/browse-all-recipes/roast-beef-horseradish-slaw-00000000041928/index.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0271c762609885e9ef18fcd2b2daf26d972e428b2bcc324d9450ddda75d39798/21062711.jpg
+Servings: 4
+Calories: 403.22
+Diet labels: Low-Sodium
+Health labels: Dairy-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Soy, Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: sandwiches
+
+Original CSV Fields
+-------------------
+recipe_name: Roast Beef And Horseradish Slaw Sandwich
+source: Real Simple
+url: http://www.realsimple.com/food-recipes/browse-all-recipes/roast-beef-horseradish-slaw-00000000041928/index.html
+servings: 4
+calories: 403.2197547682625
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0271c762609885e9ef18fcd2b2daf26d972e428b2bcc324d9450ddda75d39798/21062711.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Dairy-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Soy","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["sandwiches"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: How to Make a Sour Cream Substitute
+
+Description: Learn to make a sour cream substitute from scratch with just three ingredients. Then use it the next time you bake a moist pound cake or banana bread.
+
+Recipe category: ['Condiment']
+
+Recipe cuisine: ['American']
+
+Yield: 1 1/4 cup sour cream
+
+Total time: PT1450M
+
+Ingredients:
+- 0.25 cup whole milk
+- 1 teaspoon distilled white vinegar
+- 1 cup heavy cream
+
+Instructions:
+1. Whisk the milk and vinegar together in a small bowl and let sit for 10 minutes.
+2. Pour the heavy cream into a jar, then add the milk and vinegar mixture. Stir well to combine, then cover the jar (you can use a lid, or a cheesecloth kitchen towel secured with a rubber band).
+3. Let the cream stand for at least 24 hours at room temperature, or up to 48 hours. This will give the lactic acid bacteria time to ferment, thicken, and sour the cream. The acidity of the mixture will prevent the dairy from spoilage. Chill prior to serving.
+
+Visible page text:
+Food
+Recipes
+How to Make a Sour Cream Substitute
+Making sour cream from scratch only requires three ingredients: milk, distilled white vinegar, and heavy cream.
+Betty Gold is the former senior digital food editor at Real Simple.
+Sour cream is one of those universal ingredients that pops up in both savory and sweet dishes. Not only does it serve as a tangy topping for chili , but it thickens pan sauces, gives a flavor boost to mashed potatoes, and makes cakes and muffins moist. In other words, it's probably a pretty indispensable part of your cooking repertoire.
+The best part? If you run out, you can make a sour cream substitute with no cooking and very little effort. All you need is three ingredients (milk, distilled white vinegar, and heavy cream) and 24-48 hours to let it ferment and thicken. Here's everything you need to know to make your own sour cream from scratch.
+Ingredients
+¼ cup whole milk
+1 teaspoon distilled white vinegar
+1 cup heavy cream
+Directions
+Whisk the milk and vinegar together in a small bowl and let sit for 10 minutes.
+Pour the heavy cream into a jar, then add the milk and vinegar mixture. Stir well to combine, then cover the jar (you can use a lid, or a cheesecloth kitchen towel secured with a rubber band).
+Let the cream stand for at least 24 hours at room temperature, or up to 48 hours. This will give the lactic acid bacteria time to ferment, thicken, and sour the cream. The acidity of the mixture will prevent the dairy from spoilage. Chill prior to serving. Credit: Magone/Getty Images
+Let the cream stand for at least 24 hours at room temperature, or up to 48 hours. This will give the lactic acid bacteria time to ferment, thicken, and sour the cream. The acidity of the mixture will prevent the dairy from spoilage. Chill prior to serving.
+What Recipes Can I Use This Sour Cream Substitute For?
+This sour cream recipe is pretty close to the real deal, so go ahead and use it anywhere that you might use sour cream. It'll be especially helpful for baked goods, dips, and dishes that call for sour cream mixed in.
+Here are a few recipes to try:
+Sour Cream Mashed Potatoes
+Sour cream and potatoes go beautifully together. Adding sour cream to your mashed potatoes (alongside plenty of butter and cream) makes them even richer.
+Caramelized Shallot Dip
+Sour cream is absolutely essential for dips. This tasty version features caramelized shallots for a sweeter take on the classic onion dip.
+Chicken Paprikash Soup
+The classic Hungarian dish—featuring sour cream and paprika—makes a lovely and easy weeknight meal.
+Sheet Pan Pavlova With Berries and Mangoes
+Pavlova may seem intimidating (all that meringue!), but it's pretty easy to put together. Adding a little sour cream to the whipped cream gives a nice bit of tartness to balance out the sweetness of the meringue and macerated fruit.
+Creamy Smoked Fish Dip
+Seafood has become a hot appetizer option. (Just look at the seacuterie trend!) Sour cream and cream cheese give this dip its creaminess, while cornichons and smoked trout or salmon give it plenty of flavor.
+Creamy Enchilada Soup
+Jennifer Causey, Food Stylist: Julian Hensarling, Prop Stylist: Christina Daley
+This super-easy recipe comes together in just 15 minutes. Its creaminess comes from a generous dollop of sour cream.
+Pistachio Walnut Cheesecake
+Greg DuPree
+Sour cream and cream cheese are the classic duo behind pretty much every decadent cheesecake recipe. Speculoos cookies can be swapped in for the traditional graham crackers in the crust, and ground up with walnuts and pistachios
+Other Substitutes for Sour Cream
+If you don't have the time to craft this homemade sour cream recipe, there are other things you can use in lieu of sour cream.
+Crème Fraîche
+This French-style sour cream is a little thicker and richer and less sour, but still works beautifully as a spot-on sour cream substitute.
+Greek Yogurt
+Greek yogurt is another easy sour cream swap, thanks to its creaminess and tart flavor. People often pick it in lieu of sour cream if they're trying to make a recipe a little lighter.
+Crema
+Mexican crema is very similar to sour cream, but a bit thicker and richer than American-style sour cream.
+Mayonnaise
+Mayo is often paired with sour cream in dips, so it's no surprise that this creamy, tangy condiment makes a pretty good substitute. Mayo works best in dips, sauces, and baked goods.
+Buttermilk
+Subbing buttermilk for sour cream works great for flavor, but isn't ideal for consistency—since it's liquid, you won't be popping a dollop of it onto your tacos. If you do use it in a recipe, you'll need a little less buttermilk than the amount of sour cream the recipe calls for. Think 3/4 cup of buttermilk for every cup of sour cream.
+Cream Cheese
+Sour cream's cheesecake compadre makes for a pretty stellar substitute, since it shares that creaminess and a touch of tartness, too.
+Mascarpone Cheese
+This tiramisu essential is an even creamier and silkier cheese that matches the sour cream texture well, but is a bit sweeter. (You can add a touch of lemon juice to bring that tartness to the recipe.)
+Vegan Sour Cream
+Vegan sour cream is a pretty obvious (and easy) substitution for the dairy version.
+Ways to Use Up Leftover Sour Cream
+If the recipe you want leaves you with a little leftover sour cream, there are ways to make sure it doesn't go to waste (besides taking a gander at a few of the recipes above).
+Consider adding a little in with Greek yogurt as part of a breakfast parfait to make it even creamier. You can chop up fresh herbs (a great way to use any leftovers of those!) and use it to make a spread for sandwiches or a dip for veggies. A little sour cream can be mixed in to your favorite mac and cheese recipe, or other recipes that could do with an extra touch of creaminess. And you can sub in sour cream for some of the liquid in your pancake or waffle recipes to add an extra touch of tart.
+Related Articles

@@ -1,0 +1,99 @@
+Australian Style Potato Salad
+=============================
+
+Recipe Metadata
+---------------
+Recipe ID: 08966b3c520671c3
+CSV row number: 446
+Recipe name: Australian Style Potato Salad
+Source: food.com
+URL: http://www.food.com/recipe/australian-style-potato-salad-371566
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02de06f6524f88205a07460cf9da9198404a3060b558c3d268d961f849ac277f/21115847.jpg
+Servings: 8
+Calories: 2296.78
+Diet labels: High-Fiber
+Health labels: Vegetarian, Dairy-Free, Gluten-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Soy, Sulfites
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Australian Style Potato Salad
+source: food.com
+url: http://www.food.com/recipe/australian-style-potato-salad-371566
+servings: 8
+calories: 2296.780865
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02de06f6524f88205a07460cf9da9198404a3060b558c3d268d961f849ac277f/21115847.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Vegetarian","Dairy-Free","Gluten-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Soy","Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Australian Style Potato Salad
+
+Description: This is a recipe that I found on the inmamaskitchen website, posted by Margaret Walker, which I am posting here for the Zaar World Tour event. It appealed to me because it is very similar to the potato salad recipe that my mom made for our summertime picnics and potluck gatherings. There is a note at the berginning of the instructions that states there are many varieties of deli-style mustards, and it is best that you not use a smooth mustard for this recipe, but rather you should use a mustard that has a trace of seed still in it.
+
+Recipe category: Potato
+
+Yield: 6-8 serving(s)
+
+Prep time: PT15M
+
+Cook time: PT45M
+
+Total time: PT1H
+
+Ingredients:
+- 6 large potatoes, rinsed in cool water
+- 1 onion, chopped
+- 1/2 cup fresh parsley, chopped
+- 1 tablespoon fresh cilantro, chopped
+- 1 teaspoon deli-style mustard
+- 1/2 cup low-fat mayonnaise
+- 2 hard-boiled eggs, chopped
+- salt and pepper
+
+Instructions:
+1. Gently boil potatoes until a skewer will penetrate to the centre. Turn off heat, pour off water and fill the pot with cold water. Leave until potatoes are quite cold. Lift from water and peel off outer skin of potatoes. Chop potatoes into even sized cubes and place into a bowl with onion, parsley and cilantro.
+2. In small bowl mix together the mustard and mayonnaise. Add to potatoes with chopped eggs, and desired amount of salt and pepper. Mix gently to combine.
+3. Refrigerate until ready to serve.
+
+Visible page text:
+Australian Style Potato Salad
+ingredients
+6 large potatoes , rinsed in cool water
+1 onion , chopped
+1 ⁄ 2 cup fresh parsley , chopped
+1 tablespoon fresh cilantro , chopped
+1 teaspoon deli-style mustard
+1 ⁄ 2 cup low-fat mayonnaise
+2 hard-boiled eggs , chopped
+salt and pepper
+directions
+Gently boil potatoes until a skewer will penetrate to the centre. Turn off heat, pour off water and fill the pot with cold water. Leave until potatoes are quite cold. Lift from water and peel off outer skin of potatoes. Chop potatoes into even sized cubes and place into a bowl with onion, parsley and cilantro.
+In small bowl mix together the mustard and mayonnaise. Add to potatoes with chopped eggs, and desired amount of salt and pepper. Mix gently to combine.
+Refrigerate until ready to serve.
+Questions & Replies
+Reviews
+Very fresh-tasting and flavorful with all that wonderful fresh parsley and cilantro. Don't substitute dried herbs for this! I made this just as written and I think it gets better the longer it chills. I'll make this again..... especially now that grilling season is here. Thanx! *Parsley* Reply 2
+This turned out really good. I loved the fresh herbs in this. A winner! Made for ZWT8 Australian/New Zealand region. CookingONTheSide Reply 1
+I doubled the recipe, swapped out the regular onion for 1 red onion, and subbed the other onion for chives instead. I also used half mild mustard and half seeded, and used full fat mayonnaise. Highly recommend - it went down a treat. Jasmin E. Reply
+I started peeling the potatoes before I read the directions. Oooos! This recipe quickly became a new favorite for summer dining! I used shallots, flat leaf Italian parsley and eggs from our weekly CSA box and fresh cilantro from brother in law's garden. The herbs were finely minced in the food processor and I used 50/50 ratio of both. The only problem and it was my fault was that I overcooked the potatoes and they were closer to mashed potatoes. Refrigerated for about six hours and tastes best when well chilled. Thanks for posting! Made for Cilantro! in the Spanish forum. COOKGIRl Reply
+5 stars- easy to prepare and enjoyed by all my family. A great salad to serve with any chicken or meats. I used a grain mustarf but otherwise stuck to the recipe. A winner potato salad for us. Reviewed for ZWT8. Photo also to be posted Jubes Reply
+RECIPE SUBMITTED BY
+36 Followers
+237 Recipes
+18 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

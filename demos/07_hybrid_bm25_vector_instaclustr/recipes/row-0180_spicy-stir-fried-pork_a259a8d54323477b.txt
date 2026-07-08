@@ -1,0 +1,134 @@
+Spicy Stir-Fried Pork
+=====================
+
+Recipe Metadata
+---------------
+Recipe ID: a259a8d54323477b
+CSV row number: 180
+Recipe name: Spicy Stir-Fried Pork
+Source: Tasting Table
+URL: https://www.tastingtable.com/entry_detail/chefs_recipes/13040/A_stir_fry_thats_quick_healthful_and_flavorful.htm
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01212385d5369b1cf56e68bed1ef1fafb0b7838159430b54ff3b569811c2887e/20972076.jpg
+Servings: 4
+Calories: 1117.20
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: chinese
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Spicy Stir-Fried Pork
+source: Tasting Table
+url: https://www.tastingtable.com/entry_detail/chefs_recipes/13040/A_stir_fry_thats_quick_healthful_and_flavorful.htm
+servings: 4
+calories: 1117.201059266667
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01212385d5369b1cf56e68bed1ef1fafb0b7838159430b54ff3b569811c2887e/20972076.jpg
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["chinese"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Fast Food This Philly Cheesesteak Chain Brought Authentic Italian-American Sandwiches To The West Coast In The '90s For this cheesesteak chain, introducing East Coast flavors to West Coast dwellers was a major feat that proved successful, standing the test of time. By Holly Tishfield Read More
+This Philly Cheesesteak Chain Brought Authentic Italian-American Sandwiches To The West Coast In The '90s
+For this cheesesteak chain, introducing East Coast flavors to West Coast dwellers was a major feat that proved successful, standing the test of time.
+Reviews Review: Buffalo Wild Wings' $10 Bottomless Apps For 4 Is Clearly Missing Something How many deals these days let you fill up for $2.50 per person? We rushed to Buffalo Wild Wings to give the chain's bottomless appetizers a try. By Megan Hageman Read More Storage and Preservation Tips Why You Should Avoid Freezing Deviled Eggs You probably know instinctively that freezing deviled eggs isn't the best idea, but here's why you should avoid it, and also a tip about what to do instead. By Whitney Bard Read More
+Reviews Review: Buffalo Wild Wings' $10 Bottomless Apps For 4 Is Clearly Missing Something How many deals these days let you fill up for $2.50 per person? We rushed to Buffalo Wild Wings to give the chain's bottomless appetizers a try. By Megan Hageman Read More
+Review: Buffalo Wild Wings' $10 Bottomless Apps For 4 Is Clearly Missing Something
+How many deals these days let you fill up for $2.50 per person? We rushed to Buffalo Wild Wings to give the chain's bottomless appetizers a try.
+Storage and Preservation Tips Why You Should Avoid Freezing Deviled Eggs You probably know instinctively that freezing deviled eggs isn't the best idea, but here's why you should avoid it, and also a tip about what to do instead. By Whitney Bard Read More
+Why You Should Avoid Freezing Deviled Eggs
+You probably know instinctively that freezing deviled eggs isn't the best idea, but here's why you should avoid it, and also a tip about what to do instead.
+More Stories
+Cocktails and Spirits Cocktails and Spirits By Xenia Turner 19 min ago 10 Mexican Spirits That Aren't Tequila That Deserve A Spot On Your Shelf We deep-dive into some excellent Mexican spirits you should add to your collection. These cover a range of flavors, too, from sweet to bitter to spicy. By Xenia Turner 19 min ago Read More
+10 Mexican Spirits That Aren't Tequila That Deserve A Spot On Your Shelf
+We deep-dive into some excellent Mexican spirits you should add to your collection. These cover a range of flavors, too, from sweet to bitter to spicy.
+Side Dish Recipes Side Dish Recipes By Michelle McGlinn 49 min ago Crispy Accordion Potatoes Recipe Sort of like a cross between hasselback potatoes and waffles fries, accordion potatoes are the ultra-crispy side worthy of pairing with your next burger. By Michelle McGlinn 49 min ago Read More
+Crispy Accordion Potatoes Recipe
+Sort of like a cross between hasselback potatoes and waffles fries, accordion potatoes are the ultra-crispy side worthy of pairing with your next burger.
+Soup and Stew Recipes Soup and Stew Recipes By Michelle Bottalico 2 hours ago Vegetarian Gumbo Recipe With a classic Cajun spice mix, a deeply-flavorful brown roux, and tofu, black-eyed peas, and mushrooms, our vegetarian gumbo is smoky, spicy, and satisfying. By Michelle Bottalico 2 hours ago Read More
+Vegetarian Gumbo Recipe
+With a classic Cajun spice mix, a deeply-flavorful brown roux, and tofu, black-eyed peas, and mushrooms, our vegetarian gumbo is smoky, spicy, and satisfying.
+Exclusives Exclusives By A.J. Forget 2 hours ago The Main Grocery Items You Should Have On Your List When You're On A Budget For those shopping strictly on a budget, be sure to keep this expert-approved list of foods in mind before your next trip to the grocery store. By A.J. Forget 2 hours ago Read More
+The Main Grocery Items You Should Have On Your List When You're On A Budget
+For those shopping strictly on a budget, be sure to keep this expert-approved list of foods in mind before your next trip to the grocery store.
+Fast Food Fast Food By Holly Tishfield 2 hours ago The Difference Between Burger King And Habit Char-Broiled Burgers Char-broiling imparts a signature smoky taste and aroma, which these chains are known for. Still, their methods differ and offer unique burgers. By Holly Tishfield 2 hours ago Read More
+The Difference Between Burger King And Habit Char-Broiled Burgers
+Char-broiling imparts a signature smoky taste and aroma, which these chains are known for. Still, their methods differ and offer unique burgers.
+Cooking Tips Cooking Tips By Luna Regina 3 hours ago Bring Luxury To Stuffed Shell Pasta By Ditching The Cheese Filling For Seafood Stuffed pasta shells are comforting but they can verge on repetitive and boring, so we've jazzed up the recipe to make your next conchiglie meal a showstopper. By Luna Regina 3 hours ago Read More
+Bring Luxury To Stuffed Shell Pasta By Ditching The Cheese Filling For Seafood
+Stuffed pasta shells are comforting but they can verge on repetitive and boring, so we've jazzed up the recipe to make your next conchiglie meal a showstopper.
+Shopping Tips Shopping Tips By Deb Kavis 3 hours ago The Popular Farmers Market Find That Will Transform Your Quesadillas Even something as simple as your cheese quesadillas can benefit from a bit of prime farmers market produce — and this popular find is just the thing. By Deb Kavis 3 hours ago Read More
+The Popular Farmers Market Find That Will Transform Your Quesadillas
+Even something as simple as your cheese quesadillas can benefit from a bit of prime farmers market produce — and this popular find is just the thing.
+Appliances and Gadgets Appliances and Gadgets By Angeline Stratz 3 hours ago Why LG Appliance Customers Often Label Them Overpriced LG has been in the appliance game for decades, but its legacy hasn't been without criticism. People are becoming increasingly disillusioned with the brand. By Angeline Stratz 3 hours ago Read More
+Why LG Appliance Customers Often Label Them Overpriced
+LG has been in the appliance game for decades, but its legacy hasn't been without criticism. People are becoming increasingly disillusioned with the brand.
+Non-Alcoholic Non-Alcoholic By Megan Hageman 3 hours ago 7 Fruit Juices To Buy At Aldi, And 5 To Skip We've sipped our way through several juices from Nature's Nectar and Simply Nature to determine which Aldi brand fruit drinks are truly worth the squeeze. By Megan Hageman 3 hours ago Read More
+7 Fruit Juices To Buy At Aldi, And 5 To Skip
+We've sipped our way through several juices from Nature's Nectar and Simply Nature to determine which Aldi brand fruit drinks are truly worth the squeeze.
+Fast Food Fast Food By A.J. Forget 4 hours ago This In-N-Out Order Is The Worst To Make, According To Employees In-N-Out is equally known and loved for it's Double Double as it is for its not-so-secret-items — however, there's one that employees wish you'd stop ordering. By A.J. Forget 4 hours ago Read More
+This In-N-Out Order Is The Worst To Make, According To Employees
+In-N-Out is equally known and loved for it's Double Double as it is for its not-so-secret-items — however, there's one that employees wish you'd stop ordering.
+Shopping Tips Shopping Tips By Julia Holland 4 hours ago The Best Boxed Scalloped Potatoes Are From This Nostalgic Comfort Food Brand Boxed scalloped potatoes easily achieve this classic side dish at home, but not all are created equal. Luckily, this trusted brand makes a tasty cheesy version. By Julia Holland 4 hours ago Read More
+The Best Boxed Scalloped Potatoes Are From This Nostalgic Comfort Food Brand
+Boxed scalloped potatoes easily achieve this classic side dish at home, but not all are created equal. Luckily, this trusted brand makes a tasty cheesy version.
+Cocktails and Spirits Cocktails and Spirits By Julia Holland 5 hours ago This 3-Ingredient Cocktail Tastes Just Like A Favorite Girl Scout Cookie Flavor If you want your next cocktail to taste as delicious as your favorite Girl Scout cookie, check out this simple recipe that's easy to make at home. By Julia Holland 5 hours ago Read More
+This 3-Ingredient Cocktail Tastes Just Like A Favorite Girl Scout Cookie Flavor
+If you want your next cocktail to taste as delicious as your favorite Girl Scout cookie, check out this simple recipe that's easy to make at home.
+Shopping Tips Shopping Tips By Samantha Maxwell 5 hours ago 6 Mistakes Everyone Makes At The Grocery Store Bakery Counter Navigate the bakery section of your local grocery store like a professional by factoring in these common mistakes that customers make and how to avoid them. By Samantha Maxwell 5 hours ago Read More
+6 Mistakes Everyone Makes At The Grocery Store Bakery Counter
+Navigate the bakery section of your local grocery store like a professional by factoring in these common mistakes that customers make and how to avoid them.
+News News By Meredith Burkhart 6 hours ago 13 Dollar Tree Essential Foods For Your First BBQ Of 2026 The first barbecue of the season is always the most exciting, but also the most stressful. Make things easier on yourself by shopping at Dollar Tree. By Meredith Burkhart 6 hours ago Read More
+13 Dollar Tree Essential Foods For Your First BBQ Of 2026
+The first barbecue of the season is always the most exciting, but also the most stressful. Make things easier on yourself by shopping at Dollar Tree.
+Local Food Guides Local Food Guides By Deb Kavis 7 hours ago The SoCal Burger Chain That's Unfairly Overshadowed By In-N-Out While everyone knows In-N-Out, there's another Southern California burger chain that deserves some love according to a Los Angeles native. By Deb Kavis 7 hours ago Read More
+The SoCal Burger Chain That's Unfairly Overshadowed By In-N-Out
+While everyone knows In-N-Out, there's another Southern California burger chain that deserves some love according to a Los Angeles native.
+Cake and Cupcake Recipes Cake and Cupcake Recipes By Katie Rosenhouse 7 hours ago Old-Fashioned Sour Cream Donuts Recipe These tender donuts have a little warm spice from nutmeg, a hint of tang from sour cream, and a vanilla glaze that sinks into all their signature crinkles. By Katie Rosenhouse 7 hours ago Read More
+Old-Fashioned Sour Cream Donuts Recipe
+These tender donuts have a little warm spice from nutmeg, a hint of tang from sour cream, and a vanilla glaze that sinks into all their signature crinkles.
+Gardening Gardening By Kashmir Brummel 8 hours ago Skip Traditional Container Gardens And Try This Affordable Alternative Instead Container gardening has benefits for big gardens and small, but there's an affordable alternative that offers more convenience for beginners and pros alike. By Kashmir Brummel 8 hours ago Read More
+Skip Traditional Container Gardens And Try This Affordable Alternative Instead
+Container gardening has benefits for big gardens and small, but there's an affordable alternative that offers more convenience for beginners and pros alike.
+Denver, Colorado Denver, Colorado By Sarah O'Phelan 9 hours ago 11 Denver Restaurants For Anyone Missing Their Southern Roots If you're in the Denver, Colorado area and hoping to enjoy an authentic Southern meal, consider visiting one of these restaurants for down-home cooking. By Sarah O'Phelan 9 hours ago Read More
+11 Denver Restaurants For Anyone Missing Their Southern Roots
+If you're in the Denver, Colorado area and hoping to enjoy an authentic Southern meal, consider visiting one of these restaurants for down-home cooking.
+Cooking Tips Cooking Tips By Deb Kavis 10 hours ago Forget Potatoes — Use Onions To Make Snacking Chips With Way More Flavor Potato chips are great and all, but onion chips may be the answer if you're looking for a bit more flavor. Give this recipe a try. By Deb Kavis 10 hours ago Read More
+Forget Potatoes — Use Onions To Make Snacking Chips With Way More Flavor
+Potato chips are great and all, but onion chips may be the answer if you're looking for a bit more flavor. Give this recipe a try.
+Fast Food Fast Food By Lindsey Reynolds 15 hours ago This Regional Ice Cream Chain Also Has Chicken Strips That Fans Say Rival Raising Cane's One regional ice cream chain offers more than sweet treats. It's actually known for its chicken strips, which might be better than Raising Cane's. By Lindsey Reynolds 15 hours ago Read More
+This Regional Ice Cream Chain Also Has Chicken Strips That Fans Say Rival Raising Cane's
+One regional ice cream chain offers more than sweet treats. It's actually known for its chicken strips, which might be better than Raising Cane's.
+Fast Food Fast Food By Sean Bell 17 hours ago Don't Make This McDonald's Drive-Thru Mistake, Employees Won't Serve You Before you visit the McDonald's drive-thru, make sure you know the rules and don't make the one mistake employees say could mean no service. By Sean Bell 17 hours ago Read More
+Don't Make This McDonald's Drive-Thru Mistake, Employees Won't Serve You
+Before you visit the McDonald's drive-thru, make sure you know the rules and don't make the one mistake employees say could mean no service.
+Coffee Shops Coffee Shops By Wendy Leigh 18 hours ago The Gourmet California Donut Chain Known For Its Extravagant Eggs Benedict Creation Artisanal donut establishments are epicenters of culinary creativity. This one is branching into savory territory, making donuts accessible for breakfast. By Wendy Leigh 18 hours ago Read More
+The Gourmet California Donut Chain Known For Its Extravagant Eggs Benedict Creation
+Artisanal donut establishments are epicenters of culinary creativity. This one is branching into savory territory, making donuts accessible for breakfast.
+City Guides City Guides By Sierra Winters 18 hours ago 10 Pastries You Have To Try In San Francisco When it comes to baked goods, there's so much more to San Francisco than sourdough. Here are some of the best pastries in SF, and where to get them. By Sierra Winters 18 hours ago Read More
+10 Pastries You Have To Try In San Francisco
+When it comes to baked goods, there's so much more to San Francisco than sourdough. Here are some of the best pastries in SF, and where to get them.
+Fast Food Fast Food By Deb Kavis 19 hours ago The Whopper Topping Burger King Customers Are At Odds Over While the composition is relatively basic, customers remain divided over the lack of this ingredient on Burger King's Whopper. By Deb Kavis 19 hours ago Read More
+The Whopper Topping Burger King Customers Are At Odds Over
+While the composition is relatively basic, customers remain divided over the lack of this ingredient on Burger King's Whopper.
+Fast Food Fast Food By Ian Fortey 20 hours ago McDonald's French Fries Are Made With Technology That Feels Like A Sci-Fi Movie For such a mammoth company, efficient food production is a top priority. McDonald's produces its famous fries at an impressive speed and scale. By Ian Fortey 20 hours ago Read More
+McDonald's French Fries Are Made With Technology That Feels Like A Sci-Fi Movie
+For such a mammoth company, efficient food production is a top priority. McDonald's produces its famous fries at an impressive speed and scale.
+Stores And Chains Stores And Chains By Charlotte Pointing 20 hours ago 7 Grocery Items You Should Be Buying At Aldi Instead Of Costco, According To Shoppers Aldi and Costco are two grocery giants, and they arguably serve different purposes. Customers say that when it comes to these items, you should stick to Aldi. By Charlotte Pointing 20 hours ago Read More
+7 Grocery Items You Should Be Buying At Aldi Instead Of Costco, According To Shoppers
+Aldi and Costco are two grocery giants, and they arguably serve different purposes. Customers say that when it comes to these items, you should stick to Aldi.
+Casual Dining Casual Dining By Autumn Swiers 21 hours ago Passengers Agree This Cruise Ship Has The Worst Buffets Passengers say one cruise ship stands out for all the wrong reasons, with its buffet quality and variety falling short of travelers' expectations. By Autumn Swiers 21 hours ago Read More
+Passengers Agree This Cruise Ship Has The Worst Buffets
+Passengers say one cruise ship stands out for all the wrong reasons, with its buffet quality and variety falling short of travelers' expectations.

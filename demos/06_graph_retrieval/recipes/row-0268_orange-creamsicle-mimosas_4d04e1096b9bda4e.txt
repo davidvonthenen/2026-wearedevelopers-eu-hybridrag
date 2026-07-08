@@ -1,0 +1,140 @@
+Orange Creamsicle Mimosas
+=========================
+
+Recipe Metadata
+---------------
+Recipe ID: 4d04e1096b9bda4e
+CSV row number: 268
+Recipe name: Orange Creamsicle Mimosas
+Source: cafedelites.com
+URL: https://cafedelites.com/orange-creamsicle-mimosas
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01b19b3b6991c3e7ab08cfcc1cffe0bcb1f0d88ec166bc80c4ec3177120aaf7d/21080371.jpg
+Servings: 6
+Calories: 1048.52
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites, FODMAP
+Cuisine type: world
+Meal type: lunch/dinner
+Dish type: alcohol cocktail
+
+Original CSV Fields
+-------------------
+recipe_name: Orange Creamsicle Mimosas
+source: cafedelites.com
+url: https://cafedelites.com/orange-creamsicle-mimosas
+servings: 6
+calories: 1048.524406922023
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01b19b3b6991c3e7ab08cfcc1cffe0bcb1f0d88ec166bc80c4ec3177120aaf7d/21080371.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites","FODMAP"]
+cuisine_type: ["world"]
+meal_type: ["lunch/dinner"]
+dish_type: ["alcohol cocktail"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Orange Creamsicle Mimosas
+
+Description: Orange Creamsicle Mimosas: the perfect refreshing beverage to add to your breakfast or brunch menu! A champagne cocktail that tastes just like an ice cream!
+
+Recipe category: ['Beverage']
+
+Recipe cuisine: ['American']
+
+Yield: ['6', '6 -8']
+
+Prep time: PT2M
+
+Cook time: PT5M
+
+Total time: PT7M
+
+Ingredients:
+- 2 cups natural orange juice
+- 2 tablespoons half and half (or thickened cream)
+- 25.4 oz Prosecco (or Champagne or any sparkling white wine)
+- 2 ounces Triple Sec (Cointreau or another orange liqueur)
+
+Instructions:
+1. Chill champagne glasses in a refrigerator.
+2. Mix together the orange juice, half and half (or cream) until combined. Pour halfway into champagne glasses and slowly top each glass with champagne. Add in a splash of the liqueur (about 1/2 teaspoon per glass).
+3. Garnish with an orange slice.
+
+Visible page text:
+Get Free Weekly Recipes →
+Home • Recipes • Beverages
+Orange Creamsicle Mimosas
+By Karina Carrel
+on May 07, 2020, Updated Apr 20, 2026
+This post may contain affiliate links. Please read our disclosure policy .
+Brunch drinks should feel fun, a little indulgent, and slightly nostalgic, and this Creamsicle Mimosa absolutely gets the assignment. It brings together bright citrus, creamy vanilla vibes, and bubbly sparkle in a way that feels playful without tipping into overly sweet territory.
+Think orange creamsicle energy, but grown up enough to serve at a brunch table without raising eyebrows. It is quick to make, easy to batch for a crowd, and guaranteed to disappear faster than the food.
+Table of Contents
+What Makes This Recipe Work
+What Goes Into Creamsicle Mimosas
+Fun Add-Ins and Easy Swaps
+How To Make Creamsicle Mimosas
+Creamsicle Mimosa Tips You Will Actually Use
+Recipe FAQ’s
+Orange Creamsicle Mimosas Recipe
+It balances creamy and fresh perfectly. Instead of being heavy or syrupy, this Creamsicle Mimosa keeps things light with fresh orange flavour and just enough creaminess to give that signature creamsicle finish.
+It feels nostalgic but still elegant. The flavour nods to childhood popsicles, while the bubbles keep it firmly in brunch cocktail territory.
+It is ridiculously easy to scale. Whether you are making two glasses or a full pitcher, this recipe stays foolproof and stress free.
+It looks as good as it tastes. Soft orange colour, fluffy foam, and sparkling bubbles make it brunch table gold.
+A Creamsicle Mimosa needs just four chilled ingredients for a creamy, citrusy sip that feels brunch ready. Keep everything cold for a smooth pour and lively bubbles.
+Natural Orange Juice: Fresh and bright, this is the citrus base. Use pulp free if you prefer a smoother texture and chill well.
+Half And Half Or Thickened Cream: Adds the silky creamsicle finish. Start with 2 tablespoons and adjust to taste. Keep it cold to help prevent curdling.
+Prosecco, Champagne, Or Sparkling White Wine: Dry bubbles keep the drink crisp. A standard 25.4 ounce bottle equals 750 ml. Chill thoroughly before pouring.
+Triple Sec Or Cointreau: A touch of orange liqueur boosts aroma and depth. Use about 2 ounces, then taste and tweak.
+Note: Please see recipe card at the bottom for a full list of ingredients with measurements.
+Want to play a little? These options keep the vibe right without changing the soul of the drink.
+Coconut Cream: Swap in a splash for a tropical creamsicle twist that feels beachy and fun.
+Blood Orange Juice: Deepens the colour and adds a slightly richer citrus flavour.
+Vanilla Vodka: Just a touch turns this into more of a brunch cocktail moment than a mimosa.
+Dairy Free Vanilla Creamer: Keeps everything creamy while making it friendly for lactose free guests.
+Chill And Mix: Place champagne glasses in the refrigerator until cold. In a small pitcher, stir orange juice with the half and half or cream until smooth and combined, then keep the mixture chilled.
+Pour And Garnish: Fill glass halfway with orange mixture. Top with chilled Champagne or Prosecco, add about 1/2 teaspoon orange liqueur to each glass, and finish with an orange slice.
+Pair this Creamsicle Mimosa with Lemon Blueberry French Toast to echo the citrus and add a pop of berry, Caprese Frittata for a fresh savory bite that balances the sweetness, and a big bowl of Honey Lime Fruit Salad for light, juicy freshness on the side.
+Chill everything first. Cold ingredients keep the drink fluffy and stop the cream element from separating.
+Add sparkling wine last. Pouring it gently over the juice and cream helps maintain bubbles and prevents overflow.
+Go easy on the cream. You want creamy notes, not a milkshake situation.
+Serve immediately. This drink shines fresh, while the bubbles are lively and the foam is at its best.
+Choose a dry Brut Champagne, Prosecco, or any crisp sparkling white. Dry bubbles keep this creamsicle mimosa recipe refreshing and prevent it from tasting too sweet.
+If everything is well chilled and you mix the orange juice with the half and half first, curdling is unlikely. Add the sparkling wine slowly and finish with the liqueur, and avoid using regular milk which is more prone to curdling.
+Any quality orange liqueur works. For an alcohol free option, use a little orange syrup or a drop of vanilla to keep that orange dream mimosas flavor.
+Frozen Margarita Slushy
+Dalgona Coffee (Whipped Coffee)
+Pink Vodka Lemonade Cocktail
+Creamy Eggnog
+Get a free eBook!
+Subscribe to Cafe Delites FOR FREE and receive recipes straight into your inbox!
+Ingredients US Metric 1x 2x 3x
+▢ 2 cups natural orange juice
+▢ 2 tablespoons half and half or thickened cream
+▢ 25.4 oz Prosecco or Champagne or any sparkling white wine
+▢ 2 ounces Triple Sec Cointreau or another orange liqueur
+Instructions
+Chill champagne glasses in a refrigerator.
+Mix together the orange juice, half and half (or cream) until combined. Pour halfway into champagne glasses and slowly top each glass with champagne. Add in a splash of the liqueur (about 1/2 teaspoon per glass).
+Garnish with an orange slice.
+Notes
+Nutrition
+Nutrition information is automatically calculated, so should only be used as an approximation.
+Hey Good Food Lovers! It’s nice to see you! My name is Karina. Welcome to Cafe Delites, my beloved space for the last 10 years where my passion for food has flourished and connected millions!
+Leave a comment Cancel reply
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+18 Comments
+Lovely recipe, Katerina Petrovska! These Orange Creamsicle Mimosas look perfectly refreshing and fun for brunch or summer gatherings. I love how the combination of fresh orange juice and creamy notes creates that nostalgic creamsicle flavor in a bubbly mimosa format. Recipes like this are great for celebrations, bridal showers, or a relaxing weekend toast with friends. This is a fantastic option for anyone searching for an easy Orange Creamsicle mimosa recipe for brunch or parties. Reply
+Lovely recipe, Katerina Petrovska! These Orange Creamsicle Mimosas look perfectly refreshing and fun for brunch or summer gatherings. I love how the combination of fresh orange juice and creamy notes creates that nostalgic creamsicle flavor in a bubbly mimosa format. Recipes like this are great for celebrations, bridal showers, or a relaxing weekend toast with friends. This is a fantastic option for anyone searching for an easy Orange Creamsicle mimosa recipe for brunch or parties.
+For a kids or non alcohol version… Fill a glass about 3/4 with orange juice then fill the rest of the glass with whipped cream. It is so good! Reply
+For a kids or non alcohol version…
+Fill a glass about 3/4 with orange juice then fill the rest of the glass with whipped cream. It is so good!
+Featured On:
+©2026 Cafe Delites. All rights reserved. Privacy Policy • Disclaimer Policy • Copyright • Accessibility Statement • Powered by CultivateWP .

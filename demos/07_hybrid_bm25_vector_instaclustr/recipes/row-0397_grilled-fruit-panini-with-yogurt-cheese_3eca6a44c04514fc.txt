@@ -1,0 +1,157 @@
+Grilled Fruit Panini with Yogurt Cheese
+=======================================
+
+Recipe Metadata
+---------------
+Recipe ID: 3eca6a44c04514fc
+CSV row number: 397
+Recipe name: Grilled Fruit Panini with Yogurt Cheese
+Source: Martha Stewart
+URL: https://www.marthastewart.com/354974/grilled-fruit-panini-yogurt-cheese
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0282ba984d8948734ef2effe7900c171a78b7ea1f60c34b90bc088b9aba51207/20999350.jpeg
+Servings: 4
+Calories: 910.87
+Diet labels: none listed
+Health labels: Vegetarian, Egg-Free, Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Grilled Fruit Panini with Yogurt Cheese
+source: Martha Stewart
+url: https://www.marthastewart.com/354974/grilled-fruit-panini-yogurt-cheese
+servings: 4
+calories: 910.8654055536708
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0282ba984d8948734ef2effe7900c171a78b7ea1f60c34b90bc088b9aba51207/20999350.jpeg
+diet_labels: []
+health_labels: ["Vegetarian","Egg-Free","Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Top Stories
+The No. 1 Fish to Eat
+Refrigerator Storage Mistakes
+24 Sweetened Condensed Milk Desserts
+Essential Italian Pasta Recipes
+61 Breakfast Toast Ideas That Go Beyond Jam and Avocado
+Your toast is a blank canvas for all kinds of flavors, from nutty, bubbling cheese to fresh fruit and even tinned fish.
+Best Bread to Use
+Toast Tips
+Cheese
+Avocado
+Breakfast Classics
+Irish Toppings
+Scandinavian Toppings
+Mediterranean Toppings
+Fresh Fruit
+Sweet and Salty
+For many of us, toast is the great unifier. Comforting and easy and a familiar breakfast go-to , it's what our mothers might have sprinkled with cinnamon and sugar and given to us on a rainy day or cut into strips called soldiers and served with a boiled egg.
+But there's more to breakfast than these simple variations and toppings—and the same is true for avocado, a modern darling. All you have to do is think beyond triangles of golden-brown toast (like those that accompany eggs in every diner across America ) or break out of your usual toast and jam routine. To help, we've gathered over 60 inspired ways to elevate your crunchy bread. From cheese and fruit toppings to salty-and-sweet combinations, these breakfast toast ideas will bring unique flavor to everyone's favorite meal of the day.
+The Best Bread for Toast
+The type of bread used for your toast should inform your toppings. A sliced loaf or seedy multi-grain is suited to classic toppings such as eggs and slices of cheese, but also pairs well with peanut butter and as a base for avocado toast.
+Alternatively, go with a rustic sourdough, miche, or an Italian loaf; slice it fairly thick for avocado toasts, rub with half a ripe tomato, Spanish style, or spread with ricotta and top with hearty sautéed greens or figs and honey.
+Breakfast Toast Tips
+To set yourself up for success, all of your toppings should be ready before you press the button on your toaster. Here's what that means depending on the ingredients you're working with.
+Cheese should be sliced or crumbled
+Fruit and vegetables should be rinsed, peeled, and sliced
+Any ingredients that need to be cooked (bacon, sautéed greens, beans, or eggs) should be finished and waiting for the toast; if you're frying or scrambling an egg, it can be the last thing you do while the bread is in the toaster
+Avoid watery toppings; sauté (don't steam) greens and fry (don't poach) eggs unless you carefully blot them dry before placing on toast
+If using the broiler or toaster oven to melt a topping, make sure you've lightly toasted the bread first; this way, the bread underneath the topping won't be soggy
+Prepare your toppings before toasting to create a seamless breakfast experience. Pre-slice fruits, crumble cheeses, and ensure cooked ingredients are ready so you can quickly assemble your toast while it's still warm.
+Breakfast Toasts With Cheese
+Want to please a crowd come breakfast? Top crunchy toasts with plenty of cheese. Start with soft milk options, like ricotta and chèvre, and layer from there.
+Ricotta + lemon + basil + honey
+Ricotta + sliced pears + walnuts + honey
+Ricotta + roasted cherry tomatoes + extra-virgin olive oil
+Soft goat cheese + figs + thyme (try this broiled)
+If you're looking for cheeses with stronger flavors, consider these combinations.
+Blue cheese + sliced pears + walnuts + honey
+Raspberry jam + aged goat cheese
+Sharp cheddar + mango chutney
+Melted Cheese Toasts
+Kick things up a notch by serving melted cheese toasts. An obvious favorite is sliced cheddar, especially when you send it for a bubbling session under the broiler. To make things more interesting, add a slice of tomato to it—and if you like Marmite, spread the bread lightly with that first.
+Thinly-sliced ham + a cornichon or other pickle + slice of Swiss cheese on top (melt)
+Sautéed wild mushrooms + fontina or taleggio cheese (make in a toaster oven or under the broiler)
+Avocado Toasts
+The avocado toasts that have become ubiquitous in cafés across America were originally introduced to us from Australia. Though they seem rich and indulgent, they're a healthy thing to eat for breakfast or lunch.
+If you're a purist, stick with the classic: Either smash or slice a ripe avocado and spread or fan it onto toasted bread. All you need is a sprinkle of flaky sea salt, freshly-ground black pepper, and a drizzle of extra-virgin olive oil. If you're looking for more elevated avocado toast toppings and ideas, we have you covered.
+Fried egg + chili crisp
+Squeeze of lemon or lime + slices of fresh chile + cilantro leaves
+Bacon slices
+Tomato slices
+Roasted carrots + goat cheese
+Cucumber + salmon roe + shiso leaf
+Fresh pea shoots + thinly-sliced radishes
+Thinly-sliced nori + sesame seeds
+Toasted sunflower seeds + sumac + fresh sprouts
+Cooked corn kernels + cilantro leaves + light dusting of cayenne
+Coconut oil + hot sauce
+Sliced jalapeños + Monterey jack cheese (melted under the broiler)
+Bacon + crumbled blue cheese + halved cherry tomatoes + hard-boiled egg wedges (start with mashed avocado for a Cobb salad on toast)
+Fried egg (or try our Peekaboo Avocado Toast variation)
+Breakfast Classics on Toast
+There's nothing wrong with sticking to the classics. You already know these breakfast toast toppings will work—their components are tried-and-true elements of the meal.
+Bacon + eggs + spinach
+Smoked salmon + lemon + sliced scallions
+Smoked trout + cream cheese + horseradish + cucumber
+Cream cheese + everything bagel seasoning mix + tomato or red onion slices
+Crisp bacon + maple syrup
+Eggs Goldenrod
+Yogurt + fruit + honey
+Irish Breakfast Toasts
+These Irish-inspired breakfast toasts are delicious any time of the year—not just in March.
+Irish or Canadian bacon + scrambled egg
+Smashed tomatoes + bacon + chopped parsley
+Baked beans + bacon
+Roasted tomatoes + sliced breakfast sausage
+Roasted tomatoes + sautéeed mushrooms
+Roasted tomatoes + fried egg
+Orange marmalade + bacon
+Orange marmalade + sliced breakfast sausage
+Smorrebrod Breakfast Toasts
+Try Scandinavian-inspired styles and flavors when loading up your breakfast toasts.
+Smoked trout + grated horseradish + pickled beet or onions
+Salami + grainy mustard + cucumber
+Roast beef + horseradish + crème fraîche
+Smoked fish + juniper salt
+Gravlax + butter + dill
+Shrimp salad + cucumbers + chopped chives
+Mediterranean Breakfast Toasts
+These European-style toppings are a savory way to start the day.
+Anchovy fillets + unsalted butter
+Tomato half (rubbed into the toast) + extra-virgin olive oil
+Serrano ham or prosciutto
+Cannellini or borlotti beans (mashed with olive oil and rosemary or sage) + fried egg or sautéed greens + a shaving of parmesan
+Crisp-fried sage leaves
+Feta cheese + cucumber + extra-virgin olive oil (optional: add sliced tomato)
+Breakfast Toasts With Fresh Fruit
+Most creamy cheese spreads, including crème fraîche and full-fat Greek yogurt, make a wonderful base for the fresh fruit of your choice. Sweeten as desired and add nuts, seeds, or coconut.
+Labneh + grapes + almonds
+Coconut oil + banana + coconut flakes
+Ricotta + raspberries, blackberries, or blueberries
+Ripe fig (sliced or smashed) + honey + toasted sesame seeds + flaky sea salt
+Sweet-and-Salty Breakfast Toast Toppings
+Let's not forget the all-American classic, peanut butter and jelly. Don't take this sweet-meets-salty combination for granted: For a healthier breakfast version of this toast, top peanut butter with slices of banana and drizzle with honey. Then get creative by sprinkling on toasted coconut flakes, sunflower seeds, hemp seeds, or cinnamon—or swap out the peanut butter for tahini, banana, honey, and salt.
+Here are some other sweet-and-salty breakfast toast ideas to try:
+Tahini + dark chocolate + agave syrup
+Maple syrup + flaxseeds + pecans
+Sliced ham + dried apricots
+Prosciutto or speck + fresh figs
+Prosciutto + melon drizzled with balsamic vinegar
+Pancetta + figs (broiled)
+Food & Cooking
+Recipes
+Breakfast & Brunch Recipes
+Related Articles

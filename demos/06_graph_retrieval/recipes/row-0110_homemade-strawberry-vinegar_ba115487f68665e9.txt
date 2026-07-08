@@ -1,0 +1,96 @@
+Homemade Strawberry Vinegar
+===========================
+
+Recipe Metadata
+---------------
+Recipe ID: ba115487f68665e9
+CSV row number: 110
+Recipe name: Homemade Strawberry Vinegar
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/280661/homemade-strawberry-vinegar
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00a3568b536cd3ebd1d8c972d7a38644b7a09fa8b60e5405e44964d0673fea1d/21099861.jpg
+Servings: 16
+Calories: 80.47
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Homemade Strawberry Vinegar
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/280661/homemade-strawberry-vinegar
+servings: 16
+calories: 80.47333333333333
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00a3568b536cd3ebd1d8c972d7a38644b7a09fa8b60e5405e44964d0673fea1d/21099861.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Homemade Strawberry Vinegar
+
+Description: Try this recipe for homemade vinegar with fresh strawberries. Fruit-infused vinegars brighten up any salad and they are quick and easy to prep as well.
+
+Recipe category: ['Condiment', 'Ingredient']
+
+Recipe cuisine: ['American']
+
+Yield: 16
+
+Prep time: PT10M
+
+Total time: PT2890M
+
+Ingredients:
+- 0.33333334326744 cup fresh strawberries
+- 1.5 cups white vinegar
+
+Instructions:
+1. Slice tops off strawberries; place strawberries in a colander. Rinse, pat dry, and slice.
+2. Pour vinegar into a resealable jar; add strawberries. Allow fruit to infuse at room temperature for 2 days.
+3. Transfer vinegar to a resealable bottle; strain strawberries if desired.
+
+Visible page text:
+Recipes
+Everyday Cooking
+Homemade Strawberry Vinegar
+Fruit-infused homemade strawberry vinegar can brighten up a salad. This recipe is quick to prep as well.
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 16 servings
+⅓ cup fresh strawberries
+1 ½ cups white vinegar
+Directions
+Slice tops off strawberries; place strawberries in a colander. Rinse, pat dry, and slice.
+Pour vinegar into a resealable jar; add strawberries. Allow fruit to infuse at room temperature for 2 days.
+Transfer vinegar to a resealable bottle; strain strawberries if desired.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Homemade Strawberry Vinegar
+1
+Most-Saved Recipes Like This
+Spinach and Strawberry Salad 1,796 Ratings 10 mins Save
+Fresh Strawberry Upside-Down Cake 730 Ratings 1 hr 5 mins Save
+Strawberries with Balsamic Vinegar 324 Ratings 1 hr 10 mins Save
+Strawberry and Feta Salad 449 Ratings 15 mins Save
+Strawberry Jam 958 Ratings 40 mins Save
+Best Vinegar Coleslaw 542 Ratings 20 mins Save
+Spring Strawberry Spinach Salad 329 Ratings 15 mins Save
+Refreshing Cucumber Salad 260 Ratings 1 hr 10 mins Save
+Fresh Strawberry Sauce 146 Ratings 30 mins Save
+Real Strawberry Frosting 455 Ratings 40 mins Save
+You’ll Also Love

@@ -1,0 +1,110 @@
+Spicy Strawberry Salad
+======================
+
+Recipe Metadata
+---------------
+Recipe ID: 76821be4352d5103
+CSV row number: 410
+Recipe name: Spicy Strawberry Salad
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/14388/spicy-strawberry-salad
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02a0112dc133326aea2fe2bae883cb8f540b03d7213de26bbf83c532c56fb446/21116023.jpg
+Servings: 10
+Calories: 3427.24
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: south american
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Spicy Strawberry Salad
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/14388/spicy-strawberry-salad
+servings: 10
+calories: 3427.236500025109
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02a0112dc133326aea2fe2bae883cb8f540b03d7213de26bbf83c532c56fb446/21116023.jpg
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["south american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Spicy Strawberry Salad
+
+Description: In this spicy strawberry salad recipe, mushrooms, salad greens, pecans, and lots of fresh, sliced strawberries are dressed with a poppy seed dressing.
+
+Recipe category: ['Lunch']
+
+Recipe cuisine: ['American']
+
+Yield: 10
+
+Prep time: PT20M
+
+Total time: PT20M
+
+Ingredients:
+- 0.75 cup vegetable oil
+- 0.5 cup white sugar
+- 0.33333334326744 cup balsamic vinegar
+- 1 tablespoon poppy seeds
+- 1.5 teaspoons garlic powder
+- 1 teaspoon mustard powder
+- 8 cups mixed salad greens
+- 1.5 cups fresh sliced mushrooms
+- 4 cups sliced fresh strawberries
+- 1.5 cups chopped pecans
+
+Instructions:
+1. Whisk oil, sugar, vinegar, poppy seeds, garlic powder, and dry mustard together in a bowl. Refrigerate until chilled.
+2. Combine mixed greens and mushrooms in a salad bowl; add vinaigrette and toss to coat. Sprinkle with strawberries and pecans.
+
+Visible page text:
+Recipes
+Salad
+Spicy Strawberry Salad
+A friend once made this spicy strawberry salad recipe for a party to celebrate the beginning of summer. It is cool, crisp, and crunchy — just what a salad should be.
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 10 servings
+¾ cup vegetable oil
+½ cup white sugar
+⅓ cup balsamic vinegar
+1 tablespoon poppy seeds
+1 ½ teaspoons garlic powder
+1 teaspoon mustard powder
+8 cups mixed salad greens
+1 ½ cups fresh sliced mushrooms
+4 cups sliced fresh strawberries
+1 ½ cups chopped pecans
+Directions
+Whisk oil, sugar, vinegar, poppy seeds, garlic powder, and dry mustard together in a bowl. Refrigerate until chilled.
+Combine mixed greens and mushrooms in a salad bowl; add vinaigrette and toss to coat. Sprinkle with strawberries and pecans.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Spicy Strawberry Salad
+1
+Most-Saved Recipes Like This
+Strawberry Spinach Salad 2,960 Ratings 1 hr 20 mins Save
+Spinach and Strawberry Salad 1,796 Ratings 10 mins Save
+Jamie's Cranberry Spinach Salad 4,351 Ratings 15 mins Save
+Spring Strawberry Spinach Salad 329 Ratings 15 mins Save
+Winter Fruit Salad with Poppyseed Dressing 852 Ratings 25 mins Save
+Strawberry Pretzel Salad 825 Ratings 2 hrs 30 mins Save
+Strawberry Romaine Salad 316 Ratings 15 mins Save
+Harvest Salad 553 Ratings 15 mins Save
+Strawberry and Feta Salad 449 Ratings 15 mins Save
+Strawberry Avocado Salad 464 Ratings 15 mins Save
+You’ll Also Love

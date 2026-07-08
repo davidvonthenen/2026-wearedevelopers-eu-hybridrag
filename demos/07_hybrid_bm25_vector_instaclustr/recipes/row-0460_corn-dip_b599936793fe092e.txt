@@ -1,0 +1,104 @@
+Corn Dip
+========
+
+Recipe Metadata
+---------------
+Recipe ID: b599936793fe092e
+CSV row number: 460
+Recipe name: Corn Dip
+Source: bayouwoman.com
+URL: https://bayouwoman.com/corn-dip
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02f1b2b318f0ff6696df6892c17ae10d4f20d5336ab4af956968e9c0b52336cb/21132349.jpg
+Servings: 6
+Calories: 1366.87
+Diet labels: Low-Carb
+Health labels: Vegetarian, Gluten-Free, Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mexican
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Corn Dip
+source: bayouwoman.com
+url: https://bayouwoman.com/corn-dip
+servings: 6
+calories: 1366.873556483333
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02f1b2b318f0ff6696df6892c17ae10d4f20d5336ab4af956968e9c0b52336cb/21132349.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Vegetarian","Gluten-Free","Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mexican"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Corn Dip
+
+Ingredients:
+- 4 oz . sour cream
+- 1 Cup shredded sharp cheddar
+- 1 Cup shredded Mexican blend cheese
+- 1/4 Cup mayo
+- 1/2 t . sugar
+- 1 Can kernel corn (well drained)
+- 1 Can Ro-Tel Tomatoes (very well drained)
+- 2-4 Green onion tops (chopped)
+- 1 t . Tony's Creole seasoning
+
+Instructions:
+1. Mix all ingredients together and refrigerate for a couple hours. Dip will "set" while in the refrigerator.
+
+Visible page text:
+Corn Dip
+Ingredients
+4 oz . sour cream
+1 Cup shredded sharp cheddar
+1 Cup shredded Mexican blend cheese
+1/4 Cup mayo
+1/2 t . sugar
+1 Can kernel corn well drained
+1 Can Ro-Tel Tomatoes very well drained
+2-4 Green onion tops chopped
+1 t . Tony's Creole seasoning
+Instructions
+Mix all ingredients together and refrigerate for a couple hours. Dip will "set" while in the refrigerator.
+This recipe is good with Fritos or Doritos “scoops”. It came to me from the wives of the two fishermen who stayed at Camp Dularge recently. They served it, and I thought it was a great new dip idea. It’s easy, and it can very easily be doubled. Furthermore, if you would like more sugar, and no Tony’s, the choice is yours. Start with this base, and then season it the way you like. They also add some Season All, but I prefer it without.
+It was a hit at the Early Christmas party, so I will make it again some time.
+This picture does not do the dish justice. It looks much nicer after it has set up for a while.
+Enjoy!
+BW
+Similar Posts
+EVACUATION DAY 1 Less than a half mile from our home, there was a little traffic jam. See those people hauling out their worldly goods? Water, water everywhere, but not a boat on a lift! Well, except one. See it jacked way up high out of the water’s reach? Crab fishermen worked diligently to get…
+Maybe it just seems downright nerdy of me, but reading my words in someone elses book–that someone would think something I have to say is noteworthy–is pretty dog-gone amazing to me!
+Chicken tractor conjures up images of a miniature garden vehicle, ridden by a chicken. That’s what I thought, too, when I saw the ad on Face Book:
+Despite the decreasing number of migratory waterfowl passing through our wetlands, duck hunting continues to be a much-anticipated sport in this area. Friday afternoon, I stood in line at Songy’s Sporting Goods to buy my hunting license and Duck Stamp (nothing like a little procrastination, right?). Later, Academy Sports was packed with folks (like us)…
+Oh, and did I mention snakes? Today we saw the most snakes out sunning on branches that we’ve ever seen in one trip. Joan, head of the Presbyterian Disaster Assistance camp in Houma, LA and her hubby, Jeff, joined Termite and me today for their very own little wetland tour. The trip was a birthday…
+I haven’t been ignoring you, truly I haven’t. I’ve just been pre-occupied with an opportunity that came my way this summer. It was July, and there I was sitting at my desk, minding my own business when someone from Propeller New Orleans, a non-profit entrepreneurial accelerator program, contacted me about applying for acceptance into their fall program….
+Leave a Reply Cancel reply
+8 Comments
+I know right now that your dip tastes wonderful. I also know it’s like mainlining caulk into your arteries! LOL This reminds me of the macaroni and cheese recipe I was given a few days ago. It says to grind up ham, mix it with a bunch of grated cheddar and elbow macaroni. Put it in a casserole with half whole milk and half whipping cream and cook it at 350 until it’s done, stirring now and then. Holy moley. Makes me want a carrot stick! LOL Reply Well, we only do it once a year, right? Reply Exactly so – that’s why we’ll be having your dip for New Year’s. I mean – just because I recognize it for what it is doesn’t mean I’m not going to eat it! 😉 Reply You make me laugh!!!!! 🙂 Reply
+I know right now that your dip tastes wonderful. I also know it’s like mainlining caulk into your arteries! LOL
+This reminds me of the macaroni and cheese recipe I was given a few days ago. It says to grind up ham, mix it with a bunch of grated cheddar and elbow macaroni. Put it in a casserole with half whole milk and half whipping cream and cook it at 350 until it’s done, stirring now and then.
+Holy moley. Makes me want a carrot stick! LOL
+Well, we only do it once a year, right? Reply Exactly so – that’s why we’ll be having your dip for New Year’s. I mean – just because I recognize it for what it is doesn’t mean I’m not going to eat it! 😉 Reply You make me laugh!!!!! 🙂 Reply
+Well, we only do it once a year, right?
+Exactly so – that’s why we’ll be having your dip for New Year’s. I mean – just because I recognize it for what it is doesn’t mean I’m not going to eat it! 😉 Reply You make me laugh!!!!! 🙂 Reply
+Exactly so – that’s why we’ll be having your dip for New Year’s. I mean – just because I recognize it for what it is doesn’t mean I’m not going to eat it! 😉
+You make me laugh!!!!! 🙂 Reply
+You make me laugh!!!!! 🙂
+I make a corn dip too but it’s a little bit different. I don’t normally measure ingredients but mine has mayo, sour cream, jalapenos, corn, chopped onions and shredded cheese. I can’t wait to try your version. Reply Yours sounds like it has way more KICK!!! Both very similar, though! Reply
+I make a corn dip too but it’s a little bit different. I don’t normally measure ingredients but mine has mayo, sour cream, jalapenos, corn, chopped onions and shredded cheese. I can’t wait to try your version.
+Yours sounds like it has way more KICK!!! Both very similar, though! Reply
+Yours sounds like it has way more KICK!!! Both very similar, though!
+It’s Christmas in July! I’m making this for a church musicians’ cookout on Saturday! 🙂 Reply Fun fun fun!!! Reply
+It’s Christmas in July! I’m making this for a church musicians’ cookout on Saturday! 🙂
+Fun fun fun!!! Reply
+Fun fun fun!!!

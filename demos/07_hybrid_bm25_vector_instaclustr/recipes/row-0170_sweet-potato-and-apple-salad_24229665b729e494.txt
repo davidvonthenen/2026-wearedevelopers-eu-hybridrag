@@ -1,0 +1,104 @@
+Sweet Potato and Apple Salad
+============================
+
+Recipe Metadata
+---------------
+Recipe ID: 24229665b729e494
+CSV row number: 170
+Recipe name: Sweet Potato and Apple Salad
+Source: food.com
+URL: http://www.food.com/recipe/sweet-potato-and-apple-salad-431045
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0107eb1f95550d24f9da8b3e95ccf37169f43b4c4597ed73ecffb077ade8ee2f/21121475.jpg
+Servings: 10
+Calories: 1626.05
+Diet labels: none listed
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites, FODMAP
+Cuisine type: south american
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Sweet Potato and Apple Salad
+source: food.com
+url: http://www.food.com/recipe/sweet-potato-and-apple-salad-431045
+servings: 10
+calories: 1626.047845
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0107eb1f95550d24f9da8b3e95ccf37169f43b4c4597ed73ecffb077ade8ee2f/21121475.jpg
+diet_labels: []
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites","FODMAP"]
+cuisine_type: ["south american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Sweet Potato and Apple Salad
+
+Description: A wonderful side dish / salad to serve either straight from the oven or to let come to room temperature for serving. Makes it a wonderful choice during a dinner party since it can cool and still be a delicious. Found in an old Cooking Light magazine. Servings are 1/2 cup in size (I have edited this recipe to reflect a better perception of servings based on reviews)
+
+Recipe category: Yam/Sweet Potato
+
+Yield: 10 , 10 serving(s)
+
+Prep time: PT20M
+
+Cook time: PT50M
+
+Total time: PT1H10M
+
+Ingredients:
+- 5 cups sweet potatoes, peeled & cubed (about 2 lbs)
+- 1/2 cup sweet onion, chopped
+- 1/4 cup brown sugar, packed
+- 1/4 cup orange juice, fresh
+- 2 tablespoons canola oil
+- 1 tablespoon lemon juice, fresh
+- 1/2 teaspoon salt
+- 1/2 teaspoon black pepper
+- 3 cups granny smith apples, cubed (about 1 1/4 lbs)
+
+Instructions:
+1. Preheat oven to 350&deg;F Wash, peel and cube the sweet potatoes (1 1/2&quot; cubes).
+2. Combine potatoes and onion in a 13x9&quot; baking dish.
+3. Combine sugar, orange juice, oil, lemon juice, salt and black pepper in a small bowl. Then pour this over the potato mixture - tossing well to coat.
+4. Cover baking dish and bake at 350F for 30 minutes (stir occasionally).
+5. Wash and cube the Granny Smith apples (1&quot; cubes). Stir in the apple cubes to the casserole and then bake covered an additional 15 minutes or until apple is tender.
+6. Uncover dish and bake an additional 5 minutes.
+
+Visible page text:
+Sweet Potato and Apple Salad
+ingredients
+5 cups sweet potatoes , peeled & cubed (about 2 lbs)
+1 ⁄ 2 cup sweet onion , chopped
+1 ⁄ 4 cup brown sugar , packed
+1 ⁄ 4 cup orange juice, fresh
+2 tablespoons canola oil
+1 tablespoon lemon juice , fresh
+1 ⁄ 2 teaspoon salt
+1 ⁄ 2 teaspoon black pepper
+3 cups granny smith apples , cubed (about 1 1/4 lbs)
+directions
+Preheat oven to 350°F Wash, peel and cube the sweet potatoes (1 1/2" cubes).
+Combine potatoes and onion in a 13x9" baking dish.
+Combine sugar, orange juice, oil, lemon juice, salt and black pepper in a small bowl. Then pour this over the potato mixture - tossing well to coat.
+Cover baking dish and bake at 350F for 30 minutes (stir occasionally).
+Wash and cube the Granny Smith apples (1" cubes). Stir in the apple cubes to the casserole and then bake covered an additional 15 minutes or until apple is tender.
+Uncover dish and bake an additional 5 minutes.
+Questions & Replies
+Reviews
+This was really delicious, and it as nice to be able to make this early, before the duck went into the oven. I might add some ginger or nutmeg next time, just to add a little something, but I did like it just as it is. I did not cover the dish after the apples went in, and I loved that the apples did not cook to a mush - had just a bit of bite left to them. My one concern is about the number of servings. I had a 1 lb sweet potato, so I halved all the rest of the ingredients. This should have been around 5 servings, I think, but two of us polished all of it. Now, it was a bit more than 1/2 cup for each of us, but with the largish cubes of potato, it's hard to keep to 1/2 cup. So if you are making this for a group, I would suggest that you might consider making more of it. Oh, I did not want to go back to the store to get a sweet onion, so I chopped a regular onion, then put it in a bowl and covered with boiling water. Let it stand 10 minutes, then drain thoroughly. This makes the onion more mild, less bite to it. duonyte Reply 2
+This is a delightful salad that really is at its best when served at room temperature. This was also a very pretty salad as I used dark orange yams and left the pretty green peel on the granny smith apples. I also used a whole sweet onion when I made this. DH called dibs on what was left stating he wanted it for breakfast. Thanks so much for the post. Debbwl Reply
+RECIPE SUBMITTED BY
+72 Followers
+407 Recipes
+93 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

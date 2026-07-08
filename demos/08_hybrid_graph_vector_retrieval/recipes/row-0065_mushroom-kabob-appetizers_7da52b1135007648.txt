@@ -1,0 +1,95 @@
+Mushroom Kabob Appetizers
+=========================
+
+Recipe Metadata
+---------------
+Recipe ID: 7da52b1135007648
+CSV row number: 65
+Recipe name: Mushroom Kabob Appetizers
+Source: food.com
+URL: http://www.food.com/recipe/mushroom-kabob-appetizers-103442
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00518d3e06d46ffef9e7b99e8229daaca059312c3ad4160855480d66d52877b7/21115577.jpg
+Servings: 6
+Calories: 337.10
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: starter
+
+Original CSV Fields
+-------------------
+recipe_name: Mushroom Kabob Appetizers
+source: food.com
+url: http://www.food.com/recipe/mushroom-kabob-appetizers-103442
+servings: 6
+calories: 337.1046607000001
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00518d3e06d46ffef9e7b99e8229daaca059312c3ad4160855480d66d52877b7/21115577.jpg
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["starter"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Mushroom Kabob Appetizers
+
+Description: A nice low-sodium appetizer if you have a grill. Use more thyme if you like; I particularly like thyme but other herbs could be substituted. Serve the mushrooms by themselves or with some of the marinade as dipping sauce. Cooking time is marination time.
+
+Recipe category: Lunch/Snacks
+
+Yield: 6 serving(s)
+
+Prep time: PT10M
+
+Cook time: PT1H
+
+Total time: PT1H10M
+
+Ingredients:
+- 2 tablespoons olive oil
+- 2 tablespoons plain nonfat yogurt or 2 tablespoons low-fat sour cream
+- 1 teaspoon minced garlic
+- 1/4 teaspoon thyme, to taste
+- 1/8 teaspoon cayenne
+- 1/2 lb large button mushroom
+
+Instructions:
+1. Combine marinade ingredients and marinate mushrooms at least an hour.
+2. String mushrooms on skewers and grill, basting with marinade, until lightly browned.
+3. Remove from skewers and serve.
+
+Visible page text:
+Mushroom Kabob Appetizers
+ingredients
+2 tablespoons olive oil
+2 tablespoons plain nonfat yogurt or 2 tablespoons low-fat sour cream
+1 teaspoon minced garlic
+1 ⁄ 4 teaspoon thyme , to taste
+1 ⁄ 8 teaspoon cayenne
+1 ⁄ 2 lb large button mushroom
+directions
+Combine marinade ingredients and marinate mushrooms at least an hour.
+String mushrooms on skewers and grill, basting with marinade, until lightly browned.
+Remove from skewers and serve.
+Questions & Replies
+Reviews
+You and I must love the same flavor profiles. I believe your Lebanese salad was the first thing I ever rated. It has become a staple at my house, and so will those mushrooms. I wish I discovered this recipe at the beginning of the summer, because I don't think I can get enough of it before the grilling season ends. Katanashrp Reply
+these were delish!!! we had them for a fourth of july bbq. if I could give more than five stars, I would! going straight into my 'zaar stars' cook book! thanks. megs_ Reply
+Wow were these ever good ! I used garlic powder but other wise followed your recipe exactly using the yogurt. I doubled it and had NO left overs because they were such a big hit at the fourth of July BBQ. Thanks for this keeper. Chef RZ Fan Reply
+Delicious! I used sour cream and they tasted so good! I also marinated 1" pieces of bell pepper. I served with Rosemary-grilled New York Strip With Smoky Eggplant Relish recipe#120682. Thanks so much! Sharon123 Reply
+These are great! They made a delicious snack for watching tv. I used thyme, but next time, I think I will substitute basil. I also used garlic powder. Very tasty! Thanks! Amanda Beth Reply
+RECIPE SUBMITTED BY
+108 Followers
+357 Recipes
+72 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

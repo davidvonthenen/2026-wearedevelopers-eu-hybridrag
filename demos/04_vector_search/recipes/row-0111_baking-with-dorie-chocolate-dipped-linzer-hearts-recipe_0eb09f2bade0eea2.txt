@@ -1,0 +1,117 @@
+Baking with Dorie: Chocolate-Dipped Linzer Hearts Recipe
+========================================================
+
+Recipe Metadata
+---------------
+Recipe ID: 0eb09f2bade0eea2
+CSV row number: 111
+Recipe name: Baking with Dorie: Chocolate-Dipped Linzer Hearts Recipe
+Source: Serious Eats
+URL: http://www.seriouseats.com/recipes/2008/02/baking-with-dorie-chocolatedipped-linzer-hearts-cookies-recipe.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00a6bd2e82799fb3e3d560140b183ee5e402e490ed458b170a35dc92c04287fd/20959475.jpg
+Servings: 12
+Calories: 3353.90
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Baking with Dorie: Chocolate-Dipped Linzer Hearts Recipe
+source: Serious Eats
+url: http://www.seriouseats.com/recipes/2008/02/baking-with-dorie-chocolatedipped-linzer-hearts-cookies-recipe.html
+servings: 12
+calories: 3353.8985
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00a6bd2e82799fb3e3d560140b183ee5e402e490ed458b170a35dc92c04287fd/20959475.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Baking with Dorie: Chocolate-Dipped Linzer Hearts Recipe
+
+Description: If you haven&#39;t already whipped up something wonderful for the sweetheart(s) in your life, here&#39;s a recipe for a cookie that makes any day sweeter. It&#39;s a linzer cookie—made with flour and ground nuts and spiced with cinnamon and cloves—cut out with a cute little heart-shaped cutter and dipped in melted chocolate.
+
+Recipe category: ['Dessert', 'Cookies', 'Desserts']
+
+Recipe cuisine: ['German']
+
+Prep time: PT35M
+
+Cook time: PT40M
+
+Total time: PT225M
+
+Ingredients:
+- 1 1/2 cups finely ground almonds, hazelnuts or walnuts
+- 1 1/2 cups all-purpose flour
+- 1 1/2 teaspoons ground cinnamon
+- 1/4 teaspoon salt
+- Scant 1/4 teaspoon ground cloves
+- 1 large egg
+- 2 teaspoons water
+- 1 stick (8 tablespoons) unsalted butter, at room temperature
+- 1/2 cup sugar
+- 1/2 cup chocolate chips
+
+Instructions:
+1. Whisk together the ground nuts, flour, cinnamon, salt and cloves. Using a fork, stir the egg and water together in a small bowl.
+2. Working with a stand mixer, preferably fitted with a paddle attachment, or with a hand mixer in a large bowl, beat the butter and sugar together at medium speed until smooth, about 3 minutes, scraping down the bowl as needed. Add the egg mixture and beat for 1 minute more. Reduce the mixer speed to low and add the dry ingredients, mixing only until they disappear into the dough. Don&#39;t work the dough much once the flour is incorporated. If the dough comes together but some dry crumbs remain in the bottom of the bowl, stop the mixer and finish blending the ingredients with a rubber spatula or your hands.
+3. Divide the dough in half. Working with one half at a time, put the dough between two large sheets of wax paper or plastic wrap. Using your hands, flatten the dough into a disk, then grab a rolling pin and roll the dough, turning it over frequently and lifting the paper so it doesn&#39;t cut into it, until it is about 1/4 inch thick. Leave the dough in the paper, and repeat with the second piece of dough. Transfer the wrapped dough to a baking sheet or cutting board (to keep it flat) and refrigerate or freeze it until it is very firm, about 2 hours in the refrigerator and about 45 minutes in the freezer.
+4. Center a rack in the oven and preheat the oven to 375°F. Line two baking sheets with parchment or silicone baking mats.
+5. Peel off the top sheet of wax paper from one piece of dough and, using a small heart-shaped cookie cutter, cut out as many cookies as you can. If you want to have a peek-a-boo cutout, use the end of a piping tip to cut a very small circle from the centers of half the cookies. Transfer the hearts to the baking sheets, leaving a little space between the cookies. Set the scraps aside—you&#39;ll combine them with the scraps from the second disk and roll, cut and bake more cookies.
+6. Bake the cookies one sheet at a time for 11 to 13 minutes, or until the cookies are lightly golden, dry and just firm to the touch. Transfer the cookies to a rack to cool to room temperature.
+7. Repeat with the second disk of dough. Gather the scraps together, press them into a disk, roll them between sheets of wax paper or plastic wrap and refrigerate until firm, then cut and bake.
+8. To dip the cookies, have a baking sheet lined with wax paper at the ready. When the cookies are cool, melt the chocolate chips in a coffee cup or small bowl. Dip one edge of each cookie into the chocolate, letting the excess chocolate drip back into the cup and running the edge of the cookie against the edge of the cup to clean the dipped side, then place the cookie on the lined baking sheet. When all the cookies are dipped, slide the baking sheet into the refrigerator or freezer to set the chocolate.
+9. Storing: The cookies will keep in a covered tin—use wax paper to separate the layers—for about 3 days. They can be frozen for up to 2 months.
+Dorie Greenspan, Now Baking For You
+
+Visible page text:
+Recipes
+Recipes By Course
+Desserts
+Cookies
+Baking with Dorie: Chocolate-Dipped Linzer Hearts Recipe
+If you haven't already whipped up something wonderful for the sweetheart(s) in your life, here's a recipe for a cookie that makes any day sweeter. It's a linzer cookie —made with flour and ground nuts and spiced with cinnamon and cloves—cut out with a cute little heart-shaped cutter and dipped in melted chocolate. (I love the technique of pre-rolling the dough when it's soft and malleable and I hope you will, too.)
+The cookie has the same buttery goodness and soft spices as a linzer tart and, in fact, you could use the dough to make a tart, if you wanted to. You can also make sandwich cookies (a classic linzerish thing to do), sandwiching the cookies with red jam. (Bring 1/2 cup of raspberry jam and 1 teaspoon water to the boil. Let the jam cool slightly before using it.)
+If you want to go just a bit further, make a little peek-a-boo hole in one half of the cookies and use these as the tops of the sandwiches, then, because too much is often just barely enough, dip the sandwiches in the melted chocolate.
+Whatever you do, I hope you have a happy—and very, very sweet—Valentine's Day. (I'll be posting on V-Day, but you'll have everything baked and beribboned by then, right?)
+Linzer Hearts
+Adapted from Baking: From My Home to Yours
+Recipe Details
+1 1/2 cups finely ground almonds , hazelnuts or walnuts
+1 1/2 cups all purpose flour
+1 1/2 teaspoons ground cinnamon
+1/4 teaspoon salt
+Scant 1/4 teaspoon ground cloves
+1 large egg
+2 teaspoons water
+1 stick ( 8 tablespoons ) unsalted butter , at room temperature
+1/2 cup sugar
+1/2 cup chocolate chips
+Whisk together the ground nuts, flour, cinnamon, salt and cloves. Using a fork, stir the egg and water together in a small bowl.
+Working with a stand mixer, preferably fitted with a paddle attachment, or with a hand mixer in a large bowl, beat the butter and sugar together at medium speed until smooth, about 3 minutes, scraping down the bowl as needed. Add the egg mixture and beat for 1 minute more. Reduce the mixer speed to low and add the dry ingredients, mixing only until they disappear into the dough. Don't work the dough much once the flour is incorporated. If the dough comes together but some dry crumbs remain in the bottom of the bowl, stop the mixer and finish blending the ingredients with a rubber spatula or your hands.
+Divide the dough in half. Working with one half at a time, put the dough between two large sheets of wax paper or plastic wrap. Using your hands, flatten the dough into a disk, then grab a rolling pin and roll the dough, turning it over frequently and lifting the paper so it doesn't cut into it, until it is about 1/4 inch thick. Leave the dough in the paper, and repeat with the second piece of dough. Transfer the wrapped dough to a baking sheet or cutting board (to keep it flat) and refrigerate or freeze it until it is very firm, about 2 hours in the refrigerator and about 45 minutes in the freezer.
+Center a rack in the oven and preheat the oven to 375°F. Line two baking sheets with parchment or silicone baking mats.
+Peel off the top sheet of wax paper from one piece of dough and, using a small heart-shaped cookie cutter, cut out as many cookies as you can. If you want to have a peek-a-boo cutout, use the end of a piping tip to cut a very small circle from the centers of half the cookies. Transfer the hearts to the baking sheets, leaving a little space between the cookies. Set the scraps aside—you'll combine them with the scraps from the second disk and roll, cut and bake more cookies.
+Bake the cookies one sheet at a time for 11 to 13 minutes, or until the cookies are lightly golden, dry and just firm to the touch. Transfer the cookies to a rack to cool to room temperature.
+Repeat with the second disk of dough. Gather the scraps together, press them into a disk, roll them between sheets of wax paper or plastic wrap and refrigerate until firm, then cut and bake.
+To dip the cookies, have a baking sheet lined with wax paper at the ready. When the cookies are cool, melt the chocolate chips in a coffee cup or small bowl. Dip one edge of each cookie into the chocolate, letting the excess chocolate drip back into the cup and running the edge of the cookie against the edge of the cup to clean the dipped side, then place the cookie on the lined baking sheet. When all the cookies are dipped, slide the baking sheet into the refrigerator or freezer to set the chocolate.
+Storing: The cookies will keep in a covered tin—use wax paper to separate the layers—for about 3 days. They can be frozen for up to 2 months.
+This Recipe Appears In
+Baking
+Chocolate
+Almonds
+More Serious Eats Recipes

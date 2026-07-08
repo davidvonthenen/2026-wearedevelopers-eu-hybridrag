@@ -1,0 +1,39 @@
+# Python 3.10 only
+setuptools==80.9.0
+
+# ner
+# pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
+spacy==3.5.0
+negspacy==1.0.4
+
+# external ranker
+bm25s==0.2.14
+PyStemmer==3.0.0
+jax[cpu]==0.6.2
+
+# databases
+neo4j==6.2.0 # previous 5.28.1
+opensearch-py==3.2.0 # was >=2.4
+
+# API / LLM client
+openai>=2.44.0
+flask>=3.1.0
+python-dotenv>=1.0.0
+requests>=2.31
+
+# local LLM serving via llm_server.py
+# Use the wheel/build that matches your platform and acceleration backend.
+llama-cpp-python>=0.3.33
+# Apple Silicon MLX runtime is optional:
+# mlx>=0.20.0
+# mlx-lm>=0.20.0
+
+# utils
+beautifulsoup4>=4.15.0
+
+# ai / ml
+numpy<2.0
+pydantic<1.11
+sentence-transformers==5.5.1
+# ctransformers not installed
+tqdm>=4.68.3

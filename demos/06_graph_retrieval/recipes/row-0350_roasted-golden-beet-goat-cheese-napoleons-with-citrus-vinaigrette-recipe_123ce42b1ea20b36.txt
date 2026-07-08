@@ -1,0 +1,184 @@
+Roasted Golden Beet & Goat Cheese Napoleons With Citrus Vinaigrette Recipe
+==========================================================================
+
+Recipe Metadata
+---------------
+Recipe ID: 123ce42b1ea20b36
+CSV row number: 350
+Recipe name: Roasted Golden Beet & Goat Cheese Napoleons With Citrus Vinaigrette Recipe
+Source: Group Recipes
+URL: http://www.grouprecipes.com/116432/roasted-golden-beet-goat-cheese-napoleons-with-citrus-vinaigrette.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/023b3e044a21fd507833c8976abd4c3dfb89c9706dbd1fa8bc7c627293c939c4/21075874.jpg
+Servings: 4
+Calories: 2303.71
+Diet labels: Low-Carb
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites, FODMAP
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Roasted Golden Beet & Goat Cheese Napoleons With Citrus Vinaigrette Recipe
+source: Group Recipes
+url: http://www.grouprecipes.com/116432/roasted-golden-beet-goat-cheese-napoleons-with-citrus-vinaigrette.html
+servings: 4
+calories: 2303.707786181679
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/023b3e044a21fd507833c8976abd4c3dfb89c9706dbd1fa8bc7c627293c939c4/21075874.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites","FODMAP"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Categories Search Your Bookmarks Upload a Recipe
+Categories
+Search
+Your Bookmarks
+Upload a Recipe
+No idea what to search for? Start browsing till you find something.
+cream cheese appetizers
+turkey fryer recipes
+meatloaf dinner
+red curry recipe
+potato soup
+gingerbread ornaments
+mexican tortilla wrap recipe
+weekly meals
+pulled beef recipe
+hot fudge recipe
+Roasted Golden Beet & Goat Cheese Napoleons With Citrus Vinaigrette Recipe
+Roasted Golden Beet & Goat Cheese Napoleons With Citrus Vinaigrette
+Add yours
+1 hour to make
+Serves 4
+This is a salad that is so elegant looking that guests will think you spent hours in the kitchen. Golden beets are roasted until tender, then sliced and layered with fresh goat cheese & chive filling.
+Feel free to use red beets (you can use any color combination you like: all yellow, all red, or alternating colors! Read more ) as well as different nuts, such as candied walnuts or plain, toasted hazelnuts. See less
+beets
+salad
+goat cheese
+pecans
+candied
+citrus
+vinaigrette
+bake
+french
+save Add tags (comma separated) to categorize your bookmark. Save Feel free to use any of the below tags. Click one to add it. beets salad goat cheese pecans candied citrus vinaigrette bake french
+planner Add this recipe to your weekly planner Fri Sat Sun Mon Tue Wed Thu Schedule your weekly meals and get auto-generated shopping lists. or go to planner
+Fri
+Sat
+Sun
+Mon
+Tue
+Wed
+Thu
+Schedule your weekly meals and get auto-generated shopping lists.
+print
+email Email to Send
+groc. list Add items to your shopping list 2 extra large golden beets Assorted organic baby lettuces, washed, dried and torn by hand Citrus Vinaigrette: 1/4 cup extra-virgin olive oil (hazelnut oil or walnut oil is wonderful too) 1 tablespoon fresh lemon juice 1 tablespoon fresh orange juice 1 tablespoon Balsamic Vinegar Zest of one large orange 1 tablespoon honey 1/4 teaspoon kosher salt 1/2 teaspoon freshly ground black pepper Candied Pecans: 1 cup raw pecans pieces 4 tablespoons granulated sugar Goat Cheese Filling: 8 oz. Fromage de Chèvre A few tablespoons of heavy cream Fresh chives, chopped Freshly ground black pepper, to taste go view your shopping list
+2 extra large golden beets
+Assorted organic baby lettuces, washed, dried and torn by hand
+Citrus Vinaigrette:
+1/4 cup extra-virgin olive oil (hazelnut oil or walnut oil is wonderful too)
+1 tablespoon fresh lemon juice
+1 tablespoon fresh orange juice
+1 tablespoon Balsamic Vinegar
+Zest of one large orange
+1 tablespoon honey
+1/4 teaspoon kosher salt
+1/2 teaspoon freshly ground black pepper
+Candied Pecans:
+1 cup raw pecans pieces
+4 tablespoons granulated sugar
+Goat Cheese Filling:
+8 oz. Fromage de Chèvre
+A few tablespoons of heavy cream
+Fresh chives, chopped
+Freshly ground black pepper, to taste
+Ingredients
+2 extra large golden beets shopping list
+Assorted organic baby lettuces, washed, dried and torn by hand shopping list
+Citrus Vinaigrette: shopping list
+1/4 cup extra-virgin olive oil (hazelnut oil or walnut oil is wonderful too) shopping list
+1 tablespoon fresh lemon juice shopping list
+1 tablespoon fresh orange juice shopping list
+1 tablespoon Balsamic Vinegar shopping list
+Zest of one large orange shopping list
+1 tablespoon honey shopping list
+1/4 teaspoon kosher salt shopping list
+1/2 teaspoon freshly ground black pepper shopping list
+Candied Pecans: shopping list
+1 cup raw pecans pieces shopping list
+4 tablespoons granulated sugar shopping list
+Goat Cheese Filling: shopping list
+8 oz. Fromage de Chèvre shopping list
+A few tablespoons of heavy cream shopping list
+Fresh chives, chopped shopping list
+Freshly ground black pepper, to taste shopping list
+How to make it
+For the beets: Preheat the oven to 400˚F. Place each beet on a piece of foil and wrap tightly. Roast on a sheet pan (juice escapes sometimes) for about 1 hour, or until tender. Let cool for about 5 to 10 minutes. Using your fingers or a small, sharp knife, peel off the beet skin and trim the ends.
+Tip: Beets can vary widely in cooking time. Large fresh beets can take up to 1 1/2 hours. To test, place a small, sharp knife in the center; the beet should feel soft and tender all the way through.
+For the vinaigrette: Combine all the ingredients in a jar or a tight-sealing plastic container. Shake to blend.
+For the pecans: Toast nuts until oils are released in non-stick skillet. Add sugar and stir until sugar melts and begins to caramelize. Line a plate with parchment paper and pour nuts out, spreading them to cool.
+For the filling: Place the goat cheese in a small bowl. Using the back of spoon or a rubber spatula, cream the cheese, adding cream as needed, until soft and the chives are fully incorporated. (The beets and cheese filling can be made a day ahead of time; cover and refrigerate until ready to assemble.)
+To assemble the napoleons, place one of the beet rounds on a firm, flat surface and begin to layer. Spread with an even layer of goat cheese, then another beet round, another layer of cheese, another beet round, a third layer of cheese, and a beet round. (Continue until you have four layers of beets and four layers of cheese.)
+Carefully cut through layers, dividing into three wedges. Repeat with the remaining beets and cheese.
+To serve, arrange three of the wedges, pointed ends facing out, in a circle in the center of each plate. Toss the baby lettuces with a little of the citrus vinaigrette and mound on each end of plate. Drizzle more of the citrus over the beet stacks. Sprinkle with candied nuts and orange zest from the vinagrette on top. Sprinkle with freshly cracked pepper, if desired, and serve immediately.
+reviews Anycity, Anystate
+kgarmany Nowhere, Us
+mistmaker Beddington, ME
+shandy Tacoma, WA
+annieamie Los Angeles, US
+joethejar Lake View, NY
+clbacon Birmingham, AL
+chuckieb Ottawa, CA
+kristopher San Francisco, CA
+luisascatering Burlingame, CA
+Show up here? Review or Bookmark it! ✔
+All Comments
+Your Comments
+" It was excellent " chuckieb ate it and said... Forget 5 stars....this one gets a '10'! It was gorgeous and tasted like a million dollars. More in IMI. Beet Goat Cheese Napoleons 06/09/14 Was this review helpful? Yes Flag
+" It was excellent " chuckieb ate it and said... I already had it bookmarked! :) Thanks! :) Was this review helpful? Yes Flag
+mistmaker 15 years ago This looks wicked good! Was this review helpful? Yes Flag
+shandy 15 years ago Luisa, you have outdone yourself once again! Was this review helpful? Yes Flag
+" It was excellent " annieamie ate it and said... I haven't made the dish yet but it looks fantastic! Was this review helpful? Yes Flag
+" It was excellent " annieamie ate it and said... What a lovely-looking dish! Congratulations on your recipe. Its truely something special! Was this review helpful? Yes Flag
+" It was excellent " chuckieb ate it and said... That is a very beautiful dish. Truly gorgeous. Thank you for sharing. Was this review helpful? Yes Flag
+kristopher 15 years ago WOW. Just wow. Beyond awesome upload. Was this review helpful? Yes Flag
+The Cook
+The Rating
+That is a very beautiful dish. Truly gorgeous. Thank you for sharing. chuckieb in Ottawa loved it
+That is a very beautiful dish. Truly gorgeous. Thank you for sharing.
+I already had it bookmarked! :) Thanks! :) chuckieb in Ottawa loved it
+I already had it bookmarked! :) Thanks! :)
+Forget 5 stars....this one gets a '10'! It was gorgeous and tasted like a million dollars. More in IMI. Beet Goat Cheese Napoleons 06/09/... more chuckieb in Ottawa loved it
+Forget 5 stars....this one gets a '10'! It was gorgeous and tasted like a million dollars. More in IMI. Beet Goat Cheese Napoleons 06/09/... more
+The Groups
+Not added to any groups yet!
+My Stuff My Home My Bookmarks Shopping List Weekly Planner
+My Home
+My Bookmarks
+Shopping List
+Weekly Planner
+Jump To Browse Categories Search
+Browse Categories
+Help Help Forum FAQ
+Help Forum
+FAQ
+Search Inspiration Terms of Service & Privacy Contact
+Search Inspiration
+Terms of Service & Privacy
+Contact
+Take Note We will not respond to member emails. Use the Help Forum for that.
+If you have a business development or DMCA inquiry, Click Here .
+Advertising on Group Recipes is sold by SheKnows.com. You can contact the sales team for more info.
+while I look at others.

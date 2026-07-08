@@ -1,0 +1,110 @@
+Artichoke Dip
+=============
+
+Recipe Metadata
+---------------
+Recipe ID: 6c484369bb435744
+CSV row number: 301
+Recipe name: Artichoke Dip
+Source: BigOven
+URL: http://www.bigoven.com/recipe/Artichoke-Dip/209551
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01e80295f027d36b9eae0f7aec876c46628fab60ff6bec121559c480ca4b8e31/21102109.jpg
+Servings: 4
+Calories: 2341.34
+Diet labels: Low-Carb
+Health labels: Vegetarian, Gluten-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean
+Meal type: snack
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Artichoke Dip
+source: BigOven
+url: http://www.bigoven.com/recipe/Artichoke-Dip/209551
+servings: 4
+calories: 2341.33981
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01e80295f027d36b9eae0f7aec876c46628fab60ff6bec121559c480ca4b8e31/21102109.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Vegetarian","Gluten-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["snack"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Artichoke Dip
+
+Description: Three basic ingredients, 10 minutes, what could be easier?
+
+Recipe category: Appetizers
+
+Recipe cuisine: American
+
+Yield: 4
+
+Prep time: PT10M
+
+Cook time: PT30M
+
+Total time: PT30M
+
+Ingredients:
+- 1 can (12 oz) Artichoke hearts
+- 1 cup Parmesan cheese
+- 1 cup Mayonnaise (light is ok)
+
+Instructions:
+1. Chop artickokes and mix with parmesan and mayo in a heat-safe bowl. Microwave on low heat or bake until bubbly. Serve with crackers or bread rounds.
+
+Visible page text:
+Recipes
+Appetizers
+Dips and Spreads
+Artichoke Dip
+WANT TO TRY
+FAVORITE
+MADE
+CUSTOM FOLDER
+Three basic ingredients, 10 minutes, what could be easier?
+Still searching for what to cook ?
+Find the most delicious recipes here
+Recipe
+Text
+Photos
+Nutr Nutrition
+Notes
+INGREDIENTS
+1 can (12 oz) Artichoke heart s
+1 cup Parmesan cheese
+1 cup Mayonnaise ; (light is ok)
+Copy and Customize
+About BigOven Pro
+INSTRUCTIONS
+Chop artickokes and mix with parmesan and mayo in a heat-safe bowl. Microwave on low heat or bake until bubbly.
+Serve with crackers or bread rounds.
+smobrien
+Nutrition
+View line-by-line Nutrition Insights™ : Discover which ingredients contribute the calories/sodium/etc.
+Disclaimer: Nutrition facts are derived from linked ingredients (shown at left in colored bullets) and may or may not be complete. Always consult a licensed nutritionist or doctor if you have a nutrition-related medical condition.
+Calories per serving : 566
+Get detailed nutrition information, including item-by-item nutrition insights, so you can see where the calories, carbs, fat, sodium and more come from.
+What would you serve with this? Link in another recipe .
+What to make this week
+Keep an eye out for original recipes from the BigOven Kitchen every week! SEE MORE >>
+BigOven Buzz
+Freshly baked content from the creators at BigOven Kitchen . Learn tried and true tips, ticks and methods.
+MORE IDEAS
+Creamy Artichoke and Spinach Dip
+Creamy Artichoke Dip
+Artichoke Dip with Garlic Bread Rounds
+REVIEW THIS RECIPE
+REVIEWS
+There are no reviews yet. Be the first !

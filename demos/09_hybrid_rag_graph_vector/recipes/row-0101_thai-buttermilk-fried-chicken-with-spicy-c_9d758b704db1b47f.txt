@@ -1,0 +1,176 @@
+Thai Buttermilk Fried Chicken with Spicy C
+==========================================
+
+Recipe Metadata
+---------------
+Recipe ID: 9d758b704db1b47f
+CSV row number: 101
+Recipe name: Thai Buttermilk Fried Chicken with Spicy C
+Source: yestoyolks.com
+URL: http://yestoyolks.com/2016/07/02/thai-buttermilk-fried-chicken-with-spicy-coconut-dipping-sauce/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0090be8e54a4c0e3b2868c696c682d9dc8a4c888f0e62abbf99b38fca604fb3e/21136075.jpg
+Servings: 6
+Calories: 1183.46
+Diet labels: Low-Carb
+Health labels: Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Shellfish-Free
+Allergy cautions: Tree-Nuts, Shellfish, Sulfites, FODMAP
+Cuisine type: south east asian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Thai Buttermilk Fried Chicken with Spicy C
+source: yestoyolks.com
+url: http://yestoyolks.com/2016/07/02/thai-buttermilk-fried-chicken-with-spicy-coconut-dipping-sauce/
+servings: 6
+calories: 1183.458959229987
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0090be8e54a4c0e3b2868c696c682d9dc8a4c888f0e62abbf99b38fca604fb3e/21136075.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Shellfish-Free"]
+cautions: ["Tree-Nuts","Shellfish","Sulfites","FODMAP"]
+cuisine_type: ["south east asian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Thai Buttermilk Fried Chicken with Spicy Coconut Dipping Sauce
+
+Yield: ['6', '6-8 servings (easily doubled)']
+
+Ingredients:
+- 1 (3.5-lb) chicken, cut into 8 pieces
+- 2 cups buttermilk
+- 2 teaspoons hot sauce
+- Zest and juice of 2 limes
+- 2 Thai chiles, halved
+- ¼ cup fresh lemongrass, chopped
+- 2 garlic cloves, smashed and left whole
+- 1 teaspoon onion powder
+- 1 tablespoon brown sugar
+- ¼ cup fresh cilantro, chopped
+- 2 cups flour
+- 1 teaspoon salt
+- 1 teaspoon black pepper
+- ½ teaspoon garlic powder
+- ½ teaspoon onion powder
+- ½ teaspoon cayenne pepper
+- Peanut oil, for frying
+- Limes, quartered
+- Additional fresh cilantro, chopped
+- Toasted sesame seeds, for garnish
+- Spicy coconut dipping sauce (below)
+- 1 tablespoon coconut oil (or olive oil)
+- 1 garlic clove, smashed and left whole
+- 2 tablespoons brown sugar
+- 1 (15-oz) can coconut milk
+- Zest and juice of 1 lime
+- 3 teaspoons fish sauce
+- 3 teaspoons toasted sesame oil
+- 2 teaspoons Sriracha hot sauce (or to taste)
+- Salt and pepper, to taste
+
+Instructions:
+1. In a large baking dish, stir together the buttermilk, hot sauce, lime zest/juice, chiles, lemongrass, garlic, onion powder, brown sugar, and cilantro. Season the chicken parts liberally with salt and pepper and then add to the baking dish. Toss to evenly coat in the buttermilk mixture.
+2. Refrigerate and marinate for at least 6 hours and up to 24 hours.
+3. Whisk together all the ingredients in another baking dish. Remove the chicken from the marinade, allowing the excess to drip off, and dredge evenly in the flour coating. Place the breaded chicken pieces on a plate.
+4. Once all the pieces have been coated, place the plate of chicken in the fridge while you heat up your oil for frying.
+5. In a large Dutch oven, heat 3-4 inches of peanut oil to 350°F. Add half the chicken to the pot and cook for 8-12 minutes (possibly longer depending how large your chicken pieces are), occasionally flipping the chicken over. The oil temperature will initially drop to around 300°F after you add the chicken. Allow it to return to 310-315°F for the remainder of the cooking time. Cook until the breading is deeply browned and crispy.
+6. Transfer the fried chicken to a cooling rack set over a baking sheet lined with paper towels. Repeat with remaining chicken.
+7. Garnish the fried chicken with lime wedges, chopped cilantro, and toasted sesame seeds. Serve warm with the dipping sauce.
+8. In a small saucepan, heat the oil over medium heat. Add the garlic clove and cook for a minute or two or until it is fragrant.
+9. Add in the brown sugar and stir until mostly dissolved. Add the coconut milk and stir until well combined.
+10. Bring the mixture to a gentle simmer and then cook for a few minutes or until it begins to reduce and thicken slightly.
+11. Whisk in the lime zest/juice, fish sauce, sesame oil, and hot sauce (all to taste). Season, to taste, with salt and pepper.
+12. Cool the sauce slightly before serving alongside the chicken.
+
+Visible page text:
+Hello, friends! Happy holiday weekend! What are your plans?! Tell me, tell me.
+We’re headed to a BBQ later today and hosting a small family gathering/BBQ/pool party tomorrow. Fireworks maaaay be in the picture tomorrow night. We didn’t take Kieran last year (he was too little, in my opinion), but I think he will be fascinated (or terrified?!?) by fireworks at this age. We’ll see. Monday will be spent recovering from the festivities, I’m sure.
+If you’re like me, you’ve already got your BBQ menus planned out and shopped for. I’m a planning freakazoid. I looooooooooove writing lists and I loooooove planning menus and parties and such. So, my July 4 th menu has been planned for about two weeks now. I know, I’m crazy. If you’re not like me with all my type-A tendencies, and you’re still trying to figure out what to make, I’ve got a little something up my sleeve for you today.
+Enter: fried chicken. THAI fried chicken. With the most delicious (read: drinkable) dipping sauce on the planet.
+So, here’s the deal: I am not really a big fan of fried chicken. Nope. Not interested 98% of the time. I know this is pure culinary sacrilege to some people, but it’s just never been my thing. I’d much rather eat a cheeseburger. That being said, I can totally appreciate the art of making fried chicken. It is definitely a labor of love.
+This is actually the first time I have ever made real-deal fried chicken at home. For the reasons already stated, I never felt inclined to make a huge production over deep-fried chicken. I had also discovered the perfect oven-fried chicken (no, really, it’s super close to the real fried version. So good), and thus felt even less inclined to deep fry. And then, I went and totally contradicted myself. What else is new?
+It all started when I was flipping through one of my foodie magazines several weeks ago and saw a picture of the most delectable looking fried chicken, styled beautifully on a platter alongside corn on the cob and mashed potatoes. My mouth started watering. And then I remembered: “wait, no, I don’t like fried chicken.” I closed the magazine and went about my day.
+But I couldn’t shake the idea of crispy-skinned, breaded, salty chicken. I ignored the growing idea bubble in my brain over the next few days. It looked something like this: “chicken, fried, Thai flavors, no-this-is-a-bad-idea, lemongrass, ginger, cilantro, chicken, fried, no-this-is-a-bad-idea, crispy breading, chiles, limes…OK, I can’t ignore this any longer.” I gave in. I fried some freaking chicken, people.
+As a result, today I give you Thai buttermilk fried chicken! The ultimate twist on tradition (and it’s even better than the traditional version, in my very humble opinion). Feeds a crowd. Perfect for a party…or July 4 th BBQ!
+The process of this recipe is pretty much the same as regular fried chicken, except that I infuse the buttermilk marinade with all tons of Thai flavors and garnish the finished product the same way. It is spicy, sweet, tangy, and completely delicious. You could say that I may be a fried chicken convert after this recipe. Just as long as it’s served with tons of lime wedges and this sauce.
+The sauce is magic. I can think of 1000 things I want to dunk into or pour over this sauce. It’s creamy and slightly sweet, quite spicy, savory, and super tangy. It worked really well with the flavor of the chicken. So, if you take the plunge, don’t skip the sauce! Promise me!
+This recipe is great, too, because except for the actual frying, everything else can be done hours and hours ahead of time. Marinate the chicken, prep the breading, and make the sauce the day before the party. Prep the fresh garnishes the day of. And dredge and fry your chicken just before serving. I won’t sugar coat things and tell you that this is a low-maintenance recipe, because deep frying never is, but I wholeheartedly believe this sort of thing can be made much more manageable with a little planning (Shocker. Me loving a plan? You don’t say).
+Your guests will want to eat this fresh and hot and will definitely come back for seconds. They’ll also likely be pleasantly surprised that there is fried chicken on the menu, instead of the regular old rotation of hot dogs and burgers (not that there’s ANYTHING wrong with that). The recipe below should feed 6-8 people easily, but you could totally swap in more drumsticks or thighs if you think that will work better for your crowd. I would recommend doing the whole chicken, as stated below, and adding in a package of bone-in, skin-on chicken thighs. That way, your guests will have plenty of variety to choose from…and let’s face it, most people love the thighs best.
+So, go ahead. Run to the store NOW to get the ingredients for this. Start marinating ASAP. It will be so, so worth it.
+Take it from this fried chicken disbeliever. If I can change, so can you.
+With that, I’ll leave you. Happy 4 th , guys! I hope you have a wonderful weekend!
+Ingredients
+For the Buttermilk Marinade:
+1 (3.5-lb) chicken, cut into 8 pieces
+2 cups buttermilk
+2 teaspoons hot sauce
+Zest and juice of 2 limes
+2 Thai chiles, halved
+¼ cup fresh lemongrass, chopped
+2 garlic cloves, smashed and left whole
+1 teaspoon onion powder
+1 tablespoon brown sugar
+¼ cup fresh cilantro, chopped
+For the Flour Coating:
+2 cups flour
+1 teaspoon salt
+1 teaspoon black pepper
+½ teaspoon garlic powder
+½ teaspoon onion powder
+½ teaspoon cayenne pepper
+For Frying/Serving:
+Peanut oil, for frying
+Limes, quartered
+Additional fresh cilantro, chopped
+Toasted sesame seeds, for garnish
+Spicy coconut dipping sauce (below)
+For the Spicy Coconut Dipping Sauce:
+1 tablespoon coconut oil (or olive oil)
+1 garlic clove, smashed and left whole
+2 tablespoons brown sugar
+1 (15-oz) can coconut milk
+Zest and juice of 1 lime
+3 teaspoons fish sauce
+3 teaspoons toasted sesame oil
+2 teaspoons Sriracha hot sauce (or to taste)
+Salt and pepper, to taste
+Instructions
+In a large baking dish, stir together the buttermilk, hot sauce, lime zest/juice, chiles, lemongrass, garlic, onion powder, brown sugar, and cilantro. Season the chicken parts liberally with salt and pepper and then add to the baking dish. Toss to evenly coat in the buttermilk mixture.
+Refrigerate and marinate for at least 6 hours and up to 24 hours.
+Whisk together all the ingredients in another baking dish. Remove the chicken from the marinade, allowing the excess to drip off, and dredge evenly in the flour coating. Place the breaded chicken pieces on a plate.
+Once all the pieces have been coated, place the plate of chicken in the fridge while you heat up your oil for frying.
+In a large Dutch oven, heat 3-4 inches of peanut oil to 350°F. Add half the chicken to the pot and cook for 8-12 minutes (possibly longer depending how large your chicken pieces are), occasionally flipping the chicken over. The oil temperature will initially drop to around 300°F after you add the chicken. Allow it to return to 310-315°F for the remainder of the cooking time. Cook until the breading is deeply browned and crispy.
+Transfer the fried chicken to a cooling rack set over a baking sheet lined with paper towels. Repeat with remaining chicken.
+Garnish the fried chicken with lime wedges, chopped cilantro, and toasted sesame seeds. Serve warm with the dipping sauce.
+In a small saucepan, heat the oil over medium heat. Add the garlic clove and cook for a minute or two or until it is fragrant.
+Add in the brown sugar and stir until mostly dissolved. Add the coconut milk and stir until well combined.
+Bring the mixture to a gentle simmer and then cook for a few minutes or until it begins to reduce and thicken slightly.
+Whisk in the lime zest/juice, fish sauce, sesame oil, and hot sauce (all to taste). Season, to taste, with salt and pepper.
+Cool the sauce slightly before serving alongside the chicken.
+Related
+Comments
+This is such a unique idea! Looks delicious! Reply Thanks, Danielle! Reply
+This is such a unique idea! Looks delicious!
+Thanks, Danielle! Reply
+Thanks, Danielle!
+Could I make the Dipping Sauce the day before and refrigerate? thank you Reply Absolutely! In fact, I recommend you do that because it tastes even better when it has a little more time to hang out. It should reheat well for you! Reply
+Could I make the Dipping Sauce the day before and refrigerate? thank you
+Absolutely! In fact, I recommend you do that because it tastes even better when it has a little more time to hang out. It should reheat well for you! Reply
+Absolutely! In fact, I recommend you do that because it tastes even better when it has a little more time to hang out. It should reheat well for you!
+This was a nice recipe! Very different than usual fried chicken. I added some green onion and cilantro directly to the marinade, and used some of the marinade to add to the flour for some extra flavour and scraggly bits when fried. The dipping sauce is a must, made lots and very tasty but be careful when cooking or you might end up with coconut caramel. Reply
+This was a nice recipe! Very different than usual fried chicken. I added some green onion and cilantro directly to the marinade, and used some of the marinade to add to the flour for some extra flavour and scraggly bits when fried. The dipping sauce is a must, made lots and very tasty but be careful when cooking or you might end up with coconut caramel.
+Trackbacks
+[…] 22. Yes to Yolks – Thai Buttermilk Fried Chicken with Spicy Coconut Dipping Sauce […] Reply
+[…] 22. Yes to Yolks – Thai Buttermilk Fried Chicken with Spicy Coconut Dipping Sauce […]
+Leave a Reply Cancel reply
+This site uses Akismet to reduce spam. Learn how your comment data is processed .
+Connect
+Hi There. I'm Molly. I'm a food-obsessed, self-taught cook and I can't wait to share my passion for all things culinary with you. My love for egg yolks is just the tip of the iceberg! Read More…

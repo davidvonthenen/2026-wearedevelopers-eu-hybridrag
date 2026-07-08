@@ -1,0 +1,140 @@
+Smooth Pumpkin and Lentil Puree
+===============================
+
+Recipe Metadata
+---------------
+Recipe ID: 43f54c475690884c
+CSV row number: 131
+Recipe name: Smooth Pumpkin and Lentil Puree
+Source: onehandedcooks.com.au
+URL: http://onehandedcooks.com.au/recipe/smooth-pumpkin-and-lentil-puree/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00cee7307c8ea71831b9a4866e77bbfd4434ac6e1b8b5cbca77562df00693ff7/21125215.jpg
+Servings: 2
+Calories: 368.08
+Diet labels: High-Fiber, Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: british
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Smooth Pumpkin and Lentil Puree
+source: onehandedcooks.com.au
+url: http://onehandedcooks.com.au/recipe/smooth-pumpkin-and-lentil-puree/
+servings: 2
+calories: 368.0799999999999
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00cee7307c8ea71831b9a4866e77bbfd4434ac6e1b8b5cbca77562df00693ff7/21125215.jpg
+diet_labels: ["High-Fiber","Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["british"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+About One Handed Cooks Products We Love Contact Us Disclaimer
+One Handed Cooks
+Products We Love
+Contact Us
+Disclaimer
+New Recipes
+Baby Food Purées Textured Food Finger Food Vegetarian
+Purées
+Textured Food
+Finger Food
+Vegetarian
+Toddler Food Textured Food Finger Food Healthy Snacks Vegetarian
+Healthy Snacks
+Family Food Lunch Dinner Sides Healthy Snacks Kids Parties
+Lunch
+Dinner
+Sides
+Kids Parties
+Allergies Allergies Intolerance Dairy Free Egg Free Gluten Free Wheat Free
+Allergies
+Intolerance
+Dairy Free
+Egg Free
+Gluten Free
+Wheat Free
+Solids Starting Solids Food Preparation Food Storage Tips from Mums Baby Led Weaning
+Starting Solids
+Food Preparation
+Food Storage
+Tips from Mums
+Baby Led Weaning
+Nutrition Foods Vitamins & Minerals Nutrient Reference Guide Understanding Food Labels Food to Try & When Guide “Quick Bites”
+Foods
+Vitamins & Minerals
+Nutrient Reference Guide
+Understanding Food Labels
+Food to Try & When Guide
+“Quick Bites”
+Fussy Eating Kids Cooking Tips & Tricks
+Kids Cooking
+Tips & Tricks
+Shop
+Facebook
+Twitter
+Pinterest
+RSS
+Smooth Pumpkin and Lentil Puree
+Course: Dinner , Lunch
+Yield : 1 cup
+Prep Time : 5m
+Cook Time : 10m
+Ready In : 15m
+Smooth Pumpkin & Lentil Puree
+I actually made this at the same time as the Pick ‘N’ Mix Lentil Veggie Mash . I just pureed some of the leftover steamed pumpkin and lentils and voila! Too easy! I froze it in freezer trays and have served it to George several times either on its own or mixed through with the Lentil Veggie Mash or other vegetables. He enjoys it every time.
+Nutrition Note: The natural sweetness of pumpkin is a perfect match for the very savoury brown lentils. This will help your baby accept and enjoy brown lentils particularly if its your first time introducing them to your bub.
+As seen in our Spring magazine. You can read more about the current and back issues of our magazines and buy them online here:
+Launch magazine
+Back to school
+Winter Warmers
+Spring Magazine
+Summer Magazine – on sale now
+Ingredients 1 cup pumpkin, chopped 1/2 cup tinned brown lentils, no added salt, drained and rinsed Method Step 1 Place pumpkin in a streamer tray over a pot of boiling water, cover and steam for 5-8 minutes or until soft. - Step 2 Combine pumpkin and lentil puree until smooth. -
+Ingredients
+1 cup pumpkin, chopped
+1/2 cup tinned brown lentils, no added salt, drained and rinsed
+Method
+Step 1
+Place pumpkin in a streamer tray over a pot of boiling water, cover and steam for 5-8 minutes or until soft. -
+Step 2
+Combine pumpkin and lentil puree until smooth. -
+Join us on Facebook for other foodie bits and pieces.
+Recipe Comments
+Post A Comment
+(3.7 / 5)
+3 people rated this recipe
+More Recipes
+Random
+Popular
+Recent
+Banana Pancakes (4.7 / 5)
+(4.7 / 5)
+Oreo Pops (3.3 / 5)
+(3.3 / 5)
+Lion Cake (5 / 5)
+(5 / 5)
+Banana Toast for Babies (3.2 / 5)
+(3.2 / 5)
+Fruit, Oat & Chia Mini Chews (4.2 / 5)
+(4.2 / 5)
+Banana Apple and Cinnamon Muffins (3.7 / 5)
+{THE FAMILY MEAL SOLUTION EXTRACT} Raspberry and White Chocolate Blondies (1.8 / 5)
+(1.8 / 5)
+{THE FAMILY MEAL SOLUTION EXTRACT} Creamy Garlic Chicken + Freezer Dump Bag (3 / 5)
+(3 / 5)
+Creamy Pesto Gnocchi Bake (4.3 / 5)
+(4.3 / 5)
+Pinterest More Pins
+One Handed Cooks © 2019

@@ -1,0 +1,81 @@
+A classic with Cognac and Champagne for V-Day recipes
+=====================================================
+
+Recipe Metadata
+---------------
+Recipe ID: a5b87d668077295d
+CSV row number: 234
+Recipe name: A classic with Cognac and Champagne for V-Day recipes
+Source: Food Republic
+URL: http://www.foodrepublic.com/recipes/a-french-75-cocktail-with-cognac-you-better-believe-it-and-check-your-history/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0174b6c1e6d2c4848b7729024fe707dc0b5d8080d1a20bd7d84055c07e675e52/20956497.jpeg
+Servings: 4
+Calories: 179.10
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: world
+Meal type: lunch/dinner
+Dish type: alcohol cocktail
+
+Original CSV Fields
+-------------------
+recipe_name: A classic with Cognac and Champagne for V-Day recipes
+source: Food Republic
+url: http://www.foodrepublic.com/recipes/a-french-75-cocktail-with-cognac-you-better-believe-it-and-check-your-history/
+servings: 4
+calories: 179.0981123421875
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0174b6c1e6d2c4848b7729024fe707dc0b5d8080d1a20bd7d84055c07e675e52/20956497.jpeg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["world"]
+meal_type: ["lunch/dinner"]
+dish_type: ["alcohol cocktail"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: A French 75 Cocktail With Cognac? You Better Believe It, And Check Your History.
+
+Yield: ['1', '1 cocktail']
+
+Prep time: PT5M
+
+Total time: PT5M
+
+Ingredients:
+- 1 ounce Pierre Ferrand Ambre Cognac
+- 1/4 ounce fresh-squeezed lemon juice
+- 1/4 ounce simple syrup
+- 4 ounces Champagne
+
+Instructions:
+1. Shake Cognac, lemon and simple syrup with ice and strain into a chilled champagne flute glass.
+2. Top slowly with 3 to 4 ounces of Champagne and garnish with a lemon twist.
+3. A Cool Spin On The Old Fashioned: The Saw Tooth Cocktail Recipe
+4. Meet The Modern Whiskey Sour: Gold Rush Cocktail Recipe
+5. Aged Rum Takes Manhattan: Arabian Rose Cocktail Recipe
+
+Visible page text:
+A French 75 Cocktail With Cognac? You Better Believe It, And Check Your History.
+We may receive a commission on purchases made from links.
+Ever since it was published in The Savoy Cocktail Book and infiltrated the top bars in Paris and New York, the French 75 has reigned as one of the most elegant Champagne cocktails. Though some today try to serve it with gin as the base, Cognac is not only a far better choice in terms of flavor, but it was the original spirit used back in the early 1920s. However, there are other ways to make this drink even more decadent.
+If there is one city that has carried on the tradition of the French 75 more than any other over the past century, it's New Orleans. At Restaurant R'evolution , just a few doors down from the historic Arnaud's French 75 bar in the French Quarter, they finish this cocktail with a choice of three top Champagnes. Beverage director Molly Wismeier explains the subtle differences in how the Dom Perignon 2000 "creates a toasty, warm brioche" effect, while the Taittinger Comtes de Champagne 2004 is more "lively filled with citrus layers," and how perhaps the most approachable option is the non-vintage Bourgeois-Diaz, providing an offering with "less mineral and body."
+While pouring some of the finest Champagne into any cocktail is not an everyday occurrence, it does underscore that better ingredients can result in a better cocktail, if made well. I'd certainly love to be in NOLA to experience this rare treat first-hand, since it will only be offered this Valentine's Day. For the rest of us, more reasonably priced Champagnes or even substituting with dry sparkling wine is acceptable. While the French 75 is well-suited to romantic occasions, once you become acquainted with this delicious drink, it will also likely start to show up at your dinner parties and join you at cocktail bars rather quickly.
+Ingredients
+1 ounce Pierre Ferrand Ambre Cognac
+1/4 ounce fresh-squeezed lemon juice
+1/4 ounce simple syrup
+4 ounces Champagne
+Directions
+Shake Cognac, lemon and simple syrup with ice and strain into a chilled champagne flute glass.
+Top slowly with 3 to 4 ounces of Champagne and garnish with a lemon twist.
+A Cool Spin On The Old Fashioned: The Saw Tooth Cocktail Recipe
+Meet The Modern Whiskey Sour: Gold Rush Cocktail Recipe
+Aged Rum Takes Manhattan: Arabian Rose Cocktail Recipe
+Recommended

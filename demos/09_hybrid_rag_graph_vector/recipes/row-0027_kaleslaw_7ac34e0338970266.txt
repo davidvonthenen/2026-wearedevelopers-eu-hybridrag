@@ -1,0 +1,111 @@
+Kaleslaw
+========
+
+Recipe Metadata
+---------------
+Recipe ID: 7ac34e0338970266
+CSV row number: 27
+Recipe name: Kaleslaw
+Source: Elana's Pantry
+URL: http://www.elanaspantry.com/kaleslaw/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/001f9709f83285250fea37a3791e52d6c01c21e0bf143b5aea64539c3dd38799/21093033.jpg
+Servings: 4
+Calories: 418.87
+Diet labels: High-Fiber, Low-Sodium
+Health labels: Vegan, Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Kaleslaw
+source: Elana's Pantry
+url: http://www.elanaspantry.com/kaleslaw/
+servings: 4
+calories: 418.8724999999999
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/001f9709f83285250fea37a3791e52d6c01c21e0bf143b5aea64539c3dd38799/21093033.jpg
+diet_labels: ["High-Fiber","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Kaleslaw
+
+Prep time: PT10M
+
+Total time: PT10M
+
+Ingredients:
+- 2 heads kale, (any variety)
+- 4 large carrots
+- ¼ cup marcona almonds, (coarsely chopped)
+
+Instructions:
+1. chiffonade the kale into thin strips
+2. Use a julienne peeler to slice the carrots
+3. In a large bowl, toss together kale, carrots, and almonds
+4. Coat with Marcona Almond Mayonnaise or primal kitchen mayo
+5. Serve
+
+Visible page text:
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+Skip to footer
+My garden is overflowing with kale so I am looking for creative ways to serve it to the boys. Of course, their favorite kale dish is the Kale Salad with Cranberries , however, we can’t have that every night so I came up with this delicious gluten free Kaleslaw. The boys liked it and ate some, I myself had about 4 bowls of it –addictive I’d say.
+Kaleslaw
+Ingredients
+2 heads kale, any variety
+4 large carrots
+¼ cup marcona almonds, coarsely chopped
+Instructions
+chiffonade the kale into thin strips
+Use a julienne peeler to slice the carrots
+In a large bowl , toss together kale, carrots, and almonds
+Coat with Marcona Almond Mayonnaise or primal kitchen mayo
+Serve
+Equipment
+You can use regular mayonnaise for this dish if you do not wish to use my Marcona Almond Mayonnaise .
+Stephanie O’Dea from A Year of Slow Cooking was on Good Morning America today to discuss her book Make It Fast, Cook It Slow and she was absolutely fabulous on the show. All of the recipes in the book are made using a crockpot and the food looks comforting, nourishing and delicious. Check out her gluten free cookbook on amazon.com , it drops today and is going to be a winner!
+Hi! I’m Elana :
+Wellness Warrior
+Food Fanatic
+Paleo Pioneer
+Check Out My Books!
+Reader Interactions
+Comments
+This salad looks incredible! It seems so simple but it looks tasty. Reply
+This salad looks incredible! It seems so simple but it looks tasty.
+Any chance you’ve posted that almond mayo recipe…. Reply
+Any chance you’ve posted that almond mayo recipe….
+This looks delicious. My husband is allergic to almonds…so it will be all for me. Bwahaha. (thats my evil laugh) Reply
+This looks delicious. My husband is allergic to almonds…so it will be all for me. Bwahaha. (thats my evil laugh)
+Yum, looks tasty. Reply
+Yum, looks tasty.
+Your veggie recipes are my favorite! Hooray for Kaleslaw! Reply
+Your veggie recipes are my favorite! Hooray for Kaleslaw!
+This looks great Elana! I cannot wait until kale is in season here. In the meantime, I am enjoying myself with pumpkin. I made squash pie, icecream and 2 curries with butternut over the last 2 weeks. The house smells like autumn and the fireplace! xox Christianne Reply
+This looks great Elana! I cannot wait until kale is in season here. In the meantime, I am enjoying myself with pumpkin. I made squash pie, icecream and 2 curries with butternut over the last 2 weeks. The house smells like autumn and the fireplace! xox Christianne
+Looks yummy but i must admit i am not a fan of mayo! what about a soy-maple-ginger nut butter-ish dressing? I suppose then it’d become a salad and not a slaw! Reply
+Looks yummy but i must admit i am not a fan of mayo! what about a soy-maple-ginger nut butter-ish dressing? I suppose then it’d become a salad and not a slaw!
+Leave a Reply Cancel reply
+Footer
+Facebook
+Pinterest
+Instagram
+Twitter
+Hungry for More? Sign Up
+Hungry for More?
+Join the list & and stay in the know!
+You’re inbox and stomach won’t regret it!

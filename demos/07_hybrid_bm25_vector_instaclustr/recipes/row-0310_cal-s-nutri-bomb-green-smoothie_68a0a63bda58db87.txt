@@ -1,0 +1,100 @@
+Cal's Nutri-Bomb Green Smoothie
+===============================
+
+Recipe Metadata
+---------------
+Recipe ID: 68a0a63bda58db87
+CSV row number: 310
+Recipe name: Cal's Nutri-Bomb Green Smoothie
+Source: food.com
+URL: http://www.food.com/recipe/cals-nutri-bomb-green-smoothie-518993
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01fc95deb9e618765fe6f396309b27cd83eaaca4506e98c2882ccfaf679ee998/21097515.jpg
+Servings: 4
+Calories: 688.73
+Diet labels: Balanced, High-Fiber, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: breakfast
+Dish type: drinks
+
+Original CSV Fields
+-------------------
+recipe_name: Cal's Nutri-Bomb Green Smoothie
+source: food.com
+url: http://www.food.com/recipe/cals-nutri-bomb-green-smoothie-518993
+servings: 4
+calories: 688.7318452379982
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01fc95deb9e618765fe6f396309b27cd83eaaca4506e98c2882ccfaf679ee998/21097515.jpg
+diet_labels: ["Balanced","High-Fiber","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["drinks"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Cal's Nutri-Bomb Green Smoothie
+
+Description: Make and share this Cal's Nutri-Bomb Green Smoothie recipe from Food.com.
+
+Recipe category: Smoothies
+
+Yield: 4 serving(s)
+
+Prep time: PT5M
+
+Total time: PT5M
+
+Ingredients:
+- 3 ounces kale
+- 2 ounces spinach
+- 1 apple (cored)
+- 2 bananas
+- 1/2 ounce fresh gingerroot (grated)
+- 2 tablespoons fresh basil (chopped)
+- 2 garlic cloves
+- 1/2 ounce fresh turmeric (grated)
+- 2 tablespoons flax seeds (ground)
+- 1 tablespoon hemp seeds
+- 1 tablespoon chia seeds
+- 2 tablespoons tomato paste
+- 32 ounces water (or to fill blender to 64 oz)
+
+Instructions:
+1. Combine all ingredients in a large blender and process until smooth and serve immediately.
+2. Note: Bananas and apples may be frozen in advance. Ice may be substituted for a portion of the water.
+
+Visible page text:
+Cal's Nutri-Bomb Green Smoothie
+ingredients
+3 ounces kale
+2 ounces spinach
+1 apple (cored)
+2 bananas
+1 ⁄ 2 ounce fresh gingerroot (grated)
+2 tablespoons fresh basil (chopped)
+2 garlic cloves
+1 ⁄ 2 ounce fresh turmeric (grated)
+2 tablespoons flax seeds (ground)
+1 tablespoon hemp seeds
+1 tablespoon chia seeds
+2 tablespoons tomato paste
+32 ounces water (or to fill blender to 64 oz)
+directions
+Combine all ingredients in a large blender and process until smooth and serve immediately.
+Note: Bananas and apples may be frozen in advance. Ice may be substituted for a portion of the water.
+Questions & Replies
+Reviews
+RECIPE SUBMITTED BY
+6 Followers
+30 Recipes
+1 Tweak
+YOU'LL ALSO LOVE
+Find More Recipes

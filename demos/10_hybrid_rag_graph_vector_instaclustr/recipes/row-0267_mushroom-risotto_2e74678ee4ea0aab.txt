@@ -1,0 +1,88 @@
+Mushroom Risotto
+================
+
+Recipe Metadata
+---------------
+Recipe ID: 2e74678ee4ea0aab
+CSV row number: 267
+Recipe name: Mushroom Risotto
+Source: tastykitchen.com
+URL: https://tastykitchen.com/recipes/sidedishes/mushroom-risotto-3/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01b0683c6cf0ecbe9f4a73ba8d3687ff5266d2917a74c038c986fb525b3a16b0/21059300.jpg
+Servings: 4
+Calories: 2903.32
+Diet labels: Balanced, High-Fiber
+Health labels: Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Mushroom Risotto
+source: tastykitchen.com
+url: https://tastykitchen.com/recipes/sidedishes/mushroom-risotto-3/
+servings: 4
+calories: 2903.319406
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01b0683c6cf0ecbe9f4a73ba8d3687ff5266d2917a74c038c986fb525b3a16b0/21059300.jpg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Mushroom Risotto
+Print
+Leave a comment
+write a review
+Print Options
+Description
+Risotto has quite the rap for being a time-intensive dish to make. That’s not true. This was ready in just about a half hour. The reason some people have an aversion to making risotto is because it does require a lot of attention for that half hour. And by attention I mean stirring.
+I like to think that all that stirring negates the calories in the risotto.
+Ingredients
+5 cups Chicken Broth
+1 cup Water
+1 Tablespoon Olive Oil
+¼ cups Butter, Divided Use
+1 pound Fresh Shiitake Mushrooms, Stems Discarded And Caps Sliced 1/4 Inch Thick
+1 whole Small Onion, Finely Chopped
+1-½ cup Arborio Rice
+½ cups Dry White Wine
+1 cup Parmigiano-Reggiano, Grated
+Preparation
+1. Bring broth and water to a simmer in a 4-quart pot; keep broth at a bare simmer, covered. 2. Heat oil with 1 tablespoon butter in a 4-quart heavy saucepan over moderately high heat. Add mushrooms and sauté, stirring occasionally, until browned, about 4 minutes. Season with salt and pepper, then transfer to a bowl. 3. Cook onion in 2 tablespoons butter in saucepan over moderate heat, stirring, until softened, about 3 minutes. Add rice and cook, stirring, 1 minute. Add wine and cook, stirring, until wine is absorbed, about 1 minute. 4. Ladle in 1 cup simmering broth and cook at a strong simmer, stirring, until broth is absorbed, about 2 minutes. Continue simmering and adding broth, about 1/2 cup at a time, stirring frequently and letting each addition be absorbed before adding next, until rice is just tender and looks creamy, 18 to 20 minutes. (Save leftover broth for thinning.) 5. Remove from heat and stir in 1/2 cup cheese, remaining tablespoon butter, and salt and pepper to taste. Gently stir in mushrooms, then cover pan and let stand 1 minute. If desired, thin risotto with some of remaining broth. Serve immediately with remaining cheese on the side.
+More Recipes from carlyklock
+Chicken Pot Pie Poppers
+Birthday Cake Batter Cinnamon Rolls
+Find carlyklock elsewhere on the web.
+Website
+Facebook
+Twitter
+No Comments
+Leave a Comment!
+You must be logged in to post a comment.
+No Reviews
+You must be logged in to post a review.
+Food Gifts
+View Recipe
+Slow Cooker Season!
+Related Recipes
+Prep: 10 mins Cook: 35 mins
+Serves: 4 Level: Easy
+Share f a e
+Prep: 2 mins Cook: 18 mins
+Serves: 6 Level: Easy
+Prep: 40 mins Cook: 25 mins
+Serves: 8 Level: Easy
+Prep: 5 mins Cook: 30 mins
+Prep: 5 mins Cook: 45 mins
+Serves: 1 Level: Easy

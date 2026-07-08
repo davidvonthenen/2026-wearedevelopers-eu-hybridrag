@@ -1,0 +1,123 @@
+Hummus from Scratch
+===================
+
+Recipe Metadata
+---------------
+Recipe ID: 47097403d761b5ee
+CSV row number: 113
+Recipe name: Hummus from Scratch
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/216621/hummus-from-scratch
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00b37ba8772237353406f156a31449ce4b256d697a69efec7a9f70d4fd9eee7a/21116330.jpg
+Servings: 8
+Calories: 1072.22
+Diet labels: Balanced
+Health labels: Vegan, Vegetarian, Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Hummus from Scratch
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/216621/hummus-from-scratch
+servings: 8
+calories: 1072.221800537859
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00b37ba8772237353406f156a31449ce4b256d697a69efec7a9f70d4fd9eee7a/21116330.jpg
+diet_labels: ["Balanced"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Hummus from Scratch
+
+Description: Garbanzo beans and soybeans are cooked until tender in a pressure cooker, then mixed with tahini and other flavors. Stovetop cooking instructions are included as well.
+
+Recipe category: ['Appetizer', 'Snack']
+
+Recipe cuisine: ['Middle Eastern Inspired', 'Greek', 'American']
+
+Yield: ['8', '8 servings']
+
+Prep time: PT15M
+
+Cook time: PT60M
+
+Total time: PT90M
+
+Ingredients:
+- 0.75 cup dry garbanzo beans
+- 0.25 cup dried soybeans
+- 1 bay leaf
+- 1 onion, quartered
+- 1 cup vegetable broth
+- 3 cups water
+- 2 cloves cloves garlic, crushed
+- 1 lemon, juiced
+- 2 tablespoons soy sauce
+- black pepper to taste
+- 0.25 cup tahini
+- 0.25 cup chopped fresh parsley
+
+Instructions:
+1. Rinse the garbanzos and soybeans, and place them in a pressure cooker along with the bay leaf and onion. Add vegetable broth and enough water to cover the beans by 1 inch (or follow the manufacturer&#39;s instructions for the minimum amount of liquid required).
+2. Seal the lid and bring the pressure up to high; reduce the heat to low and cook, maintaining high pressure, for 1 hour. Allow the pressure to drop naturally.
+3. Drain the beans, reserving the liquid. Place the beans in the bowl of a food processor. Add the garlic, lemon juice, soy sauce, black pepper, and tahini; process until smooth. (You may add some of the cooking liquid for a thinner consistency.) Scoop the mixture into a bowl, and mix in the parsley.
+
+Visible page text:
+Recipes
+Appetizers and Snacks
+Dips and Spreads Recipes
+Hummus Recipes
+Hummus from Scratch
+This is a great recipe made from dried garbanzo beans and soy beans. I cook my beans in a pressure cooker for an hour in a half water, half stock solution, but the old 'soak the beans overnight and simmer for two hours' method would also work.
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 8 servings
+¾ cup dry garbanzo beans
+¼ cup dried soybeans
+1 bay leaf
+1 onion, quartered
+1 cup vegetable broth
+3 cups water
+2 cloves cloves garlic, crushed
+1 lemon, juiced
+2 tablespoons soy sauce
+black pepper to taste
+¼ cup tahini
+¼ cup chopped fresh parsley
+Directions
+Rinse the garbanzos and soybeans, and place them in a pressure cooker along with the bay leaf and onion. Add vegetable broth and enough water to cover the beans by 1 inch (or follow the manufacturer's instructions for the minimum amount of liquid required).
+Seal the lid and bring the pressure up to high; reduce the heat to low and cook, maintaining high pressure, for 1 hour. Allow the pressure to drop naturally.
+Drain the beans, reserving the liquid. Place the beans in the bowl of a food processor. Add the garlic, lemon juice, soy sauce, black pepper, and tahini; process until smooth. (You may add some of the cooking liquid for a thinner consistency.) Scoop the mixture into a bowl, and mix in the parsley.
+Cook's Notes
+Add any other ingredients to make subtle changes in the taste of your hummus: I like roasted red peppers, sundried tomatoes, Parmesan, or scallions.
+To make this on the stovetop, soak the beans overnight. Bring the beans, onion, and bay leaf to a boil; reduce the heat and simmer, covered, until the beans are very tender, about 2 hours. Proceed with the recipe.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Hummus from Scratch
+1
+Most-Saved Recipes Like This
+Hummus III 2,291 Ratings 10 mins Save
+Real Hummus 1,214 Ratings 15 mins Save
+Extra Easy Hummus 673 Ratings 5 mins Save
+Black Bean Hummus 743 Ratings 5 mins Save
+Spiced Sweet Roasted Red Pepper Hummus 733 Ratings 1 hr 35 mins Save
+Super Easy Hummus 274 Ratings 5 mins Save
+Jalapeño Hummus 265 Ratings 10 mins Save
+Best Hummus 115 Ratings 10 mins Save
+Basic Hummus 82 Ratings 20 mins Save
+Easy Roasted Red Pepper Hummus 397 Ratings 15 mins Save
+You’ll Also Love

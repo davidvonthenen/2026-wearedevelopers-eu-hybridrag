@@ -1,0 +1,139 @@
+CHEESY ZUCCHINI TORTILLA QUICHE recipes
+=======================================
+
+Recipe Metadata
+---------------
+Recipe ID: f545213cb8d931e3
+CSV row number: 379
+Recipe name: CHEESY ZUCCHINI TORTILLA QUICHE recipes
+Source: hungryhobby.net
+URL: http://hungryhobby.net/tortilla-quiche/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02630e6723f8bef5fdeba213f2ae169846ceff7d60e41cb0d7bc0fa14a774e4e/21058342.jpeg
+Servings: 4
+Calories: 747.17
+Diet labels: none listed
+Health labels: Vegetarian, Gluten-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Eggs, Milk, Sulfites
+Cuisine type: french
+Meal type: breakfast
+Dish type: starter
+
+Original CSV Fields
+-------------------
+recipe_name: CHEESY ZUCCHINI TORTILLA QUICHE recipes
+source: hungryhobby.net
+url: http://hungryhobby.net/tortilla-quiche/
+servings: 4
+calories: 747.1666666666666
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02630e6723f8bef5fdeba213f2ae169846ceff7d60e41cb0d7bc0fa14a774e4e/21058342.jpeg
+diet_labels: []
+health_labels: ["Vegetarian","Gluten-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Eggs","Milk","Sulfites"]
+cuisine_type: ["french"]
+meal_type: ["breakfast"]
+dish_type: ["starter"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Cheesy Zucchini Tortilla Quiche
+
+Description: Cheesy Zucchini Tortilla Quiche is packed with layers of tortilla strips and zucchini shreds in between fluffy savory cheesy eggs. &nbsp;It's a high protein, spicy, balanced way to start your day!&nbsp;&nbsp;
+
+Yield: ['4', '4 servings']
+
+Ingredients:
+- 1/3 cup Harissa salsa (or your favorite salsa)
+- 2 large zucchini
+- 3 large eggs
+- 1.25 cups liquid egg whites
+- 1/2 teaspoon garlic powder
+- 1/2 teaspoon onion powder
+- 2 brown rice tortillas (cut into one inch strips )
+- 1/4 cup shredded cheddar cheese
+- 4-5 cherry tomatoes cut in half
+
+Instructions:
+1. Preheat oven to 350F.
+2. Using shredded attachment of food processer or a hand shredder, shred two large zucchini.
+3. Squeeze shredded zucchini of excess water.
+4. Spread salsa on bottom of cast iron dish or 8 x 8 baking dish.
+5. In a separate medium size bowl whisk egg whites, eggs, and seasonings. Add in zucchini and tortilla strips, mix until evenly combined.
+6. Pour mixture into cast iron pan or casserole dish. Top with layer of cheddar cheese, place tomato halves scattered on top.
+7. Bake on 350F for 30-40 minutes until fully set.
+
+Visible page text:
+Get Access to My FREE Library of Resources
+Free Weekly Meal Plans, Guides, Ebooks, & More!
+Sharing is caring!
+Facebook 15
+Twitter
+Pinterest 309
+Yummly
+Cheesy Zucchini Tortilla Quiche is packed with layers of tortilla strips and zucchini shreds in between fluffy savory cheesy eggs. It's a high protein, spicy, balanced way to start your day!
+Guess what? I've made this for breakfast FOUR times and each time I eat it before I can photograph it. I think it might be my favorite quiche recipe ever. Granted it's similar to my basic zucchini quiche recipe , but also, oh so very different.
+This version has strips of delicious brown rice tortilla baked into every single bite. The tortilla strips create a layered texture that is unbeatable. I also made this recipe using Trader Joe's harissa salsa, which in my opinion has the perfect mix of sweet, smokey and spicy.
+It is literally my new all-time favorite salsa and I stock up on it like I do frozen cauliflower rice because now that I have it, being without it is totally 100% unacceptable.
+I used Trader Joe's brown rice tortillas cut into strips, but you could use whatever whole grain tortilla is your favorite. Brown rice tortillas can be a little chewy or tough, but that's what I think makes them the perfect ingredient for this savory cheesy quiche.
+It came out with 16 grams of protein which is perfect, plus you get a giant slice packed with flavor and veggies for the healthy breakfast win! While 16 grams is a good deal of protein, it's kind of low calorie so could pair it with a half of an avocado or guacamole to give it some extra staying power!
+Cheesy Zucchini Tortilla Quiche
+[clickToTweet tweet="Cheesy Zucchini Tortilla Quiche is packed with layers of tortilla strips and zucchini shreds in between fluffy savory cheesy eggs. A high protein balanced way to start your day! #glutenfree" quote="Cheesy Zucchini Tortilla Quiche is packed with layers of tortilla strips and zucchini shreds in between fluffy savory cheesy eggs. A high protein balanced way to start your day! #glutenfree"]
+If you are a meal plan subscribe r, this recipe will be appearing on your meal plan soon!
+Not signed up yet? What to Eat? Meal Plans! are balanced, healthy, gluten-free meal plans designed by a Registered Dietitian (that's me!) to make healthy eating more convenient. Plus they include delicious recipes from Hungry Hobby like this one! Learn More and Sign Up for a FREE Week!
+Ingredients
+⅓ cup Harissa salsa or your favorite salsa
+2 large zucchini
+3 large eggs
+1.25 cups liquid egg whites
+½ teaspoon garlic powder
+½ teaspoon onion powder
+2 brown rice tortillas cut into one inch strips
+¼ cup shredded cheddar cheese
+4-5 cherry tomatoes cut in half
+Instructions
+Preheat oven to 350F.
+Using shredded attachment of food processer or a hand shredder, shred two large zucchini.
+Squeeze shredded zucchini of excess water.
+Spread salsa on bottom of cast iron dish or 8 x 8 baking dish.
+In a separate medium size bowl whisk egg whites, eggs, and seasonings. Add in zucchini and tortilla strips, mix until evenly combined.
+Pour mixture into cast iron pan or casserole dish. Top with layer of cheddar cheese, place tomato halves scattered on top.
+Bake on 350F for 30-40 minutes until fully set.
+Nutrition
+Looking for more healthy and delicious quiche recipes? Check my eggs recipe index or try one of these!
+Broccoli and Cauliflower Rice Quiche
+Spinach and Tomato Goat Cheese Quiche
+Zucchini Quiche Quesadilla
+Pin this for later and follow @hungryhobby on Pinterest for more healthy recipe ideas!
+More Breakfast
+Homemade Peanut Butter Chocolate Protein Bars
+Oat Flour Banana Bread (Dairy-Free)
+Oatmeal Banana Bread Recipe
+3 Easy Healthy Breakfast Ideas For Kids
+About Kelli Shallal MPH RD
+Kelli Shallal MPH RD is a Phoenix, Arizona based Registered Dietitian with a Masters in Public Health from Loma Linda University. She is a blogger behind the popular blog and nutrition practice Hungry Hobby. She is also the owner and creator of What to Eat? Meal Plans.
+Comments
+This looks great! I love quiche ( I just love anything with eggs in general) Putting the tortillas in is a great idea! Reply thanks patrick! Reply
+This looks great! I love quiche ( I just love anything with eggs in general) Putting the tortillas in is a great idea!
+thanks patrick! Reply
+thanks patrick!
+You know I can never say no to eggs. Bring it! Reply
+You know I can never say no to eggs. Bring it!
+OMG the Trader Joes harissa salsa is sooooo good. So is there Cowboy Caviar. I'm pretty sure I've already told you this. Reply
+OMG the Trader Joes harissa salsa is sooooo good. So is there Cowboy Caviar. I'm pretty sure I've already told you this.
+Leave a Reply Cancel reply
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+Sharing is Caring
+Save this post for later or send it to a friend!
+WhatsApp
+Tumblr
+Mix
+Email
+Reddit
+Flipboard
+Print
+15
+309

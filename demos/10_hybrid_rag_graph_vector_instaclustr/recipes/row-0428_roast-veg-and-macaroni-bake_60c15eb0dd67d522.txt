@@ -1,0 +1,127 @@
+Roast Veg and Macaroni Bake
+===========================
+
+Recipe Metadata
+---------------
+Recipe ID: 60c15eb0dd67d522
+CSV row number: 428
+Recipe name: Roast Veg and Macaroni Bake
+Source: BigOven
+URL: https://www.bigoven.com/recipe/roast-veg-and-macaroni-bake/638697
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02bccd61b8def7083bccf3fac79a1a1ed781612541318f3b24334b167c772ae6/21013366.jpg
+Servings: 2
+Calories: 997.38
+Diet labels: Balanced, High-Fiber
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Soy, Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Roast Veg and Macaroni Bake
+source: BigOven
+url: https://www.bigoven.com/recipe/roast-veg-and-macaroni-bake/638697
+servings: 2
+calories: 997.3781759218347
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02bccd61b8def7083bccf3fac79a1a1ed781612541318f3b24334b167c772ae6/21013366.jpg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Soy","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Roast Veg and Macaroni Bake
+
+Description: not set
+
+Recipe category: Main Dish
+
+Recipe cuisine: not set
+
+Yield: 2
+
+Prep time: PT30M
+
+Cook time: PT30M
+
+Total time: PT30M
+
+Ingredients:
+- 1 carrot peeled and chopped into bite size peices
+- 1 small parsnip dito
+- 1 small pumpkin dito
+- 4 medium brussel sprouts chopped into thirds
+- 2 rashers bacon diced
+- 1 cup macaroni pasta
+- 2 tablespoons cheese spread
+- 1 tablespoon Margarine
+- 10 - 15 mls sweet chilli sauce
+- breadcrumbs for topping
+- Margarine for topping
+
+Instructions:
+1. place cut carrot, parsnip and pumpkin in a small plastic bag with approx. 5 mls oil, toss until completely covered. place the vegies into a small casserole dish and cook in oven at 180 degrees for approx. 15 mins til vegies have started to brown. add the Brussel sprouts and bacon, to the vegies and toss. place back into oven for approx. another 15 to 30 minutes. While vegies are cooking cook the pasta. When cooked drain and place back into pot . Add the sweet chilli sauce, cheese spread, and milk and cook til cheese spread has melted. Poor over vegies, toss and then top with breadcrumbs and margarine which have been combined, and sprinkle over top and place in oven til browned.
+
+Visible page text:
+Recipes
+Main Dish
+Pasta
+Roast Veg and Macaroni Bake
+WANT TO TRY
+FAVORITE
+MADE
+CUSTOM FOLDER
+Try this Roast Veg and Macaroni Bake recipe, or contribute your own.
+Still searching for what to cook ?
+Find the most delicious recipes here
+Recipe
+Text
+Photos
+Nutr Nutrition
+Notes
+INGREDIENTS
+1 carrot ; peeled and chopped into bite size peices
+1 small parsnip ; dito
+1 small pumpkin ; dito
+4 medium brussel sprouts ; chopped into thirds
+2 rashers bacon ; diced
+1 cup macaroni pasta
+2 tablespoons cheese spread
+1 tablespoon Margarine
+10 - 15 mls sweet chilli sauce
+breadcrumbs ; for topping
+Margarine ; for topping
+Copy and Customize
+About BigOven Pro
+INSTRUCTIONS
+place cut carrot, parsnip and pumpkin in a small plastic bag with approx. 5 mls oil, toss until completely covered. place the vegies into a small casserole dish and cook in oven at 180 degrees for approx. 15 mins til vegies have started to brown. add the Brussel sprouts and bacon, to the vegies and toss. place back into oven for approx. another 15 to 30 minutes.
+While vegies are cooking cook the pasta. When cooked drain and place back into pot . Add the sweet chilli sauce, cheese spread, and milk and cook til cheese spread has melted.
+Poor over vegies, toss and then top with breadcrumbs and margarine which have been combined, and sprinkle over top and place in oven til browned.
+sangle
+Nutrition
+View line-by-line Nutrition Insights™ : Discover which ingredients contribute the calories/sodium/etc.
+Disclaimer: Nutrition facts are derived from linked ingredients (shown at left in colored bullets) and may or may not be complete. Always consult a licensed nutritionist or doctor if you have a nutrition-related medical condition.
+Calories per serving : 578
+Get detailed nutrition information, including item-by-item nutrition insights, so you can see where the calories, carbs, fat, sodium and more come from.
+What would you serve with this? Link in another recipe .
+What to make this week
+Keep an eye out for original recipes from the BigOven Kitchen every week! SEE MORE >>
+BigOven Buzz
+Freshly baked content from the creators at BigOven Kitchen . Learn tried and true tips, ticks and methods.
+MORE IDEAS
+Cast Iron Egg Bake
+Clam Bake
+Ravioli Bake
+REVIEW THIS RECIPE
+REVIEWS
+There are no reviews yet. Be the first !

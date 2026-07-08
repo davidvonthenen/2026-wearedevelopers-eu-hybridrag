@@ -1,0 +1,144 @@
+Spicy Thai Noodle Salad
+=======================
+
+Recipe Metadata
+---------------
+Recipe ID: 13f899024bbd8942
+CSV row number: 417
+Recipe name: Spicy Thai Noodle Salad
+Source: Delish
+URL: http://www.delish.com/cooking/recipe-ideas/recipes/a36237/spicy-thai-noodle-salad-recipe-ghk0314/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02ab0d2218f6ee9d38944a251721e34bc0d1f6b6969e2bd8035d068e721b227b/21110830.jpg
+Servings: 4
+Calories: 2551.74
+Diet labels: Balanced, High-Fiber
+Health labels: Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Shellfish-Free
+Allergy cautions: Shellfish, Sulfites, FODMAP
+Cuisine type: asian, south east asian
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Spicy Thai Noodle Salad
+source: Delish
+url: http://www.delish.com/cooking/recipe-ideas/recipes/a36237/spicy-thai-noodle-salad-recipe-ghk0314/
+servings: 4
+calories: 2551.740358998476
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02ab0d2218f6ee9d38944a251721e34bc0d1f6b6969e2bd8035d068e721b227b/21110830.jpg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Shellfish-Free"]
+cautions: ["Shellfish","Sulfites","FODMAP"]
+cuisine_type: ["asian","south east asian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Creamy Noodle Salad
+
+Description: Colorful, healthful, and tossed in a creamy spicy mayo dressing, this Noodle Salad is perfect for when you want to eat summer on a plate—all year round.
+
+Recipe category: ['vegetarian', 'spring', 'Summer', 'weeknight meals', 'dinner', 'lunch', 'main dish']
+
+Recipe cuisine: ['Asian Cuisine', 'East Asian Cuisine', 'Japanese Cuisine']
+
+Yield: 2 serving(s)
+
+Prep time: PT20M
+
+Cook time: PT0S
+
+Total time: PT45M
+
+Ingredients:
+- 1/4 c. mayonnaise, preferably Kewpie
+- 2 tbsp. Sriracha
+- Zest of 1/2 lime (optional)
+- 1 tbsp. rice wine vinegar
+- 1 1/2 tsp. granulated sugar
+- 1 clove garlic, grated
+- 1" piece ginger, grated
+- 1/2 tsp. kosher salt
+- 4 oz. soba noodles
+- Toasted sesame oil
+- 1 small head broccoli, cut into 1" florets (about 2 c.)
+- 2 cloves garlic, minced
+- 2 tbsp. hoisin sauce
+- Juice of 1/2 lime (optional)
+- 1 tbsp. sesame seeds, plus more for garnish
+- 2 medium carrots, grated (about 1 1/4 c.)
+- 1 c. shredded red cabbage
+- 3/4 c. edamame, blanched
+- 1 green onion, thinly sliced, for serving
+- 2 tbsp. freshly chopped cilantro, for garnish (optional)
+
+Instructions:
+1. In a large bowl, whisk together all dressing ingredients until smooth.
+2. In a large pot of salted, boiling water, cook noodles according to package directions until just short of al dente (3 to 4 minutes if using soba noodles). Drain immediately. Add noodles and 1 teaspoon sesame oil to the dressing bowl and toss to coat evenly. Set aside.
+3. Cook broccoli: In a medium skillet over medium-high heat, heat olive oil. Add broccoli and cook, stirring occasionally, until broccoli is lightly charred, about 5 minutes. Stir in 1 tablespoon sesame oil and garlic and cook until fragrant, 30 seconds. Remove from heat and toss with hoisin sauce, lime juice, and sesame until evenly coated.
+4. To bowl with noodles, add carrots, cabbage, edamame, and broccoli and toss until well combined.
+5. Garnish with green onions, cilantro, and more sesame seeds before serving.
+
+Visible page text:
+This noodle salad is dedicated to all you pasta salad fans out there. It's a colorful feast for the eyes, love at first sight and bite. With lots of options for substitutions, it's destined to be a favorite in your book of summer eats to revisit all year round.
+Choose your noodle.
+We're calling for long, thin soba noodles here because they're pleasantly soft, quick to cook, and absorb the flavors of the dressing amazingly well. You're welcome to substitute with whole wheat spaghetti, fresh flour noodles, or even skip it altogether and go rogue with the addition of a protein, like cooked chicken breast or seared tofu bites for a low-carb alternative.
+Dress it up.
+The noods get coated in a spicy-sweet mayo-based dressing that can honestly go on anything. The heat of fresh ginger, garlic, and Sriracha is tamed by the mayo and a touch of sugar; the creaminess of the mayo is in turn nicely balanced out by the tart rice vinegar and lime zest. Dress your noodles right after they get drained—while they're still hot—to ensure that the dressing gets a chance to soak into the noodles.
+If you love snacking on crudités, whip up a double batch of the dressing and save half of it for dipping into with your raw veggies throughout the week for a flavorful crunch.
+To cook or not to cook, that is the question.
+We love the smokiness of lightly charred broccoli in this, but if you don't feel like dirtying another pan or love crunching into raw broccoli, skip the sear on your florets! Because raw broccoli is harder to bite into, we recommend chopping the florets up into smaller pieces—around 1/2" or so. If you're skipping the sear, you can also skip the minced garlic—but do still give the broccoli bits a toss in that hoisin-lime juice-sesame combo for a sweet and salty bump.
+Options, options, options.
+If you're not a fan of broccoli, or cabbage, or carrots (woof, tough crowd!), you can switch out any of these veggies for your favorites. Sliced bell peppers, diced cucumbers, halved cherry tomatoes, or even chopped baby spinach are just a few substitutes that can work equally well—just keep it nice and colorful for that visual pop!
+This noodle salad sits amazingly well in the fridge for a quick and refreshing bite—just store it in an airtight container and eat within 4 days. If you've made this recipe, we want to know how you liked it! Leave a rating and drop us a line down below in the comments!
+Cooking is easier on the app.
+Download for free!
+Ingredients
+For the dressing
+1/4 cup mayonnaise, preferably Kewpie
+2 Tbsp. Sriracha
+Zest of 1/2 lime (optional)
+1 Tbsp. rice wine vinegar
+1 1/2 tsp. granulated sugar
+1 clove garlic, grated
+1 " piece ginger, grated
+1/2 tsp. kosher salt
+For the salad
+4 oz. soba noodles
+Toasted sesame oil
+1 small head broccoli, cut into 1 " florets (about 2 c.)
+2 cloves garlic, minced
+2 Tbsp. hoisin sauce
+Juice of 1/2 lime (optional)
+1 Tbsp. sesame seeds, plus more for garnish
+2 medium carrots, grated (about 1 1/4 c.)
+1 cup shredded red cabbage
+3/4 cup edamame, blanched
+1 green onion, thinly sliced, for serving
+2 Tbsp. freshly chopped cilantro, for garnish (optional)
+Directions
+Step 1 In a large bowl, whisk together all dressing ingredients until smooth. Step 2 In a large pot of salted, boiling water, cook noodles according to package directions until just short of al dente (3 to 4 minutes if using soba noodles). Drain immediately. Add noodles and 1 teaspoon sesame oil to the dressing bowl and toss to coat evenly. Set aside. Step 3 Cook broccoli: In a medium skillet over medium-high heat, heat olive oil. Add broccoli and cook, stirring occasionally, until broccoli is lightly charred, about 5 minutes. Stir in 1 tablespoon sesame oil and garlic and cook until fragrant, 30 seconds. Remove from heat and toss with hoisin sauce, lime juice, and sesame until evenly coated. Step 4 To bowl with noodles, add carrots, cabbage, edamame, and broccoli and toss until well combined. Step 5 Garnish with green onions, cilantro, and more sesame seeds before serving.
+Step 1 In a large bowl, whisk together all dressing ingredients until smooth.
+Step 2 In a large pot of salted, boiling water, cook noodles according to package directions until just short of al dente (3 to 4 minutes if using soba noodles). Drain immediately. Add noodles and 1 teaspoon sesame oil to the dressing bowl and toss to coat evenly. Set aside.
+Step 3 Cook broccoli: In a medium skillet over medium-high heat, heat olive oil. Add broccoli and cook, stirring occasionally, until broccoli is lightly charred, about 5 minutes. Stir in 1 tablespoon sesame oil and garlic and cook until fragrant, 30 seconds. Remove from heat and toss with hoisin sauce, lime juice, and sesame until evenly coated.
+Step 4 To bowl with noodles, add carrots, cabbage, edamame, and broccoli and toss until well combined.
+Step 5 Garnish with green onions, cilantro, and more sesame seeds before serving.
+Readers Also Read
+75 Cheap & Easy Dinner Recipes
+85 Best Ground Beef Recipes
+The Original Marry Me Chicken
+Stuffed Peppers
+105 Best Weeknight Chicken Dinners
+99 Simple Slow-Cooker & Crockpot Recipes
+Healthy Lazy Dinner Recipes
+20 Lazy Dinner Recipes
+77 Easy Low-Carb Recipes
+75 Quick & Easy Dinner Recipes for Kids
+Creamy Tuscan Chicken
+22 Easy Chicken Thigh Recipes

@@ -1,0 +1,78 @@
+The Brandy Milk Punch
+=====================
+
+Recipe Metadata
+---------------
+Recipe ID: e28fb1f5368c25a9
+CSV row number: 153
+Recipe name: The Brandy Milk Punch
+Source: The Daily Meal
+URL: http://www.thedailymeal.com/recipes/brandy-milk-punch-3-recipe
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00f38b7fa80df2ad5c891ab49306b36efb00fd2f81f65ad99f6927c55deb9942/21046999.jpg
+Servings: 1
+Calories: 246.03
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: world
+Meal type: lunch/dinner
+Dish type: alcohol cocktail
+
+Original CSV Fields
+-------------------
+recipe_name: The Brandy Milk Punch
+source: The Daily Meal
+url: http://www.thedailymeal.com/recipes/brandy-milk-punch-3-recipe
+servings: 1
+calories: 246.0306525414063
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00f38b7fa80df2ad5c891ab49306b36efb00fd2f81f65ad99f6927c55deb9942/21046999.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["world"]
+meal_type: ["lunch/dinner"]
+dish_type: ["alcohol cocktail"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: The Brandy Milk Punch
+
+Description: This New Orleans-centric recipe comes from Ti Martin and Lally Brennan of Commander&rsquo;s Palace.
+
+Ingredients:
+- 2 ounce brandy
+- 1 ounce simple syrup
+- 1/2 teaspoon pure vanilla extract
+- 1 1/2 ounce milk
+- freshly grated nutmeg, for garnish
+
+Instructions:
+1. Combine all the ingredients in cocktail shaker with ice and shake vigorously. Strain into a rocks glass filled with ice. Garnish with a light dusting of freshly grated nutmeg and serve immediately.
+
+Visible page text:
+Recipes
+Drinks
+The Brandy Milk Punch
+This New Orleans-centric recipe comes from Ti Martin and Lally Brennan of Commander’s Palace.
+Ingredients
+2 ounce brandy
+1 ounce simple syrup
+1/2 teaspoon pure vanilla extract
+1 1/2 ounce milk
+freshly grated nutmeg, for garnish
+Directions
+Combine all the ingredients in cocktail shaker with ice and shake vigorously. Strain into a rocks glass filled with ice. Garnish with a light dusting of freshly grated nutmeg and serve immediately.
+By
+Marcy Franklin
+Feb. 8, 2013 11:13 am EST
+4
+(1 ratings)
+Print
+servings
+1
+Rate this recipe

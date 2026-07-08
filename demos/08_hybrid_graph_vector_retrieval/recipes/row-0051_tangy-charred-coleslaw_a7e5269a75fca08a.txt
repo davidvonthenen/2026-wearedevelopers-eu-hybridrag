@@ -1,0 +1,105 @@
+Tangy Charred Coleslaw
+======================
+
+Recipe Metadata
+---------------
+Recipe ID: a7e5269a75fca08a
+CSV row number: 51
+Recipe name: Tangy Charred Coleslaw
+Source: Good Housekeeping
+URL: https://www.goodhousekeeping.com/food-recipes/a27530080/tangy-charred-coleslaw-recipe
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00429ec9c205132e8680e5d77ef325d10294e7a65e954dfca8c4a03d29ab11f2/21125794.jpg
+Servings: 8
+Calories: 1109.55
+Diet labels: High-Fiber
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: central europe
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Tangy Charred Coleslaw
+source: Good Housekeeping
+url: https://www.goodhousekeeping.com/food-recipes/a27530080/tangy-charred-coleslaw-recipe
+servings: 8
+calories: 1109.553713101933
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00429ec9c205132e8680e5d77ef325d10294e7a65e954dfca8c4a03d29ab11f2/21125794.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["central europe"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Tangy Charred Coleslaw
+
+Description: For this tangy charred coleslaw recipe, char your cabbage before dressing it with homemade vinaigrette. Once tossed, this 20-minute meal is a the perfect summer side dish.
+
+Recipe category: ['vegetarian', 'picnic', 'salad', 'side dish']
+
+Yield: 8 serving(s)
+
+Prep time: PT0S
+
+Cook time: PT0S
+
+Total time: PT20M
+
+Ingredients:
+- 1/2 small green cabbage (about 11/4 lbs)
+- 4 tbsp. olive oil, divided
+- 2 tbsp. fresh lime juice
+- 1 tbsp. rice vinegar
+- 1 tsp. brown sugar
+- 1/2 tsp. red pepper flakes
+- Kosher salt
+- 1/2 Napa cabbage (about 11/4 lbs), cored and cut lengthwise, then into 1-in. pieces
+- 1/4 c. fresh mint leaves, torn
+- 1/4 c. toasted peanuts, chopped
+
+Instructions:
+1. Heat grill to medium-high. Cut green cabbage into 4 wedges, leaving core intact. Brush with 1 tablespoon oil, then place on grill flat side down and cook until charred, 3 to 4 minutes per side.
+2. Meanwhile, in bowl, whisk together lime juice, vinegar, brown sugar, pepper flakes, remaining 3 tablespoons oil, and 1/2 teaspoon salt.
+3. Transfer green cabbage to cutting board and cut into 1-inch pieces. Add to bowl with dressing along with Napa cabbage and toss to coat; fold in mint and sprinkle with peanuts. <br/>
+
+Visible page text:
+Char your greens before dressing them for extra flavor.
+Ingredients
+1/2 small green cabbage (about 11/4 lbs)
+4 Tbsp. olive oil, divided
+2 Tbsp. fresh lime juice
+1 Tbsp. rice vinegar
+1 tsp. brown sugar
+1/2 tsp. red pepper flakes
+Kosher salt
+1/2 Napa cabbage (about 11/4 lbs) , cored and cut lengthwise, then into 1-in. pieces
+1/4 cup fresh mint leaves, torn
+1/4 cup toasted peanuts, chopped
+Directions
+Step 1 Heat grill to medium-high. Cut green cabbage into 4 wedges, leaving core intact. Brush with 1 tablespoon oil, then place on grill flat side down and cook until charred, 3 to 4 minutes per side. Step 2 Meanwhile, in bowl, whisk together lime juice, vinegar, brown sugar, pepper flakes, remaining 3 tablespoons oil, and 1/2 teaspoon salt. Step 3 Transfer green cabbage to cutting board and cut into 1-inch pieces. Add to bowl with dressing along with Napa cabbage and toss to coat; fold in mint and sprinkle with peanuts.
+Step 1 Heat grill to medium-high. Cut green cabbage into 4 wedges, leaving core intact. Brush with 1 tablespoon oil, then place on grill flat side down and cook until charred, 3 to 4 minutes per side.
+Step 2 Meanwhile, in bowl, whisk together lime juice, vinegar, brown sugar, pepper flakes, remaining 3 tablespoons oil, and 1/2 teaspoon salt.
+Step 3 Transfer green cabbage to cutting board and cut into 1-inch pieces. Add to bowl with dressing along with Napa cabbage and toss to coat; fold in mint and sprinkle with peanuts.
+Nutrition Information (per serving): About 120 calories, 9 g fat (1 g saturated),3 g protein, 140 mg sodium, 8 g carbohydrate, 3 g fiber
+Readers Also Read
+75 Family Dinner Ideas for Any Day of the Week
+How to Make a Sourdough Starter
+Foods You Should Actually Refrigerate
+Fix Bitter Tomato Sauce With This One Ingredient
+The Ice Mistake Ruining Your Margarita
+50 Flavorful and Filling Low-Calorie Meals
+How to Start the Mediterranean Diet
+48 Easy Breakfast Ideas to Start Your Day
+50 Healthier Chicken Recipes We Love
+The Easy Oatmeal Upgrade That Adds More Protein
+32 High-Protein Vegetarian Meals
+How Long Can Chicken Sit in Your Fridge?

@@ -1,0 +1,111 @@
+Garlic & Herb Roasted Shrimp
+============================
+
+Recipe Metadata
+---------------
+Recipe ID: dc9beacffd7bee46
+CSV row number: 430
+Recipe name: Garlic & Herb Roasted Shrimp
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/ina-garten/garlic-and-herb-roasted-shrimp-3742576
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02bf67373e5c2d39c96bd13af5f2ab6613f0b76b77c0f3e993363a5f8b12402b/21102555.jpg
+Servings: 4
+Calories: 2241.40
+Diet labels: Low-Carb
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Garlic & Herb Roasted Shrimp
+source: Food Network
+url: https://www.foodnetwork.com/recipes/ina-garten/garlic-and-herb-roasted-shrimp-3742576
+servings: 4
+calories: 2241.396890922509
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02bf67373e5c2d39c96bd13af5f2ab6613f0b76b77c0f3e993363a5f8b12402b/21102555.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Garlic & Herb Roasted Shrimp
+
+Recipe category: main-dish
+
+Yield: 4 servings
+
+Cook time: P0Y0M0DT0H20M0.000S
+
+Total time: P0Y0M0DT0H40M0.000S
+
+Ingredients:
+- 1/4 pound (1 stick) unsalted butter
+- 2 tablespoons good olive oil
+- 2 tablespoons minced garlic (6 cloves)
+- 2 teaspoons minced fresh rosemary leaves
+- 1/4 teaspoon crushed red pepper flakes
+- Kosher salt and freshly ground black pepper
+- 2 large lemons
+- 2 pounds (8- to 10-count) shrimp, peeled with the tails on
+- 1 teaspoon coarse sea salt
+- 4 slices country bread, toasted
+
+Instructions:
+1. Preheat the oven to 400 degrees.
+2. Melt the butter over low heat in a medium (10-inch) saute pan. Add the olive oil, garlic, rosemary, red pepper flakes, 1 teaspoon kosher salt, and 1/2 teaspoon black pepper and cook over low heat for one minute. Off the heat, zest one of the lemons directly into the butter mixture.
+3. Meanwhile, arrange the shrimp snugly in one layer in a large (12-inch) round ovenproof sauté pan (or 10 × 13-inch baking dish) with only the tails overlapping. Pour the butter mixture over the shrimp. Sprinkle with the sea salt and 1/2 teaspoon black pepper. Slice the ends off the zested lemon, cut five (1/4-inch-thick) slices, and tuck them among the shrimp. Roast for 12 to 15 minutes, just until the shrimp are firm, pink, and cooked through. Cut the remaining lemon in half and squeeze the juice onto the shrimp. Serve hot with the toasted bread for dipping into the garlic butter.
+
+Visible page text:
+Home
+Recipes
+Ina Garten
+We're sorry, there seems to be an issue playing this video. Please refresh the page or try again in a moment. If you continue to have issues, please contact us here .
+Garlic & Herb Roasted Shrimp
+Level: Easy
+Total: 40 min
+Active: 20 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+1/4 pound (1 stick) unsalted butter
+2 tablespoons good olive oil
+2 tablespoons minced garlic (6 cloves)
+2 teaspoons minced fresh rosemary leaves
+1/4 teaspoon crushed red pepper flakes
+Kosher salt and freshly ground black pepper
+2 large lemons
+2 pounds (8- to 10-count) shrimp, peeled with the tails on
+1 teaspoon coarse sea salt
+4 slices country bread, toasted
+Preheat the oven to 400 degrees.
+Melt the butter over low heat in a medium (10-inch) saute pan. Add the olive oil, garlic, rosemary, red pepper flakes, 1 teaspoon kosher salt, and 1/2 teaspoon black pepper and cook over low heat for one minute. Off the heat, zest one of the lemons directly into the butter mixture.
+Meanwhile, arrange the shrimp snugly in one layer in a large (12-inch) round ovenproof sauté pan (or 10 × 13-inch baking dish) with only the tails overlapping. Pour the butter mixture over the shrimp. Sprinkle with the sea salt and 1/2 teaspoon black pepper. Slice the ends off the zested lemon, cut five (1/4-inch-thick) slices, and tuck them among the shrimp. Roast for 12 to 15 minutes, just until the shrimp are firm, pink, and cooked through. Cut the remaining lemon in half and squeeze the juice onto the shrimp. Serve hot with the toasted bread for dipping into the garlic butter.
+Reprinted from Make It Ahead, Copyright 2014 by Ina Garten, Clarkson Potter/Publisher. All rights reserved.
+Categories:
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Shrimp Scampi Linguine Made Without Wine Recipe
+Roasted Shrimp Cocktail Recipe
+Lemon Pasta with Roasted Shrimp Recipe
+Roasted Shrimp and Orzo Recipe
+Baked Shrimp Scampi Recipe
+Grilled Herb Shrimp Recipe

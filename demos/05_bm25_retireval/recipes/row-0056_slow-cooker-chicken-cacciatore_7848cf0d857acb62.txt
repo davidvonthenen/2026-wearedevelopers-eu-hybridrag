@@ -1,0 +1,93 @@
+Slow Cooker Chicken Cacciatore
+==============================
+
+Recipe Metadata
+---------------
+Recipe ID: 7848cf0d857acb62
+CSV row number: 56
+Recipe name: Slow Cooker Chicken Cacciatore
+Source: passionatepennypincher.com
+URL: https://passionatepennypincher.com/slow-cooker-chicken-cacciatore
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/004806079b2185644464d29c08c04ce96a0702e6108765407f8308e1c04e3c26/21129349.jpg
+Servings: 10
+Calories: 2883.44
+Diet labels: High-Fiber
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Eggs, Soy, Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Slow Cooker Chicken Cacciatore
+source: passionatepennypincher.com
+url: https://passionatepennypincher.com/slow-cooker-chicken-cacciatore
+servings: 10
+calories: 2883.436596961823
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/004806079b2185644464d29c08c04ce96a0702e6108765407f8308e1c04e3c26/21129349.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Eggs","Soy","Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Pinterest 786
+FREE Work Planner Sample!
+I won’t send you any spam, ever. Promise!
+We made this recipe from Eat at Home Cooks two weeks ago and I loved it, so much so that while visiting my in-laws I made it for them again last night! It’s such an easy way to cook up a bunch of veggies, and since the sauce is gluten free (my mother-in-law eats a gluten free diet), we easily cooked up gluten free pasta to make a simple gluten free meal for her too.
+Menu Planning Note: You can also find this recipe in our Slow Cooker Menu Planning Made Easy Set !
+I’ve just about decided it’s my new go-to simple crockpot meal because it tastes great, and there’s just nothing like coming home to a home smelling like a yummy Italian meal. It’s an easy way to change out every day spaghetti, and we’ll definitely add it to our menu plan at least once a month!
+Slow Cooker Chicken Cacciatore (adapted from Eat at Home Cooks )
+Ingredients
+1-2 pounds frozen chicken tenders
+1 sliced onion
+1 sliced green pepper
+1 sliced red pepper
+28 ounce can crushed tomatoes
+6 ounce can tomato paste
+3 cloves garlic
+1 1/2 tsp Italian seasoning
+salt and pepper to taste
+1 lb cooked pasta
+Directions
+Place frozen chicken in the bottom of slow cooker.
+Add sliced onion and green peppers on top of the chicken.
+Mixed together crushed tomatoes, tomato paste, garlic, Italian seasoning, and salt and pepper, then pour sauce over chicken and veggies.
+Cook on low 7 hours or high 4-5 hours.
+Serve over pasta with fresh parmesan cheese and enjoy!
+Looking for more yummy meals? This recipe is from week two of our slow cooker menu plans, including this meal + 59 other AMAZING recipes (and 12 desserts too)! You’ll also get lifetime membership in our private Facebook group, full of other families encouraging one another to make dinner each night together too.
+These are the BEST MENU PLANS on the planet (and, the only menu plan that ship all the grocery lists, menu plans and recipe cards right out to you ~ no downloading or hunting down recipes on your phone at dinnertime ever again!) Go HERE to learn more. I know you’re going to love these!
+If you need a little more menu inspiration, go HERE .
+Pssstt – Check out our storefronts! ⬆️
+Here are a few other recent deals:
+Humann SuperBeets Heart Chews from 32¢ Each (+ FREE Metabolic Supplement)
+Dick’s Sporting Goods Flash Sale: Up to 50% Off Baseball & Softball Gear!
+Deep Tissue Massage Gun from $31.50! (Reg $90)
+Women’s Retro Suede Sneakers $22.81 Shipped (Reg. $44)
+Amazon Dog Toys from $2 Each Shipped
+Bluey Cash Register $9.80 (Reg $22 + MORE Bluey Toys on Sale!)
+Ruffle Sleeve Blouse from $15! (Reg. $29)
+Highly Rated Ear Cleaner Kit with Camera Under $6!
+Pop Up 3D Flower Bouquet Cards from $3.60 Each (Hurry for Mother’s Day!)
+Weekender Bag Set from $18! (Reg $36)
+Ends TONIGHT! Lowe’s Spring Black Friday Sale | $2 Mulch, BOGO Garden Soil
+Get a FREE Spring Flower THIS Saturday at Lowe’s!
+Join Amazon Prime FREE for 30 days! Watch tons of movies, enjoy fast & free shipping, and more!
+Love Amazon? Don’t miss my list of 16 items you should be buying on Amazon .
+See more Amazon Deals, and remember when you subscribe and save to 5 or more items in one month , you’ll also save an additional 15% on all of your subscribe and save purchases.
+**Remember that pricing on Amazon is subject to change at any time.
+Check out what’s new in the Passionate Penny Pincher Shop!
+Comments
+Leave a Reply Cancel reply
+Crock Reply
+Crock
+WORK PLANNER FREE SAMPLE!

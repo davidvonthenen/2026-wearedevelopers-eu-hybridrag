@@ -1,0 +1,107 @@
+Homemade Ricotta Cheese Recipe
+==============================
+
+Recipe Metadata
+---------------
+Recipe ID: c70f495bc93c8326
+CSV row number: 425
+Recipe name: Homemade Ricotta Cheese Recipe
+Source: gardenmatter.com
+URL: http://gardenmatter.com/homemade-ricotta-cheese-recipe/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02b36af66a41bd52ab6b02301dd72e1857cfa3e865d03945a43298bfaded9e3c/21062761.jpg
+Servings: 8
+Calories: 2013.34
+Diet labels: Low-Carb
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: breakfast
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Homemade Ricotta Cheese Recipe
+source: gardenmatter.com
+url: http://gardenmatter.com/homemade-ricotta-cheese-recipe/
+servings: 8
+calories: 2013.34
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02b36af66a41bd52ab6b02301dd72e1857cfa3e865d03945a43298bfaded9e3c/21062761.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["breakfast"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Homemade Ricotta Cheese Recipe
+
+Description: This homemade ricotta cheese recipe is easy to make. All you need is four ingredients to make it from scratch and it will last for one week in the fridge.
+
+Recipe category: ['Condiment']
+
+Recipe cuisine: ['Italian']
+
+Yield: ['3', '3 cups']
+
+Cook time: PT20M
+
+Total time: PT20M
+
+Ingredients:
+- 2 quarts whole milk
+- 1 c heavy cream
+- 1 teaspoon salt
+- 4 tablespoons fresh lemon juice
+
+Instructions:
+1. Heat milk, cream and salt in a large saucepan until it comes to a boil.
+2. Add lemon juice
+3. Lower heat and simmer for about 10 minutes, stirring to prevent burning to the bottom.
+4. You will notice the curds forming.
+5. Ladle curds into a cheesecloth lined sieve. I used paper towels.
+6. Let sit for about 1 hour and strain.
+7. Place cheese into a container and refrigerate for up to one week.
+8. Throw out the remaining whey.
+
+Visible page text:
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+This homemade ricotta cheese recipe is easy to make. All you need is four ingredients to make it from scratch and it will last for one week in the fridge.
+A few years ago I watched a show on TV about the Brooklyn market. One of the merchants stands in the market was run by a couple of women who made their own ricotta cheese. Ever since then, I've been wanting to try to come up with my own homemade ricotta cheese recipe.
+How to Make Homemade Ricotta
+I was really surprised at how easy it is to make ricotta cheese. Just four ingredients and some time.
+This recipe calls for whole milk and cream. I'd like to try making it with 2 % milk and no cream, the next time because this one is on the rich side, but it sure tasted delicious.
+Sometimes I make individual pizzas with spinach and ricotta . This homemade ricotta cheese recipe would be perfect for that application. Of course, it would be great in lasagna or manicotti. I also like it in pasta, direct with other veggies, in a garlic and olive oil sauce, or combined with a little red sauce.
+Though store bought ricotta is certainly convenient, like many things in life, sometimes it's just fun to make from scratch.
+Homemade Ricotta Cheese Recipe
+Ingredients 1x 2x 3x
+2 quarts whole milk
+1 c heavy cream
+1 teaspoon salt
+4 tablespoons fresh lemon juice
+Instructions
+Heat milk, cream and salt in a large saucepan until it comes to a boil.
+Add lemon juice
+Lower heat and simmer for about 10 minutes, stirring to prevent burning to the bottom.
+You will notice the curds forming.
+Ladle curds into a cheesecloth lined sieve. I used paper towels.
+Let sit for about 1 hour and strain.
+Place cheese into a container and refrigerate for up to one week.
+Throw out the remaining whey.
+Nutrition
+About Patti Estep
+Patti is the creator of Hearth and Vine, a home and garden blog filled with projects to inspire your creative side. She loves crafting, gardening, decorating and entertaining at her home in Pennsylvania. When she is not working on a project at home or searching for treasures at nurseries and thrift stores with her girlfriends, you’ll probably find her with family and friends, at a restaurant, or home party enjoying new and different food adventures.
+Reader Interactions
+Comments
+Nice recipe! Have a lovely day ♥ summerdaisycottage.blogspot.com Reply
+Nice recipe! Have a lovely day ♥
+summerdaisycottage.blogspot.com
+Leave a Reply Cancel reply

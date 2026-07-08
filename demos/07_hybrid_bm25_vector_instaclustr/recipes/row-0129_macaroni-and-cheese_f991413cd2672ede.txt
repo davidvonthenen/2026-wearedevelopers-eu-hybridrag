@@ -1,0 +1,99 @@
+Macaroni and Cheese
+===================
+
+Recipe Metadata
+---------------
+Recipe ID: f991413cd2672ede
+CSV row number: 129
+Recipe name: Macaroni and Cheese
+Source: whats4eats.com
+URL: http://www.whats4eats.com/pastas/macaroni-and-cheese-recipe
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00c9cb7f1c7ffe989b71d72abc3536d2d9d29f9358531d8bf9461370968750b7/21089549.jpg
+Servings: 8
+Calories: 1739.80
+Diet labels: Balanced
+Health labels: Vegetarian, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Macaroni and Cheese
+source: whats4eats.com
+url: http://www.whats4eats.com/pastas/macaroni-and-cheese-recipe
+servings: 8
+calories: 1739.798703424546
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00c9cb7f1c7ffe989b71d72abc3536d2d9d29f9358531d8bf9461370968750b7/21089549.jpg
+diet_labels: ["Balanced"]
+health_labels: ["Vegetarian","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Macaroni and Cheese (American pasta with cheese)
+
+Recipe: Macaroni and Cheese
+
+Description: Macaroni and cheese is an old American favorite dating back almost to the time of the American Revolution.
+
+Recipe category: ['Pasta and Noodles', 'Dairy and Cheese']
+
+Recipe cuisine: ['United States']
+
+Ingredients:
+- Macaroni -- 1/2 pound
+- Butter -- 2 tablespoons
+- Flour -- 3 tablespoons
+- Milk -- 2 cups
+- Sharp Cheddar cheese, shredded -- 2 or 3 cups
+- Salt and white pepper -- to taste
+
+Instructions:
+1. Cook the macaroni according to package directions. Drain, toss with a little butter and set aside.
+2. Preheat oven to 350 degrees F. In a medium saucepan melt the butter over medium heat. Whisk in the flour and let it cook and bubble for 1 or 2 minutes. Do not brown or burn.
+3. Whisk in the cold milk all at once, beating out any lumps. Bring to a boil, reduce heat to low, and simmer until thickened, 10 to 15 minutes.
+4. Remove the sauce from heat and stir in the cheese until melted. Season to taste with salt and white pepper.
+5. In a large bowl, mix together the cheese sauce and the cooked macaroni. Pour into a buttered baking dish and bake, uncovered for 20 to 25 minutes to heat through and brown the top.
+
+Visible page text:
+Macaroni and cheese is an old American favorite dating back almost to the time of the American Revolution. Always a Southern favorite, its popularity really took off after Kraft introduced a boxed version in the 1930s. Kraft’s version became so popular that some people now prefer their packaged to the homemade. We still think homemade is best.
+Macaroni and Cheese
+Macaroni and cheese is an old American favorite dating back almost to the time of the American Revolution.
+Ingredients
+Macaroni — 1/2 pound
+Butter — 2 tablespoons
+Flour — 3 tablespoons
+Milk — 2 cups
+Sharp Cheddar cheese, shredded — 2 or 3 cups
+Salt and white pepper — to taste
+Directions
+Cook the macaroni according to package directions. Drain, toss with a little butter and set aside.
+Preheat oven to 350 degrees F. In a medium saucepan melt the butter over medium heat. Whisk in the flour and let it cook and bubble for 1 or 2 minutes. Do not brown or burn.
+Whisk in the cold milk all at once, beating out any lumps. Bring to a boil, reduce heat to low, and simmer until thickened, 10 to 15 minutes.
+Remove the sauce from heat and stir in the cheese until melted. Season to taste with salt and white pepper.
+In a large bowl, mix together the cheese sauce and the cooked macaroni. Pour into a buttered baking dish and bake, uncovered for 20 to 25 minutes to heat through and brown the top.
+Macaroni & Cheese Notes and Variations
+Cheese : Try using a mixture of cheeses — Cheddar, Jack, Parmesan, Gouda. Some cooks swear by Velveeta. Top with extra shredded cheese before baking if you like.
+Pasta : Use different varieties of pasta for a texture change. Corkscrew or fusilli pasta both give a nice effect.
+Other additions : Stir in some chopped ham, chopped tomatoes or minced herbs (parsley, thyme) before baking. Sprinkle the top with a little paprika. Add a splash of Worcestershire sauce or 1 or 2 teaspoons of dried ground mustard. Use your imagination.
+Creamier macaroni and cheese : Substitute half the milk with half-and-half for a creamier result. Stir in 1/4 cup mayonnaise before baking to add creaminess.
+For a crispy, gratinéed result , top the macaroni and cheese with about 1/2 cup of fresh bread crumbs dot with 1 tablespoon of butter and bake. Or use crumbled potato chips.
+Whats4eats is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
+Featured on W4E
+Spring Meals
+Street Food
+Red Palm Oil: How to Buy, Store and Use It
+Iran: Recipes and Cuisine
+Steaming: Method and Recipes
+You might also like
+Copyright © 2026 | Whats4eats.com | Brad Harvey | All rights reserved.

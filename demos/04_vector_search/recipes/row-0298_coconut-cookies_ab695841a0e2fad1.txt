@@ -1,0 +1,76 @@
+Coconut Cookies
+===============
+
+Recipe Metadata
+---------------
+Recipe ID: ab695841a0e2fad1
+CSV row number: 298
+Recipe name: Coconut Cookies
+Source: Epicurious
+URL: https://www.epicurious.com/recipes/food/views/coconut-cookies-108918
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01dd9f61584f91756b374f425ba5019e5c28cb4d836839739dc35adbfc6a0409/20983892.jpg
+Servings: 48
+Calories: 786.17
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Tree-Nuts, Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: biscuits and cookies
+
+Original CSV Fields
+-------------------
+recipe_name: Coconut Cookies
+source: Epicurious
+url: https://www.epicurious.com/recipes/food/views/coconut-cookies-108918
+servings: 48
+calories: 786.167562
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01dd9f61584f91756b374f425ba5019e5c28cb4d836839739dc35adbfc6a0409/20983892.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Tree-Nuts","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["biscuits and cookies"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Coconut Cookies
+
+Description: Active time: 35 min Start to finish: 5 hr
+
+Yield: Makes about 4 dozen cookies
+
+Ingredients:
+- 2 cups sweetened flaked coconut
+- Ingredients for basic butter cookies
+- 1/4 teaspoon almond extract
+- Garnish: sweetened flaked coconut and coarse sugar
+
+Instructions:
+1. Pulse coconut in a food processor until finely ground.
+2. Follow recipe for basic butter cookies, mixing in coconut and almond extract after adding flour. (To roll cookies into balls, see cooks' note, below.)
+3. If garnishing, sprinkle cookies with flaked coconut and coarse sugar before baking.
+
+Visible page text:
+Active time: 35 min Start to finish: 5 hr
+Instead of forming dough into a log and chilling, you can roll tablespoons of dough into 1 1/4-inch balls. Bake, switching position of sheets halfway through baking, until bottoms are browned, about 15 minutes total.
+Recipe information
+Yield Makes about 4 dozen cookies
+Yield
+Makes about 4 dozen cookies
+Ingredients
+Preparation
+Step 1 Pulse coconut in a food processor until finely ground. Step 2 Follow recipe for basic butter cookies, mixing in coconut and almond extract after adding flour. (To roll cookies into balls, see cooks' note, below.) Step 3 If garnishing, sprinkle cookies with flaked coconut and coarse sugar before baking.
+Step 1
+Pulse coconut in a food processor until finely ground.
+Step 2
+Follow recipe for basic butter cookies, mixing in coconut and almond extract after adding flour. (To roll cookies into balls, see cooks' note, below.)
+Step 3
+If garnishing, sprinkle cookies with flaked coconut and coarse sugar before baking.
+Recipe notes

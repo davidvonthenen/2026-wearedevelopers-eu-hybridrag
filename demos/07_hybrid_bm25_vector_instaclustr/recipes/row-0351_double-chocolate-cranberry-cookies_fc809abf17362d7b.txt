@@ -1,0 +1,123 @@
+Double Chocolate Cranberry Cookies
+==================================
+
+Recipe Metadata
+---------------
+Recipe ID: fc809abf17362d7b
+CSV row number: 351
+Recipe name: Double Chocolate Cranberry Cookies
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/282651/double-chocolate-cranberry-cookies
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/023f2e131dc7c907f7fce103d8c81a2ea0bc41029c20eb96939b9dd54b644e33/21099972.jpg
+Servings: 72
+Calories: 6124.37
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Double Chocolate Cranberry Cookies
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/282651/double-chocolate-cranberry-cookies
+servings: 72
+calories: 6124.372
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/023f2e131dc7c907f7fce103d8c81a2ea0bc41029c20eb96939b9dd54b644e33/21099972.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Double Chocolate Cranberry Cookies
+
+Description: Perfect for holiday cookie gifting, these double chocolate cookies have the perfect balance of tart and sweet, thanks to dried cranberries and semisweet chocolate chips.
+
+Recipe category: ['Dessert']
+
+Yield: ['72', '72 cookies']
+
+Prep time: PT20M
+
+Cook time: PT15M
+
+Total time: PT40M
+
+Ingredients:
+- 2.25 cups all-purpose flour
+- 0.5 cup unsweetened cocoa
+- 1 teaspoon baking soda
+- 0.5 teaspoon salt
+- 1 cup unsalted butter, at room temperature
+- 1 cup packed brown sugar
+- 0.5 cup white sugar
+- 2 large eggs
+- 2 teaspoons vanilla extract
+- 1.5 cups dried cranberries
+- 1.5 cups semisweet chocolate chips
+
+Instructions:
+1. Preheat the oven to 350 degrees F (175 degrees C). Lightly grease two cookie sheets.
+2. Sift flour, cocoa, baking soda, and salt together in a bowl.
+3. Cream butter, brown sugar, and white sugar together with an electric mixer in a large bowl. Add eggs, one at a time, mixing after each addition. Mix in vanilla extract. Gradually add flour mixture until combined. Mix in cranberries and chocolate chips.
+4. Place rounded tablespoonfuls of dough 2 inches apart on the prepared cookie sheets. Flatten each ball slightly with a fork.
+5. Bake in the preheated oven until cookies are soft and tops are no longer glossy, 12 to 14 minutes. Let cool for 5 minutes on the cookie sheet, then remove to a cooling rack to cool completely.
+
+Visible page text:
+Recipes
+Desserts
+Cookies
+Chocolate Chip Cookie Recipes
+Double Chocolate Cranberry Cookies
+Super chocolaty cookie that has a nice pop of red and some chewy bits. Good for holiday gifts!
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 72 servings
+2 ¼ cups all-purpose flour
+½ cup unsweetened cocoa
+1 teaspoon baking soda
+½ teaspoon salt
+1 cup unsalted butter, at room temperature
+1 cup packed brown sugar
+½ cup white sugar
+2 large eggs
+2 teaspoons vanilla extract
+1 ½ cups dried cranberries
+1 ½ cups semisweet chocolate chips
+Directions
+Preheat the oven to 350 degrees F (175 degrees C). Lightly grease two cookie sheets.
+Sift flour, cocoa, baking soda, and salt together in a bowl.
+Cream butter, brown sugar, and white sugar together with an electric mixer in a large bowl. Add eggs, one at a time, mixing after each addition. Mix in vanilla extract. Gradually add flour mixture until combined. Mix in cranberries and chocolate chips.
+Place rounded tablespoonfuls of dough 2 inches apart on the prepared cookie sheets. Flatten each ball slightly with a fork.
+Bake in the preheated oven until cookies are soft and tops are no longer glossy, 12 to 14 minutes. Let cool for 5 minutes on the cookie sheet, then remove to a cooling rack to cool completely.
+Cook's Notes:
+Any dried fruit can be used in place of the dried cranberries, just make sure any large pieces of dried fruit get cut up to about the size of a raisin.
+White chocolate chips also work in place of the semisweet.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Double Chocolate Cranberry Cookies
+1
+Most-Saved Recipes Like This
+White Chocolate Cranberry Cookies 1,454 Ratings 25 mins Save
+Chocolate Chocolate Chip Cookies 4,268 Ratings 25 mins Save
+Cranberry Pistachio Biscotti 1,891 Ratings 1 hr 20 mins Save
+Cranberry Orange Cookies 1,350 Ratings 35 mins Save
+Caramel-Filled Chocolate Cookies 853 Ratings 2 hrs 35 mins Save
+White Chocolate Macadamia Cranberry Dreams 464 Ratings 50 mins Save
+Biscotti 1,152 Ratings 1 hr 10 mins Save
+Citrus Shortbread Cookies 367 Ratings 4 hrs 35 mins Save
+Cranberry Hootycreeks 810 Ratings 25 mins Save
+White Chocolate Cranberry Oatmeal Cookies 251 Ratings 30 mins Save
+You’ll Also Love

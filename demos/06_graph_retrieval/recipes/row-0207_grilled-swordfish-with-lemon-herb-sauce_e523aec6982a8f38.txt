@@ -1,0 +1,110 @@
+Grilled Swordfish with Lemon-Herb Sauce
+=======================================
+
+Recipe Metadata
+---------------
+Recipe ID: e523aec6982a8f38
+CSV row number: 207
+Recipe name: Grilled Swordfish with Lemon-Herb Sauce
+Source: Williams-Sonoma
+URL: https://www.williams-sonoma.com/recipe/grilled-swordfish-with-lemon-herb-sauce.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0149138872d7092c1d686fa810890325af6966c10c930bcb76476b7ab8a909e4/21099682.jpg
+Servings: 4
+Calories: 2984.19
+Diet labels: Low-Carb
+Health labels: Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Grilled Swordfish with Lemon-Herb Sauce
+source: Williams-Sonoma
+url: https://www.williams-sonoma.com/recipe/grilled-swordfish-with-lemon-herb-sauce.html
+servings: 4
+calories: 2984.194061
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0149138872d7092c1d686fa810890325af6966c10c930bcb76476b7ab8a909e4/21099682.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Grilled Swordfish with Lemon-Herb Sauce
+
+Description: &lt;p&gt;A grand meal enjoyed on Christmas Eve in many Italian-American households, the Feast of the Seven Fishes typically includes seven different seafood courses, although some families prepare even more. For this course, we take a cue from Southern Italy and feature swordfish topped with a simple sauce of fresh herbs, olive oil and lemon juice. The fish is cooked on an indoor electric grill, so it&amp;rsquo;s easy to make even on a cold winter day.&lt;/p&gt;
+
+Recipe cuisine: ITALIAN
+
+Yield: 4 servings
+
+Prep time: PT15M
+
+Cook time: PT10M
+
+Total time: PT25M
+
+Ingredients:
+- 1 cup (1 1/2 oz./45 g) coarsely chopped fresh flat-leaf parsley
+- 1/4 cup (1/4 oz./7 g) coarsely chopped fresh mint leaves
+- 1/4 cup (1/4 oz./7 g) coarsely chopped fresh cilantro leaves
+- 1 cup (8 fl. oz./250 ml) extra-virgin olive oil
+- Juice of 2 lemons
+- Kosher salt and freshly ground pepper
+- Canola oil for grilling
+- 4 swordfish steaks, each about 8 oz. (250 g) and 1 inch (2.5 cm) thick
+- Flaky sea salt
+
+Instructions:
+1. In a bowl, stir together the parsley, mint, cilantro, olive oil and lemon juice. Season to taste with kosher salt and pepper. Set aside.
+2. Fit a Philips Smoke-Less Grill with the barbecue grid and preheat the grill. Lightly brush the grill with canola oil.
+3. Season the swordfish with kosher salt and pepper. Arrange the fish on the grill and cook, turning once, until nicely grill-marked and cooked through, about 5 minutes per side. Transfer to a serving platter and spoon the lemon-herb sauce over the fish. Sprinkle with flaky sea salt and serve immediately. Serves 4.
+4. Williams Sonoma Test Kitchen
+
+Visible page text:
+Recipes
+Main Courses
+Seafood
+Grilled Swordfish with Lemon-Herb Sauce
+bvseo_sdk, java_sdk, bvseo-4.0.0
+CLOUD, getAggregateRating, 50ms
+REVIEWS, PRODUCT
+bvseo-msg: The resource to the URL or file is currently unavailable.;
+A grand meal enjoyed on Christmas Eve in many Italian-American households, the Feast of the Seven Fishes typically includes seven different seafood courses, although some families prepare even more. For this course, we take a cue from Southern Italy and feature swordfish topped with a simple sauce of fresh herbs, olive oil and lemon juice. The fish is cooked on an indoor electric grill, so it’s easy to make even on a cold winter day.
+Printer Friendly Version
+Tweet
+Pin It
+1 cup (1 1/2 oz./45 g) coarsely chopped fresh flat-leaf parsley
+1/4 cup (1/4 oz./7 g) coarsely chopped fresh mint leaves
+1/4 cup (1/4 oz./7 g) coarsely chopped fresh cilantro leaves
+1 cup (8 fl. oz./250 ml) extra-virgin olive oil
+Juice of 2 lemons
+Kosher salt and freshly ground pepper
+Canola oil for grilling
+4 swordfish steaks, each about 8 oz. (250 g) and 1 inch (2.5 cm) thick
+Flaky sea salt
+Related Recipes:
+Roasted Swordfish with Ligurian Herb Sauce →
+Sicilian-Style Swordfish and Spaghetti →
+Swordfish on the Grill with Lemon and Mint (Pesce Spada alla Griglia) →
+Directions:
+In a bowl, stir together the parsley, mint, cilantro, olive oil and lemon juice. Season to taste with kosher salt and pepper. Set aside. Fit a Philips Smoke-Less Grill with the barbecue grid and preheat the grill. Lightly brush the grill with canola oil. Season the swordfish with kosher salt and pepper. Arrange the fish on the grill and cook, turning once, until nicely grill-marked and cooked through, about 5 minutes per side. Transfer to a serving platter and spoon the lemon-herb sauce over the fish. Sprinkle with flaky sea salt and serve immediately. Serves 4. Williams Sonoma Test Kitchen
+Related Tips:
+All About Seafood →
+Fish & Seafood Basics →
+Secrets to Great Grilling – Seafood →
+Recommended Products
+Williams Sonoma Synthetic Prep Cutting Board, Set of 3 $ 39.95 (30)
+Jacobsen Salt Co. Pure Flake Sea Salt $ 14.95
+Williams Sonoma Open Kitchen Silicone Brush $ 16.95
+CLOUD, getReviews, 19ms

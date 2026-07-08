@@ -1,0 +1,43 @@
+Sour Cream, Cheddar and Bacon Deviled Eggs
+==========================================
+
+Recipe Metadata
+---------------
+Recipe ID: f340f88a92584608
+CSV row number: 11
+Recipe name: Sour Cream, Cheddar and Bacon Deviled Eggs
+Source: heavenlydeviledeggs.com
+URL: http://heavenlydeviledeggs.com/sour-cream-cheddar-and-bacon-deviled-eggs/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/000aa65a8872aeb18fa2a21b1a33d118848e9c02da60fd951acba0118b3aa05a/21101297.jpg
+Servings: 6
+Calories: 1171.77
+Diet labels: Low-Carb
+Health labels: Gluten-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: breakfast
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Sour Cream, Cheddar and Bacon Deviled Eggs
+source: heavenlydeviledeggs.com
+url: http://heavenlydeviledeggs.com/sour-cream-cheddar-and-bacon-deviled-eggs/
+servings: 6
+calories: 1171.768710934364
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/000aa65a8872aeb18fa2a21b1a33d118848e9c02da60fd951acba0118b3aa05a/21101297.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Gluten-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Error. Page cannot be displayed. Please contact your service provider for more details.

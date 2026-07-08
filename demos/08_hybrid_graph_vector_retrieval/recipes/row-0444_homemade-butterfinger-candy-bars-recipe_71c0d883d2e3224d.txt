@@ -1,0 +1,123 @@
+Homemade Butterfinger Candy Bars Recipe
+=======================================
+
+Recipe Metadata
+---------------
+Recipe ID: 71c0d883d2e3224d
+CSV row number: 444
+Recipe name: Homemade Butterfinger Candy Bars Recipe
+Source: Group Recipes
+URL: http://www.grouprecipes.com/122349/homemade-butterfinger-candy-bars.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02d27f499c9242a6d587d2e99b736d1ec7a6e4ab9c247b4850cafdee548427e2/21112084.jpg
+Servings: 24
+Calories: 3887.21
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Homemade Butterfinger Candy Bars Recipe
+source: Group Recipes
+url: http://www.grouprecipes.com/122349/homemade-butterfinger-candy-bars.html
+servings: 24
+calories: 3887.213376000001
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02d27f499c9242a6d587d2e99b736d1ec7a6e4ab9c247b4850cafdee548427e2/21112084.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Categories Search Your Bookmarks Upload a Recipe
+Categories
+Search
+Your Bookmarks
+Upload a Recipe
+No idea what to search for? Start browsing till you find something.
+pudding dessert recipe
+shrimp pizza recipe
+recipe for mexican foods
+pineapple-brown sugar pork chops
+tang spiced tea
+recipes-quesidalles
+baked chicken with sauce
+how to make frito pie
+Homemade Butterfinger Candy Bars Recipe
+Homemade Butterfinger Candy Bars
+Add yours
+10 to make
+Serves 24
+Just like the candy bar you may know as Butterfinger! Only better and made with love! Easy and fun to make - a must-try!
+candy bars
+chocolate candy bar
+butterfinger
+peanut butter chocolate
+microwave
+nothing specific
+save Add tags (comma separated) to categorize your bookmark. Save Feel free to use any of the below tags. Click one to add it. candy bars chocolate candy bar butterfinger peanut butter chocolate microwave nothing specific
+planner Add this recipe to your weekly planner Fri Sat Sun Mon Tue Wed Thu Schedule your weekly meals and get auto-generated shopping lists. or go to planner
+Fri
+Sat
+Sun
+Mon
+Tue
+Wed
+Thu
+Schedule your weekly meals and get auto-generated shopping lists.
+print
+email Email to Send
+groc. list Add items to your shopping list 1 Box Cheese Crackers (BIG Cheese-It) 1 package (16oz) Chocolate CANDIQUIK 1 Jar Peanut Butter (smooth) go view your shopping list
+1 Box Cheese Crackers (BIG Cheese-It)
+1 package (16oz) Chocolate CANDIQUIK
+1 Jar Peanut Butter (smooth)
+Ingredients
+1 Box Cheese Crackers (BIG Cheese-It) shopping list
+1 package (16oz) Chocolate CANDIQUIK shopping list
+1 Jar Peanut Butter (smooth) shopping list
+How to make it
+1.Spread peanut butter between 2 cheese crackers.
+2.Melt Chocolate Candiquik coating according to directions on package.
+3.Dip cracker/peanut butter combination in chocolate Candiquik, let excess chocolate run off, and place on wax paper to dry.
+Optional: sprinkle crushed cheese crackers on top to garnish.
+jeannie2473 Nowhere, Us
+rhondalynne Lake City, Michigan
+clbacon Birmingham, AL
+misscandiquik Plymouth, MN
+Show up here? Review or Bookmark it! ✔
+All Comments
+Your Comments
+FavoriteFixins 15 years ago What a great idea! Was this review helpful? Yes Flag
+The Cook
+The Rating
+The Groups
+Not added to any groups yet!
+My Stuff My Home My Bookmarks Shopping List Weekly Planner
+My Home
+My Bookmarks
+Shopping List
+Weekly Planner
+Jump To Browse Categories Search
+Browse Categories
+Help Help Forum FAQ
+Help Forum
+FAQ
+Search Inspiration Terms of Service & Privacy Contact
+Search Inspiration
+Terms of Service & Privacy
+Contact
+Take Note We will not respond to member emails. Use the Help Forum for that.
+If you have a business development or DMCA inquiry, Click Here .
+Advertising on Group Recipes is sold by SheKnows.com. You can contact the sales team for more info.
+while I look at others.

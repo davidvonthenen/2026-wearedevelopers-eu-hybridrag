@@ -1,0 +1,72 @@
+Cauliflower and Chickpea Tapas with Parsley-Fennel Mayonnaise Recipe
+====================================================================
+
+Recipe Metadata
+---------------
+Recipe ID: 9cd8ac2241b1d830
+CSV row number: 400
+Recipe name: Cauliflower and Chickpea Tapas with Parsley-Fennel Mayonnaise Recipe
+Source: Serious Eats
+URL: http://www.seriouseats.com/recipes/2009/12/cauliflower-and-chickpea-tapas-with-parsley-fennel-mayonnaise-recipe.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0293544294679d8b0e8dfeafc649247ed7f34616735d0327cc17f8e699c238bf/20992449.jpg
+Servings: 16
+Calories: 5401.97
+Diet labels: none listed
+Health labels: Vegetarian, Dairy-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Cauliflower and Chickpea Tapas with Parsley-Fennel Mayonnaise Recipe
+source: Serious Eats
+url: http://www.seriouseats.com/recipes/2009/12/cauliflower-and-chickpea-tapas-with-parsley-fennel-mayonnaise-recipe.html
+servings: 16
+calories: 5401.973722239672
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0293544294679d8b0e8dfeafc649247ed7f34616735d0327cc17f8e699c238bf/20992449.jpg
+diet_labels: []
+health_labels: ["Vegetarian","Dairy-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+This papas guisadas recipe pairs tender pork belly and potatoes with a smooth, guajillo-spiked tomato sauce for a rich, comforting Mexican stew.
+We are the curious cooks, experts, journalists, and nerds behind Serious Eats, the foremost site of food science and culture since 2006.
+Editorial Director
+Human Garbage Can
+Associate Editorial Director
+Loves All Vegetables
+Associate Director, Visuals
+Knows Sports
+Senior Culinary Editor
+Bay Leaf Believer
+Senior Editor
+Hungry Bookworm
+Visual Editor
+Chef With a Lens
+Associate Culinary Editor
+Ketchup Apologist
+Gear Nerd
+Chourico Evangelist
+Editor
+Prefers Pie for Breakfast
+Writer
+Cookbook Collector
+Here are the Serious Eats recipes our editors are cooking on repeat this month, including chocolate matzo icebox cake, deviled egg potato salad, a simple chicken dinner with fresh spring asparagus, and more.
+Build a better Italian hoagie (sub) with these essential toppings. Learn how to layer, dress, and balance every bite like a pro.
+A Southern baking staple, self-rising flour makes biscuits, pancakes, and simple cakes lighter and easier. Learn what it is, why it matters, and how to use it.
+Here's the Scoop
+Equipment of the week
+EQ Review
+What to Do
+What to Make

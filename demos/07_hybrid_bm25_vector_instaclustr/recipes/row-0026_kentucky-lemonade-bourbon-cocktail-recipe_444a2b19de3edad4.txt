@@ -1,0 +1,82 @@
+Kentucky Lemonade – Bourbon Cocktail Recipe
+===========================================
+
+Recipe Metadata
+---------------
+Recipe ID: 444a2b19de3edad4
+CSV row number: 26
+Recipe name: Kentucky Lemonade – Bourbon Cocktail Recipe
+Source: mom4real.com
+URL: https://www.mom4real.com/kentucky-lemonade-bourbon-cocktail-recipe/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/001d38053b8515bfa7900b70ea0d3342e5e31dcae44be0037d5be96b526aa30f/21080317.jpg
+Servings: 2
+Calories: 316.05
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: world
+Meal type: lunch/dinner
+Dish type: alcohol cocktail
+
+Original CSV Fields
+-------------------
+recipe_name: Kentucky Lemonade – Bourbon Cocktail Recipe
+source: mom4real.com
+url: https://www.mom4real.com/kentucky-lemonade-bourbon-cocktail-recipe/
+servings: 2
+calories: 316.0489773
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/001d38053b8515bfa7900b70ea0d3342e5e31dcae44be0037d5be96b526aa30f/21080317.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["world"]
+meal_type: ["lunch/dinner"]
+dish_type: ["alcohol cocktail"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Kentucky Lemonade – Bourbon Cocktail Recipe
+
+Description: This Kentucky Lemonade Cocktail Recipe is the perfect cocktail recipe for the summer!
+
+Ingredients:
+- 1 1/2 ounces of Bourbon (I used Weller Special Reserve)
+- 1/2 ounce of Triple Sec
+- 1/2 cup of Lemonade
+- a generous splash of lemon-lime soda
+
+Instructions:
+1. Pour the bourbon, triple sec and lemonade into a shaker and shake well. Pour the mixture over crushed ice and add a splash of lemon-lime soda. Garnish with a lemon slice, and enjoy!
+
+Visible page text:
+The Classic Charm of Bourbon Lemonade
+When the robust flavors of bourbon meet the tangy zest of lemonade, magic happens. Enter Bourbon Lemonade, a drink that encapsulates the essence of Southern charm and summertime refreshment. This delightful concoction, often referred to as Kentucky Lemonade, is more than just a beverage; it's a celebration of tradition and taste.
+Originating from the heart of the South, where bourbon reigns supreme, this cocktail is a testament to the region's penchant for combining simplicity with sophistication. At its core, Bourbon Lemonade is a harmonious blend of two primary ingredients: bourbon, with its rich, caramel undertones, and lemonade, offering a burst of citrusy freshness.
+But what makes this drink truly special?
+Versatility: Whether you're hosting a backyard barbecue, lounging by the pool, or simply enjoying a quiet evening on the porch, Bourbon Lemonade fits the bill. Its versatility makes it suitable for various occasions, from casual get-togethers to more formal events.
+Balance of Flavors: The sweetness of the bourbon perfectly complements the tartness of the lemonade, creating a balanced palate that's neither too strong nor too mild. It's this equilibrium that ensures every sip is a delightful experience.
+Customization: While the traditional recipe calls for just bourbon and lemonade, there's room for experimentation. Add a sprig of mint for an extra layer of freshness or a splash of soda for some fizz. The possibilities are endless.
+Nutritional Aspects: While it's a treat for the taste buds, moderation is key. Remember, bourbon is a distilled spirit, and its consumption should be responsible. Pairing it with lemonade not only dilutes the alcohol content but also adds a dose of vitamin C, thanks to the lemons.
+This Kentucky Lemonade Cocktail Recipe is the perfect cocktail recipe for the summer!
+Fall is right around the corner, but I'm not quite ready to bid summer farewell. There is still plenty of time to enjoy the spoils of summer, and one of my favorite summer time drinks is lemonade. At a recent cookout, one of my friends offered me a cocktail that he called Kentucky Lemonade. I assumed it would be a vodka drink, but was pleasantly surprised when I discovered it was made with bourbon. The mixture of bourbon, lemonade and lemon-lime soda made this drink so refreshing, and I can honestly see myself enjoying these year round! This drink is so easy to make, and is sure to be a crowd pleaser too. I'm thinking about making a batch to take to our first tailgate next weekend.
+For more tasty cocktail ideas, here is our raspberry gin cocktail !
+Kentucky Lemonade – Bourbon Cocktail Recipe
+Ingredients
+1 ½ ounces of Bourbon I used Weller Special Reserve
+½ ounce of Triple Sec
+½ cup of Lemonade
+a generous splash of lemon-lime soda
+Instructions
+Pour the bourbon, triple sec and lemonade into a shaker and shake well. Pour the mixture over crushed ice and add a splash of lemon-lime soda. Garnish with a lemon slice, and enjoy!
+Enjoy friends!
+More Cocktail Recipes
+Bourbon Apple Cider Cocktail
+Moscow Mule Cocktail Recipe
+Pumpkin Beer and Bourbon Apple Cider Cocktail
+Blackberry Bourbon Smash Cocktail
+Leave a Reply Cancel reply

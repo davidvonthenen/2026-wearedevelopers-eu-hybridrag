@@ -1,0 +1,94 @@
+Herbed Onion Focaccia Recipe
+============================
+
+Recipe Metadata
+---------------
+Recipe ID: daeb6006d36f49cf
+CSV row number: 216
+Recipe name: Herbed Onion Focaccia Recipe
+Source: recipeofhealth.com
+URL: http://recipeofhealth.com/recipe/herbed-onion-focaccia-725084rb
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/015b2c87cd6883236e4e5d51675123428051dff181adfe7c7ec57412d2204fe3/21128620.jpg
+Servings: 12
+Calories: 2713.35
+Diet labels: none listed
+Health labels: Vegan, Vegetarian, Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: bread
+
+Original CSV Fields
+-------------------
+recipe_name: Herbed Onion Focaccia Recipe
+source: recipeofhealth.com
+url: http://recipeofhealth.com/recipe/herbed-onion-focaccia-725084rb
+servings: 12
+calories: 2713.350487539702
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/015b2c87cd6883236e4e5d51675123428051dff181adfe7c7ec57412d2204fe3/21128620.jpg
+diet_labels: []
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["bread"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Main
+Recipes
+Course
+Breads
+yeast breads
+Herbed Onion Focaccia Recipe
+facebook
+twitter
+google+
+pinterest
+linkedin
+email
+Ingredients:
+1 package (1/4 oz) active dry yeast
+1-1/2 cups warm water (110o to 115o), divided
+1 tsp sugar
+6 tbsp olive oil, divided
+2 tsp salt
+4 to 4-1/2 cups king arthur unbleached all-purpose flour
+3 tbsp finely chopped green onions
+1-1/2 tsp minced fresh rosemary
+1-1/2 tsp small fresh sage leaves
+1-1/2 tsp minced fresh oregano
+seasoned olive oil or additional olive oil , optional
+Directions:
+In a large bowl, dissolve yeast in 1/2 cup warm water. Add sugar; let stand for 5 minutes. Add 4 tablespoons oil, salt, 2 cups flour and remaining water. Beat until smooth. Stir in enough remaining flour to form a soft dough.
+Turn onto a floured surface; knead until smooth and elastic, about 6-8 minutes. Place in a greased bowl, turning once to grease top. Cover and let rise in a warm place until doubled, about 1 hour.
+Punch dough down. Divide into three portions. Cover and let rest for 10 minutes. Shape each portion into an 8-in. circle; place on greased baking sheets. Cover and let rise until doubled, about 30 minutes. Using the end of a wooden spoon handle, make several 1/4-in. indentations in each loaf.
+Brush with remaining oil. Sprinkle with green onions, rosemary, sage and oregano. Bake at 400° for 20-25 minutes or until golden brown. Remove to wire racks. Serve with olive oil for dipping if desired. Yield: 3 loaves.
+Nutrition Facts
+* Percent Daily Values are based on a 2000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. Find out how many calories should you eat.
+Tastes
+salty
+savory
+bitter
+sweet
+Try this similar recipes
+Recipe Tags
+< 200 kcals
+60 - 90 min
+Weightwatchers Points
+15.1 Points
+19 PointsPlus
+Good Points
+low fat,
+saturated fat free,
+low sodium,
+cholesterol free,
+sugar free
+Share Recipe
+Opt-out of the sale of personal information
+We won’t sell your personal information to inform the ads you see. You may still see interest-based ads if your information is sold by other copanies or was sold previously.

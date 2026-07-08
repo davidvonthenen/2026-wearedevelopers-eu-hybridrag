@@ -1,0 +1,141 @@
+Old Fashioned Bread Stuffing
+============================
+
+Recipe Metadata
+---------------
+Recipe ID: a305f30c44cba776
+CSV row number: 269
+Recipe name: Old Fashioned Bread Stuffing
+Source: Chez Us
+URL: http://chezus.com/2012/11/20/old-fashioned-bread-stuffing/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01b3b1724f906b48dced76c2d3e9cf2f83edd100534550423e8fdb070f1c8a26/21046460.jpg
+Servings: 10
+Calories: 2570.36
+Diet labels: none listed
+Health labels: Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: bread
+
+Original CSV Fields
+-------------------
+recipe_name: Old Fashioned Bread Stuffing
+source: Chez Us
+url: http://chezus.com/2012/11/20/old-fashioned-bread-stuffing/
+servings: 10
+calories: 2570.363607
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01b3b1724f906b48dced76c2d3e9cf2f83edd100534550423e8fdb070f1c8a26/21046460.jpg
+diet_labels: []
+health_labels: ["Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["bread"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Old Fashioned Bread Stuffing
+
+Description: This recipe for Old Fashioned Bread Stuffing has been in our family for over 50 years. Made with simple ingredients, and a crowd pleaser even for picky stuffing eaters.
+
+Recipe category: Sides
+
+Recipe cuisine: American
+
+Yield: 6
+
+Prep time: PT20M
+
+Cook time: PT45M
+
+Total time: PT1H5M
+
+Ingredients:
+- 2 cups finely chopped celery
+- 1 cup finely minced yellow onion
+- 4 cloves of garlic, finely minced
+- 1 pound cremini mushrooms, cleaned and sliced
+- 3 tablespoons fresh herbs, finely minced (I use sage, rosemary, and thyme)
+- 3 tablespoons Italian parsley, finely minced
+- 1/8 cup olive oil
+- 1/2 cup of melted butter
+- 1/2 teaspoon kosher salt
+- 1/4 teaspoon pepper
+- 8 cups dry bread cubes (I use ciabatta bread), day-old or two
+- 2 1/2 cups turkey, chicken or vegetable stock
+- 3 eggs beaten
+
+Instructions:
+1. In a dutch oven cook the celery and onion with the olive oil until soft, about 5 minutes.
+Add the mushrooms, stir and cook for another 5 minutes.
+Stir in the garlic. Remove from the heat.
+Stir in the herbs, salt, and pepper.
+Place the dry bread cubes in a large mixing bowl.
+Add the celery/onion/mushroom mixture to the bread. Using your hands add the parsley, stock, melted butter, and beaten egg mix until moistened.
+Place the stuffing into a lightly buttered baking dish.
+Or you can stuff it into your turkey just before placing in the oven to roast. Either way is acceptable.
+If you are not going to stuff the bird, then preheat the oven to 350.
+Cover the stuffing with foil and bake for 20 minutes.
+Remove the foil and bake for another 15 - 25 minutes, until golden brown and warmed throughout. If it feels as if it is getting a little dry add more stock.
+Let sit for 10 minutes before serving.
+
+Visible page text:
+Sharing is caring!
+Pinterest
+Print
+Email
+Save
+This recipe for Old Fashioned Bread Stuffing is one that has been handed down from my grandmother to me. It is a must for every Thanksgiving menu.
+I decided to share one of my favorite side dishes, the stuffing. I love a big plate of ultra moist and slightly crunchy stuffing, drizzled with turkey gravy. I could eat just that. From the first time I ever cooked Thanksgiving, I have made the same recipe that all the women on my mother’s side of the family have made. The only difference is that I have added sausage to the mix this year; normally I leave it out. Slightly spicy Italian sausage made with local pork. If you are a non-meat lover, leave out the sausage and toss in lots of wild mushrooms. Sound good? I knew you’d love it!
+* if you want to add sausage, precook your favorite kind, then let it cool before mixing in with the bread.
+** 10/30/15 I revised this recipe a bit and now add mushrooms. You will thank me for this change.
+Happy Thanksgiving.
+More Thanksgiving Stuffing Recipes:
+Mom’s Stovetop Turkey Stuffing
+Chicken Sausage and Herb Stuffing
+Wild Mushroom Stuffing
+Tips:
+Use day or two old bread as it will absorb the liquid better. If you do not have old bread, then cube the bread and dry in the oven at 250 for about 15 minutes.
+I prefer to use Ciabatta or a Batard. If you have a favorite dense bread use that. A dark sprouted rye may be fun.
+Tools:
+Dutch oven or large heavy-bottomed saucepan
+Large mixing bowl
+Large baking dish either glass or metal – I prefer glass
+Foil
+Ingredients
+2 cups finely chopped celery
+1 cup finely minced yellow onion
+4 cloves of garlic, finely minced
+1 pound cremini mushrooms, cleaned and sliced
+3 tablespoons fresh herbs, finely minced (I use sage, rosemary, and thyme)
+3 tablespoons Italian parsley, finely minced
+1/8 cup olive oil
+1/2 cup of melted butter
+1/2 teaspoon kosher salt
+1/4 teaspoon pepper
+8 cups dry bread cubes (I use ciabatta bread), day-old or two
+2 1/2 cups turkey, chicken or vegetable stock
+3 eggs beaten
+Instructions
+In a dutch oven cook the celery and onion with the olive oil until soft, about 5 minutes. Add the mushrooms, stir and cook for another 5 minutes. Stir in the garlic. Remove from the heat. Stir in the herbs, salt, and pepper. Place the dry bread cubes in a large mixing bowl. Add the celery/onion/mushroom mixture to the bread. Using your hands add the parsley, stock, melted butter, and beaten egg mix until moistened. Place the stuffing into a lightly buttered baking dish. Or you can stuff it into your turkey just before placing in the oven to roast. Either way is acceptable. If you are not going to stuff the bird, then preheat the oven to 350. Cover the stuffing with foil and bake for 20 minutes. Remove the foil and bake for another 15 - 25 minutes, until golden brown and warmed throughout. If it feels as if it is getting a little dry add more stock. Let sit for 10 minutes before serving.
+Did you make this recipe?
+Thank you for joining us at the Chez Us table. We truly love having you here.Have you made this recipe? Please share what recipes you are enjoying from Chez Us. We would love to see and be able to share with our followers. Use the hashtag #chezuseats on your social media channels, then we can pull a chair up to your virtual table and share with our friends.
+natalie
+Monday 4th of November 2013
+Looks delicious! How much sausage would you add to this recipe (if you're a sausage-eater)? :)
+admin
+I would add about a pound of my favorite sausage. I would remove the casings and precook slightly until crumbly, then add to the mix. Have made with sausage and it is wonderful.
+Archana Doshi
+Wednesday 21st of November 2012
+Wow this sounds delicious. Saw you on Kitchen Daily Curator Network and stopped by to say hi as well :) Archana
+Brian @ A Thought For Food
+Tuesday 20th of November 2012
+Wishing you two a very happy Thanksgiving!
+Denise Woodward
+Thanks Brian. I hope you guys have a wonderful holiday as well!

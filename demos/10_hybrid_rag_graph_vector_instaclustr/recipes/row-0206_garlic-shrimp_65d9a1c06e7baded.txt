@@ -1,0 +1,101 @@
+Garlic Shrimp
+=============
+
+Recipe Metadata
+---------------
+Recipe ID: 65d9a1c06e7baded
+CSV row number: 206
+Recipe name: Garlic Shrimp
+Source: food.com
+URL: http://www.food.com/recipe/garlic-shrimp-22758
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01474e2d5f27e07f9a5b9fdd61e643b88ea0d3a9a98236893a0f3822c97b04a1/21095915.jpg
+Servings: 4
+Calories: 803.23
+Diet labels: High-Protein, Low-Carb
+Health labels: Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free
+Allergy cautions: none listed
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Garlic Shrimp
+source: food.com
+url: http://www.food.com/recipe/garlic-shrimp-22758
+servings: 4
+calories: 803.2302717491436
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01474e2d5f27e07f9a5b9fdd61e643b88ea0d3a9a98236893a0f3822c97b04a1/21095915.jpg
+diet_labels: ["High-Protein","Low-Carb"]
+health_labels: ["Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free"]
+cautions: []
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Garlic Shrimp
+
+Description: I call this my magic shrimp. You can have this done in 21 minutes. And it's true restaurant quality.
+
+Recipe category: Vegetable
+
+Yield: 4 serving(s)
+
+Prep time: PT15M
+
+Cook time: PT6M
+
+Total time: PT21M
+
+Ingredients:
+- 1 tablespoon oil
+- 4 tablespoons minced garlic
+- 1 1/2 lbs fresh shrimp, peeled and deviened
+- 1 cup julienned carrot
+- 2 tablespoons chopped fresh cilantro
+
+Instructions:
+1. In 12in skillet, heat oil.
+2. Add garlic, cook 1 minute.
+3. Add shrimp, stir fry 1 minute.
+4. Add carrot, stir fry 3 more minutes.
+5. Stir in cilantro.
+
+Visible page text:
+Garlic Shrimp
+ingredients
+1 tablespoon oil
+4 tablespoons minced garlic
+1 1 ⁄ 2 lbs fresh shrimp , peeled and deviened
+1 cup julienned carrot
+2 tablespoons chopped fresh cilantro
+directions
+In 12in skillet, heat oil.
+Add garlic, cook 1 minute.
+Add shrimp, stir fry 1 minute.
+Add carrot, stir fry 3 more minutes.
+Stir in cilantro.
+Questions & Replies
+Reviews
+I needed more liquid because I wanted to serve it over angel hair pasta. Added Canola Balance oil for bulk and Smart Balance imitation butter for flavor. I only had precooked shrimp, so I sauteed the garlic and carrots, and popped the shrimp in last for about a minute to warm them up. Barb loved it! I did too. Clifford Boren Reply 16
+I made this just with the oil, garlic, and shrimp; I used frozen shrimp and it was wonderful. We gobbled it up very quickly and agreed that this is most certainly the ONLY way to eat shrimp! thanks for posting! spatchcock Reply 6
+Great recipe! I admit, I used unsalted butter instead of the oil. This was quick, easy, and tasted like I had worked all day on it. DH says this is the "only" way to make shrimp now! Thanks for another wonderful recipe, Inez! :o) Terri F. Reply 6
+Now I know why you call this your magic shrimp. I prepared it exactly as instructed and it was excellent. Now my family begs me to make it. It is a simple recipe and a beautiful dish as well. Ellen M. Reply 2
+Yum! The cilantro is what really makes this dish. I tried a bite of it before I added the cilantro, and I wasn't that impressed. But--add the cilantro, and DELICIOUS! Instead of just the oil, I used both olive oil and Smart Balance to cook it in (at least a tablespoon of each). This was quite good just as the recipe is written, but the second time I made it, I added a small amount of dry white wine to the pan and allowed it to cook down a bit before adding in the shrimp. I also added in a bit of crushed red pepper. This worked out quite well. We had this over lightly buttered pasta seasoned with garlic. This is a great recipe that the whole family enjoyed. I look forward to making it again! Heavens Kitchen Reply 1
+Tweaks
+Excellent! I used Pam nonstick spray instead of oil. I had 2 pounds of shrimp, and there wasn't a bite left!I love the sweetness the carrots add. I am a HUGE fan of cilantro, so I probably had more than 2 tablespoons! This was super quick and super delicous. Thanks for posting! ColCadsMom Reply
+Yum! The cilantro is what really makes this dish. I tried a bite of it before I added the cilantro, and I wasn't that impressed. But--add the cilantro, and DELICIOUS! Instead of just the oil, I used both olive oil and Smart Balance to cook it in (at least a tablespoon of each). This was quite good just as the recipe is written, but the second time I made it, I added a small amount of dry white wine to the pan and allowed it to cook down a bit before adding in the shrimp. I also added in a bit of crushed red pepper. This worked out quite well. We had this over lightly buttered pasta seasoned with garlic. This is a great recipe that the whole family enjoyed. I look forward to making it again! Heavens Kitchen Reply
+Great recipe! I admit, I used unsalted butter instead of the oil. This was quick, easy, and tasted like I had worked all day on it. DH says this is the "only" way to make shrimp now! Thanks for another wonderful recipe, Inez! :o) Terri F. Reply
+RECIPE SUBMITTED BY
+656 Followers
+1281 Recipes
+10 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

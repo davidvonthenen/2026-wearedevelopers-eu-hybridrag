@@ -1,0 +1,112 @@
+Beet And Potato Salad
+=====================
+
+Recipe Metadata
+---------------
+Recipe ID: d3dfd18ca0a16a6e
+CSV row number: 324
+Recipe name: Beet And Potato Salad
+Source: Martha Stewart
+URL: http://www.marthastewart.com/313551/beet-and-potato-salad
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0208cc74e84f798634807aca7babf8ec2db0d9807e2928ecc7a2e498605aa657/21002925.jpg
+Servings: 6
+Calories: 2158.38
+Diet labels: High-Fiber
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: nordic
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Beet And Potato Salad
+source: Martha Stewart
+url: http://www.marthastewart.com/313551/beet-and-potato-salad
+servings: 6
+calories: 2158.380602900356
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0208cc74e84f798634807aca7babf8ec2db0d9807e2928ecc7a2e498605aa657/21002925.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["nordic"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Quick Pickled Beets
+
+Description: Quick pickled beets are satisfyingly easy to make. Serve them as a side dish or with pasta, sandwiches, or greens for a sweet and earthy accompaniment.
+
+Recipe category: ['Side Dish']
+
+Recipe cuisine: ['American']
+
+Yield: 8
+
+Total time: PT0M
+
+Ingredients:
+- 6 medium red beets with greens, stems trimmed to 2 inches, remaining stems and greens reserved for Stewed Beet Greens
+- Coarse salt
+- 0.333 cup cider vinegar
+- 0.25 teaspoon freshly ground pepper
+- 0.333 cup olive oil
+
+Instructions:
+1. Place beets in a large pot, and cover with cold water by 2 inches.
+2. Bring to a boil over high heat; add 2 teaspoons salt. Reduce heat slightly to maintain a rolling boil. Reduce heat slightly to maintain a rolling boil. Cook until tender, about 30 minutes. Drain, and let cool slightly.
+3. Trim stem ends, then peel beets using a paring knife or a vegetable peeler. Cut beets crosswise into 1/4-inch-thick slices. Arrange on a platter.
+4. Whisk together vinegar, 1 1/4 teaspoons salt, and the pepper in a small bowl. Add oil in a slow, steady stream, whisking until emulsified.
+5. Pour vinaigrette over beets, and serve.
+
+Visible page text:
+Food & Cooking
+Recipes
+Lunch Recipes
+Quick Pickled Beets
+This simple recipe helps you make quick pickled beets in about 30 minutes.
+Equal parts earthy and sweet, these quick pickled beets deserve a permanent spot in your refrigerator. They're perfect for elevating simple meals (like sandwiches, salads, and pasta recipes) with a welcoming splash of flavor and color—but they're also delicious on their own. As a side dish, pickled beets are irresistible with creamy ingredients, such as feta cheese and hard-boiled eggs. No matter how you serve them, these beets will brighten up your spread.
+Beets are in season between late spring through fall, so they're widely available during most of the year. If you find yourself with an abundance of beets from the supermarket or your garden, consider adding this recipe to your to-do list; quick pickled beets will last for about one month in the refrigerator, making it easy to stretch your haul.
+Don't toss the greens from your beets. Cook them like a leafy green vegetable. Our Stewed Beet Greens is a good recipe to start with.
+Ingredients
+6 medium red beets with greens, stems trimmed to 2 inches
+Coarse salt
+⅓ cup cider vinegar
+¼ teaspoon freshly ground pepper
+⅓ cup olive oil
+Directions
+Prepare beets in a pot: Place beets in a large pot, and cover with cold water by 2 inches.
+Prepare beets in a pot:
+Place beets in a large pot, and cover with cold water by 2 inches.
+Boil and drain beets: Bring to a boil over high heat; add 2 teaspoons salt. Reduce heat slightly to maintain a rolling boil. Reduce heat slightly to maintain a rolling boil. Cook until tender, about 30 minutes. Drain, and let cool slightly.
+Boil and drain beets:
+Bring to a boil over high heat; add 2 teaspoons salt. Reduce heat slightly to maintain a rolling boil. Reduce heat slightly to maintain a rolling boil. Cook until tender, about 30 minutes. Drain, and let cool slightly.
+Slice beets: Trim stem ends, then peel beets using a paring knife or a vegetable peeler. Cut beets crosswise into 1/4-inch-thick slices. Arrange on a platter. You can also cut the beets into chunks, depending on how you plan to serve them.
+Slice beets:
+Trim stem ends, then peel beets using a paring knife or a vegetable peeler. Cut beets crosswise into 1/4-inch-thick slices. Arrange on a platter.
+You can also cut the beets into chunks, depending on how you plan to serve them.
+Make vinaigrette: Whisk together vinegar, 1 1/4 teaspoons salt, and the pepper in a small bowl. Add oil in a slow, steady stream, whisking until emulsified.
+Make vinaigrette:
+Whisk together vinegar, 1 1/4 teaspoons salt, and the pepper in a small bowl. Add oil in a slow, steady stream, whisking until emulsified.
+Add vinaigrette to beets: Pour vinaigrette over beets, and serve.
+Add vinaigrette to beets:
+Pour vinaigrette over beets, and serve.
+Pickled Beet Variations
+You can customize this recipe by adding spices and herbs, like cinnamon, dill, or rosemary. Another option is to replace the cider vinegar with white, rice, or red wine vinegar.
+How to Store Quick Pickled Beets
+Refrigerate the pickled beets in a clean air-tight jar for up to one month.
+Try These Other Beet Recipes:
+Basic Roasted Beets
+Roasted Beets on Greens
+Smoked-Salmon Flatbread With Pickled Beet
+Warm Duck Salad With Caramelized Beets
+Gingery Beet Soup
+Fudgy Chocolate Beet Cake
+Related Articles

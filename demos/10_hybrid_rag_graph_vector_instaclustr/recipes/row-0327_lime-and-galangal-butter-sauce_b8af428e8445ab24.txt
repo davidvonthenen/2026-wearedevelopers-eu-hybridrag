@@ -1,0 +1,102 @@
+Lime and Galangal Butter Sauce
+==============================
+
+Recipe Metadata
+---------------
+Recipe ID: b8af428e8445ab24
+CSV row number: 327
+Recipe name: Lime and Galangal Butter Sauce
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/160591/lime-and-galangal-butter-sauce/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/020a23b7a8157e9ddcc73f6ac635782adcf2dfae23696711a91b765be54a8cac/21079901.jpg
+Servings: 2
+Calories: 566.11
+Diet labels: none listed
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Lime and Galangal Butter Sauce
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/160591/lime-and-galangal-butter-sauce/
+servings: 2
+calories: 566.1097461665325
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/020a23b7a8157e9ddcc73f6ac635782adcf2dfae23696711a91b765be54a8cac/21079901.jpg
+diet_labels: []
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Lime and Galangal Butter Sauce
+
+Description: This lime and galangal butter sauce is the perfect compliment to coconut and shrimp ravioli.
+
+Yield: 2
+
+Prep time: PT25M
+
+Cook time: PT10M
+
+Total time: PT35M
+
+Ingredients:
+- 1 clove garlic, minced
+- 1 shallot, finely chopped
+- 1 tablespoon minced galangal
+- 0.5 cup dry white wine
+- 0.25 cup butter, cut into 1 tablespoon sized pieces
+- 1 teaspoon grated lime zest
+- 2 tablespoons lime juice
+- sea salt and freshly ground black pepper to taste
+- 1 tablespoon finely chopped fresh cilantro
+
+Instructions:
+1. Place the garlic, shallot, galangal, and white wine in a small saucepan. Bring to a boil over medium-high heat, and reduce the wine to 2 tablespoons. Remove from the heat, and whisk in the butter, one piece at a time, adding each piece after the last one has melted. Once the butter has been incorporated, whisk in the lime zest and juice. Season to taste with salt and pepper. Stir in cilantro and serve immediately.
+
+Visible page text:
+Recipes
+Lime and Galangal Butter Sauce
+This lime and galangal butter sauce is the perfect compliment to coconut and shrimp ravioli.
+Ingredients
+1 clove garlic, minced
+1 shallot, finely chopped
+1 tablespoon minced galangal
+½ cup dry white wine
+¼ cup butter, cut into 1 tablespoon sized pieces
+1 teaspoon grated lime zest
+2 tablespoons lime juice
+sea salt and freshly ground black pepper to taste
+1 tablespoon finely chopped fresh cilantro
+Directions
+Place the garlic, shallot, galangal, and white wine in a small saucepan. Bring to a boil over medium-high heat, and reduce the wine to 2 tablespoons. Remove from the heat, and whisk in the butter, one piece at a time, adding each piece after the last one has melted. Once the butter has been incorporated, whisk in the lime zest and juice. Season to taste with salt and pepper. Stir in cilantro and serve immediately.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Lime and Galangal Butter Sauce
+1
+Most-Saved Recipes Like This
+Cilantro and Lime Butter 23 Ratings 1 hr 5 mins Save
+Garlic Butter Sauce 247 Ratings 10 mins Save
+Spicy Garlic Lime Chicken 3,804 Ratings 25 mins Save
+Buttery Lemon Caper Sauce 60 Ratings 15 mins Save
+Easy Key Lime Pie 1,610 Ratings 35 mins Save
+The Best Thai Tom Kha Soup Recipe 1 Rating 1 hr Save
+Asian Lime and Cilantro Sauce For Salmon 10 Ratings 5 mins Save
+Guyanese Lime Cookies 116 Ratings 35 mins Save
+Garlic Butter 1,117 Ratings 10 mins Save
+Spring Lime Tea Cookies 356 Ratings 50 mins Save
+You’ll Also Love

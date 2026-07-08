@@ -1,0 +1,121 @@
+Chipotle-Glazed Sweet Potato Fries recipes
+==========================================
+
+Recipe Metadata
+---------------
+Recipe ID: 856f5aa30ecf9761
+CSV row number: 494
+Recipe name: Chipotle-Glazed Sweet Potato Fries recipes
+Source: paleoleap.com
+URL: https://paleoleap.com/chipotle-glazed-sweet-potato-fries/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0337ed0810d2bfbffcf3a937f314353e3a72f546495a7a393095c45d65caf17d/21105716.jpeg
+Servings: 4
+Calories: 2313.86
+Diet labels: High-Fiber
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: south american
+Meal type: lunch/dinner
+Dish type: starter
+
+Original CSV Fields
+-------------------
+recipe_name: Chipotle-Glazed Sweet Potato Fries recipes
+source: paleoleap.com
+url: https://paleoleap.com/chipotle-glazed-sweet-potato-fries/
+servings: 4
+calories: 2313.859618151067
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0337ed0810d2bfbffcf3a937f314353e3a72f546495a7a393095c45d65caf17d/21105716.jpeg
+diet_labels: ["High-Fiber"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["south american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["starter"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Chipotle-Glazed Sweet Potato Fries Recipe
+
+Description: Sweet and spicy combine to make these chipotle-seasoned oven fries irresistibly delicious.
+
+Recipe category: ['Side Dish']
+
+Recipe cuisine: ['American']
+
+Yield: ['4', '4 people']
+
+Prep time: PT15M
+
+Cook time: PT40M
+
+Total time: PT55M
+
+Ingredients:
+- 4 lbs. sweet potatoes (peeled and cut into fries or wedges)
+- ¼ cup ghee
+- 1 to 2 tsp. chipotle powder
+- ¼ cup honey (optional)
+- 1/3 cup fresh lime juice
+- Sea salt and freshly ground black pepper
+
+Instructions:
+1. Preheat your oven to 400 F.
+2. Place the potato fries or wedges in a large bowl.
+3. Melt the ghee and whisk in the lime juice, honey, and chipotle powder in a saucepan placed over medium heat.
+4. Bring to a boil and then let simmer for 2 to 3 minutes.
+5. Pour the sauce over the fries and mix until everything is well coated.
+6. Align the fries in a single layer on a greased baking sheet.
+7. Place in the oven and bake, uncovered, for 30 to 40 minutes, flipping once.
+8. Season the sweet potatoes to taste and serve.
+
+Visible page text:
+Chipotle-Glazed Sweet Potato Fries Recipe
+Last Modified: Jan 18, 2023 by Paleo Leaper · This post may contain affiliate links · Leave a Comment
+Sharing is caring!
+Facebook
+Twitter
+Pinterest
+Reddit
+Turn your fries up a notch or three with a sweet-spicy glaze: rich ghee, mouth-tingling chipotle peppers, and just a hint of lime juice.
+The honey tones it all down with just enough sweetness, and the result will have you licking the extra sauce off the roasting pan. If you really want a plate of sweet potato fries that kick it up to 11, here’s the answer.
+You can cut your potatoes into a more classic French fry shape or into thicker wedges, depending on how you like them. Or for a more fork-friendly dish with the same flavor, just chop them into bite-sized pieces.
+Fries with burgers is a classic combination, but these would also go well with all kinds of meals: try them with Southwest-inspired pork chops, steak , or your favorite kind of chicken.
+Of course, fries are also an ever-popular hit with the kids and a perfect way to get some more vegetables and safe starches into the daily rotation.
+SERVES: 4 PREP: 15 min COOK: 40 min
+Ingredients
+4 lbs. sweet potatoes , peeled and cut into fries or wedges
+¼ cup ghee
+1 to 2 tsp. chipotle powder
+¼ cup honey (optional)
+⅓ cup fresh lime juice
+Sea salt and freshly ground black pepper
+Preparation
+Preheat your oven to 400 F.
+Place the potato fries or wedges in a large bowl.
+Melt the ghee and whisk in the lime juice, honey, and chipotle powder in a saucepan placed over medium heat.
+Bring to a boil and then let simmer for 2 to 3 minutes.
+Pour the sauce over the fries and mix until everything is well coated.
+Align the fries in a single layer on a greased baking sheet.
+Place in the oven and bake, uncovered, for 30 to 40 minutes, flipping once.
+Season the sweet potatoes to taste and serve.
+📖 Recipe
+Ingredients 1x 2x 3x
+4 lbs. sweet potatoes peeled and cut into fries or wedges
+¼ cup honey optional
+Instructions
+Place the potato fries or wedges in a large bowl. 4 lbs. sweet potatoes
+Melt the ghee and whisk in the lime juice, honey, and chipotle powder in a saucepan placed over medium heat. ¼ cup ghee, ¼ cup honey, ⅓ cup fresh lime juice, 1 to 2 tsp. chipotle powder
+Season the sweet potatoes to taste and serve. Sea salt and freshly ground black pepper
+Nutrition
+More Paleo Recipes
+Kale and Banana Green Smoothie
+Almond Banana Cinnamon Smoothie
+Peach and Chocolate Green Smoothie
+Coconut Vanilla Milkshake
+Leave a Reply Cancel reply

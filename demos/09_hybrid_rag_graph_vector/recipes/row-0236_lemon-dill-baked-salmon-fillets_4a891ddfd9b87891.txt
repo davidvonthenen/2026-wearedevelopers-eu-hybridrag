@@ -1,0 +1,101 @@
+Lemon Dill Baked Salmon Fillets
+===============================
+
+Recipe Metadata
+---------------
+Recipe ID: 4a891ddfd9b87891
+CSV row number: 236
+Recipe name: Lemon Dill Baked Salmon Fillets
+Source: recipezazz.com
+URL: https://www.recipezazz.com/recipe/lemon-dill-baked-salmon-fillets-9844
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/017c4375a6bf5caebf730f9baceb022281d44b4574bdd36eb4a462afc9abcef7/21115465.jpg
+Servings: 4
+Calories: 542.70
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Paleo, Dairy-Free, Gluten-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: nordic
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Lemon Dill Baked Salmon Fillets
+source: recipezazz.com
+url: https://www.recipezazz.com/recipe/lemon-dill-baked-salmon-fillets-9844
+servings: 4
+calories: 542.696218
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/017c4375a6bf5caebf730f9baceb022281d44b4574bdd36eb4a462afc9abcef7/21115465.jpg
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Paleo","Dairy-Free","Gluten-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["nordic"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Lemon Dill Baked Salmon Fillets
+Recipe: #9844
+June 14, 2013
+Categories: Salmon , 5 Ingredients Or Less , 5-Minute Prep , Fathers Day , Mothers Day Sunday Dinner , Oven Bake , Gluten-Free , Heart Healthy , High Protein , Low Carbohydrate , Non-Dairy , Kosher Meat , Salmon Dinner , more
+Add to Recipe Book
+Add to Planner
+Add Private Note
+Add to Shopping List
+Send Email
+Follow Member
+"The mayo coating keeps the fish lovely and moist. You may use dried dill about 1 teaspoon but fresh is much better. The hot oven cooks the salmon quickly and doesn't allow the fish to dry out. One lemon is usually has enough juice for the recipe."
+Ingredients
+2 (8 ounce) salmon fish fillets (4 ounce each fillet)
+3 tablespoons mayonnaise (lite is fine)
+1 1/2 tablespoons fresh lemon juice
+1/2 teaspoon lemon zest
+1 tablespoon fresh dill, chopped
+Salt and pepper to taste
+Nutritional
+Serving Size: 1 (153.6 g)
+Calories 224.1
+Total Fat - 11.7 g
+Saturated Fat - 2.5 g
+Cholesterol - 80.5 mg
+Sodium - 287.9 mg
+Total Carbohydrate - 6.3 g
+Dietary Fiber - 0.1 g
+Sugars - 1.4 g
+Protein - 22.6 g
+Calcium - 9.9 mg
+Iron - 0.5 mg
+Vitamin C - 7.3 mg
+Thiamin - 0.1 mg
+Step by Step Method
+Step 1
+Pre-heat oven to 400f.
+Step 2
+Rinse the fillets and dry with a paper towel.
+Step 3
+Mix together the lemon juice, zest and dill.
+Step 4
+Paint both sides of the fillets.
+Step 5
+Place on oven proof tray.
+Step 6
+Bake for 10 minutes or until the fish flakes easily.
+Step 7
+Season with salt and pepper.
+Step 8
+Nice to serve with a sprig of dill on the side.
+Tips
+2 Reviews
+You'll Also Love
+Easy Lemon Parmesan Baked Salmon
+(19 reviews)
+Ana's Honey and Soy Glazed Salmon
+(11 reviews)
+Lemon Ginger Salmon
+(10 reviews)

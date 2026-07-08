@@ -1,0 +1,85 @@
+Vanilla Raspberry Layer Cake recipes
+====================================
+
+Recipe Metadata
+---------------
+Recipe ID: d5fec86ea0b4cef4
+CSV row number: 478
+Recipe name: Vanilla Raspberry Layer Cake recipes
+Source: bakerholicsanonymous.wordpress.com
+URL: https://bakerholicsanonymous.wordpress.com/recipes-2/birthday-party/vanilla-raspberry-layer-cake/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/031f455f438057632b39dc24c63c9f8c7b9c320a55c8ccf88cded58d12b2e440/21095687.jpeg
+Servings: 4
+Calories: 6402.11
+Diet labels: High-Fiber, Low-Fat
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Vanilla Raspberry Layer Cake recipes
+source: bakerholicsanonymous.wordpress.com
+url: https://bakerholicsanonymous.wordpress.com/recipes-2/birthday-party/vanilla-raspberry-layer-cake/
+servings: 4
+calories: 6402.109999998713
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/031f455f438057632b39dc24c63c9f8c7b9c320a55c8ccf88cded58d12b2e440/21095687.jpeg
+diet_labels: ["High-Fiber","Low-Fat"]
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Well.. I lied. I completely intended to blog more in the last few weeks (as evidenced by my last post!) but I’ve just been too busy. I had my 21st Birthday to plan, uni assessments galore, the Psychology ball to organise, and now Laura’s 18th is coming up in a couple of weeks. Yikes, I get exhausted just thinking about it all! However, while I haven’t been blogging, I have been baking.
+Here is the cake I made for my 21st Birthday afternoon tea – triple layer vanilla cake with a tangy raspberry filling & super glossy meringue frosting, topped with vanilla bean macarons. The raspberry filling was perfect as, otherwise, this cake was going to be too sweet, so I would certainly recommend leaving it (or perhaps substituting it for a tangy lemon curd if you’re not a raspberry fan) to cut the sweetness from the frosting.
+For my 21st birthday cake, I used 2 packets of Betty Crocker’s SuperMoist Vanilla cake mix, with some extra vanilla added so they tasted more ‘home-made’ divided into 3 20cm lined pans. I did this for 2 main reasons; it saved a lot of time (and time was precious as I had so much other cooking to do!), and because it reliably produces an even, stable, fine-crumbed cake that is easy to work with. If you don’t want to use cake mixes, just make a double batch of your favourite vanilla/butter cake and that will work as well 🙂
+The raspberry filling needs to be made at least a day ahead but keeps well in the fridge so can be made up to a week ahead.
+I also made the macaron shells a couple of days ahead to save me some stress on the actual party day.
+The frosting should be made the day of serving as it does not keep particularly well.
+Ingredients
+For the raspberry filling (make at least a day ahead) 340g frozen raspberries ⅔ cups water ½ cup white, granulated sugar 1 tblspn lemon juice 2 ½ tblspns cornstarch dissolved in ¼ cup of water
+For the cake 2 boxes Betty Crocker’s SuperMoist Vanilla cake mix (made following instructions, so add the eggs, milk, butter etc. as specified by the box) ½ tablespoon vanilla extract
+For the meringue frosting 6 egg whites 1 ¾ cups caster sugar 2 tblspns liquid glucose (or light corn syrup) ¼ teaspoon cream of tartar 2 teaspoons vanilla extract
+For the macarons https://bakerholicsanonymous.wordpress.com/recipes-2/cookies-biscuits-macarons/vanilla-bean-macarons/
+Method To make the raspberry filling: In a saucepan combine the raspberries, water, sugar, and lemon juice. Bring to boil and simmer for 15-20mins or until the raspberries have broken down. Remove the mixture from the heat and strain with a fine mesh sieve. Return the stained mixture to the heat. Dissolve the cornstarch in water. Whisk the cornstarch mix into the raspberry mixture. Bring the mixture back to a boil and simmer for 5 more minutes, stirring occasionally. Remove from heat and cool completely. Refrigerate overnight to set.
+To make the cakes: Line & grease 3 20cm cake pans. Set oven to temperature specified by the cake mix boxes. Make cakes according to box instructions, add ½ teaspoon of vanilla extract to each cake mix & divide mixture among the three pans. Bake for specified time, or until a skewer inserted comes out clean.
+To assemble the cake: Carefully place a cake layer on your serving platter. Top with a generous amount of raspberry filling and spread gently using a spatula to make an even layer. Top with another cake layer and repeat. Finally, top with the final cake, ready to be frosted.
+To make the meringue frosting: Add egg whites, sugar, liquid glucose and cream of tartar, and simmer over a pot of water (not boiling), whisking constantly but gently, until temperature reaches 54°C on a thermometer (be patient, it does get there eventually!). Beat heated mixture with electric beaters on a low speed for 2 minutes, then increase the speed to medium and beat for 2 more minutes. Increase the speed to high and beat until it is very thick and glossy, about 5 minutes. Add vanilla and beat to combine. Frost cake immediately by piling the frosting on top of the cake and, using a metal spatula, gently spreading from the top down. Smoothe as much as possible with your spatula.
+Top with 6 macarons, 3 of each colour and a candle (if desired).
+Serve each piece with a macaron & enjoy!
+Raspberry filling recipe adapted from: Pinterest (various sources with the same basic recipe)
+Meringue frosting recipe adapted from Sweetapolita’s ‘Perfectly Pink Angel Food Cake’ http://sweetapolita.com/2015/05/perfectly-pink-angel-food-cake/
+Share this:
+Print (Opens in new window) Print
+Share on Print & PDF (Opens in new window) Print & PDF
+Email a link to a friend (Opens in new window) Email
+Share on Pinterest (Opens in new window) Pinterest
+Share on X (Opens in new window) X
+Share on Yummly (Opens in new window) Yummly
+Share on Facebook (Opens in new window) Facebook
+Related
+Enter your comment here... Cancel reply
+Comment
+Reblog
+Subscribe Subscribed Bakerholics Anonymous Already have a WordPress.com account? Log in now.
+Bakerholics Anonymous
+Already have a WordPress.com account? Log in now.
+Bakerholics Anonymous Subscribe Subscribed Sign up Log in Copy shortlink Report this content View post in Reader Manage subscriptions Collapse this bar
+Subscribe Subscribed
+Sign up
+Log in
+Copy shortlink
+Report this content
+View post in Reader
+Manage subscriptions
+Collapse this bar

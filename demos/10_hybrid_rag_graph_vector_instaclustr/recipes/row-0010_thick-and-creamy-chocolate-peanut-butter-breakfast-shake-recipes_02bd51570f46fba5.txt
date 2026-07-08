@@ -1,0 +1,132 @@
+Thick and Creamy Chocolate Peanut Butter Breakfast Shake recipes
+================================================================
+
+Recipe Metadata
+---------------
+Recipe ID: 02bd51570f46fba5
+CSV row number: 10
+Recipe name: Thick and Creamy Chocolate Peanut Butter Breakfast Shake recipes
+Source: bakerbynature.com
+URL: http://bakerbynature.com/thick-creamy-chocolate-peanut-butter-breakfast-shake/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/000a5bccd49c9d52f7e8d0fb16e5f347929669c307951d9901cbb08e902b8d5e/21086116.jpeg
+Servings: 2
+Calories: 633.59
+Diet labels: High-Fiber, Low-Sodium
+Health labels: Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: breakfast
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Thick and Creamy Chocolate Peanut Butter Breakfast Shake recipes
+source: bakerbynature.com
+url: http://bakerbynature.com/thick-creamy-chocolate-peanut-butter-breakfast-shake/
+servings: 2
+calories: 633.588
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/000a5bccd49c9d52f7e8d0fb16e5f347929669c307951d9901cbb08e902b8d5e/21086116.jpeg
+diet_labels: ["High-Fiber","Low-Sodium"]
+health_labels: ["Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Thick and Creamy Chocolate Peanut Butter Breakfast Shake
+
+Description: Thick and Creamy Chocolate Peanut Butter Breakfast Shake
+
+Recipe category: ['Breakfast']
+
+Recipe cuisine: ['American']
+
+Yield: ['2', '2 smoothies']
+
+Prep time: PT2M
+
+Cook time: PT1M
+
+Total time: PT3M
+
+Ingredients:
+- 2 large ripe bananas, cut into chunks and frozen
+- 2 tablespoons creamy peanut butter (preferably with no sugar added, but any brand will really do the job)
+- 2 tablespoons honey
+- 1 1/2 tablespoons cocoa powder
+- 1 1/2 cups almond milk
+
+Instructions:
+1. Place all of the ingredients in the body of your blender and pulse until completely smooth. Pour into glasses and serve/drink at once.
+
+Visible page text:
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+Work With Me
+Contact
+Start Here
+All Recipes
+Entertaining
+At Home With Ashley
+This Thick and Creamy Peanut Butter Breakfast Shake tastes like dessert! Easily whipped up in minutes, this is sure to become a morning time favorite!
+Peanut Butter Breakfast Shake
+There’s nothing I love more than an easy breakfast shake that could easily double as a decadent dessert. This thick and creamy chocolate peanut butter breakfast shake ——-> TOTAL BREAKFAST BABE. It’s loaded with all of the good things (protein packed peanut butter, sweet and natural honey, cocoa powder, almond milk, and frozen bananas) and tastes just like a morning milkshake. A healthy and delicious shake… Crazy, right?
+Crazy Awesome!
+I used almond milk and peanut butter in this smoothie, but you could totally use cow’s milk or even almond butter if that’s what you’ve got in your fridge. So… options 😉
+One note: If you’re watching those nasty little things called calories, using almond milk (unsweetened) is a great way to shave some off! A whole cup is only like 30 calories, and – in my opinion – is very tasty! One of my fabulous readers reported back that she made this with chocolate almond milk, and I have a feeling that would be world rocking as well!
+Next time you’re craving a lil’ PB + Chocolate loving, give this decadent thick and creamy chocolate peanut butter breakfast shake a swirl. It only takes 30 seconds in the blender… and you’re going to like it-like it-love it. I promise. xoxo
+I use my beloved Vitamix blender to make this smoothie and if you’re in the market for a new machine, I 100% recommend this one! It’s an investment, but worth every penny if you blend as much as I do 😉
+More Breakfast Shakes
+Chocolate Mocha Breakfast Shake
+Thick and Creamy Chocolate Peanut Butter Breakfast Shake
+Ingredients
+2 large ripe bananas, cut into chunks and frozen
+2 tablespoons creamy peanut butter (preferably with no sugar added, but any brand will really do the job)
+2 tablespoons honey
+1 1/2 tablespoons cocoa powder
+1 1/2 cups almond milk
+Instructions
+Place all of the ingredients in the body of your blender and pulse until completely smooth. Pour into glasses and serve/drink at once.
+Other Posts You May Like
+The Best Easy Buttermilk Pancake Recipe (Golden Brown)
+How to Make Easy French Toast Casserole
+How to Make Eggs Benedict Recipe (Video)
+Easy Chocolate Chip Muffin Recipe (The BEST!)
+How to Cook The Best French Toast (Recipe)
+Reader Interactions
+Comments
+Leave a Reply Cancel reply
+Could you use powdered peanut butter for this? What measurement? Reply
+Could you use powdered peanut butter for this? What measurement?
+I made this morning and will try with pb2 and or Almond butter and the spinach next time but it is so delicious! Reply
+I made this morning and will try with pb2 and or Almond butter and the spinach next time but it is so delicious!
+I have been looking for a smoothie that’s good for me. I do love chocolate, and peanut butter. I just want something that won’t place extra weight on me. Do you think this would be a great drink? I am trying this drink tomorrow actually. :3 Reply
+I have been looking for a smoothie that’s good for me. I do love chocolate, and peanut butter. I just want something that won’t place extra weight on me. Do you think this would be a great drink? I am trying this drink tomorrow actually. :3
+this is one of my favorites…i have been making it for awhile. along with being gf, df and soy free, i suddenly can’t eat bananas and not sure about avocados. any suggestions for a replacement? Reply Hi Marci. You could try frozen zucchini. Sounds weird I know – but I’ve heard it’s pretty flavorless in smoothies and – when frozen – adds a great creamy texture. Reply
+this is one of my favorites…i have been making it for awhile. along with being gf, df and soy free, i suddenly can’t eat bananas and not sure about avocados. any suggestions for a replacement?
+Hi Marci. You could try frozen zucchini. Sounds weird I know – but I’ve heard it’s pretty flavorless in smoothies and – when frozen – adds a great creamy texture. Reply
+Hi Marci. You could try frozen zucchini. Sounds weird I know – but I’ve heard it’s pretty flavorless in smoothies and – when frozen – adds a great creamy texture.
+I have been making this every morning. However, I use chocolate protein powder and coconut milk instead! It’s delicious! Reply
+I have been making this every morning. However, I use chocolate protein powder and coconut milk instead! It’s delicious!
+This is so creamy and delicious!! Thanks for sharing! Reply
+This is so creamy and delicious!! Thanks for sharing!
+Other Posts You Might Like
+Sign Up for Our Newsletter
+Sign up to receive new recipes and more.
+Connect
+Join our community on social media!
+Recipes
+Resources
+About
+Policies
+Copyright 2026
+Design by Weller Smith Design
+Looking for something?

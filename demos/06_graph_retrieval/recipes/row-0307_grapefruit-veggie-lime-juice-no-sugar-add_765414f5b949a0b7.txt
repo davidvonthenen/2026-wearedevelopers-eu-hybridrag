@@ -1,0 +1,112 @@
+Grapefruit Veggie Lime Juice [No Sugar Add
+==========================================
+
+Recipe Metadata
+---------------
+Recipe ID: 765414f5b949a0b7
+CSV row number: 307
+Recipe name: Grapefruit Veggie Lime Juice [No Sugar Add
+Source: sugarfreemom.com
+URL: http://www.sugarfreemom.com/recipes/grapefruit-veggie-lime-juice-no-sugar-added/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01f679da895e17560db8b5ca039e48498a763b3ddb6d01f47eabf31af8f67a8f/21077039.jpg
+Servings: 2
+Calories: 155.51
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: drinks
+
+Original CSV Fields
+-------------------
+recipe_name: Grapefruit Veggie Lime Juice [No Sugar Add
+source: sugarfreemom.com
+url: http://www.sugarfreemom.com/recipes/grapefruit-veggie-lime-juice-no-sugar-added/
+servings: 2
+calories: 155.51
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01f679da895e17560db8b5ca039e48498a763b3ddb6d01f47eabf31af8f67a8f/21077039.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["drinks"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Grapefruit Veggie Lime Juice [No Sugar Added]
+
+Yield: ['1']
+
+Prep time: PT2M
+
+Total time: PT2M
+
+Ingredients:
+- 1 pink grapefruit (peeled, sliced)
+- 2 celery stalks (chopped)
+- 1 red pepper (cored, stem removed)
+- 1/2 lime (skin removed)
+
+Instructions:
+1. Add all ingredients to a juicer or high powdered blender.
+2. Makes 24-26 ounces.
+3. Serve on ice!
+
+Visible page text:
+What would you say if I told you this gorgeous grapefruit drink actually contains two other healthy unexpected veggies, like for instance, celery and red pepper? You’re probably thinking oooh gross right about now right? WRONG!
+This is quite possibly the most refreshing beverage/juice I’ve created on my blog to share and I’m not kidding you, really! I PROMISE YOU NO VEGGIE CAN BE TASTED AT ALL, JUST DELICIOUS GRAPEFRUIT AND LIME! If you’re not crazy about lime try lemon or leave it out, but the lime really adds a nice touch!
+Last week I shared I was doing a 5 day Juice Reboot . I had watched the movie trailer “Fat, Sick & Nearly Dead” and read the book Hungry for Change which had inspired my 3 Day Cleanse & Detox program after the new year. So the Juice Reboot was really just taking a chance that it would really detox my body and help me lose the 5 pounds I’ve been struggling with for the last 6 months or so. It worked! I amazingly lost 5 pounds in 5 days! It’s healthy fruit and veggies and plenty of them so there’s no lack of calories but it eliminates carbs, protein, and dairy. I feel great and I’m continuing to do 1-2 days a week of just juicing.
+Now if you don’t have a high powdered blender or juicer that’s ok. I don’t have a juicer either. I do have a Blendtec blender but found that in some instances a 1/4 -1/2 cup of water or even unsweetened almond milk will do the trick to blend everything together pretty well.
+Here are some other recipes you might like if you decided to do a Reboot:
+Green Apple Veggie Juice
+Cleanse & Detox Smoothie
+Blueberry Coconut Hidden Green Smoothie
+Now the amount here is about 24-26 ounces dependent on the size of your pepper and grapefruit. I drank the entire thing, but if its too much for you, just save it for later in the day as a snack. Also, NO SWEETENER is needed or was added to this and I can say it’s just perfect, BUT if you need to add some, use stevia. 🙂
+Grapefruit Veggie Lime Juice [No Sugar Added]
+Ingredients
+1 pink grapefruit peeled, sliced
+2 celery stalks chopped
+1 red pepper cored, stem removed
+1/2 lime skin removed
+Instructions
+Add all ingredients to a juicer or high powdered blender.
+Makes 24-26 ounces.
+Serve on ice!
+Notes
+Nutrition
+Directions
+Add all ingredients to a juicer or high powdered blender. Makes 24-26 ounces. Serve on ice!
+About Brenda
+Brenda Bennett is a certified Nutritional Therapy Practitioner, certified Sugar Detox Coach, certified Keto Coach, and certified Life Coach. She has been Sugar Free & refined-carb free for 20 years and is the author of four cookbooks: Sugar-Free Mom, Naturally Keto, The 30-Day Sugar Elimination Diet, and her newest release, Good, Better, Best (2025). Her work focuses on helping women detox from sugar, eliminate cravings, balance blood sugar, and lose weight while enjoying delicious, nutrient-dense whole foods. Brenda is also the creator of the Midlife Macro™ Method and the weekly Midlife Macro Meal Plans™, designed specifically for women in perimenopause and menopause who want simple, high-protein, low-carb meals to support hormones, metabolism, and long-term health.She is the founder of the Sugar Free Fresh Start course and the Sugar Free Mom Tribe membership.
+Related Posts
+18 Comments
+I am on day two of my 3 day detox. This morning I tried the Grapefruit Vege Lime Juice. I didn’t pucker (guess my grapefruit wasn’t all that sweet) but I could taste the red pepper – overwhelmingly. I contribute that though to the fact I have my own garden. So moments before the pepper was washed, cut and put in the blender it was still enjoying life on the vine outside!! To help counteract the red pepper taste (I saw someone else mentioned that too) I added a cup of green grapes. Wasn’t sure it would work, but let me tell you.. I have a fabulous drink!! Thank you for sharing your recipes! Reply Thanks for sharing! Can you lady’s help me, I just want to be sure what type of red pepper everyone is using? Red Pepper is it>? a Bell or other type? I have used bell in my smoothies and even the slightest piece takes over, in fact I ended up with bags of them frozen in the garage. I made sure to take the seeds and all out each time, I love them but OH WOW lol Thank you for the help & sharing Ideas !
+I am on day two of my 3 day detox. This morning I tried the Grapefruit Vege Lime Juice. I didn’t pucker (guess my grapefruit wasn’t all that sweet) but I could taste the red pepper – overwhelmingly. I contribute that though to the fact I have my own garden. So moments before the pepper was washed, cut and put in the blender it was still enjoying life on the vine outside!! To help counteract the red pepper taste (I saw someone else mentioned that too) I added a cup of green grapes. Wasn’t sure it would work, but let me tell you.. I have a fabulous drink!! Thank you for sharing your recipes!
+Thanks for sharing!
+Can you lady’s help me, I just want to be sure what type of red pepper everyone is using? Red Pepper is it>? a Bell or other type? I have used bell in my smoothies and even the slightest piece takes over, in fact I ended up with bags of them frozen in the garage. I made sure to take the seeds and all out each time, I love them but OH WOW lol Thank you for the help & sharing Ideas !
+Great recipe, grapefruits still have sugar, good only using 1 of them. Reply
+Great recipe, grapefruits still have sugar, good only using 1 of them.
+I was really excited to try this, but it really didn’t pan out for me. All I could taste was the celery and the red pepper, which ended up kind-of gross. I ended up pouring the whole thing out, unfortunately. My husband loooooves grapefruit, and I had another, so I just threw that in the juicer with the other half of the lime. Half an hour later, my tongue is still burning from the pucker, but he thought it was great! Lol. Reply I think it might have had to do with how sweet your grapefruit is. Did you try adding stevia or another sweetener?
+I was really excited to try this, but it really didn’t pan out for me. All I could taste was the celery and the red pepper, which ended up kind-of gross. I ended up pouring the whole thing out, unfortunately. My husband loooooves grapefruit, and I had another, so I just threw that in the juicer with the other half of the lime. Half an hour later, my tongue is still burning from the pucker, but he thought it was great! Lol.
+I think it might have had to do with how sweet your grapefruit is. Did you try adding stevia or another sweetener?
+I am thinking this would be good made with oranges as well .. going to try this in the morning .. thank you Brenda !!! Reply Yes I tried it this morning as I was out of grapefruit and I liked it but I do like it with grapefruit better.
+I am thinking this would be good made with oranges as well .. going to try this in the morning .. thank you Brenda !!!
+Yes I tried it this morning as I was out of grapefruit and I liked it but I do like it with grapefruit better.
+Made this in my juicer before work. Then put it in the freezer for about 1-1/2 hours. It was fabulous! Will definitely make this one again. Thank you. Reply That is a luscious idea, thank you for letting me know!
+Made this in my juicer before work. Then put it in the freezer for about 1-1/2 hours. It was fabulous! Will definitely make this one again. Thank you.
+That is a luscious idea, thank you for letting me know!
+Holy cow that is tart!!!! Takes a bit to get used to, but it made me pucker!! Reply Really? Might depend on how ripe your grapefruit is, mine was not tart at all.
+Holy cow that is tart!!!! Takes a bit to get used to, but it made me pucker!!
+Really? Might depend on how ripe your grapefruit is, mine was not tart at all.
+Hi, i think that i saw you visited my site thus i came to “return the favor”. I’m trying to find things to enhance my website!I suppose its ok to use some of your ideas!! Reply
+Hi, i think that i saw you visited my site thus i came to “return the favor”. I’m trying to find things to enhance my website!I suppose its ok to use some of your ideas!!
+I have a question. As I have reactive low blood sugar,I can’t drink much juice.Is there something I can add to this,like whey protein and ground flax seed to give it a slower absorption rate? I eat grapefruit as the last thing when I have my breakfast after I have eaten my protein and whole grain.That is the only way I can eat my fruit, or my blood sugar goes out of wack. Thanks Joan Reply
+I have a question. As I have reactive low blood sugar,I can’t drink much juice.Is there something I can add to this,like whey protein and ground flax seed to give it a slower absorption rate? I eat grapefruit as the last thing when I have my breakfast after I have eaten my protein and whole grain.That is the only way I can eat my fruit, or my blood sugar goes out of wack. Thanks Joan
+Leave a Reply Cancel reply

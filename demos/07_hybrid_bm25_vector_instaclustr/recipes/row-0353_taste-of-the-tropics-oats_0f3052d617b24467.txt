@@ -1,0 +1,106 @@
+Taste of the Tropics Oats
+=========================
+
+Recipe Metadata
+---------------
+Recipe ID: 0f3052d617b24467
+CSV row number: 353
+Recipe name: Taste of the Tropics Oats
+Source: superhealthykids.com
+URL: https://www.superhealthykids.com/recipes/taste-of-the-tropics-oats/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0242b6efec5fe43fbe4ef945658486bd6e08992ad660085fc0afdabb3f0046b7/21036008.jpg
+Servings: 4
+Calories: 1617.77
+Diet labels: Balanced, High-Fiber
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Tree-Nuts, Sulfites
+Cuisine type: american
+Meal type: breakfast
+Dish type: cereals
+
+Original CSV Fields
+-------------------
+recipe_name: Taste of the Tropics Oats
+source: superhealthykids.com
+url: https://www.superhealthykids.com/recipes/taste-of-the-tropics-oats/
+servings: 4
+calories: 1617.77
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0242b6efec5fe43fbe4ef945658486bd6e08992ad660085fc0afdabb3f0046b7/21036008.jpg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Tree-Nuts","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["cereals"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+No more beige mush. Start making stellar oatmeal for your kids! Our cooking tips, tricks, and add-in ideas keep this tasty whole grain breakfast appealing (and dare we say) exciting!
+For cold breakfast lovers, read our post about how to make overnight oats.
+Hey, oatmeal lovers! Welcome to our ultimate oatmeal-for-kids post. Read on to learn a few new things about this healthy whole grain, including TWO great ways to prepare hot oats, and one HUGE list of toppings and mix-ins that make this breakfast classic colorful, healthy, and fun.
+First, let’s talk about this question. Because it comes up a lot:
+Is it OK to Eat Oatmeal Every Day?
+The answer is yes. And also no. (Ugh, I know right?) Let me explain. Oatmeal has a lot going for it. It’s easy-to-make, budget-friendly, filling, and 100% whole grain. In the world of foods that CAN be eaten every single day, oatmeal isn’t a bad choice. But especially for kids, variety is still important.
+If your kids love oatmeal, it’s OK to serve it often. But do your best to intersperse oatmeal with other easy breakfast foods like eggs, whole grain waffles , or nut butter toast with fruit. That way your kids can practice their food acceptance skills on a regular basis.
+What’s The Best Kind of Oatmeal for Kids?
+If you mainly use your oats for weekday morning breakfasts, we recommend either old-fashioned (rolled) oats or quick-cooking steel cut oats. There are actually four main types of oatmeal, and though they’re all 100% whole grain, the varieties are not interchangeable. Here’s a little more in-depth info on the types and what they’re good for. (Non-oatmeal geeks may skip this.)
+Old-Fashioned Oats. Also known as “rolled oats” these are whole, intact grains that have been steamed, rolled flat, and dried. These oats cook quickly on the stove top and have a very soft, easy-to-chew texture. They’re also good for baking, or even as a substitute for bread crumbs in meatloaf.
+Quick Oats. These are rolled oats that have been chopped into fine pieces. Quick oats cook lightning fast, but they can have a mushy texture, and because they’re chopped so small, they get digested quickly, which can create a sugar spike. Quick oats often appear in “instant oatmeal” and can be used in baking.
+Steel Cut Oats. These oats start whole and raw, and get chopped up once or twice by a big steel blade during processing. Steel cut oats take longer to cook than old-fashioned oats, (about 30 minutes) but they have a great chewy texture and fresh taste. Some stores, including Trader Joe’s, now sell “Quick Cooking Steel Cut Oats,” which are chopped a bit more finely for faster cooking.
+Oat Groats. This is the least-processed style of oat, and they’re not commonly sold in grocery stores. Groats are large, whole, and raw. They take a long time to cook and they’re quite chewy.
+What’s the Best Way to Prepare Oatmeal?
+We’re tried a lot of methods for preparing oatmeal for kids (I’m talking rolled oats here.) And at the end of all our experiments, We recommend making your oatmeal one of TWO ways. They are…
+Simmer 1 cup rolled oats in 2 cups water for about five minutes, stirring once or twice. OR
+Simmer 1 cup rolled oats in 1 cup water + 1 cup milk for about five minutes, stirring once or twice.
+At the end of cooking, you should remove the oats from the heat to keep them from sticking. Then go nuts with your add-ins.
+30+ Oatmeal Toppings for Kids
+Fruits
+Raspberries
+Strawberries
+Blueberries
+Peaches
+Bananas
+Apples
+Pears
+Mango
+Shredded coconut
+Raisins
+Kiwi
+Dried cranberries
+Veggies
+Shredded carrots
+Shredded zucchini
+Pureed sweet potato
+Pureed pumpkin
+Nuts and Seeds
+Walnuts
+Peanuts or peanut butter
+Pistachios
+Almonds (sliced or slivered works best)
+Ground flaxseeds
+Chia seeds
+Sunflower seeds
+Pepitas (pumpkin or squash seeds)
+Sweeteners (a little goes a long way!)
+Honey
+Maple syrup
+Brown sugar
+Cinnamon sugar
+Sprinkles
+Low sugar jam
+Other Add-Ins
+Dark chocolate chips
+Coconut oil or butter
+Cream or milk
+Unsweetened cocoa powder
+Vanilla or almond extract
+Eggs ( this recipe shows you how)
+Try These Tasty Riffs on Oatmeal
+When we do oatmeal for kids, we do it right! Try these recipes for healthy and yummy oatmeal techniques and flavors:
+Berry Baked Oatmeal Slow Cooker Pumpkin Pie Oatmeal Baked Blueberry Oatmeal Cups How to Make Basic Overnight Oats
+Related Posts

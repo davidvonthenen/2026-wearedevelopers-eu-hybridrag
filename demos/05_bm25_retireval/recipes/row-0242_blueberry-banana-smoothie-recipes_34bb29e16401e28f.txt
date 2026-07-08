@@ -1,0 +1,185 @@
+Blueberry Banana Smoothie recipes
+=================================
+
+Recipe Metadata
+---------------
+Recipe ID: 34bb29e16401e28f
+CSV row number: 242
+Recipe name: Blueberry Banana Smoothie recipes
+Source: cookazido.wordpress.com
+URL: https://cookazido.wordpress.com/2015/02/19/blueberry-banana-smoothie/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01842ec715cda299e9cbd36562dc471c732e5322a220b7a57ddaea54df9ab748/21082498.jpeg
+Servings: 4
+Calories: 201.82
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites, FODMAP
+Cuisine type: american
+Meal type: breakfast
+Dish type: drinks
+
+Original CSV Fields
+-------------------
+recipe_name: Blueberry Banana Smoothie recipes
+source: cookazido.wordpress.com
+url: https://cookazido.wordpress.com/2015/02/19/blueberry-banana-smoothie/
+servings: 4
+calories: 201.8155
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01842ec715cda299e9cbd36562dc471c732e5322a220b7a57ddaea54df9ab748/21082498.jpeg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites","FODMAP"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["drinks"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Home
+About
+Recipes Appetizers Bars Breads and Rolls Breakfast Cast Iron Skillet Recipes Chicken Recipes Christmas Cookies Cupcakes Desserts Drinks Easter Fall Recipes Fish Recipes Food Gifts Ice Cream Recipes Italian Lunch Main Dish Mexican Pies Pumpkin Recipes Salads Side Dishes Soups
+Appetizers
+Bars
+Breads and Rolls
+Breakfast
+Cast Iron Skillet Recipes
+Chicken Recipes
+Christmas
+Cookies
+Cupcakes
+Desserts
+Drinks
+Easter
+Fall Recipes
+Fish Recipes
+Food Gifts
+Ice Cream Recipes
+Italian
+Lunch
+Main Dish
+Mexican
+Pies
+Pumpkin
+Recipes
+Salads
+Side Dishes
+Soups
+Restaurant Reviews Restaurant Reviews
+Restaurant Reviews
+Things to Do in Arizona Things to Do in Arizona Hikes in Arizona
+Things to Do in Arizona
+Hikes in Arizona
+Blueberry Banana Smoothie
+I just had to share with you the mid-morning snack I have been enjoying lately. It is a blueberry, banana smoothie with spinach thrown in for good health. It is super easy to make, tastes wonderful, and is low in fat. So many good qualities in a smoothie. But that isn’t why I like it. I just think it tastes good. It is so slushy and creamy, it is like you are drinking a milkshake. Although I prefer chocolate milkshakes, this smoothie is the perfect morning or afternoon snack when you don’t want the calories or fullness from a shake. One thing I love about it is it doesn’t contain yogurt. I love yogurt, but not in smoothies for some reason. Not that I’m picky or anything! But when something is good for you and tastes great, there is no reason not to be picky.
+Another great thing about this smoothie is it only contains four ingredients that I usually have on hand. You need to plan ahead a tiny bit by freezing a banana and a bag of blueberries. Make sure you peel the bananas first or it will be hard to get off after it is frozen. When my bananas are starting to get brown, I just peel them, put them in a baggie, and place them in the freezer to have on hand. Then when you are ready for a smoothie, just throw a banana and some blueberries in your blender along with some orange juice and a handful of spinach.
+Blend all the ingredients up and pour it in a glass. So simple. I love how thick it is!
+I think even kids would enjoy this because all you really taste is the banana and the orange juice and the blueberries give it a fun color. The spinach is not even noticeable. It just gives you lots of vitamins. Every time I go to the eye doctor, she tells me to make sure to eat my greens as it is important for eye health. This is a yummy way to get good eyesight!
+You’ll have to give this a try and let me know what you think. I’m not going to be giving up milkshakes anytime soon, but since I really can’t afford to eat them every day, this is a great substitution. I hope you enjoy it as much as I do!
+Blueberry, Banana Smoothie
+Servings: 1
+Time: 5 minutes
+Difficulty: easy
+Print
+1/2 c orange juice
+1/2 c frozen blueberries
+1 banana, frozen
+1 handful spinach, approximately 1 cup
+Place all ingredients into a blender.
+Mix until well blended.
+Pour into a glass and serve immediately.
+Recipe from Cook AZ I Do, slightly adapted from Barefeet in the Kitchen
+Share this:
+Share on X (Opens in new window) X
+Share on Facebook (Opens in new window) Facebook
+Email a link to a friend (Opens in new window) Email
+Print (Opens in new window) Print
+Share on Pinterest (Opens in new window) Pinterest
+Related
+About Shari
+20 Responses to Blueberry Banana Smoothie
+Diana Rambles says: February 19, 2015 at 12:14 am This looks really good!! Pinned & Yummed! Reply Shari says: February 19, 2015 at 12:52 am Thank you very much, Diana! I have been enjoying this a lot lately. I really appreciate your support! Reply
+This looks really good!! Pinned & Yummed!
+Shari says: February 19, 2015 at 12:52 am Thank you very much, Diana! I have been enjoying this a lot lately. I really appreciate your support! Reply
+Thank you very much, Diana! I have been enjoying this a lot lately. I really appreciate your support!
+apuginthekitchen says: February 19, 2015 at 12:21 am This is so packed full of goodness I love it!! Reply Shari says: February 19, 2015 at 12:29 am Thank you, Suzanne! It really does seem like you must be healthier after drinking these. But they taste so good, too. I hope you’re having a good week! Reply
+This is so packed full of goodness I love it!!
+Shari says: February 19, 2015 at 12:29 am Thank you, Suzanne! It really does seem like you must be healthier after drinking these. But they taste so good, too. I hope you’re having a good week! Reply
+Thank you, Suzanne! It really does seem like you must be healthier after drinking these. But they taste so good, too. I hope you’re having a good week!
+Julie is HostessAtHeart says: February 19, 2015 at 2:29 am Yummy and very colorful! Good one Shari! Reply Shari says: February 20, 2015 at 10:05 pm Thank you, Julie! I’ve been enjoying this quite often lately. I appreciate you taking the time to comment! Reply
+Yummy and very colorful! Good one Shari!
+Shari says: February 20, 2015 at 10:05 pm Thank you, Julie! I’ve been enjoying this quite often lately. I appreciate you taking the time to comment! Reply
+Thank you, Julie! I’ve been enjoying this quite often lately. I appreciate you taking the time to comment!
+Silver Screenings says: February 20, 2015 at 10:32 am Sometimes nothing will do like a smoothie – and adding a frozen banana is a good tip. (I almost always keep a frozen banana in the freezer because, as you know, it’s handy for a lot of things, e.g. if you suddenly find yourself craving freshly-baked banana bread. It happens!) I never add spinach to my smoothies, but I think I will now, based on your suggestion. Thanks! Reply Shari says: February 20, 2015 at 10:10 pm I like your idea of keeping frozen bananas on hand for banana bread, Ruth. It’s always good to be prepared for a banana bread craving!:) Sometimes I feel like I don’t get enough greens, so I really liked the idea of throwing spinach in there, especially since you don’t know it’s even there. Glad I could pass along the suggestion. I hope you have a great weekend! Reply
+Sometimes nothing will do like a smoothie – and adding a frozen banana is a good tip. (I almost always keep a frozen banana in the freezer because, as you know, it’s handy for a lot of things, e.g. if you suddenly find yourself craving freshly-baked banana bread. It happens!)
+I never add spinach to my smoothies, but I think I will now, based on your suggestion. Thanks!
+Shari says: February 20, 2015 at 10:10 pm I like your idea of keeping frozen bananas on hand for banana bread, Ruth. It’s always good to be prepared for a banana bread craving!:) Sometimes I feel like I don’t get enough greens, so I really liked the idea of throwing spinach in there, especially since you don’t know it’s even there. Glad I could pass along the suggestion. I hope you have a great weekend! Reply
+I like your idea of keeping frozen bananas on hand for banana bread, Ruth. It’s always good to be prepared for a banana bread craving!:) Sometimes I feel like I don’t get enough greens, so I really liked the idea of throwing spinach in there, especially since you don’t know it’s even there. Glad I could pass along the suggestion. I hope you have a great weekend!
+Ginny says: February 21, 2015 at 3:13 am Thanks for the encouragement to try a non-yogurt smoothy. I’ll give it a go! Reply Shari says: February 24, 2015 at 2:20 am You’re so welcome, Ginny! Just wanted to pass along something that I have enjoyed. I hope you like it! Reply
+Thanks for the encouragement to try a non-yogurt smoothy. I’ll give it a go!
+Shari says: February 24, 2015 at 2:20 am You’re so welcome, Ginny! Just wanted to pass along something that I have enjoyed. I hope you like it! Reply
+You’re so welcome, Ginny! Just wanted to pass along something that I have enjoyed. I hope you like it!
+Liz says: February 25, 2015 at 3:41 am I am the yoghurt culprit. I add it to every smoothie I make until I started wondering, whether my smoothies tasted different or just tasted like yoghurt. Let me study this yoghurt free one and see how it works. I have some nicely ripe bananas on my table and a bag of blueberries in the fridge but am missing the orange and spinach. You know what? I shall try it on Thursday for breakfast. By then my bananas will be rather spotted but great for a smoothie. Thanks for sharing!!! Have a fantastic week! Reply Shari says: March 2, 2015 at 5:20 am I like yoghurt, too, Liz. I have it almost everyday for lunch. I don’t know why I don’t like it in smoothies. Anyway, I hope you enjoy the smoothie. You’ll have to let me know if you missed the yoghurt. Thanks for your comment! Reply
+I am the yoghurt culprit. I add it to every smoothie I make until I started wondering, whether my smoothies tasted different or just tasted like yoghurt. Let me study this yoghurt free one and see how it works. I have some nicely ripe bananas on my table and a bag of blueberries in the fridge but am missing the orange and spinach. You know what? I shall try it on Thursday for breakfast. By then my bananas will be rather spotted but great for a smoothie. Thanks for sharing!!! Have a fantastic week!
+Shari says: March 2, 2015 at 5:20 am I like yoghurt, too, Liz. I have it almost everyday for lunch. I don’t know why I don’t like it in smoothies. Anyway, I hope you enjoy the smoothie. You’ll have to let me know if you missed the yoghurt. Thanks for your comment! Reply
+I like yoghurt, too, Liz. I have it almost everyday for lunch. I don’t know why I don’t like it in smoothies. Anyway, I hope you enjoy the smoothie. You’ll have to let me know if you missed the yoghurt. Thanks for your comment!
+rozpaige says: February 25, 2015 at 8:52 am Everything about this smoothie is just as you said! Creamy, smoothie, healthy, YUMMY! Just what I need to add to my newest smoothie recipes! Thanks Shari! Hope you’re doing well; we’re freezing on this side of the country. Enjoy that warm sunshine! Roz Reply Shari says: March 2, 2015 at 5:24 am Thank you, Roz! I really haven’t been a smoothie person in the past, but have still been trying to lose that weight I put on over the holidays! It seems to take twice as long to get it off as to put it on. A never ending battle. This smoothie has come in handy when I’ve been really hungry. It seems to satisfy, but not put on added weight. I’m so sorry you’re freezing! My heart goes out to you. Probably smoothies don’t even sound good this time of year for you. I think hot chocolate or coffee would sound way better. I appreciate you stopping by! Reply
+Everything about this smoothie is just as you said! Creamy, smoothie, healthy, YUMMY! Just what I need to add to my newest smoothie recipes! Thanks Shari! Hope you’re doing well; we’re freezing on this side of the country. Enjoy that warm sunshine! Roz
+Shari says: March 2, 2015 at 5:24 am Thank you, Roz! I really haven’t been a smoothie person in the past, but have still been trying to lose that weight I put on over the holidays! It seems to take twice as long to get it off as to put it on. A never ending battle. This smoothie has come in handy when I’ve been really hungry. It seems to satisfy, but not put on added weight. I’m so sorry you’re freezing! My heart goes out to you. Probably smoothies don’t even sound good this time of year for you. I think hot chocolate or coffee would sound way better. I appreciate you stopping by! Reply
+Thank you, Roz! I really haven’t been a smoothie person in the past, but have still been trying to lose that weight I put on over the holidays! It seems to take twice as long to get it off as to put it on. A never ending battle. This smoothie has come in handy when I’ve been really hungry. It seems to satisfy, but not put on added weight. I’m so sorry you’re freezing! My heart goes out to you. Probably smoothies don’t even sound good this time of year for you. I think hot chocolate or coffee would sound way better. I appreciate you stopping by!
+Lily Lau says: February 27, 2015 at 2:09 am Love smoothies, tomorrow I’ll buy the ingredients for this one! Thank you Shari 🙂 Reply Shari says: March 2, 2015 at 5:29 am You’re welcome, Lily! I hope you enjoy it. Thanks so much for stopping by and commenting! Reply
+Love smoothies, tomorrow I’ll buy the ingredients for this one! Thank you Shari 🙂
+Shari says: March 2, 2015 at 5:29 am You’re welcome, Lily! I hope you enjoy it. Thanks so much for stopping by and commenting! Reply
+You’re welcome, Lily! I hope you enjoy it. Thanks so much for stopping by and commenting!
+Chitra Jagadish says: March 1, 2015 at 5:43 am This looks perfect with all goodness in there… 🙂 Reply Shari says: March 2, 2015 at 5:37 am Thank you, Chitra! It has really helped me feel not so hungry lately, and I feel good about getting such healthy ingredients into my body. I appreciate you stopping by! Reply
+This looks perfect with all goodness in there… 🙂
+Shari says: March 2, 2015 at 5:37 am Thank you, Chitra! It has really helped me feel not so hungry lately, and I feel good about getting such healthy ingredients into my body. I appreciate you stopping by! Reply
+Thank you, Chitra! It has really helped me feel not so hungry lately, and I feel good about getting such healthy ingredients into my body. I appreciate you stopping by!
+sarithakumbakkara says: March 10, 2015 at 3:40 pm Hi shari, This is so awesome! Reply Shari says: March 12, 2015 at 2:52 am Hi Saritha, Thank you so much! It is very nice to meet you. I look forward to checking out your blog! Reply
+Hi shari, This is so awesome!
+Shari says: March 12, 2015 at 2:52 am Hi Saritha, Thank you so much! It is very nice to meet you. I look forward to checking out your blog! Reply
+Hi Saritha, Thank you so much! It is very nice to meet you. I look forward to checking out your blog!
+Leave a comment Cancel reply
+Follow Blog via Email
+About the Author: Shari My name is Shari, and I am an Arizona native and married mother of 3 who loves to cook and bake and figure out how to garden successfully in our suburban home in the desert. On this blog you will find a combination of savory and sweet recipes that have been tested by me, along with many tips to help you be successful. I hope you enjoy them! (cookazido.com) View Full Profile →
+About the Author:
+Shari
+My name is Shari, and I am an Arizona native and married mother of 3 who loves to cook and bake and figure out how to garden successfully in our suburban home in the desert. On this blog you will find a combination of savory and sweet recipes that have been tested by me, along with many tips to help you be successful. I hope you enjoy them! (cookazido.com)
+View Full Profile →
+Follow Me on Social Media View Cook AZ I Do’s profile on Facebook View sharikelley’s profile on Instagram View Sharilynkelley’s profile on Pinterest
+Follow Me on Social Media
+View Cook AZ I Do’s profile on Facebook
+View sharikelley’s profile on Instagram
+View Sharilynkelley’s profile on Pinterest
+Recent Posts Exciting News! Skillet Peach Cobbler Perfect Guacamole Let Her Eat Cake – Vanilla Bean Cake With Pink Champagne Buttercream The Magic of Cream Puffs
+Recent Posts
+Exciting News!
+Skillet Peach Cobbler
+Perfect Guacamole
+Let Her Eat Cake – Vanilla Bean Cake With Pink Champagne Buttercream
+The Magic of Cream Puffs
+Categories
+Archives Archives Select Month September 2015 August 2015 July 2015 June 2015 May 2015 April 2015 March 2015 February 2015 January 2015 December 2014 November 2014 October 2014 September 2014 August 2014 July 2014 June 2014 May 2014 April 2014 March 2014 February 2014 January 2014 December 2013 November 2013 October 2013 September 2013 August 2013 July 2013 June 2013 May 2013 April 2013 March 2013 February 2013 January 2013 December 2012 November 2012 October 2012 September 2012
+Archives
+Top Posts & Pages
+Instagram Pictures No Instagram images were found.
+Instagram Pictures
+No Instagram images were found.
+Comment
+Reblog
+Subscribe Subscribed Cook AZ I Do Already have a WordPress.com account? Log in now.
+Cook AZ I Do
+Already have a WordPress.com account? Log in now.
+Cook AZ I Do Subscribe Subscribed Sign up Log in Copy shortlink Report this content View post in Reader Manage subscriptions Collapse this bar
+Subscribe Subscribed
+Sign up
+Log in
+Copy shortlink
+Report this content
+View post in Reader
+Manage subscriptions
+Collapse this bar

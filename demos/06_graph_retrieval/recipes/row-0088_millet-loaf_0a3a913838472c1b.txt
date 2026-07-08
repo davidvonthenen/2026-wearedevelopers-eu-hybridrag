@@ -1,0 +1,117 @@
+Millet Loaf
+===========
+
+Recipe Metadata
+---------------
+Recipe ID: 0a3a913838472c1b
+CSV row number: 88
+Recipe name: Millet Loaf
+Source: food.com
+URL: http://www.food.com/recipe/millet-loaf-4876
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/007fc188afd1d5fd3f5aafb4623c6d395d5a8f0d751798412416361eb54ccc5f/21093024.jpg
+Servings: 10
+Calories: 2237.63
+Diet labels: Balanced, High-Fiber
+Health labels: Vegan, Vegetarian, Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: bread
+
+Original CSV Fields
+-------------------
+recipe_name: Millet Loaf
+source: food.com
+url: http://www.food.com/recipe/millet-loaf-4876
+servings: 10
+calories: 2237.631999998707
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/007fc188afd1d5fd3f5aafb4623c6d395d5a8f0d751798412416361eb54ccc5f/21093024.jpg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["bread"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Millet Loaf
+
+Description: Make and share this Millet Loaf recipe from Food.com.
+
+Recipe category: Vegetable
+
+Yield: 10 serving(s)
+
+Prep time: PT15M
+
+Cook time: PT1H15M
+
+Total time: PT1H30M
+
+Ingredients:
+- 1 1/2 cups millet
+- 3 3/4 cups water
+- 1/2 teaspoon salt (or to taste)
+- 1 1/2 cups carrots, finely diced
+- 1 cup celery, finely diced
+- 1 cup onion, finely diced
+- 1 clove garlic, minced
+- 1 tablespoon sesame oil
+- 1 1/2 teaspoons dill weed
+- 1 teaspoon dried thyme
+- 1 cup roasted sunflower seeds (optional)
+- 3 tablespoons whole wheat flour
+
+Instructions:
+1. Rinse millet and put it in a medium saucepan with the water and 1/2 tsp salt. Cook, lid ajar slightly, over medium heat for about 20 minutes, or until soft; the millet should absorb all the water.
+2. Saute the carrots, celery, onions and garlic in sesame oil until onions are translucent. Add the seasonings.
+3. Mix the cooked millet and the veggies together, along with the sunflower seeds, if you wish.
+4. Add 3 tbsp flour to the millet mixture, blending well.
+5. Lightly oil (and flour, optional) 2 loaf pans. Press the millet mixture into the pan, and bake at 400 F for one hour (45 minutes if the millet is still warm when you put it into the pan).
+6. Allow the loaf to cool for about 10 minutes before turning it out onto a platter and slicing.
+7. Serve with mashed potatoes, green beans and lots of brown gravy. (Recipe #4855 Vegetarian Gravy II makes a good accompaniment).
+
+Visible page text:
+Millet Loaf
+ingredients
+1 1 ⁄ 2 cups millet
+3 3 ⁄ 4 cups water
+1 ⁄ 2 teaspoon salt (or to taste)
+1 1 ⁄ 2 cups carrots , finely diced
+1 cup celery , finely diced
+1 cup onion , finely diced
+1 clove garlic , minced
+1 tablespoon sesame oil
+1 1 ⁄ 2 teaspoons dill weed
+1 teaspoon dried thyme
+1 cup roasted sunflower seeds (optional)
+3 tablespoons whole wheat flour
+directions
+Rinse millet and put it in a medium saucepan with the water and 1/2 tsp salt. Cook, lid ajar slightly, over medium heat for about 20 minutes, or until soft; the millet should absorb all the water.
+Saute the carrots, celery, onions and garlic in sesame oil until onions are translucent. Add the seasonings.
+Mix the cooked millet and the veggies together, along with the sunflower seeds, if you wish.
+Add 3 tbsp flour to the millet mixture, blending well.
+Lightly oil (and flour, optional) 2 loaf pans. Press the millet mixture into the pan, and bake at 400 F for one hour (45 minutes if the millet is still warm when you put it into the pan).
+Allow the loaf to cool for about 10 minutes before turning it out onto a platter and slicing.
+Serve with mashed potatoes, green beans and lots of brown gravy. (Recipe #4855 Vegetarian Gravy II makes a good accompaniment).
+Questions & Replies
+Reviews
+By itself, the loaf is decent, and adding mushroom gravy really made it wonderful. Thanks! ranch-girl Reply 1
+Texture reminded me of dressing. As an omnivore I found it reasonably edible (though it really needs the gravy). The only real changes I made was I added a roasted sunflower and pumpkin seed mix I had on hand (which added a nice chewiness) and I used gravy recipe 226004 because it used ingredients I had on hand. Angela Curtis Reply
+This was okay. It needed something to help it out, and I can't do the gravy, too many allergens. birdnerd Reply
+My family happily ate millet! That is an accomplishment. I used this for my first gluten-free OAMC cooking attempt and it worked great. I moved it from freezer to refrig. about 10 hours before cooking. Kana6615 Reply
+I liked this very much! I thought it had a good texture, especially with the sunflower seeds added. This is one of the better veggie loaves I've made. Next time I make this, I will probably add more spice and salt. Also, I added a sprinkling of nutritional yeast to one of the loaves, and I enjoyed the extra flavor this gave it. Thanks for posting this recipe...it's going to make a nice packed lunch! Aunt Cookie Reply
+Tweaks
+This was good and very filling. Its subtle flavor is a great way to really enjoy gravy. Like another reviewer, we added mushrooms, and they worked very well here. We used our leftover millet loaf in place of bread in a savoury bread pudding, which worked great! pleiades7 Reply
+RECIPE SUBMITTED BY
+11 Followers
+28 Recipes
+43 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

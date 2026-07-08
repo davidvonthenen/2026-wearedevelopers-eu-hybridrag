@@ -1,0 +1,148 @@
+Arctic Char with Tangerine-Habanero Glaze and Meyer Lemon Couscous Broth
+========================================================================
+
+Recipe Metadata
+---------------
+Recipe ID: 5aea243244c3a1f6
+CSV row number: 52
+Recipe name: Arctic Char with Tangerine-Habanero Glaze and Meyer Lemon Couscous Broth
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/bobby-flay/arctic-char-with-tangerine-habanero-glaze-and-meyer-lemon-couscous-broth-recipe-1946063
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/004304762fcd0a153230b414b6d5eb50f71ba05d8bf30ef58fe64bf79d9d0916/21124615.jpg
+Servings: 4
+Calories: 4507.90
+Diet labels: Balanced
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Shellfish-Free
+Allergy cautions: Sulfites, FODMAP
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Arctic Char with Tangerine-Habanero Glaze and Meyer Lemon Couscous Broth
+source: Food Network
+url: https://www.foodnetwork.com/recipes/bobby-flay/arctic-char-with-tangerine-habanero-glaze-and-meyer-lemon-couscous-broth-recipe-1946063
+servings: 4
+calories: 4507.904855471683
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/004304762fcd0a153230b414b6d5eb50f71ba05d8bf30ef58fe64bf79d9d0916/21124615.jpg
+diet_labels: ["Balanced"]
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Shellfish-Free"]
+cautions: ["Sulfites","FODMAP"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Arctic Char with Tangerine-Habanero Glaze and Meyer Lemon Couscous Broth
+
+Recipe category: main-dish
+
+Recipe cuisine: american
+
+Yield: 4 servings
+
+Prep time: P0Y0M0DT0H10M0.000S
+
+Cook time: P0Y0M0DT0H40M0.000S
+
+Total time: P0Y0M0DT0H55M0.000S
+
+Ingredients:
+- 4 (6-ounce) fillets artic char, skinned
+- 1 tablespoon olive oil
+- Salt and freshly ground black pepper
+- Tangerine-Habanero Glaze, recipe follows
+- Meyer Lemon Broth, recipe follows
+- Couscous, recipe follows
+- 4 cups tangerine juice
+- 2 cups red wine vinegar
+- 1 1/2 cups sugar
+- 1/2 habanero chile, chopped
+- Salt
+- 2 tablespoons olive oil
+- 1 small Spanish onion, coarsely chopped
+- 1 clove garlic, chopped
+- 2 cups homemade clam broth
+- 1/2 cup fresh Meyer lemon juice
+- 2 tablespoons cold unsalted butter, optional
+- Fresh parsley leaves or cilantro leaves, torn
+- 2 cups water
+- 1 teaspoon kosher salt
+- 1 cup instant couscous
+- 1 tablespoon Meyer lemon zest
+
+Instructions:
+1. Preheat oven to 400 degrees F.
+2. Brush fillets on both sides with oil and season with salt and pepper. Heat a large, oven-safe nonstick saute pan over high heat, add the fish, and cook until golden brown, about 2 minutes. Brush with some of the glaze, turn over, and continue cooking (on the stovetop or in the oven) for 3 to 4 minutes or until just cooked through. Brush with more of the glaze and remove from the heat.
+3. Ladle some of the broth into large shallow bowls, place fish in the middle, glazed side up, and sprinkle some of the couscous around the fish. Serve immediately.
+4. Place tangerine juice in a medium saucepan and cook over high heat, until reduced to 3/4 cup, stirring occasionally. While the tangerine juice is reducing, combine vinegar and sugar in a small saucepan and cook until reduced by half. Add the reduced tangerine juice and habanero to the reduced vinegar mixture and stir to combine. Puree in a blender until smooth and season with salt. Transfer to a bowl and let cool to room temperature before using.
+5. Heat oil in a medium saucepan over medium-high heat. Add the onions and cook until soft. Add the garlic and cook for 30 seconds. Add the clam broth and cook for 15 minutes. Strain the mixture and return to the saucepan, stir in the lemon juice and bring to a simmer. Whisk in the butter, if using, and the torn parsley or cilantro. Season with salt and pepper, to taste. Keep warm.
+6. Bring water and salt to a boil in a saucepan. Stir in the couscous, cover the pot, remove from the heat, and let sit 5 minutes or until the water is absorbed and couscous is tender. Remove the lid of the pot, fluff the couscous with a fork and stir in the zest. Keep warm.
+
+Visible page text:
+Home
+Recipes
+Fish
+Arctic Char with Tangerine-Habanero Glaze and Meyer Lemon Couscous Broth
+Level: Easy
+Total: 55 min
+Prep: 10 min
+Inactive: 5 min
+Cook: 40 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+4 (6-ounce) fillets artic char, skinned
+1 tablespoon olive oil
+Salt and freshly ground black pepper
+Tangerine-Habanero Glaze, recipe follows
+Meyer Lemon Broth, recipe follows
+Couscous, recipe follows
+Tangerine-Habanero Glaze:
+4 cups tangerine juice
+2 cups red wine vinegar
+1 1/2 cups sugar
+1/2 habanero chile, chopped
+Salt
+Meyer Lemon Broth:
+2 tablespoons olive oil
+1 small Spanish onion, coarsely chopped
+1 clove garlic, chopped
+2 cups homemade clam broth
+1/2 cup fresh Meyer lemon juice
+2 tablespoons cold unsalted butter, optional
+Fresh parsley leaves or cilantro leaves, torn
+Couscous:
+2 cups water
+1 teaspoon kosher salt
+1 cup instant couscous
+1 tablespoon Meyer lemon zest
+Preheat oven to 400 degrees F.
+Brush fillets on both sides with oil and season with salt and pepper. Heat a large, oven-safe nonstick saute pan over high heat, add the fish, and cook until golden brown, about 2 minutes. Brush with some of the glaze, turn over, and continue cooking (on the stovetop or in the oven) for 3 to 4 minutes or until just cooked through. Brush with more of the glaze and remove from the heat.
+Ladle some of the broth into large shallow bowls, place fish in the middle, glazed side up, and sprinkle some of the couscous around the fish. Serve immediately.
+Place tangerine juice in a medium saucepan and cook over high heat, until reduced to 3/4 cup, stirring occasionally. While the tangerine juice is reducing, combine vinegar and sugar in a small saucepan and cook until reduced by half. Add the reduced tangerine juice and habanero to the reduced vinegar mixture and stir to combine. Puree in a blender until smooth and season with salt. Transfer to a bowl and let cool to room temperature before using.
+Heat oil in a medium saucepan over medium-high heat. Add the onions and cook until soft. Add the garlic and cook for 30 seconds. Add the clam broth and cook for 15 minutes. Strain the mixture and return to the saucepan, stir in the lemon juice and bring to a simmer. Whisk in the butter, if using, and the torn parsley or cilantro. Season with salt and pepper, to taste. Keep warm.
+Bring water and salt to a boil in a saucepan. Stir in the couscous, cover the pot, remove from the heat, and let sit 5 minutes or until the water is absorbed and couscous is tender. Remove the lid of the pot, fluff the couscous with a fork and stir in the zest. Keep warm.
+Categories:
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Grilled Mahi Mahi with Green Chile-Coconut Milk...
+Pan-Fried Halibut Fillets with Roasted Vegetable...
+Grilled Jerk Rubbed Chicken with Habanero-Mint...
+Baby Clams Steamed in Green Onion Broth Recipe
+Steamers in Red Chile Pesto Broth Recipe
+Pan Roasted Cod with Linguica-Chickpea Broth...

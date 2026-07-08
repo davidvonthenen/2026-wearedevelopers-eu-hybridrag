@@ -1,0 +1,137 @@
+Chocolate Banana Oatmeal Breakfast Muffins recipes
+==================================================
+
+Recipe Metadata
+---------------
+Recipe ID: ea41f93e0e7202e0
+CSV row number: 252
+Recipe name: Chocolate Banana Oatmeal Breakfast Muffins recipes
+Source: lynnskitchenadventures.com
+URL: http://www.lynnskitchenadventures.com/2013/05/chocolate-banana-oatmeal-breakfast-muffins.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/019073cac6a98d218983dc5b2c8c06c8b11ccefc404a095881c4a4dc253cba1b/21049851.jpeg
+Servings: 18
+Calories: 3801.65
+Diet labels: Balanced
+Health labels: Vegetarian, Gluten-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: american
+Meal type: breakfast
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Chocolate Banana Oatmeal Breakfast Muffins recipes
+source: lynnskitchenadventures.com
+url: http://www.lynnskitchenadventures.com/2013/05/chocolate-banana-oatmeal-breakfast-muffins.html
+servings: 18
+calories: 3801.651
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/019073cac6a98d218983dc5b2c8c06c8b11ccefc404a095881c4a4dc253cba1b/21049851.jpeg
+diet_labels: ["Balanced"]
+health_labels: ["Vegetarian","Gluten-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Chocolate Banana Oatmeal Breakfast Muffins
+
+Description: Chocoalte and bananas are combined with oatmeal for an easy to make breakfast muffin. Make ahead and freezer friendly.
+
+Recipe category: Breakfast
+
+Recipe cuisine: American
+
+Yield: 18
+
+Prep time: PT5M
+
+Cook time: PT15M
+
+Total time: PT20M
+
+Ingredients:
+- 3 cups oats, use gluten free oats for gluten free version
+- 1/2 cup brown sugar
+- 1 cup milk
+- 2 tablespoons butter, melted
+- 2 eggs
+- 2 teaspoons baking powder
+- 3/4 teaspoons salt
+- 2 teaspoons vanilla
+- 3 bananas mashed
+- 1/4 cup baking cocoa
+- 3/4 cup chocolate chips
+
+Instructions:
+1. In a large bowl combine all ingredients except chocolate chips.
+2. Stir well until combined.
+3. Stir in chocolate chips.
+4. Scoop into greased or lined muffin tin. This makes about 18 muffins.
+5. Bake at 350 for 15-18 minutes.
+
+Visible page text:
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
+Facebook
+Twitter
+Pinterest
+This is one of those recipes that I could not decide where to share it. It is a great breakfast for anyone, but it is also so simple to make gluten free.
+I really struggle with gluten free breakfasts, especially quick and easy ones. My sister and I have talked about this many times. Breakfast can be the hardest meal to deal with when it comes to food issues. So, I decided that since these are a fun quick and easy breakfast that are freezer friendly, and they are gluten free, I would share them here in the allergy section.
+Make a big batch of these and stick them in the freezer and your kids will love it. These work great for busy mornings and lunchbox treats.
+Ingredients
+3 cups oats, use gluten free oats for gluten free version
+1/2 cup brown sugar
+1 cup milk
+2 tablespoons butter, melted
+2 eggs
+2 teaspoons baking powder
+3/4 teaspoons salt
+2 teaspoons vanilla
+3 bananas mashed
+1/4 cup baking cocoa
+3/4 cup chocolate chips
+Instructions
+In a large bowl combine all ingredients except chocolate chips.
+Stir well until combined.
+Stir in chocolate chips.
+Scoop into greased or lined muffin tin. This makes about 18 muffins.
+Bake at 350 for 15-18 minutes.
+Nutrition Information:
+Yield:
+Serving Size:
+Nutritional values are approximate and aren't always accurate.
+Reader Interactions
+Comments
+Oh, Lynn! Please don’t worry so over g-free breakfast options! Certainly, you are overthinking it! I make a batch of my teff wraps and that means instant breakfast burritos anytime! (Love the 45 second micro-scrambled egg!) You could wrap peanut butter and jelly in them, too, if you wanted! And I absolutely live off my creamy oven oatmeal (made with canned 100%-juice peaches.) I make a double batch and just call it “breakfast oatmeal pudding”!! I just ran across a recipe for quinoa “porridge” this week and think I’ll give that a whirl, too! Breakfast…..where it’s OK to think outside of the box!! Reply My sister and I were just talking about thinking outside of the normal box for breakfast and that we need to do more of it. Just because it is not traditional breakfast food doesn’t mean you can’t eat it for breakfast. I need to get better at remembering that! Reply
+Oh, Lynn! Please don’t worry so over g-free breakfast options! Certainly, you are overthinking it!
+I make a batch of my teff wraps and that means instant breakfast burritos anytime! (Love the 45 second micro-scrambled egg!) You could wrap peanut butter and jelly in them, too, if you wanted! And I absolutely live off my creamy oven oatmeal (made with canned 100%-juice peaches.) I make a double batch and just call it “breakfast oatmeal pudding”!! I just ran across a recipe for quinoa “porridge” this week and think I’ll give that a whirl, too!
+Breakfast…..where it’s OK to think outside of the box!!
+My sister and I were just talking about thinking outside of the normal box for breakfast and that we need to do more of it. Just because it is not traditional breakfast food doesn’t mean you can’t eat it for breakfast. I need to get better at remembering that! Reply
+My sister and I were just talking about thinking outside of the normal box for breakfast and that we need to do more of it. Just because it is not traditional breakfast food doesn’t mean you can’t eat it for breakfast. I need to get better at remembering that!
+I love muffins for breakfast but I don’t often make them because of how dry they turn out. Are these ones moist? Reply These are a hearty oatmeal type muffin, so not like a bakery cake muffin. They do stay pretty moist since they have banana in them. My kids love them and have not complained about them being dry. Reply
+I love muffins for breakfast but I don’t often make them because of how dry they turn out. Are these ones moist?
+These are a hearty oatmeal type muffin, so not like a bakery cake muffin. They do stay pretty moist since they have banana in them. My kids love them and have not complained about them being dry. Reply
+These are a hearty oatmeal type muffin, so not like a bakery cake muffin. They do stay pretty moist since they have banana in them. My kids love them and have not complained about them being dry.
+I made these today after much anticipation! Hope you don’t mind, I tweaked the recipe to make them dairy free lactation muffins for a friend who just brought home her newborn. My three year old QC’d them and asked for seconds! Thank you! I love your recipes! Reply I am glad you enjoyed them! Reply
+I made these today after much anticipation! Hope you don’t mind, I tweaked the recipe to make them dairy free lactation muffins for a friend who just brought home her newborn. My three year old QC’d them and asked for seconds! Thank you! I love your recipes!
+I am glad you enjoyed them! Reply
+I am glad you enjoyed them!
+These are another great recipe. I made them with walnuts instead of chocolate chips to add some extra texture as I thought there was enough chocolate already. They are lovely and moist and a filling breakfast. Thanks. Reply
+These are another great recipe. I made them with walnuts instead of chocolate chips to add some extra texture as I thought there was enough chocolate already. They are lovely and moist and a filling breakfast. Thanks.
+I made these yesterday and they are delicious! Not dry at all – In fact, at first I was concerned I hadn’t baked them long enough cause they looked so moist! But one bite told me they were fine. Yum! I swapped the cocoa for the same amount of a ground flax/chia/coconut/cocoa mixture I grabbed on a whim recently, for some added health benefits. Will definitely make them again!! Thanks for sharing. Reply Thanks for letting me know. I am so glad that you enjoyed them and I love how you changed them up to make them a little healthier. Reply
+I made these yesterday and they are delicious! Not dry at all – In fact, at first I was concerned I hadn’t baked them long enough cause they looked so moist! But one bite told me they were fine. Yum! I swapped the cocoa for the same amount of a ground flax/chia/coconut/cocoa mixture I grabbed on a whim recently, for some added health benefits. Will definitely make them again!! Thanks for sharing.
+Thanks for letting me know. I am so glad that you enjoyed them and I love how you changed them up to make them a little healthier. Reply
+Thanks for letting me know. I am so glad that you enjoyed them and I love how you changed them up to make them a little healthier.
+Trackbacks
+[…] Chocolate Banana Oatmeal Breakfast Muffins from Lynn’s Kitchen Adventures ~ gluten free, nut free, vegetarian […] Reply
+[…] Chocolate Banana Oatmeal Breakfast Muffins from Lynn’s Kitchen Adventures ~ gluten free, nut free, vegetarian […]
+Leave a Reply Cancel reply

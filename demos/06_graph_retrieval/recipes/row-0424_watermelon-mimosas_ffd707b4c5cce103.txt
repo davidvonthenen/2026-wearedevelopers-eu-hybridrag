@@ -1,0 +1,98 @@
+Watermelon Mimosas
+==================
+
+Recipe Metadata
+---------------
+Recipe ID: ffd707b4c5cce103
+CSV row number: 424
+Recipe name: Watermelon Mimosas
+Source: Delish
+URL: https://www.delish.com/cooking/recipe-ideas/a21602507/watermelon-mimosas
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02b30ddd4368563f0ec331535af85a7fe7c50f64a08f50bc6389f556abffc626/21038892.jpg
+Servings: 4
+Calories: 892.94
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: world
+Meal type: lunch/dinner
+Dish type: alcohol cocktail
+
+Original CSV Fields
+-------------------
+recipe_name: Watermelon Mimosas
+source: Delish
+url: https://www.delish.com/cooking/recipe-ideas/a21602507/watermelon-mimosas
+servings: 4
+calories: 892.9413444920001
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02b30ddd4368563f0ec331535af85a7fe7c50f64a08f50bc6389f556abffc626/21038892.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["world"]
+meal_type: ["lunch/dinner"]
+dish_type: ["alcohol cocktail"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Watermelon Mimosas
+
+Description: Watermelon Mimosas from Delish.com are the prettiest cocktails of the season.
+
+Recipe category: ['brunch', 'cocktail']
+
+Yield: 4 serving(s)
+
+Prep time: PT10M
+
+Cook time: PT0S
+
+Total time: PT15M
+
+Ingredients:
+- 4 c. cubed watermelon
+- Juice of 1 lime
+- 2 tbsp. granulated sugar
+- 1 bottle champagne or prosecco
+- Mint, for garnish
+- Watermelon wedges, for garnish
+
+Instructions:
+1. Blend together cubed watermelon, lime juice, and sugar in a blender. Strain mixture through a fine mesh sieve, discarding solids.
+2. Fill champagne flutes halfway with watermelon mixture and top off with champagne. Garnish glasses with a few mint sprigs and a watermelon wedge.
+
+Visible page text:
+Delish editors handpick every product we feature. We may earn commission from the links on this page.
+Looking for a summer cocktail ? This is the perfect one. It's especially great for brunch, but also makes a perfect ending to a summer evening.
+Cooking is easier on the app.
+Download for free!
+Ingredients
+4 cups cubed watermelon
+Juice of 1 lime
+2 Tbsp. granulated sugar
+1 bottle champagne or prosecco
+Mint, for garnish
+Watermelon wedges, for garnish
+Directions
+Step 1 Blend together cubed watermelon, lime juice, and sugar in a blender. Strain mixture through a fine mesh sieve, discarding solids. Step 2 Fill champagne flutes halfway with watermelon mixture and top off with champagne. Garnish glasses with a few mint sprigs and a watermelon wedge.
+Step 1 Blend together cubed watermelon, lime juice, and sugar in a blender. Strain mixture through a fine mesh sieve, discarding solids.
+Step 2 Fill champagne flutes halfway with watermelon mixture and top off with champagne. Garnish glasses with a few mint sprigs and a watermelon wedge.
+BUY NOW Ninja Professional Blender, $90, amazon.com
+Summer Cocktails & Drinks
+Bushwacker
+Key Lime Mojitos
+Margarita
+Pineapple Margarita
+Mint Julep
+Americano Cocktail
+Mezcalita
+Orange Crush Cocktail
+Strawberry Mezcal Margarita
+Dirty Margarita
+Paloma Cocktail
+Lemon Drop Martini

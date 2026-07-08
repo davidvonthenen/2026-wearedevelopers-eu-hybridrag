@@ -1,0 +1,95 @@
+Pasta Fagioli
+=============
+
+Recipe Metadata
+---------------
+Recipe ID: 82e73e45dc6a99f5
+CSV row number: 212
+Recipe name: Pasta Fagioli
+Source: Savoring the Thyme
+URL: http://www.savoringthethyme.com/2011/05/pasta-e-fagioli-ala-secret-recipe-club/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01508d7c9327974b70b5cc02cc4568398bda3505cbfecdd9c8f4d4a4980b3a06/21091180.jpg
+Servings: 8
+Calories: 1436.28
+Diet labels: Low-Fat
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Pasta Fagioli
+source: Savoring the Thyme
+url: http://www.savoringthethyme.com/2011/05/pasta-e-fagioli-ala-secret-recipe-club/
+servings: 8
+calories: 1436.278036950492
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01508d7c9327974b70b5cc02cc4568398bda3505cbfecdd9c8f4d4a4980b3a06/21091180.jpg
+diet_labels: ["Low-Fat"]
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Skip to main content
+Skip to primary sidebar
+May 16, 2011
+Share
+Tweet
+Pin
+I accepted the mission. I immediately knew what had to be done: make Pasta Fagioli. I know the kids love to eat this at restaurants so let’s make it even better by making it homemade.
+You are wondering ‘what mission?’ Oh, I was secretly assigned to create a recipe from another site by Amanda, the head honcho behind The Secret Recipe Club. The site I was assigned to was ‘Something New is Cooking’ and the recipe for the Pasta Fagioli was created by Michelle, the CEO of Something New is Cooking.
+Pasta Fagioli adapted from Something New is Cooking (8+ servings at 1 1/2 cups: modified as made due with what was in my pantry) Ingredients: 1 tablespoon olive oil 1/2 onion, chopped 3 cloves garlic, chopped 1 celery stalk, chopped 1 carrot, finely chopped 1 15 oz can small white beans 1 15 oz can tomato sauce or crushed tomatoes 1 large bay leaf 1 tablespoon basil 1 tablespoon parsley 1 teaspoon oregano 2 (14 oz each) cans chicken broth (low sodium) 4 cups water salt and pepper to taste 1 1/2 cups Pastina (mini-star shapes)* grated Parmesan, optional
+Directions: In a deep pot, saute onion and garlic in olive oil over medium heat.
+Add beans, tomato sauce, celery, carrots, chicken broth, basil, bay leaf, parsley, oregano, salt and pepper. Add water and bring to slow boil. Let simmer for 20 minutes stirring occasionally.
+Add pasta and cook uncovered until pasta is al dente, according to package directions.
+Ladle soup into bowls and top with grated cheese.
+*These little buggers soaked up tons of water so don’t worry about adding too much water. The soup will still be somewhat thick because of the starchiness.
+Reader Interactions
+Comments
+I have not eaten this before, but I can see straight away why your kids love it. Thanks for posting such a simple, tasty looking recipe. 🙂
+Not only does this look delicious but sooooooooooooo cute! 🙂 Love this recipe.
+Love the little pastas…I’ve never made this dish before either but something as simple as that adorable shape is enough to put me in the mood!
+Delicious! I have never made Pasta e Fagioli but I think I need too! It looks great! Plus with all this rain and cool weather it’s feel like Fall again. Which is perfect soup weather 🙂 Hope you had fun with The Secret Recipe Club 🙂
+Delicious! I have never made Pasta e Fagioli but I think I need too! It looks great! Plus with all this rain and cool weather it’s feel like Fall again. Which is perfect soup weather 🙂
+Hope you had fun with The Secret Recipe Club 🙂
+I love pasta fagioli, and didn’t realize it was so easy. I’ll have to give this a try!
+What a great soup! Definitely one for the kiddies. And the pasta stars are perfect!
+That looks like wonderful comfort food.
+What an amazing pick {and post}. You had me in giggles with the head honcho and CEOs Jennifer. LOVED reading the post, and love your pick for the SRC! How wonderful that you’re part of the SRC. This is getting better and better! Yay for you and yay for your mission! One day we will meet, I’m sure…I have a dream {a small one somewhat like Martin Luther King…}
+Love the stars. Love how you put that “accepted the mission”. And “head honcho”–fun writing.
+Wonderful recipe and a beautiful photo! I was very lucky to have been assigned your blog for the Secret Recipe Club this month, your dishes are absolutely fabulous and I will be making more of them in the future 🙂
+Sounds absolutely flavorful…I love soups and honestly, its cold enough to still be eating them here!!
+This looks sooo yummy! I love that you used pasta stars!
+Your mini-stars are adorable 🙂 Pasta e fagioli sounds like a great pick!
+YUM! This brings back memories of my children begging for this very dish! I think I will have to make it for them. They will be shocked. Hope it brings back as many great memories for them, too. Love this SRC!
+This is on my list to try! Looks like a wonderful soup.
+One of my favorite soups! Your version looks delicious.
+I love this soup. My grandma used to make it all the time, and now my mom does. I haven’t made it in forever!
+Those tiny starts are so adorable! Love them! This soup looks delicious! 🙂
+Those little stars are too cute
+Glad to have you in the Secret Recipe Club! And love your interpretation of Pasta e Fagioli with the star pasta. Perfect for little ones.
+Baby stars! This was my fave pasta as a kid and that’s what I used to call it. My mom made it according to the directions on the box and I would add lots of butter and some salt. Such good comfort food. Glad to see you at Secret Recipe Club. Wonder when we’re going to be assigned each others blogs?
+Baby stars! This was my fave pasta as a kid and that’s what I used to call it. My mom made it according to the directions on the box and I would add lots of butter and some salt. Such good comfort food.
+Glad to see you at Secret Recipe Club. Wonder when we’re going to be assigned each others blogs?
+This is such a cool way to find out about new blogs! Have never tried this soup before but you have tempted me to try it!
+Soup looks yummy and so glad you joined the SRC this month!
+My kids would LOVE this! gonna make it for them this week!
+What a fun kid friendly soup to try – enjoyed participating in thisevent with you as well!
+The soup looks wonderful Jennifer! Glad you participated this month, hope you’ll join again for June!
+You not only accepted the mission, but mastered it! This soup looks delicious!
+Great looking soup! One of my all time favorites at restaurants.
+Love the stars
+This has always been one of my favorites in Italian restaurants. I love that I can make it at home, add a little salad, maybe some crusty bread, and there’s dinner!
+Your version looks great! Love the stars. I really liked the recipe!
+I love this recipe and think my family would too. Your soup brought back memories – I haven’t used Pastina in years and I remember how much my children loved those little stars. We use white beans often, my children love them also. Nice and easy recipe. Thanks for sharing!
+Leave a Reply

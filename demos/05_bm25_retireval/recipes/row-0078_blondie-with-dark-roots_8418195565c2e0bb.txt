@@ -1,0 +1,127 @@
+Blondie With Dark Roots
+=======================
+
+Recipe Metadata
+---------------
+Recipe ID: 8418195565c2e0bb
+CSV row number: 78
+Recipe name: Blondie With Dark Roots
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/guy-fieri/blondies-with-dark-roots-recipe-1973422
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0066b560b184f51321d0b21775e78b393270cc94cdc6b084e8456491d3acc8e6/21094557.jpg
+Servings: 9
+Calories: 3343.49
+Diet labels: none listed
+Health labels: Vegetarian, Peanut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Blondie With Dark Roots
+source: Food Network
+url: https://www.foodnetwork.com/recipes/guy-fieri/blondies-with-dark-roots-recipe-1973422
+servings: 9
+calories: 3343.489528
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0066b560b184f51321d0b21775e78b393270cc94cdc6b084e8456491d3acc8e6/21094557.jpg
+diet_labels: []
+health_labels: ["Vegetarian","Peanut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Blondie With Dark Roots
+
+Description: Guy Fieri redefines blondies with this riff on the classic bar cookie. He starts his batter by whipping cream cheese with butter, and the result is a light, standout snack-cakey treat.
+
+Yield: 9 blondies
+
+Prep time: P0Y0M0DT0H30M0.000S
+
+Cook time: P0Y0M0DT0H40M0.000S
+
+Total time: P0Y0M0DT1H10M0.000S
+
+Ingredients:
+- Nonstick cooking spray
+- 1 cup all-purpose flour
+- 1/2 teaspoon baking powder
+- 1/2 teaspoon baking soda
+- 1/4 teaspoon salt
+- 1/3 cup unsalted butter, at room temperature
+- 3 ounces cream cheese, at room temperature
+- 1 cup packed light brown sugar
+- 1 tablespoon vanilla extract
+- 1 large egg
+- 1/2 cup dark chocolate chips or chunks
+- 1/2 cup chopped hazelnuts
+- 1/4 cup sweetened shredded coconut
+
+Instructions:
+1. Preheat the oven to 350 degrees F. Mist an 8-inch-square glass baking dish with nonstick cooking spray.
+2. Whisk the flour, baking powder, baking soda and salt in a small bowl.
+3. Beat the butter and cream cheese in a large bowl with a mixer at medium speed until fluffy. Add the brown sugar and beat 3 to 4 more minutes. Beat in the vanilla and egg. Add the flour mixture and mix on low speed until just combined. Fold in the chocolate chips, hazelnuts and coconut with a wooden spoon.
+4. Spread the batter in the prepared baking dish and bake until a toothpick inserted into the center comes out clean, 35 to 40 minutes. Let cool 20 minutes in the dish before slicing.
+
+Visible page text:
+Home
+Recipes
+Dessert
+Brownies
+We're sorry, there seems to be an issue playing this video. Please refresh the page or try again in a moment. If you continue to have issues, please contact us here .
+Blondie With Dark Roots
+Level: Easy
+Total: 1 hr 10 min
+Prep: 30 min
+Cook: 40 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+Nonstick cooking spray
+1 cup all-purpose flour
+1/2 teaspoon baking powder
+1/2 teaspoon baking soda
+1/4 teaspoon salt
+1/3 cup unsalted butter, at room temperature
+3 ounces cream cheese, at room temperature
+1 cup packed light brown sugar
+1 tablespoon vanilla extract
+1 large egg
+1/2 cup dark chocolate chips or chunks
+1/2 cup chopped hazelnuts
+1/4 cup sweetened shredded coconut
+Preheat the oven to 350 degrees F. Mist an 8-inch-square glass baking dish with nonstick cooking spray.
+Whisk the flour, baking powder, baking soda and salt in a small bowl.
+Beat the butter and cream cheese in a large bowl with a mixer at medium speed until fluffy. Add the brown sugar and beat 3 to 4 more minutes. Beat in the vanilla and egg. Add the flour mixture and mix on low speed until just combined. Fold in the chocolate chips, hazelnuts and coconut with a wooden spoon.
+Spread the batter in the prepared baking dish and bake until a toothpick inserted into the center comes out clean, 35 to 40 minutes. Let cool 20 minutes in the dish before slicing.
+Photograph by Andrew Mccaul
+This recipe has been updated and may differ from what was originally published or broadcast.
+Courtesy of Food Network Magazine
+Categories:
+More from:
+Father's Day
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Southern Pecan Pie Recipe
+Roasted Roots and Radiatore Pasta Salad Recipe
+Blonde with Dark Roots Recipe
+Warm Garlic Pitas Recipe
+Peated Lemons Cocktail Recipe
+Shoot the Root Recipe

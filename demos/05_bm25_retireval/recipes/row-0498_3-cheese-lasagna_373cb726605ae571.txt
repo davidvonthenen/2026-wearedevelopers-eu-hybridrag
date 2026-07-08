@@ -1,0 +1,117 @@
+3-Cheese Lasagna
+================
+
+Recipe Metadata
+---------------
+Recipe ID: 373cb726605ae571
+CSV row number: 498
+Recipe name: 3-Cheese Lasagna
+Source: Delish
+URL: http://www.delish.com/cooking/recipe-ideas/recipes/a35792/3-cheese-lasagna-recipe-ghk0913/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/033a1e0ad46da710c6d4a7ec92c09b49b722fab37e2bda2647c8946f23e9dbd1/21120949.jpg
+Servings: 4
+Calories: 1609.81
+Diet labels: High-Fiber
+Health labels: Vegetarian, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: 3-Cheese Lasagna
+source: Delish
+url: http://www.delish.com/cooking/recipe-ideas/recipes/a35792/3-cheese-lasagna-recipe-ghk0913/
+servings: 4
+calories: 1609.809468
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/033a1e0ad46da710c6d4a7ec92c09b49b722fab37e2bda2647c8946f23e9dbd1/21120949.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Vegetarian","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Lasagna-Stuffed Zucchini
+
+Description: Our lasagna-stuffed zucchini takes everything you love about lasagna and makes it gluten-free by substituting a zucchini boat base
+
+Recipe category: ['gluten-free', 'low-carb', 'dinner']
+
+Recipe cuisine: ['Italian']
+
+Yield: 4 serving(s)
+
+Prep time: PT15M
+
+Cook time: PT0S
+
+Total time: PT45M
+
+Ingredients:
+- 4 large zucchini, halved lengthwise
+- 1 tbsp. extra-virgin olive oil&nbsp;
+- 1/2 onion, diced
+- 2 cloves garlic, minced
+- 1/2 lb. ground beef
+- Kosher salt
+- Freshly ground black pepper
+- 1 c. jarred marinara
+- Pinch of crushed red pepper flakes
+- 1 c. ricotta
+- 1 c. shredded mozzarella
+- Freshly chopped parsley, for garnish
+
+Instructions:
+1. Preheat oven to 350°. Score zucchini (like you’re dicing an avocado) and scoop out insides.
+2. In a large skillet over medium-high heat, heat oil. Add onion and cook until soft, 5 minutes, then add garlic and cook until fragrant, 1 minute more. Add ground beef and cook until no longer pink, 5 minutes. Season with salt and pepper. Add marinara and stir until combined. Add crushed red pepper flakes.
+3. Spread ricotta on bottom of each zucchini boat, then spoon beef sauce over ricotta layer and sprinkle with mozzarella.
+4. Bake until zucchini is tender and cheese is melty, 15 minutes.
+5. Garnish with parsley before serving.
+
+Visible page text:
+When you need a low-lift, delicious, filling dinner, lasagna is the way to go; however, lasagna can be a little bit heavy for a weeknight dinner. Enter our lasagna-stuffed zucchini . By taking everything you love about lasagna—seasoned beef, marinara sauce, and layers of mozzarella and ricotta cheese—and swapping out the pasta for zucchini boats, we’ve made a low-carb, gluten-free lasagna that everyone can enjoy. Fill up the zucchini with everything you love about lasagna and enjoy it guilt-free!
+Did you try making this? Let us know what you think in the comments down below!
+Cooking is easier on the app.
+Download for free!
+Ingredients
+4 large zucchini, halved lengthwise
+1 Tbsp. extra-virgin olive oil
+1/2 onion, diced
+2 cloves garlic, minced
+1/2 lb. ground beef
+Kosher salt
+Freshly ground black pepper
+1 cup jarred marinara
+Pinch of crushed red pepper flakes
+1 cup ricotta
+1 cup shredded mozzarella
+Freshly chopped parsley, for garnish
+Directions
+Step 1 Preheat oven to 350°. Score zucchini (like you’re dicing an avocado) and scoop out insides. Step 2 In a large skillet over medium-high heat, heat oil. Add onion and cook until soft, 5 minutes, then add garlic and cook until fragrant, 1 minute more. Add ground beef and cook until no longer pink, 5 minutes. Season with salt and pepper. Add marinara and stir until combined. Add crushed red pepper flakes. Step 3 Spread ricotta on bottom of each zucchini boat, then spoon beef sauce over ricotta layer and sprinkle with mozzarella. Step 4 Bake until zucchini is tender and cheese is melty, 15 minutes. Step 5 Garnish with parsley before serving.
+Step 1 Preheat oven to 350°. Score zucchini (like you’re dicing an avocado) and scoop out insides.
+Step 2 In a large skillet over medium-high heat, heat oil. Add onion and cook until soft, 5 minutes, then add garlic and cook until fragrant, 1 minute more. Add ground beef and cook until no longer pink, 5 minutes. Season with salt and pepper. Add marinara and stir until combined. Add crushed red pepper flakes.
+Step 3 Spread ricotta on bottom of each zucchini boat, then spoon beef sauce over ricotta layer and sprinkle with mozzarella.
+Step 4 Bake until zucchini is tender and cheese is melty, 15 minutes.
+Step 5 Garnish with parsley before serving.
+Dinners
+Copycat McDonald’s McRib Sandwich
+25 Mother's Day Dinner Ideas
+Lemon Ricotta Pasta
+Tex-Mexcellent Recipes
+'Cini 'Tini Chicken Piccata
+28 Easy Taco Recipes
+Easy Weeknight Dinners For May
+Santa Fe Skillet Chicken
+10 Of Our Favorite 10-Ingredient Dinners
+Best Spring Sheet-Pan Recipes
+Chicken Flautas
+Italian Grinder Bean Salad

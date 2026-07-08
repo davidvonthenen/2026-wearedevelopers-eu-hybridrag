@@ -1,0 +1,113 @@
+Spicy Corn Medley
+=================
+
+Recipe Metadata
+---------------
+Recipe ID: 97966ffc9225c155
+CSV row number: 482
+Recipe name: Spicy Corn Medley
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/spicy-corn-medley-recipe-1917956
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02c91b9dfdc9f8f67aca176083de64766c1484c699f15621a3248ac8acffc7be/21045403.jpg
+Servings: 10
+Calories: 1196.16
+Diet labels: Balanced
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: south american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Spicy Corn Medley
+source: Food Network
+url: https://www.foodnetwork.com/recipes/spicy-corn-medley-recipe-1917956
+servings: 10
+calories: 1196.156122
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02c91b9dfdc9f8f67aca176083de64766c1484c699f15621a3248ac8acffc7be/21045403.jpg
+diet_labels: ["Balanced"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["south american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Spicy Corn Medley
+
+Recipe category: side-dish
+
+Yield: 8 to 10 servings
+
+Prep time: P0Y0M0DT0H10M0.000S
+
+Cook time: P0Y0M0DT0H10M0.000S
+
+Total time: P0Y0M0DT0H20M0.000S
+
+Ingredients:
+- 8 ears fresh corn
+- 1 red pepper
+- 1 orange pepper
+- 2 jalapeno pepper
+- 1 large onion
+- 3 tablespoons butter
+- Salt and freshly ground black pepper
+- 1 tablespoon sugar
+- Freshly chopped tarragon leaves, to taste
+
+Instructions:
+1. Preheat grill over medium-high heat.
+2. Quick hit corn on grill to get a bit of color. Strip kernels off cob.
+3. Fine dice the peppers and onion. Place the butter into a saute pan over medium-high heat. Once melted, cook the peppers and onions until tender. Add sugar, salt and pepper, to taste. Add corn. Add tarragon at end.
+
+Visible page text:
+Home
+Recipes
+Lunch
+Spicy Corn Medley
+Level: Easy
+Total: 20 min
+Prep: 10 min
+Cook: 10 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+8 ears fresh corn
+1 red pepper
+1 orange pepper
+2 jalapeno pepper
+1 large onion
+3 tablespoons butter
+Salt and freshly ground black pepper
+1 tablespoon sugar
+Freshly chopped tarragon leaves, to taste
+Preheat grill over medium-high heat.
+Quick hit corn on grill to get a bit of color. Strip kernels off cob.
+Fine dice the peppers and onion. Place the butter into a saute pan over medium-high heat. Once melted, cook the peppers and onions until tender. Add sugar, salt and pepper, to taste. Add corn. Add tarragon at end.
+A viewer or guest of the show, who may not be a professional cook, provided this recipe. It has not been tested for home use.
+Categories:
+More from:
+The Best Main Dish Recipes
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Pickled Cauliflower Medley Recipe
+Mash Medley Recipe
+Vegetable Medley Recipe
+BBQ Vegetable Medley Recipe
+Simple Vegetable Medley Recipe
+Italiano Chicken & Pasta Medley Recipe

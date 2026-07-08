@@ -1,0 +1,166 @@
+Nutella Popsicles Recipe
+========================
+
+Recipe Metadata
+---------------
+Recipe ID: f00aee3ec7a9cebc
+CSV row number: 143
+Recipe name: Nutella Popsicles Recipe
+Source: yummytummyaarthi.com
+URL: http://www.yummytummyaarthi.com/2017/06/nutella-popsicles-recipe.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00e5d804b09a149b6b1c1570fe08aa0a8ad3461ae6781b0a456b32ba715166f0/21133712.jpg
+Servings: 10
+Calories: 2875.38
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Nutella Popsicles Recipe
+source: yummytummyaarthi.com
+url: http://www.yummytummyaarthi.com/2017/06/nutella-popsicles-recipe.html
+servings: 10
+calories: 2875.38
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00e5d804b09a149b6b1c1570fe08aa0a8ad3461ae6781b0a456b32ba715166f0/21133712.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+Popular Recipes
+Classic Recipes that are so popular on the blog!
+Rava Upma Recipe
+Paneer Butter Masala Recipe
+Red Sauce Pasta Recipe
+White Sauce Pasta Recipe
+Updated Recently
+Some recipes need to be retested and improved, so we constantly update them to make sure they are clear, reliable, and fail-proof.
+Chicken White Rice Recipe
+Sandwich Uthappam Recipe
+Veg Noodles Fried Rice Recipe
+Homemade Breadcrumbs Recipe
+Vanilla Ice cream Recipe (with CMC, GMS)
+Ragda Patties Recipe
+Aloo Tikki Recipe
+Homemade Ladi Pav Recipe (Eggless)
+More Updated Recipes
+Browse the Latest
+Chilli Garlic Lotus Stem Recipe (Crispy Lotus Stem)
+Yaki Udon Recipe (Japanese Stir Fried Noodle Dish)
+Blueberry Banana Smoothie Recipe
+Korean Ramen Recipe (Spicy Gochujang)
+Ginger Bug and Natural Soda Recipe
+Walnut Kunafa Rolls Recipe
+Thai Tofu Basil Stir Fry Recipe
+Viral Mapo Tofu Udon Recipe
+Hi, I'm Aarthi
+Over the past few years, I've been on a mission to find and create recipes that I can make from scratch. I hope you enjoy the recipes on this blog.
+Instagram
+Facebook
+Pinterest
+YouTube
+My Love for Korean Cuisine
+Korean Vegetable Pancakes Recipe
+How to Cook Sticky Rice
+Korean Pickled Radish (Danmuji)
+Vegetarian Kimbap Recipe
+WHAT'S TRENDING
+Croissant Recipe
+Homemade croissant can seem complicated, but not anymore. I have shared easy and simple method for making authentic croissants at home.
+Viral Instagram Tik Tok Recipes
+Dalgona Coffee Recipe
+Cottage Cheese Recipe
+Dalgona Candy
+London's Viral Chocolate Strawberry Recipe
+Pink Sauce Recipe
+Tan Tan Ramen Recipe
+Brownie Pudding(Viral Recipe)
+Bun Maska Recipe
+Salad Recipes
+Carrot Cabbage Kachumber Recipe
+Onion Raita Recipe
+Russian Salad Recipe - Vegetarian Russian Salad Recipe
+Moong Sprouts Kosambari Recipe
+Mexican Pico De Gallo Recipe
+Pesto Chicken Salad Recipe - Healthy Salad Recipes
+Bake like a pro
+Easy baking recipes which includes everyday cakes, cookies, breads and more.
+Christmas Cakes
+cookies
+Buns
+Muffin Recipes
+Pie & Tarts
+Cupcake
+Brownies
+Bread Baking
+Bar
+All Time Favorite Sandwiches
+Everyday lunch box sandwiches from the humble PB&J to Ultimate club sandwiches.
+Chicken Nuggets Sandwich Recipe
+Chutney Sandwich Recipe
+Egg Omelette Sandwich Recipe
+Carrot Cheese White Sauce Sandwich
+Spicy Chicken Mayonnaise Sandwich
+Chilli Cheese Sandwich Recipe
+Grilled Cheese Sandwich with Tomato & Coriander Dipping Sauce
+Nutella Banana Sandwich Recipe
+Simple Rice Recipes
+Peanut Rice Recipe (Verkadalai Sadam)
+Indian Curry Rice Recipe
+Red Chilli Sauce Chicken Rice Bowl with Grilled Bok Choy
+Beetroot Rice Recipe
+Mumbai Tawa Pulao Recipe
+Chana Dal Pulao Recipe - Chana Dal Rice Recipe - Kadalai Paruppu Pulav Recipe
+Schezwan Garlic Fried Rice Recipe
+Ghee Rice and Chicken Stew
+See more rice recipes →
+Recipes by Course
+Soups
+salad
+Appetizer
+Main Dishes
+Rice Recipes
+Paratha
+Side Dishes
+Gravy Dishes
+Easy Deserts
+Bake your Own Bread
+The Best No Knead Bread Recipe (Easy, Perfect Crust)
+Kare Pan Recipe (Japanese Curry Bread)
+Japanese Milk Bread Recipe
+Garlic Pull-Apart Rolls Recipe
+Easy Croissants Recipe
+Eggless Banana Bread Recipe
+Stuffed Buns Recipe
+Bread Recipe | White Bread Recipe
+See more bread recipes →
+Featured Categories
+Paneer
+Chicken Recipes
+Mutton Recipes
+Fish Recipes
+Soups Recipes
+Tom Yum Veg Soup Recipe
+Chicken Yakhni Recipe
+Easy Tomato Soup Recipe
+Hot and Sour Vegetable Soup Recipe
+Chicken, Rice & Lime Soup Recipe
+Chicken & Rice Soup for Flu - Immunity Boosting Chicken Soup
+Nattu Kozhi Soup Recipe
+Chicken Noodles Soup Recipe

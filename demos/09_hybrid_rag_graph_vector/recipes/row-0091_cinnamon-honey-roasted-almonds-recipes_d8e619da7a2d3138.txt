@@ -1,0 +1,139 @@
+Cinnamon Honey Roasted Almonds recipes
+======================================
+
+Recipe Metadata
+---------------
+Recipe ID: d8e619da7a2d3138
+CSV row number: 91
+Recipe name: Cinnamon Honey Roasted Almonds recipes
+Source: lemontreedwelling.com
+URL: http://www.lemontreedwelling.com/2016/11/roasted-almonds-two-ways.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0084c32d353ed3729ac0830f4851199d9946f494d576f31e0c0148b1296257bf/21127960.jpeg
+Servings: 2
+Calories: 4147.54
+Diet labels: High-Fiber, Low-Carb
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: nordic
+Meal type: snack
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Cinnamon Honey Roasted Almonds recipes
+source: lemontreedwelling.com
+url: http://www.lemontreedwelling.com/2016/11/roasted-almonds-two-ways.html
+servings: 2
+calories: 4147.54075
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0084c32d353ed3729ac0830f4851199d9946f494d576f31e0c0148b1296257bf/21127960.jpeg
+diet_labels: ["High-Fiber","Low-Carb"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["nordic"]
+meal_type: ["snack"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Cinnamon Honey Roasted Almonds
+
+Description: Cinnamon Honey Roasted Almonds - so easy to make, and perfect for holiday gifting!
+
+Yield: ['2', '2 cups']
+
+Prep time: PT5M
+
+Cook time: PT45M
+
+Total time: PT50M
+
+Ingredients:
+- 2 c. raw almonds
+- 1/4 c. honey
+- 2 Tbsp. butter (melted)
+- 1/2 tsp. kosher salt
+- 1/2 tsp. cinnamon
+- 1/4 tsp. nutmeg
+- 1/4 tsp. ginger
+- 1/4 tsp. ground cloves
+- 2-3 Tbsp. granulated sugar
+
+Instructions:
+1. In a medium mixing bowl, combine almonds, honey, butter, salt, cinnamon, nutmeg, ginger, and cloves.
+2. Stir until almonds are well coated.
+3. Spread mixture on a rimmed baking sheet lined with foil.
+4. Bake at 275 degrees for 45 minutes, stirring every 15 minutes.
+5. Remove from oven; cool 5 minutes, then toss with granulated sugar.
+6. Cool completely and store in an airtight container at room temperature.
+
+Visible page text:
+About
+Work With Me
+Contact
+Home » Recipes » Snacks » Roasted Almonds Two Ways
+Published: November 8, 2016 • Modifled: November 3, 2017 by Cathy Trochelman • 6 Comments
+Roasted Almonds Two Ways
+Pin Recipe
+Roasted almonds, two ways! Cinnamon Honey Roasted Almonds AND Rosemary Olive Oil Roasted Almonds. One savory, one sweet, both equally delicious and perfect for holiday gifting!
+At one point in my life, I honestly think I would have told you I enjoy public speaking. Or maybe I wouldn’t have said I enjoy it….but at the very least, I would have said I don’t mind it. But. The longer I’ve been out of a job that requires it, the more I realize I’m actually just like the other 99% of the population. Public speaking? NO THANK YOU!
+But here’s the deal. Sometimes we have to do things we don’t love. And sometimes we have to do things we’re seriously dreading! And sometimes….those things end up being really good for us. Like this past weekend, when I was invited to do a cooking demonstration at a Milwaukee foodie event….and naturally, I said yes!
+I said yes because I knew I’d regret not doing it, because it was an amazing invitation, because I knew at the end of the day it would actually be a little bit fun. But I have to admit – as the weekend approached, I could not have had a bigger pit in my stomach. Because….public speaking! It’s not something I do often these days.
+No, these days my life is pretty much the opposite of public speaking. Because I work from home, by myself, in the comfort of my own kitchen. And even though I post recipes and share stories…there’s something very different about putting it in writing. When it’s in writing, I can always go back and fix it! When you’re in front of a group, there is no fixing it.
+Which is why I’m lucky that things went as well as they did….that there was no urgent need to “fix” anything. And, at the end of the day, I’m not really sure what (if anything) I would have changed. I shared a delicious recipe for Chicken, Cranberry, & Brie Tartlets and I didn’t burn anything or leave out any necessary ingredients. And, to be honest, once I started talking, it really wasn’t all that bad. I wouldn’t go as far as to say I liked it, but it did take me back a little bit to my former self. And now….back to the comfort (and privacy) of my own kitchen.
+Back to creating yummy recipes to share with you….like these Roasted Almonds Two Ways! Roasted almonds are one of my favorite snacks, which is probably why I couldn’t decide between a sweet or a savory recipe. So I decided to make them two ways and share both. If you ask me which I like better – the Cinnamon Honey or the Rosemary Olive Oil – I honestly couldn’t tell you.
+Let’s just say that BOTH of these recipes for roasted almonds are delicious, and neither will last long.
+And you know what I love best about these recipes? Roasted almonds make an amazing gift! So you can make some to keep and some to share. Just be sure you make a LOT…because trust me…you’re going to need them!
+Cinnamon Honey Roasted Almonds
+Ingredients
+2 c. raw almonds
+1/4 c. honey
+2 Tbsp. butter melted
+1/2 tsp. kosher salt
+1/2 tsp. cinnamon
+1/4 tsp. nutmeg
+1/4 tsp. ginger
+1/4 tsp. ground cloves
+2-3 Tbsp. granulated sugar
+Instructions
+In a medium mixing bowl, combine almonds, honey, butter, salt, cinnamon, nutmeg, ginger, and cloves.
+Stir until almonds are well coated.
+Spread mixture on a rimmed baking sheet lined with foil.
+Bake at 275 degrees for 45 minutes, stirring every 15 minutes.
+Remove from oven; cool 5 minutes, then toss with granulated sugar.
+Cool completely and store in an airtight container at room temperature.
+Rosemary Olive Oil Roasted Almonds
+2 Tbsp. olive oil
+1 Tbsp. fresh rosemary minced
+1 tsp. kosher salt
+1/4 tsp. onion powder
+1/4 tsp. garlic powder
+Combine all ingredients in a medium mixing bowl.
+Remove from oven; cool completely. Sprinkle with additional kosher salt as desired.
+Store in an airtight container at room temperature.
+Want a few more easy food gifts for the holidays?
+White Chocolate Gingerbread Bark
+Honey Almond Energy Bites
+leave a reply Cancel reply
+Comments
+Such a great recipe for holiday munching and holiday gifting. I love almonds!! Reply
+Such a great recipe for holiday munching and holiday gifting. I love almonds!!
+These are perfect for the holidays!! My new favorite snack!! Reply
+These are perfect for the holidays!! My new favorite snack!!
+These would make perfect holiday snacks — love cinnamon in anything! Reply
+These would make perfect holiday snacks — love cinnamon in anything!
+My Hubby and I always make roasted almonds for the holidays! So perfect to enjoy and share with family and friends! Reply
+My Hubby and I always make roasted almonds for the holidays! So perfect to enjoy and share with family and friends!
+I love roasted almonds! I can’t get enough of the flavors in these recipes! Reply
+I love roasted almonds! I can’t get enough of the flavors in these recipes!
+I would like a jar of each, please! Reply
+I would like a jar of each, please!
+never miss a recipe
+Get all my latest recipes sent directly to your inbox!
+Disclosure
+Privacy Tools
+Site Credits

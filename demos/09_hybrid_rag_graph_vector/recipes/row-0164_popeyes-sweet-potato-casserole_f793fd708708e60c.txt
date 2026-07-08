@@ -1,0 +1,72 @@
+Popeyes Sweet Potato Casserole
+==============================
+
+Recipe Metadata
+---------------
+Recipe ID: f793fd708708e60c
+CSV row number: 164
+Recipe name: Popeyes Sweet Potato Casserole
+Source: The Daily Meal
+URL: http://www.thedailymeal.com/recipes/popeyes-sweet-potato-casserole-recipe
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0100188e5f8b2115c6f154d73d1f4860987961d275de0cead0268d123b734399/21105583.jpg
+Servings: 12
+Calories: 2035.07
+Diet labels: none listed
+Health labels: Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites, FODMAP
+Cuisine type: south american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Popeyes Sweet Potato Casserole
+source: The Daily Meal
+url: http://www.thedailymeal.com/recipes/popeyes-sweet-potato-casserole-recipe
+servings: 12
+calories: 2035.073903
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0100188e5f8b2115c6f154d73d1f4860987961d275de0cead0268d123b734399/21105583.jpg
+diet_labels: []
+health_labels: ["Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites","FODMAP"]
+cuisine_type: ["south american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Popeyes Sweet Potato Casserole
+
+Description: Few would guess that there was fast food included in this casserole recipe, but Popeyes&rsquo; signature pecan pie adds a unique flavor unlike any we&rsquo;ve tried before.
+
+Ingredients:
+- 2 popeye's georgian pecan pies
+- 1 tablespoon fresh orange juice
+- 2 cans sweet potato purée
+- 1/2 bag marshmallows
+- salt and pepper, to taste
+
+Instructions:
+1. Preheat the oven to 350 degrees.
+2. Cut open each pie and carefully separate the crust, filling, and pecans from each other. In a 9-by-13-inch baking dish, add the the filling to the mashed sweet potatoes with the orange juice and give it a good stir. Season with salt and pepper to taste.
+3. In a food processor, pulse the pie shells and pecans 2-3 times until it is in medium to small chunks. Mix together with the marshmallows and top the sweet potato filling with it. Bake in the oven for 25-30 minutes until hot and the marshmallows are golden brown.
+
+Visible page text:
+Recipes
+Popeyes Sweet Potato Casserole
+Few would guess that there was fast food included in this casserole recipe, but Popeyes’ signature pecan pie adds a unique flavor unlike any we’ve tried before.
+Ingredients
+2 popeye's georgian pecan pies
+1 tablespoon fresh orange juice
+2 cans sweet potato purée
+1/2 bag marshmallows
+salt and pepper, to taste
+Directions
+Preheat the oven to 350 degrees.
+Cut open each pie and carefully separate the crust, filling, and pecans from each other. In a 9-by-13-inch baking dish, add the the filling to the mashed sweet potatoes with the orange juice and give it a good stir. Season with salt and pepper to taste.
+In a food processor, pulse the pie shells and pecans 2-3 times until it is in medium to small chunks. Mix together with the marshmallows and top the sweet potato filling with it. Bake in the oven for 25-30 minutes until hot and the marshmallows are golden brown.

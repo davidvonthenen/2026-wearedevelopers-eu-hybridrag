@@ -1,0 +1,146 @@
+American Berry Pie recipes
+==========================
+
+Recipe Metadata
+---------------
+Recipe ID: 18d886f98b60241d
+CSV row number: 151
+Recipe name: American Berry Pie recipes
+Source: Land O'Lakes
+URL: https://www.landolakes.com/recipe/16619/american-berry-pie/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00eec7e2e3a8ece72a018b35e80baed87c1c061ce64eb6ed786e89c0383361f0/21127859.jpeg
+Servings: 8
+Calories: 3236.90
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: American Berry Pie recipes
+source: Land O'Lakes
+url: https://www.landolakes.com/recipe/16619/american-berry-pie/
+servings: 8
+calories: 3236.899993557807
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00eec7e2e3a8ece72a018b35e80baed87c1c061ce64eb6ed786e89c0383361f0/21127859.jpeg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: American Berry Pie
+
+Description: Fresh summer berries and a flaky butter and almond crust create a delicious and festive pie.
+
+Recipe category: ['Entertaining', 'Fourth of July', 'Fruit', 'Picnic', 'Summer', 'Berry', 'Sweet', 'Baking', '4th of July Recipes', 'Fresh Blueberry Recipes']
+
+Yield: 8 servings
+
+Prep time: PT0H45M
+
+Total time: PT2H45M
+
+Ingredients:
+- Crust
+- 2 cups all-purpose flour
+- 1/4 cup finely chopped almonds
+- 1/4 teaspoon salt
+- 2/3 cup cold Land O Lakes® Butter cut into chunks
+- 5 to 7 tablespoons ice water
+- Filling
+- 1 (16-ounce) container (2 1/2 cups) fresh strawberries, sliced
+- 1 3/4 cups fresh raspberries
+- 1 1/2 cups fresh blueberries
+- 1/2 cup sugar
+- 1/4 cup cornstarch
+- 1 tablespoon water
+- 1/2 teaspoon almond extract
+- Egg Wash
+- 1 large Land O Lakes® Egg slightly beaten
+- Sanding sugar
+
+Instructions:
+1. Combine flour, almonds and salt in bowl; cut in butter, using pastry blender or two forks, until mixture resembles coarse crumbs. Stir in enough ice water just until flour is moistened.
+2. Divide dough into one-third and two-thirds portions. Shape each portion into ball; flatten slightly. Wrap smaller ball of dough in plastic food wrap; refrigerate.
+3. Place strawberries and raspberries into bowl. Place blueberries into another bowl.
+4. Combine sugar and cornstarch in small bowl until well mixed. Add <em>1/4 cup</em> sugar mixture, 1 tablespoon water and <em>1/4 teaspoon</em> almond extract to blueberries; toss lightly to coat. Add remaining sugar mixture and remaining 1/4 teaspoon almond extract to strawberries and raspberries; toss lightly to coat.
+5. Roll out larger ball of dough on lightly floured surface into 1/8-inch-thick, 12-inch circle. Fold into quarters. Place dough into ungreased 9-inch pie plate; unfold, pressing firmly against bottom and sides. Trim crust to 1/2 inch from edge of plate; set aside.
+6. Fold piece of aluminum foil several times to make 2-inch-wide strip; place into pie crust to divide crust into one-third and two-thirds sections. Press down slightly into crust. Spoon blueberry mixture into one-third portion of pie crust. Spoon strawberry and raspberry mixture into larger area of pie. Carefully remove foil.
+7. <em>Heat oven to 425°F.</em>
+8. Roll out remaining ball of dough on lightly floured surface into 11-inch circle. Cut 5 3/4-inch strips of dough in wavy shape to create stripes on flag. Place over strawberry and raspberry mixture, trimming as needed. Fold bottom crust edge over edge of strips. Crimp or flute entire edge of pie.
+9. Cut 10-12 stars from remaining dough using 1 1/2-inch cookie cutter; place stars over blueberry mixture. Brush crust with beaten egg; sprinkle with sanding sugar. Cover edge of crust with 2-inch strip aluminum foil.
+10. Bake 15 minutes; remove foil. <em>Reduce oven temperature to 375°F</em>. Continue baking 30-40 minutes or until crust is lightly browned and filling is bubbling. Cool pie 1 hour before serving.
+
+Visible page text:
+American Berry Pie
+Fresh summer berries and a flaky butter and almond crust create a delicious and festive pie.
+Read the Story Behind the Recipe
+What is this button?
+You now are able to shop & buy these ingredients online! After you select your market, you decide if you want to have your items delivered or picked up today!
+Learn How it Works...
+Ingredients
+Crust
+2 cups all-purpose flour
+1 / 4 cup finely chopped almonds
+1 / 4 teaspoon salt
+2 / 3 cup cold Land O Lakes® Butter , cut into chunks
+5 to 7 tablespoons ice water
+Filling
+1 (16-ounce) container (2 1 / 2 cups) fresh strawberries, sliced
+1 3 / 4 cups fresh raspberries
+1 1 / 2 cups fresh blueberries
+1 / 2 cup sugar
+1 / 4 cup cornstarch
+1 tablespoon water
+1 / 2 teaspoon almond extract
+Egg Wash
+1 large Land O Lakes® Egg , slightly beaten
+Sanding sugar
+How to make
+STEP 1 Combine flour, almonds and salt in bowl; cut in butter, using pastry blender or two forks, until mixture resembles coarse crumbs. Stir in enough ice water just until flour is moistened.
+STEP 1
+Combine flour, almonds and salt in bowl; cut in butter, using pastry blender or two forks, until mixture resembles coarse crumbs. Stir in enough ice water just until flour is moistened.
+STEP 2 Divide dough into one-third and two-thirds portions. Shape each portion into ball; flatten slightly. Wrap smaller ball of dough in plastic food wrap; refrigerate.
+STEP 2
+Divide dough into one-third and two-thirds portions. Shape each portion into ball; flatten slightly. Wrap smaller ball of dough in plastic food wrap; refrigerate.
+STEP 3 Place strawberries and raspberries into bowl. Place blueberries into another bowl.
+STEP 3
+Place strawberries and raspberries into bowl. Place blueberries into another bowl.
+STEP 4 Combine sugar and cornstarch in small bowl until well mixed. Add 1/4 cup sugar mixture, 1 tablespoon water and 1/4 teaspoon almond extract to blueberries; toss lightly to coat. Add remaining sugar mixture and remaining 1/4 teaspoon almond extract to strawberries and raspberries; toss lightly to coat.
+STEP 4
+Combine sugar and cornstarch in small bowl until well mixed. Add 1/4 cup sugar mixture, 1 tablespoon water and 1/4 teaspoon almond extract to blueberries; toss lightly to coat. Add remaining sugar mixture and remaining 1/4 teaspoon almond extract to strawberries and raspberries; toss lightly to coat.
+STEP 5 Roll out larger ball of dough on lightly floured surface into 1/8-inch-thick, 12-inch circle. Fold into quarters. Place dough into ungreased 9-inch pie plate; unfold, pressing firmly against bottom and sides. Trim crust to 1/2 inch from edge of plate; set aside.
+STEP 5
+Roll out larger ball of dough on lightly floured surface into 1/8-inch-thick, 12-inch circle. Fold into quarters. Place dough into ungreased 9-inch pie plate; unfold, pressing firmly against bottom and sides. Trim crust to 1/2 inch from edge of plate; set aside.
+STEP 6 Fold piece of aluminum foil several times to make 2-inch-wide strip; place into pie crust to divide crust into one-third and two-thirds sections. Press down slightly into crust. Spoon blueberry mixture into one-third portion of pie crust. Spoon strawberry and raspberry mixture into larger area of pie. Carefully remove foil.
+STEP 6
+Fold piece of aluminum foil several times to make 2-inch-wide strip; place into pie crust to divide crust into one-third and two-thirds sections. Press down slightly into crust. Spoon blueberry mixture into one-third portion of pie crust. Spoon strawberry and raspberry mixture into larger area of pie. Carefully remove foil.
+STEP 7 Heat oven to 425°F.
+STEP 7
+Heat oven to 425°F.
+STEP 8 Roll out remaining ball of dough on lightly floured surface into 11-inch circle. Cut 5 3/4-inch strips of dough in wavy shape to create stripes on flag. Place over strawberry and raspberry mixture, trimming as needed. Fold bottom crust edge over edge of strips. Crimp or flute entire edge of pie.
+STEP 8
+Roll out remaining ball of dough on lightly floured surface into 11-inch circle. Cut 5 3/4-inch strips of dough in wavy shape to create stripes on flag. Place over strawberry and raspberry mixture, trimming as needed. Fold bottom crust edge over edge of strips. Crimp or flute entire edge of pie.
+STEP 9 Cut 10-12 stars from remaining dough using 1 1/2-inch cookie cutter; place stars over blueberry mixture. Brush crust with beaten egg; sprinkle with sanding sugar. Cover edge of crust with 2-inch strip aluminum foil.
+STEP 9
+Cut 10-12 stars from remaining dough using 1 1/2-inch cookie cutter; place stars over blueberry mixture. Brush crust with beaten egg; sprinkle with sanding sugar. Cover edge of crust with 2-inch strip aluminum foil.
+STEP 10 Bake 15 minutes; remove foil. Reduce oven temperature to 375°F . Continue baking 30-40 minutes or until crust is lightly browned and filling is bubbling. Cool pie 1 hour before serving.
+STEP 10
+Bake 15 minutes; remove foil. Reduce oven temperature to 375°F . Continue baking 30-40 minutes or until crust is lightly browned and filling is bubbling. Cool pie 1 hour before serving.
+More Recipes To Make
+Featured In
+COLLECTION
+4th of July Recipes
+July 4th is a traditional time to celebrate America's birthday with friends and family. This recipe collection is full of all-American red, white & blue desserts plus juicy burgers and the perfect sides to make a meal.

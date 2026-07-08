@@ -1,0 +1,126 @@
+Old Bay Fried Chicken
+=====================
+
+Recipe Metadata
+---------------
+Recipe ID: 94bbaabc289c937b
+CSV row number: 123
+Recipe name: Old Bay Fried Chicken
+Source: McCormick
+URL: http://www.mccormick.com/Recipes/Main-Dishes/OLD-BAY-Fried-Chicken
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00c4cc17bfac5919dd6d743ae590a3d3e06451b307c0506d898b08f27a02bd0e/21046805.jpg
+Servings: 6
+Calories: 5628.34
+Diet labels: Low-Carb
+Health labels: Dairy-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Old Bay Fried Chicken
+source: McCormick
+url: http://www.mccormick.com/Recipes/Main-Dishes/OLD-BAY-Fried-Chicken
+servings: 6
+calories: 5628.335460961308
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00c4cc17bfac5919dd6d743ae590a3d3e06451b307c0506d898b08f27a02bd0e/21046805.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Dairy-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Old Bay Fried Chicken
+
+Description: OLD BAY Seasoning is the secret ingredient to this fabulous fried chicken that is sure to become a family favorite.
+
+Recipe category: Entrees
+
+Recipe cuisine: American
+
+Yield: 6
+
+Prep time: PT0H10M
+
+Cook time: PT0H30M
+
+Total time: PT0H40M
+
+Ingredients:
+- 1 egg
+- 2 tablespoons water
+- 1 cup flour
+- 1/4 cup OLD BAY® Classic Seafood Seasoning
+- 3 pounds chicken parts
+- 2 cups vegetable oil
+
+Instructions:
+1. Beat egg and water in a large bowl. Mix flour and Old Bay in a plastic bag. Dip chicken in egg mixture; shake in flour mixture (a few pieces at a time). Discard any remaining flour mixture.
+2. Heat oil in a large skillet on medium heat. Fry chicken for about 15 minutes per side or until golden brown. Drain on paper towels. If desired, sprinkle chicken with additional Old Bay.
+
+Visible page text:
+Free Shipping on Orders Over $60
+This paragraph is used to check browser font size. If the font size is 25px or greater, the browser will apply a large font size class to the body.
+Old Bay Fried Chicken
+By: McCormick Kitchens
+Made With:
+OLD BAY Seasoning is the secret ingredient to this fabulous fried chicken that is sure to become a family favorite.
+Recipe Info
+Prep Time: 10m
+Prep Time:
+10m
+Cook Time: 30m
+Cook Time:
+30m
+Ingredients: 6
+6
+Servings: 6
+Servings:
+User Rating:
+Ingredients
+1 egg
+2 tablespoons water
+1 cup flour
+1/4 cup OLD BAY® Classic Seafood Seasoning
+3 pounds chicken parts
+2 cups vegetable oil
+Nutrition Information
+(per serving)
+Calories 427
+Carbohydrates 10 g
+Cholesterol 145 mg
+Fiber 1 g
+Protein 36 g
+Sodium 713 mg
+Total Fat 27 g
+Key products
+OLD BAY® Seasoning, 6 oz
+$6.99
+Instructions
+Beat egg and water in a large bowl. Mix flour and Old Bay in a plastic bag. Dip chicken in egg mixture; shake in flour mixture (a few pieces at a time). Discard any remaining flour mixture.
+Heat oil in a large skillet on medium heat. Fry chicken for about 15 minutes per side or until golden brown. Drain on paper towels. If desired, sprinkle chicken with additional Old Bay.
+Related Recipes
+Apple Pie Snack Cake
+Prep Time: 10m | Cook Time: 35m
+Apple Pie Float
+Prep Time: 5m
+Apple Pie Whoopie Pies
+Prep Time: 10m | Cook Time: 14m
+Smoky Garlic and Rosemary Bloody Mary
+Recently Viewed
+Availability
+Sale price Original price Price Quantity of {{ item.product_title }} {{ item.quantity }} Remove : {{ isBundleVisible(item) ? 'Hide' : 'Show' }} items Bundle Name
+Bundle Name
+Product name
+Back in stock description
+Please login to save this recipe

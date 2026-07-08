@@ -1,0 +1,69 @@
+Gingerbread Cookie Dough
+========================
+
+Recipe Metadata
+---------------
+Recipe ID: 316cda1f9e33f122
+CSV row number: 8
+Recipe name: Gingerbread Cookie Dough
+Source: Good Housekeeping
+URL: http://www.goodhousekeeping.com/food-recipes/a9976/gingerbread-cookie-dough-recipe/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00068500d13bb677c70d760b3b65f252a004f4c343e8ad09a30514a51993ac6e/21121527.jpg
+Servings: 8
+Calories: 2782.03
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: snack
+Dish type: biscuits and cookies
+
+Original CSV Fields
+-------------------
+recipe_name: Gingerbread Cookie Dough
+source: Good Housekeeping
+url: http://www.goodhousekeeping.com/food-recipes/a9976/gingerbread-cookie-dough-recipe/
+servings: 8
+calories: 2782.025
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00068500d13bb677c70d760b3b65f252a004f4c343e8ad09a30514a51993ac6e/21121527.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["biscuits and cookies"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Your go-to resources for triple-tested recipes for delicious appetizers, salads and sides, easy dinners, desserts and refreshing cocktails — plus cooking how-tos and taste tests from the Good Housekeeping Test Kitchen.
+Inside The Test Kitchen
+Inside the Good Housekeeping Test Kitchen
+Delicious Cocktail Recipes
+What's the Best Ice for Margaritas? There's Actually a Right Answer
+The Best Classic Cocktail Recipes
+Cold, Crisp Pickle Micheladas
+Upgrade Your Cocktails With Clear Ice — Here's How
+How to Make the "Dirtiest, Filthiest" Martini
+you deserve the best
+Get tested and trusted tips, tricks and picks to create the home you want — straight to your inbox.
+Cooking Tips
+The Secret Ingredient for Better Beef Stroganoff
+How to Mellow Raw Onions Fast
+The Best Vegetable Oil Substitutes
+The #1 Sub Sandwich Mistake
+Healthy Recipes
+Easy High-Protein, High-Fiber Meals
+High-Protein Pasta Recipes
+Protein Pancake Swap
+The Easy Oatmeal Upgrade That Adds More Protein
+Party Recipes
+Raspberry-Rose Frangipane Tart
+Fondue vs. Raclette
+The Viral Winter Olympics Chocolate Lava Cake
+Jello Shots—the Unexpected Cocktail Trend of 2026
+Girly Shirley Jello Shots

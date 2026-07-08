@@ -1,0 +1,153 @@
+Chef John's Duck, Sausage, and Shrimp Gumbo
+===========================================
+
+Recipe Metadata
+---------------
+Recipe ID: 11e86c3291d2eae6
+CSV row number: 406
+Recipe name: Chef John's Duck, Sausage, and Shrimp Gumbo
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/235356/chef-johns-duck-sausage-and-shrimp-gumbo
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/029cf3419af8e40403c808cfd7994e9e49c7f31dedfc965b0b671982c3d5b4f3/21077725.jpg
+Servings: 8
+Calories: 6402.56
+Diet labels: Low-Carb
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Chef John's Duck, Sausage, and Shrimp Gumbo
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/235356/chef-johns-duck-sausage-and-shrimp-gumbo
+servings: 8
+calories: 6402.563957277778
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/029cf3419af8e40403c808cfd7994e9e49c7f31dedfc965b0b671982c3d5b4f3/21077725.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Chef John&#39;s Duck, Sausage, and Shrimp Gumbo
+
+Description: Chef John&#39;s sumptuous duck gumbo is made with pork, sausage, shrimp, and crawfish meat. Serve it with a scoop of cooked rice for a Louisiana treat.
+
+Recipe category: ['Dinner']
+
+Recipe cuisine: ['Southern']
+
+Yield: 8
+
+Prep time: PT30M
+
+Cook time: PT375M
+
+Total time: PT405M
+
+Ingredients:
+- 1 tablespoon vegetable oil, or more as needed
+- 2 duck legs
+- 1 cup all-purpose flour
+- 2 tablespoons all-purpose flour
+- 6 cups chicken broth
+- 1 pound andouille sausage, thickly sliced
+- 1 large onion, chopped
+- 1 cup diced peppers
+- 1 cup chopped celery
+- 4 green onions, chopped
+- 1 teaspoon ground black pepper
+- 0.5 teaspoon dried thyme
+- 0.25 teaspoon cayenne pepper, or to taste
+- 1 bay leaf
+- 1 cup diced fresh tomatoes
+- 1 smoked ham hock
+- 2 cups water, or as needed
+- 1 cup pickled okra, rinsed and sliced
+- 1 pound gulf shrimp
+- 1 pound crawfish tail meat
+- 1 tablespoon chopped green onion
+
+Instructions:
+1. Heat oil in a skillet over medium heat. Cook duck legs in hot oil, skin-side down, until browned and fat has rendered, about 10 minutes. Flip and cook until the other side is browned, 3 to 4 minutes. Transfer to a plate, leaving rendered fat in the skillet.
+2. Whisk 1 cup flour into fat in the skillet, adding enough oil to make a thick and smooth roux. Reduce heat to medium-low and cook, stirring constantly, until roux turns a rich, reddish-brown color, about 40 minutes. Whisk in 2 more tablespoons flour and cook for 2 minutes.
+3. Whisk in broth, 1 cup at a time, until incorporated. Remove from heat.
+4. Cook sausage in a large Dutch oven over medium heat until browned, about 8 minutes. Stir in onion, peppers, celery, and chopped green onions; cook and stir until onion is translucent, about 10 minutes. Stir in black pepper, thyme, cayenne pepper, and bay leaf, followed by diced tomatoes until combined.
+5. Place ham hock into the center of the Dutch oven. Pour roux mixture over ham hock along with enough water to cover. Place duck legs into mixture. Bring to a simmer, then reduce heat to low. Cover with a lid set at an angle to let steam out. Simmer slowly, stirring occasionally, until duck and ham hock meat are tender, about 4 hours. Skim as much fat as possible off the top as it simmers.
+6. Transfer duck legs and ham hock to a large bowl and let cool. Stir pickled okra into gumbo. Pick meat from duck legs and ham hock and return meat to gumbo. Simmer gumbo for 45 more minutes.
+7. Increase heat to medium-high and bring to a boil. Stir in shrimp and crawfish tails; cook until both are bright pink, about 3 minutes. Stir in remaining 1 tablespoon sliced green onions. Taste and adjust for seasoning.
+
+Visible page text:
+Recipes
+Soups, Stews and Chili Recipes
+Stews
+Gumbo Recipes
+Chef John's Duck, Sausage, and Shrimp Gumbo
+The procedure for this duck gumbo with sausage and shrimp is pretty straightforward, although you're talking about a full day's project. This can be made with hundreds of different combinations of smoked meats, game, poultry, and seafood — and in my opinion, the more, the merrier. Serve in a large soup bowl with a scoop of cooked white rice, a sprinkle of green onions, and a pinch of cayenne.
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 8 servings
+1 tablespoon vegetable oil, or more as needed
+2 duck legs
+1 cup all-purpose flour
+2 tablespoons all-purpose flour
+6 cups chicken broth
+1 pound andouille sausage, thickly sliced
+1 large onion, chopped
+1 cup diced serrano and pasilla peppers
+1 cup chopped celery
+4 green onions, chopped (Optional)
+1 teaspoon ground black pepper
+½ teaspoon dried thyme
+¼ teaspoon cayenne pepper, or to taste
+1 bay leaf
+1 cup diced fresh tomatoes
+1 smoked ham hock
+2 cups water, or as needed
+1 cup pickled okra, rinsed and sliced
+1 pound Gulf shrimp
+1 pound crawfish tail meat
+1 tablespoon thinly sliced green onions (Optional)
+Directions
+Heat oil in a skillet over medium heat. Cook duck legs in hot oil, skin-side down, until browned and fat has rendered, about 10 minutes. Flip and cook until the other side is browned, 3 to 4 minutes. Transfer to a plate, leaving rendered fat in the skillet.
+Whisk 1 cup flour into fat in the skillet, adding enough oil to make a thick and smooth roux. Reduce heat to medium-low and cook, stirring constantly, until roux turns a rich, reddish-brown color, about 40 minutes. Whisk in 2 more tablespoons flour and cook for 2 minutes.
+Whisk in broth, 1 cup at a time, until incorporated. Remove from heat.
+Cook sausage in a large Dutch oven over medium heat until browned, about 8 minutes. Stir in onion, peppers, celery, and chopped green onions; cook and stir until onion is translucent, about 10 minutes. Stir in black pepper, thyme, cayenne pepper, and bay leaf, followed by diced tomatoes until combined.
+Place ham hock into the center of the Dutch oven. Pour roux mixture over ham hock along with enough water to cover. Place duck legs into mixture. Bring to a simmer, then reduce heat to low. Cover with a lid set at an angle to let steam out. Simmer slowly, stirring occasionally, until duck and ham hock meat are tender, about 4 hours. Skim as much fat as possible off the top as it simmers.
+Transfer duck legs and ham hock to a large bowl and let cool. Stir pickled okra into gumbo. Pick meat from duck legs and ham hock and return meat to gumbo. Simmer gumbo for 45 more minutes.
+Increase heat to medium-high and bring to a boil. Stir in shrimp and crawfish tails; cook until both are bright pink, about 3 minutes. Stir in remaining 1 tablespoon sliced green onions. Taste and adjust for seasoning. tcali319
+Increase heat to medium-high and bring to a boil. Stir in shrimp and crawfish tails; cook until both are bright pink, about 3 minutes. Stir in remaining 1 tablespoon sliced green onions. Taste and adjust for seasoning.
+tcali319
+Chef's Notes
+The deeper the color of the roux, the deeper and richer the flavor of your gumbo, and the less it will thicken.
+Use any combination of hot and sweet diced peppers instead of serrano and pasilla peppers if desired.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Chef John's Duck, Sausage, and Shrimp Gumbo
+1
+2
+Next
+Most-Saved Recipes Like This
+Good New Orleans Creole Gumbo 1,395 Ratings 3 hrs 40 mins Save
+Chef John's Sausage & Shrimp Jambalaya 854 Ratings 1 hr 15 mins Save
+Simple Garlic Shrimp 1,691 Ratings 25 mins Save
+Cajun Chicken and Sausage Gumbo 661 Ratings 3 hrs 15 mins Save
+Bubba's Jambalaya 1,043 Ratings 1 hr 5 mins Save
+Boudreaux's Zydeco Stomp Gumbo 816 Ratings 2 hrs Save
+Gumbo Style Chicken Creole 541 Ratings 1 hr Save
+Chef John's Shrimp Étouffée 661 Ratings 1 hr 15 mins Save
+Chef John's Shrimp and Grits 371 Ratings 55 mins Save
+Cajun Crawfish and Shrimp Étouffée 592 Ratings 1 hr 10 mins Save
+You’ll Also Love

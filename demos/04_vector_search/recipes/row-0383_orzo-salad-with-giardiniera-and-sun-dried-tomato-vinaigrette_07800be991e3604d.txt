@@ -1,0 +1,110 @@
+Orzo Salad with Giardiniera and Sun-dried Tomato Vinaigrette
+============================================================
+
+Recipe Metadata
+---------------
+Recipe ID: 07800be991e3604d
+CSV row number: 383
+Recipe name: Orzo Salad with Giardiniera and Sun-dried Tomato Vinaigrette
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/robin-miller/orzo-salad-with-giardiniera-and-sun-dried-tomato-vinaigrette-recipe-1957520
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/026c047af4f5b7f0364b00cced4641ec66d8f7dcb83fb7a0a45a14fdd8b5dfb6/21124199.jpg
+Servings: 4
+Calories: 824.63
+Diet labels: none listed
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Orzo Salad with Giardiniera and Sun-dried Tomato Vinaigrette
+source: Food Network
+url: https://www.foodnetwork.com/recipes/robin-miller/orzo-salad-with-giardiniera-and-sun-dried-tomato-vinaigrette-recipe-1957520
+servings: 4
+calories: 824.6311028846401
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/026c047af4f5b7f0364b00cced4641ec66d8f7dcb83fb7a0a45a14fdd8b5dfb6/21124199.jpg
+diet_labels: []
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Orzo Salad with Giardiniera and Sun-dried Tomato Vinaigrette
+
+Recipe category: side-dish
+
+Yield: 4 servings
+
+Prep time: P0Y0M0DT0H15M0.000S
+
+Cook time: P0Y0M0DT0H8M0.000S
+
+Total time: P0Y0M0DT0H23M0.000S
+
+Ingredients:
+- 1 1/2 cups orzo or any small pasta
+- 1 cup chopped oil-packed sun-dried tomatoes
+- 1/2 cup reduced-sodium chicken or vegetable broth
+- 1 tablespoon red wine vinegar
+- 2 cloves garlic, chopped
+- 1 teaspoon dried oregano
+- 2 cups giardiniera garden vegetable mix, drained
+- 1/4 cup chopped fresh basil leaves
+- Salt and freshly ground black pepper
+
+Instructions:
+1. Cook the pasta according to the package directions. Drain and transfer to a large bowl.
+2. Meanwhile, in a blender or food processor, combine the tomatoes, broth, vinegar, garlic, and oregano and process until smooth. Add this to the pasta and toss to combine. Stir in the giardiniera and basil and toss to combine. Season with salt and pepper.
+3. Serve warm, at room temperature, or chilled.
+
+Visible page text:
+Home
+Recipes
+Vegetables
+Orzo Salad with Giardiniera and Sun-dried Tomato Vinaigrette
+Level: Easy
+Total: 23 min
+Prep: 15 min
+Cook: 8 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+1 1/2 cups orzo or any small pasta
+1 cup chopped oil-packed sun-dried tomatoes
+1/2 cup reduced-sodium chicken or vegetable broth
+1 tablespoon red wine vinegar
+2 cloves garlic, chopped
+1 teaspoon dried oregano
+2 cups giardiniera garden vegetable mix, drained
+1/4 cup chopped fresh basil leaves
+Salt and freshly ground black pepper
+Cook the pasta according to the package directions. Drain and transfer to a large bowl.
+Meanwhile, in a blender or food processor, combine the tomatoes, broth, vinegar, garlic, and oregano and process until smooth. Add this to the pasta and toss to combine. Stir in the giardiniera and basil and toss to combine. Season with salt and pepper.
+Serve warm, at room temperature, or chilled.
+Categories:
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Fusilli with Sun-Dried Tomato Vinaigrette Recipe
+Baked Ricotta Bowls with Chicken and Parmesan and...
+Puff Pastry Twists with Sun-Dried Tomato Pesto...
+Sun-dried Tomato Pesto Crostini Recipe
+Grilled Vegetables with Sun Dried Tomato...
+White Bean Salad with Shrimp and Sun-Dried Tomato...

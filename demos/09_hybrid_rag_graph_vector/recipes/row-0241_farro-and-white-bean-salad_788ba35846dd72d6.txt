@@ -1,0 +1,69 @@
+Farro and White Bean Salad
+==========================
+
+Recipe Metadata
+---------------
+Recipe ID: 788ba35846dd72d6
+CSV row number: 241
+Recipe name: Farro and White Bean Salad
+Source: Good Housekeeping
+URL: http://www.goodhousekeeping.com/food-recipes/a10869/farro-white-bean-salad-recipe-rbk0411/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01817ac6c737b93ca12232710caa1cd67983d67531d607a91b9a800fe02459c3/21120403.jpg
+Servings: 4
+Calories: 2109.73
+Diet labels: Balanced
+Health labels: Vegetarian, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: south east asian
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Farro and White Bean Salad
+source: Good Housekeeping
+url: http://www.goodhousekeeping.com/food-recipes/a10869/farro-white-bean-salad-recipe-rbk0411/
+servings: 4
+calories: 2109.731165387253
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01817ac6c737b93ca12232710caa1cd67983d67531d607a91b9a800fe02459c3/21120403.jpg
+diet_labels: ["Balanced"]
+health_labels: ["Vegetarian","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["south east asian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Your go-to resources for triple-tested recipes for delicious appetizers, salads and sides, easy dinners, desserts and refreshing cocktails — plus cooking how-tos and taste tests from the Good Housekeeping Test Kitchen.
+Inside The Test Kitchen
+Inside the Good Housekeeping Test Kitchen
+Delicious Cocktail Recipes
+What's the Best Ice for Margaritas? There's Actually a Right Answer
+The Best Classic Cocktail Recipes
+Cold, Crisp Pickle Micheladas
+Upgrade Your Cocktails With Clear Ice — Here's How
+How to Make the "Dirtiest, Filthiest" Martini
+you deserve the best
+Get tested and trusted tips, tricks and picks to create the home you want — straight to your inbox.
+Cooking Tips
+The Secret Ingredient for Better Beef Stroganoff
+How to Mellow Raw Onions Fast
+The Best Vegetable Oil Substitutes
+The #1 Sub Sandwich Mistake
+Healthy Recipes
+Easy High-Protein, High-Fiber Meals
+High-Protein Pasta Recipes
+Protein Pancake Swap
+The Easy Oatmeal Upgrade That Adds More Protein
+Party Recipes
+Raspberry-Rose Frangipane Tart
+Fondue vs. Raclette
+The Viral Winter Olympics Chocolate Lava Cake
+Jello Shots—the Unexpected Cocktail Trend of 2026
+Girly Shirley Jello Shots

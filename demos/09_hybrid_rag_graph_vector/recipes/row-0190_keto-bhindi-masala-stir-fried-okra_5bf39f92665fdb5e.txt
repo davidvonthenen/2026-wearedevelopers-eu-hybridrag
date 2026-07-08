@@ -1,0 +1,131 @@
+Keto Bhindi Masala (Stir Fried Okra)
+====================================
+
+Recipe Metadata
+---------------
+Recipe ID: 5bf39f92665fdb5e
+CSV row number: 190
+Recipe name: Keto Bhindi Masala (Stir Fried Okra)
+Source: headbangerskitchen.com
+URL: https://headbangerskitchen.com/recipe/keto-bhindi-masala-stir-fried-okra/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0132dfef97429786050f5064e6dedee6bceb46a16b75afb7cb8f8202a8e2116b/21120701.jpg
+Servings: 1
+Calories: 415.07
+Diet labels: High-Fiber, Low-Carb
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: middle eastern
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Keto Bhindi Masala (Stir Fried Okra)
+source: headbangerskitchen.com
+url: https://headbangerskitchen.com/recipe/keto-bhindi-masala-stir-fried-okra/
+servings: 1
+calories: 415.07325
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0132dfef97429786050f5064e6dedee6bceb46a16b75afb7cb8f8202a8e2116b/21120701.jpg
+diet_labels: ["High-Fiber","Low-Carb"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["middle eastern"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Keto Bhindi Masala (Stir Fried Okra)
+
+Description: A delicious Indian style Okra stir fry
+
+Recipe category: ['Main Dish']
+
+Recipe cuisine: ['Indian']
+
+Yield: ['1', '1 serving']
+
+Prep time: PT10M
+
+Cook time: PT10M
+
+Total time: PT20M
+
+Ingredients:
+- 150 grams Okra/Lady Fingers
+- Salt
+- 1/4 Tsp Tumeric ( I recommend this one )
+- 1/4 Tsp Kashmiri Red Chilli Powder ( I use this one )
+- 1/4 Tsp Coriander Powder ( I recommend this one )
+- 1/4 Tsp Cumin Powder ( I recommend this one )
+- 3 Tbsp olive oil ( I use this one )
+
+Instructions:
+1. Wash and dry the orka very thoroughly ensuring it is dry
+2. Chop the okra into small pieces
+3. Heat 2 tbsp olive oil in the pan and add the okra, season with salt and cover and cook for 2 minutes
+4. Give the okra a good stir and cover and cook for further 2 minutes
+5. Add in the spices and cook till soft.
+6. Serve with keto chapati.
+
+Visible page text:
+They’re also called Ladies Fingers
+Growing up I ate a lot of ‘western food’. Things like roast chicken, tuna salad and pasta were a staple dinner item. However lunch was always Indian fare and was more often than not, dal and rice or sabzi and roti. One of my favourites was bhindi alu, which is okra and potato served with a nice hot chapati. Today’s recipe induces a heavy dose of nostalgia for me as I cook up a similar Keto bhindi masala sans the alu (potato) of course. Since having chapati made from wheat is not an option and I decided to use my Keto Tortilla recipe which makes a great chapati as well.
+Keto Okra
+Well there are a couple of things you got to remember when making Okra. The most important is keeping it away from water otherwise it becomes really slimy. You want to wash them, dry them well and then slice it for this recipe. Lots of people do like to slice it sideways and then remove the seeds but I’ve always eaten them this way. If you dig this recipe I’ve got some lovely other Indian dishes you can try like our cauliflower makhani bites , Keto dosa or even my Keto tawa paneer . I also feel that Okra will go down quite well in my Keto chilli con carne , I imagine the rich tomato based sauce with those meaty flavours will be a great combination.
+Nutrition Info (Per serving)
+Calories: 410
+Net Carbs: 6g
+Carbs: 11g
+Fat: 41g
+Protein: 3g
+Fiber: 5g
+This recipe makes 1 serving. Get this recipe on myfitnesspal . Keto Bhindi Masala (Stir Fried Okra) A delicious Indian style Okra stir fry 4.24 from 13 votes Print Recipe Pin Recipe Prep Time 10 minutes mins Cook Time 10 minutes mins Total Time 20 minutes mins Course Main Dish Cuisine Indian Servings 1 serving Ingredients 1x 2x 3x 150 grams Okra/Lady Fingers Salt 1/4 Tsp Tumeric I recommend this one 1/4 Tsp Kashmiri Red Chilli Powder I use this one 1/4 Tsp Coriander Powder I recommend this one 1/4 Tsp Cumin Powder I recommend this one 3 Tbsp olive oil I use this one Instructions Wash and dry the orka very thoroughly ensuring it is dry Chop the okra into small pieces Heat 2 tbsp olive oil in the pan and add the okra, season with salt and cover and cook for 2 minutes Give the okra a good stir and cover and cook for further 2 minutes Add in the spices and cook till soft. Serve with keto chapati. Tried this recipe? Let us know how it was!
+Keto Bhindi Masala (Stir Fried Okra)
+Ingredients 1x 2x 3x
+150 grams Okra/Lady Fingers
+Salt
+1/4 Tsp Tumeric I recommend this one
+1/4 Tsp Kashmiri Red Chilli Powder I use this one
+1/4 Tsp Coriander Powder I recommend this one
+1/4 Tsp Cumin Powder I recommend this one
+3 Tbsp olive oil I use this one
+Instructions
+Wash and dry the orka very thoroughly ensuring it is dry
+Chop the okra into small pieces
+Heat 2 tbsp olive oil in the pan and add the okra, season with salt and cover and cook for 2 minutes
+Give the okra a good stir and cover and cook for further 2 minutes
+Add in the spices and cook till soft.
+Serve with keto chapati.
+Hi, I’m Sahil, I’m the creator of Headbanger’s Kitchen. For 14 years I’ve been blogging about food, publishing over 500 recipes, and connecting with more than 800,000 followers who share my passion for cooking.
+Leave a Reply Cancel reply
+11 Comments
+Can i replace olive oil with sesame oil / coconut oil / mustard oil ? Olive oil is super expensive to cook daily with. Reply Coconut oil, butter, ghee, bacon fat are all fine. Mustard and Sesame oil I would use very very sparingly. Reply
+Can i replace olive oil with sesame oil / coconut oil / mustard oil ? Olive oil is super expensive to cook daily with.
+Coconut oil, butter, ghee, bacon fat are all fine. Mustard and Sesame oil I would use very very sparingly. Reply
+Coconut oil, butter, ghee, bacon fat are all fine. Mustard and Sesame oil I would use very very sparingly.
+This was so yummy! It’s my new favorite way to eat okra! Thank you so much for all of your amazing Indian recipes, they have made my family very happy Reply
+This was so yummy! It’s my new favorite way to eat okra! Thank you so much for all of your amazing Indian recipes, they have made my family very happy
+i am planning on adding paneer to this dish, will keep okra whole with a slit and fill in grated paneer with the masalas and make it like barwa bindi.. Reply that sounds great! Reply
+i am planning on adding paneer to this dish, will keep okra whole with a slit and fill in grated paneer with the masalas and make it like barwa bindi..
+that sounds great! Reply
+that sounds great!
+Rock n’ Roll! Thanks for sharing, bro! I was getting sick of eating beef. Reply
+Rock n’ Roll! Thanks for sharing, bro! I was getting sick of eating beef.
+KIa Ora from NZ. I have made this now several times, with butter and oil, it is amazingly tasty as a starter , with your Indian lime pickle and of course the chapati, yum! I love your recipes as I have a rather spicy palate. Keep them coming Suza from down under ish Reply
+KIa Ora from NZ. I have made this now several times, with butter and oil, it is amazingly tasty as a starter , with your Indian lime pickle and of course the chapati, yum! I love your recipes as I have a rather spicy palate. Keep them coming Suza from down under ish
+Loved it but I was too chicken to put the full serving of chili powder. Will not make that mistake next time. So happy found a way to eat this that is quick and not deep fried. Thanks! Reply
+Loved it but I was too chicken to put the full serving of chili powder. Will not make that mistake next time. So happy found a way to eat this that is quick and not deep fried. Thanks!
+Thank you so much Sahil for these wonderful recipes, these are wonderful and always very very tasty Thank you for doing this for all of us ! Sucheta Reply
+Thank you so much Sahil for these wonderful recipes, these are wonderful and always very very tasty
+Thank you for doing this for all of us !
+Sucheta
+I love your recipes as I have a rather spicy palate. Keep them coming Reply Glad you enjoying them! Reply
+I love your recipes as I have a rather spicy palate. Keep them coming
+Glad you enjoying them! Reply
+Glad you enjoying them!

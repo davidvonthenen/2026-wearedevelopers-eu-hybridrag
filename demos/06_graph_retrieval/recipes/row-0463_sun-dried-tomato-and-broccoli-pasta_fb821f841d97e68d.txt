@@ -1,0 +1,107 @@
+Sun-Dried Tomato and Broccoli Pasta
+===================================
+
+Recipe Metadata
+---------------
+Recipe ID: fb821f841d97e68d
+CSV row number: 463
+Recipe name: Sun-Dried Tomato and Broccoli Pasta
+Source: Self
+URL: https://www.self.com/recipe/sun-dried-tomato-broccoli-pasta
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02fc4457f0b6f07ab8c9128c4b0ccf9a6179f12599de5782037e64f588dd934d/21106612.jpg
+Servings: 4
+Calories: 1809.87
+Diet labels: Balanced
+Health labels: Vegetarian, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Sun-Dried Tomato and Broccoli Pasta
+source: Self
+url: https://www.self.com/recipe/sun-dried-tomato-broccoli-pasta
+servings: 4
+calories: 1809.873158850016
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02fc4457f0b6f07ab8c9128c4b0ccf9a6179f12599de5782037e64f588dd934d/21106612.jpg
+diet_labels: ["Balanced"]
+health_labels: ["Vegetarian","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Sun-Dried Tomato and Broccoli Pasta
+
+Description: Set sun-dried tomatoes on paper towels to soak up some of their oil so the dish doesn’t get greasy.
+
+Yield: Serves 4
+
+Ingredients:
+- 3 tablespoons olive oil
+- 1 tablespoon balsamic vinegar
+- 1 teaspoon pure maple syrup
+- 1 teaspoon grain-style mustard
+- 5 cloves garlic, finely chopped, divided
+- 8 ounces whole-wheat bow-tie pasta
+- ¼ cup raw slivered almonds
+- 1 medium yellow onion, finely chopped
+- 2 cups broccoli florets
+- ½ cup sun-dried tomatoes in oil, drained and thinly sliced
+- ¼ teaspoon salt
+- ⅛ teaspoon crushed red pepper flakes
+- ¼ cup shredded Parmesan
+
+Instructions:
+1. In a bowl, whisk together 2 tbsp oil, vinegar, syrup, mustard and 2 cloves garlic; set aside.
+2. Cook pasta as directed on package until al dente; drain, reserving 1/2 cup cooking water.
+3. In a large skillet over medium heat, toast almonds, stirring, 3 minutes; set aside. In same skillet, heat remaining 1 tbsp oil over medium heat. Sauté onion, 3 minutes. Add broccoli and remaining 3 cloves garlic; cook, stirring occasionally, 8 minutes. Reduce heat to low; add tomatoes and vinegar glaze and cook, stirring, 1 minute. Stir in pasta, salt, red pepper and cooking water as needed to reach desired thickness.
+4. Serve topped with Parmesan and almonds.
+
+Visible page text:
+Fitness
+Food
+Health
+Love
+Beauty
+Sports
+Life
+Health Conditions
+Shopping
+Video
+Challenges
+Workouts
+Newsletter Signup
+Recipe information
+Yield Serves 4
+Yield
+Serves 4
+Ingredients
+3
+1
+5
+8
+¼
+2
+½
+⅛
+Preparation
+Step 1 In a bowl, whisk together 2 tbsp oil, vinegar, syrup, mustard and 2 cloves garlic; set aside. Step 2 Cook pasta as directed on package until al dente; drain, reserving 1/2 cup cooking water. Step 3 In a large skillet over medium heat, toast almonds, stirring, 3 minutes; set aside. In same skillet, heat remaining 1 tbsp oil over medium heat. Sauté onion, 3 minutes. Add broccoli and remaining 3 cloves garlic; cook, stirring occasionally, 8 minutes. Reduce heat to low; add tomatoes and vinegar glaze and cook, stirring, 1 minute. Stir in pasta, salt, red pepper and cooking water as needed to reach desired thickness. Step 4 Serve topped with Parmesan and almonds.
+Step 1
+In a bowl, whisk together 2 tbsp oil, vinegar, syrup, mustard and 2 cloves garlic; set aside.
+Step 2
+Cook pasta as directed on package until al dente; drain, reserving 1/2 cup cooking water.
+Step 3
+In a large skillet over medium heat, toast almonds, stirring, 3 minutes; set aside. In same skillet, heat remaining 1 tbsp oil over medium heat. Sauté onion, 3 minutes. Add broccoli and remaining 3 cloves garlic; cook, stirring occasionally, 8 minutes. Reduce heat to low; add tomatoes and vinegar glaze and cook, stirring, 1 minute. Stir in pasta, salt, red pepper and cooking water as needed to reach desired thickness.
+Step 4
+Serve topped with Parmesan and almonds.
+Nutrition Per Serving

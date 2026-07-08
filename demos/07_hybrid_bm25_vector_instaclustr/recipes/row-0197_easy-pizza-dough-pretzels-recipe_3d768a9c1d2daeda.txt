@@ -1,0 +1,88 @@
+Easy Pizza Dough Pretzels Recipe
+================================
+
+Recipe Metadata
+---------------
+Recipe ID: 3d768a9c1d2daeda
+CSV row number: 197
+Recipe name: Easy Pizza Dough Pretzels Recipe
+Source: moolasavingmom.com
+URL: https://moolasavingmom.com/easy-pizza-dough-pretzels-recipe/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/013f4a4af37eca4a3883d1f673f55d0587c43205999784f1ef098072fe0be85a/21083337.jpg
+Servings: 6
+Calories: 652.01
+Diet labels: Low-Fat
+Health labels: Vegetarian, Dairy-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: italian
+Meal type: snack
+Dish type: bread
+
+Original CSV Fields
+-------------------
+recipe_name: Easy Pizza Dough Pretzels Recipe
+source: moolasavingmom.com
+url: https://moolasavingmom.com/easy-pizza-dough-pretzels-recipe/
+servings: 6
+calories: 652.0100000000001
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/013f4a4af37eca4a3883d1f673f55d0587c43205999784f1ef098072fe0be85a/21083337.jpg
+diet_labels: ["Low-Fat"]
+health_labels: ["Vegetarian","Dairy-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["italian"]
+meal_type: ["snack"]
+dish_type: ["bread"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+HOME
+Print Coupons
+Find Coupons
+Online Deals
+Coupons 101
+Sale Search
+Grocery Harris Teeter Lowes Foods Publix Food Lion
+Harris Teeter
+Lowes Foods
+Publix
+Food Lion
+Drug Stores Walgreens CVS Target
+Walgreens
+CVS
+Target
+It was a race this evening- could I get my pictures taken before the family snatched these off the plate. You can’t tell but they are all standing around begging to eat one of them.
+These were SO much easier than I expected them to be and so much better!
+I used pre-made dough I got from Harris Teeter but you could use any pizza dough- even a dry mix you make according to the directions.
+You can customize these in so many ways. Add parmesan cheese or drop the salt and replace with cinnamon and sugar. Even top them with cheddar cheese!
+Take the dough and cut off a section and roll into a log. Then roll it into a long rope. Turn it into a pretzel shape.
+Then brush with baking soda mixture and allow it to rest. Then brush with beaten egg and top with salt.
+Bake & enjoy! Print Easy Pizza Dough Pretzels Recipe Author: MoolaSavingMom.com Recipe type: snack Cuisine: snack Prep time: 20 mins Cook time: 20 mins Total time: 40 mins Serves: 6 Ingredients Pizza Dough ball 1 tbsp baking soda 1 egg, beaten Coarse Salt Instructions Preheat oven to 375°F. Spray a cooking sheet with baking spray. Create small ropes of dough by rolling and stretching it. Create a pretzel shape. Microwave ½ cup water until very hot. Add baking soda and stir until dissolved. Brush pretzels with soda mixture. Allow to sit for 5 minutes. Brush pretzel with beaten egg. Sprinkle with salt to taste. Transfer to cookie sheet. Bake 18 minutes or until turns golden brown. Serve with warm marinara sauce. 3.5.3251
+Pizza Dough ball
+1 tbsp baking soda
+1 egg, beaten
+Coarse Salt
+Preheat oven to 375°F.
+Spray a cooking sheet with baking spray.
+Create small ropes of dough by rolling and stretching it.
+Create a pretzel shape.
+Microwave ½ cup water until very hot.
+Add baking soda and stir until dissolved.
+Brush pretzels with soda mixture.
+Allow to sit for 5 minutes.
+Brush pretzel with beaten egg.
+Sprinkle with salt to taste.
+Transfer to cookie sheet.
+Bake 18 minutes or until turns golden brown.
+Serve with warm marinara sauce.
+Any post on this website may include Affiliate Links. See my Disclosure and Privacy Policy here.
+Leave a Reply Cancel reply
+This site uses Akismet to reduce spam. Learn how your comment data is processed .
+Meet Jessie!
+My name is Jessie and I run MoolaSavingMom.com. It is my passion to share deals, coupons & thrifty & frugal thoughts so that you can reduce your spending! I have 4 children – 3 girls and 1 boy. I’ve been married to my high school sweetheart for 20 years!
+*All deals and matchups on this site are to be used as a guide and not a guarantee. Prices and sales can change or vary by location. Sales and offers are responsibility of the retailer.
+Archives

@@ -1,0 +1,185 @@
+Quick Lemon Balsamic Basil Chicken Pasta recipes
+================================================
+
+Recipe Metadata
+---------------
+Recipe ID: 35d91b1e62c9d2f1
+CSV row number: 130
+Recipe name: Quick Lemon Balsamic Basil Chicken Pasta recipes
+Source: ohsweetbasil.com
+URL: http://www.ohsweetbasil.com/chicken-pasta-with-lemon-basil
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00cc37def8628ded85eefcf68c5c7dd0a8ccb417f2393a683885cc61a5abd1fb/21080557.jpeg
+Servings: 6
+Calories: 1357.33
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Quick Lemon Balsamic Basil Chicken Pasta recipes
+source: ohsweetbasil.com
+url: http://www.ohsweetbasil.com/chicken-pasta-with-lemon-basil
+servings: 6
+calories: 1357.332000001089
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00cc37def8628ded85eefcf68c5c7dd0a8ccb417f2393a683885cc61a5abd1fb/21080557.jpeg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Lemon Basil Chicken Pasta
+
+Description: A refreshing twist on traditional pasta dishes, this lemon basil pasta with chicken is the perfect summer meal. With a burst of citrus and a hint of fresh herbs, this dish is packed with protein and flavor. It&#039;s sure to become a family favorite.
+
+Recipe category: ['100 Family Favorite Easy Healthy Recipes']
+
+Yield: ['6', '6 -8 cups']
+
+Prep time: PT2M
+
+Cook time: PT10M
+
+Total time: PT12M
+
+Ingredients:
+- 2 Cups Penne Pasta
+- 1-2 Cups Tyson® Grilled &amp; Ready® Chicken breast strips (heated)
+- 1 Cup Grape Tomatoes (chopped)
+- 1 Cup Spinach
+- 1 Cup Basil
+- 1 Clove Garlic (peeled)
+- 1 Lemon Zest and Juice
+- 2 teaspoons Extra Virgin Olive Oil
+- 1/2 teaspoon Balsamic Vinegar
+- 1 teaspoon Honey
+- 1 Pinch Salt
+
+Instructions:
+1. Bring a saucepan of water to boil, with a pinch of salt, add the pasta and cook until al dente, per package instructions.
+2. Drain the pasta and place in a large bowl.
+3. Meanwhile, in a blender add the spinach, basil, garlic, and lemon zest.
+4. Blend until the basil and spinach has been chopped fine, then with the blender still running, add the lemon juice, oil, vinegar, honey and salt.
+5. Blend until it resembles pesto, turn off the blender and add additional salt if needed.
+6. Toss with the warm pasta, Tyson® Grilled &amp; Ready® Chicken breast strips and tomatoes and enjoy.
+
+Visible page text:
+Your Guide To High Protein For Every Meal!
+Home › Recipes › Dinner › Pasta
+Lemon Basil Chicken Pasta [+Video]
+By Carrian Cheney
+Updated May 09, 2025
+This post may contain references to products from one or more of our advertisers. Oh Sweet Basil may receive compensation when you click on links to such products.
+A refreshing twist on traditional pasta dishes, this lemon basil pasta with chicken is the perfect summer meal. With a burst of citrus and a hint of fresh herbs, this dish is packed with protein and flavor. It’s sure to become a family favorite.
+Table of Contents
+Ingredients for Lemon Basil Chicken Pasta
+How to Make Lemon Basil Chicken Pasta
+Can I Grill My Own Chicken?
+Will Pasta Cook in a Crock Pot?
+How Do You Know If Pasta is Done?
+Does Basil Have Vitamin C?
+What to Serve with Lemon Basil Pasta with Chicken
+Storage Tips
+More Easy Pasta Recipes:
+Watch How to Make Lemon Basil Chicken Pasta
+Lemon Basil Chicken Pasta Recipe
+This easy chicken pasta dish has become one of our favorite post-workout meals too. When we get home from the gym, we always want some good protein, a filling meal, but light enough that we don’t feel gross. Cue the Lemon Basil Chicken Pasta. We have been enjoying Tyson® Foods Grilled & Ready® Products to find the perfect meals for just these occasions.
+Tyson® Grilled & Ready® Chicken are low in fat and high in nutrition. Thankfully we still had a ton of the Tyson® Grilled & Ready® Chicken Breast Strips and a little basil, spinach, and lemon in the fridge. These are obviously all meant for each other, so the pasta dish came together quickly, especially because the chicken comes fully cooked.
+Everything was ready to eat and we were able to sit back and enjoy dinner as a family rather quickly. Dinner was on the table in less than 20 minutes ! The kids loved the pasta, but especially the chicken. It was their favorite part. But that’s what I love about having a bag or two of the chicken in the freezer. I’m never stuck making unhealthy decisions when planning ahead didn’t happen.
+And my favorite part? We loved this pasta served warm but it was equally delicious and flavorful cold as a pasta salad the next day for lunch. And, no cooking time needed so it’s perfect for school or work.
+The sauce for this pasta recipe is so bright and fresh! The basil and spinach add bright green color and so much flavor. Then you have the lemon! Good golly, I love lemon! Then we add a few more ingredients for flavor, sweetness and acidity and dinner is on the table! Here is what you will need:
+Penne Pasta : shells, bowtie, or rotini would also work great
+Tyson® Grilled & Ready® Chicken
+Grape or Cherry Tomatoes : I like to slice them in half.
+For the Dressing
+Spinach
+Fresh Basil
+Garlic
+Lemon Zest and Juice
+Extra Virgin Olive Oil
+Balsamic Vinegar
+Honey
+Salt
+The measurements needed of each ingredient can be found in the recipe card at the end of the post. Keep scrolling for all the details.
+I mentioned earlier that this recipe is ready in less than 20 minutes, so now I’m going to prove it. Here are the basic steps:
+Cook : Bring a large pot of water to boil, add some salt, then add the pasta and cook until al dente. Drain the pasta and place in a large bowl.
+Blend : Add all the spinach, basil leaves, garlic and lemon zest to a blender or a food processor and blend until the greens are finely chopped. Then add the rest of the ingredients for the sauce and blend until it looks like pesto. Salt to taste.
+Toss : Add the sauce to the pasta and stir together with the chicken and the tomatoes.
+The complete instructions can also be found in the recipe card at the end of the post.
+Yes, absolutely! Our 3-ingredient grilled chicken would make a great addition to this pasta dish.
+Pasta can quickly turn into a mushy mess in the slow cooker. If you are making a pasta sauce in the slow cooker and want to add the pasta, pour 1 cup of water plus the pasta into the crock pot when there is just 30 minutes left in the cooking cycle.
+The only real way to know if pasta is done is to taste it. Pasta should be al dente, or firm to the taste. The longer pasta cooks, the stickier and gummier it becomes. If it is sticky enough to stick to the wall, it is over-cooked!
+Basil does have a small amount of Vitamin C, but it is packed with other beneficial nutrients. Basil may have anti-inflammatory qualities and is a potent antibacterial. It contains a wide range of essential oils and is also a very good source of vitamin A.
+This lemon chicken pasta can stand on its own as a meal. If you’re a parmesan lover, add a sprinkle of parmesan cheese over the top of your serving!
+If you want to add a side dish to it, our tropical fruit salad , herbed focaccia bread , grilled asparagus , lemon roasted broccoli , or sauteed snap peas would all be a great choice.
+Leftovers should be stored in the refrigerator in an airtight container and will keep for 4-5 days. It can be reheated in the microwave or eaten cold.
+This delicious and easy lemon basil pasta with chicken is the perfect summer meal. Bursting with fresh flavors and healthy protein, it’s a crowd-pleasing dish that can be made in just 20 minutes .
+20 Min Angel Hair Pasta
+Easy Lemon Orzo with Peas
+15 Minute Pesto Pasta
+Fettuccini Alfredo
+Italian Sausage and Peppers Penne
+Italian Pasta Salad
+Lemon Basil Chicken Pasta
+Ingredients 1x 2x 3x
+▢ 2 Cups Penne Pasta
+▢ 1-2 Cups Tyson® Grilled & Ready® Chicken breast strips , heated
+▢ 1 Cup Grape Tomatoes , chopped
+▢ 1 Cup Spinach
+▢ 1 Cup Basil
+▢ 1 Clove Garlic , peeled
+▢ 1 Lemon Zest and Juice
+▢ 2 teaspoons Extra Virgin Olive Oil
+▢ 1/2 teaspoon Balsamic Vinegar
+▢ 1 teaspoon Honey
+▢ 1 Pinch Salt
+Instructions
+Bring a saucepan of water to boil, with a pinch of salt, add the pasta and cook until al dente, per package instructions. 2 Cups Penne Pasta
+Drain the pasta and place in a large bowl.
+Meanwhile, in a blender add the spinach, basil, garlic, and lemon zest. 1 Cup Basil, 1 Cup Spinach, 1 Clove Garlic, 1 Lemon Zest and Juice
+Blend until the basil and spinach has been chopped fine, then with the blender still running, add the lemon juice, oil, vinegar, honey and salt. 1 Lemon Zest and Juice, 2 teaspoons Extra Virgin Olive Oil, 1/2 teaspoon Balsamic Vinegar, 1 teaspoon Honey, 1 Pinch Salt
+Blend until it resembles pesto, turn off the blender and add additional salt if needed.
+Toss with the warm pasta, Tyson® Grilled & Ready® Chicken breast strips and tomatoes and enjoy. 1-2 Cups Tyson® Grilled & Ready® Chicken breast strips, 1 Cup Grape Tomatoes
+Recipe Notes
+Nutrition
+Nutrition information is automatically calculated, so should only be used as an approximation.
+About The Author
+Carrian Cheney
+Carrian Cheney is the creative force behind ‘Oh, Sweet Basil,’ a food blog she co-authors with her husband, Cade. She creates fresh, family-friendly recipes that encourage togetherness in the kitchen.
+Dinner
+Quick and Easy Ham Lemon Orzo with Parmesan and Peas
+Chicken Bacon Ranch Casserole (Creamy & Cheesy!)
+Quick and Easy Lemon Orzo with Parmesan and Peas
+The Best Lasagna Soup Recipe
+Leave a comment Cancel reply
+21 Comments
+This recipe sounds so good! Reply
+This recipe sounds so good!
+The recipe sounds so tasty! Reply thanks!! Reply
+The recipe sounds so tasty!
+thanks!! Reply
+thanks!!
+This dish is perfect! Oh my, I could go for this right now, it looks so wonderful and fresh! Reply
+This dish is perfect! Oh my, I could go for this right now, it looks so wonderful and fresh!
+Love the dressing! That sounds so great 🙂 Reply
+Love the dressing! That sounds so great 🙂
+I need to start doing some more work outs…summer is just way too close and I haven’t done anything to get ready!!! This pasta looks great! So fresh and delicious and full of healthy goodness. Pre cooked chicken is the perfect addition for a quick dinner idea! Reply totally! Especially because turning my whole house into an oven never sounds good for summer Reply
+I need to start doing some more work outs…summer is just way too close and I haven’t done anything to get ready!!! This pasta looks great! So fresh and delicious and full of healthy goodness. Pre cooked chicken is the perfect addition for a quick dinner idea!
+totally! Especially because turning my whole house into an oven never sounds good for summer Reply
+totally! Especially because turning my whole house into an oven never sounds good for summer
+I love fining new, challenging workouts! And if I was coming home to this meal after? Sounds like the perfect night! Reply
+I love fining new, challenging workouts! And if I was coming home to this meal after? Sounds like the perfect night!
+As Seen In
+© 2026 Oh Sweet Basil. • Privacy Policy • Accessibility • Powered by CultivateWP .

@@ -1,0 +1,104 @@
+Broccoli Egg Bake recipes
+=========================
+
+Recipe Metadata
+---------------
+Recipe ID: a1bc16a5f2f21a1c
+CSV row number: 116
+Recipe name: Broccoli Egg Bake recipes
+Source: paleogrubs.com
+URL: http://paleogrubs.com/broccoli-egg-bake-recipe
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00b635d37b05a4c5a298d464da83587650186a1c241a5414497bf4cbc23fdb0c/21104460.jpeg
+Servings: 4
+Calories: 799.53
+Diet labels: High-Fiber
+Health labels: Vegetarian, Paleo, Dairy-Free, Gluten-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: breakfast
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Broccoli Egg Bake recipes
+source: paleogrubs.com
+url: http://paleogrubs.com/broccoli-egg-bake-recipe
+servings: 4
+calories: 799.5345000000001
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00b635d37b05a4c5a298d464da83587650186a1c241a5414497bf4cbc23fdb0c/21104460.jpeg
+diet_labels: ["High-Fiber"]
+health_labels: ["Vegetarian","Paleo","Dairy-Free","Gluten-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+I do not like green eggs and ham!
+I do not like them, Sam-I-am.
+
+You do not like them. So you say.
+Try them! Try them! And you may.
+Try them and you may, I say.
+
+Sam! If you will let me be,
+I will try them. You will see.
+Say! I like green eggs and ham!
+I do! I like them, Sam-I-am!
+-Dr. Seuss
+Jump to Recipe
+Leave a review
+Share on Pinterest
+This recipe might be a slightly different version of green eggs, but there is no doubt it is green. If only I had some ham. This poem was in my head the entire time this broccoli egg bake was cooking. The entire time. So I had to share it here with you. “Try them and you may like them.” I definitely ignored that advice when I was young. But now I don’t need my mother to tell me to eat my vegetables , I actually really like them. And this dish is packed to the brim with vegetables. We’ve got broccoli, we’ve got zucchini, and we’ve got onion. These veggies, combined with some eggs, make a healthy and nutritious breakfast.
+I think I woke up yesterday and must have decided to try to put as many green things as I could fit into a dish. Actually, now that I think about it, I could’ve added spinach, asparagus, maybe some kale… but I guess there’s already enough goodness packed into this pan I suppose. Broccoli brings so many things to the table, including tons of fiber, vitamin C, and some calcium for those people out there not eating dairy.
+This egg bake is a great way to get a lot of veggies with breakfast. It takes a little time to chop up everything, but once that’s done you simply mix it with eggs and put it in the oven. It also makes great leftovers for the next day.
+Get your vegetables, right here. This egg bake is very straightforward and easy to make. Give it a try and don’t forget to eat your vegetables. You may like them, you will see.
+Ingredients
+Ingredients 8 eggs 1/2 large onion, diced 2 medium zucchini, diced 1 medium head of broccoli, chopped 1 tsp salt 1/2 tsp freshly ground black pepper 1 tbsp fresh parsley, chopped
+8 eggs
+1/2 large onion, diced
+2 medium zucchini, diced
+1 medium head of broccoli, chopped
+1 tsp salt
+1/2 tsp freshly ground black pepper
+1 tbsp fresh parsley, chopped
+Directions
+Preheat the oven to 350 degrees F. In a small bowl, whisk the eggs, salt and pepper. Stir in the chopped vegetables.
+Grease a ramekin with coconut oil spray. Pour egg mixture into the dish and bake for 25-30 minutes or until the eggs are set. Remove from heat and let sit for 5 minutes before serving. Top with chopped parsley to serve.
+Servings
+1
+4
+Time
+Print Recipe
+They look good.don’t know where to start. Reply Thanks Sophia! It’s easy to make and delicious, start with a lot of eggs! Reply
+They look good.don’t know where to start.
+Thanks Sophia! It’s easy to make and delicious, start with a lot of eggs! Reply
+Thanks Sophia! It’s easy to make and delicious, start with a lot of eggs!
+I found that it actually took more than 30 minutes to cook.. ended up being more like 45 minutes. I also added red pepper to mine, very yummy! Reply Great! Red pepper would add some nice color to this green recipe! Reply
+I found that it actually took more than 30 minutes to cook.. ended up being more like 45 minutes. I also added red pepper to mine, very yummy!
+Great! Red pepper would add some nice color to this green recipe! Reply
+Great! Red pepper would add some nice color to this green recipe!
+How big a baking dish? When I read ramekin, I think small. Reply
+How big a baking dish? When I read ramekin, I think small.
+Used broccoli rabe, added hot pepper flakes and a tiny bit of parmesan on the top. Used a baking dish that made it about 1 1/2 inches thick and cooked in the 30 minutes. Delicious! Reply
+Used broccoli rabe, added hot pepper flakes and a tiny bit of parmesan on the top. Used a baking dish that made it about 1 1/2 inches thick and cooked in the 30 minutes. Delicious!
+Tried this and loved it !! smells divine.. Took the left overs to work and everyone commented on the smell. Will definitely do this one again !! Might even try adding asparagus :) Reply
+Tried this and loved it !! smells divine.. Took the left overs to work and everyone commented on the smell. Will definitely do this one again !! Might even try adding asparagus :)
+Great base dish to add anything! I added asparagus and sausage and served with hot sauce and salsa. Thanks for the inspiration! Reply
+Great base dish to add anything! I added asparagus and sausage and served with hot sauce and salsa. Thanks for the inspiration!
+do i need to use a ramekin? can i use a casserole dish? Reply
+do i need to use a ramekin? can i use a casserole dish?
+Took 30 minutes but all oven temperatures vary. Sprinkled Armond meal on top just before end of cooking time, to give it a bit of crunch; also added some mushrooms, only had seven eggs which didn’t make much of a difference . Very tasty. Smoked salmon on the side and kale slaw made it a yummy breaky. Reply
+Took 30 minutes but all oven temperatures vary. Sprinkled Armond meal on top just before end of cooking time, to give it a bit of crunch; also added some mushrooms, only had seven eggs which didn’t make much of a difference . Very tasty. Smoked salmon on the side and kale slaw made it a yummy breaky.
+Yes this dish was very nice. Next time I will add red capscium and chorizo . Nice for breakfast Reply
+Yes this dish was very nice. Next time I will add red capscium and chorizo . Nice for breakfast
+My husband and i are joining the paleo tribe today! This looks SO GOOD. Our first paleo recipe! EEEE. I can not wait to see the difference in the way our bodies feel and look after this lifestyle change. We have been on a week long cleanse at this point… can not wait for the protein in this dish! wish us luck! On a side note… today im going shopping for Paleo staples. Right now, i only have ghee, can i grease my pan with that? Otherwise i have extra virgin olive oil spray. Hmmmmm? Reply
+My husband and i are joining the paleo tribe today! This looks SO GOOD. Our first paleo recipe! EEEE. I can not wait to see the difference in the way our bodies feel and look after this lifestyle change. We have been on a week long cleanse at this point… can not wait for the protein in this dish! wish us luck!
+On a side note… today im going shopping for Paleo staples. Right now, i only have ghee, can i grease my pan with that? Otherwise i have extra virgin olive oil spray. Hmmmmm?
+Leave a comment Cancel reply

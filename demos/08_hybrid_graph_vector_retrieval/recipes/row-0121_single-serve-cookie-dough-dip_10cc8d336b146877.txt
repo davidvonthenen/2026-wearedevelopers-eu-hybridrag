@@ -1,0 +1,83 @@
+Single Serve Cookie Dough Dip
+=============================
+
+Recipe Metadata
+---------------
+Recipe ID: 10cc8d336b146877
+CSV row number: 121
+Recipe name: Single Serve Cookie Dough Dip
+Source: tastykitchen.com
+URL: https://tastykitchen.com/recipes/special-dietary-needs/gluten-free/single-serve-cookie-dough-dip/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00c1d1200bab869c76b2c3270643829448dd5eebe5f924eccdcdc05f16ff5c4e/21090480.jpg
+Servings: 1
+Calories: 244.39
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: biscuits and cookies
+
+Original CSV Fields
+-------------------
+recipe_name: Single Serve Cookie Dough Dip
+source: tastykitchen.com
+url: https://tastykitchen.com/recipes/special-dietary-needs/gluten-free/single-serve-cookie-dough-dip/
+servings: 1
+calories: 244.3866666678549
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00c1d1200bab869c76b2c3270643829448dd5eebe5f924eccdcdc05f16ff5c4e/21090480.jpg
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["biscuits and cookies"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Single Serve Cookie Dough Dip
+Print
+Leave a comment
+write a review
+Print Options
+Description
+This quick and easy single serve cookie dough dip is a protein-packed way to get your dessert! It’s only 4 ingredients, gluten-free, under 250 calories and has 18 grams of protein!
+Ingredients
+1 Tablespoon Natural Peanut Butter
+1 Tablespoon Monkfruit Or Stevia
+1 container (Single Serving Size) Dannon® Oikos® Vanilla Greek Yogurt (See Note)
+1 teaspoon Mini Chocolate Chips, Divided
+Preparation
+In a small bowl, stir peanut butter and sweetener until well mixed. Add 1 teaspoon of the Greek yogurt and stir until a thick, cookie-dough like mixture forms. Stir in 1/2 teaspoon of the chocolate chips.
+Roll the cookie dough into small balls and mix into the container of Greek yogurt. Top with the remaining chips and devour!
+Notes: 1. You could use any flavor of yogurt you like. I want to try it with salted caramel! 2. You can also just swirl in the peanut butter!
+More Recipes from Taylor Kiser
+Overnight Steel Cut Oats
+Gluten-Free Oat Bran Muffins
+Find Taylor Kiser elsewhere on the web.
+Website
+Facebook
+Twitter
+No Comments
+Leave a Comment!
+You must be logged in to post a comment.
+No Reviews
+You must be logged in to post a review.
+Food Gifts
+View Recipe
+Slow Cooker Season!
+Related Recipes
+Prep: 15 mins Cook: 25 mins
+Serves: 6 Level: Easy
+Share f a e
+Prep: 1 hr Cook: 6 mins
+Serves: 6 Level: Intermediate
+Prep: 10 mins Cook: 30 mins
+Serves: 4 Level: Easy
+Prep: 15 mins Cook: 20 mins
+Prep: 12 mins Cook: 12 mins

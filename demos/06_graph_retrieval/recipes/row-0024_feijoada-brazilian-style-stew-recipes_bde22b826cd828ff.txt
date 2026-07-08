@@ -1,0 +1,115 @@
+Feijoada (Brazilian-Style Stew) recipes
+=======================================
+
+Recipe Metadata
+---------------
+Recipe ID: bde22b826cd828ff
+CSV row number: 24
+Recipe name: Feijoada (Brazilian-Style Stew) recipes
+Source: ricardocuisine.com
+URL: https://www.ricardocuisine.com/en/recipes/6387--i-feijoada-i--brazilian-style-stew-
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/001c45af2f63a97341ea47ec76928aa48c13749d4013df35871ad41340c0635b/21093112.jpeg
+Servings: 7
+Calories: 6490.92
+Diet labels: High-Fiber, Low-Carb
+Health labels: Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: south american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Feijoada (Brazilian-Style Stew) recipes
+source: ricardocuisine.com
+url: https://www.ricardocuisine.com/en/recipes/6387--i-feijoada-i--brazilian-style-stew-
+servings: 7
+calories: 6490.916841479927
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/001c45af2f63a97341ea47ec76928aa48c13749d4013df35871ad41340c0635b/21093112.jpeg
+diet_labels: ["High-Fiber","Low-Carb"]
+health_labels: ["Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["south american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Feijoada (Brazilian-Style Stew)
+
+Description: Feijoada (Brazilian-Style Stew)
+
+Recipe category: Main Dishes
+
+Yield: 8 serving(s)
+
+Prep time: PT20M
+
+Cook time: PT2H30M
+
+Total time: PT2H50M
+
+Ingredients:
+- 250 ml (1 cup) dried black beans
+- 1.8 kg (4 lb) pork shoulder with the bone, rind removed
+- 45 ml (3 tbsp) olive oil
+- 2 onions, chopped
+- 2 cloves garlic, chopped
+- 1 slice 200 g (7 oz) dried cured beef (see note)
+- 750 ml (3 cups) water
+- 2 bay leaves
+- 200 g (7 oz) sweet or spicy Portuguese chorizo, sliced
+- Salt and pepper
+
+Instructions:
+1. Place the beans in a large bowl. Cover with cold water and let soak overnight at room temperature. Add water as needed so that the beans are always covered. Rinse and drain.
+2. On a work surface, remove the bone from the meat and cut the meat into large cubes. Keep the bone.
+3. In a large pot, brown the meat and bone in 15 ml (1 tbsp) of the oil. Season with pepper. Season lightly with salt or not at all because the dried beef is very salty. Set aside on a plate.
+4. In the same pot, brown half the onions and the garlic in 15 ml (1 tbsp) of the oil. Return the meat to the pot. Add the beans, cured meat, water and bay leaves. Bring to a boil, then reduce to medium-low heat and simmer for about 2 hours, or until the beans are tender. Add the chorizo and continue cooking for 30 minutes.
+5. With a slotted spoon, remove 250 ml (1 cup) of the cooked black beans from the pot.
+6. In a skillet, fry the beans with the remaining onions and garlic in the remaining oil (15 ml / 1 tbsp). Remove from the heat and mash the mixture with a fork or wooden spoon. Add this bean mixture to the feijoada to thicken the sauce.
+7. Serve with white rice, farofa and orange slices.
+
+Visible page text:
+Feijoada (Brazilian-Style Stew)
+Preparation 20 min
+Cooking 2 h 30 min
+Soaking 8 h
+Makes 6 to 8 servings
+Freezes Yes
+Nut-free
+Lactose-free
+Gluten-free
+Dairy-free
+Egg-free
+Categories
+Ingredients
+250 ml (1 cup) dried black beans 1.8 kg (4 lb) pork shoulder with the bone, rind removed 45 ml (3 tbsp) olive oil 2 onions, chopped 2 cloves garlic, chopped 1 slice 200 g (7 oz) dried cured beef (see note) 750 ml (3 cups) water 2 bay leaves 200 g (7 oz) sweet or spicy Portuguese chorizo, sliced Salt and pepper
+250 ml (1 cup) dried black beans
+1.8 kg (4 lb) pork shoulder with the bone, rind removed
+45 ml (3 tbsp) olive oil
+2 onions, chopped
+2 cloves garlic, chopped
+1 slice 200 g (7 oz) dried cured beef (see note)
+750 ml (3 cups) water
+2 bay leaves
+200 g (7 oz) sweet or spicy Portuguese chorizo, sliced
+Salt and pepper
+Preparation
+Place the beans in a large bowl. Cover with cold water and let soak overnight at room temperature. Add water as needed so that the beans are always covered. Rinse and drain. On a work surface, remove the bone from the meat and cut the meat into large cubes. Keep the bone. In a large pot, brown the meat and bone in 15 ml (1 tbsp) of the oil. Season with pepper. Season lightly with salt or not at all because the dried beef is very salty. Set aside on a plate. In the same pot, brown half the onions and the garlic in 15 ml (1 tbsp) of the oil. Return the meat to the pot. Add the beans, cured meat, water and bay leaves. Bring to a boil, then reduce to medium-low heat and simmer for about 2 hours, or until the beans are tender. Add the chorizo and continue cooking for 30 minutes. With a slotted spoon, remove 250 ml (1 cup) of the cooked black beans from the pot. In a skillet, fry the beans with the remaining onions and garlic in the remaining oil (15 ml / 1 tbsp). Remove from the heat and mash the mixture with a fork or wooden spoon. Add this bean mixture to the feijoada to thicken the sauce. Serve with white rice, farofa and orange slices.
+Place the beans in a large bowl. Cover with cold water and let soak overnight at room temperature. Add water as needed so that the beans are always covered. Rinse and drain.
+On a work surface, remove the bone from the meat and cut the meat into large cubes. Keep the bone.
+In a large pot, brown the meat and bone in 15 ml (1 tbsp) of the oil. Season with pepper. Season lightly with salt or not at all because the dried beef is very salty. Set aside on a plate.
+In the same pot, brown half the onions and the garlic in 15 ml (1 tbsp) of the oil. Return the meat to the pot. Add the beans, cured meat, water and bay leaves. Bring to a boil, then reduce to medium-low heat and simmer for about 2 hours, or until the beans are tender. Add the chorizo and continue cooking for 30 minutes.
+With a slotted spoon, remove 250 ml (1 cup) of the cooked black beans from the pot.
+In a skillet, fry the beans with the remaining onions and garlic in the remaining oil (15 ml / 1 tbsp). Remove from the heat and mash the mixture with a fork or wooden spoon. Add this bean mixture to the feijoada to thicken the sauce.
+Serve with white rice, farofa and orange slices.
+Note from Ricardo
+You can find the cured beef at specialty butcher shops or Portuguese grocery stores. There are two types : One that must me soaked in water for several hours and one that can be directly added to the dish as it's cooking.
+Farofa is fried manioc semolina that is sold plain or seasoned. It is served as a side dish to many Portuguese feasts, including feijoada.
+Personal Note

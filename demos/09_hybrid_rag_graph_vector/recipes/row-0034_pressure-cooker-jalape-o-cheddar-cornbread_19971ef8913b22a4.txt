@@ -1,0 +1,213 @@
+Pressure Cooker Jalapeño Cheddar Cornbread
+==========================================
+
+Recipe Metadata
+---------------
+Recipe ID: 19971ef8913b22a4
+CSV row number: 34
+Recipe name: Pressure Cooker Jalapeño Cheddar Cornbread
+Source: tidbits-marci.com
+URL: https://tidbits-marci.com/pressure-cooker-jalapeno-cheddar-cornbread
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0029f70a3cabe6da0e07e6f82c1f9feb58250a0ba1695439cac5429b33d4a0a7/21055549.jpg
+Servings: 6
+Calories: 2202.59
+Diet labels: Balanced
+Health labels: Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: breakfast
+Dish type: bread
+
+Original CSV Fields
+-------------------
+recipe_name: Pressure Cooker Jalapeño Cheddar Cornbread
+source: tidbits-marci.com
+url: https://tidbits-marci.com/pressure-cooker-jalapeno-cheddar-cornbread
+servings: 6
+calories: 2202.585
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0029f70a3cabe6da0e07e6f82c1f9feb58250a0ba1695439cac5429b33d4a0a7/21055549.jpg
+diet_labels: ["Balanced"]
+health_labels: ["Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["bread"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Pressure Cooker Jalapeño Cheddar Cornbread
+
+Description: Crispy, cheesy, whole grain cornbread from the Instant Pot is a magical thing and the perfect partner for your favorite soup, salads, and pastas!
+
+Recipe category: Bread
+
+Recipe cuisine: American
+
+Yield: ['6', '6-8 servings']
+
+Prep time: PT15M
+
+Cook time: PT30M
+
+Total time: PT55M
+
+Ingredients:
+- 1 cup yellow cornmeal
+- 1 cup white whole wheat flour
+- 1 tablespoon sugar
+- 2 teaspoons baking powder
+- 1/2 teaspoon baking soda
+- 1 1/4 teaspoons salt
+- 1 cup milk (any kind, I use skim)
+- 2 large eggs
+- 3 tablespoons butter, melted
+- 1 cup shredded extra sharp cheddar cheese, divided
+- 3 jalapeños, seeds and ribs removed, then minced (about 1/2 cup)
+- 1/2 cup minced red bell pepper
+
+Instructions:
+1. Grease a 7-inch springform pan with nonstick cooking spray and set aside. Optional: line with parchment or non-stick foil as shown above, for easy removal.
+2. In a medium size bowl, whisk together cornmeal, whole wheat flour, sugar, baking powder, baking soda, and salt.
+3. In a separate bowl add milk and eggs and whisk to combine. Add melted butter and quickly whisk to fully incorporate.
+4. Pour wet mixture into dry and use a spoon to mix just until combined, do not over mix!
+5. Add 3/4 cup cheddar cheese, minced jalapeños, and red bell pepper, lightly stir just until incorporated.
+6. Scrape mixture into the greased springform pan and smooth the top.
+7. Add 1 cup of water to the pressure cooker pot and place trivet inside. Place the pan on top of the trivet.
+8. Secure the lid and turn pressure release knob to a sealed position. Cook at high pressure for 30 minutes.
+9. When cooking is complete, use a natural release for 10 minutes and then release any remaining pressure.
+10. Remove pan from the pressure cooker. Carefully remove the springform ring. If it is sticking, run a knife around the edges of the cake to loosen.
+11. Optional, place cornbread on a cookie sheet pan. sprinkle with an extra 1/4 cup of shredded cheddar cheese and place under the broiler until it is bubbling and brown. As it cools, it will form a cheesy, crispy crust, Yum!
+12. Serve hot or at room temperature.
+13. Leftovers can be stored in the refrigerator. To reheat, place under the broiler to warm and crisp the top.
+
+Visible page text:
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+Skip to footer
+You are here: Home / Recipes by Category / Baked Goods/Quick Breads / Pressure Cooker Jalapeño Cheddar Cornbread
+Last modified on March 29th, 2019
+This post may contain affiliate links, which means I get a small percentage of the sale at no extra cost to you. I only recommend items I love and have had a positive experience with. Thank you!
+3039
+Crispy, Cheesy, Whole Grain Cornbread made moist and delicious with the help of the magical Instant Pot
+Why cook cornbread in the pressure cooker instead of how it’s traditionally done in the oven? Because, WOW! It’s a game changer! Read on!
+This Instant Pot Jalapeño Cheddar Cornbread blew me away when I baked it up in the oven, but left me giggling with joy when I tried it in the pressure cooker.
+This recipe came from the October/November 2017 edition of Cook’s Country magazine and I just knew that I could make this into a healthier, whole grain masterpiece.
+I love cornbread, but really dislike dry, choke-y, suck-all-the-moisture-out-of-your-mouth kind of cornbread.
+The moist environment of the pressure cooker does an incredible job at keeping it moist and soft while still allowing for a perfectly domed rise. I was also able to cut the butter in half, decrease the cheese, use skim milk instead of whole, and switch out the white flour for whole wheat without losing that amazing moist texture.
+Verdict: Killed it (in a good way).
+WHY YOU WILL LOVE THIS HEALTHY, WHOLE GRAIN CORNBREAD
+Homemade, from scratch cornbread, so easy you’ll happily put that Jiffy box away once and for all.
+Speckled with red and green peppers to make it feel festive for Christmas and every other month of the year
+Perfect companion to this Veggie Loaded Instant Pot Tomato Soup . I won’t be needing a spoon, thank you very much
+Cheddar cheese crust . . . I could have started and stopped with that one, right? It’s an optional broiling step, but is it really optional?
+HOW TO MAKE EASY, MOIST CORNBREAD
+Grease a springform pan with nonstick spray (or use this neat foil trick shown here, more details on that below)
+Mix up your dry ingredients in one bowl, wet in another, then combine
+Add cheese and peppers and fold them into the batter – don’t over mix!
+Pour batter into the pan and cook
+When done, remove the ring and sprinkle with cheese
+Put under the broiler until it starts melting off the sides. As it cools, it’ll make a crust
+So!? What do you think? Can you roll with a savory cornbread? One with cheddar ganache rolling off the sides?
+I hear three sweet cornbread lovin’ children of mine screaming NOOOOOO!
+But ignore them because you neeeeeed this cornbread recipe sitting right next to every lasagna, chili , salad, and tomato soup meal for the rest of forever.
+Did I mention the leftovers make croutons that’ll make you cry? Yep, go there.
+HOW TO MAKE HOMEMADE CROUTONS
+Cut them up into large bite-size cubes, toss with a light drizzle of olive oil and a sprinkle of salt and pepper. Bake in an oven at 400° F until browned and crisp, about 10 – 15 minutes. Just you try not to eat the entire pan! That tomato soup I mentioned earlier just went up another 10 points.
+Hopefully I caught any last second savory cornbread doubters with the crouton concept.
+Slathered in butter, dunked in soup, transformed into croutons, you really can’t go wrong. Enjoy!
+EXTRA TIDBITS
+VARIATIONS
+Omit the peppers if you’d like and go for just a cheesy cornbread
+Stir in a cup of fresh or canned corn kernels for a juicy pop throughout
+Leave the jalapeno seeds in the batter for a spicy version
+HOW TO GET A PAN OUT OF THE INSTANT POT
+When cooking “pot in pot” it can get tricky to get the pan out of the pot. Here are my three favorite tricks:
+Use this handy, sturdy sling . Also great for cooking hard-boiled eggs
+Fold a long strip of foil into thirds, place your pan in the center of the foil and use the ends as handles to lower pan into the pot. I do this often with cheesecakes .
+Lay a long piece of foil over the base of the springform pan, push the ring into place, then lock the ring. This little trick helps get your pan in and out, but also makes transferring the cornbread, cheesecake, etc to a different pan so much easier
+TOOLS USED TO MAKE INSTANT POT JALAPENO CHEDDAR CORNBREAD
+Instant Pot
+7 – inch springform pan
+Bakeware Sling
+Pressure Cooker Jalapeño Cheddar Cornbread
+5 Stars 4 Stars 3 Stars 2 Stars 1 Star
+5 from 1 review
+Crispy, cheesy, whole grain cornbread from the Instant Pot is a magical thing and the perfect partner for your favorite soup, salads, and pastas!
+Author: Marci
+Prep Time: 15 minutes
+Cook Time: 30 minutes
+Total Time: 55 minutes
+Yield: 6 - 8 servings 1 x
+Category: Bread
+Method: Pressure cooker
+Cuisine: American
+Ingredients
+1 cup yellow cornmeal
+1 cup white whole wheat flour
+1 tablespoon sugar
+2 teaspoons baking powder
+1/2 teaspoon baking soda
+1 1/4 teaspoons salt
+1 cup milk (any kind, I use skim)
+2 large eggs
+3 tablespoons butter, melted
+1 cup shredded extra sharp cheddar cheese, divided
+3 jalapeños, seeds and ribs removed, then minced (about 1/2 cup )
+1/2 cup minced red bell pepper
+Instructions
+Grease a 7-inch springform pan with nonstick cooking spray and set aside. Optional: line with parchment or non-stick foil as shown above, for easy removal.
+In a medium size bowl, whisk together cornmeal, whole wheat flour, sugar, baking powder, baking soda, and salt.
+In a separate bowl add milk and eggs and whisk to combine. Add melted butter and quickly whisk to fully incorporate.
+Pour wet mixture into dry and use a spoon to mix just until combined, do not over mix!
+Add 3/4 cup cheddar cheese, minced jalapeños, and red bell pepper, lightly stir just until incorporated.
+Scrape mixture into the greased springform pan and smooth the top.
+Add 1 cup of water to the pressure cooker pot and place trivet inside. Place the pan on top of the trivet.
+Secure the lid and turn pressure release knob to a sealed position. Cook at high pressure for 30 minutes.
+When cooking is complete, use a natural release for 10 minutes and then release any remaining pressure.
+Remove pan from the pressure cooker. Carefully remove the springform ring. If it is sticking, run a knife around the edges of the cake to loosen.
+Optional, place cornbread on a cookie sheet pan. sprinkle with an extra 1/4 cup of shredded cheddar cheese and place under the broiler until it is bubbling and brown. As it cools, it will form a cheesy, crispy crust, Yum!
+Serve hot or at room temperature.
+Leftovers can be stored in the refrigerator. To reheat, place under the broiler to warm and crisp the top.
+Notes
+For a spicy version, include the seeds from the jalapeño
+Leftovers freeze well in a Foodsaver bag or freezer safe ziplock bag. If freezing in a Foodsaver bag, freeze the cornbread first then seal it in a bag. This will ensure the cornbread doesn’t get smashed when the air is sucked out
+Adapted from Cook’s Country Oct/Nov 2017 magazine
+You might also like
+Instant Pot Creamy Chicken and Corn Chowder with Sweet Potatoes
+Instant Pot Whole Wheat Jalapeño Cheddar No Knead Crusty Bread
+Instant Pot Jalapeno Popper Chicken Chili
+Instant Pot Southwest Chicken Corn Chowder
+Reader Interactions
+Comments
+Great recipe. We don’t like sweet cornbread and this was perfect. I use finely diced onion in it and also on top of the cheese before putting it under the broiler. I think next time I will put parchment on the bottom since it doesn’t want to come off the springform bottom. I just had to cut a small slice while hot to taste and loved it. Thank you for this recipe. Reply Donna, I’m so glad you loved it! I prefer a savory cornbread myself. Love the onion addition! Reply
+Great recipe. We don’t like sweet cornbread and this was perfect. I use finely diced onion in it and also on top of the cheese before putting it under the broiler. I think next time I will put parchment on the bottom since it doesn’t want to come off the springform bottom. I just had to cut a small slice while hot to taste and loved it. Thank you for this recipe.
+Donna, I’m so glad you loved it! I prefer a savory cornbread myself. Love the onion addition! Reply
+Donna, I’m so glad you loved it! I prefer a savory cornbread myself. Love the onion addition!
+Marci, I have self rising cornmeal. Would I leave out the whole wheat flour and baking powder and soda andadd additional cornmeal? Or possibly go ahead and add the whole wheat flour and half the amount of baking powder and soda? Reply Glinda, hmm…I’m not sure on that one! I would think you still need flour, but maybe not as much baking powder. Sorry, I’m not sure! Reply
+Marci, I have self rising cornmeal. Would I leave out the whole wheat flour and baking powder and soda andadd additional cornmeal? Or possibly go ahead and add the whole wheat flour and half the amount of baking powder and soda?
+Glinda, hmm…I’m not sure on that one! I would think you still need flour, but maybe not as much baking powder. Sorry, I’m not sure! Reply
+Glinda, hmm…I’m not sure on that one! I would think you still need flour, but maybe not as much baking powder. Sorry, I’m not sure!
+Thank you for this recipe. The cornbread was so moist and yummy! Will definitely make again! Reply Karen, Thanks for letting me know! We love it so much! Reply
+Thank you for this recipe. The cornbread was so moist and yummy! Will definitely make again!
+Karen, Thanks for letting me know! We love it so much! Reply
+Karen, Thanks for letting me know! We love it so much!
+Any update on gluten free recipes.. Reply Stacey, I don’t have a lot of experience working with gluten free flour blends, but I do have readers that will swap their favorite blends for the regular flour in my recipes. So far they’ve reported back with success. Reply
+Any update on gluten free recipes..
+Stacey, I don’t have a lot of experience working with gluten free flour blends, but I do have readers that will swap their favorite blends for the regular flour in my recipes. So far they’ve reported back with success. Reply
+Stacey, I don’t have a lot of experience working with gluten free flour blends, but I do have readers that will swap their favorite blends for the regular flour in my recipes. So far they’ve reported back with success.
+So, Marci my friend, could I use two of those little blue and white boxes of cornbread mix (I don’t know if I can mention brand names?) in the 7″ pan? Would it still be 30 minutes cook time? I know your recipe would be much better, but I have several of these boxes, so I thought I’d try it. Thank you! Reply Hey Donna, I think it would work fine. Check out this post by Barbara then just add in your cheddar and peppers but use her cooking times that she used with the box mix. https://www.pressurecookingtoday.com/pressure-cooker-cornbread/ Reply
+So, Marci my friend, could I use two of those little blue and white boxes of cornbread mix (I don’t know if I can mention brand names?) in the 7″ pan? Would it still be 30 minutes cook time? I know your recipe would be much better, but I have several of these boxes, so I thought I’d try it.
+Thank you!
+Hey Donna, I think it would work fine. Check out this post by Barbara then just add in your cheddar and peppers but use her cooking times that she used with the box mix. https://www.pressurecookingtoday.com/pressure-cooker-cornbread/ Reply
+Hey Donna, I think it would work fine. Check out this post by Barbara then just add in your cheddar and peppers but use her cooking times that she used with the box mix. https://www.pressurecookingtoday.com/pressure-cooker-cornbread/
+Leave a Comment Cancel reply
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+Footer
+We wrote a cookbook! TRY IT OUT FOR FREE!
+Fast, flavorful freezer meals for the Instant Pot or slow cooker.

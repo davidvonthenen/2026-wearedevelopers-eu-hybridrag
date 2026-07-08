@@ -1,0 +1,123 @@
+Potato Nests with Peas, Ham and Cream Cheese
+============================================
+
+Recipe Metadata
+---------------
+Recipe ID: de62c2bd2681ebf9
+CSV row number: 68
+Recipe name: Potato Nests with Peas, Ham and Cream Cheese
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/food-network-kitchen/potato-nests-with-peas-ham-and-cream-cheese-3558333
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0055e57ad00cf90a0d098b808c1c53ee3ea150d7bc555e085a2ac5b783a2d225/21126964.jpg
+Servings: 36
+Calories: 2270.53
+Diet labels: Low-Sodium
+Health labels: Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Potato Nests with Peas, Ham and Cream Cheese
+source: Food Network
+url: https://www.foodnetwork.com/recipes/food-network-kitchen/potato-nests-with-peas-ham-and-cream-cheese-3558333
+servings: 36
+calories: 2270.533964855311
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0055e57ad00cf90a0d098b808c1c53ee3ea150d7bc555e085a2ac5b783a2d225/21126964.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Potato Nests with Peas, Ham and Cream Cheese
+
+Description: This elegant appetizer comes together easily with simple, time-saving ingredients. Frozen hash browns are pressed into mini muffin tins and baked into crispy nests filled with ham, lemony cream cheese, and peas. Serve them at your Easter dinner or spring cocktail party.
+
+Recipe category: appetizer
+
+Yield: 36 nests
+
+Cook time: P0Y0M0DT0H25M0.000S
+
+Total time: P0Y0M0DT1H5M0.000S
+
+Ingredients:
+- Nonstick cooking spray
+- 2 thick slices deli ham (about 4 ounces total)
+- 16 ounces (about 3 1/2 cups) frozen shredded hash browns, thawed (about half of a 30-ounce bag)
+- Kosher salt and freshly ground black pepper
+- 8 ounces cream cheese, at room temperature
+- Finely grated zest of one lemon
+- 2 tablespoons milk
+- 1/4 cup frozen peas
+- 2 tablespoon chopped chives (1/2-inch pieces)
+- Paprika, for serving
+
+Instructions:
+1. Position two racks in the top and bottom thirds of the oven and preheat to 425 degrees F. Spray a 12-cup and a 24-cup mini muffin tin with cooking spray and set aside.
+2. Cut the ham into small matchsticks similar in size to the hash browns. Set aside and reserve 1/3 cup of the ham. Mix the remaining ham, hash browns, 1 teaspoon salt and some pepper in a large bowl. Divide the mixture evenly among the sprayed cups, using about 1 rounded tablespoon each. Press the mixture in a thin layer across the bottom and up the sides of each cup to make a nest, leaving the edges uneven and jagged.
+3. Bake, rotating the pans halfway through, until the nests are dark brown around the tips and golden and crisp on the outside, about 25 minutes.
+4. Meanwhile, beat the cream cheese, lemon zest, milk 1/2 teaspoon salt, and some pepper together in a medium bowl with an electric mixer on medium-high speed. Scrape the mixture into a resealable plastic bag, cut off the tip and set aside.
+5. When the nests are ready, remove them from the oven and let sit until they are cool enough to handle, about 10 minutes. Carefully lift the nests out of the tins using a small offset spatula or butter knife and transfer to a cookie sheet. Pipe the filling evenly among the nests. This may be done ahead; the nests can be set aside at room temperature until ready to serve, up to two hours.
+6. When ready to serve, heat the filled nests until the cream cheese is warm and the potatoes are crisp, about 7 minutes. Meanwhile, bring a small pot of water to a boil. Add the frozen peas and cook until they are warm but not shriveled, 5 to 6 minutes. Drain the peas in a colander, shaking to remove excess water.
+7. Transfer the nests to a serving platter. Top each with 1/4 teaspoon of the reserved ham, 3 peas and about 1/4 teaspoon chopped chives. Sprinkle with paprika and serve immediately.
+
+Visible page text:
+Home
+Recipes
+Main Dishes
+Pork Main Dishes
+Ham Main Dishes
+We're sorry, there seems to be an issue playing this video. Please refresh the page or try again in a moment. If you continue to have issues, please contact us here .
+Potato Nests with Peas, Ham and Cream Cheese
+Level: Easy
+Total: 1 hr 5 min
+Active: 25 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+Nonstick cooking spray
+2 thick slices deli ham (about 4 ounces total)
+16 ounces (about 3 1/2 cups) frozen shredded hash browns, thawed (about half of a 30-ounce bag)
+Kosher salt and freshly ground black pepper
+8 ounces cream cheese, at room temperature
+Finely grated zest of one lemon
+2 tablespoons milk
+1/4 cup frozen peas
+2 tablespoon chopped chives (1/2-inch pieces)
+Paprika, for serving
+Position two racks in the top and bottom thirds of the oven and preheat to 425 degrees F. Spray a 12-cup and a 24-cup mini muffin tin with cooking spray and set aside.
+Cut the ham into small matchsticks similar in size to the hash browns. Set aside and reserve 1/3 cup of the ham. Mix the remaining ham, hash browns, 1 teaspoon salt and some pepper in a large bowl. Divide the mixture evenly among the sprayed cups, using about 1 rounded tablespoon each. Press the mixture in a thin layer across the bottom and up the sides of each cup to make a nest, leaving the edges uneven and jagged.
+Bake, rotating the pans halfway through, until the nests are dark brown around the tips and golden and crisp on the outside, about 25 minutes.
+Meanwhile, beat the cream cheese, lemon zest, milk 1/2 teaspoon salt, and some pepper together in a medium bowl with an electric mixer on medium-high speed. Scrape the mixture into a resealable plastic bag, cut off the tip and set aside.
+When the nests are ready, remove them from the oven and let sit until they are cool enough to handle, about 10 minutes. Carefully lift the nests out of the tins using a small offset spatula or butter knife and transfer to a cookie sheet. Pipe the filling evenly among the nests. This may be done ahead; the nests can be set aside at room temperature until ready to serve, up to two hours.
+When ready to serve, heat the filled nests until the cream cheese is warm and the potatoes are crisp, about 7 minutes. Meanwhile, bring a small pot of water to a boil. Add the frozen peas and cook until they are warm but not shriveled, 5 to 6 minutes. Drain the peas in a colander, shaking to remove excess water.
+Transfer the nests to a serving platter. Top each with 1/4 teaspoon of the reserved ham, 3 peas and about 1/4 teaspoon chopped chives. Sprinkle with paprika and serve immediately.
+Copyright 2016 Television Food Network, G.P. All rights reserved.
+Categories:
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Jersey Ham, Egg, Bagel and Herb Cream Cheese...
+Risotto with Peas and Ham Recipe
+Cheese Tortellini with Prosciutto and Peas Recipe
+Baked Sweet Potato and Cream Cheese Recipe
+Potato Nests Recipe
+Crispy Potato Nests with Cherry Ketchup Recipe

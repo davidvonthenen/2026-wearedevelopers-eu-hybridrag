@@ -1,0 +1,227 @@
+Carnival Cruise Lines’s Warm Chocolate Melting Cake recipes
+===========================================================
+
+Recipe Metadata
+---------------
+Recipe ID: 146ebc0ef55cc4c2
+CSV row number: 93
+Recipe name: Carnival Cruise Lines’s Warm Chocolate Melting Cake recipes
+Source: favfamilyrecipes.com
+URL: https://www.favfamilyrecipes.com/melting-cake/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00886a32228fc0726cf13b37af51cb4ffe0d24425ebfce18866a7bb5f5c44c43/21094086.jpeg
+Servings: 4
+Calories: 3348.91
+Diet labels: High-Fiber, Low-Sodium
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Carnival Cruise Lines’s Warm Chocolate Melting Cake recipes
+source: favfamilyrecipes.com
+url: https://www.favfamilyrecipes.com/melting-cake/
+servings: 4
+calories: 3348.90983
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00886a32228fc0726cf13b37af51cb4ffe0d24425ebfce18866a7bb5f5c44c43/21094086.jpeg
+diet_labels: ["High-Fiber","Low-Sodium"]
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Carnival Chocolate Melting Cake
+
+Description: If you have been on a Carnival Cruise, you've probably had this warm chocolate melting cake and you know how amazingly good it is!
+
+Recipe category: ['Dessert']
+
+Recipe cuisine: ['American']
+
+Yield: ['4']
+
+Prep time: PT15M
+
+Cook time: PT14M
+
+Total time: PT29M
+
+Ingredients:
+- ¾ cup dark chocolate chips
+- ¾ cup butter
+- 4 eggs, (room temperature)
+- ¾ cup sugar
+- ⅛ teaspoon vanilla extract
+- ¼ cup flour
+- powdered sugar, for dusting
+- ice cream, for serving
+- whipping cream, for serving
+
+Instructions:
+1. Heat oven to 375 degrees F. Melt chocolate chips and butter in a small saucepan. Set aside to cool for 10 minutes.
+2. In a separate bowl, whisk eggs and sugar together.
+3. Add vanilla and flour. Whisk until flour is well mixed in.
+4. Once the chocolate has cooled, combine it with the egg mixture.
+5. Fill 4 (7-ounce) ramekins about three-fourths full with chocolate batter. Bake for 14 minutes.
+6. Check to make sure the edges of the ramekin are cooked and the top of the cakes appear to be cooked as well.
+7. Once cooled, sprinkle the cakes lightly with powdered sugar.
+8. Serve with ice cream or whipped cream.
+
+Visible page text:
+Recipe Index » COURSE » Desserts » Carnival Chocolate Melting Cake
+We may earn a commission when you click on the affiliate links in this post.
+Have you tried the Carnival Cruise Line Warm Chocolate Melting Cake? It is the most popular dessert on the cruise. But, now you don’t have to hit the high seas to indulge in this decadent chocolate melting cake at home.
+Table of Contents
+Ingredients in Carnival Chocolate Melting Cake
+Reader Reviews of this Recipe
+Baking Tips for Chocolate Melting Cake
+Frequently Asked Questions
+More Decadent Chocolate Cake Recipes
+How To Make Carnival Chocolate Melting Cake
+Carnival Chocolate Melting Cake Recipe
+Carnival’s famous melting chocolate cake is the most popular dessert on a Carnival Cruise. The rich, chocolate cake has a warm, pudding-like chocolate center that is to die for! If you don’t believe me, see all the rave reviews from our readers in the comments below. On a Carnival cruise, I always order this decadent dessert. It is served in individual greased ramekins that are the perfect size for one serving. Our chocolate cake recipe tastes just like the original recipe (because it IS the original recipe!) but you can make it in the comfort of your own home. Top with a scoop of vanilla ice cream, a dusting of powdered sugar or whipped topping.
+This is one of the easiest chocolate desserts to make, and yet it looks and tastes super fancy! It resembles a lava cake, with a delicious melted chocolate mixture in the center. Here’s what you need:
+Dark chocolate chips – use any chocolate chips you like, but I find the dark or semi-sweet chocolate really enhances the luxurious flavor.
+Butter – melted butter, about cube and a half.
+Eggs -four large or five medium eggs. Make sure the egg mix is at room temperature before adding the next ingredients.
+Sugar – about ¾ cup white, granulated sugar
+Vanilla extract – not a lot: just ⅛ teaspoon
+Flour – a quarter cup
+Optional toppings: ice cream, whipped cream, powdered sugar, strawberries, caramel sauce, raspberries, other fresh berries, nuts.
+“Holy cannoli, this is delicious. I’m hesitant to admit that I’ve made it three times this week… but you all deserve to know. I didn’t have ramekins so I put the batter in muffin tins and reduced the time to 10 minutes. I thought it’d make for better portion sizes but my husband and I ended up eating three at a time anyways. Thank you for this life changing recipe, but darn you for making me come face to face with my lack of self control. Five stars for sure.”
+“Chocolate lovers! Hear me and make this recipe. You will not be sorry.”
+“It is the best thing I ever had ever! It is so good I had it every night on my cruise recently. I highly recommend it! Sinfully delicious! Yum!”
+Do not overbake! It is supposed to be spongy and cake-y on top but gooey and melty in the middle.
+Check, check, check . After 14 minutes, be sure to keep checking it. You don’t want it to be cake-y all the way through, nor do you want it to be too runny.
+Toothpick test. Use your good judgement for doneness because oven temps and elevations are different for everyone. If you are worried about it, keep doing the “toothpick test” every minute or so. If you put the toothpick all the way down to the bottom and the bottom half of the toothpick DOESN’T come out clean, you did it right.
+Yes! You can substitute gluten free all-purpose flour in this recipe. The rule of thumb I use is substitute the flour 1:1 and add one teaspoon of xanthan gum.
+We wouldn’t recommend it. They are much better when they are warm out of the oven.
+A melting cake or lava cake is a cake prepared in ramekins where the outer layer of the cake is baked, but the center of the cake is not set. Instead, it is a warm, hot fudge-like center.
+READ NEXT: 33+ Dessert Ideas
+Desserts
+Crockpot Lava Cake
+Dutch Oven Chocolate Raspberry Cake
+German Chocolate Upside Down Cake
+Flourless Chocolate Cake
+Carnival Chocolate Melting Cake
+Video
+Ingredients 1x 2x 3x
+▢ ¾ cup dark chocolate chips
+▢ ¾ cup butter
+▢ 4 eggs, , room temperature
+▢ ¾ cup sugar
+▢ ⅛ teaspoon vanilla extract
+▢ ¼ cup flour
+▢ powdered sugar, for dusting
+▢ ice cream, for serving
+▢ whipping cream, for serving
+Instructions
+Heat oven to 375 degrees F. Melt chocolate chips and butter in a small saucepan. Set aside to cool for 10 minutes.
+In a separate bowl, whisk eggs and sugar together.
+Add vanilla and flour. Whisk until flour is well mixed in.
+Once the chocolate has cooled, combine it with the egg mixture.
+Fill 4 (7-ounce) ramekins about three-fourths full with chocolate batter. Bake for 14 minutes.
+Check to make sure the edges of the ramekin are cooked and the top of the cakes appear to be cooked as well.
+Once cooled, sprinkle the cakes lightly with powdered sugar.
+Serve with ice cream or whipped cream.
+Equipment
+Whisk
+7 ounce Ramekins
+Sauce pan
+Notes
+You’ll need 4 (7-ounce) ramekins to make these, not a regular cake pan.
+Watch these babies closely. Do not overbake! The cake is supposed to be spongy and cakey on top but gooey and melty in the middle, the consistency of pudding, not too runny. If you put the toothpick all the way down to the bottom and the bottom half of the toothpick doesn’t come out clean, you did it right.
+Nutrition
+Nutrition information is automatically calculated, so should only be used as an approximation.
+Love this recipe?
+We want to hear from you! Please leave a review.
+Rate & Review
+Share This With the World
+Categories
+Baking
+Cakes
+Chocolate
+COPYCAT
+Copycat Desserts
+Kid Friendly
+Valentine's Day
+About the author
+Erica Walker
+Erica lives in Meridian, Idaho, with her husband, Jared, an attorney, and their three daughters. She earned her bachelor’s degree from Brigham Young University and has a passion for travel and adventure. Whether kayaking, hiking, or scuba diving, she loves exploring the world—and bringing her family along for the ride.
+Leave a comment Cancel reply
+Comments
+I was just on carnival and got the actual recipe from them by going to the chef’s table dinner. He gave some additional tips and said no vanilla it takes away from the chocolate flavor. Reply
+I was just on carnival and got the actual recipe from them by going to the chef’s table dinner. He gave some additional tips and said no vanilla it takes away from the chocolate flavor.
+The most amazing chocolate dessert I have ever had while on my cruise. I had one every evening I was on my cruise. Reply Right? It really can’t be beat! It’s so chocolate-y and delicious! Reply
+The most amazing chocolate dessert I have ever had while on my cruise. I had one every evening I was on my cruise.
+Right? It really can’t be beat! It’s so chocolate-y and delicious! Reply
+Right? It really can’t be beat! It’s so chocolate-y and delicious!
+Sounds delicious and I am going to get everything to make it later this week. I wanted to ask if I should grease the ramekins before filling them? Reply No, greasing the ramekins isn’t required for this recipe. Reply
+Sounds delicious and I am going to get everything to make it later this week. I wanted to ask if I should grease the ramekins before filling them?
+No, greasing the ramekins isn’t required for this recipe. Reply
+No, greasing the ramekins isn’t required for this recipe.
+It was absolutely delicious!!! Reply Thanks, one of my favorite desserts! Reply
+It was absolutely delicious!!!
+Thanks, one of my favorite desserts! Reply
+Thanks, one of my favorite desserts!
+I wanted to thank you for writing up this recipe. I have made this three times in a muffin tin like a comment or below mentioned. Your recipe worked perfectly at 375 degrees for 12 minutes. I made 12 baby cakes filled up 70 percent high in a silicone baking pan (silicone is necessary to pop them in one piece!). I first tried 10 minutes but that made them deflate and explode. 12 was perfect, 13 was too cakey and not custardy enough in the center. I have also refrigerated them and reheated them in the microwave – not as good, but I can only eat so much in one sitting lol! Reply
+I wanted to thank you for writing up this recipe. I have made this three times in a muffin tin like a comment or below mentioned. Your recipe worked perfectly at 375 degrees for 12 minutes. I made 12 baby cakes filled up 70 percent high in a silicone baking pan (silicone is necessary to pop them in one piece!). I first tried 10 minutes but that made them deflate and explode. 12 was perfect, 13 was too cakey and not custardy enough in the center. I have also refrigerated them and reheated them in the microwave – not as good, but I can only eat so much in one sitting lol!
+I haven’t made it yet. When I was on a cruise over 10 years ago the chef got me the recipe. I lost it. I do remember it called for 11 eggs! I remember that because it seemed an odd number. Obviously it must have been double this recipe at least. Looking forward to trying this one. Thanks. Reply
+I haven’t made it yet. When I was on a cruise over 10 years ago the chef got me the recipe. I lost it. I do remember it called for 11 eggs! I remember that because it seemed an odd number. Obviously it must have been double this recipe at least. Looking forward to trying this one. Thanks.
+Thank you Haven’t made it yet,but it sounds so straightforward I can’t wait to try it. Reply
+Thank you Haven’t made it yet,but it sounds so straightforward I can’t wait to try it.
+This is the easiest and most delicious cake we’ve ever had. A dollop of fresh whipped cream and it’s heaven. Thank you Reply
+This is the easiest and most delicious cake we’ve ever had. A dollop of fresh whipped cream and it’s heaven. Thank you
+Easy and absolutely delicious. So delicious in fact that my husband would have eaten all four portions had I not intervened 😋. Making more right now😁 Reply
+Easy and absolutely delicious. So delicious in fact that my husband would have eaten all four portions had I not intervened 😋. Making more right now😁
+I’ve made these before and they are delicious. Would it be possible to mix this ahead and put it in the ramekins and then cook them later? I would refrigerate until cooking time, of course. I want to do them for Christmas dinner but would like to be able to pop them in the oven while the main meal is being served. Reply I think that would work! Reply Hi Perry, Did you try this and did it work? Hoping to do this for Valentine’s dinner 🙂 Reply
+I’ve made these before and they are delicious. Would it be possible to mix this ahead and put it in the ramekins and then cook them later? I would refrigerate until cooking time, of course. I want to do them for Christmas dinner but would like to be able to pop them in the oven while the main meal is being served.
+I think that would work! Reply
+I think that would work!
+Hi Perry, Did you try this and did it work? Hoping to do this for Valentine’s dinner 🙂 Reply
+Hi Perry, Did you try this and did it work? Hoping to do this for Valentine’s dinner 🙂
+Don’t use chocolate chips. Invest in real chocolate bars. Carnival’s recipe from a chef’s private seating is slightly different and has 7 eggs. Reply That is great to know! Thanks so much for your tip! Reply I was given the recipe while on a cruise and I remember it having 11 eggs. I wish I hadn’t lost it. I would have had to cut it down and make less so this might be ok. I do remember it using chocolate and not chips Reply
+Don’t use chocolate chips. Invest in real chocolate bars. Carnival’s recipe from a chef’s private seating is slightly different and has 7 eggs.
+That is great to know! Thanks so much for your tip! Reply
+That is great to know! Thanks so much for your tip!
+I was given the recipe while on a cruise and I remember it having 11 eggs. I wish I hadn’t lost it. I would have had to cut it down and make less so this might be ok. I do remember it using chocolate and not chips Reply
+I was given the recipe while on a cruise and I remember it having 11 eggs. I wish I hadn’t lost it. I would have had to cut it down and make less so this might be ok. I do remember it using chocolate and not chips
+My favorite cruising dessert!!! I asked for recipe…they shared…but it was for 200!?! Reply
+My favorite cruising dessert!!! I asked for recipe…they shared…but it was for 200!?!
+I forgot to leave stars on my comment! Reply
+I forgot to leave stars on my comment!
+This recipe is right on! I had to use Nestle chocolate, which was only 53% coacoa, but they came out DELICIOUS. I am in Texas and left them in for 18 minutes- that was too long. I think for me 15 minutes would have been perfect. I was trying to wait for the top to look done, but they continue to “cook” even after you take them out. They were still amazing!!! My boys devoured, so this will be a staple in my kitchen. Thanks! Reply
+This recipe is right on! I had to use Nestle chocolate, which was only 53% coacoa, but they came out DELICIOUS. I am in Texas and left them in for 18 minutes- that was too long. I think for me 15 minutes would have been perfect. I was trying to wait for the top to look done, but they continue to “cook” even after you take them out. They were still amazing!!! My boys devoured, so this will be a staple in my kitchen. Thanks!
+The recipes doesn’t state when to add the vanilla. Luckily the video shows when to add….to the eggs and sugar prior to flour. Maybe should update recipe. Can’t wait to try! Reply Thanks for catching that! I just revised the recipe to reflect that. Reply
+The recipes doesn’t state when to add the vanilla. Luckily the video shows when to add….to the eggs and sugar prior to flour. Maybe should update recipe. Can’t wait to try!
+Thanks for catching that! I just revised the recipe to reflect that. Reply
+Thanks for catching that! I just revised the recipe to reflect that.
+Holy cannoli, this is delicious. I’m hesitant to admit that I’ve made it three times this week… but you all deserve to know. I didn’t have ramekins so I put the batter in muffin tins and reduced the time to 10 minutes. I thought it’d make for better portion sizes but my husband and I ended up eating three at a time anyways. Thank you for this life changing recipe, but darn you for making me come face to face with my lack of self control. Five stars for sure. Reply
+Holy cannoli, this is delicious. I’m hesitant to admit that I’ve made it three times this week… but you all deserve to know. I didn’t have ramekins so I put the batter in muffin tins and reduced the time to 10 minutes. I thought it’d make for better portion sizes but my husband and I ended up eating three at a time anyways. Thank you for this life changing recipe, but darn you for making me come face to face with my lack of self control. Five stars for sure.
+Can this be done with GF flour and if so, what kind would you suggest? Thanks! Reply You can substitute gluten free all-purpose flour in this recipe. The rule of thumb I use is substitute the flour 1:1 and add one teaspoon of xanthan gum. Reply
+Can this be done with GF flour and if so, what kind would you suggest? Thanks!
+You can substitute gluten free all-purpose flour in this recipe. The rule of thumb I use is substitute the flour 1:1 and add one teaspoon of xanthan gum. Reply
+You can substitute gluten free all-purpose flour in this recipe. The rule of thumb I use is substitute the flour 1:1 and add one teaspoon of xanthan gum.
+Can you cook these ahead of time and pop them in the microwave when ready to serve Reply I wouldn’t recommend it. They are much better when they are warm out of the oven. Thank you for asking! Reply Did you use all purpose flour or self rising? Reply All-purpose! Reply They are still excellent. Since it’s just my husband & me I always do this. Reply
+Can you cook these ahead of time and pop them in the microwave when ready to serve
+I wouldn’t recommend it. They are much better when they are warm out of the oven. Thank you for asking! Reply
+I wouldn’t recommend it. They are much better when they are warm out of the oven. Thank you for asking!
+Did you use all purpose flour or self rising? Reply All-purpose! Reply
+Did you use all purpose flour or self rising?
+All-purpose! Reply
+All-purpose!
+They are still excellent. Since it’s just my husband & me I always do this. Reply
+They are still excellent. Since it’s just my husband & me I always do this.
+I haven’t been on a cruise (yet!), but I have to have this cake! Thanks for sharing the recipe in such detail! Reply
+I haven’t been on a cruise (yet!), but I have to have this cake! Thanks for sharing the recipe in such detail!
+See More Comments

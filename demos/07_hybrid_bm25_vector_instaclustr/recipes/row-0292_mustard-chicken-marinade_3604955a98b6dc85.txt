@@ -1,0 +1,67 @@
+Mustard Chicken Marinade
+========================
+
+Recipe Metadata
+---------------
+Recipe ID: 3604955a98b6dc85
+CSV row number: 292
+Recipe name: Mustard Chicken Marinade
+Source: heatherdisarro.com
+URL: https://www.heatherdisarro.com/mustard-chicken-marinade
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01d42011787b6f61b8e8012a48d703cf0cd35991736739d0b6d947e917d451ce/21117891.jpg
+Servings: 6
+Calories: 1542.22
+Diet labels: Low-Carb
+Health labels: Vegan, Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Mustard Chicken Marinade
+source: heatherdisarro.com
+url: https://www.heatherdisarro.com/mustard-chicken-marinade
+servings: 6
+calories: 1542.221134166667
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01d42011787b6f61b8e8012a48d703cf0cd35991736739d0b6d947e917d451ce/21117891.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Vegan","Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+I can’t tell you how many times over the past months I’ve just wished for fall to get here already so that I could start enjoying the cool mornings, dry – but warm – days, and the chilly evenings. While I live in shorts and T-shirts almost year-round, I can’t help but be a little excited about fall clothes as well.
+P.S. I have a gift card that my sweet sister got me for Christmas for Lululemon that I haven’t used yet. I’m thinking I may go for a top, like a hoodie or something. Any recommendations? If I’m going to spend the money on it I want to make sure that I can wear it ALL the time!
+Anyway, the one thing that I’m not excited about with the cooler weather is that grilling will happen less and less the colder it gets. There’s just so much flavor in grilled food that screams the comfort of these lingering summer months! And while we’re doing our Whole30 challenge I can’t use my usual go-to marinade that’s packed with brown sugar (YUM), so I had to find a flavorful alternative and y’all? This is IT. It’s based off of my favorite Champagne shallot vinaigrette , and I use half to marinate and half as a sauce for the finished product. It’s tangy and mustard-y and just so good with that outdoor grilled flavor!
+Y’all enjoy!
+MUSTARD CHICKEN MARINADE
+Ingredients:
+1/2 cup red wine vinegar
+1/4 cup Dijon mustard
+1 shallot, minced
+1 clove garlic, minced
+salt and freshly ground pepper
+3/4 cup olive oil
+Directions:
+Combine all ingredients in a high-speed blender or food processor and pulse until completely combined; there should be no chunks from the shallot or garlic.
+Pour 1/2 of the marinade mixture into a gallon-size plastic bag.
+Add 1-2 pounds of chicken – breasts, tenders, thighs, etc. – and seal the bag.
+Refrigerate for 3-4 hours or overnight.
+When ready to grill, preheat grill over medium heat.
+Grill until the chicken is done; for breasts I usually grill for about 6 minutes per side, but to be sure you should check with a meat thermometer to insure that the internal temperature is 165ºF.
+Let the chicken rest for about 5 minutes before serving; serve with the remainder of the marinade (the part that wasn’t used to marinate the raw chicken) as a sauce.
+Enjoy!
+Subscribe for the latest.
+Leave a Reply Cancel reply
+This site uses Akismet to reduce spam. Learn how your comment data is processed .
+You might also like…

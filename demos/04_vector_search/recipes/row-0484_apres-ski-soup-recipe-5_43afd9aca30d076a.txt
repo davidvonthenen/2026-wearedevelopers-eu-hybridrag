@@ -1,0 +1,166 @@
+"Apres-Ski" Soup Recipe 5
+=========================
+
+Recipe Metadata
+---------------
+Recipe ID: 43afd9aca30d076a
+CSV row number: 484
+Recipe name: "Apres-Ski" Soup Recipe 5
+Source: Taste of Home
+URL: http://www.tasteofhome.com/Recipes/-Apres-Ski--Soup
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/032afef43ea5216a87c84c5936560674c70b3fb0f1d6744b0ebf4ee64e25e5cb/21109882.jpg
+Servings: 6
+Calories: 556.57
+Diet labels: none listed
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: soup
+
+Original CSV Fields
+-------------------
+recipe_name: "Apres-Ski" Soup Recipe 5
+source: Taste of Home
+url: http://www.tasteofhome.com/Recipes/-Apres-Ski--Soup
+servings: 6
+calories: 556.5666729156252
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/032afef43ea5216a87c84c5936560674c70b3fb0f1d6744b0ebf4ee64e25e5cb/21109882.jpg
+diet_labels: []
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["soup"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: &#8220;Apres-Ski&#8221; Soup
+
+Description: Apres ski, French for "after skiing," refers to the social time directly after getting off the slopes, and this microwave soup is perfect for the occasion. Chock full of healthy veggies, this one will warm you from head to toe. &mdash;Nancy Hamlin, Littleton, Colorado
+
+Recipe category: ['Lunch']
+
+Recipe cuisine: Europe, Italian
+
+Yield: 6 servings (1-1/2 qt.)
+
+Prep time: PT10M
+
+Cook time: PT20M
+
+Total time: PT30M
+
+Ingredients:
+- 1 tablespoon butter
+- 1-1/4 cups cubed acorn squash
+- 1 carrot, thinly sliced
+- 1 medium leek (white portion only), thinly sliced
+- 3 cans (14-1/2 ounces each) reduced-sodium chicken broth
+- 1 small zucchini, halved and sliced
+- 1/2 cup uncooked elbow macaroni
+- 1 bay leaf
+- 1/2 teaspoon dried basil
+- 1/4 teaspoon dried thyme
+- 1/8 teaspoon salt
+- 1/8 teaspoon pepper
+
+Instructions:
+1. Place butter in a 3-qt. microwave-safe bowl; microwave on high for 15-20 seconds or until melted. Add squash, carrot and leek; stir to coat. Cook, covered, on high for 6 minutes.
+2. Stir in remaining ingredients; cook, covered, on high for 12-14 minutes or until vegetables and macaroni are tender, stirring twice. Remove bay leaf.
+
+Visible page text:
+“Apres-Ski” Soup
+By Taste Of Home Editorial Team
+Recipe by Nancy Hamlin, Littleton, Colorado
+Tested by Taste of Home Test Kitchen
+Taste of Home's Editorial Process
+Updated on Sep. 25, 2022
+Apres ski, French for "after skiing," refers to the social time directly after getting off the slopes, and this microwave soup is perfect for the occasion. Chock full of healthy veggies, this one will warm you from head to toe. —Nancy Hamlin, Littleton, Colorado
+Ingredients
+1 tablespoon butter
+1-1/4 cups cubed acorn squash
+1 carrot, thinly sliced
+1 medium leek (white portion only), thinly sliced
+3 cans (14-1/2 ounces each) reduced-sodium chicken broth
+1 small zucchini, halved and sliced
+1/2 cup uncooked elbow macaroni
+1 bay leaf
+1/2 teaspoon dried basil
+1/4 teaspoon dried thyme
+1/8 teaspoon salt
+1/8 teaspoon pepper
+Directions
+1 Place butter in a 3-qt. microwave-safe bowl; microwave on high for 15-20 seconds or until melted. Add squash, carrot and leek; stir to coat. Cook, covered, on high for 6 minutes.
+2 Stir in remaining ingredients; cook, covered, on high for 12-14 minutes or until vegetables and macaroni are tender, stirring twice. Remove bay leaf.
+Nutrition Facts
+We are no longer supporting IE (Internet Explorer) as we strive to provide site experiences for browsers that support new web standards and security practices.
+We recommend our users to update the browser.
+Google Chrome
+Apple Safari
+Mozilla Firefox
+Microsoft Edge
+Recipes More Items SEE ALL RECIPES Cooking Gear & Gadgets Cuisines Cooking Styles Dishes & Beverages Health & Wellness Holidays & Events Ingredients Meal Types Techniques
+SEE ALL RECIPES
+Cooking Gear & Gadgets
+Cuisines
+Cooking Styles
+Dishes & Beverages
+Health & Wellness
+Holidays & Events
+Meal Types
+Techniques
+Contests
+News More Items SEE ALL NEWS People in Food Grocery Stores New Products Recalls Restaurants Trends
+SEE ALL NEWS
+People in Food
+Grocery Stores
+New Products
+Recalls
+Restaurants
+Trends
+Health & Wellness More Items SEE ALL HEALTH & WELLNESS Healthy Eating Healthy Lifestyle Tips Nutrition Tips
+SEE ALL HEALTH & WELLNESS
+Healthy Eating
+Healthy Lifestyle Tips
+Nutrition Tips
+Holidays & Events More Items SEE ALL HOLIDAYS & EVENTS Christmas Easter Halloween St. Patrick’s Day
+SEE ALL HOLIDAYS & EVENTS
+Christmas
+Easter
+Halloween
+St. Patrick’s Day
+Home & Living More Items SEE ALL HOME & LIVING Cleaning & Organizing Entertaining & Hosting Family & Parenting Grocery Shopping Home Decor Outdoor Living Travel
+SEE ALL HOME & LIVING
+Cleaning & Organizing
+Entertaining & Hosting
+Family & Parenting
+Grocery Shopping
+Home Decor
+Outdoor Living
+Travel
+Stuff We Love
+Test Kitchen More Items SEE ALL TEST KITCHEN Cooking Gear & Gadgets How To Meal Planning Taste Tests Test Kitchen Tips
+SEE ALL TEST KITCHEN
+How To
+Meal Planning
+Taste Tests
+Test Kitchen Tips
+Videos
+Submit a Recipe
+Newsletters
+Follow Us More Items Facebook Pinterest Instagram Twitter Feedly
+Facebook
+Pinterest
+Instagram
+Twitter
+Feedly
+Subscribe
+Shop
+Log In / Join
+Recipe Box

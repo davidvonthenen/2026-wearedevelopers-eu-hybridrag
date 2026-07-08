@@ -1,0 +1,127 @@
+Roast Chicken with Carrots
+==========================
+
+Recipe Metadata
+---------------
+Recipe ID: cae16c60c7bc75a7
+CSV row number: 176
+Recipe name: Roast Chicken with Carrots
+Source: Simply Recipes
+URL: https://www.simplyrecipes.com/recipes/roasted_chicken_with_carrots
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0115568f92a9c2a1e40069252f539b86cfe5bb348c32dd8d50ce782d6fb837ef/20987333.jpg
+Servings: 4
+Calories: 4549.80
+Diet labels: High-Fiber, Low-Carb
+Health labels: Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: french
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Roast Chicken with Carrots
+source: Simply Recipes
+url: https://www.simplyrecipes.com/recipes/roasted_chicken_with_carrots
+servings: 4
+calories: 4549.801624672875
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0115568f92a9c2a1e40069252f539b86cfe5bb348c32dd8d50ce782d6fb837ef/20987333.jpg
+diet_labels: ["High-Fiber","Low-Carb"]
+health_labels: ["Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["french"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Roast Chicken with Carrots
+
+Description: A show-stopping main dish for a weekend or a holiday.
+
+Recipe category: ['Dinner', 'Carrot', 'Chicken', 'Chicken Roast']
+
+Recipe cuisine: ['American']
+
+Yield: 4
+
+Prep time: PT15M
+
+Cook time: PT85M
+
+Total time: PT100M
+
+Ingredients:
+- Whole fryer chicken, 3 1/2 to 4 pounds, preferably organic or kosher, wingtips removed
+- Salt
+- Freshly ground black pepper
+- 1 lemon, halved or quartered
+- 1 bunch fresh thyme
+- 10 cloves garlic, peeled
+- 8 carrots, peeled, trimmed and halved crosswise
+- 1 to 1½ cups chicken stock
+- 4 tablespoons extra virgin olive oil
+- 1 tablespoon red wine vinegar, more to taste
+
+Instructions:
+1. Preheat the oven to 425°F (220°C).
+2. Rinse chicken and pat dry with paper towels. Season well with salt and pepper. Stuff with lemon, thyme and half of the garlic cloves.
+3. Using butcher&#39;s string, secure the wings and legs to the body.
+4. Place the chicken in a small roasting pan or large, deep, oven-proof heavy skillet. Surround with the carrots and remaining garlic, then add 1 cup of chicken stock. Drizzle with olive oil.
+5. Place the chicken in the oven at 425°F (220°C). Roast until chicken is golden and carrots are well caramelized, 1 1/4 to 1 1/2 hours, basting with broth and pan juices every 15 minutes for the first 45 minutes. Add more stock if the pan looks dry.
+6. Transfer the chicken, carrots, and garlic to a platter. Discard the twine, thyme, and lemon, and let the chicken rest for 10 to 15 minutes.
+7. Skim fat from pan juices and discard. Add 1 tablespoon vinegar to remaining pan juices, taste and add more to taste. Serve over the chicken.
+
+Visible page text:
+Recipes
+Dinners
+Family Dinners
+Roast Chicken with Carrots
+A show-stopping main dish for a weekend or a holiday.
+Whole roast chicken makes such a lovely presentation for dinner, doesn't it? Whether it's for guests or an easy weeknight family meal.
+This roast chicken recipe takes little time to prep and then into the oven it goes. Stuff the chicken with lemon, garlic, and thyme. If you want, truss it for a more attractive presentation. Put the chicken in an oven-proof skillet (a cast iron pan works well for this) surrounded by carrots and garlic.
+Roast the chicken at high heat, basting every 15 minutes or so with the pan juices. Easy!
+The extra broth in the pan and the frequent basting help keep the chicken from drying out.
+The recipe comes, barely adapted, from one we found in the Wall St. Journal years ago, by Orange County restauranteur Liza Goodell.
+Want even juicier chicken? Try brining it overnight before roasting.
+The Perfect Sides for Roast Chicken
+Perfect Mashed Potatoes
+French Green Beans With Butter and Herbs
+Sourdough Dinner Rolls
+Rice Pilaf
+Butternut Squash Apple Cranberry Bake
+Whole fryer chicken , 3 1/2 to 4 pounds, preferably organic or kosher, wing tips removed
+Kosher salt
+Freshly ground black pepper
+1 lemon , halved or quartered
+1 bunch fresh thyme
+10 cloves garlic , peeled
+8 carrots , peeled, trimmed and halved crosswise
+1 to 1 1/2 cups chicken stock
+4 tablespoons extra virgin olive oil
+1 tablespoon red wine vinegar , more to taste
+Preheat the oven to 425°F (220°C).
+Season and stuff the chicken: Rinse chicken and pat dry with paper towels. Season well with salt and pepper. Stuff with lemon, thyme and half of the garlic cloves. Sally Vargas
+Rinse chicken and pat dry with paper towels. Season well with salt and pepper. Stuff with lemon, thyme and half of the garlic cloves.
+Truss the chicken: Using butcher's string, secure the wings and legs to the body. Sally Vargas Sally Vargas Sally Vargas How to Truss a Chicken or Turkey READ MORE:
+Using butcher's string, secure the wings and legs to the body.
+Place the chicken in a pan or skillet: Place the chicken in a small roasting pan or large, deep, oven-proof heavy skillet. Surround with the carrots and remaining garlic, then add 1 cup of chicken stock. Drizzle with olive oil. Sally Vargas
+Place the chicken in a small roasting pan or large, deep, oven-proof heavy skillet. Surround with the carrots and remaining garlic, then add 1 cup of chicken stock. Drizzle with olive oil.
+Roast the chicken: Place the chicken in the oven at 425°F (220°C). Roast until chicken is golden and carrots are well caramelized, 1 1/4 to 1 1/2 hours, basting with broth and pan juices every 15 minutes for the first 45 minutes. Add more stock if the pan looks dry. Simple Tip! If you are using a convection oven, start at 425°F (220°C) then reduce to 375°F (190°C) after the first 15 minutes.
+Place the chicken in the oven at 425°F (220°C).
+Roast until chicken is golden and carrots are well caramelized, 1 1/4 to 1 1/2 hours, basting with broth and pan juices every 15 minutes for the first 45 minutes. Add more stock if the pan looks dry.
+Simple Tip!
+If you are using a convection oven, start at 425°F (220°C) then reduce to 375°F (190°C) after the first 15 minutes.
+Let the chicken rest: Transfer the chicken, carrots, and garlic to a platter. Discard the twine, thyme, and lemon, and let the chicken rest for 10 to 15 minutes.
+Transfer the chicken, carrots, and garlic to a platter. Discard the twine, thyme, and lemon, and let the chicken rest for 10 to 15 minutes.
+Add vinegar to the pan juices: Skim fat from pan juices and discard. Add 1 tablespoon vinegar to remaining pan juices, taste and add more to taste. Serve over the chicken.
+Skim fat from pan juices and discard. Add 1 tablespoon vinegar to remaining pan juices, taste and add more to taste. Serve over the chicken.
+Roast Chicken
+Carrots
+Garlic
+Passover

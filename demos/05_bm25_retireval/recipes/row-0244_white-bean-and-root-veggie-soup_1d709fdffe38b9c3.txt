@@ -1,0 +1,93 @@
+White Bean and Root Veggie Soup
+===============================
+
+Recipe Metadata
+---------------
+Recipe ID: 1d709fdffe38b9c3
+CSV row number: 244
+Recipe name: White Bean and Root Veggie Soup
+Source: gardenfreshfoodie.com
+URL: http://www.gardenfreshfoodie.com/soups-stews/white-bean-and-root-veggie-soup/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/018579dc9e423b03f07c417a60dd99fdb6d32aa789a85d7a39f7fea1227c085c/21135497.jpg
+Servings: 8
+Calories: 1374.59
+Diet labels: High-Fiber, Low-Fat
+Health labels: Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: soup
+
+Original CSV Fields
+-------------------
+recipe_name: White Bean and Root Veggie Soup
+source: gardenfreshfoodie.com
+url: http://www.gardenfreshfoodie.com/soups-stews/white-bean-and-root-veggie-soup/
+servings: 8
+calories: 1374.589579657931
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/018579dc9e423b03f07c417a60dd99fdb6d32aa789a85d7a39f7fea1227c085c/21135497.jpg
+diet_labels: ["High-Fiber","Low-Fat"]
+health_labels: ["Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["soup"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+We picked up my final winter veggie share the other day. In it, we received some beautiful onions, parsnips, and celeriac. For those of you unfamiliar with celeriac, it’s the root of the celery plant, and has the flavor of celery, with the creaminess of a potato. This soup is actually very much like a potato leek soup, however, the flavors are more mellow. I augmented the soup with leeks that I had from my garden, this past fall. I harvest the leeks, chop, clean (they can be quite dirty), and freeze them to be added to soups and stews throughout the winter. This was my last bag of leeks. I’m not fretting, because, today I’m planting my seeds for this year’s coming garden. Thoughts of spring inspired me to begin to use up this year’s harvest, before next season is upon us! Because my root veggies are local and organic, I believe their taste is far superior to that I would have found in a store. My veggies come from a local CSA called the Root Down Farm, how appropriate to be featured in a root veggie soup, right? I love combining a variety of root veggies into a soup. Celeriac, parsnips, carrots, and potatoes all blend beautifully together. Their addition with the allium root family-onions and garlic, blend wonderfully for a hardy celebration of winter’s end. Any who doesn’t want to celebrate that?!
+The herbs used in this are from my garden as well. Thyme is so hardy, I can go and harvest it now! Rosemary is not as hardy in our winters, but this rosemary was harvested very late in the fall, and dried. The picture below was taken when the herbs were freshly harvested. If you have only dried herbs and a recipe calls for fresh, the rule of thumb is use 1/3 the amount of dried to fresh. For example, if a recipe calls for 1 tbsp of fresh thyme, use 1 tsp dried. This is because dried varieties have less moisture, and therefore more concentrated flavor, as well as take up less volume. Experiment with the amounts you like in various recipes by starting small, and adding as desired. It’s easier to go up in flavor, but you can’t go back!
+Root veggies are traditional winter crops because they are storage crops. Roots are the part of the plant where sugars are stored. Because of this, root veggies are sweet, but also creamy. The storage form of sugar in a plant is starch, a complex sugar molecule. As they’re cooked, the sugars begin to break down, and come out of the food, creating a natural creamy texture without the fat of cream! By pureeing the soup, you get a uniform creamy texture that you wouldn’t get without pureeing. You can eat the soup as a broth-based soup and skip the pureeing, but I like it MUCH better pureed. A stick blender works just fine for the task, however, a regular blender will make the soup even more silky smooth.
+Traditionally, around this time of year, potatoes can be found in many soups and stews. In honoring St. Patrick’s Day, feel free to swap out the celeriac for potato. You might need to up your celery for additional flavor if doing so. One extra suggestion, add some fresh greens to the mix. In many parts of the country, greens have begun growing (not yet here, but VERY soon!). Always add your greens in at the last moment before eating. This helps you to maximize their nutritional value, as well as preserving their vibrant color. Once greens get cooked for too long, they dull in both color and nutrition. They only need to be heated to the point of wilting. Another idea, is that you can add greens to a bowl, and then dump the hot soup on top of them. They’ll wilt naturally! PS-hint hint, add greens to everything you eat! They’re SOOO good for you! Packed with iron, calcium, protein, fiber, Vitamin K, A, and C! Hello greens!
+Try these root inspired dishes for your celebrations in the month of March! There’s St. Patty’s Day and Easter in there-so try out a bunch!
+Indian Sweet Potato Pancakes
+White Bean Sage Soup
+Sage Roasted Root Veggies
+Cabbage Soup (while not a root, it’s a storage crop, and so yummy!)
+Ingredients:
+1 cup small diced onion
+1 cup well-cleaned small diced leek
+1 tbsp fresh rosemary, or 1 1/2 tsp crushed dried rosemary
+1 tbsp fresh thyme, or 1 tsp dried
+1/4 tsp ground pepper (plus more for seasoning)
+1 1/4 tsp kosher salt
+2 tbsp minced garlic
+2 bay leaves
+4 cups cooked cannellini beans (we used 2 cups dried cannellini beans, soaked overnight and cooked in a pressure cooker for 11 minutes, can reserve cooking liquid to use in place of water) or use 2 cans rinsed and drained)
+1 cup chopped celery
+1 1/2 cups peeled and chopped celeriac (celery root), if you can’t find, increase amount of parsnips by same amount or use white potatoes
+1 cup chopped & peeled parsnips
+6 cups of water
+1/2 tsp smoked paprika
+3-4 cups fresh greens stirred into soup after pureed (we used spinach)
+1-2 tbsp freshly squeezed lemon juice (to taste)
+Top with fresh parsley for serving
+Instructions:
+Place leeks, onion, dried/fresh herbs, garlic, salt, and pepper into a soup pot, along with a few tablespoons of water. Heat until onions have softened, adding additional water to prevent sticking.
+Add remaining veggies, water, and paprika and cook until all veggies have softened, about 20-30 minutes
+Puree all of the soup using either a stick blender (smooth, but still has chunks), or working in batches in a blender (silky texture).
+Season with fresh lemon juice, additional salt/pepper, and stir in greens right before serving.
+For serving, stir in fresh parsley. Soup goes great with a massaged kale salad with lentils, shown below. Or a rice salad and fresh greens.
+Nutritional Benefits:
+Good source of protein, 8 g-great for healing and repairing tissues
+Great source of fiber, 9.4 g!: important for digestive health, lowering blood pressure, regulating blood sugar
+Great source of potassium-important for heart health, kidney and nervous system function
+Good source of Vitamin A-important antioxidant for bone, dental, eye, and skin health
+Goof source of plant-based iron, 15% DV, important for oxygenation of blood
+Good source of plant-based calcium, better absorbed by the body, 10% DV, important for bone and dental health
+1 tbsp fresh rosemary, or 1½ tsp crushed dried rosemary
+¼ tsp ground pepper (plus more for seasoning)
+1¼ tsp kosher salt
+1½ cups peeled and chopped celeriac (celery root), if you can’t find, increase amount of parsnips by same amount or use white potatoes
+½ tsp smoked paprika
+Comments
+This White Bean and Root vegetable Soup is just delicious!!! Thanks Jessica!!! I would absolutely love it, if you’d consider putting together a recipe book we can purchase. Thanks Genevive! So glad you liked it! I am thinking about how to make a book, and will let you know! I appreciate the encouragement!
+This White Bean and Root vegetable Soup is just delicious!!! Thanks Jessica!!! I would absolutely love it, if you’d consider putting together a recipe book we can purchase.
+Thanks Genevive! So glad you liked it! I am thinking about how to make a book, and will let you know! I appreciate the encouragement!
+About Me
+Hi! I'm Jessica, the author, creator, and photographer of Garden Fresh Foodie! I'm a certified plant-based chef, and have a certification in plant-based nutrition. I am a passionate educator, and have taught science, community gardening, and food education for the last 17 years. I now combine my passion for cooking & gardening with my passion for teaching healthy cooking classes in Buffalo, NY. Read More…

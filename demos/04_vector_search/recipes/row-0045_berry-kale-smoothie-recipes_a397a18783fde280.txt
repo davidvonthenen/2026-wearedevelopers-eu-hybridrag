@@ -1,0 +1,154 @@
+Berry Kale Smoothie recipes
+===========================
+
+Recipe Metadata
+---------------
+Recipe ID: a397a18783fde280
+CSV row number: 45
+Recipe name: Berry Kale Smoothie recipes
+Source: couponingfor4.net
+URL: http://www.couponingfor4.net/easy-berry-kale-smoothie-recipe/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/003c88114bc6f04304c6fed693d56b8c8eeea3bbf82b4cfd58331e65a8d00924/21108191.jpeg
+Servings: 4
+Calories: 252.20
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites, FODMAP
+Cuisine type: american
+Meal type: breakfast
+Dish type: drinks
+
+Original CSV Fields
+-------------------
+recipe_name: Berry Kale Smoothie recipes
+source: couponingfor4.net
+url: http://www.couponingfor4.net/easy-berry-kale-smoothie-recipe/
+servings: 4
+calories: 252.2
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/003c88114bc6f04304c6fed693d56b8c8eeea3bbf82b4cfd58331e65a8d00924/21108191.jpeg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites","FODMAP"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["drinks"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Easy Berry Green Smoothie
+
+Description: This Easy Berry Green Smoothie is going to be a new favorite for the whole family! With no added sugars and natural sweetness, this is a great way to satisfy your sugar cravings!
+
+Recipe category: Anyone Can Cook
+
+Recipe cuisine: American
+
+Yield: 2
+
+Prep time: PT7M
+
+Total time: PT10M
+
+Ingredients:
+- 1/2 cup blueberries
+- 1/2 cup strawberries
+- 1/2 cup bananas sliced
+- 1 cup kale (stems removed)
+- 1 cup ice
+- 1 cup orange juice
+
+Instructions:
+1. Wash and slice your strawberries and blueberries.
+2. Peel and slice your banana.
+3. Wash the kale and remove the stems. Slice it into pieces for easier blending.
+4. Blend the strawberries, blueberries, banana, and orange juice together.
+5. Add and blend your kale.
+6. Add the ice cubes and blend. Enjoy!
+
+Visible page text:
+This Easy Berry Green Smoothie is going to be a new favorite for the whole family! With no added sugars and natural sweetness, this is a great way to satisfy your sugar cravings!
+Kale Berry Smoothie
+My easy Berry Green Smoothie recipe is about to change your life. One of the biggest issues that I’ve had as a mom is getting vegetables into my children’s diet and this great smoothie is a game-changer.
+I’ve never had a problem feeding either of my children fruit. Raspberries, strawberries, bananas, melon – they’re all acceptable and eaten at dinner. My daughter will eat most vegetables as well, but my son is a different story. If it looks funny, smells funny, or tastes funny, that’s the end of the discussion.
+This is a great smoothie because it has hidden veggies. With a deep red color from the combination of berries, the kale mixes in undetected. And with no additional sweetener, you can feel good about the amount of sugar you’re giving your family.
+There are lots of hidden health benefits to fruit smoothies. Between the sweet fruit and kale, you are getting good helpings of Vitamin C, Vitamin A, beta-carotene, and powerful antioxidants.
+Whether you are looking for the perfect snack or something for first thing in the morning, this easy smoothie is full of simple ingredients that may already be on your shopping list. Bright and refreshing, everyone is going to love strawberry blueberry kale smoothie recipe!
+Can I Add Some Protein To The Smoothie Ingredients?
+Yes! Many healthy smoothie recipes include a source of protein, so whether you’re looking for a boost in your afternoon snack or during breakfast, you can add chia seeds, hemp protein powder, flax seeds, or even peanut butter. These will put some extra nutrients into your healthy green smoothie.
+Recipe Notes:
+Make sure that you have sliced off the hard kale stem are only using the kale leaves. If you don’t, even after blending, you may have some hard pieces floating in your mixed berry smoothie.
+If you want less liquid in your delicious smoothie, cut the fruit juice in half.
+I like to serve this to my kids in a glass jar or a mason jar so that they can see their special drink.
+How To Make This Berry Green Smoothie Recipe
+Ingredients: 1/2 cup blueberries 1/2 cup strawberries 1/2 cup bananas, sliced 1 cup kale (stems removed) 1 cup ice 1 cup orange juice
+Directions:
+Wash your fresh strawberries, fresh blueberries, and kale under cold water.
+Take out a cutting board and a sharp knife. De-stem your fresh berries and slice the fresh fruit into pieces.
+Fold your fresh kale in half and slice off the kale stem.
+Grab your blender and add the strawberries, banana pieces, blueberries, and orange juice. Blend them together.
+Add your kale and blend. You want to add this separately (if you are trying to hide the veggies) so that you can monitor how dark the leafy greens make the smoothie. You can always add more, so add the greens slowly.
+*Note – if you feel like the smoothie is suddenly too brown in color (because of the amount of kale added) and this bothers you, add some extra berries to brighten it up.
+Add your ice cubes to the blender and blend until everything is smooth. Serve immediately and enjoy!
+Can I Turn This Into A Spinach Berry Smoothie?
+Yes! To turn this into a berry spinach smoothie recipe, add a handful of spinach to your refreshing smoothie instead of kale. You’ll want to use fresh spinach instead of frozen, but other than that, it should be an easy swap.
+Can I Turn This Into A Creamy Smoothie?
+Yes! If you want to give this healthy smoothie a creamy texture, you definitely can. Take the orange juice out of the combination and turn it into a regular milk, coconut milk, almond milk, soy milk, or Greek yogurt smoothie.
+If you want to include the orange juice in the combination, make sure that the orange juice and milk you use are the same temperature to keep the milk from curdling.
+Can I Make This Green Smoothie With Frozen Fruit?
+Yes! If you keep some mixed berries in the freezer, you can definitely use them here. Whether you have blackberries or raspberries included – any combination of frozen berries will be fine, so go with the kinds of berries you have on hand. You can also use frozen banana instead of fresh if you have some.
+Are You Looking For More Delicious Berry Recipes ? Here Are Some Of My Favorites:
+Raspberry Blackberry Smoothie
+Blueberry Crumble Bars
+Raspberry Shortbread Cookies with Lemon Glaze
+Mixed Berry Jello Poke Cake
+Easy Peach Blueberry Crisp
+Ninja QB3001SS Fit Compact Personal Blender, Pulse Technology, 700-Watts, for Smoothies, Frozen Blending, Ice Crushing, Nutrient Extraction*,Food Prep & More, (2) 16-oz. To-Go Cups & Spout Lids, Black Oster Blender | Pro 1200 with Glass Jar, 24-Ounce Smoothie Cup, Brushed Nickel Metal Straw Reusable 8.5 Gorilla Grip Reversible, Oversized, Thick Cutting Board Set of 3, Easy Grip Handle, Deep Juice Grooves, Slip Resistant, Large Kitchen Chopping Boards for Meat, Veggies, Fruits, Dishwasher Safe, Black Flexible Plastic Cutting Board Mats set, Colorful Kitchen Cutting Board Set of 3 Colored Mats Strawberry Huller Fruit Slicer Set, Berry Stem Leaves Huller Gem Remover Removal Fruit Peeling Tool Kitchen Accessories Corer Easy for Remove Strawberry Tomatoes and Stem Tool (1PCS)
+Ingredients
+1/2 cup blueberries
+1/2 cup strawberries
+1/2 cup bananas sliced
+1 cup kale (stems removed)
+1 cup ice
+1 cup orange juice
+Instructions
+Wash and slice your strawberries and blueberries.
+Peel and slice your banana.
+Wash the kale and remove the stems. Slice it into pieces for easier blending.
+Blend the strawberries, blueberries, banana, and orange juice together.
+Add and blend your kale.
+Add the ice cubes and blend. Enjoy!
+Recommended Products
+As an Amazon Associate and member of other affiliate programs, I earn from qualifying purchases.
+Chef'n Original Stem Gem Strawberry Huller, Red/Green -
+Flexible Plastic Cutting Board Mats, Set of 6, Textured, 6 Vivid, Translucent Colors by Better Kitchen Products
+Ninja BL480 Nutri Ninja with 1000 Watt Auto-IQ Base for Juices, Shakes & Smoothies Personal Blender 18 and 24 oz. Black/Silver
+Nutrition Information:
+Yield:
+Serving Size:
+This calculation is intended for informational purposes only. I am not a doctor or dietician. This calculator is a guide, but makes no guarantee of being exact or fully accurate.
+Add these to your weekly meal plan:
+Like the cheesecake factory stuffed mushrooms recipe , mine are tasty.
+An ore ida tater tot casserole is a delicious option.
+This egg pasta salad is a great vegetarian option.
+My breakfast bowl is delicious with an avocado fal .
+Make some doritos chicken for dinner or lunch.
+This is how frying cinnamon rolls turns into a snack.
+If you’re wondering how to cook bacon wrapped pork chops , here’s the answer.
+Everyone loves frozen cup cakes .
+You can make a crescent roll taco for each member of the family.
+My frozen carrots recipe will have you with a side dish in minutes.
+Related Posts:
+Easy Banana Pudding Trifle
+Easy Cheesecake Frosted Banana Bars
+Meatball Kale Soup With Couscous
+The Best Sugar Cookie Fruit Pizza
+Frozen Chocolate Covered Banana Bites
+Nutella Banana Cheesecake Egg Rolls
+Frozen Chocolate Covered Banana Treats
+Leave a Reply Cancel reply
+Privacy Overview

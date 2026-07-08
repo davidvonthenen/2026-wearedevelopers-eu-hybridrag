@@ -1,0 +1,101 @@
+Herbed porterhouse with roasted kipfler wedges
+==============================================
+
+Recipe Metadata
+---------------
+Recipe ID: 7c5bfadef3fc1192
+CSV row number: 367
+Recipe name: Herbed porterhouse with roasted kipfler wedges
+Source: womensweeklyfood.com.au
+URL: https://www.womensweeklyfood.com.au/recipes/herbed-porterhouse-with-roasted-kipfler-wedges-11228
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02586905d3ae55864c01bf6d11118044a459e9714a6f134d42d36c089d4c6ccc/21093086.jpg
+Servings: 4
+Calories: 6250.62
+Diet labels: High-Fiber, Low-Carb
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: french
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Herbed porterhouse with roasted kipfler wedges
+source: womensweeklyfood.com.au
+url: https://www.womensweeklyfood.com.au/recipes/herbed-porterhouse-with-roasted-kipfler-wedges-11228
+servings: 4
+calories: 6250.616353661004
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02586905d3ae55864c01bf6d11118044a459e9714a6f134d42d36c089d4c6ccc/21093086.jpg
+diet_labels: ["High-Fiber","Low-Carb"]
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["french"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Herbed porterhouse with roasted kipfler wedges
+
+Yield: 4
+
+Prep time: PT0M
+
+Cook time: PT30M
+
+Total time: PT30M
+
+Ingredients:
+- 1/2 cup (35g) stale breadcrumbs
+- 1 tablespoon finely chopped fresh chives
+- 2 tablespoon finely chopped fresh flat-leaf parsley
+- 2 teaspoon wholegrain mustard
+- 1/4 cup (60ml) olive oil
+- 4 porterhouse steaks
+- 1 kilogram kipfler potatoes, scrubbed, quartered lengthways
+- 1/2 cup (125ml) dry red wine
+- 2 teaspoon cornflour
+- 3/4 cup (180ml) beef stock
+- 2 tablespoon coarsely chopped fresh chives
+
+Instructions:
+1. Combine breadcrumbs, finely chopped chives, parsley, mustard and 2 tsp of the oil in a small bowl.
+2. Brush steaks all over with a little of the remaining oil. Divide herb mixture among steaks, pressing firmly onto one side only. Refrigerate on tray, herbed-side up, for 10 minutes.
+3. Preheat oven to 220°C.
+4. In a single layer, place potato in a medium shallow baking dish. Drizzle with 1 tbsp of the remaining oil. Roast, uncovered, about 25 minutes or until browned and crisp.
+5. Meanwhile, heat remaining oil in a large frying pan. Cook steaks herbed-side down first. Brown both sides until cooked as desired. Remove from pan and cover to keep warm.
+6. Place wine in same pan and stir until it comes to a boil. Boil 2 minutes, then add blended cornflour and stock. Stir until sauce boils and thickens slightly, then stir in coarsely chopped chives. Serve steaks and potatoes with sauce.
+
+Visible page text:
+Search
+Baking
+Dinner ideas
+Air fryer
+Test Kitchen
+Lifestyle
+Children’s Birthday Cake Book
+Ingredients
+Method
+Trusted by home cooks for 90 years, The Australian Women’s Weekly’s Test Kitchen and cookbooks hold a singular place in shaping home cooking within the Australian culinary landscape. Today, the AWW Test Kitchen in Sydney is a thriving hub for food content, connected to two bustling photographic studios where a talented team of Australia’s best recipe developers, art directors, editors and photographers create our world class food content. Our recipes are thoroughly tested and tasted and given the Test Kitchen tick of approval, guaranteeing you’ll get great results in your home kitchen.
+Related stories
+74 freezer-friendly meals
+Native ad body.
+Julie Goodwin’s creamy mushroom chicken with tarragon
+Steak pie with caramelised onion & potato
+Tray bake recipes for all-in-one dinners
+Slow-cooker beef stroganoff
+Chicken & leek patchwork pie with sour cream pastry
+Honey mustard chicken tray bake
+21 easy rissole recipe ideas
+33 easy and delicious chicken soup recipes
+Slow cooker Italian osso buco
+Sign up for our newsletter Sign up to receive the Women’s Weekly Food newsletter and offers we choose to share with you straight to your inbox Sign up now By joining, you agree to our Privacy Policy & Terms of Use About your privacy Are Media Pty Limited collects your personal information through this site to process registrations, send out newsletters, communicate offers, discounts, competitions, or surveys, and to provide you with targeted advertising based on your online activities. Our Privacy Policy contains information on how you can access or correct your personal information, which entities we may disclose your personal information to (including overseas recipients), how to opt out of targeted advertising, and how to lodge a complaint.
+Sign up for our newsletter
+Sign up to receive the Women’s Weekly Food newsletter and offers we choose to share with you straight to your inbox
+By joining, you agree to our Privacy Policy & Terms of Use
+About your privacy

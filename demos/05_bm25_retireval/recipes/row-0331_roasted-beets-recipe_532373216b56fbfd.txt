@@ -1,0 +1,55 @@
+Roasted Beets Recipe
+====================
+
+Recipe Metadata
+---------------
+Recipe ID: 532373216b56fbfd
+CSV row number: 331
+Recipe name: Roasted Beets Recipe
+Source: teriskitchen.com
+URL: http://teriskitchen.com/vegetables-recipes/roasted-beets.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0214143dcf7186aa87f1559f167a74c449c060b90e1838bfceef4c6c7f114a47/21021046.jpg
+Servings: 4
+Calories: 429.86
+Diet labels: Balanced
+Health labels: Vegan, Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Roasted Beets Recipe
+source: teriskitchen.com
+url: http://teriskitchen.com/vegetables-recipes/roasted-beets.html
+servings: 4
+calories: 429.8610644689348
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0214143dcf7186aa87f1559f167a74c449c060b90e1838bfceef4c6c7f114a47/21021046.jpg
+diet_labels: ["Balanced"]
+health_labels: ["Vegan","Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Featured Pages
+Similar and Related Recipes
+Roasted Beets
+Serves 4
+I love beets no matter how they are prepared, but roasting them, as in this Italian-inspired recipe, intensifies the flavor. Use any color of beets you like, such as red or gold. See the notes below for roasting baby beets. If you purchase beets with the tops attached, serve the beets on a bed of Sautéed Beet Greens, which is in the similar and related recipes. With or without the tops, roasted beets make a quick, easy, healthy and absolutely delicious side dish.
+Ingredients
+1-1/2 pounds medium-sized beets, peeled and quartered ( see notes below )
+1 tablespoon olive oil
+1 tablespoon minced fresh garlic
+Salt and pepper to taste
+Preheat oven to 375° F. Place the beets on a sheet pan or in a baking dish in one layer. Drizzle with the oil. Add the garlic, salt and pepper. Toss to combine. Roast until fork-tender, about 30 minutes. Serve hot or room temperature.
+Notes: If you can get baby beets, scrub them and roast whole with the peel on. The peel is edible but, if you prefer, will slip off easily after roasting. The beets can be roasted at a slightly higher or lower temperature if there is another dish in the oven, adjusting cooking time as needed. If you have never worked with red beets, be aware of the fact that the juice will turn anything red. As a matter of fact, it is used as a natural, edible food dye. It is not a problem, but you should protect your clothing and work surface, as well as your hands, rinsing any stains immediately.
+This site may not be reproduced in whole or in part without written permission and appropriate credit given. Written, designed and maintained by Teri Ranck Foster. All rights reserved. Copyright Statement, Privacy Policy and Disclaimers .

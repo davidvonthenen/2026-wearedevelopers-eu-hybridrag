@@ -1,0 +1,123 @@
+Stuffed Pork Roast with Herb Seasoned Artichoke and Mushroom Stuffing
+=====================================================================
+
+Recipe Metadata
+---------------
+Recipe ID: ccb01c1b0cac90f0
+CSV row number: 95
+Recipe name: Stuffed Pork Roast with Herb Seasoned Artichoke and Mushroom Stuffing
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/179090/stuffed-pork-roast-with-herb-seasoned-artichoke-and-mushroom-stuffing/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0088fb50616bc9f4b16d43a8b3aabf92da38835738b6202db99e1e275ed06064/21056747.jpg
+Servings: 12
+Calories: 6882.58
+Diet labels: High-Fiber
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Stuffed Pork Roast with Herb Seasoned Artichoke and Mushroom Stuffing
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/179090/stuffed-pork-roast-with-herb-seasoned-artichoke-and-mushroom-stuffing/
+servings: 12
+calories: 6882.581058882543
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0088fb50616bc9f4b16d43a8b3aabf92da38835738b6202db99e1e275ed06064/21056747.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Stuffed Pork Roast with Herb Seasoned Artichoke and Mushroom Stuffing
+
+Description: This show-stopping pork roast features exquisite taste and elegant presentation, but the reason it&#39;s one of our favorites is that it&#39;s so easy and reliable - you&#39;ll get great results every time.
+
+Yield: ['12', '12 servings']
+
+Prep time: PT35M
+
+Cook time: PT55M
+
+Total time: PT90M
+
+Ingredients:
+- 2 tablespoons olive oil
+- 6 medium green onions, chopped
+- 1 tablespoon minced garlic
+- 2 (14 ounce) cans artichoke hearts, drained and chopped
+- 2 (13.75 ounce) cans sliced mushrooms, drained
+- 2 tablespoons chopped fresh parsley
+- 0.5 cup butter, cut into pieces
+- 1 teaspoon ground black pepper
+- 3 cups Swanson® Chicken Broth (regular, Natural Goodness™ or Certified Organic)
+- 1 (16 ounce) package Pepperidge Farm® Herb Seasoned Stuffing
+- 1 (5 pound) center cut boneless pork loin roast, butterflied
+- 1 pinch Ground black pepper
+- 1 pinch Garlic powder
+
+Instructions:
+1. Heat oil in large skillet. Add green onions and garlic and cook until tender. Add artichokes, mushrooms, parsley, butter and black pepper. Cook and stir until butter is melted.
+2. Add broth. Heat through.
+3. Place stuffing in large bowl. Add broth mixture. Mix lightly.
+4. Preheat oven to 400 degrees F. Sprinkle pork with black pepper. Spoon 3 cups stuffing mixture down the center of the pork. Fold the sides over the filling to form a roll. Tie the pork crosswise at 2-inch intervals with kitchen twine. (The remaining stuffing can be baked in a covered casserole during the last 15 minutes of roasting.)
+5. Sprinkle additional black pepper and garlic powder over pork. Place pork in roasting pan and bake for 45 minutes or until cooked through but slightly pink*. Let pork stand 10 minutes. Remove twine before slicing. Serves 12 to 16.
+
+Visible page text:
+Recipes
+Stuffed Pork Roast with Herb Seasoned Artichoke and Mushroom Stuffing
+This show-stopping pork roast features exquisite taste and elegant presentation, but the reason it's one of our favorites is that it's so easy and reliable - you'll get great results every time.
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 12 servings
+2 tablespoons olive oil
+6 medium green onions, chopped
+1 tablespoon minced garlic
+2 (14 ounce) cans artichoke hearts, drained and chopped
+2 (13.75 ounce) cans sliced mushrooms, drained
+2 tablespoons chopped fresh parsley
+½ cup butter, cut into pieces
+1 teaspoon ground black pepper
+3 cups Swanson® Chicken Broth (regular, Natural Goodness™ or Certified Organic)
+1 (16 ounce) package Pepperidge Farm® Herb Seasoned Stuffing
+1 (5 pound) center cut boneless pork loin roast, butterflied
+1 pinch Ground black pepper
+1 pinch Garlic powder
+Directions
+Heat oil in large skillet. Add green onions and garlic and cook until tender. Add artichokes, mushrooms, parsley, butter and black pepper. Cook and stir until butter is melted.
+Add broth. Heat through.
+Place stuffing in large bowl. Add broth mixture. Mix lightly.
+Preheat oven to 400 degrees F. Sprinkle pork with black pepper. Spoon 3 cups stuffing mixture down the center of the pork. Fold the sides over the filling to form a roll. Tie the pork crosswise at 2-inch intervals with kitchen twine. (The remaining stuffing can be baked in a covered casserole during the last 15 minutes of roasting.)
+Sprinkle additional black pepper and garlic powder over pork. Place pork in roasting pan and bake for 45 minutes or until cooked through but slightly pink*. Let pork stand 10 minutes. Remove twine before slicing. Serves 12 to 16.
+Tips
+Tip: *The stuffing temperature should reach 165 degrees F and the internal temperature of the pork should reach 155 degrees F. During the stand time the temperature of the pork will increase to 160 degrees F.
+Have your butcher butterfly the roast for you. If not available, here's how to do it: Hold a knife horizontally, make a lengthwise cut about 1 1/2 inches deep along side of loin (do not cut all the way through). Open the loin like a book. Using a meat mallet pound the meat to make an even thickness if necessary.
+If you are considering using this stuffing for a turkey, let it cool completely before spooning into the turkey cavity.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Stuffed Pork Roast with Herb Seasoned Artichoke and Mushroom Stuffing
+1
+Most-Saved Recipes Like This
+Artichoke Stuffed Mushrooms 263 Ratings 45 mins Save
+Slow Cooker Stuffing 1,886 Ratings 5 hrs 15 mins Save
+Sausage Stuffed Mushrooms II 329 Ratings 23 mins Save
+Stuffed Crown Roast of Pork 41 Ratings 3 hrs 40 mins Save
+Sausage Stuffed Mushrooms 94 Ratings 55 mins Save
+Stuffed Pork Loin 36 Ratings 3 hrs 4 mins Save
+Grandma Ruth's Stuffing 107 Ratings 30 mins Save
+Stuffed Cream Cheese Mushrooms 260 Ratings 50 mins Save
+Stuffed Pork Tenderloin 102 Ratings 1 hr 10 mins Save
+Apricot and Cranberry Stuffed Roast Pork Loin With Port Wine Pan Sauce 240 Ratings Save
+You’ll Also Love

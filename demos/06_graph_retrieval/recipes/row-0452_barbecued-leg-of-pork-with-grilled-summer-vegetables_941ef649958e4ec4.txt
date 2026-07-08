@@ -1,0 +1,138 @@
+Barbecued leg of pork with grilled summer vegetables
+====================================================
+
+Recipe Metadata
+---------------
+Recipe ID: 941ef649958e4ec4
+CSV row number: 452
+Recipe name: Barbecued leg of pork with grilled summer vegetables
+Source: BBC Good Food
+URL: https://www.bbcgoodfood.com/recipes/barbecued-leg-pork-grilled-summer-vegetables
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02e6ac9c9db4c1b148045f37d9b13b29e8abbeed5578826760c9176a89060010/20976522.bin
+Servings: 10
+Calories: 5361.69
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Barbecued leg of pork with grilled summer vegetables
+source: BBC Good Food
+url: https://www.bbcgoodfood.com/recipes/barbecued-leg-pork-grilled-summer-vegetables
+servings: 10
+calories: 5361.686000000265
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02e6ac9c9db4c1b148045f37d9b13b29e8abbeed5578826760c9176a89060010/20976522.bin
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Barbecued leg of pork with grilled summer vegetables
+
+Description: Butterflying a boneless leg of pork helps it to cook quicker. Serve with fennel, peppers, courgettes and spring onions charred to perfection
+
+Recipe category: Main course
+
+Recipe cuisine: British
+
+Yield: 10
+
+Prep time: PT30M
+
+Cook time: PT2H
+
+Total time: PT2H30M
+
+Ingredients:
+- handful bay leaves
+- handful rosemary sprigs
+- handful thyme sprigs
+- 4 garlic cloves
+- 3 tbsp olive oil
+- 4 tbsp cider vinegar
+- 2-3kg boneless, skinless pork leg, butterflied into 1 piece
+- handful parsley leaves, chopped
+- 2 fennel bulbs cut into wedges, fronds picked and kept separate
+- bunch spring onions green parts finely sliced and kept separate, whites trimmed but left whole
+- 1 red pepper deseeded and cut into large chunks
+- 1 yellow pepper deseeded and cut into large chunks
+- 3 courgettes cut on an angle into long slices
+- 2 tbsp olive oil
+- juice &frac12; lemon
+
+Instructions:
+1. Using a pestle and mortar, bash and bruise the bay, rosemary and thyme with the garlic, olive oil and 1 tbsp of the vinegar, plus some seasoning. Smear the mixture all over the meat to marinate. Can be done up to 24 hrs ahead.
+2. Set aside the fennel fronds and sliced spring onions, and toss the rest of the vegetables in 1 tbsp of the olive oil and some seasoning. Build your barbecue so that there is a higher pile of coals on one side and a lower pile on the other. Light the barbecue and, when the coals are ashen, grill the vegetables (be careful that the spring onions do not fall through the bars) until lightly charred and wilted. Scoop them into a dish and dress with the rest of the olive oil and the lemon juice, then scatter with the fennel fronds and sliced spring onions, and set aside.
+3. Now cook the pork. It needs to sizzle for 1 hr over a fairly low heat – the coals should be grey but, to ensure they don’t go out halfway through cooking, you may need to keep adding occasional coals. Lay the pork on the coolest side of the barbecue, fat-side down, and brown for about 20 mins until well charred (if you have a kettle barbecue, cover with the lid). Use tongs to flip the meat and continue to cook slowly for about 1 hr more, turning and moving the meat occasionally, until the thickest part is very firm when prodded, or when the juices show no sign of pink when pierced with a skewer. If you have a digital cooking thermometer, it should read 65C or more when inserted in the thickest part. (If the pork is organic, it’s fine if it’s a tiny bit pink, but you certainly don’t want it raw.)
+4. When the pork is cooked, place on a dish, scatter with parsley, drizzle over the rest of the vinegar and leave to rest somewhere warm for 15 mins. Carve the pork into thin slices on a board and serve with the just warm vegetables and vinegary resting juices.
+
+Visible page text:
+Barbecued leg of pork with grilled summer vegetables
+Barney Desmazery
+Butterflying a boneless leg of pork helps it to cook quicker. Serve with fennel, peppers, courgettes and spring onions charred to perfection
+Showing items 1 to 3 of 3
+A quick and superhealthy side that is brilliant with your main meals or barbecues
+Make a melting potato side dish without messing up your barbecue, by cooking it in a foil bag
+Ingredients
+Nutrition
+handful bay leaves
+handful rosemary sprigs
+handful thyme sprigs
+4 garlic cloves
+3 tbsp olive oil
+4 tbsp cider vinegar
+2-3kg boneless, skinless pork leg, butterflied into 1 piece
+handful parsley leaves, chopped
+For the vegetables
+2 fennel bulbs cut into wedges, fronds picked and kept separate
+bunch spring onions green parts finely sliced and kept separate, whites trimmed but left whole
+1 red pepper deseeded and cut into large chunks
+1 yellow pepper deseeded and cut into large chunks
+3 courgettes cut on an angle into long slices
+2 tbsp olive oil
+juice ½ lemon
+Nutrition: per serving (10)
+kcal 364
+fat 19 g
+saturates 6 g
+carbs 4 g
+sugars 1 g
+fibre 3 g
+protein 43 g
+salt 0.3 g
+Method
+step 1 Using a pestle and mortar, bash and bruise the bay, rosemary and thyme with the garlic, olive oil and 1 tbsp of the vinegar, plus some seasoning. Smear the mixture all over the meat to marinate. Can be done up to 24 hrs ahead.
+step 1
+Using a pestle and mortar, bash and bruise the bay, rosemary and thyme with the garlic, olive oil and 1 tbsp of the vinegar, plus some seasoning. Smear the mixture all over the meat to marinate. Can be done up to 24 hrs ahead.
+step 2 Set aside the fennel fronds and sliced spring onions, and toss the rest of the vegetables in 1 tbsp of the olive oil and some seasoning. Build your barbecue so that there is a higher pile of coals on one side and a lower pile on the other. Light the barbecue and, when the coals are ashen, grill the vegetables (be careful that the spring onions do not fall through the bars) until lightly charred and wilted. Scoop them into a dish and dress with the rest of the olive oil and the lemon juice, then scatter with the fennel fronds and sliced spring onions, and set aside.
+step 2
+Set aside the fennel fronds and sliced spring onions, and toss the rest of the vegetables in 1 tbsp of the olive oil and some seasoning. Build your barbecue so that there is a higher pile of coals on one side and a lower pile on the other. Light the barbecue and, when the coals are ashen, grill the vegetables (be careful that the spring onions do not fall through the bars) until lightly charred and wilted. Scoop them into a dish and dress with the rest of the olive oil and the lemon juice, then scatter with the fennel fronds and sliced spring onions, and set aside.
+step 3 Now cook the pork. It needs to sizzle for 1 hr over a fairly low heat – the coals should be grey but, to ensure they don’t go out halfway through cooking, you may need to keep adding occasional coals. Lay the pork on the coolest side of the barbecue, fat-side down, and brown for about 20 mins until well charred (if you have a kettle barbecue, cover with the lid). Use tongs to flip the meat and continue to cook slowly for about 1 hr more, turning and moving the meat occasionally, until the thickest part is very firm when prodded, or when the juices show no sign of pink when pierced with a skewer. If you have a digital cooking thermometer, it should read 65C or more when inserted in the thickest part. (If the pork is organic, it’s fine if it’s a tiny bit pink, but you certainly don’t want it raw.)
+step 3
+Now cook the pork. It needs to sizzle for 1 hr over a fairly low heat – the coals should be grey but, to ensure they don’t go out halfway through cooking, you may need to keep adding occasional coals. Lay the pork on the coolest side of the barbecue, fat-side down, and brown for about 20 mins until well charred (if you have a kettle barbecue, cover with the lid). Use tongs to flip the meat and continue to cook slowly for about 1 hr more, turning and moving the meat occasionally, until the thickest part is very firm when prodded, or when the juices show no sign of pink when pierced with a skewer. If you have a digital cooking thermometer, it should read 65C or more when inserted in the thickest part. (If the pork is organic, it’s fine if it’s a tiny bit pink, but you certainly don’t want it raw.)
+step 4 When the pork is cooked, place on a dish, scatter with parsley, drizzle over the rest of the vinegar and leave to rest somewhere warm for 15 mins. Carve the pork into thin slices on a board and serve with the just warm vegetables and vinegary resting juices.
+step 4
+When the pork is cooked, place on a dish, scatter with parsley, drizzle over the rest of the vinegar and leave to rest somewhere warm for 15 mins. Carve the pork into thin slices on a board and serve with the just warm vegetables and vinegary resting juices.
+Recipe from Good Food magazine, July 2013
+Comments, questions and tips
+Overall rating
+Savour the season
+Explore our recipe app
+Subscribe now and get access to exclusive recipes, meal plans, podcasts and more.
+All Access subscription: Magazine & App
+Good Food magazine and our award winning app in one simple subscription. Now from £3.17 per month
+Podcast
+Our food team shares tips, techniques and their all-time favourite recipes in our lively weekly podcast.

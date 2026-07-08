@@ -1,0 +1,132 @@
+Vegetarian Sloppy Joes
+======================
+
+Recipe Metadata
+---------------
+Recipe ID: e3062005bd42f214
+CSV row number: 202
+Recipe name: Vegetarian Sloppy Joes
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/163867/vegetarian-sloppy-joes
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0143ae76ce656b93a9b38290f65f6390148ef4cf955d5d5877594568d6ac2ae2/21080861.jpg
+Servings: 6
+Calories: 1588.84
+Diet labels: Low-Carb
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Milk, Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Vegetarian Sloppy Joes
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/163867/vegetarian-sloppy-joes
+servings: 6
+calories: 1588.839162908833
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0143ae76ce656b93a9b38290f65f6390148ef4cf955d5d5877594568d6ac2ae2/21080861.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Milk","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Vegetarian Sloppy Joes
+
+Description: Tempeh stands in for the traditional ground beef in a vegetarian version of the all-American classic sandwich.
+
+Recipe category: ['Dinner', 'Lunch']
+
+Recipe cuisine: ['American']
+
+Yield: ['6', '6 sandwiches']
+
+Prep time: PT20M
+
+Cook time: PT20M
+
+Total time: PT40M
+
+Ingredients:
+- 0.25 cup vegetable oil
+- 0.5 cup minced onion
+- 2 (8 ounce) packages tempeh
+- 0.5 cup minced green bell pepper
+- 2 cloves garlic, minced
+- 0.25 cup tomato sauce
+- 1 tablespoon vegetarian Worcestershire sauce
+- 1 tablespoon honey
+- 1 tablespoon blackstrap molasses
+- 0.25 teaspoon cayenne pepper
+- 0.25 teaspoon celery seed
+- 0.25 teaspoon ground cumin
+- 0.25 teaspoon salt
+- 0.5 teaspoon ground coriander
+- 0.5 teaspoon dried thyme
+- 0.5 teaspoon oregano
+- 0.5 teaspoon paprika
+- 1 pinch ground black pepper
+- hamburger buns
+
+Instructions:
+1. Heat oil in a deep, 10-inch skillet over medium-low heat. Cook the onion in the oil until translucent. Crumble the tempeh into the skillet; cook and stir until golden brown. Add the green pepper and garlic; cook another 2 to 3 minutes.
+2. Stir in the tomato sauce, Worcestershire sauce, honey, molasses, cayenne pepper, celery seed, cumin, salt, coriander, thyme, oregano, paprika, and black pepper; stir. Simmer another 10 to 15 minutes. Spoon hot onto hamburger buns to serve.
+
+Visible page text:
+Recipes
+Main Dishes
+Sandwich Recipes
+Sloppy Joe Recipes
+Vegetarian Sloppy Joes
+This is a combination of many recipes and experimentation. It has gotten the thumbs-up from all who have tried it so far. It can also be made with TVP, ground turkey, or even ground beef instead of tempeh.
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 6 servings
+¼ cup vegetable oil
+½ cup minced onion
+2 (8 ounce) packages tempeh
+½ cup minced green bell pepper
+2 cloves garlic, minced
+¼ cup tomato sauce
+1 tablespoon vegetarian Worcestershire sauce
+1 tablespoon honey
+1 tablespoon blackstrap molasses
+¼ teaspoon cayenne pepper
+¼ teaspoon celery seed
+¼ teaspoon ground cumin
+¼ teaspoon salt
+½ teaspoon ground coriander
+½ teaspoon dried thyme
+½ teaspoon oregano
+½ teaspoon paprika
+1 pinch ground black pepper
+hamburger buns
+Directions
+Heat oil in a deep, 10-inch skillet over medium-low heat. Cook the onion in the oil until translucent. Crumble the tempeh into the skillet; cook and stir until golden brown. Add the green pepper and garlic; cook another 2 to 3 minutes.
+Stir in the tomato sauce, Worcestershire sauce, honey, molasses, cayenne pepper, celery seed, cumin, salt, coriander, thyme, oregano, paprika, and black pepper; stir. Simmer another 10 to 15 minutes. Spoon hot onto hamburger buns to serve.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Vegetarian Sloppy Joes
+1
+Most-Saved Recipes Like This
+Sloppy Joes 7,953 Ratings 35 mins Save
+Neat Sloppy Joes 1,086 Ratings 50 mins Save
+Homemade Sloppy Joes 770 Ratings 1 hr 10 mins Save
+Chef John's Sloppy Joes 738 Ratings 55 mins Save
+Tonya's Terrific Sloppy Joes 206 Ratings 40 mins Save
+Sloppy Joe Casserole 214 Ratings 1 hr 10 mins Save
+Chef John's Turkey Sloppy Joes 551 Ratings 45 mins Save
+Super Easy Sloppy Joes Recipe 108 Ratings 30 mins Save
+Ruby Drive Sloppy Joes 296 Ratings 35 mins Save
+Unsloppy Joes 317 Ratings 30 mins Save
+You’ll Also Love

@@ -1,0 +1,136 @@
+Cranberry Sauce
+===============
+
+Recipe Metadata
+---------------
+Recipe ID: 6aba5e5d6482dab2
+CSV row number: 419
+Recipe name: Cranberry Sauce
+Source: Simply Recipes
+URL: https://www.simplyrecipes.com/recipes/cranberry_sauce
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02acb420045bf8145f162dd1295c207cd962274837760063f2e0ab16d8021a46/20957847.jpg
+Servings: 9
+Calories: 930.49
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Cranberry Sauce
+source: Simply Recipes
+url: https://www.simplyrecipes.com/recipes/cranberry_sauce
+servings: 9
+calories: 930.4893676500001
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02acb420045bf8145f162dd1295c207cd962274837760063f2e0ab16d8021a46/20957847.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Cranberry Sauce
+
+Description: This homemade cranberry sauce is classic. Made from fresh or frozen cranberries and ready in 20 minutes, it&#39;s a must-have for Thanksgiving dinner. Easy to make-ahead, too.
+
+Recipe category: ['Side Dish', 'Condiment', 'Quick and Easy', 'Sauce', 'Cranberry', 'Sauce', 'Thanksgiving']
+
+Recipe cuisine: ['American']
+
+Yield: ['9', '2 1/4 cups']
+
+Prep time: PT5M
+
+Cook time: PT15M
+
+Total time: PT20M
+
+Ingredients:
+- 1 cup (200 g) sugar
+- 1 cup (250 ml) water
+- 4 cups (12 oz package) fresh or frozen cranberries
+- Optional: Pecans, orange zest, raisins, currants, blueberries, cinnamon, nutmeg, allspice.
+
+Instructions:
+1. Place the cranberries in a colander and rinse them. Pick out and discard any damaged or bruised cranberries.
+2. Put the water and sugar in a medium saucepan on high heat and bring to a boil. Stir to dissolve the sugar.
+3. Add the cranberries to the pot and return to a boil. Lower the heat and simmer for 10 minutes or until most of the cranberries have burst.
+4. Once the cranberries have burst you can leave the cranberry sauce as is, or dress it up with other ingredients. We like to mix in a half a cup of chopped pecans a pinch or two of orange zest. Some people like adding raisins or currants, or even blueberries for added sweetness. You can also add holiday spices such as cinnamon, nutmeg, or allspice. If adding spices, start with a pinch of each and add more to your taste.
+5. Remove the pot from heat. Let cool completely at room temperature, then transfer to a bowl to chill in the refrigerator. Note that the cranberry sauce will continue to thicken as it cools. Did you make the recipe with any special twists? Tell us about it and leave a comment below!
+
+Visible page text:
+Recipes
+Dinners
+Side Dishes
+Cranberry Sauce
+The go-to classic, make-ahead cranberry sauce for Thanksgiving dinner.
+Perfect for Turkey
+Swaps and Subs
+Make-Ahead
+Storing and Freezing
+Love Cranberries? Try These Recipes!
+Why Make This
+This cranberry sauce comes together in just 20 minutes and uses only three main ingredients.
+You can prepare it ahead of time since it thickens beautifully as it cools in the fridge.
+Make it your own by mixing in pecans, orange zest, raisins, or holiday spices for added flavor.
+Do you like cranberry sauce? My father can't get enough of it during the holiday season. He'll even stock up on fresh cranberries when they become available in late October, and freeze them to eat all year long.
+I think he looks forward to Thanksgiving just because he knows he can have as much cranberry sauce as he wants with his slices of turkey, and plenty left over for turkey sandwiches.
+When he finally runs out of frozen cranberries sometime in May, he'll start buying the cans. He'll hide the cans in a remote corner of the pantry and eat up the canned cranberries all by himself. Yes, he's a little obsessed.
+Simply Recipes / Photo by Julia Gartland / Food Styling by Barrett Washburne
+For me it's been an acquired taste. As a kid I just couldn't understand why something so beautifully garnet colored didn't taste like berry pie filling!
+Cranberries are tart, very tart, and need sugar to balance their tartness. But even with the sugar, the tartness comes through. As an adult, I have come to love cranberry sauce in all forms, including a cranberry relish that you don't even have to cook.
+Cranberry Sauce Is Perfect with Thanksgiving Turkey
+Cranberries are absolutely perfect with turkey. Sort of like lemons and chicken. Something about the flavors, they're just made for each other. Which is why the sauce is so good to spread over turkey in your leftover turkey sandwiches.
+The following is a simple and easy recipe for cranberry sauce, one that you can easily dress up with extras. If you have a favorite way of making yours, please let us know about it in the comments!
+Swaps and Substitution Suggestions From Our Readers
+Ole: "Substituting OJ for the water is nice, a little oomph without overwhelming."
+Joe: "I added cherry juice and it was very delicious!"
+Dianna: "I added dried orange zest, cinnamon, nutmeg and clove. The smell and flavor is one of the BEST!"
+Jan: "I added a good amount of blueberries and a smaller amount of pecans. Topped off with a bit of cinnamon. the whole dining party said they were the best cranberries they had ever tasted!"
+Jennifer: "I use apple juice, brown sugar and peeled and diced apple. I add the apple when I add the cranberries. It is less tart than regular cranberry sauce, but not too sweet. It is a great balance."
+Michelle: "Then after the sauce is slightly cooled, I add a couple glugs of Grand Marnier or other orange flavored liquor and mix in thoroughly."
+Bonny: "Decided to play with it a bit. I used orange juice and chopped apple. I also chopped some fresh Italian basil and cooked it with the apples and berries. Put that altogether with a couple of shots of Crown Royal and it's beyond great."
+How Far Ahead Can You Make Cranberry Sauce?
+For the best consistency, make sure the cranberry sauce is thoroughly chilled before serving so it has time to set up. Making it the day before Thanksgiving gives it plenty of time to chill and saves you a task on the day itself.
+You can make this cranberry sauce up to 1 week before serving.
+How to Store & Freeze Cranberry Sauce
+Refrigerate leftover cranberry sauce for up to 2 weeks. Or freeze the sauce for up to 6 months.
+Cranberry Relish
+Apple Cranberry Chutney
+Cranberry Glazed Meatballs
+Cranberry Orange Nut Bread
+Cranberry Upside Down Cake
+The recipe calls for a cup of water. You can easily substitute that with 1/2 cup of orange juice and 1/2 cup of water if you want to increase the orange note in the sauce (cranberries and oranges play well together!)
+You can also reduce the sugar if you want. Start out with half as much and add more if you think it needs it. If you use less sugar, reduce the amount of water you add as well.
+1 cup (200g) sugar
+1 cup (250 ml) water
+4 cups (one 12-ounce package) fresh or frozen cranberries
+Optional: pecans , orange zest, raisins, currants, blueberries, cinnamon, nutmeg, allspice
+Rinse the cranberries: Place the cranberries in a colander and rinse them. Pick out and discard any damaged or bruised cranberries.
+Place the cranberries in a colander and rinse them. Pick out and discard any damaged or bruised cranberries.
+Boil the water with sugar: Put the water and sugar in a medium saucepan on high heat and bring to a boil. Stir to dissolve the sugar. Simply Recipes / Annika Panikker
+Put the water and sugar in a medium saucepan on high heat and bring to a boil. Stir to dissolve the sugar.
+Simply Recipes / Annika Panikker
+Add the cranberries, cook until they burst: Add the cranberries to the pot and return to a boil. Lower the heat and simmer for 10 minutes or until most of the cranberries have burst. Simply Recipes / Annika Panikker Simply Recipes / Annika Panikker
+Add the cranberries to the pot and return to a boil. Lower the heat and simmer for 10 minutes or until most of the cranberries have burst.
+Stir in the mix-ins, if using: Once the cranberries have burst you can leave the cranberry sauce as is, or dress it up with other ingredients. We like to mix in a half a cup of chopped pecans a pinch or two of orange zest. Some people like adding raisins or currants, or even blueberries for added sweetness. You can also add holiday spices such as cinnamon, nutmeg, or allspice. If adding spices, start with a pinch of each and add more to your taste.
+Once the cranberries have burst you can leave the cranberry sauce as is, or dress it up with other ingredients. We like to mix in a half a cup of chopped pecans a pinch or two of orange zest.
+Some people like adding raisins or currants, or even blueberries for added sweetness. You can also add holiday spices such as cinnamon, nutmeg, or allspice. If adding spices, start with a pinch of each and add more to your taste.
+Cool: Remove the pot from heat. Let cool completely at room temperature, then transfer to a bowl to chill in the refrigerator. Note that the cranberry sauce will continue to thicken as it cools. Did you make the recipe with any special twists? Tell us about it and leave a comment below! Simply Recipes / Photo by Julia Gartland / Food Styling by Barrett Washburne
+Remove the pot from heat. Let cool completely at room temperature, then transfer to a bowl to chill in the refrigerator. Note that the cranberry sauce will continue to thicken as it cools.
+Did you make the recipe with any special twists? Tell us about it and leave a comment below!
+Sauces
+Thanksgiving Side Dishes
+Vegan
+Vegetarian

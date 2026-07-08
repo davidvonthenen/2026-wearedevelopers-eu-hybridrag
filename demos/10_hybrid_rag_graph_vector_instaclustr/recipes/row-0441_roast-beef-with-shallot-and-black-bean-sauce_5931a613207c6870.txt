@@ -1,0 +1,133 @@
+Roast Beef with Shallot and Black Bean Sauce
+============================================
+
+Recipe Metadata
+---------------
+Recipe ID: 5931a613207c6870
+CSV row number: 441
+Recipe name: Roast Beef with Shallot and Black Bean Sauce
+Source: Food & Wine
+URL: https://www.foodandwine.com/roast-beef-with-shallot-and-black-bean-sauce-6835688
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02cce8f64293681b25b3fb18791ed361654f7fb429dc79ad48fe0779090771e3/20986617.jpg
+Servings: 10
+Calories: 14543.59
+Diet labels: High-Fiber, Low-Carb
+Health labels: Dairy-Free, Egg-Free, Fish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Roast Beef with Shallot and Black Bean Sauce
+source: Food & Wine
+url: https://www.foodandwine.com/roast-beef-with-shallot-and-black-bean-sauce-6835688
+servings: 10
+calories: 14543.59479
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02cce8f64293681b25b3fb18791ed361654f7fb429dc79ad48fe0779090771e3/20986617.jpg
+diet_labels: ["High-Fiber","Low-Carb"]
+health_labels: ["Dairy-Free","Egg-Free","Fish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Roast Beef with Shallot and Black Bean Sauce
+
+Description: Brandon Jew’s Roast Beef with Shallot and Black Bean Sauce recipe has a perfectly seasoned crust and is paired with a slightly sweet, salty, and earthy shallot and black bean sauce.
+
+Recipe category: ['Entree']
+
+Recipe cuisine: ['American']
+
+Yield: 12
+
+Total time: PT1930M
+
+Ingredients:
+- 2 tablespoons black peppercorns
+- 6 tablespoons plus 1 teaspoon Diamond Crystal kosher salt, divided
+- 1 (10-pound) 3-rib standing rib roast
+- 1/2 teaspoon ground black pepper
+- 3/4 cup fermented black beans (from 1 [8-ounce] pkg.) (such as Double Rings)
+- 3 tablespoons plus 1 teaspoon olive oil, divided
+- 16 large shallots (about 2 pounds), thinly sliced crosswise (about 6 cups)
+- 1/2 cup (4 ounces) sherry
+- 1 teaspoon kosher salt
+- 2 tablespoons minced peeled fresh ginger (from 1 [2-inch] piece)
+- 2 tablespoons oyster sauce
+- 1/4 cup unrefined peanut oil or other flavorful nut oil (such as hazelnut)
+- 2 teaspoons vegetable oil
+- 12 scallions (about 6 ounces), root ends trimmed
+
+Instructions:
+1. Cook peppercorns in a small skillet over high, stirring constantly, until fragrant and toasted, about 2 minutes. Transfer to a small plate; let cool 5 minutes. Grind peppercorns using a mortar and pestle or a spice grinder until coarsely crushed. Transfer crushed peppercorns to a small bowl; stir in 6 tablespoons salt.
+2. Trim fat cap on beef to 1/4-inch thickness. Place 2 cups trimmed fat in a small saucepan; set aside. Discard remaining fat. Rub beef all over with reserved crushed pepper–salt mixture, pressing to adhere. Wrap tightly with plastic wrap, and refrigerate 24 hours. While beef chills, heat saucepan with trimmed fat over low. Cook, stirring occasionally, until fat is melted, about 20 minutes.
+3. Pour rendered fat through a fine wire-mesh strainer into a heatproof container; discard solids. Add ground black pepper and remaining 1 teaspoon salt; stir until salt dissolves. Cover and chill until ready to use.
+4. Line a large rimmed baking sheet with aluminum foil. Set a wire rack inside baking sheet. Remove beef from refrigerator, and unwrap. Place beef on wire rack. Let stand at room temperature for 1 hour.
+5. Place black beans in a medium bowl; add water to cover beans, and let soak 1 hour. Drain beans, and rinse under cold water.
+6. While beans soak, heat 2 tablespoons olive oil in a 10-inch cast-iron skillet over medium-high. Add shallots; pour 1 tablespoon olive oil over shallots, and stir to coat.
+7. Cover skillet, and cook, stirring about every 5 minutes, until shallots are very tender, about 15 minutes. Uncover and continue to cook over medium, stirring occasionally and adding water as needed (2 tablespoons at a time) to scrape up any browned bits from bottom of skillet using a wooden spoon, until shallots are caramelized, 20 to 25 minutes.
+8. Add sherry to skillet, stirring to scrape up any browned bits from bottom of skillet using a wooden spoon. Continue to cook, uncovered, over medium, stirring often, until sherry evaporates, about 2 minutes. Stir in salt; remove from heat. Preheat oven to 200°F with rack in lower third position.
+9. Heat remaining 1 teaspoon olive oil in a medium skillet over medium; swirl to coat skillet. Add ginger, and cook, stirring often, until ginger is lightly browned, about 2 minutes. Stir in black beans; remove from heat. Transfer black bean mixture, shallot mixture, and oyster sauce to a blender. Secure lid on blender, and remove center piece to allow steam to escape. Place a clean towel over opening. Process until smooth, about 1 minute and 30 seconds, stopping to scrape down sides of blender if needed. (Mixture will be thick.) Transfer black bean puree to a small bowl; top evenly with peanut oil, but do not stir.
+10. Heat reserved beef fat in small saucepan over medium, stirring occasionally, until melted, about 5 minutes. Remove from heat. Transfer beef to preheated oven, and roast, basting with melted beef fat every 30 minutes, until a thermometer inserted in thickest portion of beef registers 110°F, 4 hours to 4 hours and 30 minutes.
+11. Increase oven temperature to 400°F. (Do not remove beef from oven.) Continue to roast until a thermometer inserted in thickest portion registers 125°F, 45 minutes to 1 hour. Remove beef from oven, and let rest at least 20 minutes (internal temperature will continue to rise to 135°F for some medium-rare spots and some medium spots) or up to 45 minutes (internal temperature will continue to rise to 140°F for medium).
+12. While roast is resting, heat vegetable oil in a large cast-iron skillet over high until just smoking. Working in 2 batches, add scallions to skillet in an even layer, and cook, pressing down with a heatproof spatula, until softened and well browned, about 6 minutes, flipping halfway through cooking time.
+13. Carve roast, and serve with shallot and black bean sauce and charred scallions.
+
+Visible page text:
+Dinner
+Meat Dishes
+Beef Main Course
+Roast Beef
+Roast Beef with Shallot and Black Bean Sauce
+This roast beef has a perfectly seasoned crust and is paired with slightly sweet, salty, and earthy shallot and black bean sauce.
+Victor Protasio / Food Styling by Chelsea Zimmer / Prop Styling by Christine Keely
+Chef Brandon Jew of Mister Jiu’s in San Francisco creates a perfectly seasoned crust for this juicy roast beef by rubbing the roast with a simple combination of kosher salt and coarsely crushed toasted black peppercorns. The reverse-sear method of cooking the meat low and slow before turning up the heat keeps the roast tender while creating a crispy, golden brown crust. The real star here is the slightly sweet, earthy, umami-packed black bean sauce served with the roast. It starts with a base of caramelized shallots that are further enhanced by sherry, fermented black beans, and ginger, and it’s finished with a drizzle of aromatic peanut oil. Gradually increase speed when pureeing the shallot and black bean sauce to easily process the thick ingredients. Using an immersion blender also works well. Thinly slice some of the scallions on the bias and sprinkle them on top of the sauce for an alternative presentation method. For a nuttier bite, add additional nut oil on top of the sauce. Fermented black beans may be found in Asian grocery stores.
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 8 to 12 servings
+2 tablespoons black peppercorns
+6 tablespoons plus 1 teaspoon Diamond Crystal kosher salt , divided
+1 ( 10-pound ) 3-rib standing rib roast
+1/2 teaspoon ground black pepper
+Shallot and Black Bean Sauce
+3/4 cup fermented black beans (from 1 [8-ounce] pkg.) (such as Double Rings)
+3 tablespoons plus 1 teaspoon olive oil , divided
+16 large shallots (about 2 pounds), thinly sliced crosswise (about 6 cups)
+1/2 cup (4 ounces) sherry
+1 teaspoon kosher salt
+2 tablespoons minced peeled fresh ginger (from 1 [2-inch] piece)
+2 tablespoons oyster sauce
+1/4 cup unrefined peanut oil or other flavorful nut oil (such as hazelnut)
+Additional Ingredients
+2 teaspoons vegetable oil
+12 scallions (about 6 ounces), root ends trimmed
+Directions
+Make the roast beef:
+Cook peppercorns in a small skillet over high, stirring constantly, until fragrant and toasted, about 2 minutes. Transfer to a small plate; let cool 5 minutes. Grind peppercorns using a mortar and pestle or a spice grinder until coarsely crushed. Transfer crushed peppercorns to a small bowl; stir in 6 tablespoons salt.
+Trim fat cap on beef to 1/4-inch thickness. Place 2 cups trimmed fat in a small saucepan; set aside. Discard remaining fat. Rub beef all over with reserved crushed pepper–salt mixture, pressing to adhere. Wrap tightly with plastic wrap, and refrigerate 24 hours. While beef chills, heat saucepan with trimmed fat over low. Cook, stirring occasionally, until fat is melted, about 20 minutes.
+Pour rendered fat through a fine wire-mesh strainer into a heatproof container; discard solids. Add ground black pepper and remaining 1 teaspoon salt; stir until salt dissolves. Cover and chill until ready to use.
+Line a large rimmed baking sheet with aluminum foil. Set a wire rack inside baking sheet. Remove beef from refrigerator, and unwrap. Place beef on wire rack. Let stand at room temperature for 1 hour.
+While beef stands, make the shallot and black bean sauce:
+Place black beans in a medium bowl; add water to cover beans, and let soak 1 hour. Drain beans, and rinse under cold water.
+While beans soak, heat 2 tablespoons olive oil in a 10-inch cast-iron skillet over medium-high. Add shallots; pour 1 tablespoon olive oil over shallots, and stir to coat.
+Cover skillet, and cook, stirring about every 5 minutes, until shallots are very tender, about 15 minutes. Uncover and continue to cook over medium, stirring occasionally and adding water as needed (2 tablespoons at a time) to scrape up any browned bits from bottom of skillet using a wooden spoon, until shallots are caramelized, 20 to 25 minutes.
+Add sherry to skillet, stirring to scrape up any browned bits from bottom of skillet using a wooden spoon. Continue to cook, uncovered, over medium, stirring often, until sherry evaporates, about 2 minutes. Stir in salt; remove from heat. Preheat oven to 200°F with rack in lower third position.
+Heat remaining 1 teaspoon olive oil in a medium skillet over medium; swirl to coat skillet. Add ginger, and cook, stirring often, until ginger is lightly browned, about 2 minutes. Stir in black beans; remove from heat. Transfer black bean mixture, shallot mixture, and oyster sauce to a blender. Secure lid on blender, and remove center piece to allow steam to escape. Place a clean towel over opening. Process until smooth, about 1 minute and 30 seconds, stopping to scrape down sides of blender if needed. (Mixture will be thick.) Transfer black bean puree to a small bowl; top evenly with peanut oil, but do not stir.
+Heat reserved beef fat in small saucepan over medium, stirring occasionally, until melted, about 5 minutes. Remove from heat. Transfer beef to preheated oven, and roast, basting with melted beef fat every 30 minutes, until a thermometer inserted in thickest portion of beef registers 110°F, 4 hours to 4 hours and 30 minutes.
+Increase oven temperature to 400°F. (Do not remove beef from oven.) Continue to roast until a thermometer inserted in thickest portion registers 125°F, 45 minutes to 1 hour. Remove beef from oven, and let rest at least 20 minutes (internal temperature will continue to rise to 135°F for some medium-rare spots and some medium spots) or up to 45 minutes (internal temperature will continue to rise to 140°F for medium).
+While roast is resting, heat vegetable oil in a large cast-iron skillet over high until just smoking. Working in 2 batches, add scallions to skillet in an even layer, and cook, pressing down with a heatproof spatula, until softened and well browned, about 6 minutes, flipping halfway through cooking time.
+Carve roast, and serve with shallot and black bean sauce and charred scallions.
+To Make Ahead
+Shallot and black bean sauce can be made up to 3 days in advance and stored in an airtight container in refrigerator.
+Suggested Pairing
+Earthy, full-bodied red: Arnaldo Caprai Montefalco Rosso
+Related Articles

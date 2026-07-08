@@ -1,0 +1,167 @@
+Banana Oatmeal Pancakes
+=======================
+
+Recipe Metadata
+---------------
+Recipe ID: eeb5af96fac44539
+CSV row number: 169
+Recipe name: Banana Oatmeal Pancakes
+Source: pinchandswirl.com
+URL: https://pinchandswirl.com/banana-oatmeal-pancakes
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0106708815d23fb4a74f641ca10f4d6badf6215c0ab779f8adeda73d419cdda2/21057709.jpg
+Servings: 4
+Calories: 1481.87
+Diet labels: Balanced
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: breakfast
+Dish type: pancake
+
+Original CSV Fields
+-------------------
+recipe_name: Banana Oatmeal Pancakes
+source: pinchandswirl.com
+url: https://pinchandswirl.com/banana-oatmeal-pancakes
+servings: 4
+calories: 1481.874854
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0106708815d23fb4a74f641ca10f4d6badf6215c0ab779f8adeda73d419cdda2/21057709.jpg
+diet_labels: ["Balanced"]
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["pancake"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Banana Oatmeal Pancakes
+
+Description: These delicious banana oatmeal pancakes come together in minutes with the batter made entirely in the blender!&nbsp;
+
+Recipe category: ['Breakfast']
+
+Recipe cuisine: ['American']
+
+Yield: ['4', '4 people']
+
+Prep time: PT10M
+
+Cook time: PT15M
+
+Total time: PT25M
+
+Ingredients:
+- 2 cups old fashioned rolled oats
+- 2 teaspoons baking powder
+- 1/4 teaspoon fine sea salt
+- 1 cup milk
+- 1 large ripe banana (cut into 1-inch thick rounds)
+- 2 large eggs
+- 2 tablespoons honey
+- 1 teaspoon real vanilla extract
+- 2 tablespoons butter (divided)
+- butter (to taste)
+- real maple syrup (to taste)
+
+Instructions:
+1. Combine oats, baking powder, salt, milk and banana in a blender pitcher; blend until smooth, stopping the blender and stirring the mixture with a spatula as necessary to keep it moving. Add eggs, honey and vanilla and blend just until combined. (If your batter seems too thick, add milk to the blender a little at a time until it reaches your desired consistency.) Pour batter into a medium bowl for scooping.
+2. Heat large skillet over medium heat until hot; add 2 teaspoons butter and swirl to coat. Scoop batter by 1/4 cupfuls onto hot skillet and cook until batter starts to bubble. (If batter seems to be cooking too fast, reduce heat; too slow increase heat slightly.) Flip and cook through. Transfer to serving plate and repeat with remaining batter.
+3. Serve pancakes with butter and real maple syrup.
+
+Visible page text:
+Home › Recipes › Breakfast Recipes
+Banana Oatmeal Pancakes
+By Marissa Stevens
+Published Jan 30, 2022
+When I’m in the mood for a hearty, no-fuss breakfast, Banana Oatmeal Pancakes are perfect. They’re fluffy and tender and the batter is made in minutes with simple ingredients, entirely in the blender. I love to top them with butter and a generous drizzle of real maple syrup!
+This post may contain affiliate links. Please read our disclosure policy .
+The first time I made these Banana Oatmeal Pancakes, I was really skeptical that they would turn out well. I piled the ingredients into a blender, whirled them into a creamy batter and thought, “This is just too easy!” But then I scooped the batter onto a hot skillet and watched them puff up beautifully and then, more importantly, I tasted them! Delicate, natural sweetness from ripe bananas rounded out with warm nuttiness from the oats. And so tender that they melt in your mouth. These also happen to be gluten free pancakes. So if you love pancakes, but are dealing with gluten sensitivity, these make a perfect breakfast!
+Table of Contents
+Ingredients for Banana Oatmeal Pancakes
+How to Make Banana Oatmeal Pancakes
+Recipe Options
+More of My Favorite Breakfast Recipes
+Banana Oatmeal Pancakes Recipe
+Old Fashioned Rolled Oats: not quick cooking
+Baking Powder
+Fine Sea Salt: or twice the amount of kosher salt
+Milk: whole milk or alternative milk like oat milk or unsweetened almond milk
+Banana: ideally overripe
+Eggs: large or extra large
+Honey: or maple syrup
+Real Vanilla Extract:
+Butter: or coconut oil
+Maple Syrup: optional but recommended!
+1. Combine oats, baking powder, salt, milk and ripe banana in a blender pitcher; blend until smooth. Add eggs, honey and vanilla and blend just until combined.
+2. Add butter to a hot pan and swirl to coat. Drop batter by 1/4 cupfuls onto hot nonstick skillet and cook until the batter starts to bubble. Flip cakes and cook until golden brown and cooked through. Transfer to serving plate and repeat with remaining batter.
+3. Serve hot pancakes with butter and real maple syrup.
+You have endless options with this healthy pancake recipe, here are some ideas:
+Feel free to use your milk of choice. For a dairy free version, use oat milk, almond milk or other nut milk.
+Add in a handful of fresh blueberries or chopped pecans to the pancake batter for extra texture and flavor.
+Get creative with toppings: Instead of maple syrup, slather on some peanut butter or almond butter and top with chocolate chips, banana slices or other fresh fruit.
+Spice up the batter with ground cinnamon and/or ground nutmeg.
+Belgian Waffles (The best waffle I know – light as air, crisp on the outside and tender in the middle. A make ahead batter with yeast that’s so convenient!)
+Banana Crepes (Caramelized bananas, Pineapple Marmalade and sweetened crème fraîche: need I say more?
+Almond Flour Banana Pancakes (Fluffy and tender pancakes that are also gluten free!)
+Oat Flour Pancakes (Another delicious gluten free option that’s weekday morning easy!)
+Baked Eggs (A perfect pair to these pancakes!)
+Breakfast Quiche (Decadent and perfect for celebration brunches!)
+Savory Crepes (The French classic filled with melty cheese and ham.)
+Oatmeal Banana Bread (One of my all-time favorite quick breads. And the portable version: Banana Oatmeal Muffins .)
+Video
+Ingredients 1x 2x 3x
+▢ 2 cups old fashioned rolled oats
+▢ 2 teaspoons baking powder
+▢ 1/4 teaspoon fine sea salt
+▢ 1 cup milk
+▢ 1 large ripe banana cut into 1-inch thick rounds
+▢ 2 large eggs
+▢ 2 tablespoons honey
+▢ 1 teaspoon real vanilla extract
+▢ 2 tablespoons butter divided
+For Serving:
+▢ butter to taste
+▢ real maple syrup to taste
+Instructions
+Combine oats, baking powder, salt, milk and banana in a blender pitcher; blend until smooth, stopping the blender and stirring the mixture with a spatula as necessary to keep it moving. Add eggs, honey and vanilla and blend just until combined. (If your batter seems too thick, add milk to the blender a little at a time until it reaches your desired consistency.) Pour batter into a medium bowl for scooping.
+Heat large skillet over medium heat until hot; add 2 teaspoons butter and swirl to coat. Scoop batter by 1/4 cupfuls onto hot skillet and cook until batter starts to bubble. (If batter seems to be cooking too fast, reduce heat; too slow increase heat slightly.) Flip and cook through. Transfer to serving plate and repeat with remaining batter.
+Serve pancakes with butter and real maple syrup.
+Notes
+Be sure to look for gluten free oats if gluten content is a concern for you.
+Note that you’ll need a 1/4-cup measuring cup to scoop the batter.
+Nutrition
+Nutrition information is automatically calculated, so should only be used as an approximation.
+Banana Crepes
+Spinach Bacon Quiche
+Brioche French Toast Casserole
+Blueberry Crepes
+Leave a comment Cancel reply
+70 Comments
+I added 2 tablespoons of peanut butter,delicious Reply Fun addition, Conrad! So glad you enjoyed these. Reply
+I added 2 tablespoons of peanut butter,delicious
+Fun addition, Conrad! So glad you enjoyed these. Reply
+Fun addition, Conrad! So glad you enjoyed these.
+I’ve been making these pancakes for my family since the day this recipe was published. It’s the only recipe I need and we enjoy them at least a couple times a month. This morning, everyone wanted waffles, so I added a scant 1/4 cup of expeller pressed canola oil to the pancake mix, added at the very end and mixed in the blender just until combined. The waffles were a huge hit and we may like them even better this way! Thanks for a fantastic recipe, Marissa! Reply Sally, you’re a genius! I’m so glad you and your family have been enjoying this recipe for so long and I LOVE the idea of a waffle version! Reply
+I’ve been making these pancakes for my family since the day this recipe was published. It’s the only recipe I need and we enjoy them at least a couple times a month. This morning, everyone wanted waffles, so I added a scant 1/4 cup of expeller pressed canola oil to the pancake mix, added at the very end and mixed in the blender just until combined. The waffles were a huge hit and we may like them even better this way! Thanks for a fantastic recipe, Marissa!
+Sally, you’re a genius! I’m so glad you and your family have been enjoying this recipe for so long and I LOVE the idea of a waffle version! Reply
+Sally, you’re a genius! I’m so glad you and your family have been enjoying this recipe for so long and I LOVE the idea of a waffle version!
+HI MARISSA, I JUST MADE THESE BANANA OATMEAL PANCAKES. WOW! WOW! WOW! I DOUBLED THE RECIPE AND SAVED A BIG PILE OF PANCAKES. I ONLY EAT EVERY OTHER DAY SO THESE WILL LAST ABOUT A WEEK. MY WIFE ALSO LOVES THEM AND SO DOES OUR NEIGHBOR. THE NEXT TIME, I MIGHT DROP A FEW BLUEBERRIES ON TOP BEFORE I FLIP THEM, OR CHOCOLATE CHIPS. YUM. I WAS THINKING OF ADDING SOME CORN MEAL. WHAT DO YOU THINK ? THANK YOU FOR ALL OF YOUR GREAT RECIPES. GRATEFULLY YOURS, DAMON Reply Hi Damon! Thank you for your kind comment – so glad you’re enjoying the recipe! Sure, you could add a little cornmeal for crunch if you like. Reply
+HI MARISSA, I JUST MADE THESE BANANA OATMEAL PANCAKES. WOW! WOW! WOW! I DOUBLED THE RECIPE AND SAVED A BIG PILE OF PANCAKES. I ONLY EAT EVERY OTHER DAY SO THESE WILL LAST ABOUT A WEEK. MY WIFE ALSO LOVES THEM AND SO DOES OUR NEIGHBOR. THE NEXT TIME, I MIGHT DROP A FEW BLUEBERRIES ON TOP BEFORE I FLIP THEM, OR CHOCOLATE CHIPS. YUM. I WAS THINKING OF ADDING SOME CORN MEAL. WHAT DO YOU THINK ? THANK YOU FOR ALL OF YOUR GREAT RECIPES. GRATEFULLY YOURS, DAMON
+Hi Damon! Thank you for your kind comment – so glad you’re enjoying the recipe! Sure, you could add a little cornmeal for crunch if you like. Reply
+Hi Damon! Thank you for your kind comment – so glad you’re enjoying the recipe! Sure, you could add a little cornmeal for crunch if you like.
+I’m not sure if I’ve seen these before, but if I have, thank you for the friendly reminder I need to make this recipe immediately!! I love pancakes, but they have to be fluffy and fun (I don’t like plain pancakes. Booooring! So, These are perfect! Plus I love how easy they are – just blend and pour! I can handle that! 😉 can’t wait to try these! Reply My pleasure, Cheyanne! I hope you’ll love them! Reply
+I’m not sure if I’ve seen these before, but if I have, thank you for the friendly reminder I need to make this recipe immediately!! I love pancakes, but they have to be fluffy and fun (I don’t like plain pancakes. Booooring! So, These are perfect! Plus I love how easy they are – just blend and pour! I can handle that! 😉 can’t wait to try these!
+My pleasure, Cheyanne! I hope you’ll love them! Reply
+My pleasure, Cheyanne! I hope you’ll love them!
+Lately I’ve really been enjoying oats in my pancakes. This stack looks absolutely wonderful Marissa!! I know my kids would love them too – that natural sweetness from the banana is the best! Reply I agree, Katherine! Thanks so much. Reply
+Lately I’ve really been enjoying oats in my pancakes. This stack looks absolutely wonderful Marissa!! I know my kids would love them too – that natural sweetness from the banana is the best!
+I agree, Katherine! Thanks so much. Reply
+I agree, Katherine! Thanks so much.
+As Seen In
+©2026 Pinch and Swirl. All rights reserved. Privacy Policy • Disclosure Policy • Powered by CultivateWP .

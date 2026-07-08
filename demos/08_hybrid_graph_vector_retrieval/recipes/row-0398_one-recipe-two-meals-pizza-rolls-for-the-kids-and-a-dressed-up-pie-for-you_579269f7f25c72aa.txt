@@ -1,0 +1,135 @@
+One Recipe, Two Meals: Pizza Rolls for the Kids and a Dressed-Up Pie for You
+============================================================================
+
+Recipe Metadata
+---------------
+Recipe ID: 579269f7f25c72aa
+CSV row number: 398
+Recipe name: One Recipe, Two Meals: Pizza Rolls for the Kids and a Dressed-Up Pie for You
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/one-recipe-two-meals-pizza-rolls-for-the-kids-and-a-dressed-up-pie-for-you0-3416401
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/026c047af4f5b7f0364b00cced4641ec66d8f7dcb83fb7a0a45a14fdd8b5dfb6/21124199.jpg
+Servings: 6
+Calories: 4867.46
+Diet labels: High-Fiber
+Health labels: Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites, FODMAP
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: One Recipe, Two Meals: Pizza Rolls for the Kids and a Dressed-Up Pie for You
+source: Food Network
+url: https://www.foodnetwork.com/recipes/one-recipe-two-meals-pizza-rolls-for-the-kids-and-a-dressed-up-pie-for-you0-3416401
+servings: 6
+calories: 4867.463384
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/026c047af4f5b7f0364b00cced4641ec66d8f7dcb83fb7a0a45a14fdd8b5dfb6/21124199.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites","FODMAP"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: One Recipe, Two Meals: Pizza Rolls for the Kids and a Dressed-Up Pie for You
+
+Recipe category: main-dish
+
+Yield: 6 servings for the Dressed-Up Pies; 20 to 22 Pizza Rolls
+
+Prep time: P0Y0M0DT0H10M0.000S
+
+Cook time: P0Y0M0DT0H40M0.000S
+
+Total time: P0Y0M0DT1H10M0.000S
+
+Ingredients:
+- Nonstick cooking spray, for the baking sheet
+- 2 pounds prepared pizza dough
+- All-purpose flour, for rolling
+- 1 cup prepared pizza sauce (more if you need it!)
+- 1/2 cup chopped fresh baby spinach, plus another cup whole leaves
+- 8 ounces shredded mozzarella
+- 1 egg, lightly beaten
+- 1 tablespoon unsalted butter
+- 1 teaspoon extra-virgin olive oil
+- One 8-ounce package mixed gourmet mushrooms (the package I buy contains trumpet, brown clamshell and velvet pioppini, but any mushroom you want to use is fine)
+- Kosher salt and freshly ground black pepper
+- 2 to 4 balls bocconcini (small fresh mozzarella balls)
+- 2 slices prosciutto
+- Small chunk Manchego cheese
+- Basil leaves, for garnish
+
+Instructions:
+1. Preheat the oven to 400 degrees F. Spray a baking sheet with nonstick cooking spray. If you have a pizza stone, put that in the oven, but leave a rack empty for baking the pizza rolls.
+2. Roll out 1 pound of the pizza dough 1/8-inch thick on a floured work surface. Using a pizza cutter, trim the edges to make a 12-inch square. Starting about 1 inch from the bottom, spread the pizza sauce in a thin line, from the left side to the right. Top with a sprinkling of chopped spinach and a small sprinkling of shredded mozzarella cheese. Starting from the bottom, roll the dough over the filling, and then roll one more half turn. Using a pizza cutter, slice off the completed roll, forming a long tube shape. Then slice the tube into 1 1/2-inch pieces; pinch the cut ends to seal, forming little rolls.
+3. Repeat the process with the remaining rolled out dough. You should be able to make about 22 rolls total. (You can freeze any leftover dough, or make some quick breadsticks.)
+4. Place the rolls about 1 1/2-inches apart on the baking sheet and brush the tops with some of the egg wash. Bake until golden brown on top, 13 to 16 minutes. (And the cheese might be seeping out on the sides, which means you've done something right in life.)
+5. While the pizza rolls bake, heat the butter and oil and in a medium skillet. Add the mushrooms and cook until tender, about 3 minutes. Season with salt and pepper.
+6. Cut the remaining pound of pizza dough in half, and roll out each piece on a floured worked surface to make two roughly 8-to-10-inch rounds. Put the rounds on baking sheets, or use a pizza peel to build 1 pizza at a time if you are using a pizza stone.
+7. Divide and spread the remaining pizza sauce evenly over both crusts. Follow with an even scattering of mushrooms, the whole spinach leaves and the remaining shredded mozzarella. Tear the bocconcini into pieces and scatter them over the tops of the pizzas. Bake both pizzas on the baking sheet or 1 at a time on the stone, until the dough is cooked through and the cheese is browned and bubbly, 13 to 17 minutes.
+8. Top the pizzas with some torn prosciutto and basil leaves and good shavings of Manchego. Serve and inhale.
+
+Visible page text:
+Home
+Recipes
+Bread
+Yeast Bread
+Rolls And Buns
+One Recipe, Two Meals: Pizza Rolls for the Kids and a Dressed-Up Pie for You
+Level: Easy
+Total: 1 hr 10 min
+Prep: 10 min
+Inactive: 20 min
+Cook: 40 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+Nonstick cooking spray, for the baking sheet
+2 pounds prepared pizza dough
+All-purpose flour, for rolling
+1 cup prepared pizza sauce (more if you need it!)
+1/2 cup chopped fresh baby spinach, plus another cup whole leaves
+8 ounces shredded mozzarella
+1 egg, lightly beaten
+1 tablespoon unsalted butter
+1 teaspoon extra-virgin olive oil
+One 8-ounce package mixed gourmet mushrooms (the package I buy contains trumpet, brown clamshell and velvet pioppini, but any mushroom you want to use is fine)
+Kosher salt and freshly ground black pepper
+2 to 4 balls bocconcini (small fresh mozzarella balls)
+2 slices prosciutto
+Small chunk Manchego cheese
+Basil leaves, for garnish
+Preheat the oven to 400 degrees F. Spray a baking sheet with nonstick cooking spray. If you have a pizza stone, put that in the oven, but leave a rack empty for baking the pizza rolls.
+Roll out 1 pound of the pizza dough 1/8-inch thick on a floured work surface. Using a pizza cutter, trim the edges to make a 12-inch square. Starting about 1 inch from the bottom, spread the pizza sauce in a thin line, from the left side to the right. Top with a sprinkling of chopped spinach and a small sprinkling of shredded mozzarella cheese. Starting from the bottom, roll the dough over the filling, and then roll one more half turn. Using a pizza cutter, slice off the completed roll, forming a long tube shape. Then slice the tube into 1 1/2-inch pieces; pinch the cut ends to seal, forming little rolls.
+Repeat the process with the remaining rolled out dough. You should be able to make about 22 rolls total. (You can freeze any leftover dough, or make some quick breadsticks.)
+Place the rolls about 1 1/2-inches apart on the baking sheet and brush the tops with some of the egg wash. Bake until golden brown on top, 13 to 16 minutes. (And the cheese might be seeping out on the sides, which means you've done something right in life.)
+While the pizza rolls bake, heat the butter and oil and in a medium skillet. Add the mushrooms and cook until tender, about 3 minutes. Season with salt and pepper.
+Cut the remaining pound of pizza dough in half, and roll out each piece on a floured worked surface to make two roughly 8-to-10-inch rounds. Put the rounds on baking sheets, or use a pizza peel to build 1 pizza at a time if you are using a pizza stone.
+Divide and spread the remaining pizza sauce evenly over both crusts. Follow with an even scattering of mushrooms, the whole spinach leaves and the remaining shredded mozzarella. Tear the bocconcini into pieces and scatter them over the tops of the pizzas. Bake both pizzas on the baking sheet or 1 at a time on the stone, until the dough is cooked through and the cheese is browned and bubbly, 13 to 17 minutes.
+Top the pizzas with some torn prosciutto and basil leaves and good shavings of Manchego. Serve and inhale.
+Categories:
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Roasted Pizza Potatoes Recipe
+One Recipe, Two Meals Chicken Lo Mein Recipe
+Garlic Chicken Roll-Ups  Recipe
+Easy Naan Pizza Recipe
+One Recipe, Two Ways
+Halloween Party Pizzas Recipe

@@ -1,0 +1,103 @@
+Sweet Potato Fries
+==================
+
+Recipe Metadata
+---------------
+Recipe ID: 52561cdbcd7da1ca
+CSV row number: 155
+Recipe name: Sweet Potato Fries
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/ree-drummond/sweet-potato-fries-recipe-2008565
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00f41ec5c2b41c182415f4debb07df32ffde76b0d2f6237bb53c34d0dbddff30/21109663.jpg
+Servings: 6
+Calories: 1336.82
+Diet labels: none listed
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: starter
+
+Original CSV Fields
+-------------------
+recipe_name: Sweet Potato Fries
+source: Food Network
+url: https://www.foodnetwork.com/recipes/ree-drummond/sweet-potato-fries-recipe-2008565
+servings: 6
+calories: 1336.816025
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00f41ec5c2b41c182415f4debb07df32ffde76b0d2f6237bb53c34d0dbddff30/21109663.jpg
+diet_labels: []
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["starter"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Sweet Potato Fries
+
+Recipe category: side-dish
+
+Yield: 6 servings
+
+Cook time: P0Y0M0DT0H10M0.000S
+
+Total time: P0Y0M0DT0H25M0.000S
+
+Ingredients:
+- 4 sweet potatoes, peeled and cut into thin fries
+- 1/2 stick butter, melted
+- 4 tablespoons olive oil
+- 2 teaspoons seasoned salt
+- Ground pepper
+- Minced fresh parsley
+
+Instructions:
+1. Preheat the oven to 450 degrees F.
+2. Place the fries in a bowl and drizzle over the melted butter, olive oil, seasoned salt and pepper to taste, and toss together. Tip onto a baking sheet and bake for 10 to 15 minutes. Sprinkle over the parsley before serving.
+
+Visible page text:
+Home
+Recipes
+Side Dishes
+We're sorry, there seems to be an issue playing this video. Please refresh the page or try again in a moment. If you continue to have issues, please contact us here .
+Sweet Potato Fries
+Level: Easy
+Total: 25 min
+Active: 10 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+4 sweet potatoes, peeled and cut into thin fries
+1/2 stick butter, melted
+4 tablespoons olive oil
+2 teaspoons seasoned salt
+Ground pepper
+Minced fresh parsley
+Preheat the oven to 450 degrees F.
+Place the fries in a bowl and drizzle over the melted butter, olive oil, seasoned salt and pepper to taste, and toss together. Tip onto a baking sheet and bake for 10 to 15 minutes. Sprinkle over the parsley before serving.
+Copyright 2012 Ree Drummond, All Rights Reserved
+Categories:
+More from:
+Everyday Celebrations
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Jazzed-Up Sweet Potato Fries Recipe
+Thin Fries Recipe
+Lone Star Fries Recipe
+Perfect French Fries Recipe
+Lemon-Pepper Fries Recipe
+Skirt Steak and Sweet Potato Fries Recipe

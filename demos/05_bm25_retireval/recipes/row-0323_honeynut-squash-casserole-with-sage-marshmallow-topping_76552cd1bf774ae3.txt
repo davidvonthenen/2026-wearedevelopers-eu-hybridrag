@@ -1,0 +1,113 @@
+Honeynut Squash Casserole with Sage Marshmallow Topping
+=======================================================
+
+Recipe Metadata
+---------------
+Recipe ID: 76552cd1bf774ae3
+CSV row number: 323
+Recipe name: Honeynut Squash Casserole with Sage Marshmallow Topping
+Source: EatingWell
+URL: https://www.eatingwell.com/recipe/7869454/honeynut-squash-casserole-with-sage-marshmallow-topping
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0208bcbbcd65ff837c3f4be7f4c858bb5001f2380117b870f03bab4af5340d19/21085095.jpg
+Servings: 16
+Calories: 3137.71
+Diet labels: none listed
+Health labels: Vegetarian, Gluten-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Honeynut Squash Casserole with Sage Marshmallow Topping
+source: EatingWell
+url: https://www.eatingwell.com/recipe/7869454/honeynut-squash-casserole-with-sage-marshmallow-topping
+servings: 16
+calories: 3137.711664
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0208bcbbcd65ff837c3f4be7f4c858bb5001f2380117b870f03bab4af5340d19/21085095.jpg
+diet_labels: []
+health_labels: ["Vegetarian","Gluten-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Honeynut Squash Casserole with Sage Marshmallow Topping
+
+Description: This honeynut squash recipe is bound to satisfy anyone at your Thanksgiving table. Once only available to chefs, honeynut squash (think: super-sweet butternuts) are now sold at farmers&#39; markets and some grocery stores in the fall.
+
+Recipe category: ['Side Dish']
+
+Recipe cuisine: ['American']
+
+Yield: 16
+
+Total time: PT120M
+
+Ingredients:
+- 5 pounds honeynut or butternut squash, peeled and cut into 1-inch chunks
+- 2 large eggs plus 4 egg whites, divided
+- 1 (12 ounce) can low-fat evaporated milk
+- 3 tablespoons packed light brown sugar
+- 2 tablespoons melted butter
+- 0.5 teaspoon ground cinnamon
+- 2.5 teaspoons vanilla extract, divided
+- 1.125 teaspoons salt, divided
+- 1 cup granulated sugar
+- 0.25 cup light corn syrup
+- 2 tablespoons finely chopped fresh sage
+- 0.5 teaspoon cream of tartar
+
+Instructions:
+1. Place squash in a large pot and add water to cover. Cover and bring to a boil over high heat. Reduce heat to maintain a simmer and cook until tender, 15 to 20 minutes. Drain well and return to the pot; mash. Let cool for 15 minutes.
+2. Preheat oven to 350°F. Coat a 9-by-13-inch broiler-safe baking dish with cooking spray.
+3. Whisk whole eggs, evaporated milk, brown sugar, butter, cinnamon, 2 teaspoons vanilla and 1 teaspoon salt in a large bowl. Stir in the squash. Spread in the prepared baking dish.
+4. Bake the casserole until the edges are starting to brown, about 45 minutes. Remove from oven. Turn the broiler to high.
+5. Meanwhile, bring 1 inch of water to a bare simmer in a medium saucepan. Whisk egg whites, granulated sugar, corn syrup, sage, cream of tartar and the remaining 1/2 teaspoon vanilla and 1/8 teaspoon salt in the bowl of a stand mixer. Set the bowl over the barely simmering water and whisk until the sugar has dissolved, 2 to 3 minutes. Move the bowl to the mixer and beat with the whisk attachment at high speed until the mixture has doubled in size and is white and fluffy, about 3 minutes.
+6. Spread or pipe the meringue over the casserole. Broil until lightly browned, watching carefully to prevent burning, 30 to 90 seconds.
+
+Visible page text:
+Honeynut Squash Casserole with Sage Marshmallow Topping
+This honeynut squash recipe is bound to satisfy anyone at your Thanksgiving table. Once only available to chefs, honeynut squash (think: super-sweet butternuts) are now sold at farmers' markets and some grocery stores in the fall.
+As EatingWell's Editorial Director, Carolyn Malcoun searches for cool farmers, chefs and other food stories to tell. She has a bachelor's degree in journalism from the University of Wisconsin and a culinary arts degree from New England Culinary Institute. She started at EatingWell as an intern in the Test Kitchen in 2005 and joined the editorial team soon after.
+Breana Lai Killeen, M.P.H, RD, is a Chinese and Jewish chef and dietitian who has worked in all facets of the food world. She is a recipe developer, culinary nutritionist and marketing specialist with more than 15 years of experience creating editorial and digital content for top food and kitchen brands.
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 16 servings
+5 pounds honeynut or butternut squash , peeled and cut into 1-inch chunks
+2 large eggs plus 4 large egg whites , divided
+1 (12 ounce) can low-fat evaporated milk
+3 tablespoons packed light brown sugar
+2 tablespoons melted butter
+½ teaspoon ground cinnamon
+2 ½ teaspoons vanilla extract , divided
+1 ⅛ teaspoons salt , divided
+1 cup granulated sugar
+¼ cup light corn syrup
+2 tablespoons finely chopped fresh sage
+½ teaspoon cream of tartar
+Directions
+Place squash in a large pot and add water to cover. Cover and bring to a boil over high heat. Reduce heat to maintain a simmer and cook until tender, 15 to 20 minutes. Drain well and return to the pot; mash. Let cool for 15 minutes.
+Preheat oven to 350°F. Coat a 9-by-13-inch broiler-safe baking dish with cooking spray.
+Whisk whole eggs, evaporated milk, brown sugar, butter, cinnamon, 2 teaspoons vanilla and 1 teaspoon salt in a large bowl. Stir in the squash. Spread in the prepared baking dish.
+Bake the casserole until the edges are starting to brown, about 45 minutes. Remove from oven. Turn the broiler to high.
+Meanwhile, bring 1 inch of water to a bare simmer in a medium saucepan. Whisk egg whites, granulated sugar, corn syrup, sage, cream of tartar and the remaining 1/2 teaspoon vanilla and 1/8 teaspoon salt in the bowl of a stand mixer. Set the bowl over the barely simmering water and whisk until the sugar has dissolved, 2 to 3 minutes. Move the bowl to the mixer and beat with the whisk attachment at high speed until the mixture has doubled in size and is white and fluffy, about 3 minutes.
+Spread or pipe the meringue over the casserole. Broil until lightly browned, watching carefully to prevent burning, 30 to 90 seconds.
+Tips
+To make ahead: Prepare through Step 3 and refrigerate for up to 2 days. Let stand at room temperature while the oven preheats. Refrigerate topping (Step 5) for up to 1 day.
+Nutrition Facts (per serving)
+Nutrition information is calculated by a registered dietitian using an ingredient database but should be considered an estimate.
+* Daily Values (DVs) are the recommended amounts of nutrients to consume each day. Percent Daily Value (%DV) found on nutrition labels tells you how much a serving of a particular food or recipe contributes to each of those total recommended amounts. Per the Food and Drug Administration (FDA), the daily value is based on a standard 2,000 calorie diet. Depending on your calorie needs or if you have a health condition, you may need more or less of particular nutrients. (For example, it’s recommended that people following a heart-healthy diet eat less sodium on a daily basis compared to those following a standard diet.)
+(-) Information is not currently available for this nutrient. If you are following a special diet for medical reasons, be sure to consult with your primary care provider or a registered dietitian to better understand your personal nutrition needs.
+Gluten-Free
+Gluten-Free Holidays
+Gluten-Free Thanksgiving
+Gluten-Free Thanksgiving Sides
+Related Articles

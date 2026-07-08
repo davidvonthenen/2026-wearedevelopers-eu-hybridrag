@@ -1,0 +1,82 @@
+Watermelon Gin Fizz
+===================
+
+Recipe Metadata
+---------------
+Recipe ID: 57b3065ff71c6a23
+CSV row number: 337
+Recipe name: Watermelon Gin Fizz
+Source: ashleybrookedesigns.com
+URL: https://ashleybrookedesigns.com/in-the-kitchen-with-abd-watermelon-gin-fizz/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/021b4206c1a3031825754b90d6f0f05fa8da57487d5e327f69aad0cb7a5f55c0/21097089.jpg
+Servings: 2
+Calories: 256.26
+Diet labels: Low-Fat, Low-Sodium
+Health labels: none listed
+Allergy cautions: Sulfites
+Cuisine type: world
+Meal type: lunch/dinner
+Dish type: alcohol cocktail
+
+Original CSV Fields
+-------------------
+recipe_name: Watermelon Gin Fizz
+source: ashleybrookedesigns.com
+url: https://ashleybrookedesigns.com/in-the-kitchen-with-abd-watermelon-gin-fizz/
+servings: 2
+calories: 256.2609916
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/021b4206c1a3031825754b90d6f0f05fa8da57487d5e327f69aad0cb7a5f55c0/21097089.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: []
+cautions: ["Sulfites"]
+cuisine_type: ["world"]
+meal_type: ["lunch/dinner"]
+dish_type: ["alcohol cocktail"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+In The Kitchen With ABD: Watermelon Gin Fizz
+Let's Get Fizzy!
+Since it's Friday and all, I thought I would share with you a fun little Summer cocktail recipe that will make the perfect weekend companion! Watermelon is pretty much my favorite fruit, and I will find ways to incorporate...
+Let’s Get Fizzy!
+Since it’s Friday and all, I thought I would share with you a fun little Summer cocktail recipe that will make the perfect weekend companion! Watermelon is pretty much my favorite fruit, and I will find ways to incorporate it into everything! When I stumbled upon this recipe a few weeks ago, I said “SOLD!” Gin + watermelon. Could one ask for anything more?
+I hope you enjoy this cocktail, and make sure if you whip it up this weekend to tell us what you think with #cookingwithABD!
+On another note, some cocktails are so hard to make, needing rare organic rose bitters and such. Don’t get me wrong, I absolutely LOVE a fancy craft cocktail, but this recipe is super easy and only takes 4 ingredients, most you probably already have on hand!
+The original recipe calls for pureed watermelon, but to be quite honest, I didn’t want to wash that many dishes (ha!), so I muddled it! Feel free to puree, but muddling worked perfectly.
+Also, I had ginger brew on hand since our favorite cocktail in the Summer is a Moscow Mule; I think this recipe would taste equally as good with regular ole’ ginger ale! Use what you have.
+2 cups diced watermelon, pureed or muddled
+3 ounces gin, divided (1.5 per serving)
+4 tablespoons lime juice, (2 tbs per serving)
+1/2 (ish!) cup ginger ale, divided
+Lime wedges, for garnish
+Combine all ingredients into cocktail shaker
+Shake hard
+Pour over ice
+Enjoy!
+Let us know if you try out the recipe! Share a photo on social media with #cookingwithABD & @ashleybrookedesigns
+Leave A Comment
+Book Club
+Join Our Discussion
+Cancel reply
+Explore
+More Lifestyle
+No related photos.
+Join The Club
+Stay up to date on our latest book pick, author exclusives, giveaways, and more!
+Follow the Book Club on Instagram
+Stay Connected
+Stay up to date on the latest lifestyle trends, girl talk, fun giveaways, and more!
+The Latest
+Gift Guides
+Daily Style
+Recipes
+Interiors
+Style
+Family
+Beauty
+Shop

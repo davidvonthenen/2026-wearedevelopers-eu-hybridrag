@@ -1,0 +1,76 @@
+Avocado-Alfalfa Turkey Burger
+=============================
+
+Recipe Metadata
+---------------
+Recipe ID: 2fc5440c713b0cac
+CSV row number: 289
+Recipe name: Avocado-Alfalfa Turkey Burger
+Source: Epicurious
+URL: https://www.epicurious.com/recipes/food/views/avocado-alfalfa-turkey-burger-51196220
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01cfa3263203223e34076bb7fbba4587323d2537cabc85f6f5ef776e3a0f96e6/21022507.jpg
+Servings: 4
+Calories: 2258.38
+Diet labels: High-Fiber
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: sandwiches
+
+Original CSV Fields
+-------------------
+recipe_name: Avocado-Alfalfa Turkey Burger
+source: Epicurious
+url: https://www.epicurious.com/recipes/food/views/avocado-alfalfa-turkey-burger-51196220
+servings: 4
+calories: 2258.382965838503
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01cfa3263203223e34076bb7fbba4587323d2537cabc85f6f5ef776e3a0f96e6/21022507.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["sandwiches"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Avocado-Alfalfa Turkey Burger
+
+Description: Tart, fruity pomegranate molasses brightens up the mellow turkey.
+
+Yield: Makes 4 servings
+
+Ingredients:
+- 1/4 cup ketchup
+- 1 1/2 tablespoons pomegranate molasses (available at Whole Foods)
+- 1 Hass avocado
+- 1 tablespoon fresh lime juice
+- 1 pound ground turkey (97 percent lean)
+- Vegetable-oil cooking spray
+- 4 slices Monterey Jack cheese
+- 2 small vine-ripened tomatoes, sliced
+- 4 ounces alfalfa sprouts
+- 4 whole-wheat hamburger buns, toasted
+
+Instructions:
+1. In a bowl, combine ketchup and molasses; season with salt and pepper. In another bowl, crush avocado with juice; season with salt. Form turkey into four patties. Coat a grill pan or grill rack with cooking spray. Grill patties over medium-high heat until internal temperature reaches 165°F, 20 minutes. Top each with 1 cheese slice. Divide ketchup mixture, burgers, tomatoes, avocado mixture and alfalfa sprouts among buns.
+
+Visible page text:
+Tart, fruity pomegranate molasses brightens up the mellow turkey.
+Recipe information
+Yield Makes 4 servings
+Yield
+Makes 4 servings
+Ingredients
+Preparation
+In a bowl, combine ketchup and molasses; season with salt and pepper. In another bowl, crush avocado with juice; season with salt. Form turkey into four patties. Coat a grill pan or grill rack with cooking spray. Grill patties over medium-high heat until internal temperature reaches 165°F, 20 minutes. Top each with 1 cheese slice. Divide ketchup mixture, burgers, tomatoes, avocado mixture and alfalfa sprouts among buns.
+Nutrition Per Serving
+Recipe notes
+icon Burgers Beyond Beef With some kitchen smarts and great flavors, you don't need beef for a good burger.
+Burgers Beyond Beef

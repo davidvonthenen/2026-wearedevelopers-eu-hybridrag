@@ -1,0 +1,93 @@
+Macadamia Nut Hummus recipes
+============================
+
+Recipe Metadata
+---------------
+Recipe ID: 7ae9a3efed89b377
+CSV row number: 192
+Recipe name: Macadamia Nut Hummus recipes
+Source: healthfulpursuit.com
+URL: http://www.healthfulpursuit.com/recipe/macadamia-nut-hummus/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0136b27974b01855e96e120e71969199033f8240949fa00659a2790e60ba776f/21131199.jpeg
+Servings: 8
+Calories: 1164.13
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Vegan, Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean
+Meal type: snack
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Macadamia Nut Hummus recipes
+source: healthfulpursuit.com
+url: http://www.healthfulpursuit.com/recipe/macadamia-nut-hummus/
+servings: 8
+calories: 1164.126209785565
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0136b27974b01855e96e120e71969199033f8240949fa00659a2790e60ba776f/21131199.jpeg
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["snack"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+I want...
+Macadamia Nut Hummus
+July 10, 2013 by Leanne Vogel December 10, 2018
+Nut-based, paleo-friendly hummus with a slight kick of spice.
+Eating Style:
+Candida Friendly, Dairy-free, Egg-free, Gluten-free, Grain-free, Keto, Paleo, Refined Sugar-free, Soy-free, Sugar-free, Vegan, Vegetarian
+Prep Time:
+5 minutes
+Serves:
+8
+Ingredients
+1 cup raw macadamia nuts , soaked in water for 24 hours, drained and rinsed
+2-3 cloves garlic
+3 tablespoons fresh lemon juice
+2-3 tablespoons water
+2 tablespoons tahini
+pinch cayenne pepper
+sea salt and freshly ground pepper, to taste
+Instructions
+Add all ingredients to the bowl of your food processor or high powered blender and blend on high until smooth.
+Notes
+Begin with 2 cloves of garlic and 2 tablespoons of water and work your way up, if needed.
+Nutrition Information Per Serving
+Calories:
+116
+Calories from Fat:
+106.2
+Total Fat:
+11.8 g
+Saturated Fat:
+1.9 g
+Sodium:
+5 mg
+Carbs:
+2.8 g
+Dietary Fiber:
+1.5 g
+Net Carbs:
+1.3 g
+Sugars:
+0.7 g
+Protein:
+1.7 g
+You May Also Like...
+#114 Make Your Keto Better with Dr. Lisa Koche
+The Keto Diet Podcast Ep. #048: Overcoming Amenorrhea on Keto
+Healthy + GARBAGE Keto Snacks
+Self Doubt & Social Media
+Hi! I'm Leanne (RHN FBCS)
+a Functional Medicine Practitioner, host of the Healthful Pursuit Podcast, and best-selling author of The Keto Diet & Keto for Women. I want to live in a world where every woman has access to knowledge to better her health.
+Read more about me...

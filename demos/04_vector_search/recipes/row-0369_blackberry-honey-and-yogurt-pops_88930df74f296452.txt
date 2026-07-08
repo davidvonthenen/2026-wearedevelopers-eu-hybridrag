@@ -1,0 +1,204 @@
+Blackberry, Honey And Yogurt Pops
+=================================
+
+Recipe Metadata
+---------------
+Recipe ID: 88930df74f296452
+CSV row number: 369
+Recipe name: Blackberry, Honey And Yogurt Pops
+Source: Lottie + Doof
+URL: http://www.lottieanddoof.com/2010/08/blackberry-honey-and-yogurt-pops/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02593846841e3918465fa2f5c92c7d2918f23ec61b0c9df7fae47019a39790fc/20951554.jpg
+Servings: 4
+Calories: 484.62
+Diet labels: High-Fiber, Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Blackberry, Honey And Yogurt Pops
+source: Lottie + Doof
+url: http://www.lottieanddoof.com/2010/08/blackberry-honey-and-yogurt-pops/
+servings: 4
+calories: 484.6150000054449
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02593846841e3918465fa2f5c92c7d2918f23ec61b0c9df7fae47019a39790fc/20951554.jpg
+diet_labels: ["High-Fiber","Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+“Only Connect”
+– E.M. Forster
+Blackberry, Honey and Yogurt Pops
+Wednesday, August 4, 2010
+This is a good place to start to inventing your own yogurt pops. Other fruits and sweeteners could be used as they become available at the market. Stay cool, friends and keep enjoying summer while it lasts.
+Blackberry, Honey and Yogurt Pops (adapted from Bon Appetit, August 2010 )
+2/3 cup water
+2/3 cup sugar
+3 6-ounce containers fresh blackberries (3 1/2 to 3 3/4 cups)
+1 cup plain nonfat yogurt (preferably organic)
+5 teaspoons honey
+1 tablespoon fresh lemon juice
+Bring 2/3 cup water and sugar to boil in small saucepan over medium-high heat, stirring until sugar dissolves. Transfer simple syrup to small bowl and chill until cold, about 1 hour.
+Place blackberries in processor; puree until smooth. Pour blackberry puree into strainer set over medium bowl. Using rubber spatula, press on solids to extract as much puree as possible. Discard seeds in strainer. Measure 2 cups blackberry puree and place in another medium bowl for pops (reserve any remaining puree for another use). Add chilled simple syrup, yogurt, honey, and lemon juice to puree; whisk to blend.
+Divide mixture among 10 molds (each about 1/3- to 1/2-cup capacity). Top with mold cover, if available, and insert stick into each. (If cover is not available, cover top of mold with plastic wrap, pulling taut; freeze until partially frozen, then insert stick into center of plastic wrap and into pop mixture in each.) Freeze pops until firm, at least 8 hours or overnight.
+Dip bottom of mold into hot water 10 to 15 seconds to loosen pops. Remove pops from molds and serve.
+36 comments to “Blackberry, Honey and Yogurt Pops”
+Christine says: August 4th, 2010 at 1:57 pm Oh – these look so good! Do you know where you got your popsicle molds? I love them!
+Christine says:
+August 4th, 2010 at 1:57 pm
+Oh – these look so good! Do you know where you got your popsicle molds? I love them!
+laura k says: August 4th, 2010 at 2:07 pm I have been all about the yogurt pops this summer. Currently in the freezer are some peach rosemary pops. I also made strawberry balsamic mascarpone yogurt pops. I think banana peanut butter popsicles might be coming up next. I love it! It’s a perfect dessert, and doesn’t make you feel too terrible because it’s mostly fruit and yogurt. It’s dessert that’s good for you!
+laura k says:
+August 4th, 2010 at 2:07 pm
+I have been all about the yogurt pops this summer. Currently in the freezer are some peach rosemary pops. I also made strawberry balsamic mascarpone yogurt pops. I think banana peanut butter popsicles might be coming up next. I love it! It’s a perfect dessert, and doesn’t make you feel too terrible because it’s mostly fruit and yogurt. It’s dessert that’s good for you!
+Dawn (KitchenTravels) says: August 4th, 2010 at 2:15 pm Love that ice pop mold! Can you share the source? :)
+Dawn (KitchenTravels) says:
+August 4th, 2010 at 2:15 pm
+Love that ice pop mold! Can you share the source? :)
+GH says: August 4th, 2010 at 2:41 pm Mmm that looks delicious. To nitpick – Popsicle isn’t copyrighted but rather trademarked (you usually can’t get copyright protection words, although you can trademark them) but you could probably still use it here as it’s not commercial.
+GH says:
+August 4th, 2010 at 2:41 pm
+Mmm that looks delicious.
+To nitpick – Popsicle isn’t copyrighted but rather trademarked (you usually can’t get copyright protection words, although you can trademark them) but you could probably still use it here as it’s not commercial.
+Tim says: August 4th, 2010 at 2:51 pm Hi Dawn, the pop mold is here: http://www.amazon.com/Norpro-Ice-Pop-Popsicle-Maker/dp/B0002IBJOG
+Tim says:
+August 4th, 2010 at 2:51 pm
+Hi Dawn, the pop mold is here: http://www.amazon.com/Norpro-Ice-Pop-Popsicle-Maker/dp/B0002IBJOG
+tj says: August 4th, 2010 at 3:52 pm …I wonder, could one just add the whole kit ‘n’ kaboodle into the mix and just freeze it for a chunky sorta popsicle vs. straining and all that? You know, in case one was into that sorta thing… :o) …Thank you these look and sound scrumptious! …Blessin’s…
+tj says:
+August 4th, 2010 at 3:52 pm
+…I wonder, could one just add the whole kit ‘n’ kaboodle into the mix and just freeze it for a chunky sorta popsicle vs. straining and all that? You know, in case one was into that sorta thing… :o)
+…Thank you these look and sound scrumptious!
+…Blessin’s…
+kari says: August 4th, 2010 at 4:33 pm Oooh, that is about the exact pop mold I have been looking for. Thanks for sharing!
+kari says:
+August 4th, 2010 at 4:33 pm
+Oooh, that is about the exact pop mold I have been looking for. Thanks for sharing!
+Heather @ Whisk Flip Stir says: August 5th, 2010 at 12:33 pm Your photos are beautiful. That purple-y red is stunning.
+Heather @ Whisk Flip Stir says:
+August 5th, 2010 at 12:33 pm
+Your photos are beautiful. That purple-y red is stunning.
+linda says: August 5th, 2010 at 3:30 pm this sounds like a great & adaptable treat! thanks tim…cool & refreshing!
+linda says:
+August 5th, 2010 at 3:30 pm
+this sounds like a great & adaptable treat! thanks tim…cool & refreshing!
+Heather @ chik n pastry says: August 5th, 2010 at 4:06 pm oh i saw these and wanted to make them bad! the article was fascinating , too.
+Heather @ chik n pastry says:
+August 5th, 2010 at 4:06 pm
+oh i saw these and wanted to make them bad! the article was fascinating , too.
+Charles G Thompson says: August 5th, 2010 at 10:09 pm I have the same mold and love it. Recently made Lemon Buttermilk popsicles and they were delish. Will try your recipe next.
+Charles G Thompson says:
+August 5th, 2010 at 10:09 pm
+I have the same mold and love it. Recently made Lemon Buttermilk popsicles and they were delish. Will try your recipe next.
+nina says: August 6th, 2010 at 4:22 am Hi, new to the site and LOVE it! After reading this, I’m now obsessed with wanting to make ice pops. Could you please share info where you got the mold?
+nina says:
+August 6th, 2010 at 4:22 am
+Hi, new to the site and LOVE it!
+After reading this, I’m now obsessed with wanting to make ice pops. Could you please share info where you got the mold?
+Cindy says: August 6th, 2010 at 5:30 pm I too spied the recipe in bon appetite. Looks like it’s really a winner. How can it not be with that color. Gorgeous!
+Cindy says:
+August 6th, 2010 at 5:30 pm
+I too spied the recipe in bon appetite. Looks like it’s really a winner. How can it not be with that color. Gorgeous!
+molly says: August 6th, 2010 at 8:15 pm We have been living on Molly (Orangette)’s raspberry-yogurt pops, which I hand to my kids like lunch (two? sure!). They are fiendishly good, and battle the heat. But where oh where did you get that mold? Dish!
+molly says:
+August 6th, 2010 at 8:15 pm
+We have been living on Molly (Orangette)’s raspberry-yogurt pops, which I hand to my kids like lunch (two? sure!). They are fiendishly good, and battle the heat. But where oh where did you get that mold? Dish!
+Zorana says: August 7th, 2010 at 11:14 pm Am also interested in the popsicle mold … could you post the info for all to see?
+Zorana says:
+August 7th, 2010 at 11:14 pm
+Am also interested in the popsicle mold … could you post the info for all to see?
+danielle says: August 8th, 2010 at 3:20 pm must be the year of the popsicle:) i have been making green smoothie versions with spinach, bananas, peaches and agave nectar for sweetener…a good way to sneak some veggies and whole fruit into toddlers!! these blackberry yogurt ones look luscious!! and are now on the farmers market shopping list! thanks-
+danielle says:
+August 8th, 2010 at 3:20 pm
+must be the year of the popsicle:) i have been making green smoothie versions with spinach, bananas, peaches and agave nectar for sweetener…a good way to sneak some veggies and whole fruit into toddlers!! these blackberry yogurt ones look luscious!! and are now on the farmers market shopping list! thanks-
+anne keane says: August 9th, 2010 at 8:45 am These look delish!
+anne keane says:
+August 9th, 2010 at 8:45 am
+These look delish!
+Chrissy says: August 14th, 2010 at 6:09 pm Just got this same mold and after a thumbs down to my “I-just-opened-the-box-and-now-I-want-instant-pops” orange juice + vanilla yogurt concoction, I”m desperate for real ideas – this is #1, then some of the ones mentioned above – we could seriously start a whole other blog for these this summer – Midwest = mug-gy.
+Chrissy says:
+August 14th, 2010 at 6:09 pm
+Just got this same mold and after a thumbs down to my “I-just-opened-the-box-and-now-I-want-instant-pops” orange juice + vanilla yogurt concoction, I”m desperate for real ideas – this is #1, then some of the ones mentioned above – we could seriously start a whole other blog for these this summer – Midwest = mug-gy.
+Gabriella says: August 19th, 2011 at 12:36 pm I can imagine myself and my pet sitting and nomming on these refreshing and stickily delicious treats an hot evening. :3
+Gabriella says:
+August 19th, 2011 at 12:36 pm
+I can imagine myself and my pet sitting and nomming on these refreshing and stickily delicious treats an hot evening. :3
+Shelley Hennig says: January 11th, 2012 at 4:15 pm Yum! I’m thinking I might make mini popsicles with my ice cube tray. I don’t have popsicle molds :(
+Shelley Hennig says:
+January 11th, 2012 at 4:15 pm
+Yum! I’m thinking I might make mini popsicles with my ice cube tray. I don’t have popsicle molds :(
+Kare says: April 27th, 2012 at 3:22 pm Thanks for sharing this tasty inspirational recipe. I’m trying desperately to put calcium and fresh fruit in my picky preteen’s stomach. We’ve been secretly dicing and mincing tons of fruits and veggies in all kinds of stuff, but the lil sucker is so clever…Question: I don’t own a food processor. I do have a blender and a cheap manual dicer/chopper. I imagine the juice would make quite a deep red mess. Can I cheat with fruit juice and just add some diced berries to humor myself? Has anyone tried that? Or can I get away with using my dicer? I’ve always wanted a pink one anyway lol.
+Kare says:
+April 27th, 2012 at 3:22 pm
+Thanks for sharing this tasty inspirational recipe. I’m trying desperately to put calcium and fresh fruit in my picky preteen’s stomach. We’ve been secretly dicing and mincing tons of fruits and veggies in all kinds of stuff, but the lil sucker is so clever…Question:
+I don’t own a food processor. I do have a blender and a cheap manual dicer/chopper. I imagine the juice would make quite a deep red mess. Can I cheat with fruit juice and just add some diced berries to humor myself? Has anyone tried that? Or can I get away with using my dicer? I’ve always wanted a pink one anyway lol.
+Tim says: April 27th, 2012 at 4:07 pm Hey Kare, I would just use the blender. It will work just as well as the food processor. You could try juice, but it won’t be as good or as healthy. I hope it works!
+April 27th, 2012 at 4:07 pm
+Hey Kare, I would just use the blender. It will work just as well as the food processor. You could try juice, but it won’t be as good or as healthy. I hope it works!
+veronica says: May 11th, 2012 at 11:42 am that looks awesomely good. i want to try that
+veronica says:
+May 11th, 2012 at 11:42 am
+that looks awesomely good. i want to try that
+Celeste says: June 4th, 2012 at 1:11 pm How do you get your ice pops to come out of the mold without breaking what’s inside? This is the most difficult part of the process for me.
+Celeste says:
+June 4th, 2012 at 1:11 pm
+How do you get your ice pops to come out of the mold without breaking what’s inside? This is the most difficult part of the process for me.
+Tim says: June 6th, 2012 at 8:43 am Hi Celeste! I run some hot water over the bottom part of the molds. Or dip them in a bowl of warm water. They slide out easily then….
+June 6th, 2012 at 8:43 am
+Hi Celeste! I run some hot water over the bottom part of the molds. Or dip them in a bowl of warm water. They slide out easily then….
+Cami says: June 26th, 2012 at 9:12 pm HELP! Where do I get those popcicle molds from??! I haven’t been able to find them anywhere :(
+Cami says:
+June 26th, 2012 at 9:12 pm
+HELP! Where do I get those popcicle molds from??! I haven’t been able to find them anywhere :(
+Tim says: June 26th, 2012 at 9:16 pm Hi Cami- You don’t need to be sad. The link to the molds is above in the comments.
+June 26th, 2012 at 9:16 pm
+Hi Cami- You don’t need to be sad. The link to the molds is above in the comments.
+Rachel says: July 6th, 2012 at 11:42 am Ok, my sticks are the only thing that comes out of the mold after freezing. And I’ve tried dipping the mold in hot water for a few seconds first…what am I doing wrong???
+Rachel says:
+July 6th, 2012 at 11:42 am
+Ok, my sticks are the only thing that comes out of the mold after freezing. And I’ve tried dipping the mold in hot water for a few seconds first…what am I doing wrong???
+Tim says: July 6th, 2012 at 11:51 am Hey Rachel, My guess is that either they were not frozen enough, or you didn’t leave in hot water long enough. As long as they were frozen solid, you should try leaving them in hot water for 15-30 seconds. keep trying until they release.
+July 6th, 2012 at 11:51 am
+Hey Rachel, My guess is that either they were not frozen enough, or you didn’t leave in hot water long enough. As long as they were frozen solid, you should try leaving them in hot water for 15-30 seconds. keep trying until they release.
+Anne says: August 12th, 2012 at 3:26 pm These look great, but if I don’t like yogurt, can I use vanilla ice cream or heavy cream instead?
+Anne says:
+August 12th, 2012 at 3:26 pm
+These look great, but if I don’t like yogurt, can I use vanilla ice cream or heavy cream instead?
+loki says: March 13th, 2013 at 8:02 pm 2/3’s cup sugar and thats a healthy desert?
+loki says:
+March 13th, 2013 at 8:02 pm
+2/3’s cup sugar and thats a healthy desert?
+Tim says: March 14th, 2013 at 9:33 am Yes, Loki! So healthy!
+March 14th, 2013 at 9:33 am
+Yes, Loki! So healthy!
+Leslie says: April 9th, 2013 at 8:36 pm I made these yesterday, but I didn’t strain them and I think I either put too much honey or not enough lemon juice in them because they were really sweet.
+Leslie says:
+April 9th, 2013 at 8:36 pm
+I made these yesterday, but I didn’t strain them and I think I either put too much honey or not enough lemon juice in them because they were really sweet.
+sunqueen says: August 2nd, 2013 at 10:54 pm We cried when we ate the last two pops. I couldn’t believe the price of blackberries. I paid $16 for them in FL but I made 1 1/2 x the recipe. I got 6 huge popsicles and had a pint left. I made a quart of (barely) sweet cream ice cream and poured 2 oz of the blackberry “syrup” between the layers as I packed it into containers. We had a few small scoops for dessert tonight. OMG!!
+sunqueen says:
+August 2nd, 2013 at 10:54 pm
+We cried when we ate the last two pops. I couldn’t believe the price of blackberries. I paid $16 for them in FL but I made 1 1/2 x the recipe. I got 6 huge popsicles and had a pint left. I made a quart of (barely) sweet cream ice cream and poured 2 oz of the blackberry “syrup” between the layers as I packed it into containers. We had a few small scoops for dessert tonight. OMG!!
+soumya says: November 1st, 2014 at 1:39 pm Thank u so much for sharing ur awesome recipe. Followed it blueberries as i didn’t have blackberries…. The result was too good…my daughter and husband loved those icecream. … I am super satisfied …. thanks again…. keep sharing ☺☺
+soumya says:
+November 1st, 2014 at 1:39 pm
+Thank u so much for sharing ur awesome recipe. Followed it blueberries as i didn’t have blackberries…. The result was too good…my daughter and husband loved those icecream. … I am super satisfied …. thanks again…. keep sharing ☺☺
+Deborah Dean says: April 5th, 2016 at 6:18 am Black Berry Pops Wow!
+Deborah Dean says:
+April 5th, 2016 at 6:18 am
+Black Berry Pops Wow!
+What do you think?

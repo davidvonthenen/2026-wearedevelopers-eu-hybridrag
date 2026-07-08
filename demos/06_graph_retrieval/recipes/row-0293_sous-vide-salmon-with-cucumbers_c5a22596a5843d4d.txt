@@ -1,0 +1,94 @@
+Sous Vide Salmon with Cucumbers
+===============================
+
+Recipe Metadata
+---------------
+Recipe ID: c5a22596a5843d4d
+CSV row number: 293
+Recipe name: Sous Vide Salmon with Cucumbers
+Source: Food & Wine
+URL: https://www.foodandwine.com/recipes/sous-vide-salmon-cucumbers
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01d434e4c7ddd3b827f1b4857624aa07e9d9395f4b807296d2b63eea8e17a928/21047871.jpg
+Servings: 4
+Calories: 1964.59
+Diet labels: Low-Carb
+Health labels: Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: nordic
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Sous Vide Salmon with Cucumbers
+source: Food & Wine
+url: https://www.foodandwine.com/recipes/sous-vide-salmon-cucumbers
+servings: 4
+calories: 1964.594131
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01d434e4c7ddd3b827f1b4857624aa07e9d9395f4b807296d2b63eea8e17a928/21047871.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["nordic"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Sous Vide Salmon with Cucumbers
+
+Description: Maria Hines of Tilth in Seattle turns salmon buttery-soft and rare in just 12 minutes. For more-well-done fish, up the water temperature.Plus: Tho...
+
+Recipe category: ['Dinner']
+
+Recipe cuisine: ['American']
+
+Yield: 4
+
+Total time: PT45M
+
+Ingredients:
+- 2 seedless cucumbers, peeled—1 sliced crosswise 1/4 inch thick, 1 halved, seeded and julienned
+- Salt and freshly ground black pepper
+- Four 6-ounce, center-cut skinless salmon fillets, chilled
+- Freshly ground white pepper
+- 8 ounces plain nonfat Greek yogurt
+- 1/2 cup coarsely chopped dill
+- 2 tablespoons extra-virgin olive oil
+- Juice of 1 lemon
+
+Instructions:
+1. Preheat a water bath to 122° for rare salmon, 160° for medium. Light a grill or preheat a grill pan. Season the sliced cucumber with salt and black pepper. Grill over high heat, turning once, until lightly charred, about 2 minutes. Transfer to a plate.
+2. Season the salmon with salt and white pepper; transfer to four 1-quart, vacuum-pack bags and vacuum-seal. Submerge the bags in the water bath and cook at the desired temperature for 12 minutes.
+3. In a blender, blend the yogurt with the dill; season with salt and black pepper. In a small bowl, toss the julienned cucumber with the oil and lemon juice; season with salt. Remove the fillets from the bags and transfer to plates. Top with the grilled and julienned cucumber, dollop with the dill sauce and serve.
+
+Visible page text:
+Ingredients
+Seafood
+Fish
+Salmon
+Sous Vide Salmon with Cucumbers
+Maria Hines of Tilth in Seattle turns salmon buttery-soft and rare in just 12 minutes. For more-well-done fish, up the water temperature.
+Why Because she's obsessed with finding the best fish, meat and produce, and smart in how she uses them in her extraordinary Pacific Northwestern menu: She finds three ways to serve tomatoes with her luscious cod. Born Bowling Green, OH; 1972. Education Culinary program at Mesa College, San Diego, CA. Experience George's at the Cove in La Jolla, CA; L'Essentiel in Chambéry, France; Eleven Madison Park in New York City. Why she became a chef "I remember peeling carrots at my first restaurant job, and thinking, 'I can't believe someone would pay me to peel carrots. It's so fun.'" Pet peeve Cooks who slouch. "I know it's tedious to deleaf a case of parsley, but when you're in the kitchen, you need to look like you're working, not hanging out." Favorite farmer "I love Linda Neunzig, who owns Ninety Farms [in Arlington, WA]. I told her I wanted squash the size of her little daughter's hand. And it comes in that way each day." Favorite childhood dish Her mom's macaroni and cheese. "It's what we had for lunch when she let me play hooky from school." Pre-marathon training diet "I did a recipe for Runner's World on the best training dish with tuna, pasta and tomatoes. But what I really ate before the Seattle Marathon was beer, bourbon and doughnuts." Won Best New Chef at: Earth & Ocean; Seattle
+2 seedless cucumbers, peeled—1 sliced crosswise 1/4 inch thick, 1 halved, seeded and julienned
+Salt and freshly ground black pepper
+Four 6-ounce, center-cut skinless salmon fillets, chilled
+Freshly ground white pepper
+8 ounces plain nonfat Greek yogurt
+1/2 cup coarsely chopped dill
+2 tablespoons extra-virgin olive oil
+Juice of 1 lemon
+Directions
+Preheat a water bath to 122° for rare salmon, 160° for medium. Light a grill or preheat a grill pan. Season the sliced cucumber with salt and black pepper. Grill over high heat, turning once, until lightly charred, about 2 minutes. Transfer to a plate.
+Season the salmon with salt and white pepper; transfer to four 1-quart, vacuum-pack bags and vacuum-seal. Submerge the bags in the water bath and cook at the desired temperature for 12 minutes.
+In a blender, blend the yogurt with the dill; season with salt and black pepper. In a small bowl, toss the julienned cucumber with the oil and lemon juice; season with salt. Remove the fillets from the bags and transfer to plates. Top with the grilled and julienned cucumber, dollop with the dill sauce and serve.
+Serve With
+Steamed couscous.
+Suggested Pairing
+Greek white.
+Related Articles

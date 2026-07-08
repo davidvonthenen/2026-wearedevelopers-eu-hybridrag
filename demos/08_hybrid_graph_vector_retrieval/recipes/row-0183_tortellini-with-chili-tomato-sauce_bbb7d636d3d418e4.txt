@@ -1,0 +1,104 @@
+Tortellini With Chili-Tomato Sauce
+==================================
+
+Recipe Metadata
+---------------
+Recipe ID: bbb7d636d3d418e4
+CSV row number: 183
+Recipe name: Tortellini With Chili-Tomato Sauce
+Source: food.com
+URL: http://www.food.com/recipe/tortellini-with-chili-tomato-sauce-367203
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/012588983bf28c1ac9f6243ce8a0c0a2311abc3f6ea511b592f34c70c8da3cc8/21116315.jpg
+Servings: 4
+Calories: 1305.76
+Diet labels: High-Fiber
+Health labels: Egg-Free, Peanut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Tortellini With Chili-Tomato Sauce
+source: food.com
+url: http://www.food.com/recipe/tortellini-with-chili-tomato-sauce-367203
+servings: 4
+calories: 1305.761445449945
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/012588983bf28c1ac9f6243ce8a0c0a2311abc3f6ea511b592f34c70c8da3cc8/21116315.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Egg-Free","Peanut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Tortellini With Chili-Tomato Sauce
+
+Description: My mom was cleaning out one of her closets and came across several folders full of recipes that she had clipped from magazines and newpapers over the years. I'm not sure what publication this is from but it's really good. You can use canned jalapenos if you don't have fresh.
+
+Recipe category: < 30 Mins
+
+Yield: 4 serving(s)
+
+Prep time: PT5M
+
+Cook time: PT25M
+
+Total time: PT30M
+
+Ingredients:
+- 2 (9 ounce) packages fresh tortellini (meat-filled)
+- 2 tablespoons pine nuts
+- 1 tablespoon olive oil
+- 2 tablespoons chopped jalapeno peppers
+- 1 teaspoon minced garlic
+- 1 (16 ounce) can diced tomatoes, undrained
+- 1/2 cup heavy cream
+- 1/2 cup sliced black olives
+
+Instructions:
+1. In a large pot of boiling water, cook tortellini according to package directions. Drain and rinse with warm water, then transfer to a serving bowl and keep warm.
+2. Put pine nuts in a medium saucepan and shake gently over medium heat until lightly browned. Transfer to a small bowl.
+3. Heat oil in the same saucepan over medium-high heat. Add jalapenos and garlic and saute, stirring often, 2 minutes.
+4. Add tomatoes and their liquid. Bring to a full boil, then reduce heat and boil gently for about 5 minutes.
+5. Boil heavy cream in a small saucepan for about 3 minute, or until reduced by half. Stir into the tomato sauce.
+6. Pour sauce over tortellini; sprinkle with pine nuts and olives.
+
+Visible page text:
+Tortellini With Chili-Tomato Sauce
+ingredients
+2 (9 ounce) packages fresh tortellini (meat-filled)
+2 tablespoons pine nuts
+1 tablespoon olive oil
+2 tablespoons chopped jalapeno peppers
+1 teaspoon minced garlic
+1 (16 ounce) can diced tomatoes , undrained
+1 ⁄ 2 cup heavy cream
+1 ⁄ 2 cup sliced black olives
+directions
+In a large pot of boiling water, cook tortellini according to package directions. Drain and rinse with warm water, then transfer to a serving bowl and keep warm.
+Put pine nuts in a medium saucepan and shake gently over medium heat until lightly browned. Transfer to a small bowl.
+Heat oil in the same saucepan over medium-high heat. Add jalapenos and garlic and saute, stirring often, 2 minutes.
+Add tomatoes and their liquid. Bring to a full boil, then reduce heat and boil gently for about 5 minutes.
+Boil heavy cream in a small saucepan for about 3 minute, or until reduced by half. Stir into the tomato sauce.
+Pour sauce over tortellini; sprinkle with pine nuts and olives.
+Questions & Replies
+Reviews
+Such an easy and tasty dinner! I substituted portabella ravioli as I wanted a veggie meal and thought the portabella's would have a similar feel to meat. Otherwise made to description. Served with garlic bread and a tossed salad. sofie-a-toast Reply
+I made this dish as a thank you to loof for adopting me during PAC and it was very good! I topped it with some sliced avocado and freshly ground black pepper. Very simple and very tasty. Thanks for sharing! :) Stacee R. Reply
+loof this was such a delicious lunch my daughter and I had yesterday. I used jalapeno's fresh from my garden :) but I only added 1 tablespoon, and the heat was perfect. Instead of diced tomatoes I used puree tomatoes that I had in a container in the fridge that needed using up. I also finished the dish with some grated Parmesan . It was yummy. And I will make again daisygrl64 Reply
+Tweaks
+RECIPE SUBMITTED BY
+36 Followers
+327 Recipes
+172 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

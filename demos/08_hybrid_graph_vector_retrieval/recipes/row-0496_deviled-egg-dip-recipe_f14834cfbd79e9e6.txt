@@ -1,0 +1,88 @@
+Deviled Egg Dip Recipe
+======================
+
+Recipe Metadata
+---------------
+Recipe ID: f14834cfbd79e9e6
+CSV row number: 496
+Recipe name: Deviled Egg Dip Recipe
+Source: recipeofhealth.com
+URL: http://recipeofhealth.com/recipe/deviled-egg-dip-2821rb
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0339947d33300b71ad10271184ed4d2ee4b2a6bbe03e64ca2c7f0c3b47c889b4/21135443.jpg
+Servings: 12
+Calories: 2607.09
+Diet labels: Low-Carb
+Health labels: Gluten-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Soy, Sulfites
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Deviled Egg Dip Recipe
+source: recipeofhealth.com
+url: http://recipeofhealth.com/recipe/deviled-egg-dip-2821rb
+servings: 12
+calories: 2607.085238
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0339947d33300b71ad10271184ed4d2ee4b2a6bbe03e64ca2c7f0c3b47c889b4/21135443.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Gluten-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Soy","Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Main
+Recipes
+Course
+Appetizers & Snacks
+meat appetizers
+pork appetizers
+Deviled Egg Dip Recipe
+facebook
+twitter
+google+
+pinterest
+linkedin
+email
+Ingredients:
+6 eggs
+8 slices bacon
+3/4 cup light mayonnaise
+3/4 cup shredded mozzarella cheese
+1/2 tsp paprika
+1 1/2 tbsp white sugar
+1 1/2 tbsp white wine vinegar
+2 1/2 tbsp mustard
+paprika for garnish
+Directions:
+Place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch. Cover the saucepan and bring the water to a boil over high heat. Remove from the heat and let the eggs stand in the hot water for 15 minutes. Drain. Cool the eggs under cold running water. Peel and chop the cooled eggs.
+Cook the bacon in a large, deep skillet over medium-high heat until evenly browned, about 10 minutes. Drain on a paper towel-lined plate; crumble once cool.
+Combine the eggs, bacon, mayonnaise, mozzarella cheese, paprika, sugar, white wine vinegar, and mustard in a bowl to make a chunky dip. Garnish with paprika.
+Nutrition Facts
+* Percent Daily Values are based on a 2000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. Find out how many calories should you eat.
+Tastes
+salty
+savory
+bitter
+sweet
+Try this similar recipes
+Recipe Tags
+< 200 kcals
+30 - 60 min
+Weightwatchers Points
+4.3 Points
+4 PointsPlus
+Good Points
+saturated fat free
+Share Recipe
+Opt-out of the sale of personal information
+We won’t sell your personal information to inform the ads you see. You may still see interest-based ads if your information is sold by other copanies or was sold previously.

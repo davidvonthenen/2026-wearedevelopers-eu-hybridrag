@@ -1,0 +1,182 @@
+No -Peanut Paleo Peanut Sauce
+=============================
+
+Recipe Metadata
+---------------
+Recipe ID: 976cdb1e456e018e
+CSV row number: 57
+Recipe name: No -Peanut Paleo Peanut Sauce
+Source: tessadomesticdiva.com
+URL: http://www.tessadomesticdiva.com/2013/05/paleo-no-peanut-thai-peanut-sauce.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0049ed6132d096cb4b5b51edc1be60feeccca3968942b1203e15aeb2be6a6e85/21135407.jpg
+Servings: 6
+Calories: 1174.97
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Tree-Nuts, Sulfites
+Cuisine type: south east asian
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: No -Peanut Paleo Peanut Sauce
+source: tessadomesticdiva.com
+url: http://www.tessadomesticdiva.com/2013/05/paleo-no-peanut-thai-peanut-sauce.html
+servings: 6
+calories: 1174.967000013353
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0049ed6132d096cb4b5b51edc1be60feeccca3968942b1203e15aeb2be6a6e85/21135407.jpg
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Tree-Nuts","Sulfites"]
+cuisine_type: ["south east asian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: No -Peanut Paleo Peanut Sauce
+
+Description: A quick and delicious Thai peanut sauce made with sunflower seed butter for a Whole30 and paleo treat! A perfect dipping sauce
+
+Recipe category: ['Main Course']
+
+Recipe cuisine: ['thai']
+
+Yield: ['8', '8 people, 1/4 cup portion']
+
+Prep time: PT5M
+
+Cook time: PT10M
+
+Total time: PT15M
+
+Ingredients:
+- 3/4 cup coconut milk (low-fat or full fat as preferred)
+- 1/2 cup water
+- 1/2 cup sunflower seed butter (I use my homemade, almond butter would work too. Peanut butter as allowed too.)
+- 3 cloves garlic (minced)
+- 1 tablespoon rice vinegar
+- 2 teaspoons palm sugar (or equivalent in stevia. Omit for Whole30, could add a bit of pureed date paste instead.)
+- 2 teaspoons coconut aminos ( or tamari)
+- 1 1/2 teaspoons ginger (finely grated , see link above for my FAVORITE tool for this!)
+
+Instructions:
+1. Combine all ingredients in a sauce pan, and bring to a low simmer over low heat.
+2. Whisk occasionally to combine and cook for about 10 minutes.
+3. Mixture will thicken rapidly as it cooks, and additional water or coconut milk can thin it to any consistency you prefer!
+4. Store in an airtight container.
+
+Visible page text:
+Skip to main content
+Skip to primary sidebar
+A Thai inspired peanut free paleo peanut sauce to serve in so many ways!! With a few simple ingredients, you can make this healthy keto dipping sauce!
+This is one the easiest recipes ever, and it is so versatile!!
+Once a batch is made, it can make any plain meat or vegetables truly sing. As a dipping sauce for fresh salad rolls , it cannot be beat! And served along side my Thai grilled chicken for something special!
+This recipe was a staple in my backpacking days. It was so easy to make large batch, it travels well, AND it had protein to sustain me on long trek days.
+Of course in my world…nothing matters IF it doesn’t really taste good. And of all the peanut sauce recipes I have tried, this is the one I always come back to (modified for dietary needs and taste of course!!).
+Why change a good thing I guess!?
+Paleo peanut sauce recipe notes:
+for this recipe, I like to use my own homemade sunflower seed butter ! It’s more economical, and I get to control the oils and sweeteners put in!
+I use coconut aminos to keep out the soy AND the wheat. They are so darn delicious and mimic soy sauce so well (but better!). You will love them like everyone else I know who has tried them!
+to grate my ginger and zest all my fruits, I use a tool called a Microplane . Once you use one, you will never go back to anything else, they are truly awesome and not too expensive….it makes my life easier and is one tool I recommend any home cook own!!
+Serving suggestions for this paleo Thai peanut sauce:
+Serve with my veggie spring rolls !
+Atop some zucchini noodles (or any noodles!)
+With Asian stir-fried veggies
+As a dipping sauce for grilled Thai chicken skewers or satay
+Vegan Peanut Sauce Recipe:
+If you try this peanut free Thai dipping sauce, be sure to come back and leave a comment!
+No -Peanut Paleo Peanut Sauce
+Ingredients 1x 2x 3x
+3/4 cup coconut milk low-fat or full fat as preferred
+1/2 cup water
+1/2 cup sunflower seed butter I use my homemade, almond butter would work too. Peanut butter as allowed too.
+3 cloves garlic minced
+1 tablespoon rice vinegar
+2 teaspoons palm sugar or equivalent in stevia. Omit for Whole30, could add a bit of pureed date paste instead.
+2 teaspoons coconut aminos or tamari
+1 1/2 teaspoons ginger finely grated , see link above for my FAVORITE tool for this!
+Instructions
+Combine all ingredients in a sauce pan, and bring to a low simmer over low heat.
+Whisk occasionally to combine and cook for about 10 minutes.
+Mixture will thicken rapidly as it cooks, and additional water or coconut milk can thin it to any consistency you prefer!
+Store in an airtight container.
+Nutrition
+SUBSCRIBE to get a free 30 minute meals eBook!
+Awesome! Check your email to confirm and get your eBook!
+Reader Interactions
+Comments
+Looks so delish! Perfect for some good Pad Thai recipes! Reply
+Looks so delish! Perfect for some good Pad Thai recipes!
+Sun butter makes my world go round! It’s the most peanuty not peanut butter of them all. Yum! Reply
+Sun butter makes my world go round! It’s the most peanuty not peanut butter of them all. Yum!
+YUM ! totally delicious. What a fabulous sauce to have handy ! Reply
+YUM ! totally delicious. What a fabulous sauce to have handy !
+Oh sun butter! Aren’t you sneaky 😉 YUM! Reply
+Oh sun butter! Aren’t you sneaky 😉 YUM!
+I enjoy using sunflower seed butter, too. It’ s a great alternative for people with nut allergies! Reply
+I enjoy using sunflower seed butter, too. It’ s a great alternative for people with nut allergies!
+I cannot wait to try this!!! I don’t do well with peanuts, but I have fond memories of peanut sauce, especially on Thai dishes. I know this will be a hit with my family. Yum! Reply
+I cannot wait to try this!!! I don’t do well with peanuts, but I have fond memories of peanut sauce, especially on Thai dishes. I know this will be a hit with my family. Yum!
+Yummy! Such a great idea to use sunflower butter instead of peanuts. This is one of my favorite sauces and I can’t wait to try it out. Reply
+Yummy! Such a great idea to use sunflower butter instead of peanuts. This is one of my favorite sauces and I can’t wait to try it out.
+I’d lick the bowl and spoon clean! This sauce would be perfect over some shirataki noodles or as a marinade for skewers. So many ideas flowing through my mind! Reply
+I’d lick the bowl and spoon clean! This sauce would be perfect over some shirataki noodles or as a marinade for skewers. So many ideas flowing through my mind!
+I checked out the link and will be adding that to weekend cookery (when I do broths and soups)… I’m doing sauce tonight with almond butter (tahini another day and will definitely let you guys know what I did)….. Tonight I mixed… 1 cup of almond butter 1 can of coconut milk 3/4 cup of apple sauce 1/2 a lemon juiced ( or perhaps a tbsp of bottled lemon) 1tbsp of fish sauce 1or 2 cloves of minced garlic A squirt of Sriracha sauce 3 tsps og freshly grated ginger 1-2 cups of salsa I warmed it a little in the microwave then poured over seared pork chops. Popped those lil piggies in the oven at 300 for a half hour… My chops were thinly cut, so adjust cooking time if you have thicker ones…. Oh, and I brined my chops for a couple of hours beforehand (my very first time), rinsed and patted dry before searing…. I’ll let you all know if they were succulent chops or dusty jerky…(by dusty jerky i mean the usual way in my house, fml)…. Reply
+I checked out the link and will be adding that to weekend cookery (when I do broths and soups)… I’m doing sauce tonight with almond butter (tahini another day and will definitely let you guys know what I did)…..
+Tonight I mixed…
+1 cup of almond butter 1 can of coconut milk 3/4 cup of apple sauce 1/2 a lemon juiced ( or perhaps a tbsp of bottled lemon) 1tbsp of fish sauce 1or 2 cloves of minced garlic A squirt of Sriracha sauce 3 tsps og freshly grated ginger 1-2 cups of salsa
+I warmed it a little in the microwave then poured over seared pork chops. Popped those lil piggies in the oven at 300 for a half hour… My chops were thinly cut, so adjust cooking time if you have thicker ones…. Oh, and I brined my chops for a couple of hours beforehand (my very first time), rinsed and patted dry before searing….
+I’ll let you all know if they were succulent chops or dusty jerky…(by dusty jerky i mean the usual way in my house, fml)….
+I agree, I don’t know what I was thinking…. I would totally make my own (my avocado “mayo” and bone broths rock), I just didn’t have time or ingredients to make it come to fruition, but had defrosted some chops and I craved something more than chops in mushroom sauce… I so dig your site Tess!! I love too that you reply quickly… I’m embarrassed for brainfarting on the sunflower/tahini inquiry… I might try something similar with tahini just to say, “whaaaat-the-what-what??” 🙂 Reply Then let us know how it turns out Jenni! I am curious! I link to how to make your own sunflower seed butter in this post….a method I use weekly and have LOAD of success with! Reply
+I agree, I don’t know what I was thinking…. I would totally make my own (my avocado “mayo” and bone broths rock), I just didn’t have time or ingredients to make it come to fruition, but had defrosted some chops and I craved something more than chops in mushroom sauce…
+I so dig your site Tess!! I love too that you reply quickly… I’m embarrassed for brainfarting on the sunflower/tahini inquiry… I might try something similar with tahini just to say, “whaaaat-the-what-what??” 🙂
+Then let us know how it turns out Jenni! I am curious! I link to how to make your own sunflower seed butter in this post….a method I use weekly and have LOAD of success with! Reply
+Then let us know how it turns out Jenni! I am curious! I link to how to make your own sunflower seed butter in this post….a method I use weekly and have LOAD of success with!
+I know this post is old, but could I just use tahini in place of the sunflower seed butter(I’ve always assumed they’re the same thing)? Reply No, totally different, tahini is made from sesame seeds, sunbutter from sunflower seeds. Any nut butter would work, but obviously the end taste would change, sunflower seed butter is the closest to peanut flavor…. Reply Oh my, my… That’s my baaaad! Thanks for your speedy reply Tessa! I think I might try almond butter? I know it’s definitely the lesser of the two evils in Paleo-Ville, after all we use almond flour at times, right? Do you think that would be better tasting than the tahini? Reply No on the tahini, almond butter would be my second choice over sunflower seed butter….any reason you don’t buy some or make your own? It is heavenly and a great butter to have around when PeAnuts are out! Reply
+I know this post is old, but could I just use tahini in place of the sunflower seed butter(I’ve always assumed they’re the same thing)?
+No, totally different, tahini is made from sesame seeds, sunbutter from sunflower seeds. Any nut butter would work, but obviously the end taste would change, sunflower seed butter is the closest to peanut flavor…. Reply Oh my, my… That’s my baaaad! Thanks for your speedy reply Tessa! I think I might try almond butter? I know it’s definitely the lesser of the two evils in Paleo-Ville, after all we use almond flour at times, right? Do you think that would be better tasting than the tahini? Reply No on the tahini, almond butter would be my second choice over sunflower seed butter….any reason you don’t buy some or make your own? It is heavenly and a great butter to have around when PeAnuts are out! Reply
+No, totally different, tahini is made from sesame seeds, sunbutter from sunflower seeds. Any nut butter would work, but obviously the end taste would change, sunflower seed butter is the closest to peanut flavor….
+Oh my, my… That’s my baaaad! Thanks for your speedy reply Tessa! I think I might try almond butter? I know it’s definitely the lesser of the two evils in Paleo-Ville, after all we use almond flour at times, right? Do you think that would be better tasting than the tahini? Reply No on the tahini, almond butter would be my second choice over sunflower seed butter….any reason you don’t buy some or make your own? It is heavenly and a great butter to have around when PeAnuts are out! Reply
+Oh my, my… That’s my baaaad! Thanks for your speedy reply Tessa! I think I might try almond butter? I know it’s definitely the lesser of the two evils in Paleo-Ville, after all we use almond flour at times, right? Do you think that would be better tasting than the tahini?
+No on the tahini, almond butter would be my second choice over sunflower seed butter….any reason you don’t buy some or make your own? It is heavenly and a great butter to have around when PeAnuts are out! Reply
+No on the tahini, almond butter would be my second choice over sunflower seed butter….any reason you don’t buy some or make your own? It is heavenly and a great butter to have around when PeAnuts are out!
+Tried this today…delicious! Served with spring rolls. My toddler licked his plate. Not sure I ruined the paleoness, but I added cayenne and lime–staples of a Texan home…lol!!! Reply nothing un-paleo about lime and cayenne Amy, great ideas!! Thanks for leaving your feedback! Reply
+Tried this today…delicious! Served with spring rolls. My toddler licked his plate. Not sure I ruined the paleoness, but I added cayenne and lime–staples of a Texan home…lol!!!
+nothing un-paleo about lime and cayenne Amy, great ideas!! Thanks for leaving your feedback! Reply
+nothing un-paleo about lime and cayenne Amy, great ideas!! Thanks for leaving your feedback!
+Featuring your fantastic sauce this week on AFW 🙂 Reply
+Featuring your fantastic sauce this week on AFW 🙂
+I love peanut sauce, may have ot try this one out with my GF noodles, super yummy!! Reply
+I love peanut sauce, may have ot try this one out with my GF noodles, super yummy!!
+Hey Tessa! This looks wonderful! 🙂 Megan Reply
+Hey Tessa! This looks wonderful! 🙂 Megan
+Thank you so much for sharing your great recipe with Full Plate Thursday and have a wonderful week. Come Back Soon! Miz Helen Reply
+Thank you so much for sharing your great recipe with Full Plate Thursday and have a wonderful week. Come Back Soon! Miz Helen
+Thanks for sharing on Wildcrafting Wednesday 🙂 Reply
+Thanks for sharing on Wildcrafting Wednesday 🙂
+Okay, you’ve convinced me to add coconut aminos to my Whole Foods shopping list. Soy sauce is the only thing we use that has soy in it. I work hard to avoid it otherwise. Thanks for linking up at Motivation Monday with such a yummy recipe! Reply
+Okay, you’ve convinced me to add coconut aminos to my Whole Foods shopping list. Soy sauce is the only thing we use that has soy in it. I work hard to avoid it otherwise.
+Thanks for linking up at Motivation Monday with such a yummy recipe!
+I love the idea of sunflower seed sauce! Do coconut aminos taste like Bragg’s liquid aminos? Reply Very similar, it is a soy free, wheat free soy alternative Quincy! Reply
+I love the idea of sunflower seed sauce! Do coconut aminos taste like Bragg’s liquid aminos?
+Very similar, it is a soy free, wheat free soy alternative Quincy! Reply
+Very similar, it is a soy free, wheat free soy alternative Quincy!
+What a lovely tahini sauce, sounds delish! Thanks for sharing on Hearth & Soul Hop. 🙂 Reply
+What a lovely tahini sauce, sounds delish! Thanks for sharing on Hearth & Soul Hop. 🙂
+Oh yea, peanut free!! Got it pinned and tweeted! Thanks for linking it up to Gluten Free Fridays! Reply
+Oh yea, peanut free!! Got it pinned and tweeted! Thanks for linking it up to Gluten Free Fridays!
+Haha, great minds think alike, no? I just did a similar recipe, but yours looks delicious as well! I bet the coconut milk makes it super rich and creamy! 🙂 Reply
+Haha, great minds think alike, no? I just did a similar recipe, but yours looks delicious as well! I bet the coconut milk makes it super rich and creamy! 🙂
+Looks amazing. I love my micro plane too! Reply
+Looks amazing. I love my micro plane too!
+What a great recipe! I recently gave up peanuts, which means I had to give up my favorite peanut sauce (that I frequently ordered from a local vegan restaurant). This sounds delicious. Reply
+What a great recipe! I recently gave up peanuts, which means I had to give up my favorite peanut sauce (that I frequently ordered from a local vegan restaurant). This sounds delicious.
+Leave a Reply Cancel reply
+This site uses Akismet to reduce spam. Learn how your comment data is processed.

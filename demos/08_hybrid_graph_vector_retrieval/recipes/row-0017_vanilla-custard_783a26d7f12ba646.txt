@@ -1,0 +1,149 @@
+Vanilla Custard
+===============
+
+Recipe Metadata
+---------------
+Recipe ID: 783a26d7f12ba646
+CSV row number: 17
+Recipe name: Vanilla Custard
+Source: Simply Recipes
+URL: https://www.simplyrecipes.com/vanilla-custard-recipe-5271484
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00141a90f711618c86d05e4394aa42bc63003f954fd6b3c52cf5f17fc684c107/21008842.jpg
+Servings: 8
+Calories: 2378.04
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat
+Cuisine type: american
+Meal type: snack
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Vanilla Custard
+source: Simply Recipes
+url: https://www.simplyrecipes.com/vanilla-custard-recipe-5271484
+servings: 8
+calories: 2378.041575572715
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00141a90f711618c86d05e4394aa42bc63003f954fd6b3c52cf5f17fc684c107/21008842.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Vanilla Custard
+
+Description: This vanilla custard is extra rich with heavy cream and egg yolks. Serve it on its own like a pudding, spoon it over fruit, or layer it into a trifle.
+
+Recipe category: ['Dessert']
+
+Recipe cuisine: ['American']
+
+Yield: ['8', '4 cups ']
+
+Prep time: PT15M
+
+Cook time: PT10M
+
+Total time: PT205M
+
+Ingredients:
+- 3/4 cup (150g) sugar
+- 1/4 cup (28g) cornstarch
+- 1/4 teaspoon kosher salt
+- 6 large egg yolks
+- 2 cups (480ml) whole milk
+- 1 cup (240ml) heavy cream
+- 2 tablespoons (28g) unsalted butter
+- 1 tablespoon vanilla extract
+
+Instructions:
+1. In a medium, heat-proof mixing bowl, whisk together the sugar, cornstarch, and salt.
+2. Add the egg yolks and whisk until the mixture is pale and smooth, about 1 minute. If your mixing bowl doesn’t have a non-slip bottom, place the bowl on a damp towel so it doesn’t slide in the next step. Keep your bowl close by the stove.
+3. In a heavy-bottomed, medium saucepan over medium-low heat bring the milk and cream to a simmer. Stir occasionally to prevent the milk from scorching. The milk and cream should just come to a simmer with small bubbles along the edges of the pan. Don’t let it reach a rolling boil.
+4. As soon as the milk and cream come to a simmer, take the pan off the heat. With one hand, slowly pour the hot milk into the yolk mixture a splash at a time, while whisking constantly with your other hand. The damp towel under the mixing bowl should prevent it from sliding around while whisking.
+5. Pour the custard back into the saucepan and cook over medium-low heat, whisking constantly, until the custard begins to simmer and thickens, about 5 minutes. Once it begins to gently bubble, continue to cook, stirring constantly, for 30 seconds longer to cook out the starch.
+6. Remove the custard from the heat. Whisk in the butter until melted and completely incorporated. Stir in the vanilla extract.
+7. Pour the custard through a fine-mesh strainer into a medium bowl and cover with plastic wrap directly on the surface of the custard. Refrigerate until cool, at least 2 hours.
+8. Whisk the custard until smooth before serving. Try serving this creamy homemade custard alongside a slice of pound cake , baked apples or apple crisp , fruit cobbler , or simply with fresh fruit like berries or banana slices. Vanilla custard will keep for up to 3 days in the refrigerator, stored in an airtight container covered with plastic wrap directly on the surface. Did you love the recipe? Give us some stars and leave a comment below!
+
+Visible page text:
+Recipes
+Dinners
+Comfort Food
+Vanilla Custard
+This vanilla custard is extra rich with heavy cream and egg yolks. Serve it on its own like a pudding, spoon it over fruit, or layer it into a trifle!
+Mark Beahm / Simply Recipes
+How To Make a Custard
+How to Prevent Scrambled Eggs
+Best Chilling Method
+Swaps and Subs
+Serving Suggestions
+Make-Ahead and Storage
+Why Make This
+This vanilla custard is extra rich, using both heavy cream and egg yolks for a smooth result.
+Instead of baking, you cook this pudding-like custard on the stove.
+You can eat the custard plain or add it to parfaits, trifles, or fruit.
+Whether on its own like pudding or as a pairing alongside another dessert, vanilla custard is a classic, creamy treat. The addition of heavy cream makes this custard extra luxurious. And using egg yolks instead of whole eggs lends a richer texture and color.
+This luscious vanilla custard is full of vanilla flavor and can be used for all sorts of desserts. Serve it in your prettiest ramekins, or use a generous spoonful in place of vanilla ice cream with your slice of pie , piece of cake , or bowl of fruit. Layer it with cake for a trifle or fruit for a parfait. Once you learn how to make homemade vanilla custard, you'll be adding it to all your favorite desserts.
+At its most basic, custard is essentially a liquid thickened by eggs and heat . This custard uses egg yolks instead of whole eggs and heavy cream in addition to milk, making it smoother and richer. It’s cooked on the stove, rather than a baked custard, making it similar to a pudding or pastry cream.
+All in all, vanilla custard is pretty quick to prepare, just about 30 minutes of hands-on work. But it is important to keep in mind that it needs at least 3 hours to chill. It’s a great weekend recipe, or to make ahead during the week.
+To make custard , the egg yolks are whisked into the sugar, cornstarch, and salt in a medium mixing bowl. Milk and cream are combined in a heavy-bottomed saucepan and brought just to a simmer. The hot milk is slowly whisked into the egg yolks a splash at a time to temper them. This method heats the egg yolks slowly and gently, preventing them from cooking too quickly and curdling.
+Then, the custard is poured back into the saucepan to cook again on medium-low heat until thickened. Once the custard is cooked, you can add extra flavor and richness by whisking in butter and vanilla extract.
+To ensure the custard is velvety smooth, it’s poured through a strainer into a large bowl to work out any possible lumps. Then it's covered with plastic wrap directly on the surface of the custard and cooled before serving.
+How To Prevent Your Custard from Turning into Scrambled Eggs
+Custard has a reputation for being finicky due to the risk of overcooking and curdling the eggs. But equipped with this recipe and these tips, I promise you’ll never end up with scrambled eggs and will always achieve a silky vanilla custard.
+The most essential tip is to use gentle heat: Never set the stove higher than medium-low when making custard. If the heat is too high, all sorts of issues can arise. You could scorch the milk and cream right in the first step. The custard could overcook, curdle, and burn. It’s even less likely to thicken properly if it’s cooked too quickly. By slowing down the cooking process with low heat and whisking constantly, you lower the risk of curdling and make a much smoother, creamy custard.
+This recipe has some preventative measures built right in as well: By whisking the egg yolks with the sugar and cornstarch ahead of time, you already protect the egg proteins in the yolks with two ingredients that slow down the coagulation process. And tempering the egg yolks (adding a small amount of the hot milk to the yolks before adding the rest of the milk) helps prevent the yolks from curdling as well. The small amount of milk whisked into the yolks in each addition gradually and gently raises the temperature of the yolks.
+By only using low or medium-low heat, keeping a watchful eye, and whisking constantly, you’re sure to make a satiny smooth custard every time.
+The Best Way To Chill Custard
+Waiting is always the hardest part of any recipe. But chilling custard gives it time to finish setting for a velvety smooth texture. Cover the custard with plastic wrap, wax paper, or buttered parchment directly on the surface of the custard. This provides an airtight seal and prevents a skin from forming. Then, place the bowl in the refrigerator and chill for at least 2 hours before serving.
+You can chill custard faster by using an ice bath. Set the covered bowl of custard in a larger bowl filled with ice water and chill for 30 minutes before transferring the custard to the refrigerator.
+Vanilla Custard Swaps and Subs
+This vanilla custard recipe is rich and luscious as is, but it’s also very easy to adjust based on your taste or what you have available.
+Don’t have any heavy cream? You can use the same amount of whole milk and make the recipe as written. The custard will still turn out perfectly, if only slightly less rich.
+Use a vanilla bean instead of vanilla extract. Split the vanilla bean lengthwise and add it to the milk and cream in step 3 and bring the mixture to a simmer. Remove the vanilla bean before tempering the yolks in step 4.
+Replace the vanilla altogether. Try flavoring your custard with other extracts and liqueurs. Try coconut, almond, or mint extract. Remember these extracts are stronger, so start with 1/4 teaspoon and adjust to taste. Or add a tablespoon of Grand Marnier, amaretto, or rum.
+Add a dash of nutmeg for a bit of nutty spice.
+Try serving this creamy homemade custard alongside a slice of pound cake , baked apples or apple crisp , fruit cobbler , or simply with fresh fruit like berries or banana slices. Anytime you would normally serve a dessert with a scoop of vanilla ice cream, you can try serving it with a dollop of vanilla custard to change things up. Or you can enjoy this vanilla custard by itself!
+Vanilla custard will keep for up to 3 days in the refrigerator, stored in an airtight container covered with plastic wrap directly on the surface. Custard doesn't tend to freeze and thaw very well, so it's best made fresh and eaten within a couple of days of when you want to use it.
+3/4 cup ( 150 g ) sugar
+1/4 cup ( 28 g ) cornstarch
+1/4 teaspoon kosher salt
+6 large egg yolks
+2 cups ( 480 ml ) whole milk
+1 cup ( 240 ml ) heavy cream
+2 tablespoons (28g) unsalted butter
+1 tablespoon vanilla extract
+Combine the dry ingredients: In a medium, heat-proof mixing bowl, whisk together the sugar, cornstarch, and salt. Mark Beahm / Simply Recipes
+In a medium, heat-proof mixing bowl, whisk together the sugar, cornstarch, and salt.
+Whisk in the egg yolks: Add the egg yolks and whisk until the mixture is pale and smooth, about 1 minute. If your mixing bowl doesn’t have a non-slip bottom, place the bowl on a damp towel so it doesn’t slide in the next step. Keep your bowl close by the stove. Mark Beahm / Simply Recipes
+Add the egg yolks and whisk until the mixture is pale and smooth, about 1 minute. If your mixing bowl doesn’t have a non-slip bottom, place the bowl on a damp towel so it doesn’t slide in the next step. Keep your bowl close by the stove.
+Bring the milk and cream to a simmer: In a heavy-bottomed, medium saucepan over medium-low heat bring the milk and cream to a simmer. Stir occasionally to prevent the milk from scorching. The milk and cream should just come to a simmer with small bubbles along the edges of the pan. Don’t let it reach a rolling boil. Mark Beahm / Simply Recipes
+In a heavy-bottomed, medium saucepan over medium-low heat bring the milk and cream to a simmer. Stir occasionally to prevent the milk from scorching. The milk and cream should just come to a simmer with small bubbles along the edges of the pan. Don’t let it reach a rolling boil.
+Temper the egg yolks: As soon as the milk and cream come to a simmer, take the pan off the heat. With one hand, slowly pour the hot milk into the yolk mixture a splash at a time, while whisking constantly with your other hand. The damp towel under the mixing bowl should prevent it from sliding around while whisking. Mark Beahm / Simply Recipes
+As soon as the milk and cream come to a simmer, take the pan off the heat. With one hand, slowly pour the hot milk into the yolk mixture a splash at a time, while whisking constantly with your other hand. The damp towel under the mixing bowl should prevent it from sliding around while whisking.
+Cook the custard: Pour the custard back into the saucepan and cook over medium-low heat, whisking constantly, until the custard begins to simmer and thickens, about 5 minutes. Once it begins to gently bubble, continue to cook, stirring constantly, for 30 seconds longer to cook out the starch. Mark Beahm / Simply Recipes
+Pour the custard back into the saucepan and cook over medium-low heat, whisking constantly, until the custard begins to simmer and thickens, about 5 minutes. Once it begins to gently bubble, continue to cook, stirring constantly, for 30 seconds longer to cook out the starch.
+Whisk in the butter: Remove the custard from the heat. Whisk in the butter until melted and completely incorporated. Stir in the vanilla extract. Mark Beahm / Simply Recipes
+Remove the custard from the heat. Whisk in the butter until melted and completely incorporated. Stir in the vanilla extract.
+Strain and chill: Pour the custard through a fine-mesh strainer into a medium bowl and cover with plastic wrap directly on the surface of the custard. Refrigerate until cool, at least 2 hours. Mark Beahm / Simply Recipes Mark Beahm / Simply Recipes
+Pour the custard through a fine-mesh strainer into a medium bowl and cover with plastic wrap directly on the surface of the custard. Refrigerate until cool, at least 2 hours.
+Stir, serve, and store: Whisk the custard until smooth before serving. Try serving this creamy homemade custard alongside a slice of pound cake , baked apples or apple crisp , fruit cobbler , or simply with fresh fruit like berries or banana slices. Vanilla custard will keep for up to 3 days in the refrigerator, stored in an airtight container covered with plastic wrap directly on the surface. Did you love the recipe? Give us some stars and leave a comment below! Mark Beahm / Simply Recipes Mark Beahm / Simply Recipes
+Whisk the custard until smooth before serving.
+Try serving this creamy homemade custard alongside a slice of pound cake , baked apples or apple crisp , fruit cobbler , or simply with fresh fruit like berries or banana slices.
+Vanilla custard will keep for up to 3 days in the refrigerator, stored in an airtight container covered with plastic wrap directly on the surface.
+Did you love the recipe? Give us some stars and leave a comment below!
+Easter
+Meal Prep
+Mother's Day
+4th of July

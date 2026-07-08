@@ -1,0 +1,169 @@
+Homemade Pumpkin Pie Spice from scratch
+=======================================
+
+Recipe Metadata
+---------------
+Recipe ID: f47c58c88d3901cc
+CSV row number: 455
+Recipe name: Homemade Pumpkin Pie Spice from scratch
+Source: iheartrecipes.com
+URL: https://iheartrecipes.com/homemade-pumpkin-pie-spice-from-scratch/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02e8df2b9acfdce74d8f8d75a541ca68ffccd442cd37c7932684447669d0fc70/21093925.jpg
+Servings: 2
+Calories: 140.41
+Diet labels: High-Fiber, Low-Sodium
+Health labels: Vegan, Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: mediterranean
+Meal type: snack
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Homemade Pumpkin Pie Spice from scratch
+source: iheartrecipes.com
+url: https://iheartrecipes.com/homemade-pumpkin-pie-spice-from-scratch/
+servings: 2
+calories: 140.408
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02e8df2b9acfdce74d8f8d75a541ca68ffccd442cd37c7932684447669d0fc70/21093925.jpg
+diet_labels: ["High-Fiber","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["mediterranean"]
+meal_type: ["snack"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Homemade Pumpkin Pie Spice
+
+Description: It's not Fall without pumpkin spice! This homemade pumpkin pie spice is made completely from scratch and is totally worth the effort.&nbsp;
+
+Recipe category: ['Seasoning']
+
+Recipe cuisine: ['American']
+
+Prep time: PT15M
+
+Cook time: PT125M
+
+Total time: PT140M
+
+Ingredients:
+- 1/2 cup grated ginger root
+- 10 3 inch cinnamon sticks
+- 1 whole nutmeg
+- 1 tbsp whole allspice
+- 2 tsp whole cloves
+
+Instructions:
+1. Heat oven to lowest setting.&nbsp;
+2. Place grated ginger on parchment covered baking sheet.&nbsp;
+3. Bake, stirring often, until thoroughly dry.
+4. Turn oven off and on as needed, or prop door slightly open with a wooden spoon.&nbsp;If ginger begins to brown, turn off oven and let it dry with the residual heat. This may take up to 2 hours, depending on how juicy the ginger is.
+5. Toast the cinnamon sticks and nutmeg, in a skillet over medium low heat, for about 3 minutes. Be sure to stir frequently!
+6. Add allspice and cloves and continue to toast for 2-3 minutes, until very fragrant. Remove pan from heat and immediately pour spices onto a plate to cool.
+7. Once cool, finely grate the nutmeg into a small bowl.&nbsp;
+8. Using a coffee or spice grinder, grind the remaining spices in several batches. Be prepared – this may make a lot of noise! Sift spices through a fine sieve into the bowl with the nutmeg.&nbsp;
+9. Put any large pieces left in the sieve back into the grinder and grind again
+10. Repeat as necessary. If there are some small, stubborn pieces that won’t grind, dispose of them.
+11. Whisk together the spices and store in small bottles or sealed bags in a dark, cool location.&nbsp;
+
+Visible page text:
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+Skip to footer
+Recipe Index breakfast Lunch Dinner Desserts X
+Recipe Index
+breakfast
+Lunch
+Dinner
+Desserts
+Join my FREE mailing list and never miss a recipe!
+Soul Food
+Slow Cooker
+Side Dishes
+My CookBooks
+About
+Pr/Contact
+Subscribe by Email
+Join on Facebook
+Contact
+Privacy Policy
+Homemade pumpkin pie spice made from scratch!
+Ever wonder how to make homemade pumpkin pie spice from scratch ? I’m talking about gathering up all of the ingredients and grinding the spice yourself. Well, if so, I have you covered in this post. Every year I get asked by my readers that live outside the states “What’s in pumpkin spice?” and “How is it made?”.
+This post will have all of the information that you will need to make homemade pumpkin pie spice.
+If you’re ready to make your own homemade pumpkin pie spice, save & share this PIN on Pinterest !
+Print the recipe below, and be sure to subscribe to my YouTube channel for more free recipes! Don’t forget to tag and follow me on Facebook , Instagram , and Pinterest , and check out all my cookbooks!
+Homemade Pumpkin Pie Spice
+Ingredients
+1/2 cup grated ginger root
+10 3 inch cinnamon sticks
+1 whole nutmeg
+1 tbsp whole allspice
+2 tsp whole cloves
+Instructions
+Heat oven to lowest setting.
+Place grated ginger on parchment covered baking sheet.
+Bake, stirring often, until thoroughly dry.
+Turn oven off and on as needed, or prop door slightly open with a wooden spoon. If ginger begins to brown, turn off oven and let it dry with the residual heat. This may take up to 2 hours, depending on how juicy the ginger is.
+Toast the cinnamon sticks and nutmeg, in a skillet over medium low heat, for about 3 minutes. Be sure to stir frequently!
+Add allspice and cloves and continue to toast for 2-3 minutes, until very fragrant. Remove pan from heat and immediately pour spices onto a plate to cool.
+Once cool, finely grate the nutmeg into a small bowl.
+Using a coffee or spice grinder, grind the remaining spices in several batches. Be prepared – this may make a lot of noise! Sift spices through a fine sieve into the bowl with the nutmeg.
+Put any large pieces left in the sieve back into the grinder and grind again
+Repeat as necessary. If there are some small, stubborn pieces that won’t grind, dispose of them.
+Whisk together the spices and store in small bottles or sealed bags in a dark, cool location.
+Try your from-scratch pumpkin pie spice in these tasty recipes:
+Traditional Pumpkin Pie
+Candied Yams with Marshmallows
+Pumpkin Bundt Cake
+Facebook
+X
+Pinterest
+LinkedIn
+Save
+MEET THE RECIPE AUTHOR
+Rosie
+I’m a Soul Food blogger living in Florida. I was born and raised in the Pacific Northwest, but my family roots go all the way to Baton Rouge, Louisiana, where my grandparents were born and raised. I live every day to bring the traditional values, recipes, and love of food to life for my family—whether they’re online or in real life. I’m proud to keep these stories and flavors alive—and if you’re here, you’re family.
+Related Recipes
+Pumpkin Spice Frappe Homemade Pumpkin Spice Latte Pumpkin Pie with Shortbread Crust Traditional Pumpkin Pie
+Pumpkin Spice Frappe
+Homemade Pumpkin Spice Latte
+Pumpkin Pie with Shortbread Crust
+Free Email Guide
+My favorite seasonal tips &amp; recipes
+Reader Interactions
+Leave a Comment Cancel reply
+Comments
+great I’m learning to bake every thing at sixty yrs old.thank u Reply Thank you for coming by! Reply
+great I’m learning to bake every thing at sixty yrs old.thank u
+Thank you for coming by! Reply
+Thank you for coming by!
+I used your traditional southern fried chicken recipe for my husband. he said it was the best fried chicken he ever had. Reply Glad that you liked the recipe! Reply
+I used your traditional southern fried chicken recipe for my husband. he said it was the best fried chicken he ever had.
+Glad that you liked the recipe! Reply
+Glad that you liked the recipe!
+Join the Newsletter
+Restaurant Reviews
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+AS SEEN IN
+Footer
+FOLLOW ALONG
+YouTube
+Instagram
+TikTok
+Subscribe
+Southern Recipes
+Resources
+Meet Rosie Alexander
+Rosamae Seasonings
+Super Soul Food Cookbook
+I Heart Soul Food Cookbook
+Let’s Work Together!

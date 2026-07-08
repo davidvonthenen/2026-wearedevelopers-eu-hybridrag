@@ -1,0 +1,144 @@
+Mini Heirloom Tomato and Chick Pea Salad
+========================================
+
+Recipe Metadata
+---------------
+Recipe ID: df860602244f446f
+CSV row number: 232
+Recipe name: Mini Heirloom Tomato and Chick Pea Salad
+Source: jerseygirlcooks.com
+URL: http://www.jerseygirlcooks.com/2014/04/mini-heirloom-tomato-and-chick-pea-salad.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0172b86df0deac55b878cfc5261a313dc3040e8ee4521bcf2a78e960d00c67eb/21102216.jpg
+Servings: 4
+Calories: 721.02
+Diet labels: High-Fiber
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Mini Heirloom Tomato and Chick Pea Salad
+source: jerseygirlcooks.com
+url: http://www.jerseygirlcooks.com/2014/04/mini-heirloom-tomato-and-chick-pea-salad.html
+servings: 4
+calories: 721.0158199705688
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0172b86df0deac55b878cfc5261a313dc3040e8ee4521bcf2a78e960d00c67eb/21102216.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Tomato and Chick Pea Salad
+
+Description: This easy vegan salad with heirloom tomatoes and chick peas is perfect as a side dish or lunch.
+
+Recipe category: ['Salad']
+
+Recipe cuisine: ['American']
+
+Yield: ['4']
+
+Prep time: PT10M
+
+Total time: PT10M
+
+Ingredients:
+- 15 ounces can chick peas, rinsed and drained
+- 16 ounces grape or cherry tomatoes
+- 2 Tablespoons chopped fresh parsley
+- 3 Tablespoons olive oil
+- the juice from one medium sized lemon
+- 1/2 teaspoon garlic powder
+- salt and pepper to taste
+
+Instructions:
+1. In a medium size bowl, mix together chick peas, tomatoes and parsley.
+2. Drizzle the oil and lemon juice over the salad. Sprinkle with garlic powder.
+3. Mix well. Add salt and pepper to taste.
+
+Visible page text:
+This heirloom tomato chick pea salad recipe is my idea of a perfect lunch or side dish. Heirloom tomato salad is loaded with plenty of protein and fiber to keep you full. Tomatoes and chickpeas are very healthy, taste great and this vegan chick pea salad looks gorgeous on the plate.
+What type of tomatoes are used in this chick pea salad ?
+I love the pretty heirloom cherry tomatoes that I purchase at the farmer's market and Trader Joe's. But really, any type of cherry or grape tomatoes works in this recipe.
+During the summer season, I get lots of beautiful heirloom tomatoes from the produce markets, but in the winter, I go with basic cherry or grape containers at the supermarket. Sometimes I get lucky and Trader Joe's even has gorgeous heirloom tomatoes in the winter.
+Jersey tomatoes are not available all year round, but cherry and grape tomatoes keep me satisfied in the off-season until I can start picking my own homegrown tomatoes or get them at a local market.
+One of the things I look forward to when the weather warms up is visiting the Collingswood Farmers Market. Looking at these tomatoes makes me happy and reminds me that summer produce days are right around the corner.
+I make a big batch of this salad and my lunch is set for a few days. I really like it stored in the fridge for a day or two. Since the tomatoes are the cherry or grape type, they do not get as soggy as big chopped tomatoes would.
+This salad is a great side dish served next to or before an entree too.
+What are Chick Peas?
+Chick peas (or chickpeas) are also commonly referred to as garbanzo beans. Although grown in more than 50 countries and used throughout the world, India is the largest producer of these beans, and they are commonly found in Indian and Middle Eastern recipes.
+Chick Peas come as dried beans, fresh or in cans. I prefer using cans as they are the easiest and I just rinse and drain them before using as they are all ready to eat. If you use the dried beans they must be soaked and cooked before using. Fresh chick peas are delicious but they are only found in certain markets and also must be cooked as well as shelled before using. .
+These beans are often found in vegan recipes because they are full of carbohydrates, protein, fiber, B vitamins, and minerals. They can be used in soups, salads, and stews and are the star ingredient in hummus .
+Chick peas also have some great health benefits. They can improve blood sugar control, reduce inflammation in the intestinal tract, lower blood cholesterol, and help you feel fuller, longer.
+Dinners I serve this Tomato Chick Pea Salad with:
+Stovetop Mac and Cheese
+Cuban Roasted Chicken
+Slow Cooker Beef and Beer Sliders
+Chicken with Wine Sauce and Mushrooms
+Perfect Grilled Steak
+Panko Parmesan Pork Chops
+More Healthy Chick Pea Recipes!
+I have been trying extra hard to eat healthily, get lots of sleep and make sure to exercise. It really makes a difference in this uncertain time. This tomato chick pea salad recipe is one way to get great nutrition.
+I used fresh parsley, but if you can't get it right now, go ahead and use some dried herbs. It still will give this Tomato Chick Pea Salad lots of flavor.
+If you are looking for some more healthy recipes that include chick peas, try some of there:
+Cavatelli with Fresh Chick Peas, Mushrooms and Crispy Prosciutto
+Garbanzo Beans and Beet Salad
+Hearty Chicken Vegetable Soup
+Harissa Shrimp and Chick Peas via Skinnytaste
+If you like this Vegan Chick Pea Salad, please leave a 5-star rating.
+RECIPE
+Tomato and Chick Pea Salad
+Ingredients
+15 ounces can chick peas, rinsed and drained
+16 ounces grape or cherry tomatoes
+2 Tablespoons chopped fresh parsley
+3 Tablespoons olive oil
+the juice from one medium sized lemon
+½ teaspoon garlic powder
+salt and pepper to taste
+Instructions
+In a medium size bowl, mix together chick peas, tomatoes and parsley.
+Drizzle the oil and lemon juice over the salad. Sprinkle with garlic powder.
+Mix well. Add salt and pepper to taste.
+Nutrition
+First Published April 2020 ; Updated June 2021
+Thanks for stopping by! Subscribe to Jersey Girl Cooks if you would like more recipes and cooking tips sent to your email. You can also order my Super Easy Cookbook for Beginners and follow me on social media - Facebook , Twitter, Pinterest and Instagram .
+Comments
+Helloooooooooooo Spring!!!!!!!!!!!!!!!! What a cheery salad, especially for those of us who are gardeners and have just been wondering----Dare I put tomatoes out yet? Simple and different----a change of pace over the standard green salads, but just as easy. Reply
+Helloooooooooooo Spring!!!!!!!!!!!!!!!! What a cheery salad, especially for those of us who are gardeners and have just been wondering----Dare I put tomatoes out yet? Simple and different----a change of pace over the standard green salads, but just as easy.
+Yes, I am totally doing the salad thing too! I can't even look at my shorts and tank tops, let alone my bathing suit, so I need to get on the ball! This salad looks delicious. I love those tomatoes from Trader Joe's too...what would we do without Trader Joe's?!? Pinning this so I can make it soon! Reply
+Yes, I am totally doing the salad thing too! I can't even look at my shorts and tank tops, let alone my bathing suit, so I need to get on the ball! This salad looks delicious. I love those tomatoes from Trader Joe's too...what would we do without Trader Joe's?!? Pinning this so I can make it soon!
+What a wonderful welcome to Spring. those little tomatoes are gorgeous, and the simple dressing shows them off to very best effect. Have a great weekend! Reply
+What a wonderful welcome to Spring. those little tomatoes are gorgeous, and the simple dressing shows them off to very best effect. Have a great weekend!
+Simple ingredients make the best food. It looks fantastic! Reply
+Simple ingredients make the best food. It looks fantastic!
+Come down here...we didn't have winter at all 🙁 Love this salad, so fresh! Reply
+Come down here...we didn't have winter at all 🙁
+Love this salad, so fresh!
+Chick peas are so under-used in my house. I swear I wait till summer to use them in salads and homemade hummus. Reply
+Chick peas are so under-used in my house. I swear I wait till summer to use them in salads and homemade hummus.
+I can't wait for real spring weather! This salad looks delicious. Reply
+I can't wait for real spring weather! This salad looks delicious.
+Girl, I am with you. Except I am praying that my wedding dress will still fit me LOL. I see a lot of this delicious salad in my future! Reply
+Girl, I am with you. Except I am praying that my wedding dress will still fit me LOL. I see a lot of this delicious salad in my future!
+This is a great recipe to use pantry items and fresh produce. Thanks! Reply
+This is a great recipe to use pantry items and fresh produce. Thanks!
+Wonderfully healthy and simple salad. Perfect side for my sandwich! Reply
+Wonderfully healthy and simple salad. Perfect side for my sandwich!
+I need to regroup and eat healthier. This is my kind of salad. I'm making a big batch today and keeping it in the fridge for lunch and snacks. I love that I can use my canned legumes for this as I have a nice amount in the pantry, Reply
+I need to regroup and eat healthier. This is my kind of salad. I'm making a big batch today and keeping it in the fridge for lunch and snacks. I love that I can use my canned legumes for this as I have a nice amount in the pantry,
+Leave a Reply Cancel reply
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+GDPR Privacy Policy

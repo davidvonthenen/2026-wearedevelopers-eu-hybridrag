@@ -1,0 +1,111 @@
+Gluten Free Deviled Green Eggs and Ham Recipe
+=============================================
+
+Recipe Metadata
+---------------
+Recipe ID: f78d178f953bc34e
+CSV row number: 38
+Recipe name: Gluten Free Deviled Green Eggs and Ham Recipe
+Source: simplygluten-free.com
+URL: https://simplygluten-free.com/blog/2017/03/gluten-free-deviled-green-eggs-ham-recipe.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/002d82f4533cef79bb22329b8e3ffb280e6f27f7ac24496a5ea103ef26d2e1c8/21125356.jpg
+Servings: 24
+Calories: 1970.71
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Paleo, Dairy-Free, Gluten-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: eastern europe
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Gluten Free Deviled Green Eggs and Ham Recipe
+source: simplygluten-free.com
+url: https://simplygluten-free.com/blog/2017/03/gluten-free-deviled-green-eggs-ham-recipe.html
+servings: 24
+calories: 1970.707688
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/002d82f4533cef79bb22329b8e3ffb280e6f27f7ac24496a5ea103ef26d2e1c8/21125356.jpg
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Paleo","Dairy-Free","Gluten-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["eastern europe"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Gluten Free Deviled Green Eggs and Ham Recipe
+
+Description: Preparing your party food in advance can reduce stress and these deviled eggs can easily be made the day before and assembled before your guests arrive.
+
+Recipe category: ['Side Dish']
+
+Recipe cuisine: ['American']
+
+Yield: ['24', '24 Deviled Eggs']
+
+Prep time: PT20M
+
+Cook time: PT15M
+
+Total time: PT35M
+
+Ingredients:
+- 3 thin slices prosciutto
+- 12 hard boiled eggs (peeled and halved lengthwise)
+- 2 ripe avocados
+- ⅓ cup mayonnaise
+- 2 limes (zest finely grated and juiced)
+- ¾ teaspoon kosher or fine sea salt
+- ½ teaspoon freshly ground black pepper
+- 3-4 dashes hot sauce
+- 2 tablespoons finely chopped chives
+
+Instructions:
+1. Preheat the oven to 375°F. Line a baking sheet with parchment paper. Place the prosciutto on the baking sheet and bake for 15 minutes or until crispy. Let cool. Break into 24 shards. Can be made 1 day ahead. Store in a food storage bag at room temperature.
+2. Remove the yolks from the eggs and place in a medium mixing bowl. Place the whites on a serving platter. Mash the yolks into a fine crumble using a fork. Add the flesh from the avocados, mayonnaise, lime zest and juice, salt, pepper, and hot sauce. Mix well. Spoon or pipe the filling into the egg whites (feel free to over-stuff them, as you will have a lot of filling). Sprinkle the chives over the tops of the egg yolk mixture. Can be made the night before – cover with plastic wrap and refrigerate.
+3. Before serving, stick one prosciutto shard into each egg.
+
+Visible page text:
+Save 62% and never miss an issue. SUBSCRIBE NOW!
+Home › Recipe Index › Gluten-Free Breakfast & Brunch Recipes
+Gluten Free Deviled Green Eggs and Ham Recipe
+By Gluten Free & More
+Updated Oct 20, 2022, Published Mar 01, 2017
+This post contains affiliate links. Please see our disclosure policy .
+Brunch is a lovely way to entertain, especially for Easter. Typically, brunch is less expensive to host than serving the same amount of people at a dinner party. And what better way to enjoy a lovely spring day?
+A brunch menu can really include any type of food you want – breakfast, lunch, sweet, savory – but it is best to include a combination.
+If the idea of hosting a party earlier in the day makes you nervous, don’t fret. We have come up with ways to take out the stress and leave in the fun.
+The trick to reducing stress is to be prepared. Prepare the food in advance, decorate and arrange flowers the day before, and set up food stations where people can serve themselves.
+Another tip for easy parties is to combine dishes that you make with ones that can be assembled.
+Ingredients 1x 2x 3x
+▢ 3 thin slices prosciutto
+▢ 12 hard boiled eggs , peeled and halved lengthwise
+▢ 2 ripe avocados
+▢ ⅓ cup mayonnaise
+▢ 2 limes , zest finely grated and juiced
+▢ ¾ teaspoon kosher or fine sea salt
+▢ ½ teaspoon freshly ground black pepper
+▢ 3-4 dashes hot sauce
+▢ 2 tablespoons finely chopped chives
+Instructions
+Preheat the oven to 375°F. Line a baking sheet with parchment paper. Place the prosciutto on the baking sheet and bake for 15 minutes or until crispy. Let cool. Break into 24 shards. Can be made 1 day ahead. Store in a food storage bag at room temperature.
+Remove the yolks from the eggs and place in a medium mixing bowl . Place the whites on a serving platter. Mash the yolks into a fine crumble using a fork. Add the flesh from the avocados, mayonnaise, lime zest and juice, salt, pepper, and hot sauce. Mix well. Spoon or pipe the filling into the egg whites (feel free to over-stuff them, as you will have a lot of filling). Sprinkle the chives over the tops of the egg yolk mixture. Can be made the night before – cover with plastic wrap and refrigerate.
+Before serving, stick one prosciutto shard into each egg.
+Nutrition
+Nutrition information is automatically calculated, so should only be used as an approximation.
+Cacao Maca Smoothie Bowl
+Gluten-Free Egg-free Maple Oat Bacon Pancakes
+Flax Turmeric Overnight Oats
+Gluten-Free Streusel Baked Oatmeal
+Welcome
+You’ve just landed in your gluten-free happy place! Gluten Free & More is America’s #1 allergen-free magazine, and we’re proud to be a vibrant collection of gluten-free voices, stories, and recipes that inspire and uplift.
+Leave a comment Cancel reply
+As Seen In
+©2026 Gluten Free & More. All rights reserved. Privacy Policy & Guarantee • Terms of Service • Powered by CultivateWP .

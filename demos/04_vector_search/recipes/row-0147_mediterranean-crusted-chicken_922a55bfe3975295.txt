@@ -1,0 +1,118 @@
+Mediterranean Crusted Chicken
+=============================
+
+Recipe Metadata
+---------------
+Recipe ID: 922a55bfe3975295
+CSV row number: 147
+Recipe name: Mediterranean Crusted Chicken
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/17142/mediterranean-crusted-chicken
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00ebe2eeb6eb5e5da530f6a27745e4ddedaa5a5a1d0a8f2204215f23f25558fa/21056788.jpg
+Servings: 6
+Calories: 2522.18
+Diet labels: Low-Carb
+Health labels: Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Mediterranean Crusted Chicken
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/17142/mediterranean-crusted-chicken
+servings: 6
+calories: 2522.179231007825
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00ebe2eeb6eb5e5da530f6a27745e4ddedaa5a5a1d0a8f2204215f23f25558fa/21056788.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Mediterranean Crusted Chicken
+
+Description: A deliciously rich chicken entree that is best served with mild side dishes such as sauteed vegetables and French bread. This chicken has a great fresh basil flavor.
+
+Recipe category: ['Dinner']
+
+Recipe cuisine: ['European', 'American']
+
+Yield: ['6', '6 servings']
+
+Prep time: PT45M
+
+Cook time: PT20M
+
+Total time: PT65M
+
+Ingredients:
+- 1 egg
+- 0.5 cup heavy whipping cream
+- 1 cup crushed saltine crackers
+- 0.25 cup grated Parmesan cheese
+- 2 tablespoons chopped fresh basil
+- 1 tablespoon garlic powder
+- salt and pepper to taste
+- 2 pounds skinless chicken thighs
+- 0.25 cup olive oil
+
+Instructions:
+1. Preheat oven to 400 degrees F (200 degrees C).
+2. In a medium bowl, combine the egg and heavy cream and beat together well. In a separate medium bowl, combine the cracker crumbs, cheese, basil, garlic powder and salt and pepper to taste.
+3. Rinse chicken and pat dry. Dip each piece into the egg wash and then dredge liberally in the cracker crumb mixture. Heat the olive oil in a large skillet over medium high heat. Fry the chicken in the oil for 5 minutes per side, or until both sides are golden brown and crusty. Place chicken in a 9x13 baking dish and cover with foil.
+4. Bake, covered, at 400 degrees F (200 degrees C) for 15 minutes, then remove foil and bake, uncovered, for 15 to 20 more minutes, or until chicken juices run clear.
+
+Visible page text:
+European
+Italian
+Main Dishes
+Chicken
+Mediterranean Crusted Chicken
+A deliciously rich chicken entree that is best served with mild side dishes such as sauteed vegetables and French bread. This chicken has a great fresh basil flavor.
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 6 servings
+1 egg
+½ cup heavy whipping cream
+1 cup crushed saltine crackers
+¼ cup grated Parmesan cheese
+2 tablespoons chopped fresh basil
+1 tablespoon garlic powder
+salt and pepper to taste
+2 pounds skinless chicken thighs
+¼ cup olive oil
+Directions
+Preheat oven to 400 degrees F (200 degrees C).
+In a medium bowl, combine the egg and heavy cream and beat together well. In a separate medium bowl, combine the cracker crumbs, cheese, basil, garlic powder and salt and pepper to taste.
+Rinse chicken and pat dry. Dip each piece into the egg wash and then dredge liberally in the cracker crumb mixture. Heat the olive oil in a large skillet over medium high heat. Fry the chicken in the oil for 5 minutes per side, or until both sides are golden brown and crusty. Place chicken in a 9x13 baking dish and cover with foil.
+Bake, covered, at 400 degrees F (200 degrees C) for 15 minutes, then remove foil and bake, uncovered, for 15 to 20 more minutes, or until chicken juices run clear.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Mediterranean Crusted Chicken
+1
+2
+Next
+Most-Saved Recipes Like This
+Chicken Milano 2,814 Ratings 30 mins Save
+Garlic Chicken 6,224 Ratings 55 mins Save
+Tender Italian Baked Chicken 1,491 Ratings 30 mins Save
+Mediterranean Chicken 604 Ratings 50 mins Save
+Chicken In Basil Cream 1,372 Ratings 30 mins Save
+Savory Chicken Breasts 1,217 Ratings Save
+Chicken with Garlic, Basil, and Parsley 666 Ratings 50 mins Save
+Basil Chicken and Pasta 372 Ratings Save
+Amazing Italian Lemon Butter Chicken 679 Ratings 30 mins Save
+Balsamic Chicken and Fresh Mozzarella 298 Ratings 35 mins Save
+You’ll Also Love

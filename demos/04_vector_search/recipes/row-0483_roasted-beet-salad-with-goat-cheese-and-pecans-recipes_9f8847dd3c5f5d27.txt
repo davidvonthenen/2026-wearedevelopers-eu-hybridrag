@@ -1,0 +1,134 @@
+Roasted Beet Salad with Goat Cheese and Pecans recipes
+======================================================
+
+Recipe Metadata
+---------------
+Recipe ID: 9f8847dd3c5f5d27
+CSV row number: 483
+Recipe name: Roasted Beet Salad with Goat Cheese and Pecans recipes
+Source: acedarspoon.com
+URL: http://www.acedarspoon.com/roasted-beet-salad-with-goat-cheese-and-pecans-25-gift-card-giveaway/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/032973db1b07a2ca24e27234d6909c50e6009d62cf08a8bf26a5d36cdcdda4ff/21115705.jpeg
+Servings: 6
+Calories: 953.69
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites, FODMAP
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Roasted Beet Salad with Goat Cheese and Pecans recipes
+source: acedarspoon.com
+url: http://www.acedarspoon.com/roasted-beet-salad-with-goat-cheese-and-pecans-25-gift-card-giveaway/
+servings: 6
+calories: 953.6890640000001
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/032973db1b07a2ca24e27234d6909c50e6009d62cf08a8bf26a5d36cdcdda4ff/21115705.jpeg
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites","FODMAP"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Roasted Beet Salad
+
+Description: Roasted Beet Salad with Goat Cheese and Pecans with Newman’s Own® Balsamic Vinaigrette is a light, but flavorful salad that makes a perfect lunch or addition to your dinner table.
+
+Recipe category: ['Salad']
+
+Recipe cuisine: ['American']
+
+Yield: ['6', '6 servings']
+
+Prep time: PT10M
+
+Cook time: PT60M
+
+Total time: PT70M
+
+Ingredients:
+- 3-4 beets (scrubbed, leaves trimmed, roasted {you can use red or golden beets})
+- Olive oil (for cooking beets)
+- 7 cups arugula
+- 1/2 cup goat cheese (crumbled)
+- 1/2 cup pecans ( halved)
+- 2 Tablespoons Balsamic Vinaigrette (Newman&#39;s Own )
+
+Instructions:
+1. Preheat oven to 375 degrees F. Scrub and trim the leaves off of the beets. Lightly coat the beats with olive oil.
+2. Using aluminum foil wrap the beets and place them on a baking sheet. Roast in the oven for approximately 50-60 minutes, or until cooked through.
+3. While the beets are cooking combine the arugula, goat cheese and pecans in a large salad bowl.
+4. Once the beets have cooled add them to the salad and toss the dressing in.
+5. Serve as a light lunch or with dinner.
+
+Visible page text:
+Get my newest recipes to your inbox!
+Home › Recipes › Vegetarian
+Roasted Beet Salad with Goat Cheese and Pecans + $25 Gift Card Giveaway
+By Julia Jolliff
+Updated Jul 11, 2025, Published Jul 14, 2015
+This post may contain affiliate links.
+Roasted Beet Salad with Goat Cheese and Pecans with Newman’s Own® Balsamic Vinaigrette is a light, but flavorful salad that makes a perfect lunch or addition to your dinner table.
+Roasted Beet Salad
+I love roasted beets in salads. I know not everyone is on board with beets {my husband } but I have always really liked them. I can eat them plain, but I especially enjoy them in a light salad. Today’s Roasted Beet Salad with Goat Cheese and Pecans makes a really great light lunch salad or addition to your weeknight dinners.
+The roasted beets pair with soft, creamy goat cheese, crunchy, sweet pecans and one of my favorite greens, arugula. The salad is topped off with Newman’s Own® Balsamic Vinaigrette, which is light but a great compliment to the salad.
+You can use golden or red beets in this salad, either taste wonderful. I have also used walnuts instead of pecans which are a good addition, just less sweet. If you make this salad ahead of time I suggest you wait to put the dressing on until you are ready to eat, so the salad doesn’t wilt.
+I make a big container of this salad and eat it for lunches during the week. It is nice to have something easy to eat when I am busy feeding my kids.
+Now on to the fun part! Do you like to get competitive in the kitchen? Newman’s Own has a fun contest going on this summer called “ Greens for Good” Salad Recipe Contest and you can participate!
+Did you know that with every bottle of Newman’s Own salad dressing that you buy, you’re helping charitable causes. Newman’s Own dressing makes a difference in your salad, while it also makes a difference for charity. Since Paul Newman started his “All Profits To Charity” company Newman’s Own, the Newman’s Own Foundation have given more than $430 million to thousands of charities . Paul Newman believed that “From salad dressing, all blessings flow.”
+Newman’s Own Green For Good Salad Recipe Contest invites you to showcase your favorite salad, using Newman’s Own Dressing, for an opportunity to direct a $35,000 donation to their charity of choice.
+The Greens of Good Salad Recipe Contest is a perfect way to get your daily dose of healthy greens and help make an impact on a charity that you really care about! Entries for this year’s Greens for Good Salad Recipe Contest run from June 23, 2015 to August 21, 2015 .
+On October 21, 2015, Newman’s Own will announce the $35,000 grand prize winner and charity, as well as nine runners-up, who will each direct $1,000 donations to their selected nonprofits. The top ten finalists will be posted online at NewmansOwn.com/GreensforGood for public voting to help determine the top nine finalists and the Grand Prize winners.
+Want to enter your best salad? Click Here to Submit Your Recipe.
+I would love to hear your feedback. What did you like? Did you change anything? Did the recipe turn out to your liking? Suggestions and comments are always welcome.
+Tried this recipe? Leave a star rating and comment below! Subscribe to my newsletter or follow me on Facebook , Instagram , or Pinterest for the latest.
+Ingredients 1x 2x 3x
+▢ 3-4 beets , scrubbed, leaves trimmed, roasted {you can use red or golden beets}
+▢ Olive oil , for cooking beets
+▢ 7 cups arugula
+▢ 1/2 cup goat cheese , crumbled
+▢ 1/2 cup pecans , halved
+▢ 2 Tablespoons Balsamic Vinaigrette , Newman's Own
+Instructions
+Preheat oven to 375 degrees F. Scrub and trim the leaves off of the beets. Lightly coat the beats with olive oil.
+Using aluminum foil wrap the beets and place them on a baking sheet. Roast in the oven for approximately 50-60 minutes, or until cooked through.
+While the beets are cooking combine the arugula, goat cheese and pecans in a large salad bowl.
+Once the beets have cooled add them to the salad and toss the dressing in.
+Serve as a light lunch or with dinner.
+Nutrition
+Nutrition information is automatically calculated, so should only be used as an approximation.
+Don’t miss a recipe! Sign up for my newsletter by clicking here and get free recipes delivered straight to your kitchen. You can also find me on Facebook , Pinterest , Twitter, Google + and Instagram .
+Giveaway {closed}: Congrats to Steph for winning {#35 comment picked via rafflecopter}. Check your email!
+To enter the $25 gift card giveaway leave a comment telling me what your favorite salad to eat is.
+*The giveaway will close on July 22nd, 2015 at 12PM EST.
+*Giveaway open to U.S. residents only. Prize is provided by Newman’s Own.
+This post is sponsored by Newman’s Own. As always opinions are 100% my own. Thanks for supporting the brands that make A Cedar Spoon possible.
+Facebook
+X
+Pinterest 60
+Save
+Email
+Flipboard
+Leave a comment Cancel reply
+41 Comments
+Easy salad for the holidays. Reply
+Easy salad for the holidays.
+About Julia Jolliff
+I'm Julia. Wife, mom to three growing boys, lover of food. Here you will find quick & easy weeknight meal ideas, kid-friendly recipes and a few sweet treats. My roots are from the Mediterranean and many of my recipes incorporate those flavors!
+Sides
+Oven Roasted Beets (No Foil, Ready in 30 Minutes)
+Vegetarian
+Date Protein Balls (Easy No-Bake Snack)
+Turmeric Roasted Cauliflower
+Quick Pickled Beets (No Canning, Ready in 24 Hours!)
+As Seen In

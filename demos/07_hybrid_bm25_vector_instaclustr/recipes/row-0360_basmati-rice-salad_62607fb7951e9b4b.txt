@@ -1,0 +1,116 @@
+Basmati Rice Salad
+==================
+
+Recipe Metadata
+---------------
+Recipe ID: 62607fb7951e9b4b
+CSV row number: 360
+Recipe name: Basmati Rice Salad
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/bobby-flay/basmati-rice-salad-recipe-1918338
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/026c047af4f5b7f0364b00cced4641ec66d8f7dcb83fb7a0a45a14fdd8b5dfb6/21124199.jpg
+Servings: 4
+Calories: 2421.50
+Diet labels: none listed
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: indian
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Basmati Rice Salad
+source: Food Network
+url: https://www.foodnetwork.com/recipes/bobby-flay/basmati-rice-salad-recipe-1918338
+servings: 4
+calories: 2421.503491972957
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/026c047af4f5b7f0364b00cced4641ec66d8f7dcb83fb7a0a45a14fdd8b5dfb6/21124199.jpg
+diet_labels: []
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["indian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Basmati Rice Salad
+
+Recipe category: side-dish
+
+Recipe cuisine: asian
+
+Yield: 4 servings
+
+Prep time: P0Y0M0DT0H15M0.000S
+
+Cook time: P0Y0M0DT0H45M0.000S
+
+Total time: P0Y0M0DT1H0M0.000S
+
+Ingredients:
+- 2 cups basmati rice, rinsed until water runs clear and drained well
+- 3 tablespoons vegetable oil
+- 1 large onion, thinly sliced
+- 2 cloves garlic, chopped
+- 1 cinnamon stick
+- 1 bay leaf
+- 2 cloves
+- 1 cardamom pod
+- 1/2 teaspoon cumin
+- 3 1/2 cups boiling water
+- 1/2 cup golden raisins
+- Salt and freshly ground pepper
+- 1/2 cup cashews
+
+Instructions:
+1. Heat oil in a medium saucepan over medium-high heat, add the onions and garlic and cook until soft. Add the cinnamon, bay leaf, cloves, cardamom and cumin and cook for 1 minute. Add the boiling water and raisins and season with salt and pepper to taste. Let the water come back to a boil, stir once, cover the pot, reduce the heat and let cook for 12 to 15 minutes. Remove from heat and let sit 10 minutes. Remove lid and fluff with a fork, fold in cashews and reseason with salt and pepper to taste. Serve at room temperature.
+
+Visible page text:
+Home
+Recipes
+Rice
+Basmati Rice Salad
+Level: Easy
+Total: 1 hr
+Prep: 15 min
+Cook: 45 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+2 cups basmati rice, rinsed until water runs clear and drained well
+3 tablespoons vegetable oil
+1 large onion, thinly sliced
+2 cloves garlic, chopped
+1 cinnamon stick
+1 bay leaf
+2 cloves
+1 cardamom pod
+1/2 teaspoon cumin
+3 1/2 cups boiling water
+1/2 cup golden raisins
+Salt and freshly ground pepper
+1/2 cup cashews
+Heat oil in a medium saucepan over medium-high heat, add the onions and garlic and cook until soft. Add the cinnamon, bay leaf, cloves, cardamom and cumin and cook for 1 minute. Add the boiling water and raisins and season with salt and pepper to taste. Let the water come back to a boil, stir once, cover the pot, reduce the heat and let cook for 12 to 15 minutes. Remove from heat and let sit 10 minutes. Remove lid and fluff with a fork, fold in cashews and reseason with salt and pepper to taste. Serve at room temperature.
+Categories:
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Heartland Chopped Salad Recipe
+Black Rice Salad Recipe
+Saffron-Pea Basmati Rice Salad Recipe
+Saffron Rice Salad Recipe
+Coconut-Cashew Basmati Rice Salad Recipe
+Bolo's Duck Salad Recipe

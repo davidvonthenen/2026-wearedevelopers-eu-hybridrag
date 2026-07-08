@@ -1,0 +1,66 @@
+Nectarine Honey Jam
+===================
+
+Recipe Metadata
+---------------
+Recipe ID: 4b4d669dda07bde4
+CSV row number: 182
+Recipe name: Nectarine Honey Jam
+Source: Spectacularly Delicious
+URL: http://spectacularlydelicious.com/2010/09/23/recipe-nectarine-honey-jam/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01245209296a7f1b3d101b9ba3c608eab72e7c3849d1a13b126f22a7eae99d5f/21081570.jpg
+Servings: 10
+Calories: 4269.36
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: french
+Meal type: breakfast
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Nectarine Honey Jam
+source: Spectacularly Delicious
+url: http://spectacularlydelicious.com/2010/09/23/recipe-nectarine-honey-jam/
+servings: 10
+calories: 4269.355000000171
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01245209296a7f1b3d101b9ba3c608eab72e7c3849d1a13b126f22a7eae99d5f/21081570.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["french"]
+meal_type: ["breakfast"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Pretty much the same recipe from Edon Waycott's Preserving the Taste, only adjusted to make a larger batch and some inadvertent shortcuts that you can live with.
+20 c. chopped nectarines (skins on) 1 2/3 c. sugar 1 2/3 c. honey 3 T. fresh lemon juice
+In doing so, it may be possible to have sex when on magic mushrooms, but only when taken very low dosages cheap viagra like 250 mg to 500 mg of dried psilocybe cubensis. Working: cialis rx sildenafil citrate as the active constituent. Testosterone is necessary for increasing blood flow to the reproductive organs. canadian cialis no prescription However, the researchers during the trials of the active ingredient inhibiting the buy cialis uk PDE-5 enzyme.
+Toss the fruit, sugar and hone in a large bowl and let marinate at room temp for 4 hours or so.
+Place a large colander over a bowl and strain the juice from the fruit. Pour the liquid into a large, heavy, wide pan, bring to a boil and cook, stirring, until reduced by half.
+Add the fruit and any accumulated juices and simmer, stirring for 10 minutes. Use an immersion blender to puree half of the mixture. This will thicken things up so you have chunks of nectarine suspended in thick nectarine butter. Stir in the lemon juice, mix well, and funnel into sterilized jelly jars and process in a boiling water bath for 5 minutes.
+Share this:
+Facebook
+Twitter
+Pinterest
+Like this:
+Related
+Home
+SEAN SULLIVAN’S SPECTACULARLY DELICIOUS
+Videos
+Sites We Admire
+Celebrity Recipes
+Fish and Seafood
+East Hampton
+Kitchen Gadgets
+Plates and Serving Pieces
+Party foods
+To support this blog, Spectacularly Delicious is an Amazon and Google AdWords Affiliate.
+Copyright 2015. Spectacularly Delicious and Sean Sullivan All rights reserved.

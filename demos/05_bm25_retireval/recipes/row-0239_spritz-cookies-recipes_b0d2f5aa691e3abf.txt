@@ -1,0 +1,70 @@
+Spritz Cookies recipes
+======================
+
+Recipe Metadata
+---------------
+Recipe ID: b0d2f5aa691e3abf
+CSV row number: 239
+Recipe name: Spritz Cookies recipes
+Source: simpleindianrecipes.com
+URL: http://simpleindianrecipes.com/SpritzCookies.aspx
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/017eb2d9b296297bbcc38e6f58d0c2a916f155adc244978d3167497c8578e36d/21113812.jpeg
+Servings: 4
+Calories: 2127.89
+Diet labels: Low-Carb
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: snack
+Dish type: biscuits and cookies
+
+Original CSV Fields
+-------------------
+recipe_name: Spritz Cookies recipes
+source: simpleindianrecipes.com
+url: http://simpleindianrecipes.com/SpritzCookies.aspx
+servings: 4
+calories: 2127.894848
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/017eb2d9b296297bbcc38e6f58d0c2a916f155adc244978d3167497c8578e36d/21113812.jpeg
+diet_labels: ["Low-Carb"]
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["biscuits and cookies"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Spritz Cookies
+
+Description: Spritz Cookies - These cookies are also called butter cookies and can be made easily with very few ingredients. The soft cookie dough is squeezed though a cookie press to make different fun shapes and decorated with colourful sprinkles or sugar.
+
+Prep time: PT0M
+
+Cook time: PT0M
+
+Total time: PT0M
+
+Ingredients:
+- All Purpose Flour (Maida) - 2 cups
+- Sugar - 1/2 cup (add little more if you like it sweeter)
+- Butter - 2 sticks (1/2 lb, 250 gms)
+- Salt - a pinch
+- Vanilla Extract - 1 tsp
+- Egg - 1
+- Sprinkles, Coloured Sugar or Nuts- for garnish
+
+Instructions:
+1. Take the butter and sugar in a mixing bowl. Mix it together until it is light and creamy.
+2. Break in the egg and add the vanilla extract. Mix it well.
+3. Sift together the maida (flour) and salt into the above mixture.
+4. Mix together with your hands or a wooden stick until everything combines. Do not vermix.
+5. Take the dough into a cookies press and press the cookies in desired shape onto an un-greased cookie sheet. (You can also add little food colour while making the cookie dough. I have added green food colour to make it look like Christmas trees.)
+6. Top it with coloured sugar or sprinkles or gently press in nuts.
+7. Bake for 10 minutes in a 350 degree F oven or just until the edges start getting a light brown shade. The colour of the cookies should not change.
+8. Cool the cookies on a wire rack completely before you enjoy them.

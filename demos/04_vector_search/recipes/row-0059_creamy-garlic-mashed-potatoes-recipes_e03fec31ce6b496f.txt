@@ -1,0 +1,164 @@
+Creamy Garlic Mashed Potatoes recipes
+=====================================
+
+Recipe Metadata
+---------------
+Recipe ID: e03fec31ce6b496f
+CSV row number: 59
+Recipe name: Creamy Garlic Mashed Potatoes recipes
+Source: onionringsandthings.com
+URL: http://www.onionringsandthings.com/2016/10/creamy-garlic-mashed-potatoes/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/004c2d3ad5112ff30a031653ebcdf1a69af8a35c3f77bf02c9d9ad9493b4c3db/21042989.jpeg
+Servings: 4
+Calories: 2350.17
+Diet labels: none listed
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: starter
+
+Original CSV Fields
+-------------------
+recipe_name: Creamy Garlic Mashed Potatoes recipes
+source: onionringsandthings.com
+url: http://www.onionringsandthings.com/2016/10/creamy-garlic-mashed-potatoes/
+servings: 4
+calories: 2350.167
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/004c2d3ad5112ff30a031653ebcdf1a69af8a35c3f77bf02c9d9ad9493b4c3db/21042989.jpeg
+diet_labels: []
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["starter"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Creamy Garlic Mashed Potatoes
+
+Description: Get the tips on how to make the creamiest, most delicious garlic mashed potatoes! Rich, buttery, and loaded with garlicky flavors, this is the ultimate side dish!
+
+Recipe category: ['Side Dish']
+
+Recipe cuisine: ['American']
+
+Yield: ['4', '4 Servings']
+
+Prep time: PT10M
+
+Cook time: PT30M
+
+Total time: PT45M
+
+Ingredients:
+- 2 pounds Yukon Gold potatoes, peeled and cut into uniform size
+- 6 cloves garlic, peeled
+- 1 1/2 teaspoons salt
+- 1 cup heavy cream
+- 1/2 cup butter
+- 1/4 teaspoon pepper
+
+Instructions:
+1. In a large pot, combine potatoes, garlic, and enough cold water to cover by about 1 inch. Add 1 teaspoon of the salt.&nbsp;
+2. Over medium heat, bring to a boil. Lower heat and continue to cook for about 25 to 35 minutes or until potatoes can be pierced with a fork without resistance.
+3. In a colander, drain potatoes and garlic. Return to pot and continue to cook on very low heat for about 3 to 5 minutes to allow extra moisture to evaporate.
+4. In a small saucepan, heat the butter and milk over low heat until butter is melted. Do not boil.
+5. In a bowl, gently mash potatoes with a fork until mostly smooth. Use a potato masher or pass through a rice mill if you want a smoother consistency.
+6. Add heavy cream and butter mixture. Add pepper and the remaining 1/2 teaspoon salt. Gently stir until just combined. Serve hot.
+
+Visible page text:
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+Subscribe & Get My Free Ebook!
+Creamy Garlic Mashed Potatoes are the ultimate side dish for family dinners or holiday parties. It’s creamy, buttery, and bursting with garlicky flavors for a sure crowd-pleaser.
+1 Type of potato to use
+2 Cooking tips
+3 Serving suggestions
+4 How to make ahead
+5 Creamy Garlic Mashed Potatoes
+If you’re looking for the best side dish for family dinners or holiday parties, you’ve come to the right place! Creamy, buttery, and bursting with garlicky flavors, garlic mashed potatoes are a worthy accompaniment to the finest roast!
+Type of potato to use
+There are two schools of thought on what type of potato is best. While some prefer the starchy Russets or Idaho for their creamy fluffy texture, others swear by the waxy variety such as Red Bliss or New Potatoes for a more rustic, lumpy consistency.
+I personally prefer the all-purpose Yukon Gold for its medium starch content and rich, buttery taste which makes for incredibly delicious mashed taters.
+Cooking tips
+Cut the potatoes in uniform sizes to ensure even cooking.
+Start with cold water , and not hot, to cook the potatoes evenly.
+Cook the potatoes adequately . Overcooked potatoes absorb more water, resulting in a mealy texture while undercooked potatoes are difficult to mash into a smooth consistency. The potatoes are done they can be pierced through with a fork without resistance. They should be very tender but not falling apart.
+Season . Add salt to the boiling water so the potatoes are well-flavored from the get-go. I also like to add my fresh garlic cloves at this point to impart flavor and soften along with the potatoes.
+Drain well . After cooking, drain the potatoes, return them to the pot, and let sit at very low heat to rid of extra moisture.
+Do not let the potatoes get cold . For a creamy consistency, mash the potatoes while still warm. Use a potato masher or a ricer; never a blender or food processor!
+Melt the butter . Warm up the butter and cream so they’ll be easier to absorb and mix in.
+Do not overbeat . Overbeating releases starch and results in a gluey texture.
+Serving suggestions
+Garlic mashed potatoes are a delicious side dish for lunch or dinner meals. Great with your favorite roast chicken , meatballs , or smothered pork chops .
+Have leftovers? Turn into crispy chicken potato croquettes or cheesy potato cakes. You can also use it to top Shepherd’s pies and casseroles in making potato bread rolls or gnocchi.
+How to make ahead
+If you’re serving the mashed potatoes later, dot the top with butter, cover with foil and then keep at a warm spot or place the pan in a double boiler. When ready to serve, gently stir to whip the mashed potatoes back to life.
+It can also be stored longer in the fridge for up to 3 days. When ready to serve, reheat in a 350 F oven, covered, for about 25 to 30 minutes or until thoroughly heated. When hot, stir in additional butter as needed.
+Did you make this? Be sure to leave a review below and tag me @OnionRingsAndThings on Facebook and Instagram !
+Ingredients
+▢ 2 pounds Yukon Gold potatoes, peeled and cut into uniform size
+▢ 6 cloves garlic, peeled
+▢ 1 1/2 teaspoons salt
+▢ 1 cup heavy cream
+▢ 1/2 cup butter
+▢ 1/4 teaspoon pepper
+Instructions
+In a large pot, combine potatoes, garlic, and enough cold water to cover by about 1 inch. Add 1 teaspoon of the salt.
+Over medium heat, bring to a boil. Lower heat and continue to cook for about 25 to 35 minutes or until potatoes can be pierced with a fork without resistance.
+In a colander, drain potatoes and garlic. Return to pot and continue to cook on very low heat for about 3 to 5 minutes to allow extra moisture to evaporate.
+In a small saucepan, heat the butter and milk over low heat until butter is melted. Do not boil.
+In a bowl, gently mash potatoes with a fork until mostly smooth. Use a potato masher or pass through a rice mill if you want a smoother consistency.
+Add heavy cream and butter mixture. Add pepper and the remaining 1/2 teaspoon salt. Gently stir until just combined. Serve hot.
+Notes
+Start with cold, and not hot water to cook the potatoes evenly.
+Cook the potatoes adequately. Overcooked potatoes absorb more water, resulting in a mealy texture while undercooked potatoes are difficult to mash into a smooth consistency. The potatoes are done they can be pierced through with a fork without resistance. They should be very tender but not falling apart.
+Season. Add salt to the boiling water so the potatoes are well-flavored from the get-go. I also like to add my fresh garlic cloves at this point to impart flavor and soften along with the potatoes.
+Drain well. After cooking, drain the potatoes, return them to the pot, and let sit at very low heat to rid of extra moisture.
+Do not overbeat. Overbeating releases starch and results in a gluey texture. Use a potato masher or a rice mill; never a blender or food processor!
+Melt the butter. Warm up the butter and cream so they’ll be easier to absorb and mix in.
+Nutrition Information
+“This website provides approximate nutrition information for convenience and as a courtesy only. Nutrition data is gathered primarily from the USDA Food Composition Database, whenever available, or otherwise other online calculators.”
+About Lalaine Manalo
+Welcome to Onion Rings and Things where you’ll find hundreds of comfort food recipes, crafts, and printables. Browse around and make something fun or tasty today! Read More
+Reader Interactions
+Leave a Comment Cancel reply
+am a huge fan of mashed potato especially for the mashed potato of kfc. I want to try these. Reply
+am a huge fan of mashed potato especially for the mashed potato of kfc. I want to try these.
+Yummy! Will be trying this tonight! Need mashed potatoes for dinner! Reply
+Yummy! Will be trying this tonight! Need mashed potatoes for dinner!
+I love Garlic… this creamy mashed potato looks so good, perfect for side dish! Reply
+I love Garlic… this creamy mashed potato looks so good, perfect for side dish!
+i just had homemade mashed potatoes for lunch. this post must have been calling me. yummy. Reply
+i just had homemade mashed potatoes for lunch. this post must have been calling me. yummy.
+Fluffy mashed potatoes! That’s what it’s all about especially during the holidays! I would love to give this one a try! It’s the perfect side dish! Reply Thanks, Amanda 🙂 Reply
+Fluffy mashed potatoes! That’s what it’s all about especially during the holidays! I would love to give this one a try! It’s the perfect side dish!
+Thanks, Amanda 🙂 Reply
+Thanks, Amanda 🙂
+There’s nothing better than having mashed potatoes as your side dish this Fall! This recipe sounds so good it got me craving for some mashed potatoes in the middle of the night! Yum! Reply It’s my favorite side dish on Thanksgiving! Mashed potatoes and giblet gravy? Yum yum 🙂 Reply
+There’s nothing better than having mashed potatoes as your side dish this Fall! This recipe sounds so good it got me craving for some mashed potatoes in the middle of the night! Yum!
+It’s my favorite side dish on Thanksgiving! Mashed potatoes and giblet gravy? Yum yum 🙂 Reply
+It’s my favorite side dish on Thanksgiving! Mashed potatoes and giblet gravy? Yum yum 🙂
+I loveeee stopping by your blog. You have the most delicious recipes and pictures on all of your posts. I really plan to make this creamy garlic mashed potatoes for my family because it looks like it taste scrumptious! Reply Awww, thank you so much, Glenda. I really appreciate it. I am glad you’re enjoying the recipes. 🙂 Reply
+I loveeee stopping by your blog. You have the most delicious recipes and pictures on all of your posts. I really plan to make this creamy garlic mashed potatoes for my family because it looks like it taste scrumptious!
+Awww, thank you so much, Glenda. I really appreciate it. I am glad you’re enjoying the recipes. 🙂 Reply
+Awww, thank you so much, Glenda. I really appreciate it. I am glad you’re enjoying the recipes. 🙂
+I love mashed taters! One of my favorite side dishes that turns into my main dish! Reply
+I love mashed taters! One of my favorite side dishes that turns into my main dish!
+Yummy! My son really loves Mashed Potatoes, I’ll have to try this one. Reply
+Yummy! My son really loves Mashed Potatoes, I’ll have to try this one.
+Wow, looks delicious! Reply
+Wow, looks delicious!
+oh my goodness! This is really looks good. I wanna try it for my son too. Reply
+oh my goodness! This is really looks good. I wanna try it for my son too.
+Thank you for the great tips! I just use whatever potatoes that our store has in bulk. I think I will pay attention next time at what I get Reply Yes, the type of potatoes makes a big difference. The russet ones are more for light, fluffy mashed potatoes and the Yukon golds yield a more creamy, buttery taste 🙂 Reply
+Thank you for the great tips! I just use whatever potatoes that our store has in bulk. I think I will pay attention next time at what I get
+Yes, the type of potatoes makes a big difference. The russet ones are more for light, fluffy mashed potatoes and the Yukon golds yield a more creamy, buttery taste 🙂 Reply
+Yes, the type of potatoes makes a big difference. The russet ones are more for light, fluffy mashed potatoes and the Yukon golds yield a more creamy, buttery taste 🙂

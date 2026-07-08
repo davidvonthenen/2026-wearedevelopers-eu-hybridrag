@@ -1,0 +1,106 @@
+Sherry-Glazed Brussels Sprouts
+==============================
+
+Recipe Metadata
+---------------
+Recipe ID: 3859cfa58f654778
+CSV row number: 432
+Recipe name: Sherry-Glazed Brussels Sprouts
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/food-network-kitchen/sherry-glazed-brussels-sprouts-9528946
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02c182a1168139f6ec4025f2e7767435644d4594c7f0a8a47789a2a682bd3cf1/21081724.jpg
+Servings: 6
+Calories: 947.08
+Diet labels: none listed
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: starter
+
+Original CSV Fields
+-------------------
+recipe_name: Sherry-Glazed Brussels Sprouts
+source: Food Network
+url: https://www.foodnetwork.com/recipes/food-network-kitchen/sherry-glazed-brussels-sprouts-9528946
+servings: 6
+calories: 947.0757983914964
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02c182a1168139f6ec4025f2e7767435644d4594c7f0a8a47789a2a682bd3cf1/21081724.jpg
+diet_labels: []
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["starter"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Sherry-Glazed Brussels Sprouts
+
+Description: Glazed Brussels sprouts make for a great, crowd-pleasing side dish. This recipe uses a combination of sugar, sherry wine and butter to give them a silky texture and slightly nutty flavor.
+
+Recipe category: side-dish
+
+Yield: 4 to 6 servings
+
+Cook time: P0Y0M0DT0H40M0.000S
+
+Total time: P0Y0M0DT0H40M0.000S
+
+Ingredients:
+- 10 ounces pearl onions
+- 1 1/4 pounds brussels sprouts, trimmed and halved
+- 4 tablespoons unsalted butter
+- 2 tablespoons sugar
+- Kosher salt and freshly ground pepper
+- 3 tablespoons dry sherry
+- 1 tablespoon chopped fresh thyme
+- Chopped fresh chives, for topping
+
+Instructions:
+1. Bring a large pot of water to a boil. Add the pearl onions and cook until tender and the skins peel off easily, about 2 minutes; drain and rinse under cold water. Trim the root ends and pinch the opposite ends to remove the skins.
+2. Combine the brussels sprouts, 1 cup water, 2 tablespoons butter, the sugar and 1/2 teaspoon each salt and pepper in a large skillet over medium heat. Cook, stirring occasionally, until the brussels sprouts are bright green and crisp-tender, about 10 minutes. Add the pearl onions and cook until the skillet is almost dry, about 5 minutes. Add the remaining 2 tablespoons butter, the sherry and thyme. Cook, tossing, until the vegetables are glazed, about 2 minutes; season with salt. Top with chives.
+
+Visible page text:
+Home
+Recipes
+Side Dishes
+Sherry-Glazed Brussels Sprouts
+Level: Easy
+Total: 40 min
+Active: 40 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+10 ounces pearl onions
+1 1/4 pounds brussels sprouts, trimmed and halved
+4 tablespoons unsalted butter
+2 tablespoons sugar
+Kosher salt and freshly ground pepper
+3 tablespoons dry sherry
+1 tablespoon chopped fresh thyme
+Chopped fresh chives, for topping
+Bring a large pot of water to a boil. Add the pearl onions and cook until tender and the skins peel off easily, about 2 minutes; drain and rinse under cold water. Trim the root ends and pinch the opposite ends to remove the skins.
+Combine the brussels sprouts, 1 cup water, 2 tablespoons butter, the sugar and 1/2 teaspoon each salt and pepper in a large skillet over medium heat. Cook, stirring occasionally, until the brussels sprouts are bright green and crisp-tender, about 10 minutes. Add the pearl onions and cook until the skillet is almost dry, about 5 minutes. Add the remaining 2 tablespoons butter, the sherry and thyme. Cook, tossing, until the vegetables are glazed, about 2 minutes; season with salt. Top with chives.
+Photograph by Levi Brown
+Categories:
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Roasted Garlic Brussels Sprouts Recipe
+Indian Brussels Sprouts Recipe
+Salt-and-Vinegar Brussels Sprouts Recipe
+Creole Brussels Sprouts Recipe
+Crispy Brussels Sprouts Recipe
+Grill Basket Bacon-Wrapped Brussels Sprouts Recipe

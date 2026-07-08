@@ -1,0 +1,92 @@
+Mozzarella, Pesto And Spinach
+=============================
+
+Recipe Metadata
+---------------
+Recipe ID: f34fb84e6623cbc0
+CSV row number: 204
+Recipe name: Mozzarella, Pesto And Spinach
+Source: Salad Pride
+URL: http://saladpride.blogspot.com/2011/06/mozzarella-pesto-and-spinach.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01460efc519bd6c7663cbe6934e535502d389471b4bb8814428c17c3bd7a5aa1/21088222.jpg
+Servings: 1
+Calories: 749.07
+Diet labels: Low-Carb
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites, FODMAP
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Mozzarella, Pesto And Spinach
+source: Salad Pride
+url: http://saladpride.blogspot.com/2011/06/mozzarella-pesto-and-spinach.html
+servings: 1
+calories: 749.0684291853933
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01460efc519bd6c7663cbe6934e535502d389471b4bb8814428c17c3bd7a5aa1/21088222.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites","FODMAP"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Get link
+Facebook
+X
+Pinterest
+Email
+Other Apps
+Baby Spinach
+balsamic vinegar
+basil
+black pepper
+cheese
+Extra virgin olive oil
+Mozzarella cheese
+parmigiano cheese
+pesto
+pinenuts
+salad
+Salt
+spinach
+vegetarian
+Mozzarella, Pesto and Spinach
+Comments
+Post a Comment
+Skip to main content
+Share
+Labels
+Ingredients for 1:
+Baby Spinach 50gr
+Shaved Parmigiano cheese 30gr
+1 Mozzarella cheese 50gr
+Plenty of Basil
+A handful of pine nuts
+Dressing:
+2 Tbs Basil pesto
+Salt and pepper
+---------------------
+Mozzarella, Pesto and Spinaci
+Ingredienti per 1:
+Spinaci Novelli 50gr
+Parmigiano a scaglie 30gr
+1 Mozzarella
+Basilico inn abbondanza
+Una manciata di pinoli
+condimento:
+2 cucchiai di pesto
+Olio extravergine di oliva
+Aceto balsamico
+Sale e pepe
+Email Post
+Labels:

@@ -1,0 +1,88 @@
+Springtime Oven Roasted Veggies
+===============================
+
+Recipe Metadata
+---------------
+Recipe ID: 8e045793240b820a
+CSV row number: 376
+Recipe name: Springtime Oven Roasted Veggies
+Source: justasmidgen.com
+URL: http://justasmidgen.com/2011/07/07/simple-and-sweet/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/026149b974695352c22782bc37688e613a32cff1f67128da24bb892b20e9c860/21079308.jpg
+Servings: 6
+Calories: 957.58
+Diet labels: Balanced, High-Fiber
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Springtime Oven Roasted Veggies
+source: justasmidgen.com
+url: http://justasmidgen.com/2011/07/07/simple-and-sweet/
+servings: 6
+calories: 957.5794634666665
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/026149b974695352c22782bc37688e613a32cff1f67128da24bb892b20e9c860/21079308.jpg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+just a smidgen
+Simple… and Sweet! Springtime Oven Roasted Veggies
+We went on an awesome 16 km bike ride today, straight up and straight back down again . “Hey! Maybe I could enter the Enbridge Ride to Conquer Cancer ” I mused, “this isn’t as difficult as I thought”. I was gently reminded that I could multiply our little morning’s jaunt by 7 and how that would be equivalent to one day of the Enbridge ride. “Hmmm,” I thought, “isn’t it amazing how cycling outside differs from my spin class.” I am certain of one thing, however, my fellow spin class sidekicks (Sharon and Randy) would be proud of me (insert laughter here)!
+Note to self: I had worked up an appetite… and it was easy not to cheat, I can do this… AND I just might train for that ride!
+But who am I kidding? This dietary restriction is never going to be sustainable in the long run ride, but at least I know I can do it;) Everything in moderation they say! If I just pace myself… who knows what I’m capable of? I made my awesome rib recipe for supper. Our guest said that they were the “best ribs he’s ever eaten” and I could tell he wasn’t just trying to butter me up;) Maybe everything just tastes better at the lake?
+If you missed the recipe for the ribs from my earlier blog, click on this link ExtraMeatyPorkBackRibs . A simple assortment of springtime vegetables were roasted in the oven and Presto! everything that day was simple and sweet … in a good way;)
+Springtime Oven Roasted Veggies
+2 zucchini
+3 peppers, assorted colors
+8-10 small new potatoes
+1 ½ onions, quartered, leave root on
+1 bunch asparagus
+½ pkg mushrooms, button, shitake, etc.
+3 large carrots
+1 head garlic, separated and peeled
+Olive Oil
+Sea Salt
+Herbes de Provence
+Oregano
+Preheat oven to 400°F.
+Find the freshest produce available, root vegetables work wonderfully because they caramelize as they bake. Chop all vegetables into large “chunks”, trying to make them approximately the same size.
+Place all vegetables into a large roasting pan. Drizzle generously with olive oil. Sprinkle with sea salt, herbes de provence and oregano to taste. Stir to coat (stir occasionally while roasting) and put in the oven for approx 45 minutes or until potatoes are cooked through.
+Share this:
+Share on X (Opens in new window) X
+Print (Opens in new window) Print
+Share on Reddit (Opens in new window) Reddit
+Share on Tumblr (Opens in new window) Tumblr
+Share on Facebook (Opens in new window) Facebook
+Email a link to a friend (Opens in new window) Email
+Share on Pinterest (Opens in new window) Pinterest
+Share on LinkedIn (Opens in new window) LinkedIn
+Related
+Rufus' Food and Spirits Guide July 7, 2011 - 10:35 am Those look wonderful! Reply Cancel
+Those look wonderful! Reply Cancel
+markynyoga July 7, 2011 - 8:56 pm Thanks for your recipe looks delicious, passed it on to the Mrs. she is making it tonight thanks for rib recipe too. Great stuff:) Reply Cancel Just A Smidgen July 7, 2011 - 9:19 pm I’m so glad you liked it:) Thanks for checking out my blog as well! Do you have a blog/website yourself? Reply Cancel
+Thanks for your recipe looks delicious, passed it on to the Mrs. she is making it tonight thanks for rib recipe too. Great stuff:) Reply Cancel
+Just A Smidgen July 7, 2011 - 9:19 pm I’m so glad you liked it:) Thanks for checking out my blog as well! Do you have a blog/website yourself? Reply Cancel
+I’m so glad you liked it:) Thanks for checking out my blog as well! Do you have a blog/website yourself? Reply Cancel
+Subscribe to Just a Smidgen xo
+Follow Us
+© 2026 Just a Smidgen
+Manage options
+Manage services
+Manage {vendor_count} vendors
+Read more about these purposes
+{title}

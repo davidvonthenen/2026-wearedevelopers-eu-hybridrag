@@ -1,0 +1,43 @@
+Best Homemade Pizza Dough Recipe
+================================
+
+Recipe Metadata
+---------------
+Recipe ID: 901f3709b611a671
+CSV row number: 144
+Recipe name: Best Homemade Pizza Dough Recipe
+Source: clarkscondensed.com
+URL: http://www.clarkscondensed.com/food/best-homemade-pizza-dough-recipe/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00e67bcddab920a3c034fb40d30d9cb320cc0dda87f3a295b3896b86d172b06b/21105307.jpg
+Servings: 8
+Calories: 2702.84
+Diet labels: Low-Fat
+Health labels: Vegetarian, Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: bread
+
+Original CSV Fields
+-------------------
+recipe_name: Best Homemade Pizza Dough Recipe
+source: clarkscondensed.com
+url: http://www.clarkscondensed.com/food/best-homemade-pizza-dough-recipe/
+servings: 8
+calories: 2702.844
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00e67bcddab920a3c034fb40d30d9cb320cc0dda87f3a295b3896b86d172b06b/21105307.jpg
+diet_labels: ["Low-Fat"]
+health_labels: ["Vegetarian","Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["bread"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Skip to content

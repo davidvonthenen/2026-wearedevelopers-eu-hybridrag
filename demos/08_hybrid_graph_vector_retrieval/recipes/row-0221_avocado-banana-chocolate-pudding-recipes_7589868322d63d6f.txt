@@ -1,0 +1,235 @@
+Avocado & Banana Chocolate Pudding recipes
+==========================================
+
+Recipe Metadata
+---------------
+Recipe ID: 7589868322d63d6f
+CSV row number: 221
+Recipe name: Avocado & Banana Chocolate Pudding recipes
+Source: shutterbean.com
+URL: http://www.shutterbean.com/2014/avocado-banana-chocolate-pudding/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01664ef1bcd5379c975775eb4963f10b7830e6e92d96aafb1df1eaa2cd5ece15/21112225.jpeg
+Servings: 4
+Calories: 1900.93
+Diet labels: High-Fiber, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Tree-Nuts, Sulfites
+Cuisine type: british
+Meal type: snack
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Avocado & Banana Chocolate Pudding recipes
+source: shutterbean.com
+url: http://www.shutterbean.com/2014/avocado-banana-chocolate-pudding/
+servings: 4
+calories: 1900.934
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01664ef1bcd5379c975775eb4963f10b7830e6e92d96aafb1df1eaa2cd5ece15/21112225.jpeg
+diet_labels: ["High-Fiber","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Tree-Nuts","Sulfites"]
+cuisine_type: ["british"]
+meal_type: ["snack"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipes
+my everyday life
+lists
+out & about
+around the home
+Inspiration
+Portfolio
+Shop Amazon Favorites Favorites Etsy
+Amazon Favorites
+Favorites
+Etsy
+Avocado & Banana Chocolate Pudding
+We just survived Cooper’s first day of Kindergarten!!! It’s funny how a date can sit on your calendar for MONTHS and then JUST LIKE THAT it comes and goes! New beginnings. New friends. New routines. New clothes. New teachers. New routes to school. New lunchbox. New haircut. New backpack. EVERYTHING IS NEW.
+As someone who loves change (when I have some semblance of control!) it’s been nice to be able to say that we made it through! There were no tears (including me!) and Cooper DID NOT want to go home from Kindergarten. In fact, he was like, “Waaaaaaaait. Why are you picking me up so early? I was just getting to know my new best friend.” I did have a mild panic attack when I thought I left my dang checkbook at home and didn’t have a sweatshirt for him like I was supposed to. We made it through and that’s all that matters!
+One of the main things that’s new for us this year is school lunches. At Cooper’s preschool they served the children hot meals each day so I didn’t have to pack lunches for him. It was NICE not having that stress every evening. This means I have to beef up my school & after school snack game! I think I might add this Avocado Banana Chocolate Pudding recipe to our rotation because I got Cooper to eat AVOCADOS without a fuss. To fancy it up, I added coconut whipped cream and a sprinkle of chopped roasted peanuts. It’s creamy, chocolatey and DECADENT! It’s the perfect recipe to make when you have a few too many avocados and bananas lying around…and we always have too many cuz I love both with a passion.
+And we’re off!
+I’ve made avocado chocolate pudding before and it’s tasted a wee bit like avocado.
+With the addition of banana, it cuts the avocado taste…because you taste banana!
+The chocolate still comes through. Fret, not.
+Everything here is all natural and it’s dairy free!
+We add bananas and avocado to the food processor with cocoa powder. PROCESS!
+Add in the maple syrup. Followed by the vanilla and cinnamon.
+Bloop! We’re done.
+Divide up between 4 little cups. Do a better job than I did. I mean…less sloppy, OK?
+After a nice little vacation in the fridge, we’re gonna serve it up!
+You could definitely just serve it as is, but what fun is that??
+Bananas + Whipped Coconut Cream enter the picture.
+Bananas on top. Followed by coconut cream!
+YESSSS. But WAIT.
+Why don’t we add chopped peanuts to the top??! I suppose Cooper deserves some sprinkles for his first day of school…
+Enjoy!
+Avocado & Banana Chocolate Pudding makes 4 recipe adapted from Clean Eating Magazine 3 1/2 bananas, divided 1 avocado, pitted and peeled 1/4 cup unsweetened cocoa powder 3 tablespoons pure maple syrup 1/2 teaspoon pure vanilla extract, optional 1/4 teaspoon ground cinnamon 1 cup whipped coconut cream 1/4 cup roasted salted peanuts, chopped Add 1 1/2 bananas, avocado and cocoa powder to a food processor and process until just a few chunks remain, about 1 minute. With processor running, pour maple syrup through feed tube and process until completely smooth, scraping down bowl as needed, about 1 minute. Add vanilla and cinnamon and process until combined, about 10 seconds. Transfer to an airtight container and refrigerate until completely chilled, about 1 1/2 – 2 hours. When ready to serve, divide pudding between 4 small bowls. Slice up remaining two bananas and layer on top of each of the puddings. Place a dollop or two of coconut cream on each pudding and sprinkle tops with chopped peanuts. Serve immediately.
+makes 4 recipe adapted from Clean Eating Magazine
+3 1/2 bananas, divided
+1 avocado, pitted and peeled
+1/4 cup unsweetened cocoa powder
+3 tablespoons pure maple syrup
+1/2 teaspoon pure vanilla extract, optional
+1/4 teaspoon ground cinnamon
+1 cup whipped coconut cream
+1/4 cup roasted salted peanuts, chopped
+Add 1 1/2 bananas, avocado and cocoa powder to a food processor and process until just a few chunks remain, about 1 minute. With processor running, pour maple syrup through feed tube and process until completely smooth, scraping down bowl as needed, about 1 minute. Add vanilla and cinnamon and process until combined, about 10 seconds.
+Transfer to an airtight container and refrigerate until completely chilled, about 1 1/2 – 2 hours. When ready to serve, divide pudding between 4 small bowls. Slice up remaining two bananas and layer on top of each of the puddings. Place a dollop or two of coconut cream on each pudding and sprinkle tops with chopped peanuts. Serve immediately.
+Share
+Tweet
+Pin
+Malensu August 27, 2014 That look so delicious. I’m definitely gonna try this out soon! Malensu x lennylikestoblog.blogspot.co.uk Reply
+Malensu August 27, 2014
+That look so delicious. I’m definitely gonna try this out soon!
+Malensu x lennylikestoblog.blogspot.co.uk
+Awks Irish Girl August 27, 2014 These look amazing! Loving the simple ingredients list too – always a plus! Hope Cooper is enjoying his new school 🙂 Reply
+Awks Irish Girl August 27, 2014
+These look amazing! Loving the simple ingredients list too – always a plus! Hope Cooper is enjoying his new school 🙂
+ALESSANDRA @ THE FOODIE TEEN August 27, 2014 So excited to make these tonight, they look amazing! Reply
+ALESSANDRA @ THE FOODIE TEEN August 27, 2014
+So excited to make these tonight, they look amazing!
+Tracy Too August 27, 2014 Looks awesome! I wonder could you feed this to a baby? (minus the nuts of course) Reply Tracy August 27, 2014 how old is your baby? Reply Tracy Too August 27, 2014 7 months…I think he could eat it. It’s just purée really! Reply
+Tracy Too August 27, 2014
+Looks awesome! I wonder could you feed this to a baby? (minus the nuts of course)
+Tracy August 27, 2014 how old is your baby? Reply Tracy Too August 27, 2014 7 months…I think he could eat it. It’s just purée really! Reply
+Tracy August 27, 2014
+how old is your baby?
+Tracy Too August 27, 2014 7 months…I think he could eat it. It’s just purée really! Reply
+7 months…I think he could eat it. It’s just purée really!
+Allyn August 27, 2014 I haven’t done the pudding before, but we make smoothies with cacao, avocado, and banana. We also add homemade coconut milk ( http://girlnamedallyn.wordpress.com/2014/05/28/homemade-coconut-milk/ ) dates, and sunflower seed butter. We might be slightly obsessed, since we’ve had them at least twice a week for months now. Not sorry. Reply
+Allyn August 27, 2014
+I haven’t done the pudding before, but we make smoothies with cacao, avocado, and banana. We also add homemade coconut milk ( http://girlnamedallyn.wordpress.com/2014/05/28/homemade-coconut-milk/ ) dates, and sunflower seed butter. We might be slightly obsessed, since we’ve had them at least twice a week for months now. Not sorry.
+Katrina @ Warm Vanilla Sugar August 27, 2014 This looks delicious Tracy! Simple and great for summer 🙂 Reply
+Katrina @ Warm Vanilla Sugar August 27, 2014
+This looks delicious Tracy! Simple and great for summer 🙂
+Sara August 27, 2014 YES. Illusion of dessert in the form of healthy snack! I’m all over it! Reply
+Sara August 27, 2014
+YES. Illusion of dessert in the form of healthy snack! I’m all over it!
+Tracy | Pale Yellow August 27, 2014 This could possibly be the best after school snack ever! Reply Tracy August 27, 2014 🙂 Reply
+Tracy | Pale Yellow August 27, 2014
+This could possibly be the best after school snack ever!
+Tracy August 27, 2014 🙂 Reply
+🙂
+Erin August 27, 2014 This looks incredible! Reply
+Erin August 27, 2014
+This looks incredible!
+Diane August 27, 2014 That looks so incredible. You convinced me I am going to give it a try and I think I will try to sneak it by my picky eater aka my daughter. Reply Tracy August 27, 2014 Good luck!!! Reply
+Diane August 27, 2014
+That looks so incredible. You convinced me I am going to give it a try and I think I will try to sneak it by my picky eater aka my daughter.
+Tracy August 27, 2014 Good luck!!! Reply
+Good luck!!!
+MIra C. August 27, 2014 Congratulations to you and Cooper! What a huge milestone. And that pudding looks divine! Reply
+MIra C. August 27, 2014
+Congratulations to you and Cooper! What a huge milestone. And that pudding looks divine!
+Reynaul August 27, 2014 Looks yummy! I hope you post some of his lunches on instagram! I need all of the inspiration that I can get! Reply Tracy August 27, 2014 I posted one yesterday 🙂 Reply
+Reynaul August 27, 2014
+Looks yummy! I hope you post some of his lunches on instagram! I need all of the inspiration that I can get!
+Tracy August 27, 2014 I posted one yesterday 🙂 Reply
+I posted one yesterday 🙂
+Millie l Add A Little August 27, 2014 Can’t believe cooper is growing up so quickly! Just wait till he’s a teen – trust me, it flies by! I love the recipe too Tracy – avocado based desserts are so good! (also, bananas -yay!) Reply
+Millie l Add A Little August 27, 2014
+Can’t believe cooper is growing up so quickly! Just wait till he’s a teen – trust me, it flies by! I love the recipe too Tracy – avocado based desserts are so good! (also, bananas -yay!)
+Dani August 27, 2014 I love the idea of adding the banana!…Another genius move by you! 😉 Reply
+Dani August 27, 2014
+I love the idea of adding the banana!…Another genius move by you! 😉
+fusilliamy August 27, 2014 Exciting times! I think I subconsciously buy too many avocados for things like this. I also appreciate another way to use the coconut whipped cream 🙂 Reply
+fusilliamy August 27, 2014
+Exciting times! I think I subconsciously buy too many avocados for things like this. I also appreciate another way to use the coconut whipped cream 🙂
+Jamie August 27, 2014 You must be standing in my kitchen to see the wealth of ripe bananas and avocados lying around… Reply
+Jamie August 27, 2014
+You must be standing in my kitchen to see the wealth of ripe bananas and avocados lying around…
+Kate T August 27, 2014 Okay… I’ve been curious about avocado chocolate pudding but never pulled the trigger on making it. There are so many different recipes! I trust you, though. If you say it’s good, I’m going to go for it this time. Reply
+Kate T August 27, 2014
+Okay… I’ve been curious about avocado chocolate pudding but never pulled the trigger on making it. There are so many different recipes! I trust you, though. If you say it’s good, I’m going to go for it this time.
+Amy @ Thoroughly Nourished Life August 27, 2014 These look so delicious and so good for your skin with all that Vitamin E and B going on! And yay Cooper for having such an awesome first day at kindergarten 🙂 With an amazing cook like you for a mum I’m sure Cooper’s lunches and after school snacks will be the top of the lunchbox game. Reply
+Amy @ Thoroughly Nourished Life August 27, 2014
+These look so delicious and so good for your skin with all that Vitamin E and B going on! And yay Cooper for having such an awesome first day at kindergarten 🙂 With an amazing cook like you for a mum I’m sure Cooper’s lunches and after school snacks will be the top of the lunchbox game.
+Sue August 28, 2014 This makes me want to try avocado chocolate pudding. My kids think I’m crazy when I put avocado in smoothies and they won’t touch it. Maybe I’ll see if I can sneak this past them. 🙂 Btw, those little serving cups are super cute. Where did you get them? Reply Tracy August 28, 2014 Thanks! They’re from West Elm Reply
+Sue August 28, 2014
+This makes me want to try avocado chocolate pudding. My kids think I’m crazy when I put avocado in smoothies and they won’t touch it. Maybe I’ll see if I can sneak this past them. 🙂 Btw, those little serving cups are super cute. Where did you get them?
+Tracy August 28, 2014 Thanks! They’re from West Elm Reply
+Tracy August 28, 2014
+Thanks! They’re from West Elm
+Heidi - Apples Under My Bed August 28, 2014 What a major moment, congratulations. Makes me super clucky. Love the addition of banana here, I happen to have too many of both lying around. Definitely worthy of departure from avocado toast….maybe. x Reply
+Heidi - Apples Under My Bed August 28, 2014
+What a major moment, congratulations. Makes me super clucky. Love the addition of banana here, I happen to have too many of both lying around. Definitely worthy of departure from avocado toast….maybe. x
+Foody Friday – Hot & Spicy Curry Recipe – 29 Aug | awkwardirishgirlblogs August 29, 2014 […] posted an avocado & banana chocolate pudding that I really want to try! It’s so nice to see a healthy dessert recipe with a small […] Reply
+Foody Friday – Hot & Spicy Curry Recipe – 29 Aug | awkwardirishgirlblogs August 29, 2014
+[…] posted an avocado & banana chocolate pudding that I really want to try! It’s so nice to see a healthy dessert recipe with a small […]
+Happy Spaces v.15 | Happy Pantry August 29, 2014 […] And also, Avocado and Banana Chocolate Pudding. I reckon you could eat that for breakfast, […] Reply
+Happy Spaces v.15 | Happy Pantry August 29, 2014
+[…] And also, Avocado and Banana Chocolate Pudding. I reckon you could eat that for breakfast, […]
+Weekend Links / / Labor Day - a short blonde - Thoughts on love, life and family August 29, 2014 […] that I like my iced americanos black. Sometimes I don’t recognize myself Tracy’s avocado & chocolate pudding sounds so delicious and a recipe I’ll keep on […] Reply
+Weekend Links / / Labor Day - a short blonde - Thoughts on love, life and family August 29, 2014
+[…] that I like my iced americanos black. Sometimes I don’t recognize myself Tracy’s avocado & chocolate pudding sounds so delicious and a recipe I’ll keep on […]
+Currently Crushing On. | How Sweet It Is August 30, 2014 […] avocado banana chocolate pudding. best […] Reply
+Currently Crushing On. | How Sweet It Is August 30, 2014
+[…] avocado banana chocolate pudding. best […]
+Kati August 30, 2014 This is awesome! Love it. Will definitely be trying with the banana soon. 🙂 Reply
+Kati August 30, 2014
+This is awesome! Love it. Will definitely be trying with the banana soon. 🙂
+Link Happy Saturday! - Dietitian Debbie Dishes August 30, 2014 […] Who needs snack pack pudding when you could have avocado and banana chocolate pudding?! […] Reply
+Link Happy Saturday! - Dietitian Debbie Dishes August 30, 2014
+[…] Who needs snack pack pudding when you could have avocado and banana chocolate pudding?! […]
+Ashley September 2, 2014 Chocolate avo pudding is one of my favorite snacks of all time. SO filling and tasty. Love just taking a spoonful from the fridge! Yay for Kindergarten! Reply
+Ashley September 2, 2014
+Chocolate avo pudding is one of my favorite snacks of all time. SO filling and tasty. Love just taking a spoonful from the fridge! Yay for Kindergarten!
+Anne September 3, 2014 Made this for dessert tonight and it was so good, will definitely be making this again soon! Reply
+Anne September 3, 2014
+Made this for dessert tonight and it was so good, will definitely be making this again soon!
+Where have I been? | Fresh from the Souk September 22, 2014 […] Avocado Banana Chocolate Pudding- Yes please! […] Reply
+Where have I been? | Fresh from the Souk September 22, 2014
+[…] Avocado Banana Chocolate Pudding- Yes please! […]
+Cheryl Vivian | neurotic baker November 2, 2014 I never would’ve thought to put chocolate and avocado together, but this looks and sounds delicious. I will have to try this recipe! Reply
+Cheryl Vivian | neurotic baker November 2, 2014
+I never would’ve thought to put chocolate and avocado together, but this looks and sounds delicious. I will have to try this recipe!
+Chocolate Pudding Recipe - RecipeGirl November 6, 2014 […] chocolate pudding recipes you might enjoy: Avocado and Banana Chocolate Pudding by Shutterbean Homemade Chocolate Pudding with Baileys by My Baking Addiction Paleo Chocolate […] Reply
+Chocolate Pudding Recipe - RecipeGirl November 6, 2014
+[…] chocolate pudding recipes you might enjoy: Avocado and Banana Chocolate Pudding by Shutterbean Homemade Chocolate Pudding with Baileys by My Baking Addiction Paleo Chocolate […]
+10 Chocolate Desserts You Won’t Believe Are Healthy… | Awkward Irish Girl Blogs. February 13, 2015 […] 2. This banana chocolate pudding looks equally yum! […] Reply
+10 Chocolate Desserts You Won’t Believe Are Healthy… | Awkward Irish Girl Blogs. February 13, 2015
+[…] 2. This banana chocolate pudding looks equally yum! […]
+Paleo Chocolate Pudding Avocado Banana | The Paleo Recipe Blog February 14, 2015 […] Avocado & Banana Chocolate Pudding – Shutterbean – makes 4 recipe adapted from Clean Eating Magazine. 3 1/2 bananas, divided; 1 avocado, pitted and peeled; 1/4 cup unsweetened cocoa powder; 3 tablespoons pure maple syrup… […] Reply
+Paleo Chocolate Pudding Avocado Banana | The Paleo Recipe Blog February 14, 2015
+[…] Avocado & Banana Chocolate Pudding – Shutterbean – makes 4 recipe adapted from Clean Eating Magazine. 3 1/2 bananas, divided; 1 avocado, pitted and peeled; 1/4 cup unsweetened cocoa powder; 3 tablespoons pure maple syrup… […]
+Paleo Pudding Avocado Banana | The Paleo Recipe Blog February 19, 2015 […] Avocado & Banana Chocolate Pudding – Shutterbean – makes 4 recipe adapted from Clean Eating Magazine. 3 1/2 bananas, divided; 1 avocado, pitted and peeled; 1/4 cup unsweetened cocoa powder; 3 tablespoons pure …… […] Reply
+Paleo Pudding Avocado Banana | The Paleo Recipe Blog February 19, 2015
+[…] Avocado & Banana Chocolate Pudding – Shutterbean – makes 4 recipe adapted from Clean Eating Magazine. 3 1/2 bananas, divided; 1 avocado, pitted and peeled; 1/4 cup unsweetened cocoa powder; 3 tablespoons pure …… […]
+Paleo Avocado Banana Chocolate Pudding | The Paleo Recipe Blog February 22, 2015 […] Avocado & Banana Chocolate Pudding – Shutterbean – makes 4 recipe adapted from Clean Eating Magazine. 3 1/2 bananas, divided; 1 avocado, pitted and peeled; 1/4 cup unsweetened cocoa powder; 3 tablespoons pure maple syrup… […] Reply
+Paleo Avocado Banana Chocolate Pudding | The Paleo Recipe Blog February 22, 2015
+Sherry Blair August 8, 2015 While searching for a pudding recipe with avocado and banana on the web, I found your site. I knew within seconds of reading this that I would be making this for dessert tonight. It was a HUGE hit—I used shot glasses and topped with a small piece of the other 1/2 of banana and chocolate next to whipped cream topped with cocoa & cinnamon plus a small amount of granola. I live most of the year in the Dominican Republic and can have an avocado tree that is full of avocados now so I will be able to make the on a regular basis during this season. Thanks! Reply
+Sherry Blair August 8, 2015
+While searching for a pudding recipe with avocado and banana on the web, I found your site. I knew within seconds of reading this that I would be making this for dessert tonight. It was a HUGE hit—I used shot glasses and topped with a small piece of the other 1/2 of banana and chocolate next to whipped cream topped with cocoa & cinnamon plus a small amount of granola. I live most of the year in the Dominican Republic and can have an avocado tree that is full of avocados now so I will be able to make the on a regular basis during this season. Thanks!
+Mouad October 4, 2015 Wonderful!!! Many thanks! Reply
+Mouad October 4, 2015
+Wonderful!!! Many thanks!
+Chocolate Pudding Recipe – Recipe Girl® August 23, 2018 […] Avocado and Banana Chocolate Pudding by Shutterbean […] Reply
+Chocolate Pudding Recipe – Recipe Girl® August 23, 2018
+[…] Avocado and Banana Chocolate Pudding by Shutterbean […]
+Chocolate Pudding Recipe - Recipe Girl March 1, 2019 […] Avocado and Banana Chocolate Pudding by Shutterbean […] Reply
+Chocolate Pudding Recipe - Recipe Girl March 1, 2019
+Leave a Comment (cancel)
+SUBSTACK:
+ETSY SHOP
+CURRENTLY WORKBOOK
+Intentions for the Week Planner
+TIME TRACKING PACK!
+RANDOM MACHINE:
+SEARCH THE ARCHIVES
+Favorite Posts
+Meal Train Food Ideas
+Shutterbean Favorite Things 2025
+Easy Back- to-School Dinners
+On-the-Go Office Bag Essentials
+Recipes for When You’re Sick
+About
+Shop
+Contact

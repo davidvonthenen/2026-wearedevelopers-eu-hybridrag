@@ -1,0 +1,135 @@
+Carrot Cake Cupcakes recipes
+============================
+
+Recipe Metadata
+---------------
+Recipe ID: 16aaf10d9aaaa824
+CSV row number: 108
+Recipe name: Carrot Cake Cupcakes recipes
+Source: jesselanewellness.com
+URL: http://www.jesselanewellness.com/recipes/carrot-cake-cupcakes/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/009f5434f2dd84149fba98b2650dffe95e749e8561632004ff3f16d750290384/21047488.jpeg
+Servings: 12
+Calories: 2769.61
+Diet labels: Balanced
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Tree-Nuts, Sulfites
+Cuisine type: american
+Meal type: snack, lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Carrot Cake Cupcakes recipes
+source: jesselanewellness.com
+url: http://www.jesselanewellness.com/recipes/carrot-cake-cupcakes/
+servings: 12
+calories: 2769.607499963481
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/009f5434f2dd84149fba98b2650dffe95e749e8561632004ff3f16d750290384/21047488.jpeg
+diet_labels: ["Balanced"]
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Tree-Nuts","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack","lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Everyone loves carrot cake but it is so much more fun in cupcake form! These Carrot Cake Cupcakes have the traditional carrot cake flavors; the grated carrots add fiber and make the cupcakes super moist.
+The coconut cream cheese icing is dairy free , but you would never know! The sprinkles on my Carrot Cake CupcakesÂ don’t contain any dye or chemicals, can you guess what they are? Keep reading to discover my super secret ingredients.
+If you love making healthy desserts like these Carrot Cake Cupcakes, check out my cookbook Healthy Dairy Free Desserts .
+Health Benefits ofÂ Carrots
+Carrots are a great ingredient to add to any meal because they are one of the riches sources of pro-vitamin A carotenoids (alpha- and beta-carotene which convert into vitamin A). As you probably already know, vitamin A is great for your vision and helps boost your immune system. It is also an antioxidant which can help protect you against cardiovascular disease. Carrots are rich in fiber and low in calories, so you can munch away on them guilt free.
+I use spelt flour in a lot of my baking. You can find out why by checking out myÂ Stack’em High Pancake Â recipe and myÂ Humble Apple Pie Crumble Â recipe. I also like to use coconut sugar in my baking because is it not as processed as refined white sugar and it has a much lower glycemic index.
+Carrot Cake Cupcakes
+(dairy free, nut free)
+Prep time: 15 minutes
+Inactive prep time: 30 minutes
+Cook time: 25 minutes
+Serving size: 12 cupcakes
+Ingredients:
+2 cups spelt flour
+1 cup coconut sugar
+2 tsp baking powder
+1/2 tsp baking soda
+1 tsp ground cinnamon
+1/4 tsp ground ginger
+1/4 cup grape seed oil
+1 cup milk alternative
+1 tsp vanilla
+2 large eggs
+2 cups grated carrot (4 small carrots)
+Directions:
+Preheat oven to 350F and line muffin pan with extra large baking cups.
+Mix all dry ingredients together with a spoon.
+Whisk wet ingredients together until frothy.
+Add the wet ingredients to the dry ingredients and stir until mixed, then fold in the grated carrots.
+Pour the Carrot Cake CupcakesÂ batter into the baking cups, filling them 1-2cm from the top of the baking cup. Cook for 25 minutes or until the toothpick inserted in the center comes out clean.
+Let the Carrot Cake CupcakesÂ cool for 30 minutes, then ice them with the Coconut Cream Cheese icing below.
+Coconut Cream Cheese
+(vegan)
+I have actually tricked people into thinking this delicious dairy free icing was traditional cream cheese icing! The secret ingredient is the apple cider vinegar which makes it taste like cream cheese. My second secret is the sprinkles â they are made from finely processed carrots! They give the Carrot Cake Cupcakes a fun burst of color without adding toxic dye or chemicals.
+Ingredients
+2 cups golden cane sugar
+1/2 cup coconut oil at room temperature
+1/2 tsp Himalayan salt
+1/2 Tbsp apple cider vinegar
+1 Tbsp milk alternative, as required
+1/2 a carrot
+To make the icing sugar, process 2 cups of golden cane sugar in a food processor (I used a Magic Bullet).
+The coconut oil should be a buttery consistency at room temperature, if it is rock hard you may need to gently soften it. Cream the coconut oil, vanilla, salt and icing sugar together.
+Add the apple cider vinegar and mix. Slowly add the milk until the desired consistency is reached at room temperature. The coconut oil will liquefy at 24C, so to ensure the proper consistency is reached, prepare the filling in the same temperature it will be served in, adjusting the consistency by adding milk or additional icing sugar.
+Spread the Coconut Cream Cheese Icing on the cooled Carrot Cake Cupcakes using a knife or piping bag.
+To make the sprinkles, process half of a carrot until you get little sprinkle like pieces of carrot and sprinkle them over the iced Carrot Cake Cupcakes.
+Pre-heat oven to 350F and line muffin pan with extra large baking cups.
+Pour the Carrot Cake CupcakesÂ batter into the baking cups, filling them 1-2 cm from the top of the baking cup. Cook for 25 minutes or until the tooth pick inserted in the center comes out clean.
+Download my Guide to Natural Sugar Substitutes HERE.
+20 Comments
+Sabina on May 15, 2014 at 2:34 pm Jesse, these cupcakes (and icing!) are AWESOME! I used spelt and coarsely grated carrots. I cheated and used conventional icing sugar (needed 1 â 1.25 cups). I am blown away at how much the icing tastes like cream cheese. Reply
+Jesse, these cupcakes (and icing!) are AWESOME! I used spelt and coarsely grated carrots. I cheated and used conventional icing sugar (needed 1 â 1.25 cups). I am blown away at how much the icing tastes like cream cheese.
+Jakc Risso on May 15, 2014 at 2:34 pm Better then any carrot cupcakes I have ever had! Reply
+Better then any carrot cupcakes I have ever had!
+Nicola on May 15, 2014 at 2:35 pm These cupcakes are yummy Jesse! Reply
+These cupcakes are yummy Jesse!
+michele on November 16, 2014 at 4:31 am Hi love these carrot cakes. I dont know what happen but I made 16 instead of 12 also is there any chance you can tell me how many calories or kj the carrot cakes are. As I watching my calories intake. Reply Jesse Lane Lee, CNP on November 17, 2014 at 9:18 am Hi Michele, That is exciting you got an extra 4 cupcakes! Maybe you filled the cupcake tins a little less than I did. I do not calculate calories for my recipes because I believe that if you are eating healthy whole foods in a balanced way you don’t have to worry about them. You may be able to calculate them using this website http://www.myfitnesspal.com/recipe/calculator Reply
+Hi love these carrot cakes. I dont know what happen but I made 16 instead of 12 also is there any chance you can tell me how many calories or kj the carrot cakes are. As I watching my calories intake.
+Jesse Lane Lee, CNP on November 17, 2014 at 9:18 am Hi Michele, That is exciting you got an extra 4 cupcakes! Maybe you filled the cupcake tins a little less than I did. I do not calculate calories for my recipes because I believe that if you are eating healthy whole foods in a balanced way you don’t have to worry about them. You may be able to calculate them using this website http://www.myfitnesspal.com/recipe/calculator Reply
+Hi Michele, That is exciting you got an extra 4 cupcakes! Maybe you filled the cupcake tins a little less than I did. I do not calculate calories for my recipes because I believe that if you are eating healthy whole foods in a balanced way you don’t have to worry about them. You may be able to calculate them using this website http://www.myfitnesspal.com/recipe/calculator
+Kelp Noodle Pad Thai on April 5, 2015 at 4:25 pm […] carrots, julienne, Â grated or […] Reply
+[…] carrots, julienne, Â grated or […]
+Frances on September 15, 2015 at 1:52 am Hi! These look awesome, can’t wait to make them! Just a question, can I subsitute something else for the golden cane sugar? If so what? Thank you! Reply Jesse Lane Lee, CNP on September 15, 2015 at 2:49 pm Hi Frances, Thanks so much! You can use coconut sugar 1 for 1 in place of golden cane sugar. Reply
+Hi! These look awesome, can’t wait to make them! Just a question, can I subsitute something else for the golden cane sugar? If so what? Thank you!
+Jesse Lane Lee, CNP on September 15, 2015 at 2:49 pm Hi Frances, Thanks so much! You can use coconut sugar 1 for 1 in place of golden cane sugar. Reply
+Hi Frances, Thanks so much! You can use coconut sugar 1 for 1 in place of golden cane sugar.
+Barbara on October 24, 2015 at 10:54 pm I Tried to make this cake and frosting. the cake is pretty good but next time i will add more spices. But the frosting was a disaster!!! It was not white it was golden brown? I used the ingrediants you listed and followed the directions to a tee but it was brown and would not spread and the oil soaked into the cake and the frosting wouldnt stick to the cake and had a very grainy texture. What happened? Reply Jesse Lane Lee, CNP on October 25, 2015 at 11:24 pm Hi Barbara, I’m happy the cake worked out and I’m so sorry to hear about the icing. Yes, it can be golden in color depending on the golden cane sugar you use. What temperature was the room you were serving the cupcakes in? It tends to melt when the room is 24C or hotter, the solution is to add more powdered sugar. Also, did you allow the cupcakes to completely cool? If they are still warm the icing will slide right off the top! Reply
+I Tried to make this cake and frosting. the cake is pretty good but next time i will add more spices. But the frosting was a disaster!!! It was not white it was golden brown? I used the ingrediants you listed and followed the directions to a tee but it was brown and would not spread and the oil soaked into the cake and the frosting wouldnt stick to the cake and had a very grainy texture. What happened?
+Jesse Lane Lee, CNP on October 25, 2015 at 11:24 pm Hi Barbara, I’m happy the cake worked out and I’m so sorry to hear about the icing. Yes, it can be golden in color depending on the golden cane sugar you use. What temperature was the room you were serving the cupcakes in? It tends to melt when the room is 24C or hotter, the solution is to add more powdered sugar. Also, did you allow the cupcakes to completely cool? If they are still warm the icing will slide right off the top! Reply
+Hi Barbara, I’m happy the cake worked out and I’m so sorry to hear about the icing. Yes, it can be golden in color depending on the golden cane sugar you use. What temperature was the room you were serving the cupcakes in? It tends to melt when the room is 24C or hotter, the solution is to add more powdered sugar. Also, did you allow the cupcakes to completely cool? If they are still warm the icing will slide right off the top!
+Elise on January 23, 2016 at 2:05 pm Hi! I want to make this icing, but it does not list how much icing sugar to use, how much do I use along with the other ingredients? Reply Jesse Lane Lee, CNP on January 24, 2016 at 2:53 pm Hi Elise, I put 2 cups of golden cane sugar in a food processor to make icing sugar. I do this because the white stuff you buy at the store is super processed and I haven’t found a less processed alternative. If you have found a less processed icing sugar, you can use 1.5 cups and see if the consistency is good. If it is too wet you can add an additional 1/2 cup of icing sugar. Reply
+Hi! I want to make this icing, but it does not list how much icing sugar to use, how much do I use along with the other ingredients?
+Jesse Lane Lee, CNP on January 24, 2016 at 2:53 pm Hi Elise, I put 2 cups of golden cane sugar in a food processor to make icing sugar. I do this because the white stuff you buy at the store is super processed and I haven’t found a less processed alternative. If you have found a less processed icing sugar, you can use 1.5 cups and see if the consistency is good. If it is too wet you can add an additional 1/2 cup of icing sugar. Reply
+Hi Elise, I put 2 cups of golden cane sugar in a food processor to make icing sugar. I do this because the white stuff you buy at the store is super processed and I haven’t found a less processed alternative. If you have found a less processed icing sugar, you can use 1.5 cups and see if the consistency is good. If it is too wet you can add an additional 1/2 cup of icing sugar.
+Sarah on April 11, 2016 at 5:59 am Hi. My brother adores cream cheese icing, but is dairy free, and has been asking me for ages to find a dairy free recipe. I was so keen when I came across your recipe!! So i tried it, and it does taste REALLY good! BUT – I found it a little too sweet. Is there a way I can reduce the sweetness, but keep the consistency, as the icing sugar was the main ingredient..?? Reply Jesse Lane Lee, CNP on April 11, 2016 at 9:35 am Hi Sarah, I’m so happy you and your brother like the recipe! I made the icing really sweet so it tastes more like “regular” cream cheese icing. You can reduce the sweetness by adding less sugar and using coconut flour instead. Reply
+Hi. My brother adores cream cheese icing, but is dairy free, and has been asking me for ages to find a dairy free recipe. I was so keen when I came across your recipe!! So i tried it, and it does taste REALLY good! BUT – I found it a little too sweet. Is there a way I can reduce the sweetness, but keep the consistency, as the icing sugar was the main ingredient..??
+Jesse Lane Lee, CNP on April 11, 2016 at 9:35 am Hi Sarah, I’m so happy you and your brother like the recipe! I made the icing really sweet so it tastes more like “regular” cream cheese icing. You can reduce the sweetness by adding less sugar and using coconut flour instead. Reply
+Hi Sarah, I’m so happy you and your brother like the recipe! I made the icing really sweet so it tastes more like “regular” cream cheese icing. You can reduce the sweetness by adding less sugar and using coconut flour instead.
+Sam on June 14, 2016 at 7:09 am Hi Jesse What can I use as a substitute for eggs as have an egg allergy? Reply Jesse Lane Lee, CNP on June 14, 2016 at 11:58 am Hi Sam! Chia eggs will work really well in this recipe. Simply substitute 2 eggs for 2 Tbsp ground chia seeds mixed in 6 Tbsp of water. If you have never used a chia egg, this video will show you how easy it is to make https://youtu.be/AJa7S6cm08w Reply
+Hi Jesse
+What can I use as a substitute for eggs as have an egg allergy?
+Jesse Lane Lee, CNP on June 14, 2016 at 11:58 am Hi Sam! Chia eggs will work really well in this recipe. Simply substitute 2 eggs for 2 Tbsp ground chia seeds mixed in 6 Tbsp of water. If you have never used a chia egg, this video will show you how easy it is to make https://youtu.be/AJa7S6cm08w Reply
+Hi Sam! Chia eggs will work really well in this recipe. Simply substitute 2 eggs for 2 Tbsp ground chia seeds mixed in 6 Tbsp of water.
+If you have never used a chia egg, this video will show you how easy it is to make https://youtu.be/AJa7S6cm08w
+Dina on September 14, 2016 at 1:49 pm What can I use in place of grapeseed oil? The store didn’t have any :/ Reply Jesse Lane Lee, CNP on September 15, 2016 at 10:55 am Hi Dina, melted coconut oil would work really well in place of grapeseed oil. Reply
+What can I use in place of grapeseed oil? The store didn’t have any :/
+Jesse Lane Lee, CNP on September 15, 2016 at 10:55 am Hi Dina, melted coconut oil would work really well in place of grapeseed oil. Reply
+Hi Dina, melted coconut oil would work really well in place of grapeseed oil.
+The Spiced Black Bean Soup That Fights Stomach Pain and Lowers Cholesterol with Every Bowl - MagazinAisle on February 16, 2018 at 11:22 am […] 2 carrots, diced […] Reply
+[…] 2 carrots, diced […]
+The Spiced Black Bean Soup That Fights Stomach Pain and Lowers Cholesterol with Every Bowl | The Hearty Soul on March 12, 2018 at 12:39 pm […] 2Â carrots, diced […] Reply
+[…] 2Â carrots, diced […]
+Leave a Comment Cancel Reply

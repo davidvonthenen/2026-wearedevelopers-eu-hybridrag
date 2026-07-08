@@ -1,0 +1,90 @@
+Shabu-Shabu
+===========
+
+Recipe Metadata
+---------------
+Recipe ID: 379ebe8fc6aeb633
+CSV row number: 486
+Recipe name: Shabu-Shabu
+Source: Bon Appetit
+URL: https://www.bonappetit.com/recipe/shabu-shabu
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/032dad931eaf6729378505544210f1fb6b462d179cbf5a9a975014cdb888f283/20972108.jpg
+Servings: 4
+Calories: 1459.03
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: eastern europe
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Shabu-Shabu
+source: Bon Appetit
+url: https://www.bonappetit.com/recipe/shabu-shabu
+servings: 4
+calories: 1459.031646
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/032dad931eaf6729378505544210f1fb6b462d179cbf5a9a975014cdb888f283/20972108.jpg
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["eastern europe"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Shabu-Shabu
+
+Description: This shabu shabu recipe makes for a great main course at dinner parties.
+
+Yield: 4 Servings
+
+Ingredients:
+- 12 to 16 ounces rib-eye steak, cut into 1/8-inch-thick slices
+- 2 cups Napa cabbage, cut into bite-size pieces
+- 4 large shiitake mushrooms, stemmed, quartered
+- 2 leeks (white and pale green parts only), cut diagonally into 1/2-inch-thick slices
+- 1 12-ounce container extra-firm tofu, cut into 1-inch cubes
+- 2 cups fresh spinach leaves
+- 8 cups water
+
+Instructions:
+1. Arrange steak on large platter, then cover with plastic wrap and refrigerate.
+2. Arrange cabbage, mushrooms, leeks, tofu, and spinach on another large platter, then cover with plastic wrap and refrigerate.
+3. In large pot, bring water to boil on stove, then transfer to tabletop stove.
+4. Place meat and vegetables in pot and swish around until meat is cooked through, about 15 seconds. Serve with Ponzu*, Sesame sauce (click for recipe), and Momiji Oroshi (click for recipe).
+5. *Ponzu is a citrusy soy sauce and is available at Asian markets and specialty food stores.
+
+Visible page text:
+This shabu shabu recipe makes for a great main course at dinner parties.
+Recipe information
+Yield 4 Servings
+Yield
+4 Servings
+Ingredients
+12 to 16
+2
+4
+1
+8
+Need to make a substitution?
+Preparation
+Step 1 Arrange steak on large platter, then cover with plastic wrap and refrigerate. Step 2 Arrange cabbage, mushrooms, leeks, tofu, and spinach on another large platter, then cover with plastic wrap and refrigerate. Step 3 In large pot, bring water to boil on stove, then transfer to tabletop stove. Step 4 Place meat and vegetables in pot and swish around until meat is cooked through, about 15 seconds. Serve with Ponzu*, Sesame sauce (click for recipe), and Momiji Oroshi (click for recipe). Step 5 *Ponzu is a citrusy soy sauce and is available at Asian markets and specialty food stores.
+Step 1
+Arrange steak on large platter, then cover with plastic wrap and refrigerate.
+Step 2
+Arrange cabbage, mushrooms, leeks, tofu, and spinach on another large platter, then cover with plastic wrap and refrigerate.
+Step 3
+In large pot, bring water to boil on stove, then transfer to tabletop stove.
+Step 4
+Place meat and vegetables in pot and swish around until meat is cooked through, about 15 seconds. Serve with Ponzu*, Sesame sauce (click for recipe), and Momiji Oroshi (click for recipe).
+Step 5
+*Ponzu is a citrusy soy sauce and is available at Asian markets and specialty food stores.
+Recipe notes

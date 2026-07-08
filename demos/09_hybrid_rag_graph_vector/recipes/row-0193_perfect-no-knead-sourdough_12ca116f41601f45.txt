@@ -1,0 +1,80 @@
+Perfect No-Knead Sourdough
+==========================
+
+Recipe Metadata
+---------------
+Recipe ID: 12ca116f41601f45
+CSV row number: 193
+Recipe name: Perfect No-Knead Sourdough
+Source: jellibeanjournals.com
+URL: http://www.jellibeanjournals.com/perfect-no-knead-sourdough/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01372ca9b2329d5a2b1c0ff2e34bb2e327f9141082708062fbc2c8fa8e490570/21079534.jpg
+Servings: 2
+Calories: 2825.20
+Diet labels: High-Fiber, Low-Fat
+Health labels: Vegan, Vegetarian, Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: bread
+
+Original CSV Fields
+-------------------
+recipe_name: Perfect No-Knead Sourdough
+source: jellibeanjournals.com
+url: http://www.jellibeanjournals.com/perfect-no-knead-sourdough/
+servings: 2
+calories: 2825.2
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01372ca9b2329d5a2b1c0ff2e34bb2e327f9141082708062fbc2c8fa8e490570/21079534.jpg
+diet_labels: ["High-Fiber","Low-Fat"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["bread"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Sourdough bread is my favorite sandwich bread, hands down. It’s sinfully delicious when toasted and stuffed with spicy cajun fish, a slather of mayo, and crisp, fresh veggies. It’s also relatively easy to make perfect no-knead sourdough bread at home. That’s right, you don’t even have to get your hands dirty. I’ve been making no-knead artisan breads for years now. Friends stop by and gawk at the homemade bread on the dinner table thinking I must’ve taken hours to prepare it. Nope. It’s just that darn good and it looks impressive too!
+Here’s a quick rundown of the bread making process. Don’t be fooled by all the steps involved. Each one takes less than 5 minutes of labor on your part.
+Steps to perfect no-knead sourdough bread:
+Feed the starter (night before)
+Stir together the dough
+First rise at room temperature
+Refrigerator fermentation to create the tangy sourdough flavor
+Shape and final rise at room temperature
+Bake
+If you don’t have a sourdough starter, that’s the first thing you need to do. Make your own sourdough starter in just a couple of weeks with nothing more than flour and water. So easy! No wonder people have been making this bread for centuries! Or, you could call up your favorite bread baking friend and ask for some starter. Last resort (but still totally acceptable) purchase sourdough starter on Amazon or from a local natural foods store. The night before you plan to bake sourdough, we’ll feed the starter. Basically, we’ll just add in about 1/2 cup of flour and water, stir it up, and let it do it’s thing- which is basically bubble up. Always be sure your starter is live, room-temperature, and bubbly before you bake bread.
+We’ll gather our ingredients: flour, salt, water, and sourdough starter. Yes, you read that right. We’re working with the simplest, most basic and delicious bread making ingredients here, only 4 of them.
+Next, we’ll dump the measured amounts right into a bowl and stir just to combine. We’ll top off the bowl with a loose film of cellophane and let it rise at room temperature for a few hours until it grows, or rises to about double in size. Now it’s hibernation time, a.k.a. fermentation, for your squishy little mass of delicious sourdough goodness. The longer it ferments, the tangier the flavor will be. Punch down the dough (in the bowl), cover it with cellophane again, and pop the bowl into the refrigerator overnight or for up to 3 days depending on when you want a crusty, tangy loaf of homemade sourdough bread on hand to gobble down.
+When you’re ready to bake the sourdough loaf, or boule, as it’s properly called when formed into a round, remove the bowl of dough from the refrigerator. You should have enough to bake two sourdough boules, so if you only need one, remove just half the dough and leave the remainder in the fridge. It’s best to take the dough out in advance. Depending on your starter and weather conditions, it could take up to 8 hours for the dough to rise again before baking. It’s best to plan to remove the dough from the refrigerator in the morning to bake sourdough for dinner, perhaps with a piping hot bowl of pumpkin soup or my favorite , split pea soup .
+We’ll shape the chilled dough so that it rises in the form we’d like to bake it. For me, it’s usually a boule. On occasion I’ll place the dough into a loaf pan for sandwich sourdough or roll it into a long French-inspired baguette. Choose your favorite.
+Here’s an easy tutorial on how to shape a boule.
+Once your bread is near the size you’d like it to be (remembering it will grow as it bakes in the oven,) preheat the oven to 425F. Once your oven reaches temperature, we’ll slide our sourdough into the oven and bake for up to 25 tantalizing minutes as the homemade bread permeates your entire home with the aromas of freshly baked bread goodness. Perfect No-Knead Sourdough Print Prep time 30 mins Cook time 25 mins Total time 55 mins Author: Jelli Serves: 2 loaves Ingredients 6 cups all-purpose flour 3 cups water 1 tablespoon salt 1 cup sourdough starter (recently fed and bubbly) Instructions Combine flour, salt, and starter in a large bowl or in the bowl of an electric mixer. Slowly add water to moisten into a slightly sticky mass. Stir until fully combined and cover the bowl with a loose layer of cellophane. Allow to sit at room temperature to rise until doubled, between 4-8 hours. Once doubled, punch down the dough, cover once more with cellophane, this time nearly airtight, and pop the bowl into the refrigerator overnight or for up to 3 days. Remove the amount of dough you'd like to bake, shape accordingly adding more flour as necessary to keep it from sticking, and place on a buttered or parchment-lined baking dish. Cover loosely with a slightly damp tea towel or with cellophane. If using cellophane, lightly dust the dough with flour to avoid it sticking. Allow to double in size. Preheat the oven to 425F. When it reaches temperature, gently slide your bread into the oven. Fill a measuring cup full of water and carefully (and quickly!) toss the water into the bottom of your oven. Electric ovens will be just fine, I promise! This water produces steam to create a nice crispy crust on your bread. Bake 20-25 minutes or until the top is golden and it makes a hollow sound when you gently knock on the bottom of the boule. Remove bread to a cooling rack and cool for at least 30 minutes before slicing. Ideally bread should be fully cooled before slicing to keep the center from becoming gummy. Yes, it's hard to wait, and to be honest I usually don't. Slather with your favorite toppings or stack it up with sandwich fillings. Enjoy! 3.5.3229 And there you have it, no-knead sourdough. See, told you it was easy! So maybe it takes a little more effort than swiping your debit card at the supermarket checkout lane, but it’s well worth the the time spent, and much more affordable too! If you keep your sourdough starter, you can use it for loads more recipes later on, like fluffy sourdough pancakes , sourdough cinnamon rolls , and even sourdough carrot cake .
+6 cups all-purpose flour
+3 cups water
+1 tablespoon salt
+1 cup sourdough starter (recently fed and bubbly)
+Combine flour, salt, and starter in a large bowl or in the bowl of an electric mixer. Slowly add water to moisten into a slightly sticky mass. Stir until fully combined and cover the bowl with a loose layer of cellophane. Allow to sit at room temperature to rise until doubled, between 4-8 hours.
+Once doubled, punch down the dough, cover once more with cellophane, this time nearly airtight, and pop the bowl into the refrigerator overnight or for up to 3 days.
+Remove the amount of dough you'd like to bake, shape accordingly adding more flour as necessary to keep it from sticking, and place on a buttered or parchment-lined baking dish. Cover loosely with a slightly damp tea towel or with cellophane. If using cellophane, lightly dust the dough with flour to avoid it sticking. Allow to double in size.
+Preheat the oven to 425F. When it reaches temperature, gently slide your bread into the oven. Fill a measuring cup full of water and carefully (and quickly!) toss the water into the bottom of your oven. Electric ovens will be just fine, I promise! This water produces steam to create a nice crispy crust on your bread.
+Bake 20-25 minutes or until the top is golden and it makes a hollow sound when you gently knock on the bottom of the boule.
+Remove bread to a cooling rack and cool for at least 30 minutes before slicing. Ideally bread should be fully cooled before slicing to keep the center from becoming gummy. Yes, it's hard to wait, and to be honest I usually don't.
+Slather with your favorite toppings or stack it up with sandwich fillings. Enjoy!
+Have questions? Want to share your favorite bread recipe? Please comment below!
+Save
+About Jelli
+Jelli is a blogging veteran and avid baker who’s been selling sweets to feed her chocolate addiction for 8+ years. When the polka dotted apron’s hanging up, she’s a full-time mama to three kidlets enjoying the crazy days of motherhood and pumping out brownie recipes from her sunny Costa Rican kitchen.
+Comments
+Yum! This sounds so good! Sourdough has always seemed intimidating, but this makes it seem easy! Reply Sourdough is really quite simple, just takes a little more effort than a mix-n-bake quick bread. Hope you have a great week, Chelsea! Reply
+Yum! This sounds so good! Sourdough has always seemed intimidating, but this makes it seem easy!
+Sourdough is really quite simple, just takes a little more effort than a mix-n-bake quick bread. Hope you have a great week, Chelsea! Reply
+Sourdough is really quite simple, just takes a little more effort than a mix-n-bake quick bread. Hope you have a great week, Chelsea!
+Leave a Reply Cancel reply
+Readers’ Favorite Recipes!

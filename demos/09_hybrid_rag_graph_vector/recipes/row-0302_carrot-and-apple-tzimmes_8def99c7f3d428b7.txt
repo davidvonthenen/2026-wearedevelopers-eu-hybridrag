@@ -1,0 +1,83 @@
+Carrot and Apple Tzimmes
+========================
+
+Recipe Metadata
+---------------
+Recipe ID: 8def99c7f3d428b7
+CSV row number: 302
+Recipe name: Carrot and Apple Tzimmes
+Source: The Daily Meal
+URL: http://www.thedailymeal.com/carrot-and-apple-tzimmes-recipe
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01e9e4f433efa193c59274d02e60067073e1d499cafc6086186e5bb72a509bd2/21127349.jpg
+Servings: 6
+Calories: 705.73
+Diet labels: none listed
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites, FODMAP
+Cuisine type: kosher
+Meal type: lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Carrot and Apple Tzimmes
+source: The Daily Meal
+url: http://www.thedailymeal.com/carrot-and-apple-tzimmes-recipe
+servings: 6
+calories: 705.7314779564026
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01e9e4f433efa193c59274d02e60067073e1d499cafc6086186e5bb72a509bd2/21127349.jpg
+diet_labels: []
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites","FODMAP"]
+cuisine_type: ["kosher"]
+meal_type: ["lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Carrot and Apple Tzimmes
+
+Description: Tzimmes is a traditional Jewish stew of apples and dried fruit sweetened with honey. Here is a simple recipe your readers can easily make from chef Marc Taxiera of The Russian Tea Room, located in New York City.
+See all stew recipes.
+
+Ingredients:
+- 1 pound carrots, peeled and sliced thin
+- 1 teaspoon cooking oil
+- 1/2 white onion
+- 1/2 cup water
+- 1 cup granny smith apple
+- 1/4 cup honey
+- 1/4 cup dried mixed fruit (raisins, cherries, and currants)
+- 1 tablespoon orange juice
+- 1 tablespoon butter or margarine (optional)
+- salt and pepper
+
+Instructions:
+1. Heat oil in a saucepan and sauté onions until translucent. Add carrots and water and simmer until carrots are tender. Transfer carrots and onions to a plate, keeping the liquid in the pan.
+2. Add the apple, honey, dried fruit, orange juice, and butter (optional) to the pan. Sauté over low heat until the fruit has reconstituted and is plump.
+3. Add the carrots and onions. Season to taste and serve warm.
+
+Visible page text:
+Culture
+Carrot And Apple Tzimmes
+Tzimmes is a traditional Jewish stew of apples and dried fruit sweetened with honey. Here is a simple recipe your readers can easily make from chef Marc Taxiera of The Russian Tea Room, located in New York City.
+Ingredients
+1 pound carrots, peeled and sliced thin
+1 teaspoon cooking oil
+1/2 white onion
+1/2 cup water
+1 cup granny smith apple
+1/4 cup honey
+1/4 cup dried mixed fruit (raisins, cherries, and currants)
+1 tablespoon orange juice
+1 tablespoon butter or margarine (optional)
+salt and pepper
+Directions
+Heat oil in a saucepan and sauté onions until translucent. Add carrots and water and simmer until carrots are tender. Transfer carrots and onions to a plate, keeping the liquid in the pan.
+Add the apple, honey, dried fruit, orange juice, and butter (optional) to the pan. Sauté over low heat until the fruit has reconstituted and is plump.
+Add the carrots and onions. Season to taste and serve warm.

@@ -1,0 +1,98 @@
+Garlicky Broccolini
+===================
+
+Recipe Metadata
+---------------
+Recipe ID: ff136da459e0de36
+CSV row number: 449
+Recipe name: Garlicky Broccolini
+Source: Food & Wine
+URL: http://www.foodandwine.com/recipes/garlicky-broccolini
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02e1ca2a35b3dc2799a6af9db5c5d65ba30f21cbd0577a754ff9a4c76064bb5b/21056481.jpg
+Servings: 6
+Calories: 1327.84
+Diet labels: High-Fiber
+Health labels: Vegan, Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: starter
+
+Original CSV Fields
+-------------------
+recipe_name: Garlicky Broccolini
+source: Food & Wine
+url: http://www.foodandwine.com/recipes/garlicky-broccolini
+servings: 6
+calories: 1327.844
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02e1ca2a35b3dc2799a6af9db5c5d65ba30f21cbd0577a754ff9a4c76064bb5b/21056481.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Vegan","Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["starter"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Garlicky Broccolini
+
+Description: For this garlicky Broccolini recipe, use a peppery olive oil to sauté the blanched Broccolini with the garlic and crushed red pepper. It&#39;s wonderful served warm or at room temperature.
+
+Recipe category: ['Side Dish']
+
+Recipe cuisine: ['American']
+
+Yield: 8
+
+Total time: PT30M
+
+Ingredients:
+- Kosher salt
+- 2 pounds Broccolini (about 4 bunches)
+- 0.25 cup extra-virgin olive oil
+- 4 garlic cloves, thinly sliced
+- 1 teaspoon crushed red pepper
+
+Instructions:
+1. Gather the ingredients.
+2. Bring a large pot of salted water to a boil. Add the Broccolini and cook until bright green and barely crisp-tender, 1 to 3 minutes. Drain, reserving 1/2 cup of the cooking water.
+3. In a very large skillet, heat the olive oil with the garlic and crushed red pepper and cook over moderate heat until fragrant, about 1 minute.
+4. Increase the heat to high, add the Broccolini, and toss to coat with the oil. Add the reserved cooking water and toss occasionally, until the Broccolini is crisp-tender, about 2 minutes. Season with salt and transfer to a platter. Serve warm or at room temperature.
+
+Visible page text:
+Food
+Recipes
+Side Dishes
+Vegetable Side Dishes
+Garlicky Broccolini
+For this Broccolini recipe, chef Jason Travi recommends using a peppery olive oil to sauté the blanched Broccolini with the garlic and crushed red pepper.
+Jason Travi is the former chef of Los Angeles hot spots Fraiche, Riva, littlefork, and Superba Food & Bread. He was the executive chef at Amazon in Seattle and is currently the senior director of development at Freshly.
+Broccolini (Brassica oleracea var. botrytis) is a hybrid of broccoli and gai lan or kai-lan (Cantonese for Chinese broccoli) that the Sakata Seed Corporation, which develops vegetable varieties in Yokohama, Japan, trademarked. The vegetable is also known as baby broccoli or the trademark Tenderstem broccoli. Broccolini looks like a long, thin version of broccoli with tender florets rather than tight heads. It's milder than traditional broccoli but can typically be used in the same way.
+Developed in 1993, Broccolini is grown in Arizona and California as it mounts in culinary popularity, though we've seen a purple variety from Balsam Farms in East Hampton, New York. You'll typically find it in grocery stores, though, and can determine your broccoli variety preference based on availability, freshness, and application.
+This staple Broccolini recipe is delicious with a variety of other vegetables as well, such as cauliflower, snap peas, or green beans. Garlic and olive oil balance fat and spice, adding depth of flavor to any mild vegetable, while red pepper adds a kick and complexity. With five ingredients, you'll have a satisfying Broccolini side dish in half an hour with only 10 minutes of work. Season to taste and customize the spice as you wish.
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 8 servings
+Kosher salt
+2 pounds Broccolini (about 4 bunches)
+1/4 cup extra-virgin olive oil
+4 garlic cloves , thinly sliced
+1 teaspoon crushed red pepper
+Directions
+Julia Hartbeck Gather the ingredients.
+Julia Hartbeck
+Gather the ingredients.
+Julia Hartbeck Bring a large pot of salted water to a boil. Add the Broccolini and cook until bright green and barely crisp-tender, 1 to 3 minutes. Drain, reserving 1/2 cup of the cooking water.
+Bring a large pot of salted water to a boil. Add the Broccolini and cook until bright green and barely crisp-tender, 1 to 3 minutes. Drain, reserving 1/2 cup of the cooking water.
+Julia Hartbeck In a very large skillet, heat the olive oil with the garlic and crushed red pepper and cook over moderate heat until fragrant, about 1 minute.
+In a very large skillet, heat the olive oil with the garlic and crushed red pepper and cook over moderate heat until fragrant, about 1 minute.
+Julia Hartbeck Increase the heat to high, add the Broccolini, and toss to coat with the oil. Add the reserved cooking water and toss occasionally, until the Broccolini is crisp-tender, about 2 minutes. Season with salt and transfer to a platter. Serve warm or at room temperature.
+Increase the heat to high, add the Broccolini, and toss to coat with the oil. Add the reserved cooking water and toss occasionally, until the Broccolini is crisp-tender, about 2 minutes. Season with salt and transfer to a platter. Serve warm or at room temperature.
+Make ahead
+The Broccolini can be kept at room temperature for up to 2 hours.
+Related Articles

@@ -1,0 +1,146 @@
+Baked Potato Nachos
+===================
+
+Recipe Metadata
+---------------
+Recipe ID: 96cb51dac31f6361
+CSV row number: 336
+Recipe name: Baked Potato Nachos
+Source: How Sweet It Is
+URL: http://www.howsweeteats.com/2011/02/baked-potato-nachos-25-super-bowl-recipes/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0219aab1d10a25a4047c98097107d5345a7cff715b6fb6282206c5bd58d1a987/21025433.jpg
+Servings: 4
+Calories: 2631.06
+Diet labels: High-Fiber, Low-Fat
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: mexican
+Meal type: lunch/dinner
+Dish type: starter
+
+Original CSV Fields
+-------------------
+recipe_name: Baked Potato Nachos
+source: How Sweet It Is
+url: http://www.howsweeteats.com/2011/02/baked-potato-nachos-25-super-bowl-recipes/
+servings: 4
+calories: 2631.06
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0219aab1d10a25a4047c98097107d5345a7cff715b6fb6282206c5bd58d1a987/21025433.jpg
+diet_labels: ["High-Fiber","Low-Fat"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["mexican"]
+meal_type: ["lunch/dinner"]
+dish_type: ["starter"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Home
+Recipes Appetizers Breakfast Lunch Dinner Drinks Dessert Weekly Menu Ideas Browse Recipes Recipe Index
+Appetizers
+Breakfast
+Lunch
+Dinner
+Drinks
+Dessert
+Weekly Menu Ideas
+Browse Recipes
+Recipe Index
+Shop My LTK shop
+My LTK shop
+Crumbs
+Cookbooks
+Fun Crushing On Summer Fridays Book Club Reading Lists
+Crushing On
+Summer Fridays
+Book Club
+Reading Lists
+About
+Contact
+FAQs
+My New Cookbook:
+order yours today »
+Baked Potato Nachos + 25 Super Bowl Recipes.
+Apparently it’s How Sweet nacho week ! Not really.
+This would be a delightful thing, if I wasn’t the one constantly shoveling said nachos in my mouth. I think I’ve learned my nacho lesson. But first, I must share these with you. We love crispy roasted potatoes . Like… love them. When I roast a panful, we eat them all. Not a crumb remains. Naturally, when I topped them with every ingredient in my fridge, they tasted even better. Especially since I can classify these as healthy because they have beans (fiber), avocado (healthy fat), salsa (vegetables) and Greek yogurt (protein). I easily bypassed the three cups of cheese.
+Yep, I can justify just about anything. Except for the four cookie bars I ate while browsing Facebook and writing this post. Fail. So here it is, the easiest recipe ever. It is quite versatile! You can make them for the big game, or for lunch… which is what I did in our case. Just take some beautiful big potatoes…
+Slice them into wedges.
+Toss them with olive oil and a touch of salt and pepper.
+Bake them until they look like pretty, crispy, toasty wedges of deliciousness. Yes, that’s what they are called. Don’t forget any adjectives.
+Cover them with toppings of you choice.
+Eat. Moan. Groan. Devour. Make more. Eat more. Get a stomachache. Drink wine.
+Well, at least that’s how it went for me. Baked Potato Nachos
+serves 4-6
+8 medium to large yukon gold potatoes
+3 tablespoons olive oil
+salt & pepper
+Preheat oven to 450 degrees. Wash potatoes, peel off any bad parts, and slice into wedges (however thick of thin you would like). Toss with olive oil and sprinkle with salt and pepper. Lay on a non-stick baking sheet and bake for 45 minutes, flipping once. Remove potatoes and top with whatever toppings you would like. Stick back in the oven to melt cheese.
+Toppings : black beans, refried beans, cheese, sour cream, greek yogurt, salsa, green chilis, avocado, enchilada sauce, jalepenos, chicken, shrimp, guacamole. Now for some Super Bowl recipes, to quench your requests!
+Snacks
+Buffalo Chicken Dip
+Spicy, Smokey Cashews
+Kicked Up Spinach Dip
+Fruit Salsa
+Cookie Dough Dip
+Cheese Fondue
+BBQ Chicken Quesadillas
+Crunchy Chicken Fingers
+Savory Sweet Potato Skins Soups
+Chicken Chickpea Soup
+Easy 5 Step Chili
+Easy One Pot Tortilla Soup
+Loaded Baked Potato Soup Pizza
+Easy Buffalo Chicken Pizza – Step by Step
+Pierogi Pizza
+Roasted Veggie and Goat Cheese Flatbread Pizza Pasta
+Chicken Mac and Cheese
+Shrimp Scampi
+Whole Wheat Orzo with Grilled Chicken and Roasted Veggies Desserts
+Better-Than-Crack Brownies
+Bourbon Pecan Pie Brownies
+Ice Cream Crepes
+Hoho Cake
+Chocolate Chip Cookies
+White Chocolate Mocha Cookies Please tell me what you are making for the big game. Because even though I just shared 25 recipes, I have issues and feel the need to make something new and exciting. What can I say? I get bored easily.
+posted in: Appetizers , Recipes 142 comments
+Order My New Book:
+Easy Everyday
+100 recipes and meal prep ideas for effortless eats.
+Order Now: Amazon / Barnes & Noble / Bookshop.org / Books A Million / Target / Hudson Booksellers / Apple Ebook / Google Play Ebook
+Leave a Reply Cancel reply
+142 Comments on “Baked Potato Nachos + 25 Super Bowl Recipes.”
+Ashley — February 8, 2011 @ 2:42 am Reply What a great idea. We just had baked potatoes for dinner (with leftover Superbowl chili) but we should have done this. Next time.
+What a great idea. We just had baked potatoes for dinner (with leftover Superbowl chili) but we should have done this. Next time.
+Kevin (Closet Cooking) — February 12, 2011 @ 7:58 pm Reply Baked potato nachos are a great idea!
+Baked potato nachos are a great idea!
+Jenn — March 10, 2011 @ 1:38 am Reply How do you bake things with olive oil on them at 450 all the time? It starts to smoke at 400 in my oven. You have great recipes and we are doing this one tonight but after the roasted tomato pasta smoke alarm fest we had last night I’m going to try baking them at 375. Jessica — March 10, 2011 @ 1:41 am Reply Hi Jenn! I coat things in as little olive oil as possible. If there is excess, yes it starts to smoke a lot! I usually rub the potatoes, etc with my hands to get a very light coating on. The other thing you can do is trying spritzing or spraying with nonstick spray. It works really well and eliminates the smoke. Jenn — March 10, 2011 @ 12:16 pm Thanks :) I coated them really lightly but was too scared after the night before to turn the oven to 450 so i did cook them at 375 and it still worked really well. Perhaps too well as both the hubby and I were very full since it was so tasty! So maybe the smoke alarm going off would be a good way to burn the calories off by fanning it lol.
+How do you bake things with olive oil on them at 450 all the time? It starts to smoke at 400 in my oven. You have great recipes and we are doing this one tonight but after the roasted tomato pasta smoke alarm fest we had last night I’m going to try baking them at 375.
+Jessica — March 10, 2011 @ 1:41 am Reply Hi Jenn! I coat things in as little olive oil as possible. If there is excess, yes it starts to smoke a lot! I usually rub the potatoes, etc with my hands to get a very light coating on. The other thing you can do is trying spritzing or spraying with nonstick spray. It works really well and eliminates the smoke. Jenn — March 10, 2011 @ 12:16 pm Thanks :) I coated them really lightly but was too scared after the night before to turn the oven to 450 so i did cook them at 375 and it still worked really well. Perhaps too well as both the hubby and I were very full since it was so tasty! So maybe the smoke alarm going off would be a good way to burn the calories off by fanning it lol.
+Hi Jenn! I coat things in as little olive oil as possible. If there is excess, yes it starts to smoke a lot! I usually rub the potatoes, etc with my hands to get a very light coating on. The other thing you can do is trying spritzing or spraying with nonstick spray. It works really well and eliminates the smoke.
+Jenn — March 10, 2011 @ 12:16 pm Thanks :) I coated them really lightly but was too scared after the night before to turn the oven to 450 so i did cook them at 375 and it still worked really well. Perhaps too well as both the hubby and I were very full since it was so tasty! So maybe the smoke alarm going off would be a good way to burn the calories off by fanning it lol.
+Thanks :) I coated them really lightly but was too scared after the night before to turn the oven to 450 so i did cook them at 375 and it still worked really well. Perhaps too well as both the hubby and I were very full since it was so tasty! So maybe the smoke alarm going off would be a good way to burn the calories off by fanning it lol.
+SassyMarie — March 21, 2011 @ 8:23 pm Reply It is no where near Super Bowl weekend, but I finally got around to making something that evolved from these… For my picky family – it is a definite repeat. http://sassymarie.blogspot.com/2011/03/it-wasnt-quick-but-it-was-easy.html
+It is no where near Super Bowl weekend, but I finally got around to making something that evolved from these…
+For my picky family – it is a definite repeat.
+http://sassymarie.blogspot.com/2011/03/it-wasnt-quick-but-it-was-easy.html
+Pingback: food friday {week 9} | armommy
+Pingback: Meal Plan for 5/6-5/12 |
+Pingback: Wonderful Weekend – Operation Hot Mama
+Bari — January 15, 2012 @ 3:49 pm Reply No bacon?! I’m appalled! But these sound delicious. I’ll have to try them. :)
+No bacon?! I’m appalled! But these sound delicious. I’ll have to try them. :)
+Pingback: Game Day Food: 50 Super Bowl Recipe Ideas | Sarah's Cucina Bella
+Kenzie — April 23, 2012 @ 7:09 pm Reply OH, stop making me drool!!
+OH, stop making me drool!!
+Pingback: 10 Recipes You MUST Try! |
+Pingback: French Fry Nachos (Guilt Free!) « cookiesandcarrots
+Pingback: 7 killer nacho recipes for your Super Bowl party. Or any party. | Cool Mom Picks
+Get New Recipes via email:
+^ Back to Top
+Recipes
+Privacy Policy
+©2026 How Sweet Eats. Design by Purr .

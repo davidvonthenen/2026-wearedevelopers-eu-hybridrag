@@ -1,0 +1,130 @@
+Panko Crusted Chicken
+=====================
+
+Recipe Metadata
+---------------
+Recipe ID: 4a1a64106d9da8ec
+CSV row number: 480
+Recipe name: Panko Crusted Chicken
+Source: artandthekitchen.com
+URL: https://www.artandthekitchen.com/panko-crusted-chicken
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/03239487182389c962d97ebd2e973568a3b47f626b296dbbe4e063752c3f63e8/20970198.jpg
+Servings: 4
+Calories: 2122.86
+Diet labels: High-Protein
+Health labels: Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: japanese
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Panko Crusted Chicken
+source: artandthekitchen.com
+url: https://www.artandthekitchen.com/panko-crusted-chicken
+servings: 4
+calories: 2122.861500000006
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/03239487182389c962d97ebd2e973568a3b47f626b296dbbe4e063752c3f63e8/20970198.jpg
+diet_labels: ["High-Protein"]
+health_labels: ["Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["japanese"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Panko Crusted Chicken
+
+Description: Panko Crusted Chicken is a quick and easy recipe that will guarantee moist and tender chicken with incredible flavor.
+
+Recipe category: ['Main Course']
+
+Recipe cuisine: ['American']
+
+Yield: ['4']
+
+Prep time: PT10M
+
+Cook time: PT30M
+
+Total time: PT40M
+
+Ingredients:
+- 4 chicken breasts
+- 2 cups Panko bread crumbs
+- 1 teaspoon thyme
+- ½ teaspoon smoked paprika
+- 1 teaspoon basil
+- 1 teaspoon salt
+- ½ teaspoon fresh ground pepper
+- ½ cup flour
+- 2 eggs
+- 4 tablespoons milk
+- cooking spray (I like olive oil cooking spray)
+
+Instructions:
+1. Line a baking sheet with foil wrap, and generously coat with cooking spray.
+2. Preheat the oven 350º Fahrenheit.
+3. Dust the chicken with flour, shake off any excess. Next dip the chicken into the egg mixture. Next press the chicken into the panko breadcrumb mixture to get a nice thick coating.
+4. Transfer to baking pan to roast. Flip the chicken after 20 minutes and continue to roast for another 15-20 minutes until done. Bake until the internal temperature of 165º Fahrenheit is reached. A meat thermometer is a great tool to use!
+
+Visible page text:
+Facebook
+X
+Pinterest
+Email
+Panko Crusted Chicken is a quick and easy recipe that will guarantee moist and tender chicken with incredible flavor.
+This oven roasted chicken recipe cooks up chicken that is crispy on the outside, tender and juicy on the inside. The panko bread crumb coating gives the chicken a tasty crunch. A much healthier alternative to deep frying. Panko Crusted Chicken is a great family dish that pairs nicely with a side dish of Parmesan Roasted Potatoes or Garlic Mashed Potatoes .
+What side dishes to serve with chicken?
+Every chicken dinner needs a great side dish, here are some of my favs!
+What are panko bread crumbs?
+Panko bread crumbs are larger, crispier, and lighter than regular bread crumbs. They coat without packing, which allows food to stay crispier. A perfect coating for onion rings, vegetables or topping on casseroles, like my Tuna Casserole .
+Panko bread crumbs add a crisp, crunchy crust to chicken, yet keeps the center moist and tender. I also use these bread crumbs for making my Panko Crusted Pork Chops .
+Optional ingredients to add to the panko bread crumb mixture.
+garlic powder
+grated parmesan cheese
+red pepper flakes
+Greek herbs like oregano, basil and onion powder.
+tasty chicken recipes to try
+Chicken is a top ingredient for family dinners, so many great ways to to prepare it.
+This post was originally published on May 2, 2012. Occasionally I update with fresh tips, content, and photos. Current update Jan 4, 2023.
+Panko Crusted Chicken
+Ingredients 1x 2x 3x
+4 chicken breasts
+2 cups Panko bread crumbs
+1 teaspoon thyme
+½ teaspoon smoked paprika
+1 teaspoon basil
+1 teaspoon salt
+½ teaspoon fresh ground pepper
+½ cup flour
+2 eggs
+4 tablespoons milk
+cooking spray I like olive oil cooking spray
+Instructions
+Set up 3 plates for coating the chicken
+Plate 1 – all purpose flour
+Plate 2 – eggs and milk whisked together.
+Plate 3 – stir together the panko mixture of, basil, paprika, thyme, salt, pepper.
+Line a baking sheet with foil wrap, and generously coat with cooking spray.
+Preheat the oven 350º Fahrenheit.
+Dust the chicken with flour, shake off any excess. Next dip the chicken into the egg mixture. Next press the chicken into the panko breadcrumb mixture to get a nice thick coating.
+Transfer to baking pan to roast. Flip the chicken after 20 minutes and continue to roast for another 15-20 minutes until done. Bake until the internal temperature of 165º Fahrenheit is reached. A meat thermometer is a great tool to use!
+Nutrition
+Art and the Kitchen is a food blog created in 2012 by Laureen King, a passionate home cook who loves to share her kitchen creations with the world. The blog features a variety of recipes, from comforting, everyday meals to festive dishes and baking. Laureen’s goal is to make cooking accessible and enjoyable for everyone, whether you're a beginner or an experienced cook. She has been featured in Country Living, Good Housekeeping, HuffPost, Delish and more!
+Related Posts
+5 Comments
+I loved it. Great taste and so moist and tender. Reply
+I loved it. Great taste and so moist and tender.
+Hope it turns out tasty, let me know Brittany. Reply
+Hope it turns out tasty, let me know Brittany.
+Really glad your family enjoyed it! Reply
+Really glad your family enjoyed it!
+Leave a Reply Cancel reply

@@ -1,0 +1,88 @@
+Mustard Crumbed Pork Chops
+==========================
+
+Recipe Metadata
+---------------
+Recipe ID: a3662a5e43d371a8
+CSV row number: 18
+Recipe name: Mustard Crumbed Pork Chops
+Source: huffingtonpost.com
+URL: http://www.huffingtonpost.com/2011/10/27/mustard-crumbed-pork-chop_n_1057090.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/001491850077e9fc85b5d3ceff551643f4d092d97c6a22bf36564946c6fe599f/21103481.jpg
+Servings: 4
+Calories: 1557.38
+Diet labels: Low-Carb
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Mustard Crumbed Pork Chops
+source: huffingtonpost.com
+url: http://www.huffingtonpost.com/2011/10/27/mustard-crumbed-pork-chop_n_1057090.html
+servings: 4
+calories: 1557.375
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/001491850077e9fc85b5d3ceff551643f4d092d97c6a22bf36564946c6fe599f/21103481.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+HUFFPOST
+Food & Drink
+MORE FOOD & DRINK
+Skip to Main Content
+Main Menu
+U.S. Edition
+Follow Us
+Terms
+|
+Privacy Policy
+Part of HuffPost Food & Drink. ©2026 BuzzFeed, Inc. All rights reserved.
+Trending
+Virginia Supreme Court Strikes Down Democrats’ Redistricting Plan, Dimming Party’s Midterm Hopes
+A Year After Trump’s Scolding, It Turns Out Zelenskyy Has All Kinds Of Cards
+Trump Explodes At Female Reporter After She Asks An Uncomfortable Question
+Marco Rubio’s Gift To Pope Leo Is Instantly Mocked As A Last-Minute Airport Buy
+‘He’s Insane’: Trump Stuns With ‘Orwellian’ Description Of Iran Strikes
+Starmer Says He Won't Resign Despite His Party's Disastrous Election Night
+Pentagon Releases New UFO Files, Says Public Can Draw Its Own Conclusions
+A Local Mom Encountered My Nephew — Then Posted About Him On Facebook. Here's What She Didn't Know.
+Trump-Loved Reporter Quits To Spend More Time With Trump-Hating Fiancée
+Kimmel's Trump Supercut Ends With The 1 Word He Desperately Doesn't Want To Say
+Trump Drives Across Lincoln Memorial Reflecting Pool To Inspect New Blue Coating He's Putting On It
+Colbert Reveals The One Thing That May Help Trump See True Cost Of Iran War
+The Foods You Crave During Your Period Will Only Make You Feel Worse — Eat These Instead
+These 2 Wildly Popular Beverages Are The Worst Offenders When It Comes To Osteoporosis
+The Ripeness Level Of Your Banana Actually Matters For Your Health— Here's How
+This Is The Exact Mint Julep Recipe Served At The Kentucky Derby
+Stop Blaming Your Willpower: A New Study Suggests The Real Reason You Can’t Stop Snacking
+This Beloved American Seasoning Is Underrated And Underused — Here's What Experts Put It On
+The Best Butter To Buy At The Grocery Store, According To Experts
+11 Foods Experts Say Can Boost Your Brain Health And Help Ward Off Dementia
+New Dietary Guidelines Don't Include 1 Very Important Detail — And It Can Impact Kids' Brain Health
+Experts Reveal The Limits To How Much Diet Soda Someone Should Drink
+These Foods Are Being Called ‘Natural GLP-1s,' But Do They Work? — Here’s What Experts Say
+We Have News For Everyone Insisting On Eating White Rice
+You May Want To Think Twice Before You Eat Bagged Lettuce
+Philz Coffee Is Removing Pride Flags From All Locations Nationwide
+Restaurant Servers Say These Rude Customers Left Them Speechless
+It's Time To Let Go Of Your Old Food Containers ... Before They End You
+The Real Reason Brown Eggs Are More Expensive Than White Eggs
+Read This Before You Eat Your Dyed Easter Eggs
+3 Red Flags To Avoid When You're Buying Easter Chocolate
+We Asked Pediatricians What They Let Their Kids Eat — You Won't Believe What They Said
+You’re Paying Double For ‘Pasture-Raised’ Chicken — Here’s What You’re Actually Getting
+Close

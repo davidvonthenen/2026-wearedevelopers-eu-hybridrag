@@ -1,0 +1,90 @@
+Swiss Ham and Potato Soup
+=========================
+
+Recipe Metadata
+---------------
+Recipe ID: 316f2923a33d53ff
+CSV row number: 100
+Recipe name: Swiss Ham and Potato Soup
+Source: justapinch.com
+URL: https://www.justapinch.com/recipes/soup/creamy-soup/swiss-potato-soup-with-ham-dee.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00903c23641b6d931c23c7c1e61efcad5253aa4a150273d917326d164c2b7436/21086645.jpeg
+Servings: 3
+Calories: 1508.32
+Diet labels: Low-Carb
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: soup
+
+Original CSV Fields
+-------------------
+recipe_name: Swiss Ham and Potato Soup
+source: justapinch.com
+url: https://www.justapinch.com/recipes/soup/creamy-soup/swiss-potato-soup-with-ham-dee.html
+servings: 3
+calories: 1508.321545
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00903c23641b6d931c23c7c1e61efcad5253aa4a150273d917326d164c2b7436/21086645.jpeg
+diet_labels: ["Low-Carb"]
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["soup"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Swiss Ham and Potato Soup
+
+Description: This is an easy soup recipe that I've been making since the early 70's.
+
+I love the flavors of the ham, swiss cheese and just a hint of nutmeg. This is a perfect soup for a chilly windy day.
+
+This was a favorite for my daughter and now she makes it for her family too.
+
+Hope you enjoy!
+
+Recipe category: Cream Soups
+
+Recipe cuisine: Swedish
+
+Yield: Makes 4 1/2 cups or serves 3 people
+
+Cook time: PT10M
+
+Ingredients:
+- 1 - 10 1/2-ounce can condensed cream of potato soup, undiluted
+- 1 cup(s) half and half
+- 3/4 cup(s) milk
+- 1 1/2 cup(s) diced cooked ham
+- 1/4 cup(s) shredded swiss cheese
+- 1/8 teaspoon(s) nutmeg, ground
+
+Instructions:
+1. In a medium saucepan over low heat, heat all ingredients, stirring occasionally. Be careful to not over heat. Heat just until hot and cheese is melted. Serve topped with cheese and/or real bacon bits.
+2. Note: Don't leave the nutmeg out, I believe this is a key ingredient for the wonderful flavor of this soup.
+
+Visible page text:
+swiss ham and potato soup
+This is an easy soup recipe that I've been making since the early 70's.
+
+Ingredients
+1 10 1/2-ounce can condensed cream of potato soup, undiluted
+1 cup half and half
+3/4 cup milk
+1 1/2 cups diced cooked ham
+1/4 cup shredded swiss cheese
+1/8 teaspoon nutmeg, ground
+How To Make swiss ham and potato soup
+Step 1 In a medium saucepan over low heat, heat all ingredients, stirring occasionally. Be careful to not over heat. Heat just until hot and cheese is melted. Serve topped with cheese and/or real bacon bits.
+Step 2 Note: Don't leave the nutmeg out, I believe this is a key ingredient for the wonderful flavor of this soup.
+Last Step: Don't forget to share! Post a picture of your finished recipe here and on your favorite social
+network. Don't forget to tag Just A Pinch and include #justapinchrecipes!
+Discover More
+Comment & Reviews

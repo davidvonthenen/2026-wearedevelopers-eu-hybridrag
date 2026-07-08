@@ -1,0 +1,46 @@
+Slow Cooker Italian Beef - Perfect For Hoagies
+==============================================
+
+Recipe Metadata
+---------------
+Recipe ID: 79df1d1552eed49e
+CSV row number: 191
+Recipe name: Slow Cooker Italian Beef - Perfect For Hoagies
+Source: tasteerecipe.com
+URL: https://tasteerecipe.com/2017/10/06/slow-cooker-italian-beef-perfect-hoagies/2/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0136a1c81b41d3589f52993bde4f9830d3a6bb80b3ef4f87505b1832f843763e/21126551.png
+Servings: 12
+Calories: 3005.26
+Diet labels: Low-Carb
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Slow Cooker Italian Beef - Perfect For Hoagies
+source: tasteerecipe.com
+url: https://tasteerecipe.com/2017/10/06/slow-cooker-italian-beef-perfect-hoagies/2/
+servings: 12
+calories: 3005.262177799572
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0136a1c81b41d3589f52993bde4f9830d3a6bb80b3ef4f87505b1832f843763e/21126551.png
+diet_labels: ["Low-Carb"]
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+internal_server_error
+<![CDATA[WordPress &rsaquo; Error]]>
+&lt;p&gt;There has been a critical error on this website.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://wordpress.org/documentation/article/faq-troubleshooting/&quot;&gt;Learn more about troubleshooting WordPress.&lt;/a&gt;&lt;/p&gt;
+500

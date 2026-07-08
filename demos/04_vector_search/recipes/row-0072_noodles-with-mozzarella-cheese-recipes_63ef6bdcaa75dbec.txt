@@ -1,0 +1,79 @@
+Noodles With Mozzarella Cheese recipes
+======================================
+
+Recipe Metadata
+---------------
+Recipe ID: 63ef6bdcaa75dbec
+CSV row number: 72
+Recipe name: Noodles With Mozzarella Cheese recipes
+Source: cdkitchen.com
+URL: http://www.cdkitchen.com/recipes/recs/57/Noodles-With-Mozzarella-Cheese90602.shtml
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/005c2dd3a7e6d7d1c6e32a67b16192996bf0953c8f5890b32e77d3ac8f1ee856/21051890.jpeg
+Servings: 4
+Calories: 2470.99
+Diet labels: Balanced, High-Fiber
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: asian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Noodles With Mozzarella Cheese recipes
+source: cdkitchen.com
+url: http://www.cdkitchen.com/recipes/recs/57/Noodles-With-Mozzarella-Cheese90602.shtml
+servings: 4
+calories: 2470.989023032488
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/005c2dd3a7e6d7d1c6e32a67b16192996bf0953c8f5890b32e77d3ac8f1ee856/21051890.jpeg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["asian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Noodles With Mozzarella Cheese
+add review
+#61475
+Just because it's easy doesn't mean it's not delicious! The fresh ingredients make all the difference.
+ingredients
+4 tablespoons olive oil 3 tomatoes, peeled and chopped 4 ounces mozzarella cheese, cubed 2 ounces Cheddar cheese, grated chopped fresh oregano salt and freshly ground black pepper 12 ounces noodles
+directions
+Heat the oil in a saucepan and add the tomatoes, Mozzarella, Cheddar and oregano; season to taste. Cover and simmer for 5 minutes or until cheese has melted. Meanwhile cook the noodles in boiling water, drain and place in a warm dish. Combine with the cheese mixture and serve.
+added by
+FanaticBaileyRecipes nutrition data 610 calories , 29 grams fat , 66 grams carbohydrates , 22 grams protein per serving . more recipes like noodles with mozzarella cheese COLD CHINESE NOODLES IN PEANUT SESAME SAUCE CORN-NOODLE CASSEROLE RICE STICK NOODLES WITH EXOTIC MUSHROOMS BUTTERED NOODLES WITH HERBS CHEESY NOODLES WITH CORN ORANGE CHILI NOODLE SALAD reviews & comments
+nutrition data 610 calories , 29 grams fat , 66 grams carbohydrates , 22 grams protein per serving . more recipes like noodles with mozzarella cheese COLD CHINESE NOODLES IN PEANUT SESAME SAUCE CORN-NOODLE CASSEROLE RICE STICK NOODLES WITH EXOTIC MUSHROOMS BUTTERED NOODLES WITH HERBS CHEESY NOODLES WITH CORN ORANGE CHILI NOODLE SALAD reviews & comments
+nutrition data
+reviews & comments
+dinners
+casseroles
+soups & salads
+appetizers
+desserts
+baked goods
+crockpot
+copycat
+drinks
+side dishes
+breakfast
+holidays
+A can of cream of mushroom soup can be a real dinner saver. It works great in casseroles and can turn into a sauce or gravy in a pinch.
+Ah, the unassuming envelope of onion soup mix . It's more than just for onion soup (or dip). It adds tremendous flavor (and convenience) in all these recipes.
+If you're a fan of the menu at this American chain of restaurants which serves a variety of foods such as burgers, steaks, pasta, and seafood then you'll love this collection of copycat recipes.
+Online since 1995, CDKitchen has grown into a large collection of delicious recipes created by home cooks and professional chefs from around the world. We are all about tasty treats, good eats, and fun food. Join our community of 200K+ members - browse for a recipe, submit your own, add a review, or upload a recipe photo.
+Media Inquiries
+Advertise
+Help Desk
+About CDKitchen
+Privacy Policy
+Copyright
+Recipe Use
+Photo Use

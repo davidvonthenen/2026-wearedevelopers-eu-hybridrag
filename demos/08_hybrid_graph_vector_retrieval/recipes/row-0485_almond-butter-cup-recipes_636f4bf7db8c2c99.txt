@@ -1,0 +1,177 @@
+Almond Butter Cup recipes
+=========================
+
+Recipe Metadata
+---------------
+Recipe ID: 636f4bf7db8c2c99
+CSV row number: 485
+Recipe name: Almond Butter Cup recipes
+Source: lexiscleankitchen.com
+URL: http://lexiscleankitchen.com/2013/08/30/chocolate-almond-butter-cup-protein-shake/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/032b55859d96f096e9437614345d8c8749ab2976fb53fa324dc5fb82a8cfc122/21114381.jpeg
+Servings: 1
+Calories: 284.87
+Diet labels: High-Fiber
+Health labels: Vegetarian, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: british
+Meal type: breakfast
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Almond Butter Cup recipes
+source: lexiscleankitchen.com
+url: http://lexiscleankitchen.com/2013/08/30/chocolate-almond-butter-cup-protein-shake/
+servings: 1
+calories: 284.8658657271939
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/032b55859d96f096e9437614345d8c8749ab2976fb53fa324dc5fb82a8cfc122/21114381.jpeg
+diet_labels: ["High-Fiber"]
+health_labels: ["Vegetarian","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["british"]
+meal_type: ["breakfast"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Chocolate Almond Butter Smoothie
+
+Description: This Chocolate Almond Butter Smoothie tastes just like a chocolate almond butter cup! It&#39;s loaded with healthy fats, protein, and tons of delicious flavor.
+
+Recipe category: ['Smoothie']
+
+Recipe cuisine: ['Dairy-free', 'Gluten-free']
+
+Yield: ['1']
+
+Prep time: PT5M
+
+Total time: PT5M
+
+Ingredients:
+- 1 cup almond milk
+- 1 scoop chocolate protein powder
+- 1/2 frozen banana
+- 1 tablespoon creamy almond butter (additional for garnish)
+- 1 teaspoon honey or maple syrup (optional)
+- 1 teaspoon chia seeds
+- pinch cinnamon
+- 1 tablespoon chopped chocolate (optional but recommended!)
+
+Instructions:
+1. Place all ingredients in a high speed blender.
+2. Blend until smooth and creamy.
+3. Garnish with additional almond butter, and enjoy.
+
+Visible page text:
+Home | Smoothies | Chocolate Almond Butter Smoothie
+Chocolate Almond Butter Smoothie
+published on May 02, 2023
+Share
+This post may contain affiliate links. Please read my disclosure policy .
+This Chocolate Almond Butter Smoothie tastes just like a chocolate almond butter cup! It’s loaded with healthy fats, protein, and tons of delicious flavor.
+Easy Chocolate Protein Smoothie
+I love smoothies . I think they are such a great way to pack your meal or snack full of nutrients. Plus, there are so many different varieties. Tropical, berry, peanut butter, green, chocolate…and the list goes on.
+This Chocolate Almond Butter Smoothie is one of my favorites. It tastes like sea salted dark chocolate almond butter cups , except you can just have it for breakfast. Although, if you want to just have almond butter cups for breakfast, there’s no judgement from me! 😉
+This delicious smoothie is quick, healthy, dairy-free, paleo-friendly, and so tasty!
+Ingredients Needed
+Milk: I use almond milk, but feel free to use regular whole milk, nonfat milk, or any non-dairy milk of your choice.
+Protein Powder: Look for a chocolate, grass-fed, whey protein powder. Or any you’d like! Alternatively, to keep your smoothie dairy-free, use a vegan variety of chocolate protein powder.
+Banana: Frozen banana is key! You can freeze your own banana or buy pre-frozen banana at the store.
+Chocolate: A little bit of chopped chocolate gives the smoothie a richer, more chocolatey flavor. It’s optional, but worth it!
+Almond Butter: I use creamy almond butter. Feel free to use whatever brand is your favorite.
+Honey or Maple Syrup: For a little bit of natural sweetness.
+Cinnamon: Cinnamon gives the smoothie a subtle sweet spice and an extra layer of flavor.
+How to Make a Chocolate Almond Butter Smoothie
+This delicious chocolate smoothie recipe comes together in a total of 5 minutes!
+Combine and blend: In a high-speed blender, combine all of the smoothie ingredients. Blend until smooth and creamy.
+Garnish and serve: Pour the smoothie into the serving glass of your choice, garnish with sliced banana and a dollop of almond butter if desired, and serve immediately.
+Substitutions
+Want To Omit Protein Powder?
+Get the chocolate-y taste with a tablespoon of cocoa powder!
+Want To Use a Different Nut Butter?
+Go for it! Any will do!
+Do the Bananas Need to be Frozen?
+As annoying as that is, we’re going with a yes for using frozen bananas. Frozen bananas add such a creamy element to this smoothie. Without it, the smoothie isn’t as thick and creamy.
+You can freeze bananas whole (they last longer this way) or in slices. If slicing, you’ll likely want to use them up within a few days.
+Is Almond Butter Good for Protein Shakes or Smoothies?
+Totally! Almond butter not only adds to the overall flavor of the protein shake, but it also adds a good amount of protein on its own.
+Aside from the protein, almond butter also provides a boost of antioxidants and healthy fats.
+Will Almond Butter Thicken a Smoothie?
+Yes. Almond butter adds a rich nuttiness to a smoothie, gives it a boost of nutrition, and contributes to its thick, creamy texture.
+There really are no downsides!
+Tips and Variations
+Use frozen banana. The frozen banana is the key to a thick, creamy chocolate banana smoothie. Fresh banana just won’t yield the same texture.
+If you’re freezing your own bananas for smoothies, freeze them when they’re nice and ripe for ultimate sweetness.
+Serve immediately. Smoothies are best fresh out of the blender!
+Don’t want to use protein powder? Try swapping it out for 1 scoop of collagen peptides and 1 tablespoon of cocoa powder.
+If you prefer a thicker smoothie, add less milk or blend in avocado or frozen cauliflower.
+For a thinner smoothie, simply add more milk.
+For an extra boost of nutrition, blend in a handful of flax, chia, or hemp seeds.
+Make a peanut butter chocolate smoothie. Swap the almond butter for peanut butter if that’s what you prefer. I can attest that this does taste remarkably similar to a peanut butter cup.
+Serving Suggestions
+This chocolate banana smoothie is delicious on its own or topped with additional banana slices and a dollop of almond butter!
+You can also make it a little bit thicker and make it into a smoothie bowl topped with fresh berries, banana, granola, coconut flakes, chopped nuts, you name it.
+Serving as part of a larger breakfast spread? Here are a few favorites:
+How to Make Poached Eggs
+Diner-Style French Toast
+Chunky Monkey Baked Oats
+Healthy Baby Oat Muffins
+More Smoothie Recipes You’ll Love
+Chocolate Covered Cherry Smoothie
+Coffee Banana Smoothie
+Healthy Peanut Butter Banana Smoothie
+Green Summer Smoothie
+Pin this recipe to save it for later!
+Ingredients 1x 2x 3x
+1 cup almond milk
+1 scoop chocolate protein powder
+1/2 frozen banana
+1 tablespoon creamy almond butter additional for garnish
+1 teaspoon honey or maple syrup optional
+1 teaspoon chia seeds
+pinch cinnamon
+1 tablespoon chopped chocolate optional but recommended!
+Instructions
+Place all ingredients in a high speed blender.
+Blend until smooth and creamy.
+Garnish with additional almond butter, and enjoy.
+Notes
+Cocoa powder for protein powder
+Omit sweetener (honey)
+Nutrition
+Gluten Free
+30 Smoothie Freezer Packs (Budget-Friendly)
+Smoothies
+Summer Green Smoothie
+Dairy Free
+Piña Colada Smoothie
+Paleo
+Banana Coffee Smoothie
+Leave a Comment Cancel reply
+Comments
+So simple, quick, and yummy! Will definitely remake. I added cacao nibs, and may add frozen steamed cauliflower next time for extra nutrients and thickness. 🙂 Thanks for the great recipe! Reply
+So simple, quick, and yummy! Will definitely remake. I added cacao nibs, and may add frozen steamed cauliflower next time for extra nutrients and thickness. 🙂 Thanks for the great recipe!
+Delicious! Easy and protein packed! Reply I love the chocolate almond butter smoothie & it is so creamy & delicious. Reply
+Delicious! Easy and protein packed!
+I love the chocolate almond butter smoothie & it is so creamy & delicious. Reply
+I love the chocolate almond butter smoothie & it is so creamy & delicious.
+Lexi, your recipe sounds awesome! I’m all about grass-fed dairy; which protein powder are you using? I’ve searched for grass-fed whey protein powders and have found that many of them are whey concentrates. One grass-fed whey source had 90mg of cholesterol per serving! That is an insane amount, especially because the type of cholesterol in whey is OXIDIZED cholesterol – the absolute worst, most harmful type for the heart and for your health. It doesn’t matter how well-fed the cows were when the cholesterol is that high. Please check the label on your whey protein powder. You’re always better off getting a whey isolate as opposed to concentrate because of this cholesterol issue. And, if you are using a grass-fed whey isolate, which one is it! Thanks for your help, and hopefully you find my advice helpful as well! Reply
+Lexi, your recipe sounds awesome! I’m all about grass-fed dairy; which protein powder are you using? I’ve searched for grass-fed whey protein powders and have found that many of them are whey concentrates. One grass-fed whey source had 90mg of cholesterol per serving! That is an insane amount, especially because the type of cholesterol in whey is OXIDIZED cholesterol – the absolute worst, most harmful type for the heart and for your health. It doesn’t matter how well-fed the cows were when the cholesterol is that high. Please check the label on your whey protein powder. You’re always better off getting a whey isolate as opposed to concentrate because of this cholesterol issue. And, if you are using a grass-fed whey isolate, which one is it! Thanks for your help, and hopefully you find my advice helpful as well!
+Hi Lexi made this delicious shake today…..I am so excited to have found you again and your fabulous blog! I used coconut protein powder and added cocoa powder. Loved it…making pancakes in the am! Reply
+Hi Lexi made this delicious shake today…..I am so excited to have found you again and your fabulous blog! I used coconut protein powder and added cocoa powder. Loved it…making pancakes in the am!
+What can you use instead of banana? Thank you! Reply
+What can you use instead of banana? Thank you!
+Just made this and it was so good! Took 2 minutes to make and was really filling. Thanks for the great recipes! Reply So happy you liked it Sarah! Thanks for stopping by 🙂 Reply
+Just made this and it was so good! Took 2 minutes to make and was really filling. Thanks for the great recipes!
+So happy you liked it Sarah! Thanks for stopping by 🙂 Reply
+So happy you liked it Sarah! Thanks for stopping by 🙂
+Tried this the second I saw it on Lexi’s blog! It was divine and so easy to whip up. Will definitely be making this again. Thanks for the delicious recipe! Reply
+Tried this the second I saw it on Lexi’s blog! It was divine and so easy to whip up. Will definitely be making this again. Thanks for the delicious recipe!
+© 2026 Lexi's Clean Kitchen. All rights reserved. Privacy Policy

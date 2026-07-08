@@ -1,0 +1,103 @@
+Easy Gingered Vegetables
+========================
+
+Recipe Metadata
+---------------
+Recipe ID: bb8944c02d79b2e0
+CSV row number: 198
+Recipe name: Easy Gingered Vegetables
+Source: food.com
+URL: http://www.food.com/recipe/easy-gingered-vegetables-312165
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01413df3b999bcedfa4a64dc227bff933e9537883b5e982d76acef4442edded4/21079574.jpg
+Servings: 4
+Calories: 298.35
+Diet labels: Low-Fat
+Health labels: Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Easy Gingered Vegetables
+source: food.com
+url: http://www.food.com/recipe/easy-gingered-vegetables-312165
+servings: 4
+calories: 298.3477711050799
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01413df3b999bcedfa4a64dc227bff933e9537883b5e982d76acef4442edded4/21079574.jpg
+diet_labels: ["Low-Fat"]
+health_labels: ["Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Easy Gingered Vegetables
+
+Description: Make and share this Easy Gingered Vegetables recipe from Food.com.
+
+Recipe category: Vegetable
+
+Yield: 4 cups, 4 serving(s)
+
+Prep time: PT15M
+
+Cook time: PT10M
+
+Total time: PT25M
+
+Ingredients:
+- 1 large garlic clove, minced
+- 1 cup sliced carrot
+- 1 cup sliced celery
+- 1 cup sweet red pepper strips
+- 1 cup broccoli floret
+- 1 cup snow peas
+- 1 cup chopped onion
+- 4 teaspoons cornstarch
+- 1/2 tablespoon ground ginger
+- 1 (8 ounce) can chicken broth
+
+Instructions:
+1. in a 3 quart casserole, combine the garlic,and the vegetables, cover, and microwave on high for 6 minutes, or until vetables are crisp, stir after 3 minutes cooking.
+2. Stir in remaining ingredients until blended. Cover and microwave on high for 4 minutes or until thickened, stirring once after 2 minutes.
+3. Serve over rice if desired.
+
+Visible page text:
+Easy Gingered Vegetables
+ingredients
+1 large garlic clove , minced
+1 cup sliced carrot
+1 cup sliced celery
+1 cup sweet red pepper strips
+1 cup broccoli floret
+1 cup snow peas
+1 cup chopped onion
+4 teaspoons cornstarch
+1 ⁄ 2 tablespoon ground ginger
+1 (8 ounce) can chicken broth
+directions
+in a 3 quart casserole, combine the garlic,and the vegetables, cover, and microwave on high for 6 minutes, or until vetables are crisp, stir after 3 minutes cooking.
+Stir in remaining ingredients until blended. Cover and microwave on high for 4 minutes or until thickened, stirring once after 2 minutes.
+Serve over rice if desired.
+Questions & Replies
+Reviews
+This is so simple and so very tasty! I will keep this recipe handy for anytime I want a nice hot yet crisp veggie dish in a hurry. My photo got lost in a pc glitch or I would have posted. Made for Pick-A-Chef Fall 2011. ddav0962 Reply
+Couldn't get much simplier. Great when you are rushed and don't have much time or need a quick side dish. morgainegeiser Reply
+Perfect for those weeknights when you are tired and want a quick healthy dinner. The veggies were crispy tender and the sauce had nice flavor without over dominating the veggies or making them too wet. Made as written using fresh snap peas (which we love) as snow peas were not available. Thanks for the post. Debbwl Reply
+A quick and easy vege dish. I used gluten-free liquid stock to make this suitable for my gf diet. Good done in the microwave....but I think I would prefer cooked in a non-stick wok. Jubes Reply
+This was really easy and really tasty. I loved the ginger flavour. In the end I steamed the veg and made up the sauce separately and added them together, but that worked out fine. Thanks! Kitzy Reply
+RECIPE SUBMITTED BY
+36 Followers
+756 Recipes
+29 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

@@ -1,0 +1,114 @@
+Fiesta Spaghetti Tacos
+======================
+
+Recipe Metadata
+---------------
+Recipe ID: 5c7cfd5873b1eab9
+CSV row number: 35
+Recipe name: Fiesta Spaghetti Tacos
+Source: Betty Crocker
+URL: http://www.bettycrocker.com/recipes/fiesta-spaghetti-tacos/a6509e7b-165a-42de-8b42-dc724bc29f9a
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/002b86730313c86e419897052d713b1e3f5d578e9f7935033d137dfd8fd7f7ea/20981872.jpg
+Servings: 5
+Calories: 2639.50
+Diet labels: Balanced
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Eggs, Milk, Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Fiesta Spaghetti Tacos
+source: Betty Crocker
+url: http://www.bettycrocker.com/recipes/fiesta-spaghetti-tacos/a6509e7b-165a-42de-8b42-dc724bc29f9a
+servings: 5
+calories: 2639.504451
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/002b86730313c86e419897052d713b1e3f5d578e9f7935033d137dfd8fd7f7ea/20981872.jpg
+diet_labels: ["Balanced"]
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Eggs","Milk","Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Fiesta Spaghetti Tacos
+
+Description: Kids will race home from a long day at school when they know they're having Fiesta Spaghetti Tacos for dinner! Crunchy and oh-so-yummy, these zany handhelds will brighten any meal. Here's how to make spaghetti tacos.
+
+Recipe category: Dinner
+
+Recipe cuisine: Mexican
+
+Yield: 5
+
+Prep time: PT0H25M
+
+Total time: PT0H25M
+
+Ingredients:
+- 5 oz uncooked spaghetti, broken in half
+- 1 lb ground beef (at least 80% lean)
+- 1 packet (1 oz) Old El Paso™ 25% Less Sodium Taco Seasoning Mix
+- 1/2 cup water
+- 1 1/4 cups tomato pasta sauce (any variety)
+- 1 box (4.7 oz) Old El Paso™ Stand 'n Stuff Taco Shells (10 Count)
+- 1 medium tomato, chopped (3/4 cup), if desired
+- 2 tablespoons shredded Parmesan cheese
+
+Instructions:
+1. Cook spaghetti as directed on package; drain.
+2. Meanwhile, in 10-inch nonstick skillet, cook beef over medium-high heat 5 to 7 minutes, stirring frequently, until thoroughly cooked; drain. Stir in taco seasoning mix and water. Heat to boiling. Reduce heat; simmer uncovered 3 to 4 minutes or until thickened. Stir in pasta sauce; cook over medium heat until hot. Stir in cooked spaghetti.
+3. Meanwhile, heat taco shells as directed on box. Spoon about 1/2 cup spaghetti mixture into each taco shell; top with tomato and Parmesan cheese.
+
+Visible page text:
+Fiesta Spaghetti Tacos
+Write a Review
+Ask a Question
+Save
+Pin
+Print
+Share
+Jump to Recipe
+More About This Recipe
+This recipe is every kid’s (or kid at heart’s) dream come true. And with staple ingredients like ground beef, spaghetti noodles and taco shells, it’s an ideal recipe for busy families! This spaghetti-taco hybrid only takes 25 minutes and three steps to make, so it’s perfect for those crazy weeknights when dinner needs to be on the table ASAP. Or if you’re looking to throw your own fiesta, this recipe would be super easy to make for a crowd (especially if you use Stand N’ Stuff taco shells to avoid a mess). No matter who you’re making this for, we’ll bet you won’t hear any complaints. And if you’re looking for more fun, fiesta-worthy ideas, explore Betty’s best taco recipes .
+Prep Time 25 min
+Total 25 min
+Servings 5
+Ingredients 8
+Keep Screen On
+Ingredients
+5 oz uncooked spaghetti, broken in half
+1 lb ground beef (at least 80% lean)
+1 packet (1 oz) Old El Paso™ 25% Less Sodium Taco Seasoning Mix
+1/2 cup water
+1 1/4 cups tomato pasta sauce (any variety)
+1 box (4.7 oz) Old El Paso™ Stand 'n Stuff Taco Shells (10 Count)
+1 medium tomato, chopped (3/4 cup), if desired
+2 tablespoons shredded Parmesan cheese
+Instructions
+Step 1 Cook spaghetti as directed on package; drain.
+Step 2 Meanwhile, in 10-inch nonstick skillet, cook beef over medium-high heat 5 to 7 minutes, stirring frequently, until thoroughly cooked; drain. Stir in taco seasoning mix and water. Heat to boiling. Reduce heat; simmer uncovered 3 to 4 minutes or until thickened. Stir in pasta sauce; cook over medium heat until hot. Stir in cooked spaghetti.
+Step 3 Meanwhile, heat taco shells as directed on box. Spoon about 1/2 cup spaghetti mixture into each taco shell; top with tomato and Parmesan cheese.
+Nutrition
+Nutrition Facts
+Recipe Tips
+Try These Next
+Beef Taco Recipes
+Spaghetti Recipes
+Ground Beef Pasta Recipes
+Easy Beef Tacos (93) Save
+Fiesta Spaghetti (1) Save
+Nacho Tacos (2) Save
+Taco Casserole (32) Save
+Taco Bake (153) Save
+Smothered Skillet Beef Burritos (111) Save
+Reviews & Questions Section

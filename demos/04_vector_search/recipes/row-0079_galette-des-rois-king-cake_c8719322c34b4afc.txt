@@ -1,0 +1,115 @@
+Galette des Rois-King Cake
+==========================
+
+Recipe Metadata
+---------------
+Recipe ID: c8719322c34b4afc
+CSV row number: 79
+Recipe name: Galette des Rois-King Cake
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/galette-des-rois-king-cake-recipe-2011659
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0066d6f63e9b4ace21cfdb6a3579251a750aa31719be9b80e032f0fdfafb21c8/21126475.jpg
+Servings: 20
+Calories: 6195.67
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: french
+Meal type: lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Galette des Rois-King Cake
+source: Food Network
+url: https://www.foodnetwork.com/recipes/galette-des-rois-king-cake-recipe-2011659
+servings: 20
+calories: 6195.666900593738
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0066d6f63e9b4ace21cfdb6a3579251a750aa31719be9b80e032f0fdfafb21c8/21126475.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["french"]
+meal_type: ["lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Galette des Rois-King Cake
+
+Recipe category: dessert
+
+Recipe cuisine: american
+
+Prep time: P0Y0M0DT0H20M0.000S
+
+Cook time: P0Y0M0DT0H45M0.000S
+
+Total time: P0Y0M0DT1H5M0.000S
+
+Ingredients:
+- 1 or 2 packages (17.3-ounce) store bought puff pastry sheets, if frozen thaw in refrigerator
+- 1 cup soft butter
+- 1 cup ground blanched almonds
+- 4 tablespoons flour
+- 3 eggs
+- 3/4 cup sugar
+- 1 teaspoon almond extract
+- 1 pinch salt
+- Powdered sugar, for dusting
+- Egg yolk mixed with 1 tablespoon water
+
+Instructions:
+1. Preheat oven to 450 degrees. With an electric beater, mix all the ingredients for the frangipane cream just until blended. On a slightly floured cold surface, cut 2 circles the size of dinner plates out of the puff pastry. Put one of them on a baking sheet lined with parchment paper. Brush one inch around the edge of the circle with egg wash (beaten egg yolk). Spread half of the frangipane cream on the center and place the second circle on top matching the edges of the circles. Press all around the edges to glue them together. Press softly in the center to evenly spread the filling. If making 2 galettes use remaining cream and follow the same method for preparation.
+2. Decorate the galette with a fork, press edges together all around-no pricking. With the point of a knife, make any kind of design being careful not to go all the way through the puff pastry. Brush the surface with egg wash being careful no to get any on the sides.
+3. Bake the galette in the center of a preheated 450 degree oven for 15 minutes then 350 degrees for 30 minutes. For the last 5 minutes, sprinkle with powdered sugar and bake until golden brown. Serve warm with gold paper crown on top.
+4. For the tradition of Epiphany in the privacy of your kitchen cut the galette in as many parts as people in the party. In one of them, insert a little ceramic toy (big enough to prevent swallowing). In the old days, they used a dried fava bean, so to this day it is still called "la feve." Everyone picks 1 piece of galette the one who discovers the toy is made the king of the day and wears the crown. He picks a queen by putting the toy in her glass and everyone raises his or her glass and applauds. Same process in reverse if a lady finds the toy. Tradition says that the next party should be at the king's expense.
+
+Visible page text:
+Home
+Recipes
+Bread
+Pastries
+Galette des Rois-King Cake
+Total: 1 hr 5 min
+Prep: 20 min
+Cook: 45 min
+Pinterest
+Email
+Deselect All
+1 or 2 packages (17.3-ounce) store bought puff pastry sheets, if frozen thaw in refrigerator
+Frangipane cream for the filling, enough for 2 galettes:
+1 cup soft butter
+1 cup ground blanched almonds
+4 tablespoons flour
+3 eggs
+3/4 cup sugar
+1 teaspoon almond extract
+1 pinch salt
+Powdered sugar, for dusting
+Egg yolk mixed with 1 tablespoon water
+Preheat oven to 450 degrees. With an electric beater, mix all the ingredients for the frangipane cream just until blended. On a slightly floured cold surface, cut 2 circles the size of dinner plates out of the puff pastry. Put one of them on a baking sheet lined with parchment paper. Brush one inch around the edge of the circle with egg wash (beaten egg yolk). Spread half of the frangipane cream on the center and place the second circle on top matching the edges of the circles. Press all around the edges to glue them together. Press softly in the center to evenly spread the filling. If making 2 galettes use remaining cream and follow the same method for preparation.
+Decorate the galette with a fork, press edges together all around-no pricking. With the point of a knife, make any kind of design being careful not to go all the way through the puff pastry. Brush the surface with egg wash being careful no to get any on the sides.
+Bake the galette in the center of a preheated 450 degree oven for 15 minutes then 350 degrees for 30 minutes. For the last 5 minutes, sprinkle with powdered sugar and bake until golden brown. Serve warm with gold paper crown on top.
+For the tradition of Epiphany in the privacy of your kitchen cut the galette in as many parts as people in the party. In one of them, insert a little ceramic toy (big enough to prevent swallowing). In the old days, they used a dried fava bean, so to this day it is still called "la feve." Everyone picks 1 piece of galette the one who discovers the toy is made the king of the day and wears the crown. He picks a queen by putting the toy in her glass and everyone raises his or her glass and applauds. Same process in reverse if a lady finds the toy. Tradition says that the next party should be at the king's expense.
+A viewer or guest of the show, who may not be a professional cook, provided this recipe. It has not been tested for home use.
+Categories:
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+King Cake Recipe
+King Cake Cheesecake Recipe
+Galette des Rois Recipe
+How to Make King Cake
+Galette des Rois aux Amandes (Three Kings Almond...
+King Cake Bevvy Recipe

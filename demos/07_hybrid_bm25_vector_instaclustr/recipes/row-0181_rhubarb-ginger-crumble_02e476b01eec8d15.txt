@@ -1,0 +1,133 @@
+Rhubarb & ginger crumble
+========================
+
+Recipe Metadata
+---------------
+Recipe ID: 02e476b01eec8d15
+CSV row number: 181
+Recipe name: Rhubarb & ginger crumble
+Source: BBC Good Food
+URL: https://www.bbcgoodfood.com/recipes/rhubarb-ginger-crumble
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/012249e11a91e5a0f03b85e50e45cda43194775432d9ba843f23a4a788d28336/21035361.jpg
+Servings: 14
+Calories: 4574.01
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Rhubarb & ginger crumble
+source: BBC Good Food
+url: https://www.bbcgoodfood.com/recipes/rhubarb-ginger-crumble
+servings: 14
+calories: 4574.014857142856
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/012249e11a91e5a0f03b85e50e45cda43194775432d9ba843f23a4a788d28336/21035361.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Rhubarb & ginger crumble
+
+Description: This super easy, lightly spiced crumble can be prepared ahead of time - a comfort food favourite that makes a great budget-friendly dinner party dessert
+
+Recipe category: Dessert
+
+Recipe cuisine: British
+
+Yield: 6
+
+Prep time: PT30M
+
+Cook time: PT45M
+
+Total time: PT1H15M
+
+Ingredients:
+- 75g butter
+- 100g golden caster sugar
+- 2 vanilla pods seeds scraped out
+- 3 Bramley apples peeled and chopped
+- 600g rhubarb cut into even chunks
+- 100g stem ginger finely chopped
+- clotted cream sprinkled with ground ginger, to serve
+- 200g plain flour
+- 100g cold butter diced
+- 85g jumbo rolled oats
+- 85g light brown soft sugar
+- 100g shelled pistachios chopped
+
+Instructions:
+1. Heat oven to 180C/160C fan/gas 4. First, make the topping. In a bowl, rub the flour and butter together with your fingertips until it resembles fine breadcrumbs. Add in the oats and sugar, and stir with a wooden spoon to form a coarse crumble.
+2. Spread out the crumble in an even layer on a baking tray and bake in the centre of the oven for 15 mins until golden, with larger clusters of crumble formed. Once the mixture has cooled slightly, stir through the nuts.
+3. Next, make the crumble filling. Melt the butter in a heavy-based saucepan, then add the sugar and vanilla, and give everything a good stir. Tip in the apple and cook for 5 mins, stirring constantly, until the apples have turned into a thick purée. Once the apples have broken down, add the rhubarb and ginger. Stir well, then simmer for 5 mins until the rhubarb has just begun to soften. Pour the filling into a bowl and leave to cool.
+4. Once ready to eat, divide the crumble filling into six individual pie dishes, or one larger dish if you prefer, then top with the crumble topping. Can be assembled a day ahead and kept in the fridge, or frozen. To reheat from frozen, cook for an extra 15 mins until piping hot throughout. Bake in the centre of the oven for 15 mins, until bubbling throughout. Serve with the clotted cream.
+
+Visible page text:
+Rhubarb & ginger crumble
+Tom Kerridge
+This super easy, lightly spiced crumble can be prepared ahead of time - a comfort food favourite that makes a great budget-friendly dinner party dessert
+Showing items 1 to 3 of 3
+Add a zing to your ice cream with Rick Stein's spicy suggestions
+Fruit-infused spirits are a great way to showcase seasonal rhubarb. Leave the flavour to intensify for up to a month
+Vegetarian food at its easiest and most comforting – and a minimum of washing-up, as it's made in the microwave
+Ingredients
+Nutrition
+75g butter
+100g golden caster sugar
+2 vanilla pods seeds scraped out
+3 Bramley apples peeled and chopped
+600g rhubarb cut into even chunks
+100g stem ginger finely chopped
+clotted cream sprinkled with ground ginger, to serve
+For the topping
+200g plain flour
+100g cold butter diced
+85g jumbo rolled oats
+85g light brown soft sugar
+100g shelled pistachios chopped
+Nutrition: per serving
+kcal 705
+fat 33 g
+saturates 16 g
+carbs 87 g
+sugars 53 g
+fibre 8 g
+protein 10 g
+salt 0.5 g
+Method
+step 1 Heat oven to 180C/160C fan/gas 4. First, make the topping. In a bowl, rub the flour and butter together with your fingertips until it resembles fine breadcrumbs. Add in the oats and sugar, and stir with a wooden spoon to form a coarse crumble.
+step 1
+Heat oven to 180C/160C fan/gas 4. First, make the topping. In a bowl, rub the flour and butter together with your fingertips until it resembles fine breadcrumbs. Add in the oats and sugar, and stir with a wooden spoon to form a coarse crumble.
+step 2 Spread out the crumble in an even layer on a baking tray and bake in the centre of the oven for 15 mins until golden, with larger clusters of crumble formed. Once the mixture has cooled slightly, stir through the nuts.
+step 2
+Spread out the crumble in an even layer on a baking tray and bake in the centre of the oven for 15 mins until golden, with larger clusters of crumble formed. Once the mixture has cooled slightly, stir through the nuts.
+step 3 Next, make the crumble filling. Melt the butter in a heavy-based saucepan, then add the sugar and vanilla, and give everything a good stir. Tip in the apple and cook for 5 mins, stirring constantly, until the apples have turned into a thick purée. Once the apples have broken down, add the rhubarb and ginger. Stir well, then simmer for 5 mins until the rhubarb has just begun to soften. Pour the filling into a bowl and leave to cool.
+step 3
+Next, make the crumble filling. Melt the butter in a heavy-based saucepan, then add the sugar and vanilla, and give everything a good stir. Tip in the apple and cook for 5 mins, stirring constantly, until the apples have turned into a thick purée. Once the apples have broken down, add the rhubarb and ginger. Stir well, then simmer for 5 mins until the rhubarb has just begun to soften. Pour the filling into a bowl and leave to cool.
+step 4 Once ready to eat, divide the crumble filling into six individual pie dishes, or one larger dish if you prefer, then top with the crumble topping. Can be assembled a day ahead and kept in the fridge, or frozen. To reheat from frozen, cook for an extra 15 mins until piping hot throughout. Bake in the centre of the oven for 15 mins, until bubbling throughout. Serve with the clotted cream.
+step 4
+Once ready to eat, divide the crumble filling into six individual pie dishes, or one larger dish if you prefer, then top with the crumble topping. Can be assembled a day ahead and kept in the fridge, or frozen. To reheat from frozen, cook for an extra 15 mins until piping hot throughout. Bake in the centre of the oven for 15 mins, until bubbling throughout. Serve with the clotted cream.
+Recipe from Good Food magazine, February 2016
+Comments, questions and tips
+Overall rating
+Get 1 year of Good Food All Access + a free air fryer for £59.99
+Explore our recipe app
+Subscribe now and get access to exclusive recipes, meal plans, podcasts and more.
+All Access subscription: Magazine & App
+Good Food magazine and our award winning app in one simple subscription. Now from £3.17 per month
+Podcast
+Our food team shares tips, techniques and their all-time favourite recipes in our lively weekly podcast.

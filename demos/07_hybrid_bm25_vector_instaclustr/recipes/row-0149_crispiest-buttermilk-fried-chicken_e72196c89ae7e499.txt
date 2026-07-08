@@ -1,0 +1,125 @@
+Crispiest Buttermilk Fried Chicken
+==================================
+
+Recipe Metadata
+---------------
+Recipe ID: e72196c89ae7e499
+CSV row number: 149
+Recipe name: Crispiest Buttermilk Fried Chicken
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/272370/crispiest-buttermilk-fried-chicken
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00ed605ebd7aad9d59fc63ea64b601fa0d5fc003325a3974207dd0c20bee802a/21057918.jpg
+Servings: 8
+Calories: 10263.21
+Diet labels: Low-Carb
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Crispiest Buttermilk Fried Chicken
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/272370/crispiest-buttermilk-fried-chicken
+servings: 8
+calories: 10263.20549999941
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00ed605ebd7aad9d59fc63ea64b601fa0d5fc003325a3974207dd0c20bee802a/21057918.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Crispiest Buttermilk Fried Chicken
+
+Description: This is the crispiest fried chicken that you will prepare. It features a buttermilk and flour-based cayenne coating, deep fried to crispy perfection, perfect for picnics.
+
+Recipe category: ['Dinner']
+
+Recipe cuisine: ['American']
+
+Yield: ['8', '8 chicken legs']
+
+Prep time: PT15M
+
+Cook time: PT15M
+
+Total time: PT150M
+
+Ingredients:
+- cold water to cover
+- 0.25 cup kosher salt
+- 8 skinless chicken legs
+- 3 cups all-purpose flour, divided
+- 1 cup buttermilk
+- 1.25 tablespoons baking powder
+- 2 teaspoons salt
+- 2 teaspoons cayenne pepper
+- 1.5 cups canola oil, for frying
+
+Instructions:
+1. Mix cold water and kosher salt together in a large bowl until salt dissolves. Add chicken legs. Cover entire bowl with plastic wrap and refrigerate for 2 hours.
+2. Remove bowl from the refrigerator; drain and pat chicken dry with paper towels.
+3. Place chicken legs in a plastic bag with 1 cup all-purpose flour and shake to coat.
+4. Pour buttermilk into a bowl. Mix remaining flour, baking powder, salt, and cayenne in another bowl. Dip each chicken leg in buttermilk; move to flour mixture and coat well.
+5. Heat canola oil in a deep-fryer to 350 degrees F (175 degrees C).
+6. Fry chicken legs in hot oil in batches until no longer pink at the bone and the juices run clear, about 15 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C).
+
+Visible page text:
+Recipes
+Side Dish
+Sauces and Condiments
+Brines
+Crispiest Buttermilk Fried Chicken
+This is without a doubt the crispiest chicken you will ever prepare. I have made it time and time again to wonderful reviews. We love Popeyes® chicken and this puts it to shame. This is great for family picnics and so much cheaper than buying take-out. Yummy!
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 8 servings
+cold water to cover
+¼ cup kosher salt
+8 skinless chicken legs
+3 cups all-purpose flour, divided
+1 cup buttermilk
+1 ¼ tablespoons baking powder
+2 teaspoons salt
+2 teaspoons cayenne pepper
+1 ½ cups canola oil, for frying
+Directions
+Mix cold water and kosher salt together in a large bowl until salt dissolves. Add chicken legs. Cover entire bowl with plastic wrap and refrigerate for 2 hours.
+Remove bowl from the refrigerator; drain and pat chicken dry with paper towels.
+Place chicken legs in a plastic bag with 1 cup all-purpose flour and shake to coat.
+Pour buttermilk into a bowl. Mix remaining flour, baking powder, salt, and cayenne in another bowl. Dip each chicken leg in buttermilk; move to flour mixture and coat well.
+Heat canola oil in a deep-fryer to 350 degrees F (175 degrees C).
+Fry chicken legs in hot oil in batches until no longer pink at the bone and the juices run clear, about 15 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C).
+Cook's Note:
+Use black pepper instead of cayenne if you don't want a spicy coating.
+Editor's Notes:
+We have determined the nutritional value of oil for frying based on a retention value of 10% after cooking. Amount will vary depending on cooking time and temperature, ingredient density, and specific type of oil used.
+Nutrition data for this recipe includes the full amount of brine ingredients. The actual amount of brine consumed will vary.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Crispiest Buttermilk Fried Chicken
+1
+Most-Saved Recipes Like This
+Triple-Dipped Fried Chicken 994 Ratings 45 mins Save
+Chef John's Buttermilk Fried Chicken 506 Ratings 6 hrs 50 mins Save
+Famous Butter Chicken 3,554 Ratings 55 mins Save
+Crispy Fried Chicken 766 Ratings 1 hr 20 mins Save
+Chicken Fried Chicken 2,451 Ratings 45 mins Save
+Southern-Style Buttermilk Fried Chicken 154 Ratings 3 hrs Save
+Breaded Chicken Fingers 1,132 Ratings 2 hrs 30 mins Save
+Oven Fried Chicken III 1,144 Ratings Save
+Crispy Southern Fried Chicken 176 Ratings 30 mins Save
+Chef John's Buttermilk Biscuits 1,728 Ratings 35 mins Save
+You’ll Also Love

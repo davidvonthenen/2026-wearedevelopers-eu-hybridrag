@@ -1,0 +1,135 @@
+Chicken Cordon Bleu
+===================
+
+Recipe Metadata
+---------------
+Recipe ID: 513c76505c17cf48
+CSV row number: 227
+Recipe name: Chicken Cordon Bleu
+Source: Skinnytaste
+URL: http://www.skinnytaste.com/2009/03/chicken-cordon-bleu.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/016ac8bd4da4a98f0602ab1b21e505d5d02cf2b7d99208597c9e8de4306c2da5/21054034.jpg
+Servings: 12
+Calories: 3157.00
+Diet labels: Low-Carb
+Health labels: Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: french
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Chicken Cordon Bleu
+source: Skinnytaste
+url: http://www.skinnytaste.com/2009/03/chicken-cordon-bleu.html
+servings: 12
+calories: 3157.000652009031
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/016ac8bd4da4a98f0602ab1b21e505d5d02cf2b7d99208597c9e8de4306c2da5/21054034.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["french"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Baked Chicken Cordon Bleu
+
+Description: This healthy Chicken Cordon Bleu recipe is a family favorite! Stuffed with ham and cheese then breaded and baked in the oven or made in the air fryer.
+
+Recipe category: ['Dinner']
+
+Recipe cuisine: ['American']
+
+Yield: ['6', '6 servings']
+
+Prep time: PT10M
+
+Cook time: PT25M
+
+Total time: PT35M
+
+Ingredients:
+- cooking spray
+- 12 thin sliced (36 oz total skinless boneless chicken breasts, 3 oz each)
+- salt and fresh cracked pepper
+- 1 large egg
+- 2 large egg whites
+- 1 tbsp water
+- 1/2 cup seasoned breadcrumbs
+- 1/4 cup grated parmesan cheese
+- 5 oz 6 slices thinly sliced lean deli ham, sliced in half
+- 6 slices 4.4 oz Sargento reduced fat Swiss cheese, cut in half
+
+Instructions:
+1. Preheat oven to 450°F. Spray a large non-stick baking sheet with cooking spray.
+2. Wash and dry the chicken cutlets; lightly pound the chicken to make thinner and lightly season with salt and black pepper.
+3. Lay the chicken on a working surface and place a slice of ham on top of the chicken, then the cheese and roll, setting them aside seam side down.
+4. In a medium bowl, whisk eggs and egg whites along with water to make an egg wash.
+5. In another medium bowl, combine breadcrumbs and parmesan cheese.
+6. Dip the chicken into the egg wash, then into the breadcrumbs.
+7. Place chicken onto the baking sheet seem side down. Spray the top of the chicken with more cooking spray and bake about 25 minutes, or until until cooked.
+8. Follow steps above 1 through 6.
+9. Preheat the air fryer to 400F. Spray both sides of the chicken with oil. Cook, in two batches 12 minutes turning halfway.
+
+Visible page text:
+AF
+FM
+KF
+Q
+This healthy Chicken Cordon Bleu recipe is a family favorite! Stuffed with ham and cheese then breaded and baked in the oven or made in the air fryer .
+Chicken Cordon Bleu
+Chicken Cordon Bleu is usually stuffed with ham and Swiss cheese, but you can use any cheese your family likes such as mozzarella or Gruyere. For a quicker version, you may also like this Skillet Chicken Cordon Bleu which doesn’t require rolling or breading.
+When I was a kid, my mom took culinary classes in college and learned to make this dish. When she made it for dinner, I loved it so much I asked her to make it every week. She was taught to deep fry them, but to be honest, you don’t need to. If you bake them in the oven or in the air fryer, they come out golden on the outside, and juicy on the inside, without all the mess and fat.
+Previously my instructions for this recipe called for cutting the chicken breasts into thin cutlets. I re-worked this recipe using thin pre-sliced chicken cutlets instead. If you’re a pro at slicing your own chicken cutlets, feel free to do it yourself, you will cut the cost in half.
+Toothpicks to hold the chicken closed on the ends are not required to make this, I personally prefer not to use them. A little cheese may ooze out, but that’s OK! If you want to use the toothpicks, totally up to you but it’s so much quicker and easier without.
+How To Make Chicken Cordon Bleu
+More Stuffed Chicken Breast Recipes
+Chicken Rollatini Parmesan
+Chicken Rollatini with Proscuitto and Cheese
+Broccoli and Cheese Chicken Roll Ups
+Zucchini and Mozzarella Stuffed Chicken
+Baked Chicken Cordon Bleu
+Ingredients
+▢ cooking spray
+▢ 12 thin sliced , 36 oz total skinless boneless chicken breasts, 3 oz each
+▢ salt and fresh cracked pepper
+▢ 1 large egg
+▢ 2 large egg whites
+▢ 1 tbsp water
+▢ 1/2 cup seasoned breadcrumbs
+▢ 1/4 cup grated parmesan cheese
+▢ 5 oz 6 slices thinly sliced lean deli ham, sliced in half
+▢ 6 slices 4.4 oz Sargento reduced fat Swiss cheese, cut in half
+Instructions
+Preheat oven to 450°F. Spray a large non-stick baking sheet with cooking spray.
+Wash and dry the chicken cutlets; lightly pound the chicken to make thinner and lightly season with salt and black pepper.
+Lay the chicken on a working surface and place a slice of ham on top of the chicken, then the cheese and roll, setting them aside seam side down.
+In a medium bowl, whisk eggs and egg whites along with water to make an egg wash.
+In another medium bowl, combine breadcrumbs and parmesan cheese.
+Dip the chicken into the egg wash, then into the breadcrumbs.
+Place chicken onto the baking sheet seem side down. Spray the top of the chicken with more cooking spray and bake about 25 minutes, or until until cooked.
+Air Fryer Directions
+Follow steps above 1 through 6.
+Preheat the air fryer to 400F. Spray both sides of the chicken with oil. Cook, in two batches 12 minutes turning halfway.
+Last Step:
+Video
+Nutrition
+Did You Make This Recipe?
+Post a pic and mention @skinnytaste or tag #skinnytaste !
+Categories:
+Air Fryer Recipes
+Chicken Recipes
+Dinner Ideas
+Freezer Meals
+Kid Friendly
+Recipes
+Under 30 Minutes
+Weight Watchers – WW Recipes

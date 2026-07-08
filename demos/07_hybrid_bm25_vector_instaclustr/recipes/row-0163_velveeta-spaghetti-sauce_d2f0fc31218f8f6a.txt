@@ -1,0 +1,93 @@
+Velveeta Spaghetti Sauce
+========================
+
+Recipe Metadata
+---------------
+Recipe ID: d2f0fc31218f8f6a
+CSV row number: 163
+Recipe name: Velveeta Spaghetti Sauce
+Source: tastykitchen.com
+URL: https://tastykitchen.com/recipes/main-courses/velveeta-spaghetti-sauce/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00ff8bad3179cc8dd797f2a6598058136d2c03bf4a0a307f8774eb9d76e72ca2/21107718.jpg
+Servings: 8
+Calories: 7175.06
+Diet labels: Balanced, High-Fiber
+Health labels: Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Velveeta Spaghetti Sauce
+source: tastykitchen.com
+url: https://tastykitchen.com/recipes/main-courses/velveeta-spaghetti-sauce/
+servings: 8
+calories: 7175.059884786951
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00ff8bad3179cc8dd797f2a6598058136d2c03bf4a0a307f8774eb9d76e72ca2/21107718.jpg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Velveeta Spaghetti Sauce
+Print
+Leave a comment
+One Review
+Print Options
+Description
+I got this recipe from a friend 15 years ago and have been making it this way ever since. My daughter refuses to eat any other sauce and my brother-in-law as been known to eat a bowl of just the sauce! If you are watching your waistline, the sauce is equally delicious without the cheese! Feel free to play with the ingredients!
+Ingredients
+2 pounds Ground Beef
+1 whole Onion, Chopped
+½ whole Green Pepper, Chopped
+1 jar 26 Oz. Of Your Favorite Spaghetti Sauce
+4 cans 10 3/4 Oz. Of Condensed Tomato Soup
+1 block Velveeta Cheese (1 Pound Block)
+2 dashes White Vinegar
+3 Tablespoons Brown Sugar
+1 teaspoon Dried Basil
+1 teaspoon Dried Oregano
+1 dash Crushed Red Pepper Flakes
+1 teaspoon Seasoned Salt
+1 whole Bay Leaf
+3 cloves Garlic, Minced Or Garlic Powder To Taste
+1 pound Spaghetti Noodles, Or How Ever Much You Want!
+Preparation
+Brown ground beef in large pot along with diced onion and green pepper. Once meat is browned and veggies are softened, drain grease and return the mixture to the pot. Add rest of ingredients except spaghetti noodles and let simmer for a couple of hours, stirring occasionally. Keep tasting and adjusting seasonings to your taste. I never measure my spices so I started you off with a teaspoon. Keep adding until your taste buds sing and dance! The Velveeta will melt, making the sauce smooth and creamy. The vinegar and brown sugar will give the sauce a nice sweet tang which really flips my hair out! I usually make it with 2 cans of soup and no cheese on a regular day and then use all 4 cans of soup and the cheese for special occasions!
+Cook pasta according to package directions. Drain and serve with the sauce, lots of grated parmesan cheese, and a loaf of crusty bread. Chill leftovers and eat again the next day. Marvel at the awesomeness of the sauce since it is even better the next day.
+More Recipes from dakatw
+Chocolate Truffle Cupcakes
+Kettle Corn
+Find dakatw elsewhere on the web.
+Website
+Facebook
+No Comments
+Leave a Comment!
+You must be logged in to post a comment.
+No Reviews
+Write a Review
+You must be logged in to post a review.
+Food Gifts
+View Recipe
+Slow Cooker Season!
+Related Recipes
+Prep: 5 mins Cook: 10 mins
+Serves: 4 Level: Easy
+Share f a e
+Prep: 10 mins Cook: 15 mins
+Prep: 10 mins Cook: 20 mins
+Prep: 35 mins Cook: 1 hr 30 mins
+Serves: 12 Level: Easy
+Prep: 15 mins Cook: 15 mins
+Serves: 8 Level: Easy

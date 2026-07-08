@@ -1,0 +1,97 @@
+Moroccan-Style Tilapia With Cumin, Mango and Cilantro Recipe
+============================================================
+
+Recipe Metadata
+---------------
+Recipe ID: 2fd2146e9ad726c9
+CSV row number: 341
+Recipe name: Moroccan-Style Tilapia With Cumin, Mango and Cilantro Recipe
+Source: food.com
+URL: http://www.food.com/recipe/moroccan-style-tilapia-with-cumin-mango-and-cilantro-recipe-503619
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02232c95bf8f5ff507d426553476acbdd5aa0b0972aed2d7651d8778976fcf57/21006653.jpg
+Servings: 4
+Calories: 892.65
+Diet labels: High-Protein
+Health labels: Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: middle eastern
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Moroccan-Style Tilapia With Cumin, Mango and Cilantro Recipe
+source: food.com
+url: http://www.food.com/recipe/moroccan-style-tilapia-with-cumin-mango-and-cilantro-recipe-503619
+servings: 4
+calories: 892.6488439999999
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02232c95bf8f5ff507d426553476acbdd5aa0b0972aed2d7651d8778976fcf57/21006653.jpg
+diet_labels: ["High-Protein"]
+health_labels: ["Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["middle eastern"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Moroccan-Style Tilapia With Cumin, Mango and Cilantro Recipe
+
+Description: Make and share this Moroccan-Style Tilapia With Cumin, Mango and Cilantro Recipe recipe from Food.com.
+
+Recipe category: Moroccan
+
+Yield: 4 serving(s)
+
+Prep time: PT10M
+
+Cook time: PT10M
+
+Total time: PT20M
+
+Ingredients:
+- 4 (5 ounce) tilapia fillets
+- salt & fresh ground pepper
+- 2 teaspoons ground cumin
+- 2 teaspoons ground coriander
+- 1 tablespoon olive oil
+- 1 mango, ripe and diced
+- 1/4 cup cilantro leaf, fresh and chopped
+
+Instructions:
+1. Season both sides of tilapia fillets with salt and black pepper.
+2. Rub cumin and coriander all over both sides of fillets.
+3. Heat oil in a large skillet over medium heat. Add tilapia fillets and cook 3 to 5 minutes per side, until fish is fork-tender.
+4. Meanwhile, in a small bowl, combine mango and cilantro.
+5. Top tilapia with mango mixture just before serving.
+
+Visible page text:
+Moroccan-Style Tilapia With Cumin, Mango and Cilantro Recipe
+ingredients
+4 (5 ounce) tilapia fillets
+salt & fresh ground pepper
+2 teaspoons ground cumin
+2 teaspoons ground coriander
+1 tablespoon olive oil
+1 mango , ripe and diced
+1 ⁄ 4 cup cilantro leaf , fresh and chopped
+directions
+Season both sides of tilapia fillets with salt and black pepper.
+Rub cumin and coriander all over both sides of fillets.
+Heat oil in a large skillet over medium heat. Add tilapia fillets and cook 3 to 5 minutes per side, until fish is fork-tender.
+Meanwhile, in a small bowl, combine mango and cilantro.
+Top tilapia with mango mixture just before serving.
+Questions & Replies
+Reviews
+The mango/cilantro was great but I overcooked the fish. The spices did not stick to the fish well; maybe next time put the spices in the oil. Made for ZWT9. sheepdoc Reply
+RECIPE SUBMITTED BY
+3 Followers
+155 Recipes
+9 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

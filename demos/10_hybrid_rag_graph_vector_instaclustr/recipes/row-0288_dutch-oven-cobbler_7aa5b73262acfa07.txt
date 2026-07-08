@@ -1,0 +1,107 @@
+Dutch Oven Cobbler
+==================
+
+Recipe Metadata
+---------------
+Recipe ID: 7aa5b73262acfa07
+CSV row number: 288
+Recipe name: Dutch Oven Cobbler
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/dutch-oven-cobbler-recipe-1943019
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01cec104a29f7de688689f4eaef9892db8253b0fb5995d7319710ed52fddeee8/21119196.jpg
+Servings: 8
+Calories: 4402.87
+Diet labels: none listed
+Health labels: Vegetarian, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american, central europe
+Meal type: lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Dutch Oven Cobbler
+source: Food Network
+url: https://www.foodnetwork.com/recipes/dutch-oven-cobbler-recipe-1943019
+servings: 8
+calories: 4402.872
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01cec104a29f7de688689f4eaef9892db8253b0fb5995d7319710ed52fddeee8/21119196.jpg
+diet_labels: []
+health_labels: ["Vegetarian","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american","central europe"]
+meal_type: ["lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Dutch Oven Cobbler
+
+Recipe category: dessert
+
+Yield: 8 servings
+
+Prep time: P0Y0M0DT0H12M0.000S
+
+Cook time: P0Y0M0DT0H42M0.000S
+
+Total time: P0Y0M0DT0H54M0.000S
+
+Ingredients:
+- 1 cup butter (2 sticks)
+- 2 cups sugar
+- 1 1/2 cups all-purpose flour
+- 2 teaspoons baking powder
+- 1/2 teaspoon salt
+- 3/4 cup evaporated milk
+- 3/4 cup water
+- 4 cups sweetened canned fruit, with juice
+
+Instructions:
+1. Preheat the oven to 350 degrees F.
+2. Melt butter in a 12-inch Dutch oven over low heat. Mix sugar, flour, baking powder, and salt in a medium bowl. Stir in milk and water gradually, mixing just until moistened. Pour into Dutch oven. Pour fruit over top. Cover with a lid, place coals on top, and cook for 30 to 40 minutes, or until batter is lightly browned on top. Check to make sure that batter is fully cooked through. Remove from heat, let cool slightly, and then serve warm.
+
+Visible page text:
+Home
+Recipes
+Dessert
+Dutch Oven Cobbler
+Level: Easy
+Total: 54 min
+Prep: 12 min
+Cook: 42 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+1 cup butter (2 sticks)
+2 cups sugar
+1 1/2 cups all-purpose flour
+2 teaspoons baking powder
+1/2 teaspoon salt
+3/4 cup evaporated milk
+3/4 cup water
+4 cups sweetened canned fruit, with juice
+Preheat the oven to 350 degrees F.
+Melt butter in a 12-inch Dutch oven over low heat. Mix sugar, flour, baking powder, and salt in a medium bowl. Stir in milk and water gradually, mixing just until moistened. Pour into Dutch oven. Pour fruit over top. Cover with a lid, place coals on top, and cook for 30 to 40 minutes, or until batter is lightly browned on top. Check to make sure that batter is fully cooked through. Remove from heat, let cool slightly, and then serve warm.
+A viewer or guest of the show, who may not be a professional cook, provided this recipe. It has not been tested for home use.
+Categories:
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+How Do You Make Peach Cobbler?
+Peach Cobbler with Frozen Peaches Recipe
+Aretha Franklin's Peach Cobbler Recipe
+Buttermilk Peach Cobbler Recipe
+Fresh Peach Cobbler Recipe
+Peach Cobbler Recipe

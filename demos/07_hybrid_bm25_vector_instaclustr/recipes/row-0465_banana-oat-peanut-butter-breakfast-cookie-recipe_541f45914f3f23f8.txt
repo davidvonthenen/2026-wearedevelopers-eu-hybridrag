@@ -1,0 +1,165 @@
+Banana Oat Peanut Butter Breakfast Cookie Recipe
+================================================
+
+Recipe Metadata
+---------------
+Recipe ID: 541f45914f3f23f8
+CSV row number: 465
+Recipe name: Banana Oat Peanut Butter Breakfast Cookie Recipe
+Source: Group Recipes
+URL: http://www.grouprecipes.com/111288/banana-oat-peanut-butter-breakfast-cookie.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/03013298b7debf80ca4679f2458799c86d64ef74931f1e021e893fbd1ef26c8f/21098471.jpg
+Servings: 12
+Calories: 2628.26
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Egg-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: breakfast
+Dish type: biscuits and cookies
+
+Original CSV Fields
+-------------------
+recipe_name: Banana Oat Peanut Butter Breakfast Cookie Recipe
+source: Group Recipes
+url: http://www.grouprecipes.com/111288/banana-oat-peanut-butter-breakfast-cookie.html
+servings: 12
+calories: 2628.255778
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/03013298b7debf80ca4679f2458799c86d64ef74931f1e021e893fbd1ef26c8f/21098471.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Egg-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["biscuits and cookies"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Categories Search Your Bookmarks Upload a Recipe
+Categories
+Search
+Your Bookmarks
+Upload a Recipe
+No idea what to search for? Start browsing till you find something.
+gourmet fish recipes
+crockpot breakfast recipe
+bourbon salmon recipe
+grilled stuffed pork loin
+stuffing
+homemade carrot cake
+bottom round roast marinade
+potluck mexican dishes
+uncooked playdough
+calories in chocolate cake
+Banana Oat Peanut Butter Breakfast Cookie Recipe
+Banana Oat Peanut Butter Breakfast Cookie
+Add yours
+14 minutes to make
+Serves 12
+This lil "cookie" is fabulous! Healthy, easily substitutable, add nuts, apples, dried fruits, whatever tickles your fancy. I did find this in the Heart Healthy Magazine, which I LOVE, so it's heart healthy as well. Read more Buen Provecho! See less
+breakfast
+oats
+cranberries
+banana
+peanut
+butter
+healthy
+bake
+save Add tags (comma separated) to categorize your bookmark. Save Feel free to use any of the below tags. Click one to add it. breakfast oats cranberries banana peanut butter healthy bake
+planner Add this recipe to your weekly planner Fri Sat Sun Mon Tue Wed Thu Schedule your weekly meals and get auto-generated shopping lists. or go to planner
+Fri
+Sat
+Sun
+Mon
+Tue
+Wed
+Thu
+Schedule your weekly meals and get auto-generated shopping lists.
+print
+email Email to Send
+groc. list Add items to your shopping list Nonstick cooking spray 1 large banana, mashed (1/2 cup) 1/2 cup chunky natural peanut butter (unsalted and unsweetened) or regular chunky peanut butter 1/2 cup honey 1 teaspoon vanilla 1 cup rolled oats 1/2 cup whole wheat flour 1/4 cup nonfat dry milk powder 2 teaspoons ground cinnamon 1/4 teaspoon baking soda 1 cup dried cranberries or raisins go view your shopping list
+Nonstick cooking spray
+1 large banana, mashed (1/2 cup)
+1/2 cup chunky natural peanut butter (unsalted and unsweetened) or regular chunky peanut butter
+1/2 cup honey
+1 teaspoon vanilla
+1 cup rolled oats
+1/2 cup whole wheat flour
+1/4 cup nonfat dry milk powder
+2 teaspoons ground cinnamon
+1/4 teaspoon baking soda
+1 cup dried cranberries or raisins
+Ingredients
+shopping list
+nonstick cooking spray shopping list
+1 large banana , mashed (1/2 cup) shopping list
+1/2 cup chunky natural peanut butter (unsalted and unsweetened) or regular chunky peanut butter shopping list
+1/2 cup honey shopping list
+1 teaspoon vanilla shopping list
+1 cup rolled oats shopping list
+1/2 cup whole wheat flour shopping list
+1/4 cup nonfat dry milk powder shopping list
+2 teaspoons ground cinnamon shopping list
+1/4 teaspoon baking soda shopping list
+1 cup dried cranberries or raisins shopping list
+How to make it
+Preheat oven to 350 degrees F.
+Lightly coat two cookie sheets with cooking spray; set aside.
+In a large bowl, stir together banana, peanut butter, honey, and vanilla.
+In a small bowl, combine oats, flour, milk powder, cinnamon, and baking soda.
+Stir the oat mixture into the banana mixture until combined.
+Stir in dried cranberries.
+Using a 1/4-cup measure, drop mounds of dough 3 inches apart on prepared baking sheets. With a thin metal or small plastic spatula dipped in water, flatten and spread each mound of dough to a 2 3/4-inch round, about 1/2-inch thick.
+Once baked, each cookie will be about 3-1/2 to 4 inches in diameter.
+Bake, one sheet at a time, for 14 to 16 minutes or until browned.
+Transfer to wire racks to cool completely. Store in an airtight container or resealable plastic bag for up to 3 days or freeze for up to 2 months; thaw before serving.
+karenjowolf Nowhere, Us
+reviews Anycity, Anystate
+Sands368 Nowhere, Us
+jschmidt Nowhere, Us
+essentialingredients Kansas City, Missouri
+otterpond Windermere, FL
+karlyn255 Ypsilanti, MI
+cuzpat Sikeston, Mo
+aussie_meat_pie My Kitchen, AU
+jett2whit Union City, GA
+Plus 2 others From around the world!
+All Comments
+Your Comments
+" It was good " pointsevenout ate it and said... Sweet enough for no complaints. How healthy is it if you eat them all? See Banana Oat Peanut Butter Breakfast Cookie By Crazycookinchick for more. Was this review helpful? Yes Flag
+" It was excellent " otterpond ate it and said... I made a batch of these with a couple of small changes for stuff in my kitchen. I used two bananas because they needed using so I added additional dry ingredients including 1/2c ground almond and 1/4 cup soya powder. I only had 1/4c of honey left so I supplemented with 1/4c of turbinado sugar. The cookies came out really great but a bit darker than shown in your photo. I have attached a photo of how it worked for me. Thanks my husband loves them :) Wish they were on my diet because i could snarf down 1/2 dozen in no time. Nutrition Info for how I made mine here ==> http://www.livestrong.com/recipes/nutty-banana-oatmeal-cookies/ Was this review helpful? Yes Flag
+" It was excellent " otterpond ate it and said... Off to the kitchen to make up a batch. I found this is how to get my Mr. To eat breakfast. Thanks for putting this together. Was this review helpful? Yes Flag
+" It was excellent " cuzpat ate it and said... Sound good! Was this review helpful? Yes Flag
+" It was excellent " jett2whit ate it and said... Yum - thanks for posting this :) Was this review helpful? Yes Flag
+The Cook
+The Rating
+Yum - thanks for posting this :) jett2whit in Union City loved it
+Yum - thanks for posting this :)
+Sound good! cuzpat in Sikeston loved it
+Sound good!
+Off to the kitchen to make up a batch. I found this is how to get my Mr. To eat breakfast. Thanks for putting this together. otterpond in Windermere loved it
+Off to the kitchen to make up a batch. I found this is how to get my Mr. To eat breakfast. Thanks for putting this together.
+The Groups
+Not added to any groups yet!
+My Stuff My Home My Bookmarks Shopping List Weekly Planner
+My Home
+My Bookmarks
+Weekly Planner
+Jump To Browse Categories Search
+Browse Categories
+Help Help Forum FAQ
+Help Forum
+FAQ
+Search Inspiration Terms of Service & Privacy Contact
+Search Inspiration
+Terms of Service & Privacy
+Contact
+Take Note We will not respond to member emails. Use the Help Forum for that.
+If you have a business development or DMCA inquiry, Click Here .
+Advertising on Group Recipes is sold by SheKnows.com. You can contact the sales team for more info.
+while I look at others.

@@ -1,0 +1,114 @@
+Slow Cooker Mashed Sweet Potatoes
+=================================
+
+Recipe Metadata
+---------------
+Recipe ID: 28d2ff3756b1262e
+CSV row number: 211
+Recipe name: Slow Cooker Mashed Sweet Potatoes
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/278120/slow-cooker-mashed-sweet-potatoes
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/014e5fe14120bef7d10f0507b6a91b26e937794bfa366a8f443b5de5878e8198/21125191.jpg
+Servings: 6
+Calories: 1498.04
+Diet labels: High-Fiber
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Slow Cooker Mashed Sweet Potatoes
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/278120/slow-cooker-mashed-sweet-potatoes
+servings: 6
+calories: 1498.035065
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/014e5fe14120bef7d10f0507b6a91b26e937794bfa366a8f443b5de5878e8198/21125191.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Slow Cooker Mashed Sweet Potatoes
+
+Description: This is an easy recipe for creamy, tasty, sage-flavored mashed sweet potatoes that are cooked to perfection in your slow cooker.
+
+Recipe category: ['Dinner', 'Side Dish']
+
+Recipe cuisine: ['American']
+
+Yield: 6
+
+Prep time: PT20M
+
+Cook time: PT90M
+
+Total time: PT110M
+
+Ingredients:
+- 3 pounds sweet potatoes, peeled and cut in 1-inch chunks
+- water to cover
+- 3 tablespoons unsalted butter
+- 2 tablespoons milk
+- 1 teaspoon dried sage
+- 1 teaspoon salt
+- 0.25 teaspoon pepper
+
+Instructions:
+1. Place sweet potatoes in a slow cooker and add water to cover.
+2. Cook on High until potatoes are tender, 1 hour and 30 minutes to 2 hours.
+3. Place potatoes in a colander until well drained, then return to the slow cooker. Add butter, milk, sage, salt, and pepper. Mash with a potato masher until potatoes are smooth.
+
+Visible page text:
+Recipes
+Side Dish
+Vegetables
+Sweet Potatoes
+Slow Cooker Mashed Sweet Potatoes
+Slow cookers are a great way to free up your stove or valuable kitchen space because you can plug them in anywhere. This is a one-pot side dish and an easy way to make super creamy, tasty, mashed sweet potatoes.
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 6 servings
+3 pounds sweet potatoes, peeled and cut in 1-inch chunks
+water to cover
+3 tablespoons unsalted butter
+2 tablespoons milk
+1 teaspoon dried sage
+1 teaspoon salt
+¼ teaspoon pepper
+Directions
+Place sweet potatoes in a slow cooker and add water to cover.
+Cook on High until potatoes are tender, 1 hour and 30 minutes to 2 hours.
+Place potatoes in a colander until well drained, then return to the slow cooker. Add butter, milk, sage, salt, and pepper. Mash with a potato masher until potatoes are smooth.
+Cook's Notes:
+For more richness, you can substitute half-and-half or heavy cream for milk.
+Slow cooker temperatures vary, so check occasionally for doneness. I use the slow cook function on my Instant Pot, and they're done in about 1 hour and 15 minutes.
+This is a basic sweet potato recipe, but if your taste preference leans toward sweet and spicy, feel free to add those spices, maple syrup, and maybe even top with chopped pecans.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Slow Cooker Mashed Sweet Potatoes
+1
+Most-Saved Recipes Like This
+Slow Cooker Mashed Potatoes 1,660 Ratings 2 hrs 30 mins Save
+Slow Cooker Creamy Potato Soup 746 Ratings 7 hrs Save
+Slow Cooker, Easy Baked Potato Soup 651 Ratings 7 hrs 30 mins Save
+Slow Cooker Scalloped Potatoes and Ham 743 Ratings 4 hrs 20 mins Save
+Slow Cooker Apple Crisp 423 Ratings 3 hrs 30 mins Save
+Mashed Sweet Potatoes 422 Ratings 40 mins Save
+Roasted Garlic Mashed Potatoes 445 Ratings 1 hr 20 mins Save
+Slow Cooker Sweet-and-Sour Pot Roast 168 Ratings 5 hrs 35 mins Save
+Easy Slow Cooker Ham 339 Ratings 10 hrs 15 mins Save
+Slow Cooker Pork Loin Roast with Brown Sugar and Sweet Potatoes Recipe 88 Ratings 6 hrs 10 mins Save
+You’ll Also Love

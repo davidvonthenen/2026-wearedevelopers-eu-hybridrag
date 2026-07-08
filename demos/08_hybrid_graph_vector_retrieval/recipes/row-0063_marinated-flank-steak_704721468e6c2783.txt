@@ -1,0 +1,144 @@
+Marinated Flank Steak
+=====================
+
+Recipe Metadata
+---------------
+Recipe ID: 704721468e6c2783
+CSV row number: 63
+Recipe name: Marinated Flank Steak
+Source: BigOven
+URL: https://www.bigoven.com/recipe/marinated-flank-steak/1035992
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0051775412418bd096b863b5c86e498c703396d6c990c7c985acf392053b8351/21099709.jpg
+Servings: 6
+Calories: 1688.19
+Diet labels: Low-Sodium
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Marinated Flank Steak
+source: BigOven
+url: https://www.bigoven.com/recipe/marinated-flank-steak/1035992
+servings: 6
+calories: 1688.186
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0051775412418bd096b863b5c86e498c703396d6c990c7c985acf392053b8351/21099709.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Marinated Flank Steak
+
+Description: Marinated Flank Steak (Margaret Price recipe).
+
+Recipe category: Main Dish
+
+Recipe cuisine: American
+
+Yield: 6
+
+Prep time: PT20M
+
+Cook time: PT23H40M
+
+Total time: PT30M
+
+Ingredients:
+- 2 Each Flank Steaks About 4 lbs
+- 1 Cup Chili sauce or catsup
+- 1/2 Cup Red Wine Vinegar
+- 1 cup Burgundy Wine
+- 2 tablespoons Worcestershire sauce
+- 2 tablespoons Soy Sauce
+- 2 tablespoons Grated yellow/white onion or use onion powder
+- 1 teaspoon garlic powder
+- 2 teaspoons Mustard (prepared)
+- 1 teaspoon salt
+- 1/4 cup Olive oil
+
+Instructions:
+1. This steak is best prepared by marinating at least 6 hours - but preferably overnight. 1) Throughly mix marinade ingredients. 2) Pour a cup or so into the bottom of a 9x13 baking dish. Then add one flank steak and spoon marinade over it. Note: to tenderize each piece of steak a bit take a fork and force it into the meat on both sides repeatedly. 3) Pour some marinade over that, then add the second flank steak. 4) Pour the remainder of the marinade over the steaks. 5) Make sure that all parts of steaks are being marinated. 6) Cover with foil or plastic wrap and put in refrigerator. 7) Marinate for 6-24 hours, rotating steaks from top to bottom and flipping over at least 3 times during the marinating period. Grilling (this can also be broiled in an oven) This dish is served over rice, so get that started and coordinate finish time with the steak. 1) Preheat the grill or broiler. You want to sear this steak, not bake it. So very high heat. It will cook very quickly as it is thin and lean. 2) Do not overcook or the meat will toughen and lose flavor. The ends will be more well done than the middle, so those who like more well done can eat those portions. 3) Remove the steaks from the baking dish, scraping off the marinade back into the baking dish. 4) Pour the marinade into a small sauce pan and bring it to a boil, then back off so it simmers for at least 10 minutes. This will kill any bacteria from the raw meat. At the end of the cooking time check seasoning and adjust. 5) While the marinade is simmering, put the steak on the preheated grill and follow the instructions for grilling or broiling steak provided with that equipment. 6) Typically you will want to cook each side for 2-4 minutes depending on cooking circumstances. 7) Once done, remove to a meat carving surface and let sit for several minutes for the juices to set. 8) Carve against the grain (not lengthwise) into 1/2 - 3/4 inch strips. 9) Serve on top of rice 10) Ladle several tablespoons or more of cooked marinade over the steak and rice. Bon Appetit!
+
+Visible page text:
+Recipes
+Main Dish
+Meat - Steaks and Chops
+Flank Steak
+Marinated Flank Steak
+WANT TO TRY
+FAVORITE
+MADE
+CUSTOM FOLDER
+Marinated Flank Steak (Margaret Price recipe).
+Still searching for what to cook ?
+Find the most delicious recipes here
+Recipe
+Text
+Photos
+Nutr Nutrition
+Notes
+INGREDIENTS
+2 Each Flank Steak s ; About 4 lbs
+1 Cup Chili sauce or catsup
+1/2 Cup Red Wine Vinegar
+1 cup Burgundy Wine
+2 tablespoons Worcestershire sauce
+2 tablespoons Soy Sauce
+2 tablespoons Grate d yellow/white onion ; or use onion powder
+1 teaspoon garlic powder
+2 teaspoons Mustard (prepared)
+1 teaspoon salt
+1/4 cup Olive oil
+Copy and Customize
+About BigOven Pro
+INSTRUCTIONS
+This steak is best prepared by marinating at least 6 hours - but preferably overnight.
+1) Throughly mix marinade ingredients.
+2) Pour a cup or so into the bottom of a 9x13 baking dish. Then add one flank steak and spoon marinade over it. Note: to tenderize each piece of steak a bit take a fork and force it into the meat on both sides repeatedly.
+3) Pour some marinade over that, then add the second flank steak.
+4) Pour the remainder of the marinade over the steaks.
+5) Make sure that all parts of steaks are being marinated.
+6) Cover with foil or plastic wrap and put in refrigerator.
+7) Marinate for 6-24 hours, rotating steaks from top to bottom and flipping over at least 3 times during the marinating period.
+Grilling (this can also be broiled in an oven)
+This dish is served over rice, so get that started and coordinate finish time with the steak.
+1) Preheat the grill or broiler. You want to sear this steak, not bake it. So very high heat. It will cook very quickly as it is thin and lean.
+2) Do not overcook or the meat will toughen and lose flavor. The ends will be more well done than the middle, so those who like more well done can eat those portions.
+3) Remove the steaks from the baking dish, scraping off the marinade back into the baking dish.
+4) Pour the marinade into a small sauce pan and bring it to a boil, then back off so it simmers for at least 10 minutes. This will kill any bacteria from the raw meat. At the end of the cooking time check seasoning and adjust.
+5) While the marinade is simmering, put the steak on the preheated grill and follow the instructions for grilling or broiling steak provided with that equipment.
+6) Typically you will want to cook each side for 2-4 minutes depending on cooking circumstances.
+7) Once done, remove to a meat carving surface and let sit for several minutes for the juices to set.
+8) Carve against the grain (not lengthwise) into 1/2 - 3/4 inch strips.
+9) Serve on top of rice
+10) Ladle several tablespoons or more of cooked marinade over the steak and rice.
+Bon Appetit!
+Marinated Flank Steak - Grilled brianprice49
+Nutrition
+View line-by-line Nutrition Insights™ : Discover which ingredients contribute the calories/sodium/etc.
+Disclaimer: Nutrition facts are derived from linked ingredients (shown at left in colored bullets) and may or may not be complete. Always consult a licensed nutritionist or doctor if you have a nutrition-related medical condition.
+Calories per serving : 85
+Get detailed nutrition information, including item-by-item nutrition insights, so you can see where the calories, carbs, fat, sodium and more come from.
+What would you serve with this? Link in another recipe .
+What to make this week
+Keep an eye out for original recipes from the BigOven Kitchen every week! SEE MORE >>
+BigOven Buzz
+Freshly baked content from the creators at BigOven Kitchen . Learn tried and true tips, ticks and methods.
+MORE IDEAS
+Steak
+REVIEW THIS RECIPE
+REVIEWS
+There are no reviews yet. Be the first !

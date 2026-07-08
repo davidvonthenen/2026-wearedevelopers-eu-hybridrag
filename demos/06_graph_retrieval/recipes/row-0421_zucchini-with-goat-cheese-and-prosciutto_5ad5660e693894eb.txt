@@ -1,0 +1,111 @@
+Zucchini with Goat Cheese and Prosciutto
+========================================
+
+Recipe Metadata
+---------------
+Recipe ID: 5ad5660e693894eb
+CSV row number: 421
+Recipe name: Zucchini with Goat Cheese and Prosciutto
+Source: mynourishedhome.com
+URL: https://www.mynourishedhome.com/zucchini-goat-cheese-prosciutto/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02ae85856f9e1d3edaf610c049b180577c7741b00730004cf96060445e4ec76a/21121725.jpg
+Servings: 6
+Calories: 1584.35
+Diet labels: Low-Carb
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Zucchini with Goat Cheese and Prosciutto
+source: mynourishedhome.com
+url: https://www.mynourishedhome.com/zucchini-goat-cheese-prosciutto/
+servings: 6
+calories: 1584.349721843219
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02ae85856f9e1d3edaf610c049b180577c7741b00730004cf96060445e4ec76a/21121725.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Zucchini with Goat Cheese and Prosciutto
+
+Recipe category: ['Appetizers &amp; Sides']
+
+Yield: ['6', '6 servings']
+
+Prep time: PT10M
+
+Cook time: PT22M
+
+Total time: PT32M
+
+Ingredients:
+- 3-4 medium zucchini, halved, ends trimmed, seeds removed
+- 6 oz cream cheese, softened
+- 6 oz goat cheese, softened
+- 1 tbsp dried Italian Seasoning
+- kosher salt and black pepper to taste
+- 3 oz Prosciutto, torn into pieces
+- 1/2 cup whole wheat breadcrumbs (make your own!)
+- 1/2 pint small variety tomatoes, sliced in half
+
+Instructions:
+1. Preheat oven to 350 degrees. Split zucchini in half lengthwise, removed the ends and remove seeds with a teaspoon, making a well down the center. Sprinkle zucchini with salt and pepper, place on a baking sheet and cook for 10 minutes.
+2. While zucchini is cooking, mix softened cream cheese, goat cheese, Italian Seasoning, salt and pepper in a bowl until well blended. When zucchini comes out of the oven, fill the wells with the cheese mixture.
+3. Place torn Prosciutto on top of the cheese mixture, pressing lightly so it doesn't fall off. Sprinkle breadcrumbs across all of the zucchini and place back in the oven for 10 minutes.
+4. If you would like the bread crumbs to be toasted, set the oven to broil and cook an additional 2 minutes.
+5. Garnish with fresh tomatoes and Enjoy!
+
+Visible page text:
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+Skip to footer
+Home » Home and Family Recipes » Appetizers and Side Dishes » Zucchini with Goat Cheese and Prosciutto
+Zucchini with Goat Cheese and Prosciutto is a winner on two counts. One – I have somehow convinced my children that it is a variation of ham and cheese. Somehow they bought that without noticing the gigantic green vegetable connected to the bottom of it. Maybe because their older sister was eating it. Who knows? Two – it has goat cheese.
+These make a wonderful side. But they also make a wonderful lunch all by themselves. Ask my teenager – I busted her eating one out of the fridge like a taco rather than getting a plate and a fork.
+Zucchini with Goat Cheese and Prosciutto
+Ingredients
+3-4 medium zucchini, halved, ends trimmed, seeds removed
+6 oz cream cheese, softened
+6 oz goat cheese, softened
+1 tbsp dried Italian Seasoning
+kosher salt and black pepper to taste
+3 oz Prosciutto, torn into pieces
+1/2 cup whole wheat breadcrumbs make your own!
+1/2 pint small variety tomatoes, sliced in half
+Instructions
+Preheat oven to 350 degrees. Split zucchini in half lengthwise, removed the ends and remove seeds with a teaspoon, making a well down the center. Sprinkle zucchini with salt and pepper, place on a baking sheet and cook for 10 minutes.
+While zucchini is cooking, mix softened cream cheese, goat cheese, Italian Seasoning, salt and pepper in a bowl until well blended. When zucchini comes out of the oven, fill the wells with the cheese mixture.
+Place torn Prosciutto on top of the cheese mixture, pressing lightly so it doesn't fall off. Sprinkle breadcrumbs across all of the zucchini and place back in the oven for 10 minutes.
+If you would like the bread crumbs to be toasted, set the oven to broil and cook an additional 2 minutes.
+Garnish with fresh tomatoes and Enjoy!
+More from Nourished Home:
+Bacon Wrapped Green Beans Recipe for Easy Entertaining
+Easy Glazed Ham
+Best Taco Sauce
+About Cynthia Rusincovitch
+Cynthia is a writer, photographer, and recipe developer. She was in corporate marketing for 15 years before leaving it to focus on family. She started blogging as a way to nourish the desire to work while balancing the joys and duties that come with having more kids than hands. She is married to an aerospace engineer who likes to man the grill and has 3 daughters - a teenager and two toddlers. Follow her on Facebook , Instagram and Twitter , and Pinterest .
+Reader Interactions
+Comments
+This is nearly perfect! I made a couple adjustments to suit my tastes, but if you follow the recipe completely, you won’t be disappointed! I used herbs de Provence instead of Italian seasoning, because I like fennel. And I sliced the tomatoes, added salt and pepper, and then added them to the pan with the zucchini with 5 minutes left and they were amazing! Delicious side dish, or you could even cut the zucchini in rounds and make it an appetizer. I will definitely make this again! Reply
+This is nearly perfect! I made a couple adjustments to suit my tastes, but if you follow the recipe completely, you won’t be disappointed! I used herbs de Provence instead of Italian seasoning, because I like fennel. And I sliced the tomatoes, added salt and pepper, and then added them to the pan with the zucchini with 5 minutes left and they were amazing! Delicious side dish, or you could even cut the zucchini in rounds and make it an appetizer. I will definitely make this again!
+Leave a Reply Cancel reply
+Footer
+Your Health
+Privacy Policy
+We take your privacy very seriously. View Our Privacy Policy Here.
+Disclosure

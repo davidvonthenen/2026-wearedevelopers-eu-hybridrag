@@ -1,0 +1,164 @@
+Chicken Asparagus Pasta Recipe
+==============================
+
+Recipe Metadata
+---------------
+Recipe ID: 1f8b85ce74b09746
+CSV row number: 168
+Recipe name: Chicken Asparagus Pasta Recipe
+Source: Taste of Home
+URL: http://www.tasteofhome.com/Recipes/Chicken-Asparagus-Pasta
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/010560c430fd7298a29bfc9d842c81446c30e3df29af07455d7f90ec177defea/21098633.jpg
+Servings: 2
+Calories: 1042.45
+Diet labels: none listed
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Chicken Asparagus Pasta Recipe
+source: Taste of Home
+url: http://www.tasteofhome.com/Recipes/Chicken-Asparagus-Pasta
+servings: 2
+calories: 1042.448158
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/010560c430fd7298a29bfc9d842c81446c30e3df29af07455d7f90ec177defea/21098633.jpg
+diet_labels: []
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Chicken Asparagus Pasta
+
+Description: We enjoy this dish often in the spring when asparagus is fresh on the market. It’s a favorite with family and friends and a welcome surprise to those who think they don’t like asparagus. &mdash;Taralynn Plastina, McHenry, Illinois
+
+Recipe category: ['Dinner']
+
+Yield: 2 servings
+
+Prep time: PT15M
+
+Cook time: PT15M
+
+Total time: PT30M
+
+Ingredients:
+- 2/3 cup cut fresh asparagus (1-inch pieces)
+- 4 teaspoons canola oil, divided
+- 1/2 teaspoon salt
+- 1/4 teaspoon pepper
+- 4 ounces uncooked fettuccine
+- 1/2 pound boneless skinless chicken breast, cut into 1/2-inch cubes
+- 1 garlic clove, minced
+- 2 tablespoons lemon juice
+- 1 tablespoon grated lemon zest
+- 1 tablespoon butter
+- 2 tablespoons grated Parmesan cheese
+
+Instructions:
+1. Place asparagus in an ungreased 2-qt. baking dish; drizzle with 2 teaspoons oil and sprinkle with salt and pepper. Bake, uncovered, at 400° for 10-12 minutes or until tender, stirring occasionally.
+2. Meanwhile, cook fettuccine according to package directions. In a large skillet over medium heat, cook chicken and garlic in remaining oil until chicken is no longer pink.
+3. Stir in the lemon juice, zest and butter; heat through. Remove from the heat. Drain fettuccine; toss with chicken mixture and asparagus. Sprinkle with cheese.
+
+Visible page text:
+Chicken Asparagus Pasta
+By Taste Of Home Editorial Team
+Recipe by Taralynn Plastina
+Tested by Taste of Home Test Kitchen
+Taste of Home's Editorial Process
+Updated on Oct. 13, 2022
+We enjoy this dish often in the spring when asparagus is fresh on the market. It’s a favorite with family and friends and a welcome surprise to those who think they don’t like asparagus. —Taralynn Plastina, McHenry, Illinois
+Ingredients
+2/3 cup cut fresh asparagus (1-inch pieces)
+4 teaspoons canola oil, divided
+1/2 teaspoon salt
+1/4 teaspoon pepper
+4 ounces uncooked fettuccine
+1/2 pound boneless skinless chicken breast, cut into 1/2-inch cubes
+1 garlic clove, minced
+2 tablespoons lemon juice
+1 tablespoon grated lemon zest
+1 tablespoon butter
+2 tablespoons grated Parmesan cheese
+Directions
+1 Place asparagus in an ungreased 2-qt. baking dish; drizzle with 2 teaspoons oil and sprinkle with salt and pepper. Bake, uncovered, at 400° for 10-12 minutes or until tender, stirring occasionally.
+2 Meanwhile, cook fettuccine according to package directions. In a large skillet over medium heat, cook chicken and garlic in remaining oil until chicken is no longer pink.
+3 Stir in the lemon juice, zest and butter; heat through. Remove from the heat. Drain fettuccine; toss with chicken mixture and asparagus. Sprinkle with cheese.
+Nutrition Facts
+We are no longer supporting IE (Internet Explorer) as we strive to provide site experiences for browsers that support new web standards and security practices.
+We recommend our users to update the browser.
+Google Chrome
+Apple Safari
+Mozilla Firefox
+Microsoft Edge
+Recipes More Items SEE ALL RECIPES Cooking Gear & Gadgets Cuisines Cooking Styles Dishes & Beverages Health & Wellness Holidays & Events Ingredients Meal Types Techniques
+SEE ALL RECIPES
+Cooking Gear & Gadgets
+Cuisines
+Cooking Styles
+Dishes & Beverages
+Health & Wellness
+Holidays & Events
+Meal Types
+Techniques
+Contests
+News More Items SEE ALL NEWS People in Food Grocery Stores New Products Recalls Restaurants Trends
+SEE ALL NEWS
+People in Food
+Grocery Stores
+New Products
+Recalls
+Restaurants
+Trends
+Health & Wellness More Items SEE ALL HEALTH & WELLNESS Healthy Eating Healthy Lifestyle Tips Nutrition Tips
+SEE ALL HEALTH & WELLNESS
+Healthy Eating
+Healthy Lifestyle Tips
+Nutrition Tips
+Holidays & Events More Items SEE ALL HOLIDAYS & EVENTS Christmas Easter Halloween St. Patrick’s Day
+SEE ALL HOLIDAYS & EVENTS
+Christmas
+Easter
+Halloween
+St. Patrick’s Day
+Home & Living More Items SEE ALL HOME & LIVING Cleaning & Organizing Entertaining & Hosting Family & Parenting Grocery Shopping Home Decor Outdoor Living Travel
+SEE ALL HOME & LIVING
+Cleaning & Organizing
+Entertaining & Hosting
+Family & Parenting
+Grocery Shopping
+Home Decor
+Outdoor Living
+Travel
+Stuff We Love
+Test Kitchen More Items SEE ALL TEST KITCHEN Cooking Gear & Gadgets How To Meal Planning Taste Tests Test Kitchen Tips
+SEE ALL TEST KITCHEN
+How To
+Meal Planning
+Taste Tests
+Test Kitchen Tips
+Videos
+Submit a Recipe
+Newsletters
+Follow Us More Items Facebook Pinterest Instagram Twitter Feedly
+Facebook
+Pinterest
+Instagram
+Twitter
+Feedly
+Subscribe
+Shop
+Log In / Join
+Recipe Box

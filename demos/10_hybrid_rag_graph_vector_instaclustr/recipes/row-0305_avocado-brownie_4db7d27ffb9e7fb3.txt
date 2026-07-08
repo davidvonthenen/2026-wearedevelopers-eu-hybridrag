@@ -1,0 +1,87 @@
+Avocado Brownie
+===============
+
+Recipe Metadata
+---------------
+Recipe ID: 4db7d27ffb9e7fb3
+CSV row number: 305
+Recipe name: Avocado Brownie
+Source: tastykitchen.com
+URL: https://tastykitchen.com/recipes/desserts/avocado-brownie/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01f5214644e3132e2e6c11a614deaf8473fef38e51f6ff602c7c25171d934e95/21131824.jpg
+Servings: 4
+Calories: 1609.25
+Diet labels: High-Fiber
+Health labels: Vegetarian, Dairy-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: french
+Meal type: snack
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Avocado Brownie
+source: tastykitchen.com
+url: https://tastykitchen.com/recipes/desserts/avocado-brownie/
+servings: 4
+calories: 1609.245999995837
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01f5214644e3132e2e6c11a614deaf8473fef38e51f6ff602c7c25171d934e95/21131824.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Vegetarian","Dairy-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["french"]
+meal_type: ["snack"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Avocado Brownie
+Print
+Leave a comment
+write a review
+Print Options
+Description
+This healthier version of brownies replaces butter with avocado, making it lighter but no less tasty. The brownie will still be deliciously fudgy!
+Ingredients
+2 whole Eggs
+½ cups White Sugar
+½ cups Brown Sugar
+¼ cups Flour
+½ cups Cocoa Powder, Unsweetened
+1 teaspoon Vanilla Extract
+¼ teaspoons Sea Salt
+1 whole Avocado
+¼ cups Walnuts
+¼ cups Cocoa Nibs
+Preparation
+Preheat oven to 400ºF.
+Mix eggs and sugars together in a bowl. Add flour, cocoa powder, vanilla and salt and mix until combined.
+Mix in avocado flesh until you have a smooth, lump-free mixture. Crush walnuts and stir them into the mixture along with the cocoa nibs.
+Grease a brownie pan or line with baking paper. Pour the mixture into the pan and spread out evenly. Bake for 30 minutes.
+Enjoy!
+More Recipes from Sophie
+Roasted Pumpkin Coconut Curry Soup
+Roasted Cauliflower, Garlic and Truffle Soup
+No Comments
+Leave a Comment!
+You must be logged in to post a comment.
+No Reviews
+You must be logged in to post a review.
+Food Gifts
+View Recipe
+Slow Cooker Season!
+Related Recipes
+Prep: 30 mins Cook: 30 mins
+Serves: 16 Level: Easy
+Share f a e
+Prep: 15 mins Cook: 4 hrs
+Serves: 20 Level: Easy
+Prep: 10 mins Cook: 45 mins
+Serves: 9 Level: Easy
+Prep: 10 mins Cook: 20 mins
+Prep: 25 mins Cook: 40 mins

@@ -1,0 +1,183 @@
+Sparkling Berry Lemonade
+========================
+
+Recipe Metadata
+---------------
+Recipe ID: 209ea6b8084fb53f
+CSV row number: 9
+Recipe name: Sparkling Berry Lemonade
+Source: nourishnutritionblog.com
+URL: https://nourishnutritionblog.com/sparkling-berry-lemonade
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0007dd59e38502692898bc76c0bd167444245c97632e1ec0eba0af7c390408a8/21068129.jpg
+Servings: 2
+Calories: 122.56
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: drinks
+
+Original CSV Fields
+-------------------
+recipe_name: Sparkling Berry Lemonade
+source: nourishnutritionblog.com
+url: https://nourishnutritionblog.com/sparkling-berry-lemonade
+servings: 2
+calories: 122.56
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0007dd59e38502692898bc76c0bd167444245c97632e1ec0eba0af7c390408a8/21068129.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["drinks"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Single Serving Sparkling Berry Lemonade
+
+Description: This single serving sparkling berry lemonade is packed with flavor and antioxidants from the berries, tartness from the lemonade, and 100 levels of refresh.
+
+Recipe category: ['Drinks']
+
+Recipe cuisine: ['American']
+
+Yield: ['1', '1 cups']
+
+Prep time: PT10M
+
+Total time: PT10M
+
+Ingredients:
+- 1/4 cup berries (slice strawberries)
+- 1/2 cup lemonade
+- 1/2 cup sparkling water
+
+Instructions:
+1. Add ~1/4 cup sliced berries to a small jar or bowl. Press down with muddler or potato masher. Set aside.
+2. Add 1/2 cup lemonade (see notes for homemade lemonade recipe) to smashed berries.
+3. Then pour 1 cup sparkling water over lemonade, mashed berries. Stir with spoon.
+
+Visible page text:
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+This single serving sparkling berry lemonade is packed with flavor and antioxidants from the berries, tartness from the lemonade, and 100 levels of refresh.
+[This sparkling berry lemonade recipe was originally posted in May 2018. It has been updated with new photos, cooking instructions, expert tips, FAQ, related recipes and ways to repurpose/use up ingredients]
+PIN HERE to add to your recipe box.
+Table of contents
+Ingredients
+Instructions
+Storage Tips
+Substitutions/Tips
+FAQ
+Other good drink recipes
+What to do with leftover ingredients
+This quick homemade sparkling berry lemonade is perfect if you've got lemons that need to be used up. DIY lemonade or buy pre-made lemonade to make this easy and delicious summer drink.
+Quick note on added sugar. There is a major awareness on sugar right now, I get it. It's easy to eat sugar. And I say that because sugar is in many foods that you wouldn't guess. You can't taste it in many instances.
+I'm not saying that it's something to avoid like the plague, not at all. Having to read every nutrition label, and feeling stressed about every gram in your food is less healthful than eating the sugar.
+I talked about stress and wellbeing in a KSL article last year, you can read about it here .
+Scroll down to the sparkling berry lemonade recipe card for the amounts of each ingredient, but here's a quick visual + description of what's in this recipe.
+Lemons
+Sugar
+Sparkling water
+Berries (strawberries, blueberries, &/or raspberries)
+Scroll down to the sparkling berry lemonade recipe card for more detailed instructions. Here's a quick overview + photos to see how to make this recipe in general.
+1. Add sliced berries to a small jar or glass. Press down with muddler or potato masher. Set aside.
+2. Strain berry puree through mesh strainer to remove seeds.
+3. Make the Single Serving Lemonade .
+4. Then pour sparkling water over lemon and sugar, add mashed berries . Stir with spoon.
+Store leftover sparkling berry lemonade in an airtight jar to preserve bubbles. It should last in the fridge for about 3-5 days. You can also pour into an ice tray and add to water later.
+Use fresh or thawed frozen berries (either strawberries, raspberries, blueberries, blackberries or a combination of them).
+If you like smoother berry puree, blend together in a blender or food processor.
+Strain berry puree through mesh strainer to remove seeds.
+Use pre-made lemonade to save time.
+You can also use other types of sugar (in equal parts) like turbinado sugar, honey, etc in your sparkling berry lemonade.
+Adding raspberry fruit to lemonade adds sweetness to the lemonade. It tastes very different than artificial raspberry flavored lemonade. Sweetness will depend on how ripe the raspberries are.
+Start with the lemonade base. Use the directions in the recipe card below to make your own lemonade. Then either smash raspberries or blend them up and pour into the lemonade, add some sugar or salt if needed. If you don't like chunks or seeds, strain berries through a small mesh strainer.
+Follow the instructions above and use strawberries instead of raspberries!
+Copycat Starbucks passion tea lemonade
+Single serving lemonade ,
+Pomegranate lime spritzer ,
+Mimosa mocktail
+Tart cherry spritzer
+When you're cooking for one, you often have leftover produce, cans of whatever ingredient, etc. Here are a couple ideas on how to use up the leftover ingredients. It'll help you save money by wasting fewer ingredients.
+Lemonade : Copycat Starbucks passion tea lemonade
+Berries : spinach strawberry salad , easy strawberry sauce , and berry salad.
+Did you make this sparkling berry lemonade? Leave me a comment & rating to share how it turned out!
+Single Serving Sparkling Berry Lemonade
+Equipment
+▢ Tall glass
+▢ spoon
+▢ ¼ cup berries slice strawberries
+▢ ½ cup lemonade
+▢ ½ cup sparkling water
+Add ~¼ cup sliced berries to a small jar or bowl. Press down with muddler or potato masher. Set aside.
+Add ½ cup lemonade (see notes for homemade lemonade recipe) to smashed berries.
+Then pour 1 cup sparkling water over lemonade, mashed berries. Stir with spoon.
+Notes
+Use fresh or thawed frozen berries (either strawberries, raspberries, blueberries, blackberries or a combination of them)
+If you like smoother berry puree, blend together in a blender or food processor
+Strain berry puree through mesh strainer to remove seeds
+Use pre-made lemonade to save time
+Use this Single Serving Lemonade recipe if you want to make it homemade.
+Taste lemonade and adjust sugar, lemon juice, or sparkling water to your preference
+You can also use other types of sugar (in equal parts) like turbinado sugar, honey, etc
+Want time saving tips to make recipes like this sparkling berry lemonade delivered to your inbox? Click here to download my Cooking for One Time Saving Tips .
+Recipes are great, but you’ll need a simple 3 step process to create a meal plan that make cooking easy & helps you stop wasting food. Check out this expertly developed meal planning guide to get started.
+More Drinks
+Single Serving Smoothie Recipes
+Homemade Shamrock Shake
+Homemade Chai Latte with Pumpkin Spice
+Peach Water
+About Rebecca Clyde MS, RDN, CD
+Welcome! I’m Rebecca, a food loving dietitian who has been cooking for one for over 10 years. On Nourish Nutrition, you’ll find real, quick, and nourishing recipes for one that'll get you to want to cook for yourself, because you deserve it.
+Reader Interactions
+Comments
+Yum! Such a refreshing drink, love the flavors! Reply totally! thanks Reply
+Yum! Such a refreshing drink, love the flavors!
+totally! thanks Reply
+totally! thanks
+This looks so tasty and refreshing! I'm going to make this! Thanks! Reply awesome! thanks Reply
+This looks so tasty and refreshing! I'm going to make this! Thanks!
+awesome! thanks Reply
+awesome! thanks
+Obsessed with how simple and delicious this recipe is! Beautiful for the season. Reply thanks! it's so easy Reply
+Obsessed with how simple and delicious this recipe is! Beautiful for the season.
+thanks! it's so easy Reply
+thanks! it's so easy
+This looks so refreshing! Perfect for summertime. 🙂 Reply sure is! thanks Reply
+This looks so refreshing! Perfect for summertime. 🙂
+sure is! thanks Reply
+sure is! thanks
+wow that is one good looking lemonade! Wish I could sip on this right now..the Florida heat is.. Reply ohh for sure, it's a great way to cool down! Reply
+wow that is one good looking lemonade! Wish I could sip on this right now..the Florida heat is..
+ohh for sure, it's a great way to cool down! Reply
+ohh for sure, it's a great way to cool down!
+This is sure to be popular with the entire family and it's so easy to make. Perfect for hot summer days. Reply exactly! Reply
+This is sure to be popular with the entire family and it's so easy to make. Perfect for hot summer days.
+exactly! Reply
+exactly!
+I love Newman's Own lemonade. Such a great idea to jazz it up with sparkling water and fresh berries! Reply me too! it's so refreshing and delicious Reply
+I love Newman's Own lemonade. Such a great idea to jazz it up with sparkling water and fresh berries!
+me too! it's so refreshing and delicious Reply
+me too! it's so refreshing and delicious
+I love lemonade and I drink sparkling water all the time, so this sounds like the perfect combination! Reply me too! its delicious Reply
+I love lemonade and I drink sparkling water all the time, so this sounds like the perfect combination!
+me too! its delicious Reply
+me too! its delicious
+Thank you for the recipe. I love how simple it is to make - just three ingredients that I already have at home. This is so refreshing for summer. Reply great! it's so delicious & easy Reply
+Thank you for the recipe. I love how simple it is to make - just three ingredients that I already have at home. This is so refreshing for summer.
+great! it's so delicious & easy Reply
+great! it's so delicious & easy
+I love the "it's time to get creative with hydration" intro. I totally agree! I'm always looking for ways to up my hydration and this recipe looks so simple and refreshing! Reply right?! hydration totally doesn't have to be boring Reply
+I love the "it's time to get creative with hydration" intro. I totally agree! I'm always looking for ways to up my hydration and this recipe looks so simple and refreshing!
+right?! hydration totally doesn't have to be boring Reply
+right?! hydration totally doesn't have to be boring
+Leave a Reply Cancel reply

@@ -1,0 +1,194 @@
+Vegetarian Minestrone Soup Recipe for a Crowd
+=============================================
+
+Recipe Metadata
+---------------
+Recipe ID: 036ea67db85afc17
+CSV row number: 490
+Recipe name: Vegetarian Minestrone Soup Recipe for a Crowd
+Source: umamigirl.com
+URL: https://umamigirl.com/vegetarian-minestrone-for-a-crowd
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0330bf5545b28f267b9531aa04ef9f0d2b815786eddc5b3f0851ef6866d341e0/21135508.jpg
+Servings: 8
+Calories: 2822.99
+Diet labels: High-Fiber, Low-Fat
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: soup
+
+Original CSV Fields
+-------------------
+recipe_name: Vegetarian Minestrone Soup Recipe for a Crowd
+source: umamigirl.com
+url: https://umamigirl.com/vegetarian-minestrone-for-a-crowd
+servings: 8
+calories: 2822.987158804438
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0330bf5545b28f267b9531aa04ef9f0d2b815786eddc5b3f0851ef6866d341e0/21135508.jpg
+diet_labels: ["High-Fiber","Low-Fat"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["soup"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Vegan Minestrone Soup
+
+Description: Thanks to the few minutes you&#x27;ll spend accumulating some browned bits on the bottom of the pot and the layers of flavorful ingredients, this vegan minestrone soup has a deep, satisfying savoriness. If you&#x27;re not concerned with making it vegan, see the note about adding a parmesan rind.
+
+Recipe category: ['Soups']
+
+Recipe cuisine: ['Italian']
+
+Yield: ['8']
+
+Prep time: PT15M
+
+Cook time: PT45M
+
+Total time: PT60M
+
+Ingredients:
+- 2 tablespoons olive oil
+- 1 large yellow onion (diced)
+- 3 medium ribs celery (diced)
+- 2 medium carrots (diced)
+- 1 teaspoon fine sea salt
+- 8 cloves garlic (minced)
+- 2 tablespoons tomato paste
+- 8 cups lower-sodium vegetable stock
+- 26 ounces diced tomatoes*
+- 1 teaspoon dried thyme
+- 1/2 teaspoon dried oregano
+- 1/4 teaspoon red pepper flakes
+- 2 medium gold potatoes (diced (no need to peel))
+- 3 medium zucchini (diced)
+- 10 ounces frozen cut green beans
+- 1 15- ounce can kidney beans (rinsed and drained)
+- 1 15- ounce can white beans (rinsed and drained)
+- 1 15- ounce can chickpeas (rinsed and drained)
+- 1 small bunch kale (stemmed and torn into bite-sized pieces)
+- 40 fresh basil leaves (torn)
+
+Instructions:
+1. In a very large lidded pot (I used a 9-quart dutch oven), warm the olive oil over medium-high heat.
+2. Add the onions, celery, and carrots and sprinkle the salt overtop. Cook, stirring occasionally, until the vegetables start to get tender and there’s plenty of nice browning on the bottom of the pot.
+3. Add the garlic and cook, stirring a couple of times, for one minute, until you can really smell the garlic.
+4. Add the tomato paste and cook, stirring constantly, for a minute more.
+5. Pour in the stock and diced tomatoes. Add the thyme, oregano, and red pepper flakes. (If you're using the parmesan rind mentioned in the notes, add it now). Stir and scrape up all the browned bits from the bottom of the pot. (You won’t be able to see them, but you can feel the difference with your spoon.) Bring to a boil over high heat.
+6. Add the potatoes, zucchini, green beans and canned beans. Reduce the heat to maintain a gentle simmer, cover, and cook for 10 minutes.
+7. Add the kale and cook about 10 minutes more, until all the vegetables are tender.
+8. Off the heat, stir in the basil leaves.
+9. Ladle into bowls and serve, with grated (vegan) cheese to pass at the table if you like.
+
+Visible page text:
+Let's meet in your inbox! →
+Home › Recipes › Soups
+Vegan Minestrone Soup
+2 Comments
+Servings: 8
+1 hour
+There may be nothing more comforting than a pot of vegan minestrone soup. This easy, nourishing recipe makes a big batch that freezes well.
+This post may contain affiliate links. Learn more .
+There may be nothing more comforting than a big pot of vegan minestrone soup. The cooking process itself is quite meditative, and it leaves you with a richly flavored and unimpeachably nutritious meal.
+Table of Contents
+Why we love this recipe
+What you’ll need
+How to make it
+Expert tips and FAQs
+More favorite cozy vegan soups
+Vegan Minestrone Soup Recipe
+There are as many versions of minestrone as there are Italian nonnas. Our best-in-class vegan minestrone soup (or toss in a parmesan rind if you’re not vegan!) is:
+Deeply flavored, thanks to a little bit of patient browning and layers of savory ingredients
+Loaded with gorgeous vegetables that are great for your bod
+Light yet incredibly satisfying
+Big enough to share with friends or feed your family for a couple days running
+Make-ahead and freezer-friendly
+Here’s a glance at the ingredients you’ll need to make this recipe. It looks like a lot, but there’s absolutely nothing fancy. Also, “need” is too strong a word. Minestrone is highly amenable to additions, subtractions, and substitutions, and you’re welcome to make them as you see fit.
+A good old yellow onion does the trick here, but feel free to substitute a couple of shallots or leeks if you like.
+Yukon gold potatoes (or any other similar, golden-fleshed variety) get creamy and tender without losing their shape. You don’t need to peel them.
+My favorite vegetable broth is Imagine’s lower-sodium No Chicken . It has the flavor profile of a great chicken broth rather than the rusty nonsense of some boxed veggie broths.
+You can use any combination of canned beans. Borlotti are traditional in authentic Italian minestrone, but I tend to use one can each of kidney , canellini , and garbanzo beans (chickpeas).
+You can use either curly or flat-leaf (lacinato) kale (or substitute another leafy green if you prefer).
+I haven’t included pasta , since the potatoes add plenty of starch. But if you like, you can stir in some small pasta shells, ditalini, or any other smaller pasta shape of your choice.
+If you’re not vegan, adding a parmesan rind to the pot as it simmers is a beautiful way to increase the depth of flavor and richness of the broth.
+Here’s what you’ll do to make a great pot of soup. You can see the steps in action in the video that accompanies this post, and get all the details in the recipe card below.
+Start by sautéing the onion, celery, and carrot in the olive oil. Don’t shy away from letting some brown bits accumulate at the bottom of the pot at this stage. A little patience here adds a wonderful depth of flavor that makes for a great soup. Then add the garlic and tomato paste one at a time, stirring each for a minute or so.
+Add the broth, diced tomato, and seasonings, scraping up all the browned goodness from the bottom of the pot to incorporate it into the broth. Bring to a boil.
+Add the potato, zucchini, and beans, and simmer for 10 minutes.
+Add the kale and simmer for 10 minutes or so more, until everything is creamy and tender. Off the heat, stir in the basil. That’s it!
+This soup is a complete one-pot meal that’s perfect as-is. That said, a hunk of good crusty bread and a glass of full-bodied red wine never hurt as cozy accompaniments.
+Yup! 🙂 Minestrone is super-flexible, so if you’ve got a vegetable, bean, or starch (rice or small pasta) that you want to swap in or out, there’s virtually no reason not to. Just think about how long that ingredient will need to cook, and whether it will absorb a lot of liquid. Pasta, rice, and other grains can be added to the pot during cooking or cooked separately, tossed with a bit of oil, and added to individual serving bowls to prevent them from slurping up all the broth before you do.
+Absolutely. This soup keeps well in the fridge for up to a week and in the freezer for up to a year. It makes a big batch, so it’s a natural fit for sharing, batch cooking, and meal prep. You can also halve the recipe if you like, with no further changes.
+This recipe requires a very large pot. I use my 9-quart Dutch oven .
+Black bean
+Layla’s red lentil
+Split pea with turmeric
+Chick’n noodle
+Carrot and lentil
+Summarize & Save This Content On
+Equipment
+Le Creuset 9-Quart Dutch Oven
+Ingredients
+▢ 2 tablespoons olive oil
+▢ 1 large yellow onion , diced
+▢ 3 medium ribs celery , diced
+▢ 2 medium carrots , diced
+▢ 1 teaspoon fine sea salt
+▢ 8 cloves garlic , minced
+▢ 2 tablespoons tomato paste
+▢ 8 cups lower-sodium vegetable stock
+▢ 26 ounces diced tomatoes*
+▢ 1 teaspoon dried thyme
+▢ ½ teaspoon dried oregano
+▢ ¼ teaspoon red pepper flakes
+▢ 2 medium gold potatoes , diced (no need to peel)
+▢ 3 medium zucchini , diced
+▢ 10 ounces frozen cut green beans
+▢ 1 15- ounce can kidney beans , rinsed and drained
+▢ 1 15- ounce can white beans , rinsed and drained
+▢ 1 15- ounce can chickpeas , rinsed and drained
+▢ 1 small bunch kale , stemmed and torn into bite-sized pieces
+▢ 40 fresh basil leaves , torn
+Instructions
+In a very large lidded pot (I used a 9-quart dutch oven), warm the olive oil over medium-high heat.
+Add the onions, celery, and carrots and sprinkle the salt overtop. Cook, stirring occasionally, until the vegetables start to get tender and there’s plenty of nice browning on the bottom of the pot.
+Add the garlic and cook, stirring a couple of times, for one minute, until you can really smell the garlic.
+Add the tomato paste and cook, stirring constantly, for a minute more.
+Pour in the stock and diced tomatoes. Add the thyme, oregano, and red pepper flakes. (If you’re using the parmesan rind mentioned in the notes, add it now). Stir and scrape up all the browned bits from the bottom of the pot. (You won’t be able to see them, but you can feel the difference with your spoon.) Bring to a boil over high heat.
+Add the potatoes, zucchini, green beans and canned beans. Reduce the heat to maintain a gentle simmer, cover, and cook for 10 minutes.
+Add the kale and cook about 10 minutes more, until all the vegetables are tender.
+Off the heat, stir in the basil leaves.
+Ladle into bowls and serve, with grated (vegan) cheese to pass at the table if you like.
+Notes
+Don't rush browning the vegetables, since the browned bits contribute to the soup's deep flavor.
+I've written the recipe with all the vegetables already chopped, but in reality I often heat the pot and chop and toss in the ingredients as I go. As long as you tend to work quickly, this is a fine way of doing things that evokes Italian grandmothers and may even help with the browning process.
+If you're not concerned with making this soup vegan, it's a great idea to add a big piece of parmesan rind along with the broth. It adds tons of umami and a welcome hint of creaminess.
+Serve it with some crusty bread and a bottle of wine for a casual cool-weather get-together, or hoard it for your family.
+Leftovers keep well tightly sealed in the fridge for a week and only get better over time. Or freeze them for up to a year.
+Nutrition
+Nutrition information is automatically calculated, so should only be used as an approximation.
+Additional Info
+Soups
+Mexican Street Corn Soup
+Fish & Shellfish
+Maine Lobster Bisque
+Lobster Stock
+Vegetarian Miso Ramen
+About Carolyn Gratzer Cope
+Hi there, I'm Carolyn Gratzer Cope, founder and publisher of Umami Girl. Join me in savoring life, one recipe at a time. I'm a professional recipe developer with training from the French Culinary Institute (now ICE) and a lifetime of studying, appreciating, and sharing food.
+Leave a comment Cancel reply
+totally delicious – perfect start to a healthy year! Reply Thank you, Kate! Reply
+totally delicious – perfect start to a healthy year!
+Thank you, Kate! Reply
+Thank you, Kate!
+As Seen On
+©2026 Umami Girl. All rights reserved. Privacy Policy • Powered by CultivateWP .

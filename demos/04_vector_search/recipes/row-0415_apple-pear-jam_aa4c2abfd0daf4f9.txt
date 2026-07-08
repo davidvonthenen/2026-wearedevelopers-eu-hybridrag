@@ -1,0 +1,116 @@
+APPLE PEAR JAM
+==============
+
+Recipe Metadata
+---------------
+Recipe ID: aa4c2abfd0daf4f9
+CSV row number: 415
+Recipe name: APPLE PEAR JAM
+Source: BigOven
+URL: http://www.bigoven.com/recipe/APPLE-PEAR-JAM/168332
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02a982dd672c51eb8d47e52239cb93a0397275fac0d4858462849af9bd42ba99/21104986.jpg
+Servings: 6
+Calories: 5803.97
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: APPLE PEAR JAM
+source: BigOven
+url: http://www.bigoven.com/recipe/APPLE-PEAR-JAM/168332
+servings: 6
+calories: 5803.971201
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02a982dd672c51eb8d47e52239cb93a0397275fac0d4858462849af9bd42ba99/21104986.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: APPLE PEAR JAM
+
+Description: CONDIMENT FOR CORNBREAD
+JAM FOR BREAKFAST
+APPETIZER SERVED OVER CREAM CHEESE AND CRACKERS
+
+Recipe category: Appetizers
+
+Recipe cuisine: AMERICAN
+
+Yield: 6
+
+Prep time: PT1H
+
+Cook time: PT2H
+
+Total time: PT3H
+
+Ingredients:
+- 2 cups APPLES Peeled, CORED AND DICED
+- 1 cup PEARS Peeled, CORED AND DICED
+- 6.5 cups Sugar
+- 1/4 tsp CINNAMON
+- 1/4 cup LEMON JUICE
+- 6 oz LIQUID PECTIN
+
+Instructions:
+1. MASH APPLES AND PEARS (YOU CAN USE A FOOD PROCESSOR). ADD SUGAR AND CINNAMON, AND LEMON JUICE AND COOK UNTIL THIS BOILS. IMMEDIATELY ADD PECTIN AND LET MIXTURE COOK AT A ROLLING BOIL FOR 1 MINUTE. TRANSFER TO CLEAN HOT JARS, AND PUT JARS IN CANNING POT TO BOIL FOR 5 MINUTES. FYI: My Woman's Canning Group multiplied this recipe 5 x's and it turned out 27 pint jars at $3.00 each.
+
+Visible page text:
+Recipes
+Appetizers
+Dips and Spreads
+APPLE PEAR JAM
+WANT TO TRY
+FAVORITE
+MADE
+CUSTOM FOLDER
+CONDIMENT FOR CORNBREAD
+Still searching for what to cook ?
+Find the most delicious recipes here
+Recipe
+Text
+Photos
+Nutr Nutrition
+Notes
+INGREDIENTS
+2 cups APPLE S ; Peeled, CORED AND DICED
+1 cup PEAR S ; Peeled, CORED AND DICED
+6.5 cups Sugar
+1/4 tsp CINNAMON
+1/4 cup LEMON JUICE
+6 oz LIQUID PECTIN
+Copy and Customize
+About BigOven Pro
+INSTRUCTIONS
+MASH APPLES AND PEARS (YOU CAN USE A FOOD PROCESSOR). ADD SUGAR AND CINNAMON, AND LEMON JUICE AND COOK UNTIL THIS BOILS. IMMEDIATELY ADD PECTIN AND LET MIXTURE COOK AT A ROLLING BOIL FOR 1 MINUTE. TRANSFER TO CLEAN HOT JARS, AND PUT JARS IN CANNING POT TO BOIL FOR 5 MINUTES. FYI: My Woman's Canning Group multiplied this recipe 5 x's and it turned out 27 pint jars at $3.00 each.
+LauraGalceran
+Nutrition
+View line-by-line Nutrition Insights™ : Discover which ingredients contribute the calories/sodium/etc.
+Disclaimer: Nutrition facts are derived from linked ingredients (shown at left in colored bullets) and may or may not be complete. Always consult a licensed nutritionist or doctor if you have a nutrition-related medical condition.
+Calories per serving : 812
+Get detailed nutrition information, including item-by-item nutrition insights, so you can see where the calories, carbs, fat, sodium and more come from.
+What would you serve with this? Link in another recipe .
+What to make this week
+Keep an eye out for original recipes from the BigOven Kitchen every week! SEE MORE >>
+BigOven Buzz
+Freshly baked content from the creators at BigOven Kitchen . Learn tried and true tips, ticks and methods.
+MORE IDEAS
+Pear
+Pear Pie
+Pear Crumble
+REVIEW THIS RECIPE
+REVIEWS

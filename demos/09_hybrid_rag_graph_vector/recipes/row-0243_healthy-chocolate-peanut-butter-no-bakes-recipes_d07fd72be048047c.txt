@@ -1,0 +1,101 @@
+Healthy Chocolate Peanut Butter No-Bakes recipes
+================================================
+
+Recipe Metadata
+---------------
+Recipe ID: d07fd72be048047c
+CSV row number: 243
+Recipe name: Healthy Chocolate Peanut Butter No-Bakes recipes
+Source: popsugar.com
+URL: https://www.popsugar.com/fitness/Healthy-Chocolate-Peanut-Butter--Bake-Dessert-37939654
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/018513f09b094d3908b07b1511dd8c90dabf5092628597b36874e1acb546c783/21045927.jpeg
+Servings: 32
+Calories: 4102.17
+Diet labels: Balanced, Low-Sodium
+Health labels: Vegetarian, Egg-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Healthy Chocolate Peanut Butter No-Bakes recipes
+source: popsugar.com
+url: https://www.popsugar.com/fitness/Healthy-Chocolate-Peanut-Butter--Bake-Dessert-37939654
+servings: 32
+calories: 4102.173
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/018513f09b094d3908b07b1511dd8c90dabf5092628597b36874e1acb546c783/21045927.jpeg
+diet_labels: ["Balanced","Low-Sodium"]
+health_labels: ["Vegetarian","Egg-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Healthy Chocolate Peanut Butter No-Bakes
+
+Recipe category: Desserts
+
+Recipe cuisine: North American
+
+Yield: 1 serving
+
+Cook time: 1 hour
+
+Instructions:
+1. Place the oats, cashews, dates, cocoa powder, and salt in a food processor and blend until everything is a smooth, floury consistency.
+2. Add the banana and blend until a thick, slightly sticky dough forms.
+3. Add the 2 cups of krispies and pulse about 20 seconds to disperse the cereal evenly.
+4. Remove half the chocolate dough and place in a bowl for later.
+5. Flatten the other half of the chocolate-krispie layer into the bottom of a 7x11 pan using your hands over parchment or waxed paper. Place in the freezer while you make the peanut butter layer.
+6. Don't worry about cleaning out the food processor, just add the peanuts, oats, and dates, and blend a few minutes until a dough forms.
+7. Remove pan from the freezer, and, using the same technique, press the peanut butter layer on top of the chocolate-krispie layer. Place in the freezer for about 15 minutes.
+8. Remove pan from the freezer and smoosh the rest of the chocolate mixture over the peanut butter layer, press the chocolate chips on top, and freeze for at least an hour to firm up.
+9. Cut into squares and store remaining bites in a sealed container in the freezer.
+
+Visible page text:
+Fitness
+Recipes
+Vegetarian
+The Ultimate No-Bake Dessert
+Chocolate. Peanut butter. No-bakes. Done. That's all I really need to say. But I'll go on because these bars are worth blabbering about. Pairing the best flavor combination ever, these are a cinch to whip up because all you need is a food processor and the strong willpower to stop yourself from eating all the delicious ingredients laid out on your kitchen counter.
+You get three amazing layers — chocolate-kripsies on the bottom, sweet and salty peanut butter in the middle, and chocolate chocolate chip on the top. At just over 100 calories, each bite offers 3.2 grams of protein and two grams of fiber — and under five grams of sugar.
+These are the perfect treat to make when you're craving something sweet and chocolaty or to be the hero at your next potluck.
+Healthy Chocolate Peanut Butter No-Bakes
+From Jenny Sugar, POPSUGAR Fitness
+INGREDIENTS
+Bottom and top layers:
+2 cups rolled oats
+1 cup raw cashews
+10 dates, pitted
+1/3 cup unsweetened cocoa powder
+1/2 teaspoon salt
+1 ripe banana
+2 cups rice krispies cereal
+2 tablesoons dairy-free chocolate chips
+Middle layer:
+1 cup roasted salted peanuts
+1/2 cup rolled oats
+INSTRUCTIONS
+Place the oats, cashews, dates, cocoa powder, and salt in a food processor and blend until everything is a smooth, floury consistency.
+Add the banana and blend until a thick, slightly sticky dough forms.
+Add the 2 cups of krispies and pulse about 20 seconds to disperse the cereal evenly.
+Remove half the chocolate dough and place in a bowl for later.
+Flatten the other half of the chocolate-krispie layer into the bottom of a 7x11 pan using your hands over parchment or waxed paper. Place in the freezer while you make the peanut butter layer.
+Don't worry about cleaning out the food processor, just add the peanuts, oats, and dates, and blend a few minutes until a dough forms.
+Remove pan from the freezer, and, using the same technique, press the peanut butter layer on top of the chocolate-krispie layer. Place in the freezer for about 15 minutes.
+Remove pan from the freezer and smoosh the rest of the chocolate mixture over the peanut butter layer, press the chocolate chips on top, and freeze for at least an hour to firm up.
+Cut into squares and store remaining bites in a sealed container in the freezer.
+Notes
+Vegan
+Dairy-Free
+Healthy Recipes
+Healthy Desserts

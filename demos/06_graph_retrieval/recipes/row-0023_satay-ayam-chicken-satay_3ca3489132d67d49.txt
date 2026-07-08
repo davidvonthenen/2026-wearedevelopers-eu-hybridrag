@@ -1,0 +1,76 @@
+Satay Ayam (Chicken Satay)
+==========================
+
+Recipe Metadata
+---------------
+Recipe ID: 3ca3489132d67d49
+CSV row number: 23
+Recipe name: Satay Ayam (Chicken Satay)
+Source: Saveur
+URL: https://www.saveur.com/article/Recipes/Satay-Ayam-Chicken-Satay/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0017d8e8a6b7bd55ddfc356c60c65a36de6839406a542c5088882de180ba50ca/21000981.jpg
+Servings: 30
+Calories: 3071.15
+Diet labels: Low-Carb
+Health labels: Dairy-Free, Gluten-Free, Egg-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: south east asian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Satay Ayam (Chicken Satay)
+source: Saveur
+url: https://www.saveur.com/article/Recipes/Satay-Ayam-Chicken-Satay/
+servings: 30
+calories: 3071.146499450043
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0017d8e8a6b7bd55ddfc356c60c65a36de6839406a542c5088882de180ba50ca/21000981.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Dairy-Free","Gluten-Free","Egg-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["south east asian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Infused with traditional Indonesian spices—lemongrass, garlic, ginger—these fragrant chicken skewers are adapted from a recipe that appeared in SAVEUR No. 138 (May 2011). Most recently, this recipe ran in our Jan/Feb 2014 SAVEUR 100 issue with the article 20 Years of SAVEUR: The World of Satay .
+Serves makes 30 Skewers
+makes 30 Skewers
+Ingredients
+1 ⁄ 3 cup peanut oil
+1 ⁄ 4 cup dark brown sugar
+1 tbsp. ground coriander
+2 1 ⁄ 2 tsp. ground turmeric
+1 1 ⁄ 2 tsp. ground fennel
+1 1 ⁄ 2 tsp. kosher salt
+6 stalks lemongrass, trimmed and chopped, plus 1 stalk, whole
+3 cloves garlic, peeled
+3 large shallots, chopped
+1 (5") piece ginger, sliced
+3 1 ⁄ 2 lb. skinless chicken thighs, cut into 1"-wide, ¼"-thick slices
+30 (8") bamboo skewers, soaked in water for 30 minutes
+Instructions
+Step 1
+Step 2
+Purée 2 tbsp. oil, the sugar, coriander, turmeric, fennel, salt, chopped lemongrass, garlic, shallots, and ginger in a food processor until smooth. Transfer paste to a bowl and add chicken; toss to combine. Cover with plastic wrap; chill 4 hours. Trim the root end of the stalk of lemongrass and using a meat mallet, smash until it splits into threads resembling a brush; place "brush" end in a bowl and pour in remaining oil.
+Heat a charcoal grill or set a gas grill to medium-high. (Alternatively, heat a grill pan over medium-high heat.) Thread 2 pieces of chicken onto each skewer; grill, turning once, and brushing often with oil using lemongrass brush, until charred, 5-6 minutes.
+Keep Reading
+Mai Tai
+Basil Chambord Spritz
+Beet and Carrot Chops
+Bhaja Moshla
+The Original Kentucky Hot Brown
+Turkey Chowder With Bacon and Tomatoes
+Salted Caramel Macadamia Nut Bars
+Spaghetti With Green Tomato Sauce
+Salt-and-Pepper Fried Green Tomatoes
+Continue to Next Story
+Want more SAVEUR?
+Get our favorite recipes, stories, and more delivered to your inbox.

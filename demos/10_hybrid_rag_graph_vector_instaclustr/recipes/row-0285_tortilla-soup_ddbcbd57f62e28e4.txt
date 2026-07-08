@@ -1,0 +1,84 @@
+Tortilla Soup
+=============
+
+Recipe Metadata
+---------------
+Recipe ID: ddbcbd57f62e28e4
+CSV row number: 285
+Recipe name: Tortilla Soup
+Source: tastykitchen.com
+URL: https://tastykitchen.com/recipes/soups/tortilla-soup-7/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01cc10bebb35b92ab8780683f399025138d44725ccad95434a8624d66036023c/21115211.jpg
+Servings: 6
+Calories: 2197.86
+Diet labels: High-Fiber
+Health labels: Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mexican
+Meal type: lunch/dinner
+Dish type: soup
+
+Original CSV Fields
+-------------------
+recipe_name: Tortilla Soup
+source: tastykitchen.com
+url: https://tastykitchen.com/recipes/soups/tortilla-soup-7/
+servings: 6
+calories: 2197.858115
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01cc10bebb35b92ab8780683f399025138d44725ccad95434a8624d66036023c/21115211.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mexican"]
+meal_type: ["lunch/dinner"]
+dish_type: ["soup"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Tortilla Soup
+Print
+Leave a comment
+write a review
+Print Options
+Description
+This soup is delicious, nutritious and filling. The best part is that you can have dinner on the table in less than 20 minutes.
+Ingredients
+30 ounces, fluid Chicken Broth
+15 ounces, weight Canned Black Beans, Rinsed And Drained
+15 ounces, weight Chunky Salsa, Medium Heat
+15 ounces, weight Fat Free Refried Beans
+1-½ cup Cooked Chicken, Chopped
+2 cups Frozen Corn
+1 cup Shredded Cheddar Cheese
+Tortilla Chips, To Serve
+Preparation
+In a large pot, add the chicken broth, black beans, and salsa. Cook over medium-low heat until just heated through. Add in the refried beans and stir until they are incorporated.
+Add the chicken and corn and cook until the corn is defrosted and warmed. Simmer for about 10 minutes. Stir in the shredded cheese until it melts.
+Serve with tortilla chips.
+More Recipes from Lindsay
+Oatmeal Shortbread Shamrock Cookies
+Sausage Caprese Bites
+Find Lindsay elsewhere on the web.
+Website
+No Comments
+Leave a Comment!
+You must be logged in to post a comment.
+No Reviews
+You must be logged in to post a review.
+Food Gifts
+View Recipe
+Slow Cooker Season!
+Related Recipes
+Prep: 5 mins Cook: 25 mins
+Serves: 4 Level: Easy
+Share f a e
+Prep: 20 mins Cook: 2 hrs 30 mins
+Serves: 8 Level: Easy
+Prep: 10 mins Cook: 25 mins
+Prep: 10 mins Cook: 15 mins
+Prep: 30 mins Cook: -

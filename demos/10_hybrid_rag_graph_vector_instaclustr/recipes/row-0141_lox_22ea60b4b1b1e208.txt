@@ -1,0 +1,59 @@
+Lox
+===
+
+Recipe Metadata
+---------------
+Recipe ID: 22ea60b4b1b1e208
+CSV row number: 141
+Recipe name: Lox
+Source: Foodista
+URL: http://www.foodista.com/recipe/48JGHY42/lox
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00e1f80a526e7867a1de66d8fc49708fb756a1c81f55ed9db22332d82212731f/21065346.jpg
+Servings: 2
+Calories: 2455.43
+Diet labels: Low-Carb
+Health labels: Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: nordic
+Meal type: snack
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Lox
+source: Foodista
+url: http://www.foodista.com/recipe/48JGHY42/lox
+servings: 2
+calories: 2455.430324
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00e1f80a526e7867a1de66d8fc49708fb756a1c81f55ed9db22332d82212731f/21065346.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["nordic"]
+meal_type: ["snack"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Total Steps
+1
+Ingredients
+4
+Tools Needed
+Related Article
+1 tablespoon Hickory smoked salt
+8 teaspoons kosher salt
+2.5 pounds Salmon fillets
+2 tablespoons Sugar
+Instructions
+Step 1
+<a href="/technique/7S3QCKWK/mix">Mix</a> <a href="/technique/RF7SRX43/dry">dry</a> ingredients and <a href="/technique/DYM522S6/rub">rub</a> over salmon. Put salmon in a double plastic bag and <a href="/technique/K4VJ7RZ7/seal">seal.</a> <a href="/technique/ZSSVQ6FG/refrigerate">Refrigerate.</a> <a href="/technique/B52FHCF2/turn">Turn</a> over once a day for 5 days. Remove and <a href="/technique/RF7SRX43/dry">dry</a> with a paper towel.
+Tools & Equipment
+Tags
+Cookie Consent
+We use cookies to enhance your browsing experience, serve personalized content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies. Learn more

@@ -1,0 +1,123 @@
+Curried Beef
+============
+
+Recipe Metadata
+---------------
+Recipe ID: bcb8bbb7afb0f3cc
+CSV row number: 138
+Recipe name: Curried Beef
+Source: BigOven
+URL: http://www.bigoven.com/recipe/Curried-Beef/164500
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00dcf9bf77651e18562d2a9c540c3cf54a844b4a66523f0a474fd8c14ea42917/21059602.jpg
+Servings: 6
+Calories: 1587.31
+Diet labels: Low-Carb
+Health labels: Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: south east asian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Curried Beef
+source: BigOven
+url: http://www.bigoven.com/recipe/Curried-Beef/164500
+servings: 6
+calories: 1587.311772
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00dcf9bf77651e18562d2a9c540c3cf54a844b4a66523f0a474fd8c14ea42917/21059602.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["south east asian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Curried Beef
+
+Description: Delicious mix of flavors, and fairly quick to make, especially if you buy pre-cut beef strips.
+
+Recipe category: Main Dish
+
+Recipe cuisine: Asian
+
+Yield: 6
+
+Prep time: PT20M
+
+Cook time: PT30M
+
+Total time: PT20M
+
+Ingredients:
+- 1 1/2 pounds round steak (all visible fat removed, in 1/8" bite-size slices)
+- 2 Tbs veggie oil
+- 2 medium onions quartered
+- 1 Garlic
+- 4 teaspoons Curry powder
+- 1 cup Tomato juice
+- 1/2 cup Water
+- 1.25 tsp salt
+- 1/4 teaspoon Sugar
+- 1/4 teaspoon Cinnamon
+
+Instructions:
+1. Heat 1 Tbs oil in large skillet, and cook onions, garlic, and curry powder 5 mins. Put mixture in a bowl. Heat the other Tbs oil in the skillet and cook steak until browned on all sides. Add onion mixture and all other ingredients, heat to boiling, then reduce heat to low and cover and simmer 5 mins. Serve over basmati rice. Servings: 6
+
+Visible page text:
+Recipes
+Main Dish
+Stir-Fries
+Curried Beef
+WANT TO TRY
+FAVORITE
+MADE
+CUSTOM FOLDER
+Delicious mix of flavors, and fairly quick to make, especially if you buy pre-cut beef strips.
+Still searching for what to cook ?
+Find the most delicious recipes here
+Recipe
+Text
+Photos
+Nutr Nutrition
+Notes
+INGREDIENTS
+1 1/2 pounds round steak ; (all visible fat removed, in 1/8" bite-size slices)
+2 Tbs v egg ie oil
+2 medium onion s ; quartered
+1 Garlic
+4 teaspoons Curry powder
+1 cup Tomato juice
+1/2 cup Water
+1.25 tsp salt
+1/4 teaspoon Sugar
+1/4 teaspoon Cinnamon
+Copy and Customize
+About BigOven Pro
+INSTRUCTIONS
+Heat 1 Tbs oil in large skillet, and cook onions, garlic, and curry powder 5 mins. Put mixture in a bowl. Heat the other Tbs oil in the skillet and cook steak until browned on all sides. Add onion mixture and all other ingredients, heat to boiling, then reduce heat to low and cover and simmer 5 mins. Serve over basmati rice.
+Servings: 6
+Curried Beef OZCat
+Nutrition
+View line-by-line Nutrition Insights™ : Discover which ingredients contribute the calories/sodium/etc.
+Disclaimer: Nutrition facts are derived from linked ingredients (shown at left in colored bullets) and may or may not be complete. Always consult a licensed nutritionist or doctor if you have a nutrition-related medical condition.
+Calories per serving : 229
+Get detailed nutrition information, including item-by-item nutrition insights, so you can see where the calories, carbs, fat, sodium and more come from.
+What would you serve with this? Link in another recipe .
+What to make this week
+Keep an eye out for original recipes from the BigOven Kitchen every week! SEE MORE >>
+BigOven Buzz
+Freshly baked content from the creators at BigOven Kitchen . Learn tried and true tips, ticks and methods.
+MORE IDEAS
+Beef- Mongolian Beef
+Beef Wellington
+Beef:
+REVIEW THIS RECIPE
+REVIEWS

@@ -1,0 +1,136 @@
+Perfect Berry Shortcakes
+========================
+
+Recipe Metadata
+---------------
+Recipe ID: 5a66dd8a5163eca6
+CSV row number: 58
+Recipe name: Perfect Berry Shortcakes
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/76969/perfect-berry-shortcakes
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/004af33dd3fc23977a2efced2cb766ea36320967f8b6e21092a6750b14636416/21056738.jpg
+Servings: 6
+Calories: 3797.27
+Diet labels: High-Fiber
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Perfect Berry Shortcakes
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/76969/perfect-berry-shortcakes
+servings: 6
+calories: 3797.269751499524
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/004af33dd3fc23977a2efced2cb766ea36320967f8b6e21092a6750b14636416/21056738.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Perfect Berry Shortcakes
+
+Description: This perfect berry shortcake recipe with fresh and frozen berries doesn&#39;t require a food processor, pastry cutter, rolling pin, or cookie cutter to make.
+
+Recipe category: ['Dessert']
+
+Recipe cuisine: ['American']
+
+Yield: 6
+
+Prep time: PT30M
+
+Cook time: PT15M
+
+Total time: PT45M
+
+Ingredients:
+- 2 cups all-purpose bleached flour
+- 5 tablespoons sugar, divided
+- 1 tablespoon baking powder
+- 0.5 teaspoon salt
+- 0.5 cup butter, frozen
+- 0.5 cup cold half-and-half
+- 1 egg, beaten
+- 1 egg white
+- 1 (16 ounce) package unsweetened frozen raspberries, blackberries, blueberries or strawberries, thawed and crushed
+- 12 ounces fresh raspberries, blackberries or blueberries (rinsed and patted dry), or strawberries (hulled and sliced)
+- 7 tablespoons sugar, divided
+- 1 cup chilled heavy cream
+- 1 teaspoon vanilla extract
+
+Instructions:
+1. Set oven rack to lower-middle position. Preheat the oven to 425 degrees F (220 degrees C).
+2. Mix flour, 3 tablespoons sugar, baking powder, and salt in a medium bowl. Grate 2 tablespoons butter on the coarse holes of a box grater into flour mixture; toss to coat. Repeat with remaining butter. Combine half-and-half and egg in a separate bowl: pour into flour mixture. Toss with a fork to form large clumps. Lightly press clumps into a ball; add a teaspoon more half-and-half if needed.
+3. Turn dough out onto work surface; press into an 8-by-4- to 5-inch rectangle. Cut into 6 squares, placing 1 inch apart on a small baking sheet. Brush tops with egg white. Sprinkle with remaining 2 tablespoons sugar.
+4. Bake in the preheated oven until golden brown, about 12 to 14 minutes. Set aside to cool.
+5. Meanwhile, mix thawed and fresh berries with 6 tablespoons sugar in another bowl; let stand until sugar dissolves. Beat cream in a chilled glass or metal bowl with an electric mixer until frothy. Add remaining 1 tablespoon sugar gradually, continuing to beat until soft peaks form. Add vanilla.
+6. Split each shortcake crosswise; spoon a portion of berries over each cake bottom. Add a dollop whipped cream over berries. Cap with cake top and serve immediately.
+
+Visible page text:
+Recipes
+Desserts
+Cakes
+Shortcake Recipes
+Perfect Berry Shortcakes
+You don't need a food processor, pastry cutter, rolling pin, or cookie cutter to make these perfect berry shortcakes. This recipe I've developed yields a simple, foolproof biscuit that's crisp yet delicate.
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 6 servings
+For shortcakes:
+2 cups all-purpose bleached flour
+5 tablespoons sugar, divided
+1 tablespoon baking powder
+½ teaspoon salt
+½ cup butter, frozen
+½ cup cold half-and-half
+1 egg, beaten
+1 egg white (Optional)
+To assemble:
+1 (16 ounce) package unsweetened frozen raspberries, blackberries, blueberries or strawberries, thawed and crushed
+12 ounces fresh raspberries, blackberries or blueberries (rinsed and patted dry), or strawberries (hulled and sliced)
+7 tablespoons sugar, divided
+1 cup chilled heavy cream
+1 teaspoon vanilla extract
+Directions
+Set oven rack to lower-middle position. Preheat the oven to 425 degrees F (220 degrees C).
+Mix flour, 3 tablespoons sugar, baking powder, and salt in a medium bowl. Grate 2 tablespoons butter on the coarse holes of a box grater into flour mixture; toss to coat. Repeat with remaining butter. Combine half-and-half and egg in a separate bowl: pour into flour mixture. Toss with a fork to form large clumps. Lightly press clumps into a ball; add a teaspoon more half-and-half if needed.
+Turn dough out onto work surface; press into an 8-by-4- to 5-inch rectangle. Cut into 6 squares, placing 1 inch apart on a small baking sheet. Brush tops with egg white. Sprinkle with remaining 2 tablespoons sugar.
+Bake in the preheated oven until golden brown, about 12 to 14 minutes. Set aside to cool.
+Meanwhile, mix thawed and fresh berries with 6 tablespoons sugar in another bowl; let stand until sugar dissolves. Beat cream in a chilled glass or metal bowl with an electric mixer until frothy. Add remaining 1 tablespoon sugar gradually, continuing to beat until soft peaks form. Add vanilla.
+Split each shortcake crosswise; spoon a portion of berries over each cake bottom. Add a dollop whipped cream over berries. Cap with cake top and serve immediately.
+Cook’s Note
+Dough can be refrigerated up to 2 hours before baking.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Perfect Berry Shortcakes
+1
+2
+3
+4
+Next
+Most-Saved Recipes Like This
+Scrumptious Strawberry Shortcake 429 Ratings 45 mins Save
+Strawberry Shortcake 490 Ratings 1 hr Save
+Strawberry Pie 1,323 Ratings 3 hrs 30 mins Save
+Blueberry Shortbread Bars 165 Ratings 1 hr Save
+Buttermilk Strawberry Shortcake 260 Ratings 1 hr 5 mins Save
+Real Strawberry Frosting 455 Ratings 40 mins Save
+Summer Fruit Galettes 93 Ratings 30 mins Save
+Classic Strawberry Shortcakes 80 Ratings 30 mins Save
+Cottage Pudding (Cake for Strawberry Shortcake) 118 Ratings 1 hr Save
+Strawberry Cake and Frosting 200 Ratings 1 hr Save
+You’ll Also Love

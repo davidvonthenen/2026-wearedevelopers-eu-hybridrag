@@ -1,0 +1,123 @@
+Yossy Arefi’s Easy Recipe for Chocolate Chip Snickerdoodle Cake
+===============================================================
+
+Recipe Metadata
+---------------
+Recipe ID: e2a75f10076fbffb
+CSV row number: 378
+Recipe name: Yossy Arefi’s Easy Recipe for Chocolate Chip Snickerdoodle Cake
+Source: Simply Recipes
+URL: https://www.simplyrecipes.com/chocolate-chip-snickerdoodle-cake-recipe-8398872
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0262d35e5f3a222621334c5ef2e67be78bc330fd04dda77b393a27310534ad2e/21025317.jpg
+Servings: 9
+Calories: 3239.53
+Diet labels: none listed
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: snack, lunch/dinner
+Dish type: biscuits and cookies, desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Yossy Arefi’s Easy Recipe for Chocolate Chip Snickerdoodle Cake
+source: Simply Recipes
+url: https://www.simplyrecipes.com/chocolate-chip-snickerdoodle-cake-recipe-8398872
+servings: 9
+calories: 3239.531
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0262d35e5f3a222621334c5ef2e67be78bc330fd04dda77b393a27310534ad2e/21025317.jpg
+diet_labels: []
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack","lunch/dinner"]
+dish_type: ["biscuits and cookies","desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Yossy Arefi’s Easy Recipe for Chocolate Chip Snickerdoodle Cake
+
+Description: A sweet treat you can make in one bowl, Yossy Arefi&#39;s Chocolate Chip Snickerdoodle Cake from &#34;Snacking Bakes.&#34;
+
+Recipe category: ['Dessert', 'Cake']
+
+Recipe cuisine: ['American']
+
+Yield: ['9', '1 (8x8-inch) cake']
+
+Prep time: PT10M
+
+Cook time: PT30M
+
+Total time: PT40M
+
+Ingredients:
+- ¾ cup (150g) plus 2 tablespoons granulated sugar
+- 1 teaspoon ground cinnamon
+- 2 large eggs
+- ¾ cup (173g) sour cream
+- ½ cup (95g) neutral oil
+- ½ teaspoon fine sea salt
+- 1½ teaspoons baking powder
+- ½ teaspoon baking soda
+- 1¾ cups (225g) all- purpose flour
+- ½ cup (85g) semisweet chocolate chips
+
+Instructions:
+1. Preheat the oven to 350ºF: Position a rack in the center of the oven. Coat an 8×8-inch baking pan with cooking spray or brush with butter. Line the pan with a strip of parchment paper that hangs over two of the edges. Very lightly butter or spray the parchment.
+2. In a small bowl, combine 2 tablespoons of the sugar and the cinnamon. Sprinkle the bottom and sides of the pan with half of the cinnamon- sugar mixture.
+3. In a large bowl, whisk together the remaining 3/4 cup (150g) sugar and eggs until pale and foamy, about 1 minute. Add the sour cream, oil, and salt and whisk until smooth and emulsified.
+4. Whisk in the baking powder and baking soda. Fold in the flour and chocolate chips with a spatula and mix until well combined.
+5. Pour the batter into the prepared pan, smooth the top, and sprinkle the remaining cinnamon sugar over the top.
+6. Bake the cake until puffed and golden and a tester inserted into the center comes out clean or with a bit of melted chocolate, 30 to 40 minutes.
+7. Let the cake cool in the pan on a rack for about 15 minutes, then use the parchment paper to lift the cake out of the pan and onto the rack to cool. Store loosely covered at room temperature for up to 3 days.
+
+Visible page text:
+Food News
+Voices
+Yossy Arefi’s Easy Recipe for Chocolate Chip Snickerdoodle Cake
+A sweet treat you can make in one bowl.
+Yossy Arefi
+Cinnamon and sugar is a classic and delicious flavor combination that lends itself perfectly to cake. Here, sour cream adds the signature snickerdoodle tang, and I’ve added chocolate chips because, well, what isn’t better with a little bit of chocolate? Feel free to add a few more tablespoons of chips on top of the batter before you sprinkle the cinnamon sugar for bigger chocolate flavor.
+More Single Layer Cakes
+Lazy Daisy Cake
+Earthquake Cake
+Feather Cake
+Dr Pepper Cake
+Grandma's Oatmeal Cake
+Chocolate Chip Snickerdoodle Cake
+“ Snacking Bakes ” Copyright © 2023 by Yasameen Arefi-Afshar. Published by Clarkson Potter, an imprint of Crown Publishing Group, a division of Penguin Random House LLC, New York.
+3/4 cup ( 150 g ) plus 2 tablespoons granulated sugar
+1 teaspoon ground cinnamon
+2 large eggs
+3/4 cup ( 173 g ) sour cream
+1/2 cup ( 95 g ) neutral oil
+1/2 teaspoon fine sea salt
+1 1/2 teaspoons baking powder
+1/2 teaspoon baking soda
+1 3/4 cups ( 225 g ) all-purpose flour
+1/2 cup ( 85 g ) semisweet chocolate chips
+Preheat the oven to 350ºF: Position a rack in the center of the oven. Coat an 8×8-inch baking pan with cooking spray or brush with butter. Line the pan with a strip of parchment paper that hangs over two of the edges. Very lightly butter or spray the parchment. How to Line Cake and Loaf Pans with Parchment READ MORE:
+Preheat the oven to 350ºF:
+Position a rack in the center of the oven. Coat an 8×8-inch baking pan with cooking spray or brush with butter. Line the pan with a strip of parchment paper that hangs over two of the edges. Very lightly butter or spray the parchment.
+Sprinkle the pan with cinnamon and sugar: In a small bowl, combine 2 tablespoons of the sugar and the cinnamon. Sprinkle the bottom and sides of the pan with half of the cinnamon- sugar mixture.
+In a small bowl, combine 2 tablespoons of the sugar and the cinnamon. Sprinkle the bottom and sides of the pan with half of the cinnamon- sugar mixture.
+Whisk the remaining sugar and eggs, add sour cream, oil, and salt: In a large bowl, whisk together the remaining 3/4 cup (150g) sugar and eggs until pale and foamy, about 1 minute. Add the sour cream, oil, and salt and whisk until smooth and emulsified.
+In a large bowl, whisk together the remaining 3/4 cup (150g) sugar and eggs until pale and foamy, about 1 minute. Add the sour cream, oil, and salt and whisk until smooth and emulsified.
+Add the baking powder and baking soda, fold in flour and chocolate chips: Whisk in the baking powder and baking soda. Fold in the flour and chocolate chips with a spatula and mix until well combined.
+Whisk in the baking powder and baking soda. Fold in the flour and chocolate chips with a spatula and mix until well combined.
+Pour the batter into pan: Pour the batter into the prepared pan, smooth the top, and sprinkle the remaining cinnamon sugar over the top.
+Pour the batter into the prepared pan, smooth the top, and sprinkle the remaining cinnamon sugar over the top.
+Bake: Bake the cake until puffed and golden and a tester inserted into the center comes out clean or with a bit of melted chocolate, 30 to 40 minutes.
+Bake the cake until puffed and golden and a tester inserted into the center comes out clean or with a bit of melted chocolate, 30 to 40 minutes.
+Cool: Let the cake cool in the pan on a rack for about 15 minutes, then use the parchment paper to lift the cake out of the pan and onto the rack to cool. Store loosely covered at room temperature for up to 3 days.
+Let the cake cool in the pan on a rack for about 15 minutes, then use the parchment paper to lift the cake out of the pan and onto the rack to cool. Store loosely covered at room temperature for up to 3 days.
+Most Recent
+Cakes
+Easy Desserts
+Easy Cakes

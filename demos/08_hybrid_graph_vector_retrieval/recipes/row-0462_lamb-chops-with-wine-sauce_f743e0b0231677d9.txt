@@ -1,0 +1,161 @@
+Lamb Chops with Wine Sauce
+==========================
+
+Recipe Metadata
+---------------
+Recipe ID: f743e0b0231677d9
+CSV row number: 462
+Recipe name: Lamb Chops with Wine Sauce
+Source: Delish
+URL: http://www.delish.com/cooking/recipe-ideas/recipes/a31397/lamb-chops-wine-sauce-recipe-rbk1210/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02f8610488cd0c97d07d16e49a7d5613375bc50172512be7ce6e1a7515bdb0df/21009998.jpg
+Servings: 4
+Calories: 3768.82
+Diet labels: Low-Carb
+Health labels: Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Lamb Chops with Wine Sauce
+source: Delish
+url: http://www.delish.com/cooking/recipe-ideas/recipes/a31397/lamb-chops-wine-sauce-recipe-rbk1210/
+servings: 4
+calories: 3768.819750000001
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02f8610488cd0c97d07d16e49a7d5613375bc50172512be7ce6e1a7515bdb0df/21009998.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Find the perfect food and drink for every occasion, from weeknight dinners to holiday feasts . We've got all the apps , sides , mains, and more you could ever need, including classic recipes you'll make again and again AND creative recipes you can only find here. Happy cooking!
+What's New
+This Strawberries & Cream Tiramisu Adds A Fruity Twist To The Classic Italian Dessert
+Key Lime Mojitos
+Caesar Grilled Asparagus
+Yellow Cake
+Copycat McDonald’s McRib Sandwich
+46 Fresh Spring Dinners You'll Be Making Again & Again, All Season Long
+Get our best recipes right to your inbox.
+Never wonder what to make again. Less scrolling, more cooking.
+Best Breakfasts
+Morning Buns
+Lemon Pound Cake
+Classic English Muffins
+Rum Crumb Cake
+Ham & Cheese Brunch Bake
+Monte Cristo Rolls
+Carrot Cake Bread
+Eggs Benedict Rolls
+How To Cook Bacon In The Oven
+Baileys Chocolate Coffee Cake
+Baked Feta Frittata
+Air Fryer Baklava Granola
+Making It Delish: 101
+People Are Freaking Out Over This Crispy French Fry Hack
+How to Make Pickles
+How To Make A Smoothie
+Best Guacamole
+How To Fry An Egg
+30 High-Protein Spring Chicken Recipes You'll Enjoy All Season Long
+Lunch Ideas
+79 Tasty Lunch Ideas To Turn Your Work Day Around
+Italian Grinder Chicken Salad Wrap
+Creamy Peanut-Lime Chicken With Noodles
+Chopped Sandwich
+Tofu Nuggets
+Copycat Hacks
+Copycat Chili's Nashville Hot Mozzarella Sticks
+Copycat Olive Garden Zuppa Toscana
+Copycat Olive Garden Black Tie Mousse Cake
+Copycat Cheesecake Factory Original Cheesecake
+McDonald's Filet-O-Fish
+Copycat Chipotle Burrito Bowl
+Copycat The Cheesecake Factory Cinnabon Cinnamon Swirl Cheesecake
+Copycat Little Debbie Oatmeal Creme Pies
+Party Drinks
+Blueberry Lemon Drop Slushies
+Orange Crush Cocktail
+Strawberry Mezcal Margarita
+Paloma Cocktail
+App Attack
+Chickpea Cheese Chips
+Chicken Flautas
+Whipped Cottage Cheese 3 Ways
+Carrot Hummus
+Crispy Carrot Chips
+Deviled Egg Dip
+Mini Lasagnas
+Jalapeño Popper Deviled Eggs
+Bacon Asparagus Brie Bites
+Dill Pickle Chex Mix
+Air Fryer Deviled Eggs
+Pizza Roses
+Sweet Treats
+Mango Sticky Rice
+No-Bake Strawberries & Cream Delight
+Lemon-Blueberry Tiramisu
+Fruit Tart
+Lemon Layer Cake
+Lemon Tart
+Pistachio Chocolate Cheesecake Bars
+Peeps Kiss Cookies
+Spectacular Sides
+Cobb Egg Salad
+Creamy Pesto Orzotto
+Parmesan Ranch Smashed Carrots
+Cheesy Baked Burrito Rice
+French Onion Cabbage Gratin
+Roasted Beet & Goat Cheese Salad
+Sweet Potato Casserole With Marshmallows
+Gnocchi Green Bean Casserole
+Mashed Potato Casserole
+Slow-Cooker Mashed Potatoes
+Boursin Mac & Cheese
+Southern Collard Greens
+Recipes For Special Diets
+57 Gluten-Free Dinner Recipes
+47 Quick & Easy Keto Dinner Recipes
+100+ Flavorful Vegan Recipes
+77 Easy Low-Carb Recipes
+Menu Planning HQ
+26 Best Mexican Desserts
+65 Top Delish Membership Recipes
+30 Classic Italian Dinner Recipes
+18 Quick, Healthy & Cheap Meals
+DIY
+CONDIMENTS
+Bacon Jam
+Big Mac Sauce
+Tuscan Butter
+Remoulade Sauce
+SAUCES
+Alabama White Sauce
+Sunday Sauce
+Pizza Sauce
+Homemade Teriyaki Sauce
+DIPS
+Corn Dip
+Jalapeño Popper Dip
+Homemade Salsa
+Even More
+Lemon Ricotta Pasta
+'Cini 'Tini Chicken Piccata
+Santa Fe Skillet Chicken
+Italian Grinder Bean Salad
+Sangria Cake
+Eva Longoria’s Beef Bourguignon
+Spring Chicken Soup
+Grilled Tilapia

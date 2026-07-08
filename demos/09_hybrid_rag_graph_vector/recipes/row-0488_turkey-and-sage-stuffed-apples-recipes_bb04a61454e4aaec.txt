@@ -1,0 +1,147 @@
+Turkey And Sage Stuffed Apples recipes
+======================================
+
+Recipe Metadata
+---------------
+Recipe ID: bb04a61454e4aaec
+CSV row number: 488
+Recipe name: Turkey And Sage Stuffed Apples recipes
+Source: runningtothekitchen.com
+URL: http://www.runningtothekitchen.com/turkey-and-sage-stuffed-apples/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/032e795a226eef0e53b0305847c884e0e7384cecb5626b424ef0f7459524356f/21049901.jpeg
+Servings: 4
+Calories: 1540.16
+Diet labels: High-Fiber
+Health labels: Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Turkey And Sage Stuffed Apples recipes
+source: runningtothekitchen.com
+url: http://www.runningtothekitchen.com/turkey-and-sage-stuffed-apples/
+servings: 4
+calories: 1540.161363
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/032e795a226eef0e53b0305847c884e0e7384cecb5626b424ef0f7459524356f/21049901.jpeg
+diet_labels: ["High-Fiber"]
+health_labels: ["Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Turkey and Sage Stuffed Apples
+
+Description: These turkey and sage stuffed apples are like a little bite of fall. Sweet apples and savory ground turkey make a delicious combination.
+
+Recipe category: ['Main Dishes']
+
+Recipe cuisine: ['American']
+
+Yield: ['4', '4 servings']
+
+Prep time: PT15M
+
+Cook time: PT30M
+
+Total time: PT45M
+
+Ingredients:
+- 4 apples
+- 1 tablespoon extra virgin olive oil
+- 1 pound ground turkey
+- 1/2 yellow onion (chopped)
+- 2 cloves garlic (minced)
+- 2 cups chopped tuscan kale
+- salt and pepper
+- 2 tablespoon chopped fresh sage
+- 1/2 cup raisins
+- 1 cup Nakano natural rice vinegar
+
+Instructions:
+1. Preheat oven to 350 degrees.
+2. Add oil to a large skillet over medium high heat.
+3. Once hot, add turkey, break up with a spatula and cook until browned.
+4. Add the onion and garlic, mix and cook for about 2 minutes until fragrant and onion starts to soften.
+5. Add the kale and season with salt and pepper.
+6. Once the kale has wilted, add the sage and raisins, mix together and cook for another 2 minutes then turn off the heat.
+7. Pour the vinegar into the bottom of a 9x13 baking dish.
+8. Spoon the mixture into each apple half and place in the baking dish.
+9. Bake for 30-35 minutes until the stuffing is browned on top and the apples are softened and cooked.
+
+Visible page text:
+Check out our best-selling cookbook! →
+Home › Recipe Box › Main Dishes › Turkey
+Turkey and Sage Stuffed Apples
+By Gina Matsoukas
+Sep 19, 2014, Updated Dec 17, 2023
+As an Amazon Associate, I earn from qualifying purchases.
+These turkey and sage stuffed apples are like a little bite of fall.
+When we were planning our trip to Europe earlier this year, I really didn’t want to go in the beginning of September.
+I knew I would hate leaving at the end of the summer, missing all my perfectly ripe tomatoes, the end of peach season and the first few crisp, fall-like mornings.
+But, that’s exactly when we ended up going and that’s exactly what I ended up missing when we arrived back in NY on September 15 smack in the middle of the apple craze.
+Apples are a big deal in NY.
+Every you-pick orchard is like a mad house every single weekend from Labor Day until Halloween packed with people from the city trying to be all “country” for one day a year.
+So, in the irony of all ironies, anyone actually from “the country” knows better than to try and get local apples from the orchard during peak season and instead just goes to the grocery store.
+While I would’ve preferred savoring the last two weeks of peach season, finding Honeycrisp apples back in the store and local apples for $0.99/lb wasn’t the worst thing in the world to come back to.
+These apples are stuffed with little bits of fall from turkey to sage to raisins and kale.
+Then they’re baked in a vinegar bath using rice vinegar making the apples absorb some of the tangy-ness while they cook which goes perfectly to offset the sweetness from the raisins and apples.
+I guess there are definitely worse things to come home to.
+This recipe is the perfect way to ease into all the stuffed foods too. Before you know it, you’ll be stuffing delicata squash , red kuri squash and honeynut squash too.
+Looking for a sweet version of baked apples? Try these air fryer baked apples . With a pecan crumble topping they’re the perfect fall dessert.
+Ingredients 1x 2x 3x
+▢ 4 apples , halved from stem to bottom, cored and carefully hollowed out (I used a melon baller )
+▢ 1 tablespoon extra virgin olive oil
+▢ 1 pound ground turkey
+▢ 1/2 yellow onion , chopped
+▢ 2 cloves garlic , minced
+▢ 2 cups chopped tuscan kale
+▢ salt and pepper
+▢ 2 tablespoon chopped fresh sage
+▢ 1/2 cup raisins
+▢ 1 cup Nakano natural rice vinegar
+Instructions
+Preheat oven to 350 degrees.
+Add oil to a large skillet over medium high heat.
+Once hot, add turkey, break up with a spatula and cook until browned.
+Add the onion and garlic, mix and cook for about 2 minutes until fragrant and onion starts to soften.
+Add the kale and season with salt and pepper.
+Once the kale has wilted, add the sage and raisins, mix together and cook for another 2 minutes then turn off the heat.
+Pour the vinegar into the bottom of a 9×13 baking dish.
+Spoon the mixture into each apple half and place in the baking dish.
+Bake for 30-35 minutes until the stuffing is browned on top and the apples are softened and cooked.
+Nutrition
+Nutrition information is automatically calculated, so should only be used as an approximation.
+Additional Info
+Other Nakano recipes: Cilantro mango wild rice salad Sea salt and vinegar beet chips Grilled scallop citrus ceviche Spicy rosemary tomato peach chutney
+*This post is sponsored by Nakano as part of my ongoing brand ambassadorship with them. All opinions, content and photography are my own.
+Gina Matsoukas is an AP syndicated writer. She is the founder, photographer and recipe developer of Running to the Kitchen — a food website focused on providing healthy, wholesome recipes using fresh and seasonal ingredients. Her work has been featured in numerous media outlets both digital and print, including MSN, Huffington post, Buzzfeed, Women’s Health and Food Network.
+Turkey
+Turkey Sweet Potato Skillet
+Cheddar Stuffed Turkey Zucchini Meatballs
+Buffalo Turkey Cauliflower Skillet
+Tart Cherry Chestnut Stuffed Turkey Roulade
+Leave a comment Cancel reply
+24 Comments
+oh my goodness. . love that you stuffed apples . . looks so delicious and sounds so good!!! love these, Gina! Reply
+oh my goodness. . love that you stuffed apples . . looks so delicious and sounds so good!!! love these, Gina!
+I love the idea of a stuffed apple for dinner! Reply
+I love the idea of a stuffed apple for dinner!
+These photos are beautiful and the recipe makes me long for sweater days! Love it! Reply
+These photos are beautiful and the recipe makes me long for sweater days! Love it!
+These stuffed apples look amazing! I normally think of baked apples as sweet so I’m loving this savory twist. Reply
+These stuffed apples look amazing! I normally think of baked apples as sweet so I’m loving this savory twist.
+Soooooo making this. Gorgeous recipe, gorgeous shots!! Reply
+Soooooo making this. Gorgeous recipe, gorgeous shots!!
+As Seen In
+©2026 Running to the Kitchen®. All rights reserved. Privacy Policy • Powered by CultivateWP .

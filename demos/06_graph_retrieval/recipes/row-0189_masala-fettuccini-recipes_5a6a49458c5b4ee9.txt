@@ -1,0 +1,125 @@
+Masala Fettuccini recipes
+=========================
+
+Recipe Metadata
+---------------
+Recipe ID: 5a6a49458c5b4ee9
+CSV row number: 189
+Recipe name: Masala Fettuccini recipes
+Source: feedyoursoul2.com
+URL: http://www.feedyoursoul2.com/2015/04/masala-fettuccini.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/013026c34ea7f27a542b8b5eec1acd1ecd62fe10cb0e1e54dcd38a493bf4b900/21122445.jpeg
+Servings: 4
+Calories: 2769.66
+Diet labels: Balanced
+Health labels: Vegan, Vegetarian, Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Tree-Nuts, Sulfites
+Cuisine type: indian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Masala Fettuccini recipes
+source: feedyoursoul2.com
+url: http://www.feedyoursoul2.com/2015/04/masala-fettuccini.html
+servings: 4
+calories: 2769.664964868343
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/013026c34ea7f27a542b8b5eec1acd1ecd62fe10cb0e1e54dcd38a493bf4b900/21122445.jpeg
+diet_labels: ["Balanced"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Tree-Nuts","Sulfites"]
+cuisine_type: ["indian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+This post may contain affiliate links which means I may receive a commission for purchases made through links. I will only recommend products that I have personally used! Learn more on my Private Policy page.
+Recently, I made a Masala Lentils that were awesome. My wife and I love them. So, I had the idea to try the sauce in a pasta. My wife kept fighting the idea. I mean, I do not blame her. I am telling you the Masala Lentils were just amazing, and sometimes, it just does not make sense to mess with a good thing.
+Masala Fettuccini
+Masala Lentils
+I just had to try it. I really thought this idea would work. I, we, were not disappointed. The paste with its spices is so good. Then, the fresh cilantro is added for the perfect balance. This paste is added to softened onions and garlic which adds sweetness and the right amount of oomph. Then, I use coconut milk to have a creamy sauce. Coconut milk adds such good texture and is not nearly as rich as cream. I used stewed tomatoes so I would have big chunks of tomato in the pasta. Once the pasta sauce has set up, the cooked noodles are added. It is that simple. This whole dish comes together pretty darn quickly.
+I have been thinking about other dishes to combine this paste with. We just love it. The paste would go really well with chicken. You will have to come back and search masala on my site to see the different ways I find to use this paste.
+Masala Fettuccini 2015-04-01 02:30:09 Serves 4 Fusion of Italian and Indian to make this Masala Fettuccini Write a review Save Recipe Print Prep Time 10 min Cook Time 20 min Total Time 30 min Prep Time 10 min Cook Time 20 min Total Time 30 min Ingredients 1½ teaspoons cumin 1½ teaspoon coriander 1-3 teaspoons red pepper flakes* 1 tablespoons smoked paprika 2 teaspoons garam masala 1 teaspoon salt 2 tablespoons avocado oil 2 tablespoons tomato paste ⅓ cup packed cilantro leaves ————————- 1 tablespoon coconut oil 1 small red onion, diced 2 cloves garlic, minced ⅓ cup masala paste 1 – 29 ounce can of stewed tomatoes 1 cup coconut milk 2 – 3 handfuls spinach 1 lb fettuccini 1 tablespoon salt. Instructions In a small food processor, add red pepper flakes, smoked paprika, cumin, coriander, garam marsala, and salt and pulse. Give a couple pulse to incorporate. Next, add avocado oil, tomato paste, and cilantro leaves. Pulse until paste forms and everything is well incorporated. Set aside. Heat a skillet over medium heat. Melt coconut oil and add diced onion, cooking until translucent, 4-5 minutes. Add in minced garlic and cook for one more minute. Stir in masala paste and cook for 1-2 minutes, then stir in stewed tomatoes and coconut milk. Stir together and bring to a boil. Finish by folding in the spinach. Pasta While the sauce is simmering, bring the pasta water to a boil. Once boiling, add in the Kosher salt. Drop in the pasta and cook until al dente. (Do not overcook; the pasta will cook in the sauce.) Drain the fettuccini and add into the sauce. Cook for a couple more minutes to meld together. Serve and enjoy! Feed Your Soul Too http://www.feedyoursoul2.com/ The paste ingredients include the freshness of cilantro.
+1½ teaspoons cumin
+1½ teaspoon coriander
+1-3 teaspoons red pepper flakes*
+1 tablespoons smoked paprika
+2 teaspoons garam masala
+1 teaspoon salt
+2 tablespoons avocado oil
+2 tablespoons tomato paste
+⅓ cup packed cilantro leaves
+————————-
+1 tablespoon coconut oil
+1 small red onion, diced
+2 cloves garlic, minced
+⅓ cup masala paste
+1 – 29 ounce can of stewed tomatoes
+1 cup coconut milk
+2 – 3 handfuls spinach
+1 lb fettuccini
+1 tablespoon salt.
+In a small food processor, add red pepper flakes, smoked paprika, cumin, coriander, garam marsala, and salt and pulse. Give a couple pulse to incorporate. Next, add avocado oil, tomato paste, and cilantro leaves. Pulse until paste forms and everything is well incorporated. Set aside.
+Heat a skillet over medium heat. Melt coconut oil and add diced onion, cooking until translucent, 4-5 minutes. Add in minced garlic and cook for one more minute.
+Stir in masala paste and cook for 1-2 minutes, then stir in stewed tomatoes and coconut milk. Stir together and bring to a boil.
+Finish by folding in the spinach.
+While the sauce is simmering, bring the pasta water to a boil.
+Once boiling, add in the Kosher salt.
+Drop in the pasta and cook until al dente. (Do not overcook; the pasta will cook in the sauce.)
+Drain the fettuccini and add into the sauce.
+Cook for a couple more minutes to meld together.
+Serve and enjoy!
+Paste Ingredients
+The spices and tomato paste are thrown into a food processor and then finished with the cilantro.
+Paste Processed
+Cilantro Added to Paste
+First, the onions and garlic are softened. Then, the paste is added and cooked a little to let the fragrance come out.
+Paste Added to Onions & Garlic
+Paste Being Cooked
+The sauce is finished by adding the coconut milk and the tomatoes. Heat it through and mix gently.
+Coconut Milk and Stewed Tomatoes Added
+Sauce Mixed
+The spinach is wilted in the sauce. Then, the cooked pasta is added.
+Spinach Added
+Spinach Wilted in Sauce
+Fettuccini Added
+The final pasta plated up.
+Plated
+Like this:
+Reader Interactions
+Comments
+It can be tough to find the right ingredients for this blend in my area so I actually purchase the garam masala spice blend from RawSpiceBar’s and it was great! Reply Obviously, the garam masala picks up a few more ingredients than I used but it should be great. The Raw Spice bar has good products. Reply
+It can be tough to find the right ingredients for this blend in my area so I actually purchase the garam masala spice blend from RawSpiceBar’s and it was great!
+Obviously, the garam masala picks up a few more ingredients than I used but it should be great. The Raw Spice bar has good products. Reply
+Obviously, the garam masala picks up a few more ingredients than I used but it should be great. The Raw Spice bar has good products.
+Looks delicious Peter and your step by step photos inspire me Reply
+Looks delicious Peter and your step by step photos inspire me
+That looks amazing! Reply
+That looks amazing!
+Masala Fettuccini never looked better! One of my favorite recipes. Reply
+Masala Fettuccini never looked better! One of my favorite recipes.
+beautiful dish, Peter. I love when two worlds collide, creating a flavor blasted dish! Reply
+beautiful dish, Peter. I love when two worlds collide, creating a flavor blasted dish!
+This sounds SO good. I want to make the masala lentils you mentioned, that’d be a great idea during next week when it’s Passover and I can’t eat pasta! Reply Shaina, I have the same issue. That is why I have been eating pasta now. Reply
+This sounds SO good. I want to make the masala lentils you mentioned, that’d be a great idea during next week when it’s Passover and I can’t eat pasta!
+Shaina, I have the same issue. That is why I have been eating pasta now. Reply
+Shaina, I have the same issue. That is why I have been eating pasta now.
+What a uniquely delicious idea! Love both Indian and Italian cuisine so I think this is one awesome dish! Reply My wife and I love each food as well. Reply
+What a uniquely delicious idea! Love both Indian and Italian cuisine so I think this is one awesome dish!
+My wife and I love each food as well. Reply
+My wife and I love each food as well.
+This dish looks delicious. I cook a lot with these spices so I can only imagine how good it tastes. Reply Then you will have to give it a try. Reply
+This dish looks delicious. I cook a lot with these spices so I can only imagine how good it tastes.
+Then you will have to give it a try. Reply
+Then you will have to give it a try.
+Leave a Reply Cancel reply

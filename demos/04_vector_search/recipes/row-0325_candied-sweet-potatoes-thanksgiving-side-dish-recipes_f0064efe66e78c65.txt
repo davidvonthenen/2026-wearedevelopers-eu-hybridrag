@@ -1,0 +1,174 @@
+Candied Sweet Potatoes- Thanksgiving Side Dish recipes
+======================================================
+
+Recipe Metadata
+---------------
+Recipe ID: f0064efe66e78c65
+CSV row number: 325
+Recipe name: Candied Sweet Potatoes- Thanksgiving Side Dish recipes
+Source: thegraciouswife.com
+URL: http://www.thegraciouswife.com/candied-sweet-potatoes-thanksgiving-side-dish-recipe/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0208da0466b8218eba5f964cc31b28be17c55ed496ea5c312f5d1cab45da06aa/21133704.jpeg
+Servings: 8
+Calories: 1517.26
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: special occasions, starter
+
+Original CSV Fields
+-------------------
+recipe_name: Candied Sweet Potatoes- Thanksgiving Side Dish recipes
+source: thegraciouswife.com
+url: http://www.thegraciouswife.com/candied-sweet-potatoes-thanksgiving-side-dish-recipe/
+servings: 8
+calories: 1517.256
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0208da0466b8218eba5f964cc31b28be17c55ed496ea5c312f5d1cab45da06aa/21133704.jpeg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["special occasions","starter"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Candied Sweet Potatoes
+
+Description: Candied Sweet Potatoes are a classic holiday side featuring tender sweet potatoes baked in a buttery, spiced brown sugar sauce until it crystallizes and leaves a delicate, crispy, sweet candy coating on each sweet potato bite.
+
+Recipe category: ['Side Dish']
+
+Recipe cuisine: ['American']
+
+Yield: ['8']
+
+Prep time: PT5M
+
+Cook time: PT60M
+
+Total time: PT65M
+
+Ingredients:
+- 6 large sweet potatoes
+- ½ cup butter
+- 1 cup brown sugar
+- ¼ teaspoon salt
+- 1 teaspoon ground cinnamon
+- ½ teaspoon ground nutmeg
+- ½ teaspoon ground ginger
+- 1 teaspoon vanilla
+
+Instructions:
+1. Preheat oven to 425°F.
+2. Bake sweet potatoes on a lined baking sheet for about 35 minutes, until almost cooked through and tender but not too soft.
+3. Remove from oven and allow to cool enough to handle. Change oven temperature to 375°F.
+4. Peel skins off potatoes and cut into ½-inch slices.
+5. Arrange slices in a 3 quart casserole dish
+6. To a medium saucepan over medium heat. Add butter, sugar, and salt. Stir to combine.
+7. Heat to boiling. Boil for 5 minutes, stirring often.
+8. Remove from heat. Stir in vanilla and/or cinnamon, nutmeg, and ginger, if using.
+9. Pour glaze over sweet potatoes.
+10. Bake for about 1 hour at 375°F, uncovered, gently stirring every 15 to 20 minutes to coat the sweet potatoes. You&#39;ll be able to tell they&#39;re done when they turn a very rich orange-ish brown. Your sugar mixture will stay runny on the bottom.
+11. Allow to cool at room temperature for 10 minutes before serving.
+
+Visible page text:
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+Skip to footer
+Share
+Tweet
+Pin
+Mix
+Candied Sweet Potatoes are a classic holiday side featuring tender sweet potatoes baked in a buttery, spiced brown sugar sauce until it crystallizes and leaves a delicate, crispy, sweet candy coating on each sweet potato bite.
+Candied Sweet Potatoes
+For our family, Candied sweet potatoes are just one of those dishes that HAVE to adorn the holiday table each year. They are a classic holiday side dish with bites of sweet potatoes baked in a buttery spiced brown sugar sauce that crystallizes on the sweet potato as it bakes. This creates a heavenly, delicately crispy, sweet candy coating on each sweet potato bite.
+Even though the cook time is long, it's very easy to prep, uses just a few pantry ingredients, and can even be prepped ahead of time.
+Growing up, candied sweet potatoes were a delicacy on our holiday table. My grandma served them in a small crystal dish, and we each got one piece to savor and enjoy. It was even better than dessert! I hope your family enjoys these candied sweet potatoes as much as we do!
+Is Sweet Potato Casserole the Same as Candied Sweet Potatoes?
+No, they are actually quite different. Sweet potato casserole is a casserole with sweet potatoes mashed with sugar, butter, and eggs to make a nice, fluffy, souffle texture. It's then topped with a topping such as mini marshmallows or, my favorite, brown sugar and pecan.
+Candied Sweet Potatoes are whole sweet potatoes, cut down into slices, wedges, or chunks, not mashed. Then it's baked or cooked on the stovetop until sugar crystallizes and literally candies these pieces of sweet potato.
+Should Sweet Potatoes Be Boiled Before Baking in this Recipe?
+No, that's not necessary. In this recipe, we'll bake the potatoes to get them nice and soft and tender. Boiling sweet potatoes actually lowers their glycemic index, making them less sweet, so I don't recommend it for a recipe like these candied potatoes because we want them to be sweet!
+Why Are the Spices Optional?
+I grew up with my grandma making it without them, and it was delicious. It was still nostalgic, indulgent, and amazing when made this way. Spices add a little extra cozy flavor, but nothing will be taken away if you don't use them.
+Candied Sweet Potato Variations and Toppings
+Maple Syrup: You can use maple syrup instead of brown sugar. It will give it a fantastic fall flavor. However, in my experience the sauce does stay a bit runnier when you use maple syrup instead.
+Orange Zest: Add some to the sauce for a bright citrus pop or sprinkle some on top to add some pretty color.
+Marshmallows: Marshmallows and sweet potatoes are a classic combination, and if you love this combo, go ahead and sprinkle some on top of your candied sweet potatoes to bake for the last 10 to 15 minutes. You can also give them a super quick broil if they didn't brown enough to your liking.
+Bacon: Add some bits of savory goodness by mixing crispy crumbled bacon in at the same time as the sweet potatoes. This way the bacon will become candied too!
+Flaky Sea Salt: Get that salted caramel look and taste by adding some pretty flaky sea salt on top just before serving.
+Toppings: For this recipe, the toppings are just for looks in my opinion. It's so amazing already, it's hard to make it better. You can add some crunch and pretty texture with chopped nuts such as walnuts, pecans, or almond slices or slivers. You can also sprinkle on some of your favorite granola as a pretty finishing touch that gives a little extra flavor and crunch too.
+Can You Make Candied Sweet Potatoes Ahead of Time?
+Yes! Prepare the sweet potatoes and the glaze (through step 9), and combine both in the casserole dish. Then cover and refrigerator for up to 24 hours. When ready to bake, add an additional 10-15 minutes to the cooking time to account for the cold dish.
+More Sweet Potato Recipes You'll Love
+Southern Sweet Potato Casserole - a sweet, fluffy sweet potato casserole with a crispy pecan and brown sugar topping.
+Sweet Potato Pecan Cupcakes - Moist spiced cupcakes with creamy caramel frosting. A festive non-pie dessert that's perfect for the holidays.
+Hasselback Sweet Potatoes - simple roasted hasselback sweet potatoes that are easy to make but look so elegant.
+Southern Sweet Potato Pie - classic sweet potato pie with a crumble topping in a homemade buttery crust.
+Sweet Potato Turkey Shepherd's Pie - a great recipe to use up holiday leftovers with turkey in a creamy gravy topped with mashed sweet potatoes.
+Candied Sweet Potatoes Video
+Ingredients
+▢ 6 large sweet potatoes
+▢ ½ cup butter
+▢ 1 cup brown sugar
+▢ ¼ teaspoon salt
+Optional Spices
+▢ 1 teaspoon ground cinnamon
+▢ ½ teaspoon ground nutmeg
+▢ ½ teaspoon ground ginger
+▢ 1 teaspoon vanilla
+Instructions
+Preheat oven to 425°F.
+Bake sweet potatoes on a lined baking sheet for about 35 minutes, until almost cooked through and tender but not too soft.
+Remove from oven and allow to cool enough to handle. Change oven temperature to 375°F.
+Peel skins off potatoes and cut into ½-inch slices.
+Arrange slices in a 3 quart casserole dish
+To a medium saucepan over medium heat. Add butter, sugar, and salt. Stir to combine.
+Heat to boiling. Boil for 5 minutes, stirring often.
+Remove from heat. Stir in vanilla and/or cinnamon, nutmeg, and ginger, if using.
+Pour glaze over sweet potatoes.
+Bake for about 1 hour at 375°F, uncovered, gently stirring every 15 to 20 minutes to coat the sweet potatoes. You'll be able to tell they're done when they turn a very rich orange-ish brown. Your sugar mixture will stay runny on the bottom.
+Allow to cool at room temperature for 10 minutes before serving.
+Notes
+Make Ahead: Prepare the sweet potatoes and the glaze (through step 9), and combine both in the casserole dish. Then cover and refrigerator for up to 24 hours. When ready to bake, add an additional 10-15 minutes to the cooking time to account for the cold dish.
+Storage: Store covered in the refrigerator for up to 5 to 7 days. Reheat in a skillet on the stovetop or in individual portion in the microwave.
+Nutrition
+UPDATE INFO: This recipe was originally published in November 2014. It has been updated with new pictures, tips, and video, and republished in November 2023.
+Never Miss a Thing!
+Join our newsletter to get new recipes, tips, tricks, and tutorials every week!
+Success! Now check your email to confirm your subscription.
+More Side Dishes
+Microwave Acorn Squash
+Baked Butternut Squash
+Cheesy Corn Bake
+Southern Corn Pudding
+Reader Interactions
+Comments
+These sound amazing! Thank you for linking up to Party Time and we hope to see you again next week! Reply
+These sound amazing! Thank you for linking up to Party Time and we hope to see you again next week!
+a wonderful side dish! Thank you for sharing at the Thursday Favorite Things blog hop.Watch for your feature on Monday ♥ Reply
+a wonderful side dish! Thank you for sharing at the Thursday Favorite Things blog hop.Watch for your feature on Monday ♥
+These look wonderful! I just wanted to stop by again to let you know that I'm featuring them at this week's link party! http://www.thelifeofjenniferdawn.com/2014/11/a-little-bird-told-me-link-party-118.html Reply
+These look wonderful! I just wanted to stop by again to let you know that I'm featuring them at this week's link party! http://www.thelifeofjenniferdawn.com/2014/11/a-little-bird-told-me-link-party-118.html
+Hey I'm wondering if I can prep these ahead of time and finish cooking that day? Any tips? I am cooking for a very large number of people. Reply
+Hey I'm wondering if I can prep these ahead of time and finish cooking that day? Any tips? I am cooking for a very large number of people.
+I'd like to know if it's possible to bake these until finished then transfer to a crockpot to keep them warm for a huge Potluck Thanksgiving we're having? Thank you! I look forward to trying these, they look delicious! Reply
+I'd like to know if it's possible to bake these until finished then transfer to a crockpot to keep them warm for a huge Potluck Thanksgiving we're having? Thank you! I look forward to trying these, they look delicious!
+Leave a Reply Cancel reply
+Footer
+About The Gracious Wife
+Contact Us
+Copyright Notice
+Privacy Policy
+Disclosure & Terms of Service
+You can find me here too!
+Disclosure

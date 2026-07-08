@@ -1,0 +1,89 @@
+Pistachio Dark-Chocolate Crisps
+===============================
+
+Recipe Metadata
+---------------
+Recipe ID: 78e80cc82e971f0d
+CSV row number: 156
+Recipe name: Pistachio Dark-Chocolate Crisps
+Source: Epicurious
+URL: https://www.epicurious.com/recipes/food/views/pistachio-dark-chocolate-crisps-240988
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00f9dcbfe2f28f8fb67bd69bf5b5867562b987f3a302de7b8bf9bb2e040a2a79/21021522.jpg
+Servings: 8
+Calories: 1631.28
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Pistachio Dark-Chocolate Crisps
+source: Epicurious
+url: https://www.epicurious.com/recipes/food/views/pistachio-dark-chocolate-crisps-240988
+servings: 8
+calories: 1631.281922
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00f9dcbfe2f28f8fb67bd69bf5b5867562b987f3a302de7b8bf9bb2e040a2a79/21021522.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Pistachio Dark-Chocolate Crisps
+
+Description: This variation on spice cookies will beguile with its unlikely ingredients: A little curry powder provides an unplaceable base note for flat brown-sugar tuiles studded with pistachios and chocolate chunks. And these are the least fussy of cookies—just spread the batter, sprinkle with chocolate and nuts, and then break up into pieces after baking.
+
+Yield: Makes 8 servings
+
+Cook time: 25 min
+
+Total time: 1 hr
+
+Ingredients:
+- 1/2 stick unsalted butter, softened
+- 1/2 cup packed light brown sugar
+- 6 tablespoons all-purpose flour
+- 1/4 teaspoon pure vanilla extract
+- 1/8 teaspoon salt
+- 1/8 teaspoon curry powder
+- 1 large egg white
+- 2 ounces fine-quality bittersweet chocolate, chopped
+- 1/2 cup shelled roasted pistachios, chopped
+- Equipment: a small offset spatula
+
+Instructions:
+1. Preheat oven to 350°F with rack in middle. Line a large baking sheet with parchment.
+2. Blend butter, brown sugar, flour, vanilla, salt, curry powder, and egg white in a food processor until smooth.
+3. Glue parchment down with a dab of batter in each corner, then spread remaining batter evenly into a 14- by 10-inch rectangle (1/8-inch-thick) on parchment with spatula. Scatter chocolate and nuts evenly over batter, then bake until firm and golden-brown, 18 to 20 minutes. Transfer, still on parchment, to a rack to cool completely. Remove from paper, breaking into pieces.
+
+Visible page text:
+This variation on spice cookies will beguile with its unlikely ingredients: A little curry powder provides an unplaceable base note for flat brown-sugar tuiles studded with pistachios and chocolate chunks. And these are the least fussy of cookies—just spread the batter, sprinkle with chocolate and nuts, and then break up into pieces after baking.
+Crisps can be made 1 day ahead and kept in an airtight container at room temperature.
+Recipe information
+Total Time 1 hr
+Total Time
+1 hr
+Yield Makes 8 servings
+Yield
+Makes 8 servings
+Ingredients
+Preparation
+Step 1 Preheat oven to 350°F with rack in middle. Line a large baking sheet with parchment. Step 2 Blend butter, brown sugar, flour, vanilla, salt, curry powder, and egg white in a food processor until smooth. Step 3 Glue parchment down with a dab of batter in each corner, then spread remaining batter evenly into a 14- by 10-inch rectangle (1/8-inch-thick) on parchment with spatula. Scatter chocolate and nuts evenly over batter, then bake until firm and golden-brown, 18 to 20 minutes. Transfer, still on parchment, to a rack to cool completely. Remove from paper, breaking into pieces.
+Step 1
+Preheat oven to 350°F with rack in middle. Line a large baking sheet with parchment.
+Step 2
+Blend butter, brown sugar, flour, vanilla, salt, curry powder, and egg white in a food processor until smooth.
+Step 3
+Glue parchment down with a dab of batter in each corner, then spread remaining batter evenly into a 14- by 10-inch rectangle (1/8-inch-thick) on parchment with spatula. Scatter chocolate and nuts evenly over batter, then bake until firm and golden-brown, 18 to 20 minutes. Transfer, still on parchment, to a rack to cool completely. Remove from paper, breaking into pieces.
+Recipe notes

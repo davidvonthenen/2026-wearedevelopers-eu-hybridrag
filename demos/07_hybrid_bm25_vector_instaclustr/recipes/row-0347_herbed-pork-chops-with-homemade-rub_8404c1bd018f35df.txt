@@ -1,0 +1,122 @@
+Herbed Pork Chops with Homemade Rub
+===================================
+
+Recipe Metadata
+---------------
+Recipe ID: 8404c1bd018f35df
+CSV row number: 347
+Recipe name: Herbed Pork Chops with Homemade Rub
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/237667/herbed-pork-chops-with-homemade-rub
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0231c1b696251a7a9b1ba0be66382806f4b7e5bada47052334c1e4d03ca92912/21061882.jpg
+Servings: 4
+Calories: 1577.99
+Diet labels: High-Fiber, Low-Carb
+Health labels: Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: british
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Herbed Pork Chops with Homemade Rub
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/237667/herbed-pork-chops-with-homemade-rub
+servings: 4
+calories: 1577.994000006001
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0231c1b696251a7a9b1ba0be66382806f4b7e5bada47052334c1e4d03ca92912/21061882.jpg
+diet_labels: ["High-Fiber","Low-Carb"]
+health_labels: ["Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["british"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Herbed Pork Chops with Homemade Rub
+
+Description: Perk up pork chops with this homemade rub that&#39;s made with an easy blend of herbs and spices. Pan-fried chops for dinner, anyone?
+
+Recipe category: ['Entree']
+
+Recipe cuisine: ['American']
+
+Yield: 4
+
+Prep time: PT5M
+
+Cook time: PT10M
+
+Total time: PT15M
+
+Ingredients:
+- 0.33333334326744 cup dried parsley
+- 0.25 cup dried marjoram
+- 0.25 cup dried thyme
+- 3 tablespoons rubbed sage
+- 2 tablespoons garlic powder
+- 2 tablespoons onion powder
+- 1 teaspoon salt
+- 1 teaspoon ground cinnamon
+- 4 boneless pork loin chops
+- 2 teaspoons vegetable oil, or to taste
+- 1 tablespoon canola oil
+
+Instructions:
+1. Mix parsley, marjoram, thyme, sage, garlic powder, onion powder, salt, and cinnamon together in a bowl.
+2. Rub 1/2 teaspoon of herb mixture over each pork chop. Store remaining herb mix in an airtight container for later use.
+3. Heat oil in a large skillet over medium heat; add pork chops and cook until no longer pink in the center, 4 to 5 minutes per side. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C).
+
+Visible page text:
+Main Dishes
+Pork
+Pork Chop Recipes
+Boneless
+Herbed Pork Chops with Homemade Rub
+The homemade rub is made with a blend of herbs and spices that really perks up pork chops!
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 4 servings
+⅓ cup dried parsley
+¼ cup dried marjoram
+¼ cup dried thyme
+3 tablespoons rubbed sage
+2 tablespoons garlic powder
+2 tablespoons onion powder
+1 teaspoon salt
+1 teaspoon ground cinnamon
+4 boneless pork loin chops
+2 teaspoons vegetable oil, or to taste
+1 tablespoon canola oil
+Directions
+Mix parsley, marjoram, thyme, sage, garlic powder, onion powder, salt, and cinnamon together in a bowl.
+Rub 1/2 teaspoon of herb mixture over each pork chop. Store remaining herb mix in an airtight container for later use.
+Heat oil in a large skillet over medium heat; add pork chops and cook until no longer pink in the center, 4 to 5 minutes per side. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C).
+Recipe Tip
+If you are watching your sodium intake, you can leave out the salt and you will still get plenty of flavor.
+Editor's Note:
+The nutrition data for this recipe includes the full amount of the spice mixture. The actual amount consumed will vary.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Herbed Pork Chops with Homemade Rub
+1
+Most-Saved Recipes Like This
+Easy Baked Pork Chops 6,189 Ratings 1 hr 15 mins Save
+Oven-Fried Pork Chops 1,224 Ratings 30 mins Save
+Mushroom Pork Chops 2,239 Ratings 40 mins Save
+Famous Pork Chops 1,969 Ratings 1 hr Save
+Smoky Grilled Pork Chops 712 Ratings 50 mins Save
+Italian Breaded Pork Chops 2,504 Ratings 1 hr Save
+Sour Cream Pork Chops 1,613 Ratings 8 hrs 45 mins Save
+Creamy Herbed Pork Chops 1,028 Ratings 30 mins Save
+Caramel Apple Pork Chops 2,297 Ratings 35 mins Save
+Herb-Roasted Pork 1,487 Ratings 3 hrs 20 mins Save
+You’ll Also Love

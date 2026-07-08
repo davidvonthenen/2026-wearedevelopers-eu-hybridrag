@@ -1,0 +1,141 @@
+Overnight Blackberry Ginger Oatmeal recipes
+===========================================
+
+Recipe Metadata
+---------------
+Recipe ID: 527dec5b413709b2
+CSV row number: 174
+Recipe name: Overnight Blackberry Ginger Oatmeal recipes
+Source: ladybehindthecurtain.com
+URL: http://www.ladybehindthecurtain.com/overnight-blackberry-ginger-oatmeal/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0113e5676674f5f5542ed7e87deabe451362706ff9c1a8c1a7663f1ee76acf34/21110800.jpeg
+Servings: 2
+Calories: 712.26
+Diet labels: High-Fiber, Low-Sodium
+Health labels: Vegetarian, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: breakfast
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Overnight Blackberry Ginger Oatmeal recipes
+source: ladybehindthecurtain.com
+url: http://www.ladybehindthecurtain.com/overnight-blackberry-ginger-oatmeal/
+servings: 2
+calories: 712.2610879756377
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0113e5676674f5f5542ed7e87deabe451362706ff9c1a8c1a7663f1ee76acf34/21110800.jpeg
+diet_labels: ["High-Fiber","Low-Sodium"]
+health_labels: ["Vegetarian","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Overnight Blackberry Ginger Oatmeal
+
+Yield: 1
+
+Prep time: PT15M
+
+Ingredients:
+- 1 (6 ounce) low fat vanilla yogurt
+- 2/3 cup regular old fashioned oats
+- 2/3 cup milk
+- 1/4 cup apricot preserves
+- 1/2 tablespoon chia seed
+- 1/2 tablespoon flaxseeds
+- 2 teaspoons snipped crystallized ginger
+- 1/2 cup fresh blackberries
+
+Instructions:
+1. In a medium bowl stir together the yogurt, oats, milk, apricot preserves, chia seeds, flaxseeds and ginger.
+2. Fold in the fresh blackberries.
+3. Divide oatmeal mixture equally between TWO half pint jars with lids.
+4. Cover and chill overnight or up to 3 days in refrigerator.
+5. Add garnish before serving.
+
+Visible page text:
+Home
+Party Ideas
+About
+All Recipes
+Seasonal Recipes Game Day Valentine’s Day Easter Fiesta/Cinco de Mayo Red, White and Blue Summertime Halloween Thanksgiving Christmas
+Game Day
+Valentine’s Day
+Easter
+Fiesta/Cinco de Mayo
+Red, White and Blue
+Summertime
+Halloween
+Thanksgiving
+Christmas
+Semi Homemade Appetizers Bread Breakfast Cake Mix Creations Main Dish Party Food/Treats Salsa/Spread/Sauce Treats/Desserts
+Appetizers
+Bread
+Breakfast
+Cake Mix Creations
+Main Dish
+Party Food/Treats
+Salsa/Spread/Sauce
+Treats/Desserts
+Round Ups
+Party Ideas Christmas/Winter DIY Decoration and Project Ideas Easter Family Party Ideas Fiesta Gifts for Adults Gifts for Kids Halloween Kids Birthday Parties Party Centerpieces Party Favors for Any Age Party Favors for Kids Party Games Red, White and Blue Thanksgiving Valentine’s Day
+Christmas/Winter
+DIY Decoration and Project Ideas
+Family Party Ideas
+Fiesta
+Gifts for Adults
+Gifts for Kids
+Kids Birthday Parties
+Party Centerpieces
+Party Favors for Any Age
+Party Favors for Kids
+Party Games
+Free Printables
+Overnight Blackberry Ginger Oatmeal | Perfectly creamy with a little touch of fruit and a hint of ginger. This heart healthy breakfast is a great way to start your morning. Even if you sleep in you can still have a homemade breakfast. Simply pack and go!
+Make up several different versions for busy weekends with overnight visitors. Pack in half pint mason jars and take them to the beach for a great mid day snack. If eating oatmeal cold isn’t your thing you can heat it in the microwave for a comfy warm breakfast.
+Ingredients
+1 (6 ounce) low fat vanilla yogurt
+2/3 cup regular old fashioned oats
+2/3 cup milk
+1/4 cup apricot preserves
+1/2 tablespoon chia seed
+1/2 tablespoon flaxseeds
+2 teaspoons snipped crystallized ginger
+1/2 cup fresh blackberries
+Instructions
+In a medium bowl stir together the yogurt, oats, milk, apricot preserves, chia seeds, flaxseeds and ginger.
+Fold in the fresh blackberries.
+Divide oatmeal mixture equally between TWO half pint jars with lids.
+Cover and chill overnight or up to 3 days in refrigerator.
+Add garnish before serving.
+Did you make this recipe?
+Please leave a comment and rate the recipe card so others can enjoy the recipe too!♥
+MORE ON THE GO BREAKFAST RECIPES
+GRANDMA’S MEXICAN BEAN SALAD 2. LEMON BARS TO GO 3. NO BAKE PEANUT BUTTER ENERGY BITS
+Breakfast of my dreams 🙂 It looks perfect, probably also tastes perfectly. In these mixes we can smuggle all healthy superproducts -chia and flaxseeds are definitely two of my favorites! Reply ↓ Hi Alice, Yes..chia and flaxseeds are my favorites too! 🙂 Reply ↓
+Breakfast of my dreams 🙂 It looks perfect, probably also tastes perfectly. In these mixes we can smuggle all healthy superproducts -chia and flaxseeds are definitely two of my favorites!
+Hi Alice, Yes..chia and flaxseeds are my favorites too! 🙂 Reply ↓
+Hi Alice, Yes..chia and flaxseeds are my favorites too! 🙂
+In fact, chia and flaxseed are the basis of all my breakfast – their tastes neutral, do not dominate the rest of the ingredients and I can cook with them almost everything 🙂 Of course – more fruity breakfast is more fun 🙂 Reply ↓
+In fact, chia and flaxseed are the basis of all my breakfast – their tastes neutral, do not dominate the rest of the ingredients and I can cook with them almost everything 🙂 Of course – more fruity breakfast is more fun 🙂
+Can I use instant oats in this recipe? If I do, would I be able to keep it overnight? Reply ↓ Hi Poornima, You can use “quick oat” but not instant. Reply ↓
+Can I use instant oats in this recipe? If I do, would I be able to keep it overnight?
+Hi Poornima, You can use “quick oat” but not instant. Reply ↓
+Hi Poornima, You can use “quick oat” but not instant.
+Now here s a super refreshing and super healthy breakfast. It just wants the best for you, that s all. Reply ↓ You are so right Percy…..so right. 🙂 Reply ↓
+Now here s a super refreshing and super healthy breakfast. It just wants the best for you, that s all.
+You are so right Percy…..so right. 🙂 Reply ↓
+You are so right Percy…..so right. 🙂
+Leave a Reply Cancel reply
+HTML tags allowed in your
+comment: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong>

@@ -1,0 +1,87 @@
+Pollyanna Recipe
+================
+
+Recipe Metadata
+---------------
+Recipe ID: 142a9359b7a4ddc4
+CSV row number: 399
+Recipe name: Pollyanna Recipe
+Source: recipeofhealth.com
+URL: http://recipeofhealth.com/recipe/pollyanna-81211rb
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02893973bdf8d79b6eb2b11771f5203edbe7a194db07e8025412743939c065ee/21100614.jpg
+Servings: 1
+Calories: 476.07
+Diet labels: High-Fiber, Low-Fat, Low-Sodium
+Health labels: none listed
+Allergy cautions: Sulfites
+Cuisine type: world
+Meal type: lunch/dinner
+Dish type: alcohol cocktail
+
+Original CSV Fields
+-------------------
+recipe_name: Pollyanna Recipe
+source: recipeofhealth.com
+url: http://recipeofhealth.com/recipe/pollyanna-81211rb
+servings: 1
+calories: 476.0719047218751
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02893973bdf8d79b6eb2b11771f5203edbe7a194db07e8025412743939c065ee/21100614.jpg
+diet_labels: ["High-Fiber","Low-Fat","Low-Sodium"]
+health_labels: []
+cautions: ["Sulfites"]
+cuisine_type: ["world"]
+meal_type: ["lunch/dinner"]
+dish_type: ["alcohol cocktail"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Main
+Recipes
+Course
+Drinks & Beverages
+alcoholic
+gin
+Pollyanna Recipe
+facebook
+twitter
+google+
+pinterest
+linkedin
+email
+Ingredients:
+3 slices orange
+3 slices pineapple
+3 or 4 ice cubes
+2 oz gin
+1/2 oz sweet vermouth
+1/2 oz grenadine
+Directions:
+Muddle orange and pineapple slices in the bottom of a cocktail shaker. Add the ice and remaining ingredients. Shake vigorously. Strain into a cocktail glass.
+Nutrition Facts
+* Percent Daily Values are based on a 2000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. Find out how many calories should you eat.
+Tastes
+salty
+savory
+bitter
+sweet
+Try this similar recipes
+Recipe Tags
+< 200 kcals
+Weightwatchers Points
+8 Points
+7 PointsPlus
+Good Points
+fat free,
+saturated fat free,
+sodium free,
+cholesterol free
+Bad Points
+High in Sugar
+Share Recipe
+Opt-out of the sale of personal information
+We won’t sell your personal information to inform the ads you see. You may still see interest-based ads if your information is sold by other copanies or was sold previously.

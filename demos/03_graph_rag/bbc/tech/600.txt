@@ -1,0 +1,16 @@
+OpenAI Acquires Windsurf for $3 Billion
+
+OpenAI has agreed to buy artificial intelligence-assisted coding tool Windsurf for about $3 billion, Bloomberg News reported on Monday, citing people familiar with the matter.
+The deal has not yet closed, the report added.
+
+OpenAI declined to comment, while Windsurf did not immediately respond to Reuters' requests for comment.
+
+Windsurf, formerly known as Codeium, had recently been in talks with investors, including General Catalyst and Kleiner Perkins, to raise funding at a $3 billion valuation, according to Bloomberg News.
+
+It was valued at $1.25 billion last August following a $150 million funding round led by venture capital firm General Catalyst. Other investors in the company include Kleiner Perkins and Greenoaks.
+
+The deal, which would be OpenAI's largest acquisition to date, would complement ChatGPT's coding capabilities. The company has been rolling out improvements in coding with the release of each of its newer models, but the competition is heating up.
+
+OpenAI has made several purchases in recent years to boost different segments of its AI products. It bought search and database analytics startup Rockset in a nine-figure stock deal last year, to provide better infrastructure for its enterprise products.
+
+OpenAI's weekly active users surged past 400 million in February, jumping sharply from the 300 million weekly active users in December.

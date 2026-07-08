@@ -1,0 +1,103 @@
+Thai Cucumber and Pineapple Salad
+=================================
+
+Recipe Metadata
+---------------
+Recipe ID: 48eee7e432acb50d
+CSV row number: 139
+Recipe name: Thai Cucumber and Pineapple Salad
+Source: food.com
+URL: http://www.food.com/recipe/thai-cucumber-and-pineapple-salad-503445
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00ddcb66284eee5529d6e306a5632cb908725cd8244e34f7f4afc4df4040e2d9/21066708.jpg
+Servings: 2
+Calories: 531.42
+Diet labels: Balanced, High-Fiber
+Health labels: Dairy-Free, Gluten-Free, Egg-Free, Tree-Nut-Free, Soy-Free, Shellfish-Free
+Allergy cautions: Shellfish, Sulfites, FODMAP
+Cuisine type: south east asian
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Thai Cucumber and Pineapple Salad
+source: food.com
+url: http://www.food.com/recipe/thai-cucumber-and-pineapple-salad-503445
+servings: 2
+calories: 531.4208889
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00ddcb66284eee5529d6e306a5632cb908725cd8244e34f7f4afc4df4040e2d9/21066708.jpg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Dairy-Free","Gluten-Free","Egg-Free","Tree-Nut-Free","Soy-Free","Shellfish-Free"]
+cautions: ["Shellfish","Sulfites","FODMAP"]
+cuisine_type: ["south east asian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Thai Cucumber and Pineapple Salad
+
+Description: Pineapples were on sale this weekend, and while looking for a recipe to use it, I ran across this one posted on the Closet Cooking blog. It's slightly modified from the posted version. A great refreshing summertime salad.
+
+Recipe category: Pineapple
+
+Yield: 2 serving(s)
+
+Prep time: PT20M
+
+Total time: PT20M
+
+Ingredients:
+- 1/2 pineapple, peeled, cored and cut into bite sized pieces
+- 1/2 cucumber, peeled and cut into bite sized pieces
+- 2 green onions, sliced
+- 1/4 cup cilantro, chopped
+- 1/4 cup mint, chopped
+- 1 tablespoon fish sauce
+- 1 lime, juice and zest
+- 1 teaspoon palm sugar, grated or 1 teaspoon sugar
+- 1 birds eye chili, chopped
+- 1/4 cup peanuts, roasted and chopped
+
+Instructions:
+1. Mix the pineapple, cucumber, green onions, cilantro and mint in a large bowl.
+2. Mix the fish sauce, lime juice, sugar and chili in a small bowl.
+3. Toss the dressing into the salad and stir lightly to coat.
+4. Serve garnished with chopped roasted peanuts.
+
+Visible page text:
+Thai Cucumber and Pineapple Salad
+ingredients
+1 ⁄ 2 pineapple , peeled, cored and cut into bite sized pieces
+1 ⁄ 2 cucumber , peeled and cut into bite sized pieces
+2 green onions , sliced
+1 ⁄ 4 cup cilantro , chopped
+1 ⁄ 4 cup mint , chopped
+1 tablespoon fish sauce
+1 lime , juice and zest
+1 teaspoon palm sugar , grated or 1 teaspoon sugar
+1 birds eye chili, chopped
+1 ⁄ 4 cup peanuts , roasted and chopped
+directions
+Mix the pineapple, cucumber, green onions, cilantro and mint in a large bowl.
+Mix the fish sauce, lime juice, sugar and chili in a small bowl.
+Toss the dressing into the salad and stir lightly to coat.
+Serve garnished with chopped roasted peanuts.
+Questions & Replies
+Reviews
+WOWZA! The flavors in this most vibrant salad are clean and each bite just entices your taste buds to want more. I love the fact that it is healthy too. This one for sure will be made again and again. Thank you PanNan for sharing such a good one. ForeverMama Reply 1
+Wow! We loved this refreshing salad. The chili pepper gave it so much kick and the pineapple, cucumber and herbs were a great combination. Thank you so much! LifeIsGood Reply
+Wow, I`d like to give you 10 stars. This was wonderful. So much flavor and spice. I loved it. Easily my favorite dish of the Quest so far. Kudos on making it into my Favorites Cookbook for 2016 PanNan. Happily made for CQ3 - Thailand & Indonesia. Baby Kato Reply
+Oh man - perfect! Really. evelynathens Reply
+OUTSTANDING!! The combination of flavors works so well! I used less than half of the pineapple. I think 1 whole cucumber/half pineapple is a better proportion. Otherwise, it's perfect! Made for ZWT9, Mike & the Appliance Killers! Elmotoo Reply
+RECIPE SUBMITTED BY
+268 Followers
+493 Recipes
+84 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

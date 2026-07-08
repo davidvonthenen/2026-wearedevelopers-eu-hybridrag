@@ -1,0 +1,171 @@
+Mango Smoothie
+==============
+
+Recipe Metadata
+---------------
+Recipe ID: 2511fa6322137558
+CSV row number: 357
+Recipe name: Mango Smoothie
+Source: food.com
+URL: http://www.food.com/recipe/mango-smoothie-136018
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/024950518b29078d6133242e4a2b18d6f3859853d3ea1cee43fcf74ea43d878c/21071717.jpg
+Servings: 2
+Calories: 635.50
+Diet labels: High-Fiber, Low-Fat, Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: breakfast
+Dish type: drinks
+
+Original CSV Fields
+-------------------
+recipe_name: Mango Smoothie
+source: food.com
+url: http://www.food.com/recipe/mango-smoothie-136018
+servings: 2
+calories: 635.5039999999999
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/024950518b29078d6133242e4a2b18d6f3859853d3ea1cee43fcf74ea43d878c/21071717.jpg
+diet_labels: ["High-Fiber","Low-Fat","Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["drinks"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Mango Smoothie
+
+Description: Make and share this Mango Smoothie recipe from Food.com.
+
+Recipe category: Smoothies
+
+Yield: 2 serving(s)
+
+Prep time: PT15M
+
+Cook time: PT5M
+
+Total time: PT20M
+
+Ingredients:
+- 2 ripe mangoes
+- 1/2 cup milk
+- 1/4 cup powdered sugar
+- 3 egg whites
+
+Instructions:
+1. Peel mangos and cut in to smaller pieces.
+2. Combine all ingredients in a blender.
+3. Blend on high until smooth.
+4. Enjoy!
+
+Visible page text:
+Mango Smoothie
+ingredients
+2 ripe mangoes
+1 ⁄ 2 cup milk
+1 ⁄ 4 cup powdered sugar
+3 egg whites
+directions
+Peel mangos and cut in to smaller pieces.
+Combine all ingredients in a blender.
+Blend on high until smooth.
+Enjoy!
+Questions & Replies
+Reviews
+RECIPE SUBMITTED BY
+31 Followers
+169 Recipes
+3 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes
+Add a photo
+2 recipe photos for
+Back to full recipe
+CoffeeMom
+Advertisement
+PREV
+PREVIOUS RECIPE
+NEXT
+NEXT RECIPE
+Submitted by
+"I came up with this from both desire and necessity."
+save
+Download
+Print
+Share
+I Made This
+photo by CoffeeMom
+Ready In:
+20mins
+4
+Serves:
+2
+Nutrition information
+Units:
+US
+ripe
+mangoes
+1
+⁄
+cup
+milk
+powdered sugar
+3
+egg whites
+Sign In
+to Ask a Question
+Got a question?
+Share it with the community!
+Want a Second Helping?
+Sign up for our newsletter to get recipes, easy dinner ideas, tasty treats and more delivered straight to your inbox.
+By entering your email address, you agree to our
+Terms of Use
+and acknowledge the
+Privacy Policy
+.
+Food.com
+and
+its affiliates
+may use your email address to provide updates, ads, and offers.
+To withdraw your consent or to learn more about your rights, see the
+Write A Review
+Have any thoughts about this recipe?
+United States
+Follow Me
+31
+Followers
+169
+Recipes
+Tweaks
+I'm a full-time student at a University of Wisconsin campus, with a double major in Sociology and History. I have three adorable children, ages 9 yrs, 5 yrs, and our 2 yr old son. My nine yr old is in third grade. My 5 yr old is is in kindergarten. My littlest one is pleasantly plump. ;) We also have 2 cats.
+
+My daughter recently joined recipezaar under the name Miss Bean
+
+I also really like sewing. I make @ 1/3 of my daughters clothes. Reading is also a BIG staple in my life. One of my favorite ways to find a book is to walk into the library, pick a shelf and simply grab a book at random. I've read so many great books I probably wouldn't have found out any other way.
+
+I also like to camp and fish with my DH. He eats, sleeps and breathes fishing. He would like to one day start his own company, he hand ties and sells fishing lures locally. And he loves my cooking and will try anything at least once. ;)
+He works as a pressman at a local printing company.
+
+<a href="http://smg.photobucket.com/albums/v426/mangomama/animations/?action=view&current=neil_patrick_Harris.gif" target="_blank"><img src="http://img.photobucket.com/albums/v426/mangomama/animations/neil_patrick_Harris.gif" border="0" alt="Photobucket"></a>
+View Full Profile
+Coconut Mango Smoothie
+by
+evelynathens
+9
+Mango Ginger Smoothie
+justcallmetoni
+15
+Creamy Mango Lime Smoothie
+CaliforniaJan
+7
+Soft and Delicate Strawberry Coconut Mango Smoothie
+Baby Kato
+View All Recipes

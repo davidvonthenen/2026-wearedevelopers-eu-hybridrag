@@ -1,0 +1,188 @@
+Smashed broad beans, peas and mint with homemade ricotta recipe
+===============================================================
+
+Recipe Metadata
+---------------
+Recipe ID: b2bdca9eb70ad1e6
+CSV row number: 41
+Recipe name: Smashed broad beans, peas and mint with homemade ricotta recipe
+Source: goodfood.com.au
+URL: https://www.goodfood.com.au/recipes/smashed-broad-beans-peas-and-mint-with-homemade-ricotta-recipe-20161011-grztqx
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0031174c70ccc4ccdf5c42e241c23e2ea424c06a11d918c872ff51a78846227e/21092985.jpg
+Servings: 4
+Calories: 2502.86
+Diet labels: Balanced, High-Fiber
+Health labels: Vegetarian, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Smashed broad beans, peas and mint with homemade ricotta recipe
+source: goodfood.com.au
+url: https://www.goodfood.com.au/recipes/smashed-broad-beans-peas-and-mint-with-homemade-ricotta-recipe-20161011-grztqx
+servings: 4
+calories: 2502.859752672875
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0031174c70ccc4ccdf5c42e241c23e2ea424c06a11d918c872ff51a78846227e/21092985.jpg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Vegetarian","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe collection
+Baking
+18 beautiful new cakes and bakes to make for Mother’s Day
+From Helen Goh’s pretty-in-pink almond and raspberry ripple cake to Adam Liaw’s brown butter shortbread, we’ve something special for every mum (and baking ability).
+The Full Bottle
+What style of wine − and how many bottles − should you take to a dinner party?
+Ideally, suit the wine to the meal, your host and the other guests, writes Huon Hooke.
+Huon Hooke
+Italian
+Mamma knows best: How to make ricotta gnocchetti with tomato sauce (and lots of love)
+Chef Giovanni Pilu may be known for his elevated Sardinian cooking, but when his mamma’s in town it’s her rustic pasta that really makes his heart sing.
+David Matthews
+Restaurant news
+‘If Quay can’t do it, how can anyone?’ The crisis facing Australian fine dining
+One acclaimed chef reckons high-end restaurants have an expiry date and fro-yo is the future. Another says the maths doesn’t add up. But everyone agrees evolution is the answer.
+Bianca Hrovat
+Exclusive
+Just open
+Now open in Chatswood – a French brasserie from the team behind an ambitious two-hatter
+The venue, on a new luxury level at Chatswood Chase, serves oversized vol-au-vent with a prawn bisque sauce and a “burnt” pavlova.
+Scott Bolles
+The best recipes from Australia's leading chefs straight to your inbox.
+Follow us
+Instagram
+Facebook
+Twitter
+TikTok
+Hospitality culture
+Why some Sydney restaurants are saying no to delivery
+The demand for food delivery and takeaway might be on the rise, but for venues like RaRa Ramen, Porteno and LuMi, it just “doesn’t make sense”.
+Erina Starkey
+Coming soon
+Bathers’ Pavilion’s next three-Michelin-starred residency could be the ‘meal of the year’
+Callan Boys
+Review
+Bondi Beach
+Besa might be Spanish for kiss, but this tapas bar is chef’s kiss
+Myffy Rigby
+Specials board
+Sydney, it’s taco time. Here’s where to find the best birria on a budget
+Recommended
+Legendary Leichhardt restaurant opens second outpost after 27 years
+Upgrade your pasta with a fried chicken cutlet at this Italo-American diner
+The spot for rolled omelettes and diner-style pancakes in Marrickville
+Check the counter for banana fritters at this Laotian snack shop
+A Brooklyn-style brewery and bar with a beaut beer garden
+Find ridged baguettes and quince-filled danishes at this Mudgee bakery
+This Byron Bay bar serves all-you-can-eat oysters once a month
+A spacious cafe-restaurant built on produce from Moonacres Farm
+The only place selling hot cinnamon doughnuts from the back of a ute
+This might just be the best ice-cream in New South Wales
+A sister venue to Chillis Cottage serving pasta, spritzes and gelato
+Some of the best dumplings and noodles outside Chongqing
+Bondi’s hot new tapas bar serves a small-plates menu of deeply flavourful Spanish food
+St Peters
+Come for the lager, stay for the chips on a stick at Chuck and Son’s Brewing Co.
+Riverwood
+The wonton noodle soup served at Canton Noodle House has been recognised by the UN
+Darlinghurst
+Is onigiri the new sushi roll? Sandoitchi’s spin-off Itadakimasu takes them to the next level
+Helen Yee
+Bexley
+You’ll want to order this cheesy crepe-omelette on repeat at Meet Taiwan cafe
+Lee Tran Lam
+Collection
+Good Food Guide
+Everything you need to know from The Age Good Food Guide 2026 Awards
+The 127 most influential, delicious restaurants in The Age Good Food Guide
+The ultimate guide to the Good Food Guide
+Good Food
+The 150 most influential, delicious restaurants in the SMH Good Food Guide
+Everything you need to know from the SMH Good Food Guide 2026 Awards
+Cookbook extracts
+Lobster and fries – the high-low luxury Mum deserves on Sunday
+Look, we tried to get Entrecote’s secret sauce recipe, but no dice. Instead, we’ve landed the next best thing: a decadent seafood dish designed to dazzle.
+Jason M Jones
+Signature dish
+The pro secret that gives Mamasita’s fish tacos their crunch
+30 mins - 1 hr
+Jimmy Garside
+Good Food recommends
+An ode to the Sunday supper: Our go-to old and new comfort foods
+The Good Food team
+Quick & easy
+Katrina Meynink’s take on the viral dumpling bake, only much better
+Katrina Meynink
+Prep ahead, relax together: 30 crowd-pleasing dishes
+18 healthy meals to make with a can of beans, lentils or chickpeas
+27 budget-friendly recipes with six ingredients or less to have on standby
+17 healthy lunchbox recipes for the school and office
+Five quick, easy (and cheesy) new pastas to brighten up weeknights
+Celebrate pumpkin season with 30 of our most smashing recipes
+25 of Adam Liaw’s all-time best autumn recipes to have on hand
+Autumn’s best: Nine warming apple cakes to bake this weekend
+Fall-apart roasts to fast cutlets: 50 lamb recipes the whole crew will love
+These freeze-friendly recipes are your secret weapon for weeknights
+Avo smashing time with these five affordable recipes from Adam Liaw
+RecipeTin Eats
+Adam Liaw
+Helen Goh
+Danielle Alvarez
+Julia Busuttil Nishimura
+Emelia Jackson
+Rosheen Kaul
+Chicken
+One-pot
+Pasta
+Vegetarian
+Budget
+Midweek dinner
+Stir-fry
+Rice
+Soup
+Air fryer
+Five things you didn’t know you could cook in an air fryer (and three you should avoid)
+Jane de Graaff
+Masterclass
+Stovetop, slow cooker, pressure cooker: Adam Liaw cooks stew three ways to see what’s best
+2 hrs +
+Opinion
+Healthy eating
+It’s been a year since I lost 16kg on the Fast 800 diet. Here’s where I’m at now
+Michael Bachelard
+Cabbage
+Its reputation may stink, but this humble veg is officially cool
+Alice Zaslavsky
+Dietitian’s guide
+Nine dietitian-approved whole foods that pack a surprising protein punch
+Susie Burrell
+Bar Cart
+Underrated Greek wine is finally having its moment – here are three that prove why
+Mike Bennie
+Hot & new
+Save your favourite recipes and restaurants on the Good Food app
+The dish
+The Sydney and Melbourne restaurants and cafes Phil Rosenthal is loving right now
+Jane Rocca
+Sandwich watch
+This cheesy beef rendang toastie is gooey and buzzing with spices (and takes days to make)
+Isabel Cant
+Family meals
+Prep ahead, relax together: 30 crowd-pleasing dishes for an easy, breezy Mother’s Day
+Our Sites
+Classifieds
+The Sydney Morning Herald
+Products & Services

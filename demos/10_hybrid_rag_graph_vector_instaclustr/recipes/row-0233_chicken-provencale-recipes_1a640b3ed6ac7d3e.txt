@@ -1,0 +1,95 @@
+Chicken Provencale recipes
+==========================
+
+Recipe Metadata
+---------------
+Recipe ID: 1a640b3ed6ac7d3e
+CSV row number: 233
+Recipe name: Chicken Provencale recipes
+Source: slowcookercentral.com
+URL: http://www.slowcookercentral.com/recipe/chicken-provencale/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0173672aa22884702a08b5fbbcffabaca6fec9ca948369bf172328bfd3969658/21093413.jpeg
+Servings: 4
+Calories: 4138.85
+Diet labels: High-Fiber, Low-Carb
+Health labels: Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: french
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Chicken Provencale recipes
+source: slowcookercentral.com
+url: http://www.slowcookercentral.com/recipe/chicken-provencale/
+servings: 4
+calories: 4138.854074748261
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0173672aa22884702a08b5fbbcffabaca6fec9ca948369bf172328bfd3969658/21093413.jpeg
+diet_labels: ["High-Fiber","Low-Carb"]
+health_labels: ["Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["french"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Chicken Provencale
+
+Prep time: PT20M
+
+Cook time: PT240M
+
+Total time: PT260M
+
+Ingredients:
+- 1 red capsicum quartered and deseeded
+- 1 yellow capsicum quartered and deseeded
+- 1.5 kg chick thigh pieces ( you could also use chick thigh filets if you don't like the bone
+- 2 brown onions halved cut into wedges
+- 2 cloves of garlic thinly sliced
+- 1/2 cup white wine
+- 1 600ml jar pasta sauce
+- 1 teaspoon dry chicken stock powder
+- 8 sprigs thyme
+- 1/2 cup pitted black olives ( I have used green olives)
+- 1 tablespoon olive oil ( only use this if you are going to brown the pieces before placing in slow cooker)
+
+Instructions:
+1. Preheat grill on high and place capsicum, skin side up under the grill and cook for 8-10 minutes until charred and blistered.
+2. Transfer to sealed plastic bag .
+3. Set aside for 10 minutes this helps lift the skin. remove skin from capsicum and cut into thick strips. ( you could just put capsicum without peeling although I find that the taste and texture enhances the flavor.
+4. Heat oil in large fry pan brown the chicken half at a time for 5 minutes or until brown.
+5. Place chicken in slow cooker with the remainder of the ingredients except olives which are added 1/2 an hour before ready to serve.
+6. Cook 4 hours high or 6 hours low ( this is approx each slow cooker is different)
+
+Visible page text:
+Submitted by Chris McInnes
+Chicken Provencale
+Ingredients
+1 red capsicum quartered and deseeded
+1 yellow capsicum quartered and deseeded
+1.5 kg chick thigh pieces ( you could also use chick thigh filets if you don't like the bone
+2 brown onions halved cut into wedges
+2 cloves of garlic thinly sliced
+1/2 cup white wine
+1 600ml jar pasta sauce
+1 teaspoon dry chicken stock powder
+8 sprigs thyme
+1/2 cup pitted black olives ( I have used green olives)
+1 tablespoon olive oil ( only use this if you are going to brown the pieces before placing in slow cooker)
+Instructions
+Preheat grill on high and place capsicum, skin side up under the grill and cook for 8-10 minutes until charred and blistered.
+Transfer to sealed plastic bag .
+Set aside for 10 minutes this helps lift the skin. remove skin from capsicum and cut into thick strips. ( you could just put capsicum without peeling although I find that the taste and texture enhances the flavor.
+Heat oil in large fry pan brown the chicken half at a time for 5 minutes or until brown.
+Place chicken in slow cooker with the remainder of the ingredients except olives which are added 1/2 an hour before ready to serve.
+Cook 4 hours high or 6 hours low ( this is approx each slow cooker is different)
+About the Author: Paulene @ Slow Cooker Central
+Leave a Comment Cancel reply

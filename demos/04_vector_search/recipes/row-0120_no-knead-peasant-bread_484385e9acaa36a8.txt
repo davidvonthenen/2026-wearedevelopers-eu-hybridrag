@@ -1,0 +1,105 @@
+No-Knead Peasant Bread
+======================
+
+Recipe Metadata
+---------------
+Recipe ID: 484385e9acaa36a8
+CSV row number: 120
+Recipe name: No-Knead Peasant Bread
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/food-network-kitchen/no-knead-peasant-bread-recipe-1973444
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00c16cab5aa7af18650a423cc2b9a9571dafab6b2f01a6905c7761678f2aee02/21078227.jpg
+Servings: 8
+Calories: 1460.47
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: bread
+
+Original CSV Fields
+-------------------
+recipe_name: No-Knead Peasant Bread
+source: Food Network
+url: https://www.foodnetwork.com/recipes/food-network-kitchen/no-knead-peasant-bread-recipe-1973444
+servings: 8
+calories: 1460.47126
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00c16cab5aa7af18650a423cc2b9a9571dafab6b2f01a6905c7761678f2aee02/21078227.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["bread"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: No-Knead Peasant Bread
+
+Yield: 8 servings
+
+Cook time: P0Y0M0DT0H20M0.000S
+
+Total time: P0Y0M0DT21H35M0.000S
+
+Ingredients:
+- 2 1/2 cups unbleached bread flour
+- 1/2 cup whole-wheat flour
+- 1/2 teaspoon active dry yeast
+- 1 1/2 teaspoons salt
+- All-purpose flour, for dusting
+
+Instructions:
+1. Combine the bread flour, whole-wheat flour, yeast and salt in a large bowl. Add 1 1/2 cups lukewarm water (about 100 degrees F) and mix with your hands or a spoon until the dough comes together (it will be wet and sticky). Cover the dough tightly with plastic wrap. If you have extra time, refrigerate 12 to 24 hours; this is not necessary but will improve the flavor of the bread.
+2. Let the dough rise, covered, at room temperature for about 18 hours; this rise is necessary whether you refrigerate the dough first or not. The surface will be bubbly after rising.
+3. Generously dust a work surface with all-purpose flour. Turn the dough out onto the flour, then sprinkle flour on top. Fold the top and bottom of the dough into the center, then fold in the sides to make a free-form square. Use a dough scraper or a spatula to turn the dough over, then tuck the corners under to form a ball.
+4. Line a baking sheet with parchment paper and generously dust with flour. Transfer the dough to the baking sheet, seam-side down, and sprinkle with more flour. Cover with a cotton kitchen towel (do not use terry cloth) and let rise at room temperature until doubled in size, 2 to 3 hours.
+5. Position a rack in the bottom of the oven and place a 2- or 4-quart cast-iron or enameled Dutch oven (without the lid) on the rack. Preheat the oven to 450 degrees F for at least 30 minutes. When the dough has doubled, carefully transfer the hot pot to a heatproof surface. Uncover the dough, lift up the parchment and quickly invert the dough into the pot (shake the pot to center the dough, if necessary). Cover with the lid and bake 30 minutes, then uncover and bake until brown and crusty, 15 to 30 more minutes. Turn out onto a rack to cool.
+
+Visible page text:
+Home
+Recipes
+Bread
+No-Knead Peasant Bread
+Level: Intermediate
+Total: 21 hr 35 min (includes rising times)
+Active: 20 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+2 1/2 cups unbleached bread flour
+1/2 cup whole-wheat flour
+1/2 teaspoon active dry yeast
+1 1/2 teaspoons salt
+All-purpose flour, for dusting
+Combine the bread flour, whole-wheat flour, yeast and salt in a large bowl. Add 1 1/2 cups lukewarm water (about 100 degrees F) and mix with your hands or a spoon until the dough comes together (it will be wet and sticky). Cover the dough tightly with plastic wrap. If you have extra time, refrigerate 12 to 24 hours; this is not necessary but will improve the flavor of the bread.
+Let the dough rise, covered, at room temperature for about 18 hours; this rise is necessary whether you refrigerate the dough first or not. The surface will be bubbly after rising.
+Generously dust a work surface with all-purpose flour. Turn the dough out onto the flour, then sprinkle flour on top. Fold the top and bottom of the dough into the center, then fold in the sides to make a free-form square. Use a dough scraper or a spatula to turn the dough over, then tuck the corners under to form a ball.
+Line a baking sheet with parchment paper and generously dust with flour. Transfer the dough to the baking sheet, seam-side down, and sprinkle with more flour. Cover with a cotton kitchen towel (do not use terry cloth) and let rise at room temperature until doubled in size, 2 to 3 hours.
+Position a rack in the bottom of the oven and place a 2- or 4-quart cast-iron or enameled Dutch oven (without the lid) on the rack. Preheat the oven to 450 degrees F for at least 30 minutes. When the dough has doubled, carefully transfer the hot pot to a heatproof surface. Uncover the dough, lift up the parchment and quickly invert the dough into the pot (shake the pot to center the dough, if necessary). Cover with the lid and bake 30 minutes, then uncover and bake until brown and crusty, 15 to 30 more minutes. Turn out onto a rack to cool.
+Photograph by Con Poulos
+Courtesy of Food Network Magazine
+Categories:
+More from:
+Ultimate Baking Guide
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Garlic Bread Recipe
+Honey White Bread Recipe
+Toasted Peasant Bread Recipe
+Grilled Peasant Bread with Olive Butter Recipe
+No-Knead Salami Bread Recipe
+Everything Bagel Seasoning Peasant Bread Recipe

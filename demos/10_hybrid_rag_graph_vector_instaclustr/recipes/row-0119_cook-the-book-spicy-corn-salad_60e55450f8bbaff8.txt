@@ -1,0 +1,124 @@
+Cook the Book: Spicy Corn Salad
+===============================
+
+Recipe Metadata
+---------------
+Recipe ID: 60e55450f8bbaff8
+CSV row number: 119
+Recipe name: Cook the Book: Spicy Corn Salad
+Source: Serious Eats
+URL: http://www.seriouseats.com/recipes/2007/08/cook-the-book-spicy-corn-salad.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00beaf6eddecbdfdd497510e4659241ce6591b04f0c5222b176fdb8df8cd022c/20968193.jpg
+Servings: 4
+Calories: 582.74
+Diet labels: none listed
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mexican
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Cook the Book: Spicy Corn Salad
+source: Serious Eats
+url: http://www.seriouseats.com/recipes/2007/08/cook-the-book-spicy-corn-salad.html
+servings: 4
+calories: 582.744625
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00beaf6eddecbdfdd497510e4659241ce6591b04f0c5222b176fdb8df8cd022c/20968193.jpg
+diet_labels: []
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mexican"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Mexican Street Corn Salad (Esquites)
+
+Description: This esquites recipe offers all the delights of Mexican street corn (elotes) in salad form, and you don&#39;t even have to fire up the grill to make it.
+
+Recipe category: ['Side Dish', "Appetizers and Hors d'Oeuvres", 'Quick and Easy', 'Sides']
+
+Recipe cuisine: ['Mexican']
+
+Yield: 4
+
+Cook time: PT20M
+
+Total time: PT20M
+
+Ingredients:
+- 2 tablespoons (30ml) vegetable oil
+- 4 ears fresh corn, shucked, kernels removed (about 3 cups fresh corn kernels)
+- Kosher salt
+- 2 ounces (60g) feta or Cotija cheese, finely crumbled
+- 1/2 cup finely sliced scallions, green parts only
+- 1/2 cup (1/2 ounce) fresh cilantro leaves, finely chopped
+- 1 jalapeño pepper, seeded and stemmed, finely chopped
+- 1 to 2 medium cloves garlic, pressed or minced on a Microplane grater (about 1 to 2 teaspoons)
+- 2 tablespoons (30ml) mayonnaise
+- 1 tablespoon (15ml) fresh juice from 1 lime
+- Chili powder or hot chili flakes, to taste
+
+Instructions:
+1. Heat oil in a large nonstick skillet or wok over high heat until shimmering. Add corn kernels, season to taste with salt, toss once or twice, and cook without moving until charred on one side, about 2 minutes. Toss corn, stir, and repeat until charred on second side, about 2 minutes longer. Continue tossing and charring until corn is well charred all over, about 10 minutes total. Transfer to a large bowl.
+2. Add cheese, scallions, cilantro, jalapeño, garlic, mayonnaise, lime juice, and chile powder and toss to combine. Taste and adjust seasoning with salt and more chile powder to taste. Serve immediately.
+
+Visible page text:
+Recipes
+Recipes by World Cuisine
+North American
+Mexican
+Mexican Street Corn Salad (Esquites)
+All the delights of elotes in salad form, and you don't even have to fire up the grill to make it.
+Serious Eats / Diana Chistruga
+Why It Works
+A combination of garlic, mayonnaise, cheese, lime, and chile in the sauce ensures the salad comes out incredibly flavorful.
+Cooking the corn in a ripping-hot wok or skillet caramelizes corn sugars, creating a rich, smoky flavor that's integral to its authentic taste.
+Mixing the corn while it's hot with garlicky mayonnaise sauce ensures a creamy, tangy coating that adheres to each kernel.
+Smoky, sweet, spicy, and tangy, esquites are the off-the-cob version of elotes—grilled on-the-cob Mexican street corn slathered with creamy, cheesy, lime-scented, chile-flecked sauce.
+Elotes are a staple on my balcony grill over the summer. It's about as easy and inexpensive a dish as you can think of, and there is nothing—really, nothing—that'll get snatched up and eaten as fast as a hot plate of 'em. I'll usually count on making at least an ear and a half per person.
+To speed things up, I'll keep a big bowl of the sauce mixture—that's garlicky mayonnaise, crumbled Cotija cheese (feta or Romano also works well), chopped cilantro, lime juice, and a pinch of chile powder—at the ready. As soon as my corn comes off the grill, all nice, hot, and charred-like, it gets a dunk in the sauce, then a pass-off to a waiting mouth. That first bite of hot, charred corn, when the cheesy sauce inevitably gets smeared all over your cheeks, just tastes of summer to me. Delicious, fat-smothered summer.
+But there are times when a more… demure approach must be taken. When there are prim and proper aunts or brand-new ties involved, for instance. On those occasions, I go for esquites, the spoon-ready version of elotes.
+Rather than slathering the corn kernels with sauce, you slice the kernels off after cooking and toss them with the sauce, in a sort of hot salad that's decorous enough to consume with impunity in mixed company.
+Personally, I tend to make esquites when I don't want to bother firing up the grill, because, truth be told, it's just as tasty and easy to make indoors as it is out. The key to cooking esquites indoors is to remove the corn kernels from the cob before you cook them. I cook the kernels in a ripping-hot wok (you can use a regular skillet, though it's a bit messier), letting them sit in place until the sugars caramelize and a deep, dark char develops, before tossing and letting them char again.
+When this is done right, a few kernels should jump and pop, just like popcorn. I've had kernels leap clear across the apartment on occasion. A careful eye and a splatter guard will protect you from any corn-kernel mortar fire.
+Once the corn is charred, I toss it with the remaining ingredients while it's still hot. The salad can be served straight away, but it's just as good at room temperature, making this an ideal picnic dish.
+Click Play to See This Flavorful Mexican Street Corn Salad Come Together
+July 2012
+Recipe Details
+Mexican Street Corn Salad (Esquites) Recipe
+2 tablespoons (30ml) vegetable oil
+4 ears fresh corn, shucked, kernels removed (about 3 cups fresh corn kernels )
+Kosher salt
+2 ounces (60g) feta or Cotija cheese , finely crumbled
+1/2 cup finely sliced scallions , green parts only
+1/2 cup ( 1/2 ounce ) fresh cilantro leaves , finely chopped
+1 jalapeño pepper , seeded and stemmed, finely chopped
+1 to 2 medium cloves garlic , pressed or minced on a Microplane grater (about 1 to 2 teaspoons)
+2 tablespoons (30ml) mayonnaise
+1 tablespoon (15ml) fresh lime juice from 1 lime
+Chile powder or hot chile flakes, to taste
+Heat oil in a large nonstick skillet or wok over high heat until shimmering. Add corn kernels, season to taste with salt, toss once or twice, and cook without moving until charred on one side, about 2 minutes. Toss corn, stir, and repeat until charred on second side, about 2 minutes longer. Continue tossing and charring until corn is well charred all over, about 10 minutes total. Transfer to a large bowl. Serious Eats / Diana Chistruga
+Heat oil in a large nonstick skillet or wok over high heat until shimmering. Add corn kernels, season to taste with salt, toss once or twice, and cook without moving until charred on one side, about 2 minutes. Toss corn, stir, and repeat until charred on second side, about 2 minutes longer. Continue tossing and charring until corn is well charred all over, about 10 minutes total. Transfer to a large bowl.
+Add cheese, scallions, cilantro, jalapeño, garlic, mayonnaise, lime juice, and chile powder and toss to combine. Taste and adjust seasoning with salt and more chile powder to taste. Serve immediately. Serious Eats / Diana Chistruga
+Add cheese, scallions, cilantro, jalapeño, garlic, mayonnaise, lime juice, and chile powder and toss to combine. Taste and adjust seasoning with salt and more chile powder to taste. Serve immediately.
+Special Equipment
+A large wok or large nonstick skillet , microplane grater
+Read More
+Elotes (Grilled Mexican Street Corn) Recipe
+Tam Khao Pod Kai Kem (Thai Corn Salad With Salted Duck Egg) Recipe
+Grilled Corn, Tomato, Feta, and Herb Salad Recipe
+Riselotes al Salto (Elote-Flavored Risotto Pancake) Recipe
+Gluten-free Sides
+Vegetarian Salads
+Corn
+Quick Sides
+More Serious Eats Recipes

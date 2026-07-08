@@ -1,0 +1,129 @@
+Cod with Fresh Herb Sauce
+=========================
+
+Recipe Metadata
+---------------
+Recipe ID: 549d8bd0400ecccf
+CSV row number: 358
+Recipe name: Cod with Fresh Herb Sauce
+Source: rockymountaincooking.com
+URL: https://rockymountaincooking.com/2019/04/cod-with-fresh-herb-sauce-2
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/024ac4d740b9e190008c2cd486e55d5d2027ed9fd95280bccd9bdeef8593d9eb/21039078.jpg
+Servings: 8
+Calories: 2006.79
+Diet labels: Low-Carb
+Health labels: Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Cod with Fresh Herb Sauce
+source: rockymountaincooking.com
+url: https://rockymountaincooking.com/2019/04/cod-with-fresh-herb-sauce-2
+servings: 8
+calories: 2006.794839
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/024ac4d740b9e190008c2cd486e55d5d2027ed9fd95280bccd9bdeef8593d9eb/21039078.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Cod with Fresh Herb Sauce
+
+Description: Cod with Fresh Herb Sauce is easy to make and super flavorful for any weeknight meal or even a dinner party! A perfect meal to make for Lent!This recipe would be great with any fish that you like. The sauce would also be great with chicken or steak!&nbsp;
+
+Recipe category: ['Main Course']
+
+Recipe cuisine: ['American']
+
+Yield: ['4', '4 people']
+
+Prep time: PT10M
+
+Total time: PT20M
+
+Ingredients:
+- 1 bunch flat leaf parsley, stems removed (about 1 cup loosely packed)
+- 1/4 cup fresh dill, stems removed
+- 2 tablespoons chopped shallots
+- 2 teaspoons minced garlic
+- 2 tablespoons drained capers
+- zest from 1 lemon
+- juice from 1 lemon
+- 1/2 cup olive oil
+- salt and pepper to taste
+- 1 1/2 -2 pounds firm white fish or salmon filets
+- olive oil
+- salt, pepper and paprika (not smoked paprika)
+
+Instructions:
+1. Place all the ingredients into a food processor or blender and process until smooth. Add salt and pepper to taste and set aside.&nbsp;
+2. If you want to bake the fish, preheat the oven to 400 degrees. Liberally drizzle olive oil over both sides of the fish and season both sides with salt, pepper and, paprika (not smoked paprika). Bake for 12-14 minutes or until the fish flakes easily with a fork. Cooking time will depend on how thick the fish is.&nbsp;
+3. If you want to saute the fish, heat the saute pan to temperature over medium heat.&nbsp; Liberally drizzle olive oil over both sides of the fish and season both sides with salt, pepper and, paprika (not smoked paprika). Saute for 3-4&nbsp; minutes per side or until the fish flakes easily with a fork. Cooking time will depend on how thick the fish is.
+
+Visible page text:
+Share
+Tweet
+Pin
+Cod with Fresh Herb Sauce is easy to make and super flavorful for any weeknight meal or even a dinner party! A perfect meal to make for Lent!
+The other day I couldn’t believe it! The fish department had FRESH cod available and it was on sale! I was pretty excited about this as getting fresh fish anything in Colorado (for a decent price) is kind of unheard of. Even better, it just was delivered in the morning! Win, win for me (and you). I bought some fresh cod!
+I also had “springtime” on my mind and wanted something lighter to accompany my beautiful cod. In typical fashion, I looked in the refrigerator and saw all kinds of ingredients to make a sauce. Parsley, dill, garlic, shallots, capers, and lemon were unbelievably all in there! It’s kind of what I had in mind, a chimichurri sauce of sorts but not really! The addition of the lemon juice instead of vinegar and adding capers and shallot make it different but oh so good.
+This fresh herb sauce is not only great on fish, but it would also be terrific on grilled chicken or steak! I’m actually craving a burger today, I may even put a leftover dollop on top of it with a slice of swiss cheese! Sounds good to me!
+This recipe is so easy! All the herbs and goodies go into the food processor for a quick whirl!
+All ready in less than a few minutes. A fresh a tasty sauce to top just about anything! It’s not just for fish.
+Hey, it’s Lenten season after all!
+This recipe for Cod with Fresh Herb Sauce couldn’t have come at a better time! After all, we are right in the middle of Lent. If you celebrate, then this will be a great recipe for you if you are forgoing meat! I am not Catholic but I respect those who celebrate but was wondering what things people give up besides meat (it seems that this is the main thing) so I did a little research! I found this fun article and realized I do most everything on the list already! I’d have to think long and hard of what I would give up! Haha, maybe next year!
+Cooking Methods:
+I had quite a large piece of cod when making this recipe, so I split the filet into 2 pieces for 2 separate meals. First, go around, I decided to bake it. I coated the filet liberally with olive oil and seasoned it with salt, pepper and, sweet paprika. This filet was baked at 400 degrees for about 14 minutes. This piece was thicker than the second version. Delicious and easy!
+The second version, I decided to saute the fish. I heated up a saute pan over medium heat, coated the fish as above and sauteed for about 3 minutes per side! Super easy. I’m not sure what version I liked better!
+Option one for cooking. Place the fish in the oven for 12-14 minutes depending on the thickness of the fish. This is topped with olive oil, salt, pepper and a bit of paprika!
+I had extra fish so I cooked it in a frying pan. I can’t decide which way I liked better!
+Cod with Fresh Herb Sauce is just a pretty dish all around! Serve it with some steamed asparagus for a healthy and delicious springtime meal!
+If you are looking for other meals to make during Lent why not check out these ideas!
+Warm Fish Tacos with Avocado Cream Sauce
+Smoked Salmon Vegetable Spread
+Blood Orange Glazed Salmon
+Ginger and Lime Crusted Salmon
+Cod with Fresh Herb Sauce
+Ingredients
+For the Fresh Herb Sauce
+1 bunch flat leaf parsley, stems removed about 1 cup loosely packed
+1/4 cup fresh dill, stems removed
+2 tablespoons chopped shallots
+2 teaspoons minced garlic
+2 tablespoons drained capers
+zest from 1 lemon
+juice from 1 lemon
+1/2 cup olive oil
+salt and pepper to taste
+For the Fish
+1 1/2 -2 pounds firm white fish or salmon filets
+olive oil
+salt, pepper and paprika (not smoked paprika)
+Instructions
+Place all the ingredients into a food processor or blender and process until smooth. Add salt and pepper to taste and set aside.
+If you want to bake the fish, preheat the oven to 400 degrees. Liberally drizzle olive oil over both sides of the fish and season both sides with salt, pepper and, paprika (not smoked paprika). Bake for 12-14 minutes or until the fish flakes easily with a fork. Cooking time will depend on how thick the fish is.
+If you want to saute the fish, heat the saute pan to temperature over medium heat. Liberally drizzle olive oil over both sides of the fish and season both sides with salt, pepper and, paprika (not smoked paprika). Saute for 3-4 minutes per side or until the fish flakes easily with a fork. Cooking time will depend on how thick the fish is.
+Comments
+Thank you for this great recipe! I found it last week and cooked it twice already. Every time this turned out absolutely delicious, my wife and kids loved it! Michael Simmons recently posted… Rice Vinegar Substitute: What Can I Substitute for Rice Vinegar? Reply Thank you, Micheal! Glad that you enjoyed it! Reply
+Thank you for this great recipe! I found it last week and cooked it twice already. Every time this turned out absolutely delicious, my wife and kids loved it! Michael Simmons recently posted… Rice Vinegar Substitute: What Can I Substitute for Rice Vinegar?
+Thank you, Micheal! Glad that you enjoyed it! Reply
+Thank you, Micheal! Glad that you enjoyed it!
+Your fresh herb sauce with capers sounds perfect for your cod. I’ve been having trouble leaving comments…hopefully this will go through. Karen (Back Road Journal) recently posted… Mini Avocado Toast With Lobster Salad Reply Thanks Karen! I wonder why? THanks for pointing out! Ill check it out! 🙂 Reply
+Your fresh herb sauce with capers sounds perfect for your cod. I’ve been having trouble leaving comments…hopefully this will go through. Karen (Back Road Journal) recently posted… Mini Avocado Toast With Lobster Salad
+Thanks Karen! I wonder why? THanks for pointing out! Ill check it out! 🙂 Reply
+Thanks Karen! I wonder why? THanks for pointing out! Ill check it out! 🙂
+Leave a Reply Cancel reply
+Recent Recipes

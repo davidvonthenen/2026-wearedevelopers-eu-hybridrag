@@ -1,0 +1,89 @@
+Chunky Capsicum and Cashew Dip
+==============================
+
+Recipe Metadata
+---------------
+Recipe ID: fd1d504eca7bbed1
+CSV row number: 442
+Recipe name: Chunky Capsicum and Cashew Dip
+Source: food.com
+URL: http://www.food.com/recipe/chunky-capsicum-and-cashew-dip-410072
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02ce502f2d08538f0568857bde55d2a7c4ddc0d0df1215ecd34b55df61ec01c4/21089447.jpg
+Servings: 6
+Calories: 1255.91
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: south american
+Meal type: snack
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Chunky Capsicum and Cashew Dip
+source: food.com
+url: http://www.food.com/recipe/chunky-capsicum-and-cashew-dip-410072
+servings: 6
+calories: 1255.912125
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02ce502f2d08538f0568857bde55d2a7c4ddc0d0df1215ecd34b55df61ec01c4/21089447.jpg
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["south american"]
+meal_type: ["snack"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Chunky Capsicum and Cashew Dip
+
+Description: Make and share this Chunky Capsicum and Cashew Dip recipe from Food.com.
+
+Recipe category: Peppers
+
+Yield: 1 1/3 cups
+
+Prep time: PT10M
+
+Total time: PT10M
+
+Ingredients:
+- 150 g marinated roasted red peppers, drained (capsicum)
+- 150 g unsalted dry-roasted cashews
+- 1/4 cup fresh parmesan cheese, finely grated
+- 2 tablespoons olive oil
+
+Instructions:
+1. Process all ingredients in a food processor until well combined but not completely smooth.
+2. Season well with fresh ground black pepper and serve with crackers.
+
+Visible page text:
+Chunky Capsicum and Cashew Dip
+ingredients
+150 g marinated roasted red peppers, drained (capsicum)
+150 g unsalted dry-roasted cashews
+1 ⁄ 4 cup fresh parmesan cheese , finely grated
+2 tablespoons olive oil
+directions
+Process all ingredients in a food processor until well combined but not completely smooth.
+Season well with fresh ground black pepper and serve with crackers.
+Questions & Replies
+Reviews
+Mmmm, what a unique and very yummy dip!
+I roasted my own capsicum and added a few sunflower seeds, but other than that stuck to your recipe and it was so good! YUM, YUM, YUM!
+The roasted capsicum and cashew nuts give the dip a wonderful sweet taste and the texture is very sturdy and chunky.
+I ate this with veggies and found it to be delightful!
+I will certainly make this again.
+THANK YOU SO MUCH for sharing this wonderful recipe with us, Mandy!
+Made and reviewed for Make My Recipe Edn #11 May 2010. Lalaloula Reply
+RECIPE SUBMITTED BY
+29 Followers
+890 Recipes
+77 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

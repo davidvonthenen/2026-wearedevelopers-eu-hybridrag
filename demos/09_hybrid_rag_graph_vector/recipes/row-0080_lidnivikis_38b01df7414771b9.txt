@@ -1,0 +1,80 @@
+Lidnivikis
+==========
+
+Recipe Metadata
+---------------
+Recipe ID: 38b01df7414771b9
+CSV row number: 80
+Recipe name: Lidnivikis
+Source: Saveur
+URL: https://www.saveur.com/lidnivikis-cottage-cheese-pancakes-recipe
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0066f08c2c4da85b75cff254aee6d11cba8159de37557f17b6f93d89c48c1fca/20964598.jpg
+Servings: 6
+Calories: 1846.36
+Diet labels: Balanced
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: pancake
+
+Original CSV Fields
+-------------------
+recipe_name: Lidnivikis
+source: Saveur
+url: https://www.saveur.com/lidnivikis-cottage-cheese-pancakes-recipe
+servings: 6
+calories: 1846.359116140949
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0066f08c2c4da85b75cff254aee6d11cba8159de37557f17b6f93d89c48c1fca/20964598.jpg
+diet_labels: ["Balanced"]
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["pancake"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+By Jenn Louis
+Updated on July 11, 2023
+These old school Polish pancakes are lighter, fluffier, and cheesier than the batter-based standard. The batter—really more of a dough made from cottage cheese and egg barely bound together with flour—is sliced into rounds and baked, rather than cooked in a pan. Be careful not to overwork it when adding flour; the pancakes should be fall-apart tender.
+Featured in: “ Old School Pancakes So Good They Don't Need a Pan .”
+Serves 5–7
+5–7
+Time 45 minutes
+45 minutes
+Ingredients
+2 cups cottage cheese (about 1 lb.)
+3 large eggs
+1½ cups (7½ oz.) all-purpose flour, divided
+1 tsp. baking powder
+1 tsp. kosher salt
+4 Tbsp. unsalted butter
+Fresh dill and sour cream, for serving
+Instructions
+Step 1
+Step 2
+Step 3
+Step 4
+Heat the oven to 350°F; position two of the racks in the top and bottom third of the oven. Line two large baking sheets with parchment paper and set aside.
+In a large bowl, stir together the cottage cheese and eggs. Stir in 1 cup of the flour, the baking powder, and salt. Lay a second large rectangle of parchment paper on a clean work surface and sprinkle the remaining ½ cup flour lengthwise down the center. Pour the batter over the flour in an approximately 12- by 2½-inch log, then lift the long sides of the parchment to roll the log back and forth over the parchment until it’s evenly coated in flour (the dough will be very wet and soft). Using a knife, cut the log crosswise into ten 1½-inch thick rounds; using the side of your knife for help, quickly transfer the rounds to the lined baking sheets cut-side-up and spaced at least 2 inches apart.
+Bake, rotating the baking sheets top to bottom and front to back halfway through cooking, until lightly browned on the bottom and set in the middle, about 20 minutes.
+Using a thin, offset spatula, transfer the pancakes to a plate or serving platter. Pinch off small knobs of butter with your fingers and place over each pancake. Sprinkle with dill and serve hot with sour cream on the side.
+Keep Reading
+Mai Tai
+Basil Chambord Spritz
+Beet and Carrot Chops
+Bhaja Moshla
+The Original Kentucky Hot Brown
+Turkey Chowder With Bacon and Tomatoes
+Salted Caramel Macadamia Nut Bars
+Spaghetti With Green Tomato Sauce
+Salt-and-Pepper Fried Green Tomatoes
+Continue to Next Story
+Want more SAVEUR?
+Get our favorite recipes, stories, and more delivered to your inbox.

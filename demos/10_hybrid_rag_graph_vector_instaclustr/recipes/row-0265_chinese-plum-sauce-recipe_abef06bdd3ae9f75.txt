@@ -1,0 +1,95 @@
+Chinese Plum Sauce Recipe
+=========================
+
+Recipe Metadata
+---------------
+Recipe ID: abef06bdd3ae9f75
+CSV row number: 265
+Recipe name: Chinese Plum Sauce Recipe
+Source: Serious Eats
+URL: http://www.seriouseats.com/recipes/2010/07/chinese-plum-sauce-recipe.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01aaa01e9135eef3ea509156d3420df4eeb244d1a15a5947cb72abcbaf14f172/20949477.jpg
+Servings: 6
+Calories: 924.27
+Diet labels: Low-Fat
+Health labels: Vegan, Vegetarian, Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: chinese
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Chinese Plum Sauce Recipe
+source: Serious Eats
+url: http://www.seriouseats.com/recipes/2010/07/chinese-plum-sauce-recipe.html
+servings: 6
+calories: 924.2674804000002
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01aaa01e9135eef3ea509156d3420df4eeb244d1a15a5947cb72abcbaf14f172/20949477.jpg
+diet_labels: ["Low-Fat"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["chinese"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Chinese Plum Sauce Recipe
+
+Description: The following recipe is from the July 28 edition of our weekly recipe newsletter. To receive this newsletter in your inbox, sign up here! My penchant for over buying summer produce struck again over the weekend and I found myself...
+
+Recipe category: ['Condiments and Sauces', 'Sauce', 'Condiment']
+
+Recipe cuisine: ['Chinese']
+
+Yield: ['24', '3 cups']
+
+Prep time: PT5M
+
+Cook time: PT40M
+
+Total time: PT1490M
+
+Ingredients:
+- 2 pounds plums, pitted and chopped
+- 1/2 cup cider vinegar
+- 1/2 cup brown sugar, lightly packed
+- 1/4 cup soy sauce
+- 3 tablespoons freshly grated ginger
+- 2 garlic cloves
+- 1 star anise
+
+Instructions:
+1. Prepare: Combine the plums, vinegar, brown sugar, soy sauce, ginger, garlic, and star anise in a large nonreactive pot, and bring to a boil. Reduce the heat and simmer until thickened, 20 to 25 minutes. Fish out the star anise and discard. Purée the sauce with a stick blender.
+2. Refrigerate: Ladle into bowls or jars. Cool, cover, and refrigerate for up to 3 weeks.
+3. Can: Use the boiling-water method. Ladle into clean, hot 4-ounce or half-pint canning jars, leaving 1/4 inch of headspace. Release trapped air. Wipe the rims clean; center lids on the jars and screw on jar bands. Process for 10 minutes. Turn off heat, remove canner lid, and let jars rest in the water for 5 minutes. Remove jars and set aside for 24 hours. Check seals, then store in a cool, dark place for up to 1 year.
+
+Visible page text:
+Recipes
+Recipes By Course
+Condiments & Sauces
+Chinese Plum Sauce Recipe
+The following recipe is from the July 28 edition of our weekly recipe newsletter. To receive this newsletter in your inbox, enter your email after clicking on Newsletter above.
+My penchant for over buying summer produce struck again over the weekend and I found myself with more plums than I knew what to do with. I realized that I had two options: either sit down and consume the entire bowl (which wouldn't have been the worst thing in the world given the fact that they were perfectly ripe and juicy) or find a way to preserve them. A quick perusal of Put 'em Up! by Sherri Brooks Vinton inspired me to make this Chinese Plum Sauce , especially after reading Vinton's claim that this condiment might end up being my new ketchup.
+Although the components of this plum sauce are pretty much identical to its moo shu dipping counterpart the freshness of this homemade version makes this sauce much more versatile. Tasting the plums after they had softened with the garlic, ginger, and star anise had me thinking about tender pork, juicy roast chicken, and even roast beef sandwiches, all slathered with plum sauce. I decided to leave half of my batch in its chunky state and purée the other portion for dishes that called for a more refined texture since, through the beauty of preserving, I'd have plenty of this wonderful plum sauce on hand for a while.
+Recipe Details
+2 pounds plums , pitted and chopped
+1/2 cup cider vinegar
+1/2 cup brown sugar , lightly packed
+1/4 cup soy sauce
+3 tablespoons freshly grated ginger
+2 garlic cloves
+1 star anise
+Prepare: Combine the plums, vinegar, brown sugar, soy sauce, ginger, garlic, and star anise in a large nonreactive pot, and bring to a boil. Reduce the heat and simmer until thickened, 20 to 25 minutes. Fish out the star anise and discard. Purée the sauce with a stick blender.
+Refrigerate: Ladle into bowls or jars. Cool, cover, and refrigerate for up to 3 weeks.
+Can: Use the boiling-water method. Ladle into clean, hot 4-ounce or half-pint canning jars, leaving 1/4 inch of headspace. Release trapped air. Wipe the rims clean; center lids on the jars and screw on jar bands. Process for 10 minutes. Turn off heat, remove canner lid, and let jars rest in the water for 5 minutes. Remove jars and set aside for 24 hours. Check seals, then store in a cool, dark place for up to 1 year.
+Chinese
+Stovetop
+Plum
+More Serious Eats Recipes

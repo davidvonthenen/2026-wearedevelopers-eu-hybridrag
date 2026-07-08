@@ -1,0 +1,124 @@
+Potato Crisps With Chive-Sour Cream Dip
+=======================================
+
+Recipe Metadata
+---------------
+Recipe ID: 6d8538160b1340c2
+CSV row number: 322
+Recipe name: Potato Crisps With Chive-Sour Cream Dip
+Source: Food & Wine
+URL: http://www.foodandwine.com/recipes/potato-crisps-with-chive-sour-cream-dip
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0208bc6934ee7b8211eea60f50ebd4f3e4f0a72fea0ba0c5b0830098675d2f53/21043915.jpg
+Servings: 18
+Calories: 7128.20
+Diet labels: Low-Carb
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean
+Meal type: snack
+Dish type: starter
+
+Original CSV Fields
+-------------------
+recipe_name: Potato Crisps With Chive-Sour Cream Dip
+source: Food & Wine
+url: http://www.foodandwine.com/recipes/potato-crisps-with-chive-sour-cream-dip
+servings: 18
+calories: 7128.196808596112
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0208bc6934ee7b8211eea60f50ebd4f3e4f0a72fea0ba0c5b0830098675d2f53/21043915.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["snack"]
+dish_type: ["starter"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+35 Savory Party Dips for Vegetables and Chips
+These vegetable, seafood, condiment, and cheese dips are the life of the party.
+Alexis McCowan graduated from Howard University in 2021 and has since interned at Sage Publishing and the Pulitzer Center and contributed to Food & Wine.
+As far as snacks go, dips are always the life of the party. There are so many different kinds that can be served with everything from crunchy chips and crackers to a variety of breads and vegetables. Whether you're looking for a delicious dinner party side or a creamy addition to a charcuterie board, you can't go wrong with these fun, flavorful, savory party dips. Smoked salmon dip, five-onion dip , and green goddess dip are a few of the recipes here that will elevate your entertaining.
+Salsa Macha
+This outside-the-box salsa is made from a fragrant blend of toasted chiles, garlic, peanuts, and sesame seeds. Spoon it over Tuna-Avocado Ceviche , grilled fish, quesadillas, tacos, Mexican-style street corn, salad, pizza, or crusty bread.
+Tahini-Tofu Dip with Chili Crunch
+This creamy, smooth dip from 2011 F&W Best New Chef Stephanie Izard creates layers of flavor with a short ingredient list: roasted garlic, tahini, tamari, and bright, fresh lemon juice, to name a few.
+Jeow Som Dipping Sauce
+This sweet, sour, and pungent Laotian dipping sauce from 2020 F&W Best New Chef Donny Sirisavath gets a kick of heat from Thai chiles, ginger, and garlic balanced by bright, fresh lime juice. It's a delicious partner for beefy tri-tip.
+Kashke Bademjan (Iranian Kashk and Eggplant Dip)
+A little thicker and saltier than yogurt, kashk is an Iranian dairy product that gives this aromatic eggplant dip its luscious texture and tart flavor. Floral saffron, fried dried mint, and more kashk dot the top, adding beautiful color.
+Caramelized Five-Onion Dip
+A mix of five alliums — shallots, scallions, and sweet, yellow, and red onions — upgrades this classic caramelized onion dip with layers of flavor. Yellow and red onions give it bite, while Vidalia onion and shallots lend a pleasant sweetness. Taking the time to cook the onions low and slow concentrates their flavor, while adding scallions halfway through cooking keeps them just fresh enough to serve with chips, toasted bread, or vegetables like endive, steamed fingerling potatoes, and roasted Broccolini.
+Four-Layer Caviar Dip
+Layers of creamy egg salad, crisp red onion, herbed cream cheese, and salty, briney caviar come together in a beautiful molded dip that serves up an entire caviar platter in one dish.
+Smoked Salmon Dip
+This creamy, smoky dip features flaky smoked salmon two ways: Half is finely chopped to add a pleasant texture to the dip alongside briny pops of capers, and the rest is pureed with the mayonnaise, sour cream, and cream cheese, lending its beautiful color and deepening the flavor.
+Warm Crab Dip with Fresh Herbs
+A base of caramelized shallots, cream cheese, mustard, and chives is topped with a golden breadcrumb crust in this creamy, crowd-pleasing recipe that showcases fresh crab.
+Sweet Potato Queso
+Smooth, creamy pureed sweet potato helps thicken this queso, while the subtle sweetness adds more dimension to the flavor.
+Kamaboko Dip
+In this Kamaboko Dip recipe from chef Sheldon Simeon, tender julienned kamaboko (a pink and white fish cake sold frozen at Asian grocery stores) plays off of crunchy scallions, mayonnaise, cream cheese, and sour cream laced with umami-packed dashi concentrate (hondashi). Alaea salt, a red Hawaiian sea salt enriched with volcanic clay, adds color and an earthy flavor.
+Queso Flameado
+Charred poblano pepper, pureed cilantro, and serrano chiles serve as a built-in salsa, layering spicy, garlicky flavors into rich, melted cheese. Flaming the dip with tequila makes the whole thing a little extra while pickled carrots add acidity and brightness.
+Smoked Fish Dip
+Smoked fish dip is a summer staple on the Georgia coast. This creamy mayonnaise and whipped cream cheese dip, seasoned with lemon juice, mustard, horseradish, and Old Bay, is inspired by Griffin Bufkin's smoked fish dips at Southern Soul Barbeque on Georgia's St. Simons Island. It can be customized with your favorite smoked seafood, found in the refrigerated section of the seafood counter or from local smokehouses.
+Baked Brie in a Bread Bowl
+Jordan Provost / Food Styling by Thu Buser
+Swirl melty baked Brie with fig jam and capers and bake in a bread bowl for a retro snack to dip apple slices into.
+Warm Spinach-Artichoke Dip
+Filled with four kinds of cheese and plenty of tender artichoke hearts, this dip is creamy with a crisp, golden top. Be sure to drain the thawed frozen spinach well to avoid excess water, which can break the cheese sauce.
+Fancy Clam Dip
+This classic white clam dip ⁠— filled with cream cheese, crème fraîche, and, of course, canned clams ⁠— is salty, cheesy, and craveable. Some generous splashes of hot sauce and plenty of fresh dill add brightness and cut through the rich, indulgent dip.
+Spicy Lamb Meatballs with Green Goddess Dip
+Inspired by merguez, a North African lamb sausage, these meatballs are loaded with cumin, garlic, and paprika for the ideal one-bite nosh. Harissa gives them a fiery heat that's tempered by the herby dip.
+Dill-Tahini Dip
+This lightly seasoned dip is complex from tahini, soy sauce, and harissa, and creamy from yogurt. Serve it as a snack with vegetables or with kebobs; as a marinade for grilled meats; or as a spread for wraps and sandwiches.
+French Onion Dip
+Caramelized onions, Worcestershire sauce, and a beef bouillon cube mixed with sour cream and cream cheese make the perfect creamy, tangy dip for game days and parties.
+French 75 Dip
+This plant-based dip offered at the Nashville bar White Limozeen was inspired by its namesake effervescent gin cocktail born out of Paris in the early 1900s. The sauce mimics the delicate flavors of the botanical cocktail by adding juniper berries and lemon to a base of aquafaba, the multi-use liquid in canned chickpeas.
+Spinach Maria
+Spinach Maria is made with lots of spinach, Monterey Jack cheese, and crushed red pepper. The cheese sauce is rich with warmth from the cayenne and nutmeg, and the extra layer of melted cheese on top makes it perfectly indulgent. It's great served as a dip with toasted pita wedges or tortilla chips. Customize the sauce however you want by adding more garlic, or chopped hot chiles, pickled peppers, herbs, or even crab meat.
+Muhammara (Roasted Red Pepper and Walnut Dip)
+Smooth, thick, and layered with flavor, this mildly spicy dip of roasted red bell peppers and toasted walnuts is thickened with finely ground crispy breadsticks. Pomegranate molasses adds a piquancy that plays off the sweetness of the juicy roasted bell peppers, and spicy pepper paste brings just a touch of heat.
+Taco Dip
+Justin Chapple riffs on seven-layer dip, starting with a layer of super–flavorful ground beef that’s spiced with homemade taco seasoning.
+Crudités and Fermented Soybean Dip
+At The Charter Oak in Napa Valley, Katianna Hong keeps it simple, pairing just-picked vegetables with a thick, tangy soy dip. This dip is the perfect way to show off whatever fresh vegetables you can get your hands on.
+Za'atar-Spiced Beet Dip with Goat Cheese and Hazelnuts
+Beets have a strong presence in the cuisine of almost every ethnic group in Jerusalem, chef Yotam Ottolenghi explains. They color pickling juices on the Arab table and form the basis for a soup of Jewish, Iraqi, and Kurdish origin. Ottolenghi purees them for this luscious spread.
+Buffalo Chicken Dip
+Abby Hocking
+Justin Chapple's crowd-pleasing dip has all the punchy flavors of buffalo chicken wings with a creamy texture from the combination of cream cheese and sour cream.
+Spinach and Caramelized Onion Dip
+Food & Wine’s Kay Chun makes this lighter version of classic spinach dip with nonfat Greek-style yogurt.
+Ginger-Miso Sweet Pea Spread
+As a dairy-free alternative to creamy dips, the recipe here calls for pureeing sweet peas with scallions, ginger, and jalapeño, then seasoning the mix with yellow miso. Serve the spread with different kinds of crackers and breads or sugar snap peas and celery for dipping.
+Whipped Feta with Cucumbers
+The taste of the Mediterranean shines through in this airy feta spread that's served with olive oil-marinated cucumbers.
+Hummus with Tahini and Spicy Chickpeas
+Chef Michael Solomonov makes his signature hummus with an unusually generous amount of tahini — something that distinguishes the hummus of his native Israel from that of other Middle Eastern countries. He tops the dish with warm chickpeas fried with jalapeño, cumin, and crushed Aleppo pepper.
+Lemony Tofu-Herb Dip
+Chef Kristen Kish makes her green dip with tofu and Greek yogurt; she adds fresh herbs, garlic, lemon juice, and briny fresh anchovies for amazing flavor.
+Whipped Corn Dip with Chile Oil
+Chapple blends sweet corn with creamy ricotta in this delicious and versatile dip that complements crudités or pita chips.
+Crudités with Creamy Pistachio Dip
+Salty, creamy, and even a little crunchy, this recipe is the ultimate party snack for when you're looking to go far beyond the average bowl of onion dip.
+Salsa de Chile Fresco Asado (Roasted Fresh Chile Salsa)
+© Lucy Schaeffer
+You can think of this salsa from chef Rick Bayless as a not-too-smooth, fresh version of your typical rusty-orange hot sauce — fresh chiles replace dried ones, and fresh lime juice replaces vinegar.
+Sikil Pako (Toasted Pumpkin Seed Dip)
+Chef Alex Stupak prepares this outstanding Yucatán-style dip by pureeing pumpkin seeds with roasted tomatoes, garlic, and chile. Typically served with tortilla chips, it also makes a nice vegan accompaniment for vegetables.
+Roasted Cauliflower and Sesame Spread
+Chef Jerry Traunfeld toasts and grinds whole coriander seeds before pureeing them with roasted cauliflower, tahini paste, lemon, and cilantro. At home, use ground coriander from a bottle to season this bright, tangy recipe.
+Food
+Recipes
+Appetizers
+Dips & Spreads
+Related Articles

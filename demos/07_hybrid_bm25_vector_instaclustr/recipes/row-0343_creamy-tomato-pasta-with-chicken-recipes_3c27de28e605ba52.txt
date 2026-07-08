@@ -1,0 +1,135 @@
+Creamy Tomato Pasta with Chicken recipes
+========================================
+
+Recipe Metadata
+---------------
+Recipe ID: 3c27de28e605ba52
+CSV row number: 343
+Recipe name: Creamy Tomato Pasta with Chicken recipes
+Source: longbournfarm.com
+URL: http://longbournfarm.com/2017/02/14/creamy-tomato-pasta-with-chicken/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/022b9f0c87871441f30db080d547e9f587ec4dee8b412267f80109a59551f461/21059288.jpeg
+Servings: 3
+Calories: 3424.36
+Diet labels: Balanced, High-Fiber
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Creamy Tomato Pasta with Chicken recipes
+source: longbournfarm.com
+url: http://longbournfarm.com/2017/02/14/creamy-tomato-pasta-with-chicken/
+servings: 3
+calories: 3424.362786450198
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/022b9f0c87871441f30db080d547e9f587ec4dee8b412267f80109a59551f461/21059288.jpeg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Creamy Tomato Sauce
+
+Description: Creamy tomato sauce is easy to make and delicious on any kind of pasta. Make your favorite and try it today!
+
+Recipe category: ['Main Course']
+
+Recipe cuisine: ['Italian']
+
+Yield: ['6', '6 people']
+
+Prep time: PT5M
+
+Cook time: PT15M
+
+Total time: PT20M
+
+Ingredients:
+- 2 tablespoon olive oil
+- 2 cloves garlic (crushed)
+- 1/4 teaspoon red pepper flakes (see note)
+- 2 cups tomato sauce (also called purred tomatoes)
+- 1 cup heavy cream
+- 1/2 teaspoon salt
+- 1/4 cup parmesan (grated)
+- 1 tablespoons basil (fresh, half if using dried)
+
+Instructions:
+1. In a medium saucepan, heat olive oil on medium heat.
+2. Add the garlic and red pepper flakes, stirring for 30 seconds.
+3. Add the tomato sauce, heavy cream, and salt. Stir to combine.
+4. Bring to a simmer and let simmer for 5 minutes.
+5. Add in parmesan and fresh basil.
+
+Visible page text:
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+Creamy tomato sauce is easy to make and delicious on any kind of pasta. Make your favorite and try it today!
+WANT TO SAVE THIS RECIPE?
+Enter your email below and we'll send it straight to your inbox. Plus youâll get great new recipes from us every week!
+This easy creamy tomato sauce recipe is going to help you switch up spaghetti night for the better. With just a few simple ingredients and 20 minutes of time, you can have your sauce well blended and ready for any cooked pasta of your choosing!
+I love finding simple and easy recipes to feed the family and this one has been a huge hit over the past few years. While I love making it as a simple and easy lunch option, it would also be perfect for dinner. Especially when paired with my Herby Garlic Cheese Bread and a simple green salad.
+Table of Contents
+What is creamy tomato sauce?
+Itâs a blend of tomato sauce and heavy cream that gives you a richer and smoother texture that just works perfectly well together. Also sometimes referred to as a pasta pink sauce because of the hue made when red tomato sauce and white heavy cream blend together. This sauce is full of flavor, spices, and cheesy goodness. Perfect for any Italian-themed meal!
+Can I add meat to pink sauce pasta?
+Absolutely! I do this often when I have some cooked chicken on hand. Adding in cooked shredded or chunked chicken breast to the sauce really helps to make it feel a little more filling, although itâs just as great when served meatless too. Also, if desired, you can add in zucchini chunks instead of meat to give a higher veggie count.
+Creamy tomato sauce ingredients
+Olive oil: This will help to prevent sticking in the pan and add in a lot of flavor. Olive oil is a huge part of Italian cooking as it helps the ingredients amalgamate (this means to combine and form together uniformly).
+Garlic: Crushed garlic cloves add a lot of flavor and a great aroma to our sauce.
+Red pepper flakes: This pairs so well with the garlic to give a nice and robust flavor in every bite.
+Tomato sauce: You can also find this in cans called pureed tomatoes. Itâs unseasoned cooked tomatoes and will be the base of the recipe as you are making your own flavorful pasta sauce.
+Heavy cream: This is where we add a lot of richness and creamy texture to the sauce.
+Salt: Salt is a natural flavor enhancer and will help to make the flavors really stand out (which is what we want).
+Parmesan: Add in some freshly grated parmesan cheese for a nice and cheesy experience.
+Basil: You can use fresh basil or dried basil depending on what you have on hand, but keep in mind youâll only need half the required amount if using dried as the flavors are stronger.
+Mozzarella cheese: Optionally, you can add some cubed of mozzarella cheese to the pasta dish. To keep it from sticking together and forming a clump, keep the cheese nice and cold until using and stir well with your spoon to break up the pieces.
+How to make creamy tomato sauce
+Heat the olive oil over medium heat in a medium-sized saucepan.
+Add in the garlic and red pepper flakes and stir for about 30 seconds.
+Add in the tomato sauce, heavy cream, and salt. Stir together to combine.
+Bring the mixture to a simmer and let it simmer for 5 minutes.
+Add in your parmesan and fresh basil.
+Serve over cooked pasta.
+Enter your email below and we will send it straight to your inbox. Plus you will get great new recipes from us every week!
+Creamy Tomato Sauce
+Ingredients 1x 2x 3x
+2 tablespoon olive oil
+2 cloves garlic (crushed)
+Â¼ teaspoon red pepper flakes (see note)
+2 cups tomato sauce (also called purred tomatoes)
+1 cup heavy cream
+Â½ teaspoon salt
+Â¼ cup parmesan (grated)
+1 tablespoons basil (fresh, half if using dried)
+Instructions
+In a medium saucepan, heat olive oil on medium heat.
+Add the garlic and red pepper flakes, stirring for 30 seconds.
+Add the tomato sauce, heavy cream, and salt. Stir to combine.
+Bring to a simmer and let simmer for 5 minutes.
+Add in parmesan and fresh basil.
+Nutrition
+More Easy Homemade Recipes for Busy Families
+How to Make Salmon Fillets in the Air Fryer
+What to Serve with Potato Soup: 20+ Perfect Pairings
+Easy Skillet Chicken Parmesan Recipe
+What to Serve with Chicken Pot Pie: 25+ Delicious Side Dish Ideas
+Reader Interactions
+Comments
+Leave a Reply Cancel reply
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+Creamy sauces are what I live for!! Love making this pasta. Reply
+Creamy sauces are what I live for!! Love making this pasta.

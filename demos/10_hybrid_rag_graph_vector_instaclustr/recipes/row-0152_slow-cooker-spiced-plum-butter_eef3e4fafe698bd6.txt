@@ -1,0 +1,163 @@
+Slow Cooker Spiced Plum Butter
+==============================
+
+Recipe Metadata
+---------------
+Recipe ID: eef3e4fafe698bd6
+CSV row number: 152
+Recipe name: Slow Cooker Spiced Plum Butter
+Source: leelalicious.com
+URL: http://leelalicious.com/slow-cooker-spiced-plum-butter/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00f14cafa93d3546039b510137105ce45fde13f385c5132c14fb5e4fa64b70ad/21080192.jpg
+Servings: 4
+Calories: 939.83
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Slow Cooker Spiced Plum Butter
+source: leelalicious.com
+url: http://leelalicious.com/slow-cooker-spiced-plum-butter/
+servings: 4
+calories: 939.8289804
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00f14cafa93d3546039b510137105ce45fde13f385c5132c14fb5e4fa64b70ad/21080192.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Slow Cooker Spiced Plum Butter
+
+Description: Spiced Plum Butter made in the slow cooker, sweetened with honey and spiced with warm fall flavors.
+
+Recipe category: ['Breakfast', 'Dessert']
+
+Recipe cuisine: ['American']
+
+Prep time: PT10M
+
+Cook time: PT360M
+
+Total time: PT370M
+
+Ingredients:
+- 2 pounds prune plums
+- 1/2 cup mild honey
+- 1 cinnamon stick
+- 2 whole cloves
+
+Instructions:
+1. Wash the plums. Pit and quarter them and place them in the slow cooker.
+2. Combine with honey and add cinnamon stick and cloves. Turn the slow cooker on high.
+3. Stir after 3 hours and taste. If needed, add a little more honey. Take out the cinnamon stick and cloves, if you can find them.
+4. Keep cooking until the plum butter reaches desired consistency. Mine was still very liquid after 4 hours, so I cooked it for about 6 hours.
+5. Depending on the texture you like, you can either puree the plum butter or leave as is. I used a potato masher to mash the butter just a little bit for a medium texture.
+6. Fill the plum butter into sterilized jars if you want to can it. Otherwise store in the fridge for a couple weeks.
+
+Visible page text:
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+Recipes
+eBooks
+Store
+Breakfast
+Dinner
+Desserts
+About
+Contact
+Facebook
+Pinterest
+Twitter
+Whatsapp
+Email
+Spiced Plum Butter made in the slow cooker, sweetened with honey and spiced with warm fall flavors.
+If you've been reading along for a while, you might have figured that my parents, especially my mom, are master gardeners. And if they don't grow something themselves, they will know someone in their town who does. Their thumbs have been green for decades.
+And what's even better is that they are always sharing the fruit of their labor. They visited us a couple of weeks ago and decked us out with apples until the end of winter. Our tiny tomatoes (no they aren't cherry tomatoes) from the potted plant are a joke compared to the massive heirloom tomatoes my mom grew this summer.
+She brought us a whole box of those too. Even when I run out of fresh ones, I can still enjoy the same wonderfully aromatic tomato flavor from the canned tomatoes my mom brought as well. Those will be fantastic in hearty, warming winter stews. So much variety; it's like I'm at Christmas receiving presents!
+Locally Grown Plums To Make Delicious Spiced Plum Butter
+I am not sure how they did it, but at the end of October my parents still managed to bring me fresh, locally grown (in Canada!) plums. Plums are awesome, but these were a little too sour to enjoy fresh.
+I showed you a picture of these plums on Instagram and Facebook , asking you for recipe suggestions to use the plums. There was a fantastic recommendation that I HAD to try. And oh boy did it pay off. I will share that recipe with you next week.
+From the remaining plums I made this wonderful Spiced Plum Butter. Actually, I didn't do much. The slow cooker did all the work. Work smarter not harder, as they say!
+Perfect for Breakfast and Even Holiday Baking
+I only used a little honey to sweeten this plum butter. Slow cooking caramelizes the natural sugars in fruit and intensifies it.
+To impart a warm spice flavor, a cinnamon stick and a couple of whole cloves are slow cooked together with the plums. If I can keep it that long, this spiced plum butter will be perfect for holiday baking. That may be a big if, considering how tasty it is.
+These days I am actually enjoying the plum butter for breakfast on a slice of whole wheat bread.
+Choose Your Texture and Opt For Canned Option
+I like my condiments at a medium texture. So when the plum butter was finished cooking, I used a potato masher to break it up a little bit. Leave it whole if you like big chunks and if you like it very smooth, you can use an immersion blender or transfer the plum butter to a food processor to puree it. Give the medium texture a try and tell me what you think. Not too chunky, not too smooth.
+If you want to can the plum butter, fill it into sterilized mason jars and you can store it on the shelf for several months. Since mine was a small batch, I am just storing it in the fridge. My 2 pounds of plums filled exactly one medium-small mason jar, but you can definitely make larger batches than I did. And I am sure frozen plums would work just as well.
+Recipe
+Slow Cooker Spiced Plum Butter
+Ingredients ½ 1x 2x 3x
+2 pounds prune plums
+½ cup mild honey
+1 cinnamon stick
+2 whole cloves
+Instructions
+Wash the plums. Pit and quarter them and place them in the slow cooker.
+Combine with honey and add cinnamon stick and cloves. Turn the slow cooker on high.
+Stir after 3 hours and taste. If needed, add a little more honey. Take out the cinnamon stick and cloves, if you can find them.
+Keep cooking until the plum butter reaches desired consistency. Mine was still very liquid after 4 hours, so I cooked it for about 6 hours.
+Depending on the texture you like, you can either puree the plum butter or leave as is. I used a potato masher to mash the butter just a little bit for a medium texture.
+Fill the plum butter into sterilized jars if you want to can it. Otherwise store in the fridge for a couple weeks.
+Pin Slow Cooker Spiced Plum Butter recipe for later?
+Other Recipes You Might Enjoy
+Check out these similar recipes!
+Plum Galette
+German Plum Crumb Bars
+Meyer Lemon Cranberry Scones
+Raspberry Jam without Pectin
+Random Questions
+Plum jam and plum butter differ in their texture and consistency. Plum jam has a smoother, spreadable texture, similar to a fruit preserve, while plum butter has a thicker, more concentrated consistency. Plum butter is typically slow-cooked, which caramelizes the sugars and intensifies the flavors, resulting in a more complex taste compared to plum jam.
+Plum butter is primarily made of plums, sweeteners such as honey or sugar, and spices like cinnamon and cloves. The plums are slow-cooked to create a concentrated, flavorful spread. The slow cooking process caramelizes the sugars in the fruit, resulting in a rich, intense flavor profile.
+Plums have a sweet and tangy flavor that pairs well with a variety of spices and complementary fruits. Popular flavors that go well with plums include warm spices like cinnamon, cloves, and nutmeg, as well as citrusy notes from lemon or orange zest. Additionally, herbs such as thyme or rosemary can enhance the natural sweetness of plums in savory dishes.
+Plums can be paired with various fruits to create delicious and well-balanced dishes. Some fruits that complement plums include berries such as raspberries and strawberries, which add a vibrant sweetness. Apples and pears also work well with plums, offering a blend of textures and flavors that create complexity in desserts and preserves.
+RECEIVE YUMMY HEALTHY RECIPES VIA EMAIL!
+Sign up with your email address to receive news and updates.
+Reader Interactions
+Comments
+Leave a Reply Cancel reply
+My German grandmother made the best plum butter! One trick that makes it even better is to add some lemon juice at the very end. Probably about one or two tablespoons for a batch that makes 5 or 6 jars. Just add a little at a time until the taste will change. It makes a huge difference and perks up the flavor. Reply Thanks for the suggestion, Ruth! I can imagine that lemon juice would be a wonderful addition. 🙂 Reply
+My German grandmother made the best plum butter! One trick that makes it even better is to add some lemon juice at the very end. Probably about one or two tablespoons for a batch that makes 5 or 6 jars. Just add a little at a time until the taste will change. It makes a huge difference and perks up the flavor.
+Thanks for the suggestion, Ruth! I can imagine that lemon juice would be a wonderful addition. 🙂 Reply
+Thanks for the suggestion, Ruth! I can imagine that lemon juice would be a wonderful addition. 🙂
+What if I only have powder of cinnamon Reply You can add powdered cinnamon too. Maybe start with 1/2 teaspoon and increase to taste Reply
+What if I only have powder of cinnamon
+You can add powdered cinnamon too. Maybe start with 1/2 teaspoon and increase to taste Reply
+You can add powdered cinnamon too. Maybe start with 1/2 teaspoon and increase to taste
+Would you have to process in a water bath afterward if you plan to give jars as gifts. Reply I don't have much experience with canning, but yes, if you want to make them shelf-stable for longer the jars need to be processed. Reply
+Would you have to process in a water bath afterward if you plan to give jars as gifts.
+I don't have much experience with canning, but yes, if you want to make them shelf-stable for longer the jars need to be processed. Reply
+I don't have much experience with canning, but yes, if you want to make them shelf-stable for longer the jars need to be processed.
+Should the Crock-Pot lid be on or off while cooking/reducing the plum butter? Reply I had my lid on. But I am now realizing that it probably would have gone faster with the lid off. Reply
+Should the Crock-Pot lid be on or off while cooking/reducing the plum butter?
+I had my lid on. But I am now realizing that it probably would have gone faster with the lid off. Reply
+I had my lid on. But I am now realizing that it probably would have gone faster with the lid off.
+Can any type of plum be used in this? Reply I believe you'll get a nice fruit butter with any kind of plum but I would recommend European plum varieties over Japanese ones for this recipe. Reply
+Can any type of plum be used in this?
+I believe you'll get a nice fruit butter with any kind of plum but I would recommend European plum varieties over Japanese ones for this recipe. Reply
+I believe you'll get a nice fruit butter with any kind of plum but I would recommend European plum varieties over Japanese ones for this recipe.
+Where was this recipe when I had a bucket FULL of plums and no idea what to do with them!? I will definitely save this recipe for next year! 🙂 Reply Yes, this is perfect for a bountiful plum harvest. Do you have your own tree, Jen? Reply No, but I have a friend with several! 🙂 Reply
+Where was this recipe when I had a bucket FULL of plums and no idea what to do with them!? I will definitely save this recipe for next year! 🙂
+Yes, this is perfect for a bountiful plum harvest. Do you have your own tree, Jen? Reply No, but I have a friend with several! 🙂 Reply
+Yes, this is perfect for a bountiful plum harvest. Do you have your own tree, Jen?
+No, but I have a friend with several! 🙂 Reply
+No, but I have a friend with several! 🙂
+This plum butter looks and sounds delicious! Love the idea of spreading it over bread or toast- so good! Reply Thanks so much Jess. You are making me want to get up and make myself another slice 😉 Reply
+This plum butter looks and sounds delicious! Love the idea of spreading it over bread or toast- so good!
+Thanks so much Jess. You are making me want to get up and make myself another slice 😉 Reply
+Thanks so much Jess. You are making me want to get up and make myself another slice 😉

@@ -1,0 +1,82 @@
+Apple Pie Smoothie
+==================
+
+Recipe Metadata
+---------------
+Recipe ID: f035f7f9d12c801e
+CSV row number: 472
+Recipe name: Apple Pie Smoothie
+Source: tastykitchen.com
+URL: https://tastykitchen.com/recipes/drinks/apple-pie-smoothie-4/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0310239dbaf661647c3236931c026fc9a66becf569d34763d67c3af1a96a046d/21118412.jpg
+Servings: 3
+Calories: 332.21
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: breakfast
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Apple Pie Smoothie
+source: tastykitchen.com
+url: https://tastykitchen.com/recipes/drinks/apple-pie-smoothie-4/
+servings: 3
+calories: 332.21475
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0310239dbaf661647c3236931c026fc9a66becf569d34763d67c3af1a96a046d/21118412.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Apple Pie Smoothie
+Print
+Leave a comment
+write a review
+Print Options
+Description
+This is a great, healthy alternative to something sweet that you might be craving. If you don’t have a lot of time for breakfast, this is something you can throw together in just a few minutes and be heading out the door shortly after! This is also a great snack on a hot day.
+Ingredients
+1 whole Apple, Cored, Peeled And Sliced
+½ cups Applesauce
+½ teaspoons Cinnamon
+⅛ teaspoons Nutmeg
+2 Tablespoons Honey
+1-½ cup Almond Milk
+4 whole Ice Cubes
+Preparation
+Place all ingredients into a blender. Put the lid on and blend until thoroughly mixed and smooth. Add more ice cubes if desired. Serve immediately.
+*Note: Plain or vanilla yogurt can be substituted for the almond milk. If you do this just add more applesauce so the smoothie isn’t too thick.
+More Recipes from Island Bakes
+Peppermint Fudge
+Eggnog Ice Cream
+Find Island Bakes elsewhere on the web.
+Website
+Facebook
+No Comments
+Leave a Comment!
+You must be logged in to post a comment.
+No Reviews
+You must be logged in to post a review.
+Food Gifts
+View Recipe
+Slow Cooker Season!
+Related Recipes
+Prep: 5 mins Cook: 10 mins
+Serves: 2 Level: Easy
+Share f a e
+Prep: 11 mins Cook: -
+Serves: 4 Level: Easy
+Prep: 2 mins Cook: -
+Serves: 1 Level: Easy

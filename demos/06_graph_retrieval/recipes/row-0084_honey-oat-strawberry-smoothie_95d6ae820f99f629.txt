@@ -1,0 +1,92 @@
+Honey Oat Strawberry Smoothie
+=============================
+
+Recipe Metadata
+---------------
+Recipe ID: 95d6ae820f99f629
+CSV row number: 84
+Recipe name: Honey Oat Strawberry Smoothie
+Source: ideahacks.com
+URL: http://www.ideahacks.com/honey-oat-strawberry-smoothie/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0075e651dc70d2c170f3c1ade1f91c0d764399628df5b45002576baaa25b16f2/21106025.jpg
+Servings: 4
+Calories: 551.23
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: american
+Meal type: breakfast
+Dish type: drinks
+
+Original CSV Fields
+-------------------
+recipe_name: Honey Oat Strawberry Smoothie
+source: ideahacks.com
+url: http://www.ideahacks.com/honey-oat-strawberry-smoothie/
+servings: 4
+calories: 551.2344420535625
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0075e651dc70d2c170f3c1ade1f91c0d764399628df5b45002576baaa25b16f2/21106025.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["drinks"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Honey Oat Strawberry Smoothie
+Written By Amanda Drozdz
+'Tis the season for New Years' resolutions!I love the whole "fresh start" feel that comes with the New Year, but I go back and forth on the idea of actually making resolutions. On the one hand, I love having a concrete goal in mind to really channel my energy towards -- the extra focus is much appreciated for someone like me who wants to do ALL the things, ALL the time.On the other hand, resolutions feel like they have such a negative connotation attached to them; like just labelling something a resolution is automatically setting yourself up for failure.This might have something to do with the fact that the majority of people get all gung ho about their resolutions, only to fall off the wagon a few weeks into January. But at least the good intentions are there!
+I don't think the problem is in the resolutions themselves, but in how people approach them. They wake up on January 1st with the attitude that all their vices will suddenly disappear and they'll become the picture perfect version of themselves.Actually, I should probably replace the "they" in that sentence with a "we" since I definitely fall into that camp as well. I can't even tell you how many resolutions I've messed up on... which might actually explain why I gave up on making them altogether.But I digress! My point is... there's no reason bite off more than you can chew or get discouraged if you slip up... repeatedly. Bad habits take time to break, while good ones take time to form.You can't expect to go from being a couch potato to a marathon runner overnight, just like you can't expect to go from eating a diet that's predominantly fast food to one that's 100% clean and healthy. It just doesn't work that way.But you can take small steps that'll add up over time and get you to where you want to be. Steps like going for a 30-minute walk 4 times a week. Or crowding out unhealthier foods with some even-more-delicious healthier options...
+I've always found that breakfast is the absolute best time to do that. Not only are healthy breakfast foods delicious, so you won't be missing your processed favorites, but starting the day on a healthy note puts you in the right kind of mindset and helps you make better choices throughout the rest of the day as well. It's a win-win situation! Especially when thick and creamy smoothies are involved...
+This particular thick and creamy smoothie is my current obsession, and I'm not ashamed to admit that I've been drinking it daily for weeks... if not for breakfast, then as an afternoon snack when I feel my energy start to dip.Not only is it crazy delicious, with the honey, oats, and strawberries coming together in such a perfect way that you'd think they were made for each other, but it's also loaded with good-for-you ingredients that'll help you feel and look your best... which is what we're all after in the New Year, no?Plus, it's just nice to look at, which in turn makes you feel good, which is a nice little health benefit on the side. And now if you'll excuse me, I'm going to go whip one up for myself.
+Ingredients
+1/2 cup frozen strawberries
+1/2 ripe banana
+1/3 cup raw oats
+2-3 tsp. honey
+1/2 cup vanilla almond milk (or milk of choice)
+2 Tbsp. vanilla protein powder (optional)
+Instructions
+Add all ingredients into a blender and blend on high until smooth and creamy.
+Transfer to a glass and enjoy right away or place in fridge to allow the smoothie to thicken up even more. If desired, you can combine all the ingredients and refrigerate them overnight before blending them up the next day. This will allow the oats to break down more, resulting in the thickest and creamiest smoothie.
+Related Blogs
+Top 10 Best Pocket Flashlights Reviewed in 2026
+Reviewed by Donny Gamble
+24 Appetizer Friendly Cheese Ball Recipes
+The Best Makeup for Rosacea: Tips and Tricks for Radiant Skin
+Best Indoor Grill Models for Barbecue in the Winter
+Reviewed by Lacey Jolly
+10 Home Remedies for Age Spots Helps Improve the Appearance of Your Skin
+17 Expert Dog Training Tips For Beginners
+Best Shampoo for Damaged Hair: Bring Your Locks Back to Life
+Reviewed by Cheyenne Malave
+Best Shampoo For Oily Hair: Our Top 4 Picks Of The Year
+15 Reasons You Should Have a Himalayan Salt Lamp In Every Room
+Best Probiotic for Acne: Top Products with Good Bacteria for Clear Skin
+Bacon Pimento Cheese
+From Bean to Cup: How Coffee is Made
+Reviewed by IH Edit@r
+15 Surprising Home Remedies to Get Rid of Pimples Quick
+25 Delicious Cod Recipes To Take Fish From Boring To Amazing
+Cookies 'N Cream Ice Cream Cake
+Reviewed by Gayle
+View More
+Why Trust Us?
+Meet the People Behind IdeaHacks
+IdeaHacks is a lifestyle and natural living blog dedicated to simple, practical ideas for healthier, greener,
+and more home ideas. The site blends evergreen content with hands on tips for everyday life.
+IdeaHacks.com is independently operated, with no paid placements or hidden incentives. Our recommendations
+and insights are based on experience and judgment, not sponsorships.
+Our small team is passionate about natural living and committed to researching, testing, and curating ideas
+that are simple, practical, and grounded in everyday life. We believe small changes add up, and that better
+living doesn’t have to be complicated.
+Affiliate Disclosure: If You Buy A Product Or Service After Clicking Above Links , We May Be Paid A Commission. Amazon And The Amazon Logo Are Trademarks Of Amazon.Com, Inc. Or Its Affiliates.
+Copyright © 2014 - 2026 ideahacks.com
+Disclaimer: The information on this website has not been evaluated by the FDA and is not intended to diagnose, treat, prevent, or cure any disease.

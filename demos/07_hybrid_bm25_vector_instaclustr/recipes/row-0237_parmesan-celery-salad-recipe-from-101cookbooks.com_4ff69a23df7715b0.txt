@@ -1,0 +1,46 @@
+Parmesan Celery Salad Recipe from 101cookbooks.com
+==================================================
+
+Recipe Metadata
+---------------
+Recipe ID: 4ff69a23df7715b0
+CSV row number: 237
+Recipe name: Parmesan Celery Salad Recipe from 101cookbooks.com
+Source: BigOven
+URL: http://www.bigoven.com/recipe/Parmesan-Celery-Salad-Recipe-from-101cookbooks.com/324252
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/017c66a7519a20d9c6d703411cb94b9b7e018bd8d8959537960415773bff5908/21108404.jpg
+Servings: 1
+Calories: 2005.13
+Diet labels: Balanced, High-Fiber
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Parmesan Celery Salad Recipe from 101cookbooks.com
+source: BigOven
+url: http://www.bigoven.com/recipe/Parmesan-Celery-Salad-Recipe-from-101cookbooks.com/324252
+servings: 1
+calories: 2005.129919229164
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/017c66a7519a20d9c6d703411cb94b9b7e018bd8d8959537960415773bff5908/21108404.jpg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+This recipe is private.
+Sorry, this recipe is private, and can only be viewed by the person who posted it. If you are the one who posted it, please sign in with that account.
+Add unlimited recipes. Remove ads. Custom folders. Find recipes for your diet.
+Try BigOven Pro Free

@@ -1,0 +1,109 @@
+Creamy Chicken & Mushrooms
+==========================
+
+Recipe Metadata
+---------------
+Recipe ID: 2e3ba60abc7fe5d4
+CSV row number: 329
+Recipe name: Creamy Chicken & Mushrooms
+Source: EatingWell
+URL: https://www.eatingwell.com/recipe/259645/creamy-chicken-mushrooms
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0210585765a9374c50fc15947be7de87aacebad92ee889c05c12eede8f066391/20984469.jpg
+Servings: 4
+Calories: 1177.72
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: french
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Creamy Chicken & Mushrooms
+source: EatingWell
+url: https://www.eatingwell.com/recipe/259645/creamy-chicken-mushrooms
+servings: 4
+calories: 1177.7177
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0210585765a9374c50fc15947be7de87aacebad92ee889c05c12eede8f066391/20984469.jpg
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["french"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Creamy Chicken &amp; Mushrooms
+
+Description: This healthy creamy chicken recipe is delicious with any mushrooms you have on hand. Serve over whole-wheat pasta for an easy dinner.
+
+Recipe category: ['Dinner']
+
+Recipe cuisine: ['American']
+
+Yield: ['4', '4 servings']
+
+Prep time: PT30M
+
+Total time: PT30M
+
+Ingredients:
+- 4 4- to 5-ounce chicken cutlets (see Tips)
+- 4 cups mixed mushrooms, sliced if large
+- 0.5 cup dry white wine
+- 0.5 cup heavy cream
+- 2 tablespoons finely chopped fresh parsley
+
+Instructions:
+1. Sprinkle chicken with 1/4 teaspoon each kosher salt and pepper. Heat 1 tablespoon canola oil in a large skillet over medium heat. Cook the chicken, turning once, until browned and just cooked through, 7 to 10 minutes total. Transfer to a plate.
+2. Add 1 tablespoon oil and mushrooms to the pan; cook, stirring occasionally, until the liquid has evaporated, about 4 minutes. Increase heat to high, add wine and cook until it has mostly evaporated, about 4 minutes. Reduce heat to medium; stir in cream, any accumulated juice from the chicken and 1/4 teaspoon each salt and pepper. Return the chicken to the pan and turn to coat with the sauce. Serve the chicken topped with the sauce and sprinkled with parsley.
+
+Visible page text:
+Creamy Chicken & Mushrooms
+Whether you scored wild mushrooms at the farmers' market, found cultivated maitake or shiitake at the supermarket or just have some baby bellas on hand, this healthy creamy chicken recipe is delicious with any of them. Serve over whole-wheat egg noodles or mashed potatoes.
+As EatingWell's Editorial Director, Carolyn Malcoun searches for cool farmers, chefs and other food stories to tell. She has a bachelor's degree in journalism from the University of Wisconsin and a culinary arts degree from New England Culinary Institute. She started at EatingWell as an intern in the Test Kitchen in 2005 and joined the editorial team soon after.
+The creamy sauce comes together quickly and coats each piece of chicken for a rich finish.
+Sliced mixed mushrooms add earthy flavor and antioxidants supporting overall health.
+Fresh parsley sprinkled on top offers a boost of color and plant-based nutrients.
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 4 servings
+4 4- to 5-ounce chicken cutlets (see Tips)
+4 cups mixed mushrooms, sliced if large
+½ cup dry white wine
+½ cup heavy cream
+2 tablespoons finely chopped fresh parsley
+Directions
+Sprinkle chicken with 1/4 teaspoon each kosher salt and pepper. Heat 1 tablespoon canola oil in a large skillet over medium heat. Cook the chicken, turning once, until browned and just cooked through, 7 to 10 minutes total. Transfer to a plate.
+Add 1 tablespoon oil and mushrooms to the pan; cook, stirring occasionally, until the liquid has evaporated, about 4 minutes. Increase heat to high, add wine and cook until it has mostly evaporated, about 4 minutes. Reduce heat to medium; stir in cream, any accumulated juice from the chicken and 1/4 teaspoon each salt and pepper. Return the chicken to the pan and turn to coat with the sauce. Serve the chicken topped with the sauce and sprinkled with parsley.
+Equipment
+Large skillet
+Frequently Asked Questions
+Are chicken cutlets healthy? Chicken cutlets are really just chicken breasts that have been pounded down so they're thinner. And, chicken breast offers important nutrients including protein, choline, vitamin B6 and pantothenic acid (vitamin B5).
+Chicken cutlets are really just chicken breasts that have been pounded down so they're thinner. And, chicken breast offers important nutrients including protein, choline, vitamin B6 and pantothenic acid (vitamin B5).
+Are mushrooms good for you? While mushrooms don't exactly fit into the "eat the rainbow" campaign, these earthy fungi have a wealth of health benefits. Mushrooms are rich in B vitamins and have been shown to have anti-inflammatory properties and boost gut health.
+While mushrooms don't exactly fit into the "eat the rainbow" campaign, these earthy fungi have a wealth of health benefits. Mushrooms are rich in B vitamins and have been shown to have anti-inflammatory properties and boost gut health.
+What are chicken cutlets? Chicken cutlets are thinly sliced chicken breasts, usually between 1/4 inch to 1/2 inch thick. Sometimes labeled "thin-cut," they cook through quickly, which is why we love them here. If you can't find cutlets, you can make your own by slicing a chicken breast in half horizontally. If they're much more than 1/2 inch thick, you can pound them down with a meat mallet or with a small, heavy skillet until they're the right thickness.
+Chicken cutlets are thinly sliced chicken breasts, usually between 1/4 inch to 1/2 inch thick. Sometimes labeled "thin-cut," they cook through quickly, which is why we love them here. If you can't find cutlets, you can make your own by slicing a chicken breast in half horizontally. If they're much more than 1/2 inch thick, you can pound them down with a meat mallet or with a small, heavy skillet until they're the right thickness.
+What type of mushrooms can I use? This easy creamy chicken recipe is a great way to use wild mushrooms, available at many grocery stores and farmer's markets. Use an assortment of mixed mushrooms for the dish, such as cremini, portobello, chanterelle, shiitake, porcini, button and oyster mushrooms. When shopping for mushrooms , they should feel dry and firm to the touch, have a smooth outer appearance and be free from any dark spots. Be sure to clean the mushrooms well before using.
+This easy creamy chicken recipe is a great way to use wild mushrooms, available at many grocery stores and farmer's markets. Use an assortment of mixed mushrooms for the dish, such as cremini, portobello, chanterelle, shiitake, porcini, button and oyster mushrooms. When shopping for mushrooms , they should feel dry and firm to the touch, have a smooth outer appearance and be free from any dark spots. Be sure to clean the mushrooms well before using.
+Is there a substitute for the white wine? You can replace the white wine with an equal amount of low-sodium chicken or vegetable broth plus 1/2 tablespoon of white wine vinegar or lemon juice for a touch of brightness and acidity to balance out the dish.
+You can replace the white wine with an equal amount of low-sodium chicken or vegetable broth plus 1/2 tablespoon of white wine vinegar or lemon juice for a touch of brightness and acidity to balance out the dish.
+What can I serve with Creamy Chicken & Mushrooms? The creamy chicken dish can be served over whole-wheat pasta , mashed potatoes , brown rice , cauliflower rice or zucchini noodles to soak up the delicious sauce. Make a simple side salad to round out the meal.
+The creamy chicken dish can be served over whole-wheat pasta , mashed potatoes , brown rice , cauliflower rice or zucchini noodles to soak up the delicious sauce. Make a simple side salad to round out the meal.
+Additional reporting by Carrie Myers and Jan Valdez
+Nutrition Facts (per serving)
+Nutrition information is calculated by a registered dietitian using an ingredient database but should be considered an estimate.
+* Daily Values (DVs) are the recommended amounts of nutrients to consume each day. Percent Daily Value (%DV) found on nutrition labels tells you how much a serving of a particular food or recipe contributes to each of those total recommended amounts. Per the Food and Drug Administration (FDA), the daily value is based on a standard 2,000 calorie diet. Depending on your calorie needs or if you have a health condition, you may need more or less of particular nutrients. (For example, it’s recommended that people following a heart-healthy diet eat less sodium on a daily basis compared to those following a standard diet.)
+(-) Information is not currently available for this nutrient. If you are following a special diet for medical reasons, be sure to consult with your primary care provider or a registered dietitian to better understand your personal nutrition needs.
+Meat & Poultry
+Chicken
+Chicken Main Dish
+5-Ingredient Chicken
+Related Articles

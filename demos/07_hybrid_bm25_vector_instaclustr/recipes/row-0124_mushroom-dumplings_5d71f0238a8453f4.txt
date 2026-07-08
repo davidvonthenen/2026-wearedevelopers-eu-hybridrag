@@ -1,0 +1,108 @@
+Mushroom Dumplings
+==================
+
+Recipe Metadata
+---------------
+Recipe ID: 5d71f0238a8453f4
+CSV row number: 124
+Recipe name: Mushroom Dumplings
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/mushroom-dumplings-5542473
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00c611ee7ac760189eef29c651375a24b33a2fdab9ebb8f30003f5d94b73e278/21123818.jpg
+Servings: 8
+Calories: 2272.51
+Diet labels: none listed
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Mushroom Dumplings
+source: Food Network
+url: https://www.foodnetwork.com/recipes/mushroom-dumplings-5542473
+servings: 8
+calories: 2272.507658
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00c611ee7ac760189eef29c651375a24b33a2fdab9ebb8f30003f5d94b73e278/21123818.jpg
+diet_labels: []
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Mushroom Dumplings
+
+Recipe category: appetizer
+
+Yield: 6 to 8 servings
+
+Cook time: P0Y0M0DT0H55M0.000S
+
+Total time: P0Y0M0DT2H0M0.000S
+
+Ingredients:
+- 1/4 cup dried porcini mushrooms
+- 3 tablespoons vegetable oil
+- 1 small onion, minced
+- 4 cups chopped mixed wild mushrooms
+- Salt and ground black pepper
+- 1 large egg yolk
+- 1 tablespoon vegetable oil
+- 3 1/4 cups all-purpose flour, or more as needed
+- Serving suggestions: hot borscht, sour cream
+
+Instructions:
+1. For the filling: Place dried mushrooms in a small bowl and add 1/4 cup boiling water. Let soften, about 10 minutes. Strain, reserving liquid and mushrooms separately.
+2. Heat oil in a large skillet over medium heat. Add onion and cook, stirring often, until golden but not brown, about 5 minutes. Add fresh mushrooms and cook, stirring, until they have released their liquid, about 10 minutes. Sprinkle with salt and pepper and drain liquid. Combine both kinds of mushrooms in a food processor. Spoon in porcini liquid, leaving behind any silt in bottom of bowl. Pulse together until finely ground but not pasty, about 3 or 4 pulses. Add salt and pepper to taste and set aside.
+3. For the dough: Combine egg yolk, oil and 1 1/2 cups lukewarm water in a small bowl and whisk 1 minute. Place flour in a large bowl and make a well in center. Add a third of the egg mixture to the well and lightly mix in with fingers or a fork. Repeat 2 more times. Using hands, fold dough together until soft; if crumbly, gently work in more water, and if sticky, add flour. Transfer to a lightly floured board and knead 3 minutes. Form into a ball, transfer to a bowl and refrigerate 45 minutes.
+4. Lightly flour a work surface and a pan or board for the finished dumplings. Divide dough into 3 sections. Using a well-floured rolling pin, roll each section out to a very thin rough rectangle. Use tip of a sharp knife to cut dough into 1 1/2-inch squares.
+5. Drain any excess liquid from filling. Place 1/2 teaspoon filling in center of each square. Fold squares in half to form triangles, sealing filling inside. (If dough is becoming dry, lightly moisten fingertips to seal.) Place on floured surface; do not stack. Repeat with remaining dough and filling.
+6. Cook dumplings in a large pot of salted boiling water until they float, 2 to 4 minutes. Drain and serve in hot borscht, or just with sour cream.
+
+Visible page text:
+Home
+Recipes
+Main Dishes
+Dumplings
+We're sorry, there seems to be an issue playing this video. Please refresh the page or try again in a moment. If you continue to have issues, please contact us here .
+Mushroom Dumplings
+Level: Easy
+Total: 2 hr (includes chilling time)
+Active: 55 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+Filling:
+1/4 cup dried porcini mushrooms
+3 tablespoons vegetable oil
+1 small onion, minced
+4 cups chopped mixed wild mushrooms
+Salt and ground black pepper
+Dough:
+1 large egg yolk
+1 tablespoon vegetable oil
+3 1/4 cups all-purpose flour, or more as needed
+Serving suggestions: hot borscht, sour cream
+For the filling: Place dried mushrooms in a small bowl and add 1/4 cup boiling water. Let soften, about 10 minutes. Strain, reserving liquid and mushrooms separately.
+Heat oil in a large skillet over medium heat. Add onion and cook, stirring often, until golden but not brown, about 5 minutes. Add fresh mushrooms and cook, stirring, until they have released their liquid, about 10 minutes. Sprinkle with salt and pepper and drain liquid. Combine both kinds of mushrooms in a food processor. Spoon in porcini liquid, leaving behind any silt in bottom of bowl. Pulse together until finely ground but not pasty, about 3 or 4 pulses. Add salt and pepper to taste and set aside.
+For the dough: Combine egg yolk, oil and 1 1/2 cups lukewarm water in a small bowl and whisk 1 minute. Place flour in a large bowl and make a well in center. Add a third of the egg mixture to the well and lightly mix in with fingers or a fork. Repeat 2 more times. Using hands, fold dough together until soft; if crumbly, gently work in more water, and if sticky, add flour. Transfer to a lightly floured board and knead 3 minutes. Form into a ball, transfer to a bowl and refrigerate 45 minutes.
+Lightly flour a work surface and a pan or board for the finished dumplings. Divide dough into 3 sections. Using a well-floured rolling pin, roll each section out to a very thin rough rectangle. Use tip of a sharp knife to cut dough into 1 1/2-inch squares.
+Drain any excess liquid from filling. Place 1/2 teaspoon filling in center of each square. Fold squares in half to form triangles, sealing filling inside. (If dough is becoming dry, lightly moisten fingertips to seal.) Place on floured surface; do not stack. Repeat with remaining dough and filling.
+Cook dumplings in a large pot of salted boiling water until they float, 2 to 4 minutes. Drain and serve in hot borscht, or just with sour cream.
+This recipe has been updated and may differ from what was originally published or broadcast.
+Categories:
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .

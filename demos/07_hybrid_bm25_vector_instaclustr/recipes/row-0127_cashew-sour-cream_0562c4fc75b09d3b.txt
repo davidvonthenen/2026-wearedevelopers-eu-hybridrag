@@ -1,0 +1,101 @@
+Cashew Sour Cream
+=================
+
+Recipe Metadata
+---------------
+Recipe ID: 0562c4fc75b09d3b
+CSV row number: 127
+Recipe name: Cashew Sour Cream
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/279636/cashew-sour-cream
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00c814d12e7280c8c1afe8e5fed6fffbc7a199e9b4cb16802aa615800bd86cce/21104632.jpg
+Servings: 10
+Calories: 778.24
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Vegan, Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Cashew Sour Cream
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/279636/cashew-sour-cream
+servings: 10
+calories: 778.2366666667801
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00c814d12e7280c8c1afe8e5fed6fffbc7a199e9b4cb16802aa615800bd86cce/21104632.jpg
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Cashew Sour Cream
+
+Description: Made with cashews instead of dairy, this vegan sour cream can be used as a topping for any soups, chili, or taco dishes you usually top with sour cream.
+
+Yield: 10
+
+Prep time: PT5M
+
+Total time: PT485M
+
+Ingredients:
+- 1 cup raw cashews
+- 7 tablespoons water
+- 2 teaspoons fresh lemon juice
+- 2 teaspoons rice vinegar
+- 0.5 teaspoon kosher salt
+
+Instructions:
+1. Place cashews in a bowl and cover with a few inches of water. Let soak until soft, 8 hours to overnight.
+2. Drain and rinse cashews; transfer to a high-powered blender. Add 4 tablespoons water, lemon juice, vinegar, and salt. Blend until cashews are finely ground. Scrape down the sides of the blender and add remaining water; blend until very smooth.
+3. Transfer cashew cream to a jar with a tight-fitting lid and store in the refrigerator.
+
+Visible page text:
+Recipes
+Side Dish
+Sauces and Condiments
+Cashew Sour Cream
+Made with soaked cashews instead of dairy, this vegan version of sour cream can be customized with any spices or seasonings you like. Serve with chili or any other recipes you like to top with sour cream!
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 10 servings
+1 cup raw cashews
+7 tablespoons water
+2 teaspoons fresh lemon juice
+2 teaspoons rice vinegar
+½ teaspoon kosher salt
+Directions
+Place cashews in a bowl and cover with a few inches of water. Let soak until soft, 8 hours to overnight.
+Drain and rinse cashews; transfer to a high-powered blender. Add 4 tablespoons water, lemon juice, vinegar, and salt. Blend until cashews are finely ground. Scrape down the sides of the blender and add remaining water; blend until very smooth.
+Transfer cashew cream to a jar with a tight-fitting lid and store in the refrigerator.
+Cook's Note:
+The cashew cream thickens up a bit after being in the fridge, and the tart flavors come through more. Vary the levels of lemon juice and vinegar to your taste!
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Cashew Sour Cream
+1
+Most-Saved Recipes Like This
+Vegetarian Tortilla Soup 752 Ratings 55 mins Save
+Sour Cream Cornbread 273 Ratings 45 mins Save
+Banana Oat Muffins with Sour Cream 334 Ratings 40 mins Save
+Fantastic Mexican Dip 225 Ratings 25 mins Save
+Vegan Broccoli Soup 186 Ratings 35 mins Save
+Cilantro Serrano Cream Sauce 99 Ratings 10 mins Save
+Cucumber Salad With Sour Cream 143 Ratings 4 hrs 15 mins Save
+Avocado-Spinach Dip 47 Ratings 1 hr 15 mins Save
+Vegan Mac and No Cheese 109 Ratings 1 hr 15 mins Save
+Chunky Corn Chowder (Vegan) 56 Ratings 1 hr 10 mins Save
+You’ll Also Love

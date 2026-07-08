@@ -1,0 +1,86 @@
+Baigan Choka
+============
+
+Recipe Metadata
+---------------
+Recipe ID: 3dc3fdd509451109
+CSV row number: 103
+Recipe name: Baigan Choka
+Source: tastykitchen.com
+URL: https://tastykitchen.com/recipes/sidedishes/baigan-choka/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0095283b59ce7f4494aa579d0c010a744c4a8e5a1f6863ce76fffedeb22337d5/21106576.jpg
+Servings: 6
+Calories: 1414.75
+Diet labels: High-Fiber, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Baigan Choka
+source: tastykitchen.com
+url: https://tastykitchen.com/recipes/sidedishes/baigan-choka/
+servings: 6
+calories: 1414.751264
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0095283b59ce7f4494aa579d0c010a744c4a8e5a1f6863ce76fffedeb22337d5/21106576.jpg
+diet_labels: ["High-Fiber","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Baigan Choka
+Print
+Leave a comment
+write a review
+Print Options
+Description
+This Trinidadian dish is similar to baba ghanoush. It features roasted eggplant, tomatoes, garlic, and hot pepper for those who like it spicy, and is finished with hot flavored oil. Serve with roti or naan for an excellent vegetarian meal.
+Ingredients
+3 whole Large Eggplant
+3 whole Plum Tomatoes
+9 cloves Garlic
+1 whole Medium Onion, Thinly Sliced
+4 Tablespoons Extra Virgin Olive Oil
+Vegetable Oil, For Roasting Eggplant
+Fresh Hot Pepper, Such As Scotch Bonnet, Habanero, Or Jalapeno (optional)
+Preparation
+Rub the eggplant with a little vegetable oil. Roast the vegetables over open flame (either on a grill or directly on a gas stovetop) until the skins are charred and the vegetables are cooked. Let cool and peel the vegetables. Discard any extra liquid released.
+Trim the stems off the eggplant. Chop the eggplant into pieces and put in a bowl. Add the tomatoes and mash with a fork until there are no more chunks. Take the peeled garlic, mash it with a fork, and add it to the mixture along with the slices of onion. Season with salt and some fresh hot pepper, to taste.
+Right before serving, heat up 3-4 tablespoons of extra virgin olive oil with 2-3 smashed cloves of garlic. When garlic starts sizzling, take off heat and pour over the eggplant mixture. Give it one more stir, and serve with roti or naan.
+More Recipes from ivoryhut
+Fudgy Flourless Cookies
+Browned Butter Banana Streusel Cake
+Find ivoryhut elsewhere on the web.
+Website
+Twitter
+No Comments
+Leave a Comment!
+You must be logged in to post a comment.
+No Reviews
+You must be logged in to post a review.
+Food Gifts
+View Recipe
+Slow Cooker Season!
+Related Recipes
+Prep: 10 mins Cook: 35 mins
+Serves: 4 Level: Easy
+Share f a e
+Prep: 25 mins Cook: -
+Serves: 6 Level: Easy
+Prep: 30 mins Cook: 1 hr 15 mins
+Prep: 10 mins Cook: 5 mins
+Serves: 20 Level: Easy
+Prep: 5 mins Cook: -
+Serves: 8 Level: Easy

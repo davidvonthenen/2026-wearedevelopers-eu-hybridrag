@@ -1,0 +1,78 @@
+Swiss Chard + Bacon Linguine With Butternut Squash Cream Sauce
+==============================================================
+
+Recipe Metadata
+---------------
+Recipe ID: e503294c4c82b5c7
+CSV row number: 228
+Recipe name: Swiss Chard + Bacon Linguine With Butternut Squash Cream Sauce
+Source: Bella Eats
+URL: http://www.bellaeats.com/blog/2009/1/27/swiss-chard-i-think-i-love-you.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/016ad0e2774f063a259af980326551bee9645a5fd437c83e5a19d6f0e7ba2d85/21051006.jpg
+Servings: 4
+Calories: 2630.60
+Diet labels: Balanced, High-Fiber
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Swiss Chard + Bacon Linguine With Butternut Squash Cream Sauce
+source: Bella Eats
+url: http://www.bellaeats.com/blog/2009/1/27/swiss-chard-i-think-i-love-you.html
+servings: 4
+calories: 2630.602281996501
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/016ad0e2774f063a259af980326551bee9645a5fd437c83e5a19d6f0e7ba2d85/21051006.jpg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Contact Us
+Use the form on the right to contact us.
+You can edit the text in this area, and change where the contact form on the right submits to, by entering edit mode using the modes on the bottom right.
+123 Street Avenue, City Town, 99999
+(123) 555-6789
+email@address.com
+You can set your address, phone number, email and site description in the settings tab. Link to read me page with more information.
+Bella Eats
+Blog
+swiss chard, i think i love you
+January 26, 2009 Andrea
+1 pound swiss chard, preferably rainbow or red-stem
+1/4 pound bacon
+1 small onion, chopped
+8oz butternut squash puree'
+1/2 cup heavy cream
+1/2 cup parmesan cheese, grated
+3/4 pound whole wheat linguine
+salt + pepper
+Wash chard and separate leaves from stems. Course chop both, separately.
+Boil linguine for 10-12 minutes, until al dente. Drain and set aside.
+Fry bacon in large, nonstick skillet. Set aside on paper towels.
+Saute' onion in nonstick skillet for 2 minutes, until translucent. Add chard stems and saute' for an additional 2 minutes, stirring frequently. Add 1/2 cup of water to pan along with chard leaves. Cover with a cookie sheet and allow to simmer for 3-5 minutes until stems are tender. Remove from heat and keep warm.
+Whisk squash and cream together over medium high heat. Bring just to a boil then lower heat to simmer, whisking constantly. As sauce thickens add parmesan cheese, salt and pepper. Remove from heat.
+Pile noodles on plate. Drizzle with a bit of sauce. Add chard mixture and crumble bacon on top. Drizzle additional sauce across the chard.
+a sprinkle of cinnamon
+1 tsp flax seeds
+1 dried fig
+1 tbsp natural peanut butter
+spinach
+red bell pepper
+cucumber
+hearts of palm
+garbonzo beans
+a tangelo
+poppyseed dressing

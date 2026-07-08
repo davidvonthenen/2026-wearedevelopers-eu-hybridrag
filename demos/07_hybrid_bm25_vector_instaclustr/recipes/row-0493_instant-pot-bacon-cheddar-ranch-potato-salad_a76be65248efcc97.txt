@@ -1,0 +1,134 @@
+Instant Pot Bacon Cheddar Ranch Potato Salad
+============================================
+
+Recipe Metadata
+---------------
+Recipe ID: a76be65248efcc97
+CSV row number: 493
+Recipe name: Instant Pot Bacon Cheddar Ranch Potato Salad
+Source: thenymelrosefamily.com
+URL: https://thenymelrosefamily.com/instant-pot-bacon-cheddar-ranch-potato-salad
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0337b06d1513dcedf201692b0f31126329630d0273caf67b04f0cfbeee8df3b9/21054074.jpg
+Servings: 12
+Calories: 3439.51
+Diet labels: none listed
+Health labels: Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Instant Pot Bacon Cheddar Ranch Potato Salad
+source: thenymelrosefamily.com
+url: https://thenymelrosefamily.com/instant-pot-bacon-cheddar-ranch-potato-salad
+servings: 12
+calories: 3439.512668522223
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0337b06d1513dcedf201692b0f31126329630d0273caf67b04f0cfbeee8df3b9/21054074.jpg
+diet_labels: []
+health_labels: ["Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Instant Pot Bacon Cheddar Ranch Potato Salad Recipe
+
+Description: Packed with flavor, this Instant Pot Bacon Cheddar Ranch Potato Salad will be the the star of your next summer cookout! Perfect for a quick side dish.
+
+Recipe category: ['Side Dish']
+
+Yield: ['6', '6 people']
+
+Prep time: PT5M
+
+Cook time: PT5M
+
+Total time: PT10M
+
+Ingredients:
+- 6 red skin potatoes (cut into cubes)
+- 10 slices of bacon (cut into pieces)
+- 1 1/2 cup cheddar cheese
+- 5 green onions (diced)
+- 8 oz sour cream
+- 1/2 packet dry ranch seasoning
+- 1 tsp canola oil
+- 1 cup water
+
+Instructions:
+1. Heat your Instant Pot's saute function. Once ON turns to HOT, add 1 tsp. oil to pan and let heat. Add the bacon pieces and cook, stirring frequently, until crisp. Remove bacon from the pot and set aside. Hit the pot's cancel button
+2. Place a trivet or steamer basket in the Instant Pot above the bacon grease. Add 1 cup water to the pan and then add your potatoes on top of the trivet or in the basket. Hit the manual button and set the timer to four minutes. Put the lid on and turn the vent to sealed.
+3. While potatoes cook, mix together 8 oz. sour cream with half a packet of dry ranch seasoning. Set side.
+4. When the timer for the potatoes goes off, hit cancel and do a natural pressure release.
+5. In a large mixing bowl, add the potatoes and then mix in the sour cream mixture. Add the cheese, bacon pieces, and green onions. Serve immediately hot or refrigerate until serving.
+
+Visible page text:
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+Home
+Recipes Lunch & Dinner Ideas Desserts Small Bites Appetizers Healthy Snacks Side Dishes Beverages Breakfast Ideas
+Lunch & Dinner Ideas
+Desserts
+Small Bites Appetizers Healthy Snacks Side Dishes
+Appetizers
+Healthy Snacks
+Side Dishes
+Beverages
+Breakfast Ideas
+Crafts
+Holidays
+Mommy Stuff Cleaning Hacks Party Planning Parenting Tips 21 Day Fix
+Cleaning Hacks
+Party Planning
+Parenting Tips
+21 Day Fix
+About Us
+Packed with flavor, this Instant Pot Bacon Cheddar Ranch Potato Salad will be the the star of your next summer cookout!
+What makes this Instant Pot Bacon Cheddar Ranch Potato Salad a great Summer recipe?
+How to make Instant Pot Bacon Cheddar Ranch Potato Salad?
+Instant Pot Bacon Cheddar Ranch Potato Salad Recipe
+Hi everyone! Amanda here from Old House to New Home sharing what is definitely my new favorite easy potato salad recipe. I needed a quick recipe for a picnic last Sunday and this salad, packed with bacon, green onions, cheddar cheese, and creamy ranch flavor, definitely fit the bill. Not only was it good, but it was so easy thanks to the Instant Pot!
+If you haven't hopped on the Instant Pot train yet, you really need to! It greatly speed ups the cooking process and imparts so much flavor into your food. I absolutely love cooking slow cooked meats and soups in the Instant Pot, but this was my first time trying potatoes! I actually haven't pulled out my slow cooker in months because I have been doing all my roasts in the Instant Pot! Not only does it take a fraction of the time, but there is just so much more flavor!
+Here's the key as to why this potato salad is so good! Bacon grease!! But here's the secret, the potatoes don't actually touch the grease so you get all the bacon flavor, but none of the calories! Here's what I did: Cook the bacon in the Instant Pot and then remove the pieces, but leave the grease. Add the trivet that comes with your pot or a steamer basket to your pot insert, and then place the potatoes on top of that. So while the potatoes cook, they are actually being steamed in all that delicious bacony flavor!!
+So not only do you have delicious, bacon steamed potatoes, but once they come out of the Instant Pot after only a four minute cook time, then you add ranch seasoned sour cream, a big handful of cheese, the precooked bacon, and lots of green onions. I actually thought these potatoes tasted delicious warm as well, so you could serve it as a hot side dish or let it chill in the fridge for a while and serve it as a salad.
+Instant Pot Bacon Cheddar Ranch Potato Salad is so good and so easy and will definitely be a new family favorite around your table!
+Red skin potatoes
+Bacon
+Cheddar cheese
+Green onions
+Sour cream
+Dry ranch seasoning
+Canola oil
+Water
+Heat your Instant Pot's saute function. Once ON turns to HOT, add 1 tsp. oil to pan and let heat. Add the bacon pieces and cook, stirring frequently, until crisp. Remove bacon from the pot and set aside. Hit the pot's cancel button.
+Place a trivet or steamer basket in the Instant Pot above the bacon grease. Add 1 cup water to the pan and then add your potatoes on top of the trivet or in the basket. Hit the manual button and set the timer to four minutes. Put the lid on and turn the vent to sealed.
+While potatoes cook, mix together 8 oz. sour cream with half a packet of dry ranch seasoning. Set side.
+When the timer for the potatoes goes off, hit cancel and do a natural pressure release.
+In a large mixing bowl, add the potatoes and then mix in the sour cream mixture. Add the cheese, bacon pieces, and green onions. Serve immediately hot or refrigerate until serving.
+If you are looking for other amazing Summer recipes, do check out this Summer Fiesta Corn Salad and this yummy Strawberry Crunch Cake !
+Ingredients
+6 red skin potatoes cut into cubes
+10 slices of bacon cut into pieces
+1 ½ cup cheddar cheese
+5 green onions diced
+8 oz sour cream
+½ packet dry ranch seasoning
+1 tsp canola oil
+1 cup water
+Instructions
+Heat your Instant Pot's saute function. Once ON turns to HOT, add 1 tsp. oil to pan and let heat. Add the bacon pieces and cook, stirring frequently, until crisp. Remove bacon from the pot and set aside. Hit the pot's cancel button
+Reader Interactions
+Comments
+Can't wait to try this potato salad with our Father's Day cookout!! Thanks for sharing 🙂 Reply
+Can't wait to try this potato salad with our Father's Day cookout!! Thanks for sharing 🙂
+Leave a Reply Cancel reply

@@ -1,0 +1,89 @@
+Minty Lime and Pineapple Sangria
+================================
+
+Recipe Metadata
+---------------
+Recipe ID: 5f3edb2f50245e10
+CSV row number: 433
+Recipe name: Minty Lime and Pineapple Sangria
+Source: tastykitchen.com
+URL: https://tastykitchen.com/recipes/drinks/minty-lime-and-pineapple-sangria/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02c19e611e9caba371c8cd983c076c99dd167f4768af2f6c997e2001787f5249/21100485.jpg
+Servings: 6
+Calories: 2010.88
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Wheat, Sulfites, FODMAP
+Cuisine type: world
+Meal type: lunch/dinner
+Dish type: alcohol cocktail
+
+Original CSV Fields
+-------------------
+recipe_name: Minty Lime and Pineapple Sangria
+source: tastykitchen.com
+url: https://tastykitchen.com/recipes/drinks/minty-lime-and-pineapple-sangria/
+servings: 6
+calories: 2010.884403919621
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02c19e611e9caba371c8cd983c076c99dd167f4768af2f6c997e2001787f5249/21100485.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Wheat","Sulfites","FODMAP"]
+cuisine_type: ["world"]
+meal_type: ["lunch/dinner"]
+dish_type: ["alcohol cocktail"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Minty Lime and Pineapple Sangria
+Print
+Leave a comment
+write a review
+Print Options
+Description
+Mint and lime create the perfect level of ‘refreshing’ in this dangerously delicious sangria!
+Ingredients
+20 leaves Fresh Mint, Washed
+4 Limes, Washed And Sliced Thin
+1 Lemon, Washed And Sliced Thin
+¼ cups Granulated Sugar
+1 Small Pineapple, Peeled, Cored And Cut Into 1-inch Chunks
+½ cups White Rum
+4 cups Lemon/Lime Soda
+¾ cups Pineapple Juice
+1 bottle (750 Ml Size) Dry White Wine (I Used Pinot Grigio)
+GARNISH:
+Mint Leaves
+Lime Wedges
+Preparation
+Note this should refrigerate for at least 3 hours, so plan ahead!
+In a large pitcher, press the mint leaves, limes, lemon and sugar with a muddler or a wooden spoon. Add the pineapple chunks. Pour in the the rum, soda, pineapple juice and wine. Stir well.
+Cover and refrigerate for approximately 3-4 hours before serving so that the flavours get to hang out and mingle. Otherwise the bevvy may taste too boozy.
+Once it’s time to serve, pour into glasses and garnish with mint leaves and lime wedges.
+More Recipes from Killing Thyme
+Pumpkin Chili With Pumpkin Beer (Vegetarian)
+Sesame Crusted Ahi Tuna
+Find Killing Thyme elsewhere on the web.
+Website
+Facebook
+Twitter
+No Comments
+Leave a Comment!
+You must be logged in to post a comment.
+No Reviews
+You must be logged in to post a review.
+Food Gifts
+View Recipe
+Slow Cooker Season!
+Related Recipes
+Prep: 5 mins Cook: 10 mins
+Serves: 2 Level: Easy
+Share f a e
+Prep: 2 mins Cook: -
+Serves: 1 Level: Easy
+Prep: 5 mins Cook: -

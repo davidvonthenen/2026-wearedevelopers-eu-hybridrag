@@ -1,0 +1,95 @@
+Skillet Quinoa with Black Beans Cilantro and Feta
+=================================================
+
+Recipe Metadata
+---------------
+Recipe ID: f9224f2ba08e7244
+CSV row number: 348
+Recipe name: Skillet Quinoa with Black Beans Cilantro and Feta
+Source: stlcooks.com
+URL: https://stlcooks.com/skillet-quinoa-with-black-beans-cilantro-and-feta/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0238609dafe1a2e7b1adf745eda528853f0b6e879dc270cfaa7626003bd9e0d6/21083858.jpg
+Servings: 6
+Calories: 1465.82
+Diet labels: Balanced, High-Fiber
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean, greek
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Skillet Quinoa with Black Beans Cilantro and Feta
+source: stlcooks.com
+url: https://stlcooks.com/skillet-quinoa-with-black-beans-cilantro-and-feta/
+servings: 6
+calories: 1465.823991
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0238609dafe1a2e7b1adf745eda528853f0b6e879dc270cfaa7626003bd9e0d6/21083858.jpg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean","greek"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Home
+Breakfast
+Dessert
+Poultry
+Side Dish
+More Asian Bread Copycat Soup South American
+Asian
+Bread
+Copycat
+Soup
+South American
+Legal Privacy Policy Terms of Service
+Privacy Policy
+Terms of Service
+Print Yum Skillet Quinoa with Black Beans Cilantro and Feta Ingredients 1 tablespoon canola oil 1 cup onions, diced 2 cups red bell pepper, diced 1 1/2 cups water 3/4 cup quinoa, uncooked 1 can (15 ounces) reduced sodium black beans, rinsed and drained 1/4 cup chopped walnuts 2 teaspoons chili powder 1/3 cup crumbled, reduced-fat feta cheese* 1/4 cup fresh cilantro, chopped 1 medium garlic clove, minced 1/2 teaspoon salt Instructions In large, non-stick skillet, heat canola oil over medium-high heat. Add onion and pepper. Sauté 5 minutes or until onions begin to brown on edges, stirring occasionally. Add water and quinoa. Bring to boil over medium-high heat, reduce heat, cover and cook on medium-low for 12 minutes or until water is absorbed. Remove from heat, stir in beans, walnuts, chili powder, feta, cilantro, garlic and salt. Cover and let stand 2 minutes to heat through and absorb flavors. 0.1 https://stlcooks.com/skillet-quinoa-with-black-beans-cilantro-and-feta/
+Ingredients
+1 tablespoon canola oil
+1 cup onions, diced
+2 cups red bell pepper, diced
+1 1/2 cups water
+3/4 cup quinoa, uncooked
+1 can (15 ounces) reduced sodium black beans, rinsed and drained
+1/4 cup chopped walnuts
+2 teaspoons chili powder
+1/3 cup crumbled, reduced-fat feta cheese*
+1/4 cup fresh cilantro, chopped
+1 medium garlic clove, minced
+1/2 teaspoon salt
+Instructions
+In large, non-stick skillet, heat canola oil over medium-high heat. Add onion and pepper. Sauté 5 minutes or until onions begin to brown on edges, stirring occasionally. Add water and quinoa. Bring to boil over medium-high heat, reduce heat, cover and cook on medium-low for 12 minutes or until water is absorbed.
+Remove from heat, stir in beans, walnuts, chili powder, feta, cilantro, garlic and salt. Cover and let stand 2 minutes to heat through and absorb flavors.
+Source: CanolaInfo
+RELATED ARTICLES MORE FROM AUTHOR
+Sausage Pinwheels
+Layered Baked Eggplant Parmesan
+Tempura Tilapia Tacos with Jalapeno Crema
+Popcorn Smores
+Mexican Baked Avocado Eggs
+Jelly Doughnut Muffins
+Leave a Reply Cancel reply
+Trending Recipes
+Bacon Pierogi Bake
+Cajun Marinated Chicken
+Copycat Hardees Mushroom and Swiss
+Salted Caramel Butter Bars
+Lewis and Clarks White Chicken Chili
+Latest
+Asian Chicken and Veggie Stir Fry
+Parmesan-Crusted Chicken with Agurla Salad
+Red Curry Chicken and Potatoes
+Homemade Hamburger Helper
+Country Apple Cake
+Pull-Apart Lemon-Scented Coffee Cake

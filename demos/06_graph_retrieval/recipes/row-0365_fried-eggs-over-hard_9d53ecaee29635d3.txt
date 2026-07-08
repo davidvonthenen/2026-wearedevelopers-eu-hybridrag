@@ -1,0 +1,336 @@
+Fried Eggs Over Hard
+====================
+
+Recipe Metadata
+---------------
+Recipe ID: 9d53ecaee29635d3
+CSV row number: 365
+Recipe name: Fried Eggs Over Hard
+Source: sonshinekitchen.com
+URL: https://www.sonshinekitchen.com/fried-eggs-difference-fried-eggs-over-hard-recipe/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0254f419ef908ced763c2ef568bfd085835b8110b0347adb482c58db5686973e/21081795.jpg
+Servings: 1
+Calories: 163.44
+Diet labels: Low-Carb
+Health labels: Vegetarian, Paleo, Dairy-Free, Gluten-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: breakfast
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Fried Eggs Over Hard
+source: sonshinekitchen.com
+url: https://www.sonshinekitchen.com/fried-eggs-difference-fried-eggs-over-hard-recipe/
+servings: 1
+calories: 163.441465
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0254f419ef908ced763c2ef568bfd085835b8110b0347adb482c58db5686973e/21081795.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Vegetarian","Paleo","Dairy-Free","Gluten-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Fried Eggs Over Hard
+
+Description: Over-hard fried eggs are cooked through without a broken yolk. It&#39;s a great way to have a fried egg even for those who are squeamish with a runny yolk.
+
+Recipe category: ['Breakfast']
+
+Recipe cuisine: ['American']
+
+Yield: ['1', '1 serving']
+
+Prep time: PT5M
+
+Cook time: PT10M
+
+Total time: PT15M
+
+Ingredients:
+- 1 tsp olive oil
+- 2 eggs
+- salt and black pepper (to taste)
+
+Instructions:
+1. Heat a nonstick pan over medium heat and add the oil
+2. Once the oil is warm, crack open the eggs into the pan
+3. If you want a broken yolk, do that now
+4. Sprinkle with salt and black pepper
+5. After a few minutes, once the eggs start to set, flip and cook the other side
+6. Determine how cooked you want the yolk and take them off the heat when cooked to the desired doneness
+
+Visible page text:
+There are so many ways to cook fried eggs. Sunny-side-up, over-easy, over-medium, over-hard. But do you know the difference? Which is the perfect fried egg for you?
+Jump to Recipe
+Sunny-side up, over easy, over medium, over hard….. there are so many options for fried eggs. Do you know the difference? I had no idea until recently, but knowing the difference will definitely make it easier to order eggs when we are out for breakfast!
+For me, I almost always go with scrambled eggs . It’s safe and hard to mess up and I know I’ll be getting exactly what I want. But when we are at home, I like to experiment a little more with and try different ways of cooking eggs.
+Various Ways to Fry an Egg
+Sunny-Side-Up
+An egg that is done “sunny-side-up” means that the egg is never flipped. The yolk (sun) is left completely intact and stays mostly uncooked. The white of the egg is cooked most of the way through and usually is left with just a little bit of sheen to it. This seems to be one of the most popular ways to fry an egg. If you do a search online for fried eggs almost all of the photos and recipes are for a sunny-side-up egg.
+Eggs Over-Easy
+Similar to sunny-side up, when you make fried eggs over-easy, you want the yolk to barely get cooked. It should still be very runny and intact. The only real difference between sunny side up and over-easy eggs is that an egg made over-easy is flipped once while being cooked. This means the egg white gets cooked a bit more and usually doesn’t have that sheen to it.
+Eggs Over-Medium
+As we get further in the descriptions, the eggs get cooked a little more. Over-medium eggs are cooked the same as over-easy because they are flipped while frying, but are just cooked a bit longer. The yolk in an over-medium fried egg is only slightly runny.
+Eggs Over-Hard
+Personally, this is the only way I will eat a fried egg. When it’s cooked over hard, the yolk is cooked completely through, similar to hard-boiled eggs with a firm yolk. As with the others, the egg is flipped while it is cooked, and it is done longer. Both the egg white and yolk are cooked until they are considered done and nothing is raw. You oftentimes will get crispy edges to your fried eggs when you cook them over-hard.
+My only drawback to fried eggs is the fact that I don’t like egg whites on their own, which is why I prefer to break the yolk when I make my fried eggs. I also can’t stand a runny yolk. It reminds me too much of a raw egg and totally grosses me out! I couldn’t ever eat an egg sunny-side-up or over-easy because of the texture of runny eggs. That’s why, in this recipe, I am showing you how to make a fried egg over-hard because I do have to eat this food after I make it and this is my favorite way to make a fried egg! We like to serve fried eggs with seasoned potatoes , avocado toast , or crispy bacon in the air fryer .
+Best Equipment for Fried Eggs
+No matter which way you choose to make a fried egg, make sure to use a nonstick skillet or grease the pan well. Eggs will stick really badly to the bottom of the pan. I love my non-stick pan from Caraway Home. It’s the type of pan I always dreamed of… nonstick, cleans easily, and looks nice, too! If you don’t have a good non-stick skillet, another great choice is a well-seasoned cast-iron skillet .
+You’ll want to use a frying pan with a small edge to it to hold the egg in. And don’t forget the turner or spatula. I find having one that’s very thin and made of silicone, works best.
+​How to Test Eggs for Freshness
+There are a variety of ways to test fresh eggs to see if they truly are fresh. The easy way is by smelling them. I always say, especially with food, if it doesn’t smell right, don’t eat it!
+The simplest way to test if you have the freshest eggs is by floating them in water. Use a small bowl or small glass cup and fill it with water. Place a large egg in and see what happens. If the egg sinks to the bottom, turns sideways, and stays there, you have a great egg because it is very fresh. An egg that sinks, but then starts to float up a bit, lays at an angle, or stands up on the bottom of the glass, is only about 1-2 weeks old and still a good egg to consume. For an egg that doesn’t touch the bottom or the top of the egg is at the top of the water, it’s too old and needs to be tossed out.
+Why Piercing the Yolk Helps the Cooking Process
+When you pierce the yolk (or gently press it after the first flip), you allow heat and steam to penetrate its center, accelerating internal cooking. That means the yolk and white cook more uniformly and you avoid overcooking the outer layer while leaving the center underdone. In other words, the small vent you create balances internal and external heat flow so your fully cooked yolk does not come at the cost of scorched egg white edges.
+Choosing the Best Pan for a Fried Hard Egg
+Not all pans behave the same when you’re aiming for a solid yolk and tender whites. Here’s a quick comparison:
+Nonstick skillet: easy release, forgiving — ideal for beginners. Heat gently and avoid overheating.
+Well-seasoned cast iron: excellent heat retention and even cooking. Preheat gently so you don’t overshoot.
+Stainless steel or carbon steel: gives more control and browning, but demands precision on heat and fat to prevent sticking.
+Aluminum or anodized pans: lightweight with good conduction; just watch for hotspots.
+Regardless of material, use medium-low heat and preheat the pan steadily. Add your cooking fat only after the pan warms, to avoid sudden temperature spikes.
+Understanding Yolk Texture Variations Within “Hard”
+“Hard” doesn’t have to mean chalky. There’s a spectrum of yolk doneness you can aim for:
+Fully solid, pale yolk — cooked all the way through with no color variation.
+Firm but slightly creamy (not runny) — the yolk is solid, but retains a compact, moist texture.
+Broken center with layered texture — part of the yolk mixes into the white for a tender middle while outer areas are dry.
+If you prefer a slightly softer interior, shorten the last minute of cooking. If you want the firmest result, press gently and extend cooking by 30 seconds. By acknowledging these sub-levels, your readers can tailor to taste.
+How Egg Age and Storage Affect Frying Behavior
+The age of your egg can influence how well it fries. Fresher eggs have firmer whites and more compact structure, which helps maintain shape and prevents excessive spreading. Older eggs tend to become runnier in the white, making it harder to get clean edges and firm yolks without overcooking. To maximize control, use eggs that are as fresh as possible (within 7–10 days of purchase). Also, cold eggs straight from the fridge can cause thermal shock; let them come closer to room temperature for 5 minutes before frying for more even cooking.
+Troubleshooting Common Issues
+What if things go wrong? Here are fixes for the most common problems:
+Yolk still runny in the middle: verify that you pierced the yolk, reduce heat, and cook a little longer (30–60 seconds). You can cover the skillet briefly to trap steam on top.
+Egg white overcooked or rubbery: lower your heat, start with fat (butter or oil) to buffer the heat, and avoid sliding spatulas too early.
+Edges burning before yolk set: your pan is too hot. Remove from heat momentarily, lower flame, or use a pan with better heat distribution.
+Yolk leaking excessively when pierced too early: wait until after the first flip and the whites mostly set so the yolk doesn’t run out.
+Creative Serving Ideas for Fried Hard Eggs
+Once you master the technique, a fried hard egg can elevate many dishes:
+Slice it and add to breakfast grain bowls with roasted vegetables and greens.
+Layer it inside a breakfast sandwich or bagel for extra protein and structure.
+Chop and mix into salads or grain bowls as a firm protein element.
+Pair with avocado toast — use firm slices to switch up texture.
+Serve alongside crispy potatoes, croutons, or toast and mash the yolk for flavor contrast.
+Nutritional Snapshot & Diet-Friendly Angle
+A single large fried egg (cooked hard) typically provides around 70–90 calories, with 6–7 g of protein and 5–7 g of fat. Because you’re fully cooking the yolk, it’s a safer option for those avoiding runny yolks for dietary or health reasons (e.g. casseroles, salads). It fits well into low-carb, keto, and protein-rich breakfast plans. You can also mention micronutrients like choline, vitamin D, and B vitamins that eggs contribute.
+Fried Eggs Over Hard Step by Step
+Ingredients
+1 tsp olive oil (or vegetable oil)
+2 eggs
+salt and black pepper (to taste)
+Preparation
+Heat a sauté pan over medium heat and add the oil until it’s warm. You need enough oil to make a thin layer in the pan.
+Crack the eggs into the pan with the hot oil. If you want the yolk broken, do that now. If not, leave the egg as it is.
+Sprinkle the egg with salt and black pepper.
+After a few minutes, once the eggs start to set, flip and cook the other side.
+The amount of time you let the egg cook will determine the doneness of the yolk. Take the eggs off the heat when they hit your desired doneness.
+Recipe
+Originally Published On: February 19, 2018
+Last Updated On: October 10, 2025
+Fried Eggs Over Hard
+1 tsp olive oil
+Recommended Equipment
+Saute Pan
+Turner
+Instructions
+Heat a nonstick pan over medium heat and add the oil
+Once the oil is warm, crack open the eggs into the pan
+If you want a broken yolk, do that now
+Sprinkle with salt and black pepper
+After a few minutes, once the eggs start to set, flip and cook the other side
+Determine how cooked you want the yolk and take them off the heat when cooked to the desired doneness
+All nutritional information is based on third-party calculations and should be considered estimates. Actual nutrition content will vary based on brands used, measuring methods, portion sizes, and more.
+Egg Breakfast Recipes
+Healthy Breakfast Hash
+Ham and Cheese Omelet
+Baked Skillet Ham and Eggs
+Super Easy Classic Deviled Eggs
+Baked Ham, Egg, and Cheese Quiches
+Breakfast Bagels
+Breakfast in a Bag Camping Meal
+Fluffy and Yummy Scrambled Eggs
+Sausage and Vegetable Frittatas
+Fried Eggs Over-Hard Recipe
+Avocado Toast with Fried Egg
+Fried Food Recipes
+Fried Chicken and Waffles
+Southern Fried Chicken with Gravy Sauce
+The Ultimate Churro Recipe
+Creamy Buttermilk Chicken-Fried Chicken
+Fried Tilapia Sandwich
+Pan-Fried Pork Chops with Easy Brown Gravy
+Crispy Fried Mozzarella Cakes Recipe with Fresh Cheese
+Chicken Schnitzel
+Easy Vegan Funnel Cake
+Salmon Cakes with Buttermilk Sauce
+Potato-Crusted Pork Chops
+Parmesan-Crusted Chicken with Balsamic Ketchup
+Homemade Chicken Tenders
+Share
+Tweet
+Mix
+Reddit
+76 thoughts on “Fried Eggs: What’s the Difference? + Fried Eggs Over-Hard Recipe”
+I have always wonder what the differences were and I had no idea there was such a variant. I am not a fan of the texture of eggs but I wonder if they were better cooked if I would be okay with it. Runny yolks are just gross to me. Reply I am picky about the texture too. It has to be cooked just right which is why I hardly ever order them out. Reply Bless you! I feel the same exact way about eggs. I don’t like the egg whites alone and runny eggs wig me out. Thanks for the tutorial. Reply I know everyone is different, but I seem to be the odd one out sometimes with my egg preferences! Reply
+I have always wonder what the differences were and I had no idea there was such a variant. I am not a fan of the texture of eggs but I wonder if they were better cooked if I would be okay with it. Runny yolks are just gross to me.
+I am picky about the texture too. It has to be cooked just right which is why I hardly ever order them out. Reply
+I am picky about the texture too. It has to be cooked just right which is why I hardly ever order them out.
+Bless you! I feel the same exact way about eggs. I don’t like the egg whites alone and runny eggs wig me out. Thanks for the tutorial. Reply I know everyone is different, but I seem to be the odd one out sometimes with my egg preferences! Reply
+Bless you! I feel the same exact way about eggs. I don’t like the egg whites alone and runny eggs wig me out. Thanks for the tutorial.
+I know everyone is different, but I seem to be the odd one out sometimes with my egg preferences! Reply
+I know everyone is different, but I seem to be the odd one out sometimes with my egg preferences!
+Ha ha! I’m glad I’m not the only one who didn’t know the difference. I guess that’s because my favorite eggs are scrambled! I do think I’d like the hard ones way better than the over easy ones. I’m not a fan of runny eggs! Reply I can’t stand runny eggs either, that’s why I do the same, either over-hard or scrambled so I know they are cooked all the way. Reply
+Ha ha! I’m glad I’m not the only one who didn’t know the difference. I guess that’s because my favorite eggs are scrambled! I do think I’d like the hard ones way better than the over easy ones. I’m not a fan of runny eggs!
+I can’t stand runny eggs either, that’s why I do the same, either over-hard or scrambled so I know they are cooked all the way. Reply
+I can’t stand runny eggs either, that’s why I do the same, either over-hard or scrambled so I know they are cooked all the way.
+My absolute favorite is a sunny side up egg! This was not until I was a little older though because like you… It would gross me out but now I love them!! Reply I haven’t tried it in a very long time. Maybe I’ll have to give it a go next time my husband orders them that way. Reply
+My absolute favorite is a sunny side up egg! This was not until I was a little older though because like you… It would gross me out but now I love them!!
+I haven’t tried it in a very long time. Maybe I’ll have to give it a go next time my husband orders them that way. Reply
+I haven’t tried it in a very long time. Maybe I’ll have to give it a go next time my husband orders them that way.
+Thanks for the tips! I have never actually heard of eggs-over-hard before – you learn something every day! But I love eggs in all forms, so I will definitely give this a go. Especially when you serve it next to some gorgeous bacon! Reply Before doing the research for this post, I didn’t know that’s what they were called. I never ordered fried eggs because I thought they would just have the runny yolk and that’s how it’s made. Reply
+Thanks for the tips! I have never actually heard of eggs-over-hard before – you learn something every day! But I love eggs in all forms, so I will definitely give this a go. Especially when you serve it next to some gorgeous bacon!
+Before doing the research for this post, I didn’t know that’s what they were called. I never ordered fried eggs because I thought they would just have the runny yolk and that’s how it’s made. Reply
+Before doing the research for this post, I didn’t know that’s what they were called. I never ordered fried eggs because I thought they would just have the runny yolk and that’s how it’s made.
+Interesting how many people don’t know how to cook eggs. Poaching is a whole new ball game altogether. Reply There are so many ways to cook eggs! I think that’s why I get overwhelmed when looking at a breakfast menu sometimes. Reply
+Interesting how many people don’t know how to cook eggs. Poaching is a whole new ball game altogether.
+There are so many ways to cook eggs! I think that’s why I get overwhelmed when looking at a breakfast menu sometimes. Reply
+There are so many ways to cook eggs! I think that’s why I get overwhelmed when looking at a breakfast menu sometimes.
+My husband loves his eggs sunny side up and the nurse in me sees something else each time he is eating eggs. Now, I am going t be fancy and order Fried eggs over hard next time we go for brunch. Reply Yeah, there’s just something about the runny yolk that has always bothered me, too. But, my husband likes them that way with either toast or bacon to dip in the yolk. I go for over-hard or scrambled every time. Reply
+My husband loves his eggs sunny side up and the nurse in me sees something else each time he is eating eggs. Now, I am going t be fancy and order Fried eggs over hard next time we go for brunch.
+Yeah, there’s just something about the runny yolk that has always bothered me, too. But, my husband likes them that way with either toast or bacon to dip in the yolk. I go for over-hard or scrambled every time. Reply
+Yeah, there’s just something about the runny yolk that has always bothered me, too. But, my husband likes them that way with either toast or bacon to dip in the yolk. I go for over-hard or scrambled every time.
+This was really so informative and interesting. I never knew the names although I had seen all the forms of eggs. I personally love sunny sides up OR eggs over easy but hubby wants it over hard. Thanks I am really ready to order my brunch for the weekend. Reply It was a learning experience for me too when I did the research for this post. I wasn’t quite sure what all the differences were, but it makes ordering eggs much easier now! Reply
+This was really so informative and interesting. I never knew the names although I had seen all the forms of eggs. I personally love sunny sides up OR eggs over easy but hubby wants it over hard. Thanks I am really ready to order my brunch for the weekend.
+It was a learning experience for me too when I did the research for this post. I wasn’t quite sure what all the differences were, but it makes ordering eggs much easier now! Reply
+It was a learning experience for me too when I did the research for this post. I wasn’t quite sure what all the differences were, but it makes ordering eggs much easier now!
+I always order mine over-hard. I do not like the yolk runny. My kids like theirs sunny side up and David likes his over-easy. We’ve got the gumut here. Reply Oh wow, you really do have a bit of everything there! My kids haven’t tried eggs with a runny yolk yet so I’m not sure what they would think of it. Reply
+I always order mine over-hard. I do not like the yolk runny. My kids like theirs sunny side up and David likes his over-easy. We’ve got the gumut here.
+Oh wow, you really do have a bit of everything there! My kids haven’t tried eggs with a runny yolk yet so I’m not sure what they would think of it. Reply
+Oh wow, you really do have a bit of everything there! My kids haven’t tried eggs with a runny yolk yet so I’m not sure what they would think of it.
+I honestly do know the difference between the different type. However, I think most restaurants don’t especially some breakfast spot. I will be saving this and showing them when next they bring out something that wasn’t ordered. Hahahaha. Great post! Reply It’s so hard when everyone has a different idea of what it means. Since I don’t like the yolk runny, I make sure to specify that when I order eggs out somewhere. Reply
+I honestly do know the difference between the different type. However, I think most restaurants don’t especially some breakfast spot. I will be saving this and showing them when next they bring out something that wasn’t ordered. Hahahaha. Great post!
+It’s so hard when everyone has a different idea of what it means. Since I don’t like the yolk runny, I make sure to specify that when I order eggs out somewhere. Reply
+It’s so hard when everyone has a different idea of what it means. Since I don’t like the yolk runny, I make sure to specify that when I order eggs out somewhere.
+Oo this is my kind of breakfast. I love eggs in so many ways fried, scrambled, over easy, & sunny side up, and these look perfect!! 🙂 Reply I am so picky on my eggs. If they aren’t done right I don’t like them. It’s great you like a variety so won’t be disappointed no matter how they turn out. Reply
+Oo this is my kind of breakfast. I love eggs in so many ways fried, scrambled, over easy, & sunny side up, and these look perfect!! 🙂
+I am so picky on my eggs. If they aren’t done right I don’t like them. It’s great you like a variety so won’t be disappointed no matter how they turn out. Reply
+I am so picky on my eggs. If they aren’t done right I don’t like them. It’s great you like a variety so won’t be disappointed no matter how they turn out.
+I always love my eggs done ‘over easy’ YUM! The yoke is like lava that I can dip my lovely bread into… Now I want eggs ; ) Reply That’s exactly what my husband wants, too, and dips his bread or bacon in it. Reply
+I always love my eggs done ‘over easy’ YUM! The yoke is like lava that I can dip my lovely bread into… Now I want eggs ; )
+That’s exactly what my husband wants, too, and dips his bread or bacon in it. Reply
+That’s exactly what my husband wants, too, and dips his bread or bacon in it.
+I love fried eggs! I’m going to have to try this for breakfast soon. April Reply Fried eggs are great for breakfast, and there are so many ways to eat them! Reply
+I love fried eggs! I’m going to have to try this for breakfast soon.
+April
+Fried eggs are great for breakfast, and there are so many ways to eat them! Reply
+Fried eggs are great for breakfast, and there are so many ways to eat them!
+I loved reading this because I did not know the difference until now! I am actually a huge fan of the soft poached egg!! Reply I don’t think I’ve ever had an egg cooked that way! Reply
+I loved reading this because I did not know the difference until now! I am actually a huge fan of the soft poached egg!!
+I don’t think I’ve ever had an egg cooked that way! Reply
+I don’t think I’ve ever had an egg cooked that way!
+I don’t know why, but I always love runny eggs. I didn’t know that I could still consider a lot of things when cooking eggs! Reply It’s crazy how many ways there are of cooking a regular egg! Reply
+I don’t know why, but I always love runny eggs. I didn’t know that I could still consider a lot of things when cooking eggs!
+It’s crazy how many ways there are of cooking a regular egg! Reply
+It’s crazy how many ways there are of cooking a regular egg!
+I’ve never heard of eggs-over-hard before but I love making new recipes and this is a perfect go-to breakfast for me. I’m definitely going to try this, even my brother is very fond of eggs! Reply It’s the only way I will eat a fried egg since I don’t like the yolk runny. Reply
+I’ve never heard of eggs-over-hard before but I love making new recipes and this is a perfect go-to breakfast for me. I’m definitely going to try this, even my brother is very fond of eggs!
+It’s the only way I will eat a fried egg since I don’t like the yolk runny. Reply
+It’s the only way I will eat a fried egg since I don’t like the yolk runny.
+I had no idea there was any difference(s)!! As long as it looks fried and there’s eggs and Olive and pepper… every other thing’s pretty much a bonus to me so as the make the meal to be bigger.. lol Reply Hah, as long as you like them, that’s all that matters! The difference comes with how cooked the yolk it when talking about fried eggs. Reply
+I had no idea there was any difference(s)!! As long as it looks fried and there’s eggs and Olive and pepper… every other thing’s pretty much a bonus to me so as the make the meal to be bigger.. lol
+Hah, as long as you like them, that’s all that matters! The difference comes with how cooked the yolk it when talking about fried eggs. Reply
+Hah, as long as you like them, that’s all that matters! The difference comes with how cooked the yolk it when talking about fried eggs.
+I never knew that there was a difference! I can’t wait to try this recipe:) Reply It’s subtle, and the cooking time changes by only a few minutes, but it makes a difference in how the eggs are cooked. Reply
+I never knew that there was a difference! I can’t wait to try this recipe:)
+It’s subtle, and the cooking time changes by only a few minutes, but it makes a difference in how the eggs are cooked. Reply
+It’s subtle, and the cooking time changes by only a few minutes, but it makes a difference in how the eggs are cooked.
+I may be in the minority but I love my eggs over-easy and poached. I can tolerate scrambled eggs but my bread is usually lonely without its runny yolk to swim in. Reply That’s the same as my husband. He likes to dip toast or bacon in the runny egg yolk. Reply
+I may be in the minority but I love my eggs over-easy and poached. I can tolerate scrambled eggs but my bread is usually lonely without its runny yolk to swim in.
+That’s the same as my husband. He likes to dip toast or bacon in the runny egg yolk. Reply
+That’s the same as my husband. He likes to dip toast or bacon in the runny egg yolk.
+Oh yuuuum! I am certainly a fried egg over hard. I love eggs and I eat them in multiple ways. It’s morning and I’m on my way down to make this recipe now. I hope I have some spinach to make it complete. Reply Ooh a bit of spinach sounds like a great addition to some fried eggs! Reply
+Oh yuuuum! I am certainly a fried egg over hard. I love eggs and I eat them in multiple ways. It’s morning and I’m on my way down to make this recipe now. I hope I have some spinach to make it complete.
+Ooh a bit of spinach sounds like a great addition to some fried eggs! Reply
+Ooh a bit of spinach sounds like a great addition to some fried eggs!
+I don’t eat eggs at all but I don’t want my food limitations to get in the way of what my kids eat. I didn’t know the differences between the fried eggs before reading this. Now I can teach my kids! Reply I am the same with a lot of foods. My mom was picky and it rubbed off on me. I am trying to make sure my kids are exposed to all types of foods, even if they won’t eat them right now. Reply
+I don’t eat eggs at all but I don’t want my food limitations to get in the way of what my kids eat. I didn’t know the differences between the fried eggs before reading this. Now I can teach my kids!
+I am the same with a lot of foods. My mom was picky and it rubbed off on me. I am trying to make sure my kids are exposed to all types of foods, even if they won’t eat them right now. Reply
+I am the same with a lot of foods. My mom was picky and it rubbed off on me. I am trying to make sure my kids are exposed to all types of foods, even if they won’t eat them right now.
+I love eggs, but I am terrible at cooking them. Thank you for these tips. Reply I’ve gotten better as we’ve tried more recipes. For the longest time, scrambled eggs was the only egg meal I could make. Reply In a diner I tell “over hardand break the yolk”. Reply
+I love eggs, but I am terrible at cooking them. Thank you for these tips.
+I’ve gotten better as we’ve tried more recipes. For the longest time, scrambled eggs was the only egg meal I could make. Reply
+I’ve gotten better as we’ve tried more recipes. For the longest time, scrambled eggs was the only egg meal I could make.
+In a diner I tell “over hardand break the yolk”. Reply
+In a diner I tell “over hardand break the yolk”.
+Honestly, I didn’t know the difference about fried eggs! This post wasn’t just informative, but it was absolutely delicious. My favourite way to prepare eggs is fried! Also, the T-fal pan is amazing, I used this for many recipes! Reply It was new to me, too, which is what prompted my research for the post. Reply
+Honestly, I didn’t know the difference about fried eggs! This post wasn’t just informative, but it was absolutely delicious. My favourite way to prepare eggs is fried! Also, the T-fal pan is amazing, I used this for many recipes!
+It was new to me, too, which is what prompted my research for the post. Reply
+It was new to me, too, which is what prompted my research for the post.
+My family cannot do without eggs! we simply love them and keep trying 10 different recipes. I have tried everything mentioned above. Each recipe of egg is different in their own ways. Reply It’s crazy that the difference in cook time can be so small, but make a big difference in the outcome. My youngest loves eggs but my oldest doesn’t, so we don’t have them as often as I would like sometimes. Reply
+My family cannot do without eggs! we simply love them and keep trying 10 different recipes. I have tried everything mentioned above. Each recipe of egg is different in their own ways.
+It’s crazy that the difference in cook time can be so small, but make a big difference in the outcome. My youngest loves eggs but my oldest doesn’t, so we don’t have them as often as I would like sometimes. Reply
+It’s crazy that the difference in cook time can be so small, but make a big difference in the outcome. My youngest loves eggs but my oldest doesn’t, so we don’t have them as often as I would like sometimes.
+I should totally show the girls this post when they get home from sleepaway camp. Kimmie had to learn how to cook eggs a few different ways earlier this year for a Girl Scout badge, and now Essie loves having Kimmie cook her morning eggs to order whenever possible. They would LOVE this explanation and step-by-step of the different types of fried eggs. Reply That’s awesome that Kimmie can make them herself! When Justin and Tyler went to Cub Scout camp in the spring, everyone was apparently amazed that Tyler could crack an egg so well as one of the youngest kids in our pack. He has lots of practice here 🙂 Reply
+I should totally show the girls this post when they get home from sleepaway camp. Kimmie had to learn how to cook eggs a few different ways earlier this year for a Girl Scout badge, and now Essie loves having Kimmie cook her morning eggs to order whenever possible. They would LOVE this explanation and step-by-step of the different types of fried eggs.
+That’s awesome that Kimmie can make them herself! When Justin and Tyler went to Cub Scout camp in the spring, everyone was apparently amazed that Tyler could crack an egg so well as one of the youngest kids in our pack. He has lots of practice here 🙂 Reply
+That’s awesome that Kimmie can make them herself! When Justin and Tyler went to Cub Scout camp in the spring, everyone was apparently amazed that Tyler could crack an egg so well as one of the youngest kids in our pack. He has lots of practice here 🙂
+I honestly had no idea the difference! These look delicious though. Reply I didn’t know until I did the research for this post, either! Reply
+I honestly had no idea the difference! These look delicious though.
+I didn’t know until I did the research for this post, either! Reply
+I didn’t know until I did the research for this post, either!
+Definitely a good primer on all the types of fried eggs. I’m with you, I think I prefer scrambled the most. Although I admit I’ve become a sunny side up person when I’m not doing scrambled which is funny because I hated the runny yolk when I was younger but appreciate it more now. Reply A few people have commented that they like it better as they’ve gotten older. I’ll have to give sunny-side-up a go again and see how it goes. Reply
+Definitely a good primer on all the types of fried eggs. I’m with you, I think I prefer scrambled the most. Although I admit I’ve become a sunny side up person when I’m not doing scrambled which is funny because I hated the runny yolk when I was younger but appreciate it more now.
+A few people have commented that they like it better as they’ve gotten older. I’ll have to give sunny-side-up a go again and see how it goes. Reply
+A few people have commented that they like it better as they’ve gotten older. I’ll have to give sunny-side-up a go again and see how it goes.
+I really like eggs in general, but I love fried eggs. I love them in butter; they’re the best. Runny yolks used to really gross me out when I was a kid, but now I love them. I must say that I can’t eat over-hard eggs because I find them a bit too dry for my taste. I wouldn’t go for sunny side up either, but I think I would prefer over-easy or over-medium eggs 🙂 Reply I’ll have to give it a try since so many have said they like it as they’ve gotten older. I never tried them in butter, though, I’ll have to do that next time. Reply
+I really like eggs in general, but I love fried eggs. I love them in butter; they’re the best. Runny yolks used to really gross me out when I was a kid, but now I love them. I must say that I can’t eat over-hard eggs because I find them a bit too dry for my taste. I wouldn’t go for sunny side up either, but I think I would prefer over-easy or over-medium eggs 🙂
+I’ll have to give it a try since so many have said they like it as they’ve gotten older. I never tried them in butter, though, I’ll have to do that next time. Reply
+I’ll have to give it a try since so many have said they like it as they’ve gotten older. I never tried them in butter, though, I’ll have to do that next time.
+When I was younger I liked eggs fried hard, but as I got older and realized I needed to try new things I fell in love with eggs over easy. Reply So many people have said the same thing. I guess I need to go out of my comfort zone and try them again! Reply
+When I was younger I liked eggs fried hard, but as I got older and realized I needed to try new things I fell in love with eggs over easy.
+So many people have said the same thing. I guess I need to go out of my comfort zone and try them again! Reply
+So many people have said the same thing. I guess I need to go out of my comfort zone and try them again!
+“Fried Eggs” in my house growing up always meant over-hard. It wasn’t until I married my husband that I had to learn the difference in terminology because he kept making eggs way too runny!! Reply Isn’t that so funny?! My husband and I had very different methods of making a grilled cheese sandwich. Reply
+“Fried Eggs” in my house growing up always meant over-hard. It wasn’t until I married my husband that I had to learn the difference in terminology because he kept making eggs way too runny!!
+Isn’t that so funny?! My husband and I had very different methods of making a grilled cheese sandwich. Reply
+Isn’t that so funny?! My husband and I had very different methods of making a grilled cheese sandwich.
+I love fried eggs! I had no idea this was a thing! Who knew! Reply I know, there are so many different ways to cook an egg. And it seems everyone likes them a bit differently. Reply
+I love fried eggs! I had no idea this was a thing! Who knew!
+I know, there are so many different ways to cook an egg. And it seems everyone likes them a bit differently. Reply
+I know, there are so many different ways to cook an egg. And it seems everyone likes them a bit differently.
+You know we eat eggs everyday but I really don’t know the difference lol! This is so useful. Reply I was the same way for so long. That’s why I decided to do some research and figured if I didn’t know, I’m sure there are others who don’t, too! Reply
+You know we eat eggs everyday but I really don’t know the difference lol! This is so useful.
+I was the same way for so long. That’s why I decided to do some research and figured if I didn’t know, I’m sure there are others who don’t, too! Reply
+I was the same way for so long. That’s why I decided to do some research and figured if I didn’t know, I’m sure there are others who don’t, too!
+This made me drool for real!!! I can’t wait to make this tomorrow for breakfast, yumm…. Reply I love eggs for breakfast, they are so filling. I am planning on making some for my family in the morning, too! Reply
+This made me drool for real!!! I can’t wait to make this tomorrow for breakfast, yumm….
+I love eggs for breakfast, they are so filling. I am planning on making some for my family in the morning, too! Reply
+I love eggs for breakfast, they are so filling. I am planning on making some for my family in the morning, too!
+I didn’t know there was a difference. Love this info, now I know what it is called whenever I fry an egg. 😀 My favorite is sunny side up and eggs over easy. When it is eggs over hard, I pass the yolk to someone else…lol Reply It all depends on the yolk! If we are ever out together, I will gladly take the over-hard yolk, I can’t stand when it’s runny! 🙂 Reply
+I didn’t know there was a difference. Love this info, now I know what it is called whenever I fry an egg. 😀 My favorite is sunny side up and eggs over easy. When it is eggs over hard, I pass the yolk to someone else…lol
+It all depends on the yolk! If we are ever out together, I will gladly take the over-hard yolk, I can’t stand when it’s runny! 🙂 Reply
+It all depends on the yolk! If we are ever out together, I will gladly take the over-hard yolk, I can’t stand when it’s runny! 🙂
+My favorite is Eggs Over-Easy. I don’t know but maybe when I was younger, I thought it was fun to play with Eggs Over-Easy. It sounds crazy. I am going to try the eggs over hard recipe as it is something new but I don’t I can perfect it. Reply I can see how that would be fun. The thought of runny eggs always grossed me out, so I go for the over-hard. It’s pretty easy to make, you just have to let it cook a bit longer than when making the eggs over-easy. Reply
+My favorite is Eggs Over-Easy. I don’t know but maybe when I was younger, I thought it was fun to play with Eggs Over-Easy. It sounds crazy. I am going to try the eggs over hard recipe as it is something new but I don’t I can perfect it.
+I can see how that would be fun. The thought of runny eggs always grossed me out, so I go for the over-hard. It’s pretty easy to make, you just have to let it cook a bit longer than when making the eggs over-easy. Reply
+I can see how that would be fun. The thought of runny eggs always grossed me out, so I go for the over-hard. It’s pretty easy to make, you just have to let it cook a bit longer than when making the eggs over-easy.
+I’m right there with you on the grossness of runny eggs 🤮. I can’t even eat soft scrambled eggs. They feel too slimy to me. But I could probably eat them over-hard. I usually just order scrambled with cheese, though, maybe next time I’ll order them this way. I’ve known the difference between the different types but my family has only ever called them fried, if the yolk was broken. Reply I love cheese in my scrambled eggs, too 🙂 My dad always just called it “fried eggs” too so I thought the same for a long time. Reply
+I’m right there with you on the grossness of runny eggs 🤮. I can’t even eat soft scrambled eggs. They feel too slimy to me. But I could probably eat them over-hard. I usually just order scrambled with cheese, though, maybe next time I’ll order them this way. I’ve known the difference between the different types but my family has only ever called them fried, if the yolk was broken.
+I love cheese in my scrambled eggs, too 🙂 My dad always just called it “fried eggs” too so I thought the same for a long time. Reply
+I love cheese in my scrambled eggs, too 🙂 My dad always just called it “fried eggs” too so I thought the same for a long time.
+have you ever tried basting your eggs? crack your egg cover a few seconds, then cook another few seconds, then pour about 2 TBS. of water in the pan and cover again cook few seconds more until they look white and done remove immediately. MMMMM Good Reply No, I’ve never even heard of making them that way! I will have to give it a try soon. Thanks for the suggestion! Reply
+have you ever tried basting your eggs? crack your egg cover a few seconds, then cook another few seconds, then pour about 2 TBS. of water in the pan and cover again cook few seconds more until they look white and done remove immediately. MMMMM Good
+No, I’ve never even heard of making them that way! I will have to give it a try soon. Thanks for the suggestion! Reply
+No, I’ve never even heard of making them that way! I will have to give it a try soon. Thanks for the suggestion!
+My family loves making this egg fry and I loved the hard fried eggs. Thanks for sharing ! Such a winner recipe. Reply
+My family loves making this egg fry and I loved the hard fried eggs. Thanks for sharing ! Such a winner recipe.
+Leave a Comment Cancel Reply

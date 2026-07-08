@@ -1,0 +1,87 @@
+Coffee Crème Caramel
+====================
+
+Recipe Metadata
+---------------
+Recipe ID: 24d62b570ee6218e
+CSV row number: 55
+Recipe name: Coffee Crème Caramel
+Source: Bon Appetit
+URL: https://www.bonappetit.com/recipe/coffee-creme-caramel
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0045a90a6d08c5c7ed4e1d9a45b204ef64d5889949df2f2196dc8cf8292e4285/21003905.jpg
+Servings: 8
+Calories: 1762.92
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: french
+Meal type: lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Coffee Crème Caramel
+source: Bon Appetit
+url: https://www.bonappetit.com/recipe/coffee-creme-caramel
+servings: 8
+calories: 1762.918333331241
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0045a90a6d08c5c7ed4e1d9a45b204ef64d5889949df2f2196dc8cf8292e4285/21003905.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["french"]
+meal_type: ["lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Coffee Crème Caramel
+
+Description: The flavor inspiration for this recipe was Häagen-Dazs coffee ice cream mixed with burned caramel. Baking the crème caramel in a water bath is key for achieving that barely set, dense, and luscious consistency. And the lemon juice will help prevent your caramel from crystallizing.
+
+Yield: 8 servings
+
+Ingredients:
+- 2½ cups whole milk
+- ¼ cup coffee beans, coarsely chopped
+- 1 wide strip of lemon zest
+- ½ cup plus ⅔ cup sugar
+- 1 vanilla bean, split lengthwise
+- 1 tsp. fresh lemon juice
+- 6 large eggs
+
+Instructions:
+1. Combine milk, coffee, lemon zest, and ½ cup sugar in a small saucepan. Scrape in vanilla seeds; add pod. Bring to a gentle simmer over medium heat. Remove from heat, cover, and let sit 30 minutes.
+2. Preheat oven to 325°. Place a 9" pie dish or 1½-qt. loaf pan next to the stove. Cook lemon juice, remaining ⅔ cup sugar, and ¼ cup water in a small saucepan over medium-low heat, stirring constantly, until sugar dissolves, about 5 minutes. Do not rush this step; if liquid boils before sugar dissolves, the caramel will never darken. Once syrup turns clear, stop stirring and increase heat to medium. Cook, swirling pan every few minutes, until caramel is deep mahogany and wisps of smoke appear. Immediately pour into pie dish. Quickly tilt pan to coat bottom and a bit of the way up the sides with caramel. Set inside a roasting pan or other ovenproof dish with high sides.
+3. Whisk eggs in a medium bowl to break them up a bit. Reheat coffee mixture until steaming, then pour into eggs, whisking constantly to combine. Pour through a fine-mesh sieve into caramel-lined dish. Transfer to oven and pour enough boiling water into roasting pan to come halfway up sides of dish. Bake until custard is set but still jiggles a bit at the very center, about 1½ hours. Let cool in water bath 30 minutes. Remove dish, cover with plastic wrap, and chill crème caramel until set, at least 4 hours and up to 2 days.
+4. To unmold, run a thin-bladed knife around edges of dish, making sure tip of knife stays flush against bottom of dish. Invert a large plate over dish, then quickly flip. Slowly lift off dish; crème caramel should slide out. If not, tap plate against countertop until it does. Serve in slices with caramel spooned over.
+
+Visible page text:
+The flavor inspiration for this recipe was Häagen-Dazs coffee ice cream mixed with burned caramel. Baking the crème caramel in a water bath is key for achieving that barely set, dense, and luscious consistency. And the lemon juice will help prevent your caramel from crystallizing. This recipe is from Where Cooking Begins by Carla Lalli Music.
+Recipe information
+Yield 8 servings
+Yield
+8 servings
+Ingredients
+2½
+¼
+1
+½
+6
+Need to make a substitution?
+Preparation
+Step 1 Combine milk, coffee, lemon zest, and ½ cup sugar in a small saucepan. Scrape in vanilla seeds; add pod. Bring to a gentle simmer over medium heat. Remove from heat, cover, and let sit 30 minutes. Step 2 Preheat oven to 325°. Place a 9" pie dish or 1½-qt. loaf pan next to the stove. Cook lemon juice, remaining ⅔ cup sugar, and ¼ cup water in a small saucepan over medium-low heat, stirring constantly, until sugar dissolves, about 5 minutes. Do not rush this step; if liquid boils before sugar dissolves, the caramel will never darken. Once syrup turns clear, stop stirring and increase heat to medium. Cook, swirling pan every few minutes, until caramel is deep mahogany and wisps of smoke appear. Immediately pour into pie dish. Quickly tilt pan to coat bottom and a bit of the way up the sides with caramel. Set inside a roasting pan or other ovenproof dish with high sides. Step 3 Whisk eggs in a medium bowl to break them up a bit. Reheat coffee mixture until steaming, then pour into eggs, whisking constantly to combine. Pour through a fine-mesh sieve into caramel-lined dish. Transfer to oven and pour enough boiling water into roasting pan to come halfway up sides of dish. Bake until custard is set but still jiggles a bit at the very center, about 1½ hours. Let cool in water bath 30 minutes. Remove dish, cover with plastic wrap, and chill crème caramel until set, at least 4 hours and up to 2 days. Step 4 To unmold, run a thin-bladed knife around edges of dish, making sure tip of knife stays flush against bottom of dish. Invert a large plate over dish, then quickly flip. Slowly lift off dish; crème caramel should slide out. If not, tap plate against countertop until it does. Serve in slices with caramel spooned over.
+Step 1
+Combine milk, coffee, lemon zest, and ½ cup sugar in a small saucepan. Scrape in vanilla seeds; add pod. Bring to a gentle simmer over medium heat. Remove from heat, cover, and let sit 30 minutes.
+Step 2
+Preheat oven to 325°. Place a 9" pie dish or 1½-qt. loaf pan next to the stove. Cook lemon juice, remaining ⅔ cup sugar, and ¼ cup water in a small saucepan over medium-low heat, stirring constantly, until sugar dissolves, about 5 minutes. Do not rush this step; if liquid boils before sugar dissolves, the caramel will never darken. Once syrup turns clear, stop stirring and increase heat to medium. Cook, swirling pan every few minutes, until caramel is deep mahogany and wisps of smoke appear. Immediately pour into pie dish. Quickly tilt pan to coat bottom and a bit of the way up the sides with caramel. Set inside a roasting pan or other ovenproof dish with high sides.
+Step 3
+Whisk eggs in a medium bowl to break them up a bit. Reheat coffee mixture until steaming, then pour into eggs, whisking constantly to combine. Pour through a fine-mesh sieve into caramel-lined dish. Transfer to oven and pour enough boiling water into roasting pan to come halfway up sides of dish. Bake until custard is set but still jiggles a bit at the very center, about 1½ hours. Let cool in water bath 30 minutes. Remove dish, cover with plastic wrap, and chill crème caramel until set, at least 4 hours and up to 2 days.
+Step 4
+To unmold, run a thin-bladed knife around edges of dish, making sure tip of knife stays flush against bottom of dish. Invert a large plate over dish, then quickly flip. Slowly lift off dish; crème caramel should slide out. If not, tap plate against countertop until it does. Serve in slices with caramel spooned over.
+Recipe notes

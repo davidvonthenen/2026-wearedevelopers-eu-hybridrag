@@ -1,0 +1,105 @@
+Orange, Mango and Pineapple Juice
+=================================
+
+Recipe Metadata
+---------------
+Recipe ID: 3d6149f0f3d4a8ed
+CSV row number: 380
+Recipe name: Orange, Mango and Pineapple Juice
+Source: anniesnoms.com
+URL: http://www.anniesnoms.com/2015/02/19/orange-mango-and-pineapple-juice/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/026551e097f9c8315ec7823730ad3781e8a87935a9a81ce39cb70aaa4139ba73/21131555.jpg
+Servings: 4
+Calories: 657.95
+Diet labels: High-Fiber, Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: breakfast
+Dish type: drinks
+
+Original CSV Fields
+-------------------
+recipe_name: Orange, Mango and Pineapple Juice
+source: anniesnoms.com
+url: http://www.anniesnoms.com/2015/02/19/orange-mango-and-pineapple-juice/
+servings: 4
+calories: 657.9525
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/026551e097f9c8315ec7823730ad3781e8a87935a9a81ce39cb70aaa4139ba73/21131555.jpg
+diet_labels: ["High-Fiber","Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["drinks"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Orange, Mango and Pineapple Juice
+
+Description: This Orange, Mango and Pineapple Juice is super quick to make in your juicer and packs a flavour punch. It's also jam packed with Vitamin C - the perfect healthy juice to help you ward of Winter colds!
+
+Yield: ['1', '1 large or 2 small glasses']
+
+Prep time: PT5M
+
+Total time: PT10M
+
+Ingredients:
+- 2 oranges
+- 1/2 a large pineapple
+- 1 large mango
+
+Instructions:
+1. Take the skin off of the oranges and discard.
+2. Take your mango and slice 1/2 inch to the left and right of the centre to avoid cutting the hard core. Then take your mango core and slice either side off, so your just left with a small square directly from the centre, discard this. Either scoop the flesh out with a spoon, or score diagonally both ways before pressing the skin side up to push the chunks out. Slice them off and into a bowl.
+3. For the pineapple - slice the pineapple in half, then cut the green top off of the pineapple. Stand the pineapple up and use a sharp knife to cut the skin off, following the contours of the pineapple. Slice into large pieces (I cut them into half circles).
+4. Process all fruit in your juicer, following manufacturer guidelines.
+5. Serve immediately.
+
+Visible page text:
+This Orange, Mango and Pineapple Juice is super quick to make in your juicer and packs a flavour punch. It’s also jam packed with Vitamin C – the perfect healthy juice to help you ward of Winter colds!
+Designer Habitat sent me their juicer to review. I was not financially compensated for this post. All opinions are 100% my own based on my experience.
+Happy Thursday! Did you have a good Valentine’s Day? My whole weekend was amazing, but more on that in later weeks.
+Sorry for the lack of posting this week, I’ve been SOOOOO ill – whatever OH had, he generously gave to me and I’ve been completely floored by it and unable to stand up for days!
+Today, we are talking juice, Orange, Mango and Pineapple Juice to be exact. I worked with Designer Habitat last year, so when they contacted me to review their VonShef juicer , I had to agree!
+I’ve been looking at juicers for a while; I love juice and I love putting good for you, delicious things into my body. As a baker, I make an awful lot of cake, so I feel the need to balance all those bad things out with good!!
+I know there are a ton of Juice diets around at the moment and whilst I’m not following any of them, I still want to be able to make my own fresh juice as I find that shop bought juices have loads of added sugar etc.
+The VonShef Juicer is super powerful (990 watts) and has a large opening to put your fruits/vegetables in – 7.5cm wide!
+It also has 2 speed settings. For my juice, I used the lower setting and it was still incredibly powerful!
+It uses a centrifugal, stainless steel blade which is great – when putting all my fruits in, it NEVER felt/sounded like it was struggling – it just sucked my fruits right up and gave me gorgeous, sunshine coloured juice. 🙂
+The centrifugal blade means that it spins very fast and cuts the fruit up, while spinning to separate the pulp from the juice – if you looked at the blade you’d see it looks a bit like a sieve, this is so the juice can go through into your container and the pulp is discarded.
+I don’t know about you, but I never quite know how much juice I’ll actually end up with, but with the VonShef juicer I ended up with hardly any pulp and A LOT of juice!
+Another plus? All the parts are dishwasher safe which makes cleaning up a cinch. That is one of the negatives I’ve had in the past because I HATE washing up and mess!
+I took their tip in the instruction manual to put a bag into the pulp container, so that I could just lift it straight out and not have to wash it out – this worked great. We get those bio-degradable food bags here, so I just used on of them and it fitted perfectly!
+I’m sure small bin liners or large food bags would work too – it certainly makes life easier!
+Now, let’s talk about taste. I didn’t add anything else to my juice other than the three fruits. No sugar, no sweetener, nothing. It was SO good! It tasted so fresh, sweet and a little tart with the orange.
+The mango adds sweetness to the orange and pineapple and isn’t overpowering. I think with just orange and pineapple this juice could have been a little tart, but the mango just perfected it!
+In terms of prep, I peeled the oranges, then they were able to go in whole. For the mango, I used smaller chunks, but this was only because it was easier to cut it up – much larger pieces would have fit right in the top of the juicer.
+Then we have the pineapple – I know you can get gadgets to cut your pineapple up, but I went old school and used a knife. Then it was straight into the juicer. All in all it took under 10 minutes to have a fresh, delicious glass of juice, which I think is pretty good!
+So, if you’re looking for a well priced, super powerful, easy to clean juicer, then the VonShef juicer could be the one for you!
+Orange, Mango and Pineapple Juice This Orange, Mango and Pineapple Juice is super quick to make in your juicer and packs a flavour punch. It's also jam packed with Vitamin C - the perfect healthy juice to help you ward of Winter colds! Print Recipe Pin Recipe Prep Time 5 minutes mins Total Time 10 minutes mins Servings 1 large or 2 small glasses Ingredients 2 oranges 1/2 a large pineapple 1 large mango Instructions Take the skin off of the oranges and discard. Take your mango and slice 1/2 inch to the left and right of the centre to avoid cutting the hard core. Then take your mango core and slice either side off, so your just left with a small square directly from the centre, discard this. Either scoop the flesh out with a spoon, or score diagonally both ways before pressing the skin side up to push the chunks out. Slice them off and into a bowl. For the pineapple - slice the pineapple in half, then cut the green top off of the pineapple. Stand the pineapple up and use a sharp knife to cut the skin off, following the contours of the pineapple. Slice into large pieces (I cut them into half circles). Process all fruit in your juicer, following manufacturer guidelines. Serve immediately. Notes Recipe by Annie of Annie's Noms
+Orange, Mango and Pineapple Juice
+Ingredients
+2 oranges
+1/2 a large pineapple
+1 large mango
+Instructions
+Take the skin off of the oranges and discard.
+Take your mango and slice 1/2 inch to the left and right of the centre to avoid cutting the hard core. Then take your mango core and slice either side off, so your just left with a small square directly from the centre, discard this. Either scoop the flesh out with a spoon, or score diagonally both ways before pressing the skin side up to push the chunks out. Slice them off and into a bowl.
+For the pineapple - slice the pineapple in half, then cut the green top off of the pineapple. Stand the pineapple up and use a sharp knife to cut the skin off, following the contours of the pineapple. Slice into large pieces (I cut them into half circles).
+Process all fruit in your juicer, following manufacturer guidelines.
+Serve immediately.
+Notes
+Share this:
+Share on Facebook (Opens in new window) Facebook
+Share on X (Opens in new window) X
+Share on Pinterest (Opens in new window) Pinterest
+About
+Annie is a self-taught baker, recipe developer and food photographer, who has an obsession with dessert and beauty! More…
+Recent recipes
