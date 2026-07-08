@@ -1,0 +1,106 @@
+Sweet Potato, Apple and Leek Casserole
+======================================
+
+Recipe Metadata
+---------------
+Recipe ID: a9d7c61e6343d0e0
+CSV row number: 387
+Recipe name: Sweet Potato, Apple and Leek Casserole
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/trisha-yearwood/sweet-potato-apple-and-leek-casserole-3243284
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/027370e96a22295c3b62130f81867957fd5ac2e30d0c13c5f1ed45629be99924/21119519.jpg
+Servings: 8
+Calories: 1348.81
+Diet labels: none listed
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Sweet Potato, Apple and Leek Casserole
+source: Food Network
+url: https://www.foodnetwork.com/recipes/trisha-yearwood/sweet-potato-apple-and-leek-casserole-3243284
+servings: 8
+calories: 1348.806387345259
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/027370e96a22295c3b62130f81867957fd5ac2e30d0c13c5f1ed45629be99924/21119519.jpg
+diet_labels: []
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Sweet Potato, Apple and Leek Casserole
+
+Recipe category: side-dish
+
+Yield: 6 to 8 servings
+
+Cook time: P0Y0M0DT0H35M0.000S
+
+Total time: P0Y0M0DT1H45M0.000S
+
+Ingredients:
+- 2 tablespoons olive oil
+- 2 medium leeks, white and light green parts sliced lengthwise and thinly sliced crosswise
+- Salt and freshly ground pepper
+- 1 tablespoon fresh thyme leaves
+- 1/2 cup heavy cream
+- 1 large sweet potato (about 1 pound), peeled and sliced into 1/2-inch-thick rounds
+- 1 large or 2 medium red skinned apples, such as Gala or Honeycrisp (about 12 ounces), halved, cored and cut into 1/4-inch slices
+- 1/4 cup freshly grated Parmesan
+
+Instructions:
+1. Preheat the oven to 350 degrees F.
+2. In a large skillet, heat 1 tablespoon of the oil over medium heat. Add the leeks and 2 tablespoons water; season with salt and pepper. Cook, stirring occasionally, until tender but not browned, about 8 minutes. Add the thyme and then the cream and cook until the liquid thickens, about 2 minutes; set aside.
+3. In a 2-quart shallow baking dish, arrange the sweet potato in overlapping layers. Spread the leek mixture evenly over the potatoes. Arrange the apples in an overlapping layer on the leeks. Brush the apples with the remaining tablespoon of oil and sprinkle with the Parmesan. Cover tightly with aluminum foil and bake 40 minutes. Uncover and continue to bake until the Parmesan is golden brown and melted, about 20 minutes more. The tip of a paring knife should easily pierce the apples and potatoes. Let cool 10 minutes before serving.
+
+Visible page text:
+Home
+Recipes
+Main Dishes
+Casseroles
+Sweet Potato, Apple and Leek Casserole
+Level: Easy
+Total: 1 hr 45 min (includes cooling time)
+Active: 35 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+2 tablespoons olive oil
+2 medium leeks, white and light green parts sliced lengthwise and thinly sliced crosswise
+Salt and freshly ground pepper
+1 tablespoon fresh thyme leaves
+1/2 cup heavy cream
+1 large sweet potato (about 1 pound), peeled and sliced into 1/2-inch-thick rounds
+1 large or 2 medium red skinned apples, such as Gala or Honeycrisp (about 12 ounces), halved, cored and cut into 1/4-inch slices
+1/4 cup freshly grated Parmesan
+Preheat the oven to 350 degrees F.
+In a large skillet, heat 1 tablespoon of the oil over medium heat. Add the leeks and 2 tablespoons water; season with salt and pepper. Cook, stirring occasionally, until tender but not browned, about 8 minutes. Add the thyme and then the cream and cook until the liquid thickens, about 2 minutes; set aside.
+In a 2-quart shallow baking dish, arrange the sweet potato in overlapping layers. Spread the leek mixture evenly over the potatoes. Arrange the apples in an overlapping layer on the leeks. Brush the apples with the remaining tablespoon of oil and sprinkle with the Parmesan. Cover tightly with aluminum foil and bake 40 minutes. Uncover and continue to bake until the Parmesan is golden brown and melted, about 20 minutes more. The tip of a paring knife should easily pierce the apples and potatoes. Let cool 10 minutes before serving.
+Categories:
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Potato Casserole
+Gwen's Old-Fashioned Potato-Beef Casserole Recipe
+Beth's Hash-Brown Potato Casserole Recipe
+Chicken Tortilla Casserole Recipe
+Garlic Grits Casserole Recipe
+Sausage Veggie Breakfast Casserole Recipe

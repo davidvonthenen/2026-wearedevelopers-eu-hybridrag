@@ -1,0 +1,194 @@
+Tomato Basil Soup recipes
+=========================
+
+Recipe Metadata
+---------------
+Recipe ID: 9e84a443c6de6e13
+CSV row number: 107
+Recipe name: Tomato Basil Soup recipes
+Source: skinnyms.com
+URL: http://skinnyms.com/tomato-basil-soup/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/009ae26dc4b73f18048e7b7c731a90c9648c2545ae1cdc87bd5293b21d43dfdb/21128682.jpeg
+Servings: 5
+Calories: 454.61
+Diet labels: none listed
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: soup
+
+Original CSV Fields
+-------------------
+recipe_name: Tomato Basil Soup recipes
+source: skinnyms.com
+url: http://skinnyms.com/tomato-basil-soup/
+servings: 5
+calories: 454.6103551374999
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/009ae26dc4b73f18048e7b7c731a90c9648c2545ae1cdc87bd5293b21d43dfdb/21128682.jpeg
+diet_labels: []
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["soup"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Tomato Basil Soup
+
+Description: Warm-up with this classic and homemade tomato basil soup.
+
+Recipe category: ['Dinner', 'Lunch']
+
+Recipe cuisine: ['Universal']
+
+Yield: ['4', '4 people']
+
+Prep time: PT10M
+
+Cook time: PT60M
+
+Ingredients:
+- 1 pound tomatoes (heirloom is best when in season...otherwise, I combine vine ripe and plum)
+- 2 tablespoons extra virgin olive oil (divided)
+- 1 carrot (diced)
+- 1 celery stalk (diced)
+- 2 garlic cloves (minced)
+- 2 medium shallots (chopped)
+- 1/4 cup basil (chopped)
+- dash of cayenne pepper
+- 1 bay leaf
+- 1/2 teaspoon kosher or sea salt
+- 2 cups vegetable broth (low-sodium)
+
+Instructions:
+1. Preheat oven to 400°.
+2. Slice tomatoes in half; place on foil-lined cookie sheet. Drizzle 1 tablespoon of oil over tomatoes. Slightly fold the edges of the foil toward the tomatoes to capture any juice. Roast tomatoes 20 minutes.
+3. In the meantime, in a small skillet on medium-low heat, sauté diced carrot and celery in the remaining 1 tablespoon of oil until tender, 10–15 minutes. Add bay leaf, garlic and shallots; turn heat to low and continue to sauté another 4 minutes.
+4. Remove tomatoes from the oven, allow to cool 15 minutes or until they are cool enough to handle. Peel the tomatoes; the peeling should easily slide off. Discard peelings. If desired, push tomatoes through a sieve to remove any seeds. (It’s not necessary to remove seeds, but rather a personal preference.)
+5. Remove bay leaf then all ingredients to a food processor, except broth, or use an emulsion blender to purée.
+6. Add the tomato purée mixture and broth to medium pot, bring to a boil; reduce heat to a low simmer and cook 15–20 minutes. Remove bay leaf and serve.
+
+Visible page text:
+Tomato basil soup is comforting and delicious!
+Soup is a great fall and winter food. Healthy soup recipes are great for lunch and dinner, and allow you to cut calories without cutting nutrients and vitamins. This tomato basil soup recipe is even great during cooler summer days when tomatoes and basil are at their height of freshness. If you love delicious soups, you will love this recipe.
+Roasted tomatoes have up to eight times the amount of the powerful antioxidant lycopene than uncooked tomatoes. Our soup recipe is made with 100% whole foods and features one of the healthiest superfoods available. Kids even love this soup, especially when it is paired with grilled cheese sandwiches or macaroni and cheese . Tomato soup is a favorite dish for dieters and even for people who are battling head colds or just generally feeling under the weather.
+Tomato Basil Soup
+Ingredients
+1 pound tomatoes heirloom is best when in season...otherwise, I combine vine ripe and plum
+2 tablespoons extra virgin olive oil divided
+1 carrot diced
+1 celery stalk diced
+2 garlic cloves minced
+2 medium shallots chopped
+1/4 cup basil chopped
+dash of cayenne pepper
+1 bay leaf
+1/2 teaspoon kosher or sea salt
+2 cups vegetable broth low-sodium
+Instructions
+Preheat oven to 400°.
+Slice tomatoes in half; place on foil-lined cookie sheet. Drizzle 1 tablespoon of oil over tomatoes. Slightly fold the edges of the foil toward the tomatoes to capture any juice. Roast tomatoes 20 minutes.
+In the meantime, in a small skillet on medium-low heat, sauté diced carrot and celery in the remaining 1 tablespoon of oil until tender, 10–15 minutes. Add bay leaf, garlic and shallots; turn heat to low and continue to sauté another 4 minutes.
+Remove tomatoes from the oven, allow to cool 15 minutes or until they are cool enough to handle. Peel the tomatoes; the peeling should easily slide off. Discard peelings. If desired, push tomatoes through a sieve to remove any seeds. (It’s not necessary to remove seeds, but rather a personal preference.)
+Remove bay leaf then all ingredients to a food processor, except broth, or use an emulsion blender to purée.
+Add the tomato purée mixture and broth to medium pot, bring to a boil; reduce heat to a low simmer and cook 15–20 minutes. Remove bay leaf and serve.
+Nutrition Information
+Have you made this recipe? Tag @skinnyms on Instagram or hashtag it #skinnyms
+Don’t miss out on the latest and greatest from Skinny Ms… Be sure to subscribe to our daily eNewsletter . Also, like our Facebook page and follow us on Pinterest for tasty recipes, clean eating tips, and healthy lifestyle resources.
+For more delicious and nutritious recipes from Skinny Ms., check out our Skinny Ms. Recipe Collection of 101 Fan Favorites.
+Do you have a favorite Skinny Ms. recipe? We’d love to hear about it. Tell us what you think in the comments section below.
+This post may include affiliate links.
+Share this Recipe
+Gale Compton
+I have a passion for creating recipes and developing fitness workouts. You'll often find me in the kitchen, experimenting with new flavors, or enjoying the outdoors with my family and our dog, Maggie. She loves homemade meals just like we do, and you’ll discover plenty of her favorite recipes right here on the site!
+More by Gale
+Basil Bay Leaf Budget Friendly Carrot Cayenne Pepper Celery Cloves Leafy Greens Plant-Based Shallots Tomatoes Vegetable Broth
+Meal prep just got a lot easier with this everything chicken recipe.
+By SkinnyMs.
+This slow cooker fiesta chicken soup is bold, comforting, and packed with Tex-Mex flavor—an easy, protein-rich meal for busy nights.
+From colorful salads to hearty soups, there’s something for everyone to enjoy.
+By Gale Compton
+Cozy, hearty, and made with real food ingredients—this stew is a bowl full of comfort.
+38 Comments
+How long do you roast the tomatoes in the oven? Sounds like a tasty recipie. Reply Profarms1, 20 minutes. Very tasty!! Reply
+How long do you roast the tomatoes in the oven? Sounds like a tasty recipie.
+Profarms1, 20 minutes. Very tasty!! Reply
+Profarms1, 20 minutes. Very tasty!!
+You can never go wrong with a nice hot bowl of Tomato Basil Soup, no matter what the season. Light, warm, satisfying, and good for you too! Love this recipe, thank you for a great cookbook, and keeping it healthy! Reply
+You can never go wrong with a nice hot bowl of Tomato Basil Soup, no matter what the season. Light, warm, satisfying, and good for you too! Love this recipe, thank you for a great cookbook, and keeping it healthy!
+I think this will be my all time favorite soup recipe! Reply
+I think this will be my all time favorite soup recipe!
+Yes please, once the temperature is below 100 degrees! Reply
+Yes please, once the temperature is below 100 degrees!
+I love tomato soup! Reply
+I love tomato soup!
+This Tomato Soup recipe has a great combination of ingredients that will add both nutrients and fiber. I love an easy recipe, and this one fits the bill. Reply
+This Tomato Soup recipe has a great combination of ingredients that will add both nutrients and fiber. I love an easy recipe, and this one fits the bill.
+My youngest son love tomato soup, and this one does not disappoint! YAY! Reply
+My youngest son love tomato soup, and this one does not disappoint! YAY!
+Yum tomato soup…it's a fave at our house! Reply
+Yum tomato soup…it's a fave at our house!
+Can you use onion instead of shallots? If so, which kind? Honestly, I don't really know the difference between the two, other than shallots are more expensive…they both affect my tear ducts the same! 🙂 Reply Cheryl, Definitely! I prefer a sweet yellow onion in soups. Shallots are sort of a cross between garlic and onion. Reply
+Can you use onion instead of shallots? If so, which kind? Honestly, I don't really know the difference between the two, other than shallots are more expensive…they both affect my tear ducts the same! 🙂
+Cheryl, Definitely! I prefer a sweet yellow onion in soups. Shallots are sort of a cross between garlic and onion. Reply
+Cheryl, Definitely! I prefer a sweet yellow onion in soups. Shallots are sort of a cross between garlic and onion.
+This soup has an amazing flavour and is very simple to make. I love it and will see what the rest of the family says tonight 🙂 than you very much. Reply Tarryn, Thanks so much for the feedback! One of my favorites too. 🙂 Reply
+This soup has an amazing flavour and is very simple to make. I love it and will see what the rest of the family says tonight 🙂 than you very much.
+Tarryn, Thanks so much for the feedback! One of my favorites too. 🙂 Reply
+Tarryn, Thanks so much for the feedback! One of my favorites too. 🙂
+Can you use chicken broth instead of vegetable broth? Reply Yes, you may use chicken broth, but there will be a slight variation in flavor. Reply
+Can you use chicken broth instead of vegetable broth?
+Yes, you may use chicken broth, but there will be a slight variation in flavor. Reply
+Yes, you may use chicken broth, but there will be a slight variation in flavor.
+At what point do u add the basil? Reply Nava, Add basil when adding all ingredients to a food processor or emulsion blender, except broth. Reply
+At what point do u add the basil?
+Nava, Add basil when adding all ingredients to a food processor or emulsion blender, except broth. Reply
+Nava, Add basil when adding all ingredients to a food processor or emulsion blender, except broth.
+What can you substitute bay leaf and cayenne pepper with? Thanks! Reply Tina, Sure that works. YUM! 🙂 Reply
+What can you substitute bay leaf and cayenne pepper with? Thanks!
+Tina, Sure that works. YUM! 🙂 Reply
+Tina, Sure that works. YUM! 🙂
+I realize fresh is best, but can you use dried basil? How much difference would it make and how much do you use if you can use dried. Reply Great question, Patty! There isn’t a big difference in fresh versus dried basil other than dried has a more intense flavor. With that said, when substituting dried for fresh basil, use half the amount. For this recipe, only use 2 tablespoon of dried basil. Reply
+I realize fresh is best, but can you use dried basil? How much difference would it make and how much do you use if you can use dried.
+Great question, Patty! There isn’t a big difference in fresh versus dried basil other than dried has a more intense flavor. With that said, when substituting dried for fresh basil, use half the amount. For this recipe, only use 2 tablespoon of dried basil. Reply
+Great question, Patty! There isn’t a big difference in fresh versus dried basil other than dried has a more intense flavor. With that said, when substituting dried for fresh basil, use half the amount. For this recipe, only use 2 tablespoon of dried basil.
+Just made this soup for the first time and love it! I used chicken bone broth instead of veggie, and roasted a red pepper to add in there too. So tasty! Reply Glad you love the Tomato Basil Soup, Lisa! Great idea adding the roasted red pepper! Reply
+Just made this soup for the first time and love it! I used chicken bone broth instead of veggie, and roasted a red pepper to add in there too. So tasty!
+Glad you love the Tomato Basil Soup, Lisa! Great idea adding the roasted red pepper! Reply
+Glad you love the Tomato Basil Soup, Lisa! Great idea adding the roasted red pepper!
+How many servings does this make? Reply Approximately 5 servings. 🙂 Reply
+How many servings does this make?
+Approximately 5 servings. 🙂 Reply
+Approximately 5 servings. 🙂
+I don’t have a food processor is there something else I can use to puree it???? Reply Nicole, I just bought my tomatoes for this recipe. I’ll be using Roma instead of heirloom…wish they were in season. Yes, you can use a blender, just pulse a little at a time. Enjoy! 🙂 Reply
+I don’t have a food processor is there something else I can use to puree it????
+Nicole, I just bought my tomatoes for this recipe. I’ll be using Roma instead of heirloom…wish they were in season. Yes, you can use a blender, just pulse a little at a time. Enjoy! 🙂 Reply
+Nicole, I just bought my tomatoes for this recipe. I’ll be using Roma instead of heirloom…wish they were in season.
+Yes, you can use a blender, just pulse a little at a time. Enjoy! 🙂
+This was delicious! Hubby liked it too. I made him homemade croutons to eat with his. I made it as part of your 3-day cleanse. Thanks for this recipe. I’ll be making this often. Reply
+This was delicious! Hubby liked it too. I made him homemade croutons to eat with his. I made it as part of your 3-day cleanse. Thanks for this recipe. I’ll be making this often.
+Making this for the 2nd time tonight. The first time I was able to use fresh heirloom tomatoes, I found the scaring on the tomato made the skin difficult to remove after roasting. This time I made sure to look for less scaring and also cut out the center where the vine connects to the tomato. Hope this works! I also decided to roast the garlic & shallots along with the tomatoes for an even more fabulous taste! Love this soup! Always excited to be able to use my fresh basil from my plant that is growing fast this year 🙂 Reply Crystal, Thank you for the comment. I’m so happy you love this soup recipe. It’s one of my absolute favorites. Growing your own basil is a great way to add it to so many dishes. Pesto, maybe? 🙂 Reply
+Making this for the 2nd time tonight. The first time I was able to use fresh heirloom tomatoes, I found the scaring on the tomato made the skin difficult to remove after roasting. This time I made sure to look for less scaring and also cut out the center where the vine connects to the tomato. Hope this works! I also decided to roast the garlic & shallots along with the tomatoes for an even more fabulous taste! Love this soup! Always excited to be able to use my fresh basil from my plant that is growing fast this year 🙂
+Crystal, Thank you for the comment. I’m so happy you love this soup recipe. It’s one of my absolute favorites. Growing your own basil is a great way to add it to so many dishes. Pesto, maybe? 🙂 Reply
+Crystal, Thank you for the comment. I’m so happy you love this soup recipe. It’s one of my absolute favorites. Growing your own basil is a great way to add it to so many dishes. Pesto, maybe? 🙂
+Hi. Is it ok if you don’t put the tomatoes in a food processor or blender? Thanks Reply Tina, The tomatoes will need to be pulsed in the food process or blender unless you have a way of blending without either. Reply
+Hi. Is it ok if you don’t put the tomatoes in a food processor or blender? Thanks
+Tina, The tomatoes will need to be pulsed in the food process or blender unless you have a way of blending without either. Reply
+Tina, The tomatoes will need to be pulsed in the food process or blender unless you have a way of blending without either.
+I am sure this is best with fresh tomatoes but sometimes, especially in winter, good tasty fresh tomatoes just aren’t available. Could you substitute a good quality canned such as San Marzano or a roasted variety and still end up with good results? Reply Yes, you can use whole canned tomatoes. Make sure they’re drained well and patted dry. You’ll also probably need to reduce the cooking time in half. Reply
+I am sure this is best with fresh tomatoes but sometimes, especially in winter, good tasty fresh tomatoes just aren’t available. Could you substitute a good quality canned such as San Marzano or a roasted variety and still end up with good results?
+Yes, you can use whole canned tomatoes. Make sure they’re drained well and patted dry. You’ll also probably need to reduce the cooking time in half. Reply
+Yes, you can use whole canned tomatoes. Make sure they’re drained well and patted dry. You’ll also probably need to reduce the cooking time in half.
+Hello- When do you add the bay leaf? Thanks!! Reply Kathy, Please check updated recipe regarding the bay leaf. Reply
+Hello- When do you add the bay leaf? Thanks!!
+Kathy, Please check updated recipe regarding the bay leaf. Reply
+Kathy, Please check updated recipe regarding the bay leaf.
+Leave a Reply Cancel reply
+Search SkinnyMs.

@@ -1,0 +1,89 @@
+Tuscan Pork with Chickpeas & Spinach
+====================================
+
+Recipe Metadata
+---------------
+Recipe ID: dfeae6dd6f48eb4f
+CSV row number: 253
+Recipe name: Tuscan Pork with Chickpeas & Spinach
+Source: blog.myfitnesspal.com
+URL: https://blog.myfitnesspal.com/tuscan-pork-with-chickpeas-spinach/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0190ab07124bd1c4e9956bf5065d3d4781ba3d7a0859b3bf531e7109747f2a18/21126802.jpg
+Servings: 6
+Calories: 2912.17
+Diet labels: High-Fiber, Low-Carb
+Health labels: Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Tuscan Pork with Chickpeas & Spinach
+source: blog.myfitnesspal.com
+url: https://blog.myfitnesspal.com/tuscan-pork-with-chickpeas-spinach/
+servings: 6
+calories: 2912.168965932521
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0190ab07124bd1c4e9956bf5065d3d4781ba3d7a0859b3bf531e7109747f2a18/21126802.jpg
+diet_labels: ["High-Fiber","Low-Carb"]
+health_labels: ["Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Tuscan Pork with Chickpeas &#038; Spinach
+
+Ingredients:
+- 1/4 cup olive oil
+- 1/2 cup onion, chopped
+- 1 1/4 pounds pre-marinated* lemon-garlic pork fillet, cut into 1/2" thick
+- 1 (15-ounce) can chickpeas, drained and rinsed
+- 1 (15-ounce) Italian-seasoned tomato sauce (without added sugar)
+- 1/2 teaspoon salt
+- 20 ounces (approx. 2, 10-ounce bags) baby spinach leaves
+- 2 tablespoons lemon juice
+
+Visible page text:
+Tuscan Pork with Chickpeas & Spinach
+Prepare this quick Tuscan pork with chickpeas and spinach courtesy of Homemade in Half the Time . To save time, purchase pre-marinated pork fillets or make your own marinade and let the flavors infuse overnight.
+Ingredients
+1/4 cup olive oil
+1/2 cup onion, chopped
+1 1/4 pounds pre-marinated* lemon-garlic pork fillet, cut into 1/2″ thick
+1 (15-ounce) can chickpeas, drained and rinsed
+1 (15-ounce) Italian-seasoned tomato sauce (without added sugar)
+1/2 teaspoon salt
+20 ounces (approx. 2, 10-ounce bags) baby spinach leaves
+2 tablespoons lemon juice
+*If you’d rather DIY, mix 4 cloves minced garlic, 1 lemon zested and juiced, and 1/4 cup canola oil and marinate overnight.
+Directions
+Heat the oil in a large skillet over medium-high heat. Add the onion. Cook, stirring occasionally, for about 2 minutes, or until fragrant. Scrape the onion to the side.
+Add the pork. Cook for about 4 minutes, turning once, until browned on both sides.
+Add the chickpeas, tomato sauce, and salt. Stir. Adjust the heat so the sauce is at a moderate simmer. Cover and cook for 5 minutes.
+Add the spinach, a large handful at a time, covering the pan between each addition. Cook for about 3 minutes total, or until all the spinach wilts.
+Transfer the pork to plates.
+Add the lemon juice to the pan. Stir to combine. Spoon over the pork.
+Nutrition Information
+Serves: 6 | Serving Size: 1/6 of dish
+Per serving: Calories: 384; Total Fat: 17g; Saturated Fat: 2g; Monounsaturated Fat: 7g; Cholesterol: 49mg; Sodium: 601mg; Carbohydrate: 34g; Dietary Fiber: 8g; Sugar: 5g; Protein: 29g
+Nutrition Bonus: Potassium: 759mg; Iron: 32%; Vitamin A: 127%; Vitamin C: 51%; Calcium: 13%
+This recipe is from Homemade in Half the Time, courtesy of Fitbie.com . Fitbie is a diet and fitness destination for eating tips and workout advice to inspire you to reach the next level on your fitness journey. Follow Fitbie on Twitter , Facebook , Pinterest or Instagram .
+The information in this article is provided solely for informational purposes. This information is not medical advice and should not be relied upon when making medical decisions, or to diagnose or treat a health condition or illness. You should seek the advice of a physician or a medical professional before beginning any dietary programs or plans, exercise regimen or any other fitness or wellness activities.
+Meet the people behind the post
+More inspiration for you
+Sheet Pan Almond-Crusted Salmon With Green Beans
+Grilled Ratatouille Spaghetti with Chicken
+Grilled Chicken, Lentil and Peach Salad
+Grilled Honey Lime Chicken with Cowboy Caviar
+About Us
+Newsletter
+DOWNLOAD THE APP

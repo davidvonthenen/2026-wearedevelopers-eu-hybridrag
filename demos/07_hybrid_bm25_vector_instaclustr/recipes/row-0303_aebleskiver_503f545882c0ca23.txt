@@ -1,0 +1,78 @@
+Aebleskiver
+===========
+
+Recipe Metadata
+---------------
+Recipe ID: 503f545882c0ca23
+CSV row number: 303
+Recipe name: Aebleskiver
+Source: Spectacularly Delicious
+URL: http://spectacularlydelicious.com/2009/10/11/aebleskiver/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01ebdd1c17496565b2a6e57c5e1600c19e0b0bb5092eab4031eef6f55d90575d/21133616.jpg
+Servings: 35
+Calories: 1695.06
+Diet labels: Balanced, Low-Sodium
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: nordic
+Meal type: breakfast
+Dish type: bread
+
+Original CSV Fields
+-------------------
+recipe_name: Aebleskiver
+source: Spectacularly Delicious
+url: http://spectacularlydelicious.com/2009/10/11/aebleskiver/
+servings: 35
+calories: 1695.063633340328
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01ebdd1c17496565b2a6e57c5e1600c19e0b0bb5092eab4031eef6f55d90575d/21133616.jpg
+diet_labels: ["Balanced","Low-Sodium"]
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["nordic"]
+meal_type: ["breakfast"]
+dish_type: ["bread"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+We love having guests out for the weekend. Steve is extrememly accomplished in the breakfast baked-goods category, thanks to those years running our B&B here in East Hampton, Georgica Bend. He hasn’t written his tell-all memoir yet, though he’s got the title ready: “Yesterday’s Muffins.” One of his favorites (and mine too) is my recipe for Aebelskivers .
+So who doesn’t love hot pancakes, or a toasty waffle, perhaps rich and eggy French toast or the elegant crepe? No one, of course, but then again, though those are scrumptious, always welcome and appreciated, when the occasion merits a little dazzle, nothing beats the Aebleskiver .
+“The what?” you may ask.
+Here’s the story. As kids we’d go on family ski vacations, now this is really back in the day, circa 1970 or so. Unquestionably our favorite place was Aspen’s Christiania Lodge. We’d pile into our cabin (there are five of us brothers) after a day on the slopes, Dad would grill steaks on the deck while we skittered down the snowy, icy path to plunge into the well-heated outdoor pool — a miracle of modern engineering.
+But oh, the breakfasts! Served family style in the main lodge. I’m sure the proprietors, a reserved Scandinavian couple, shuddered when they saw us tromping in, the guests already enjoying breakfast undoubtedly grateful for their headstarts.
+Cigarette or tobacco smoking has been deemed an http://www.midwayfire.com/wp-content/uploads/2017/01/2017-Final-Budget.pdf discount pfizer viagra aggravating factor towards the incidence of erectile dysfunction. This is a disorder sildenafil online without prescription which only men face. This is the one of the embarrassing issue in men who cheap viagra without prescription actually gets fail to open the disorder. You are also advised to massage the male organ using potent herbal oil – Mast Mood oil is prepared using natural oils and potent herbs in this herbal pill promote healing of damaged nerves and tissues. discount levitra online Poor Mrs. Chritiania or whatever her name might have been — we ate until she either ran out of batter or gave in to exhaustion.
+Mom bought an Aebleskiver pan there, blue enameled cast iron. Back home, once in a blue moon, perhaps Easter or some other special day, she take down the pan which was decoratively hung against the blue checked wallpaper of the kitchen, and dedicate herself to the considerable feat of an Aebleskiver breakfast. These pans make just seven Aebleskivers at a time. Mrs. Christiania no doubt had mulitples and I actually have two, sadly not the iconic blue original, another brother must have snagged that one at some point. No matter, the pans aren’t hard to find.
+This dish merits Spectacularly Delicious status on three key points: the need for specialized equipment, the wow factor (“How can they be so perfectly round? Have you ever seen such a thing?”), and they are truly wonderful. Round, browned and fluffy and puffy, almost souffle-like inside. Nothing quite like them that I’m aware of.
+Happily, I do have a xerox of Mom’s hand-copied recipe passed on from the Christiania. It’s really not so hard — just requires a little attention. Worth it!
+CLICK HERE FOR MY VIDEO ON HOW TO MAKE AEBELSKIVERS
+Aebleskivers – Christiania of Aspen
+2 cups buttermilk 2 cups flour 3 eggs, separated 2 t. baking powder 1/2 t. salt 1/2 t. baking soda 2 T. sugar 4 T. melted butter 1 Granny Smith or other tart apple, peeled, sliced into very thin wedges no more than 1/2″ – 3/4″ long Vegetable oil to brush the pan.
+First place the Aebleskiver pan on medium heat. Put a baking sheet in the oven at 275, this is where you’ll stockpile the ‘skivers until you’re ready to serve.
+Beat egg whites ’til stiff.
+The technique: keep your eye on the batter around the edges of the bowl. They will develop a ring of bubbles like a pancake would. When those bubbles start to break, take a skewer (the original Christiania recipe called for a knitting needle — quaint, right?) and stick it in so it grabs the cooked side touching the pan and rotate it up 90 degrees, so you have half of the ball rising straight up from the pan. The batter inside will flow down and refill the bowl. Cook a bit more, watching the bubbles, then skewer them all the way over. You now have perfectly round balls in each bowl. For another minute or so, use the skewer to spin them around, evenly browning them and giving time to cook the centers through. Batter-in to Aebleskiver-out takes about 2 to 2 1/2 minutes, tops. Into the oven with batch number one and do it all again, making sure to oil the bowls well each time. This recipe makes 35 Aebleskivers.
+Serve hot with butter and maple syrup. You needn’t get any fancier than that — blueberries will stain the exteriors of the Aebleskivers and really anything else would also detract from the admittedly odd but cute balls.
+CHECK OUT THIS LINK TO ANOTHER AEBELSKIVER STORY
+Print This Post
+Share this:
+Facebook
+Twitter
+Pinterest
+Like this:
+Related
+Home
+SEAN SULLIVAN’S SPECTACULARLY DELICIOUS
+Videos
+Sites We Admire
+Celebrity Recipes
+Fish and Seafood
+East Hampton
+Kitchen Gadgets
+Plates and Serving Pieces
+Party foods
+To support this blog, Spectacularly Delicious is an Amazon and Google AdWords Affiliate.
+Copyright 2015. Spectacularly Delicious and Sean Sullivan All rights reserved.

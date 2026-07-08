@@ -1,0 +1,105 @@
+Slow-Roasted Spanish Olives With Oranges and Almonds
+====================================================
+
+Recipe Metadata
+---------------
+Recipe ID: 6dbbe255050ad945
+CSV row number: 407
+Recipe name: Slow-Roasted Spanish Olives With Oranges and Almonds
+Source: food.com
+URL: http://www.food.com/recipe/slow-roasted-spanish-olives-with-oranges-and-almonds-371144
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/029db53e2a71ce9eff14bfc71f89616648027c164ce80c0363ad1ab7222abf8e/21113904.jpg
+Servings: 20
+Calories: 4241.31
+Diet labels: Low-Sodium
+Health labels: Vegan, Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: starter
+
+Original CSV Fields
+-------------------
+recipe_name: Slow-Roasted Spanish Olives With Oranges and Almonds
+source: food.com
+url: http://www.food.com/recipe/slow-roasted-spanish-olives-with-oranges-and-almonds-371144
+servings: 20
+calories: 4241.309304800001
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/029db53e2a71ce9eff14bfc71f89616648027c164ce80c0363ad1ab7222abf8e/21113904.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["starter"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Slow-Roasted Spanish Olives With Oranges and Almonds
+
+Description: What a wonderful addition to any appetizer line-up, or just to have in the fridge for snacking purposes! This is courtesy of Tyler Florence.
+
+Recipe category: Spanish
+
+Yield: 20 serving(s)
+
+Prep time: PT10M
+
+Cook time: PT2H
+
+Total time: PT2H10M
+
+Ingredients:
+- 2 lbs Spanish olives, such as manzanilla, with pits
+- 1 orange, unpeeled, sliced into 1/8 inch circles
+- 1 cup whole almond, with skin
+- 1/4 cup sherry wine vinegar
+- 1 cup extra virgin olive oil
+- 2 bay leaves
+- 10 fresh thyme sprigs
+- 1 red chili pepper, halved lengthwise
+
+Instructions:
+1. Preheat the oven to 300 degrees F.
+2. Combine the olives and the remaining ingredients in a mixing bowl.
+3. Transfer the mixture to a baking dish, cover with foil, and bake for about 2 hours.
+4. Drain the oil out (keep it to use as a bread dip!).
+5. Serve the olive mixture warm or at room temperature.
+6. They go nicely with assorted cheeses!
+
+Visible page text:
+Slow-Roasted Spanish Olives With Oranges and Almonds
+ingredients
+2 lbs Spanish olives , such as manzanilla, with pits
+1 orange , unpeeled, sliced into 1/8 inch circles
+1 cup whole almond, with skin
+1 ⁄ 4 cup sherry wine vinegar
+1 cup extra virgin olive oil
+2 bay leaves
+10 fresh thyme sprigs
+1 red chili pepper , halved lengthwise
+directions
+Preheat the oven to 300 degrees F.
+Combine the olives and the remaining ingredients in a mixing bowl.
+Transfer the mixture to a baking dish, cover with foil, and bake for about 2 hours.
+Drain the oil out (keep it to use as a bread dip!).
+Serve the olive mixture warm or at room temperature.
+They go nicely with assorted cheeses!
+Questions & Replies
+Reviews
+So all restaurants should serve these nibblers at the beginning of a meal for two reasons, #1 because they are so good and #2 because the place would smell of heaven!!! The almonds were a little weird for me (the skins kind of poofed up but were still attached to the nut) so next time I will just add them after cooking. I also added about 8 cloves of garlic to roast with the other ingredients. WOW is this pretty and delish! januarybride Reply 1
+These were delicious. So aromatic. Leftovers (if there are any), could be pitted and made into a tapenade. Kitsune Reply 1
+Pretty to look at and lovely to eat. I enjoyed all the flavors. Made for ZWT Spain 2012. Sharon123 Reply
+Made this over the weekend for a group I host regularly, & although it was really out of the ordinary from what I usually include on my finger food buffet, it was very enthusiastically received, or should I say devoured! Thanks for sharing the recipe! [Tagged, made & reviewed in the FAMILY PICKS part of ZWT5] Sydney Mike Reply
+I made this using almonds with their green skin and I am not sure that is what the recipe calls for. I don't want to rate this because maybe I didn't use the right kind of almonds. I liked the marinade for the olives. susie cooks Reply
+RECIPE SUBMITTED BY
+58 Followers
+244 Recipes
+44 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

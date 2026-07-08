@@ -1,0 +1,125 @@
+Pumpkin Kheer
+=============
+
+Recipe Metadata
+---------------
+Recipe ID: 90e7f79f6cd94760
+CSV row number: 468
+Recipe name: Pumpkin Kheer
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/maneet-chauhan/pumpkin-kheer-11893151
+Image URL: unknown
+Servings: 6
+Calories: 1964.24
+Diet labels: Balanced, Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Pumpkin Kheer
+source: Food Network
+url: https://www.foodnetwork.com/recipes/maneet-chauhan/pumpkin-kheer-11893151
+servings: 6
+calories: 1964.242161396764
+image_url: 
+diet_labels: ["Balanced","Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Pumpkin Kheer
+
+Description: A kheer is everyone’s favorite Indian dessert! Simply delicious, comforting, creamy and rich, kheer is usually made with rice and makes for a perfect dessert anytime you crave something sweet. This seasonal version uses grated pumpkin and is lightly spiced with cardamom, anise, cinnamon and saffron. It’s a comfort dessert that is delicious and beautiful.
+
+Recipe category: dessert
+
+Recipe cuisine: indian
+
+Yield: 4 to 6 servings
+
+Cook time: P0Y0M0DT0H15M0.000S
+
+Total time: P0Y0M0DT2H50M0.000S
+
+Ingredients:
+- 3 cups whole fat milk
+- 2 cups grated pumpkin
+- 1/2 teaspoon cardamom powder
+- 1 pinch saffron threads
+- One 1-inch cinnamon stick
+- 1 pod star anise
+- 1/2 cup slivered almonds
+- 1/2 cup craisins
+- 1/2 cup chopped pistachios
+- 1 tablespoon jaggery or dark brown sugar
+- 1/2 cup condensed milk
+- 1/2 teaspoon rose water
+- Edible flowers, for garnish
+- Dried rose petals, for garnish
+- Gold leaf, for garnish
+
+Instructions:
+1. In a large heavy-bottomed saucepan, add the milk, grated pumpkin, cardamom powder, saffron, cinnamon stick and star anise. Cook over low heat until the raw smell of the pumpkin disappears, 25 minutes.
+2. Set aside 1 teaspoon each of the almonds, craisins and pistachios for garnish. Add the remaining almonds, craisins and pistachios to the pumpkin mixture and cook until it starts getting thicker, 10 to 15 minutes.
+3. Add the jaggery or brown sugar and mix well. Remove from the heat and add the condensed milk and rose water. Transfer to a one medium serving bowl or several small bowls. Refrigerate until chilled, at least 2 hours.
+4. Serve the pumpkin kheer garnished with the edible flowers, dried rose petals, reserved almonds, reserved craisins, reserved pistachios and gold leaf.
+
+Visible page text:
+Home
+Recipes
+Dessert
+Pumpkin Kheer
+Level: Easy
+Total: 2 hr 50 min (includes chilling time)
+Active: 15 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+3 cups whole fat milk
+2 cups grated pumpkin
+1/2 teaspoon cardamom powder
+1 pinch saffron threads
+One 1-inch cinnamon stick
+1 pod star anise
+1/2 cup slivered almonds
+1/2 cup craisins
+1/2 cup chopped pistachios
+1 tablespoon jaggery or dark brown sugar
+1/2 cup condensed milk
+1/2 teaspoon rose water
+Edible flowers, for garnish
+Dried rose petals, for garnish
+Gold leaf, for garnish
+In a large heavy-bottomed saucepan, add the milk, grated pumpkin, cardamom powder, saffron, cinnamon stick and star anise. Cook over low heat until the raw smell of the pumpkin disappears, 25 minutes.
+Set aside 1 teaspoon each of the almonds, craisins and pistachios for garnish. Add the remaining almonds, craisins and pistachios to the pumpkin mixture and cook until it starts getting thicker, 10 to 15 minutes.
+Add the jaggery or brown sugar and mix well. Remove from the heat and add the condensed milk and rose water. Transfer to a one medium serving bowl or several small bowls. Refrigerate until chilled, at least 2 hours.
+Serve the pumpkin kheer garnished with the edible flowers, dried rose petals, reserved almonds, reserved craisins, reserved pistachios and gold leaf.
+Categories:
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Coconut Rice Pudding (Kheer) Recipe
+Shrimp Coconut Curry Recipe
+Garlic Naan Recipe
+Masala Omelet Sandwich Recipe
+Kerala Fish Fry Recipe
+Pakora Batter Recipe

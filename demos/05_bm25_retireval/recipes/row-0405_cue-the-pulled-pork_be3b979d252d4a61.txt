@@ -1,0 +1,114 @@
+'Cue the Pulled Pork
+====================
+
+Recipe Metadata
+---------------
+Recipe ID: be3b979d252d4a61
+CSV row number: 405
+Recipe name: 'Cue the Pulled Pork
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/cue-the-pulled-pork-recipe-2200787
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/029a29b78eef28e47aebf4a76d2eb4caf3af5ae3baf9f4aa7f374edf2294941d/21132204.jpg
+Servings: 6
+Calories: 1792.87
+Diet labels: none listed
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: sandwiches
+
+Original CSV Fields
+-------------------
+recipe_name: 'Cue the Pulled Pork
+source: Food Network
+url: https://www.foodnetwork.com/recipes/cue-the-pulled-pork-recipe-2200787
+servings: 6
+calories: 1792.874774967983
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/029a29b78eef28e47aebf4a76d2eb4caf3af5ae3baf9f4aa7f374edf2294941d/21132204.jpg
+diet_labels: []
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["sandwiches"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: 'Cue the Pulled Pork
+
+Yield: 6 servings
+
+Cook time: P0Y0M0DT0H10M0.000S
+
+Total time: P0Y0M0DT3H10M0.000S
+
+Ingredients:
+- 1 cup canned tomato sauce
+- 1/2 cup ketchup
+- 2 tablespoons, plus 2 teaspoons cider vinegar
+- 2 tablespoons, plus 2 teaspoons lightly packed brown sugar
+- 2 teaspoons garlic powder
+- 12 ounces raw, lean boneless pork tenderloin, trimmed of excess fat
+- 12 ounces raw, boneless pork shoulder (the leanest piece you can find), trimmed of excess fat
+- Salt and freshly ground black pepper
+- 2 cups roughly chopped onion
+- Crushed red pepper, optional
+- Serving suggestion: Light sandwich buns and rinsed deli cole slaw
+
+Instructions:
+1. To make the sauce: Place the tomato sauce, ketchup, cider vinegar, brown sugar, and garlic powder in the crock pot. Stir until mixed. Season both types of pork with 1/4 teaspoon salt and 1/8 teaspoon pepper and add to the pot. Top with onion and lightly stir.
+2. Cover and cook until pork is fully cooked, on high for 3 to 4 hours or on low for 7 to 8 hours.
+3. Remove all the pork and place it in a large bowl. Shred each piece using 2 forks: one to hold the pork in place and the other to scrape across the meat and shred it. Return the shredded pork to the crock pot and mix well with the sauce.
+4. If you're serving a group, keep the crock pot on its lowest setting, so the pork stays warm. Season with crushed red pepper, if using. Yum time!
+
+Visible page text:
+Home
+Recipes
+Meat
+Pork
+'Cue the Pulled Pork
+Level: Easy
+Total: 3 hr 10 min
+Active: 10 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+1 cup canned tomato sauce
+1/2 cup ketchup
+2 tablespoons, plus 2 teaspoons cider vinegar
+2 tablespoons, plus 2 teaspoons lightly packed brown sugar
+2 teaspoons garlic powder
+12 ounces raw, lean boneless pork tenderloin, trimmed of excess fat
+12 ounces raw, boneless pork shoulder (the leanest piece you can find), trimmed of excess fat
+Salt and freshly ground black pepper
+2 cups roughly chopped onion
+Crushed red pepper, optional
+Serving suggestion: Light sandwich buns and rinsed deli cole slaw
+To make the sauce: Place the tomato sauce, ketchup, cider vinegar, brown sugar, and garlic powder in the crock pot. Stir until mixed. Season both types of pork with 1/4 teaspoon salt and 1/8 teaspoon pepper and add to the pot. Top with onion and lightly stir.
+Cover and cook until pork is fully cooked, on high for 3 to 4 hours or on low for 7 to 8 hours.
+Remove all the pork and place it in a large bowl. Shred each piece using 2 forks: one to hold the pork in place and the other to scrape across the meat and shred it. Return the shredded pork to the crock pot and mix well with the sauce.
+If you're serving a group, keep the crock pot on its lowest setting, so the pork stays warm. Season with crushed red pepper, if using. Yum time!
+Alternatively, recipe can be baked in a preheated oven, covered, at 325 degrees F for 3 to 4 hours.
+2010 Hungry Girl. All Rights Reserved.
+Categories:
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Chorizo Recipe
+Jose's Torta Ahogada (Spicy Pork Sandwich) Recipe
+Hawaiian Steamed Beef Buns Recipe
+Pork Gyoza with Ginger Dipping Sauce Recipe
+Cornmeal-Molasses Muffins Recipe
+Bourbon-Mango Pulled Pork Recipe

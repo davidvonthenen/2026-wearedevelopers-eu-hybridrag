@@ -1,0 +1,176 @@
+Black and white halfmoon cookies Recipe
+=======================================
+
+Recipe Metadata
+---------------
+Recipe ID: 9bd783cbbab73db1
+CSV row number: 97
+Recipe name: Black and white halfmoon cookies Recipe
+Source: Group Recipes
+URL: http://www.grouprecipes.com/714/black-and-white-halfmoon-cookies.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/008c1d3be37b5da6f806693aef7a5555f3b6a85d4b8807555c357b0730324fe8/21119667.jpg
+Servings: 1520
+Calories: 2251.45
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: biscuits and cookies
+
+Original CSV Fields
+-------------------
+recipe_name: Black and white halfmoon cookies Recipe
+source: Group Recipes
+url: http://www.grouprecipes.com/714/black-and-white-halfmoon-cookies.html
+servings: 1520
+calories: 2251.450333345956
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/008c1d3be37b5da6f806693aef7a5555f3b6a85d4b8807555c357b0730324fe8/21119667.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["biscuits and cookies"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Categories Search Your Bookmarks Upload a Recipe
+Categories
+Search
+Your Bookmarks
+Upload a Recipe
+No idea what to search for? Start browsing till you find something.
+strawberry dip recipe
+farfalle pasta
+beef pie recipe
+general tsaos chicken
+recipe for english toffee
+baked potatoes sliced recipe
+grape meatballs
+blackberry cake recipes
+frozen mini cinnamon rolls
+black and white halfmoon cookies Recipe
+black and white halfmoon cookies
+Add yours
+10-12 minutes to make
+Serves 1520
+a cake-y cookie treat. 50% vanilla icing + 50% chocolate icing = 107% delightful!
+cookie
+vanilla
+chocolate
+icing
+sweet
+none
+save Add tags (comma separated) to categorize your bookmark. Save Feel free to use any of the below tags. Click one to add it. cookie vanilla chocolate icing sweet none
+planner Add this recipe to your weekly planner Fri Sat Sun Mon Tue Wed Thu Schedule your weekly meals and get auto-generated shopping lists. or go to planner
+Fri
+Sat
+Sun
+Mon
+Tue
+Wed
+Thu
+Schedule your weekly meals and get auto-generated shopping lists.
+print
+email Email to Send
+groc. list Add items to your shopping list 1 1/4 C flour 1/2 t baking soda 1/2 t salt 6 T unsalted butter, softened 1/2 C sugar 1 large egg 3/4 t vanilla 1/3 C lowfat buttermilk 2 C confectioners sugar 1T + 1t light corn syrup 1 t lemon juice 1 T unsweetened cocoa powder go view your shopping list
+1 1/4 C flour
+1/2 t baking soda
+1/2 t salt
+6 T unsalted butter, softened
+1/2 C sugar
+1 large egg
+3/4 t vanilla
+1/3 C lowfat buttermilk
+2 C confectioners sugar
+1T + 1t light corn syrup
+1 t lemon juice
+1 T unsweetened cocoa powder
+Ingredients
+1 1/4 C flour shopping list
+1/2 t baking soda shopping list
+1/2 t salt shopping list
+6 T unsalted butter , softened shopping list
+1/2 C sugar shopping list
+1 large egg shopping list
+3/4 t vanilla shopping list
+1/3 C lowfat buttermilk shopping list
+2 C confectioners sugar shopping list
+1T + 1t light corn syrup shopping list
+1 t lemon juice shopping list
+1 T unsweetened cocoa powder shopping list
+How to make it
+1. preheat oven to 350 degrees
+2 sift together the flour, baking soda, and salt.
+3. mix butter until creamy. add the sugar and beat until fluffy. mix in egg and 1/2 t vanilla. mix in the flour mixture in 3 batches, alternating with the buttermilk.
+4. spoon batter onto cookie sheet and bake from 10-12 minutes or until the bottoms start to turn brown. let cool on cookie rack.
+5. whisk confectioners sugar, corn syrup, remaining vanilla and 1 T water together until smooth. transfer half to small bowl and mix in the cocoa. spread vanilla icing on one half of each cookie and the chocolate on the other half of each cookie.
+6. eat and enjoy! repeat until happy!
+ttaaccoo Buffalo, NY
+Etaro Nowhere, Us
+wcfields Nowhere, Us
+SusieC Nowhere, Us
+CountryGirlBG The Country, Oklahoma
+kathyk007 Nowhere, Us
+Josiekana Nowhere, Us
+slugboy123 River Oaks, U.s.a
+beaconzbard Heavener, OK
+Beefcake999 Nowhere, Us
+Plus 129 others From around the world!
+All Comments
+Your Comments
+CakeDeliveryin 8 years ago What a delicious and nice compiled recipe you have shared via this blog. I think you have got the expertise in this. I really like your fodiee behaviors. Keep conveying such messages, really needed us http://cake-delivery.in/ahmedabad http://cake-delivery.in/gurgaon http://cake-delivery.in/patna http://cake-delivery.in/noida http://cake-delivery.in/delhi Was this review helpful? Yes Flag
+mommyluvs2cook 12 years ago Sweetwords IMI review A Few Of Our Favorites Was this review helpful? Yes Flag
+twilightrose 16 years ago Make me miss New York, I'll have to make these soon. One of my favorites! People in Colorado don't know what I'm talking about when I say Black and White Cookies, I get blank stares. And good luck finding then in any local bakery. Can't wait to introduce these to people here. Mmmmm.... Thanks So MUCH! Was this review helpful? Yes Flag
+twilightrose 16 years ago Was this review helpful? Yes Flag
+secretsquirrel 16 years ago Sounds like a delicious Father's Day surprise! Thanks for the recipe. Was this review helpful? Yes Flag
+chocolatechip 17 years ago these are a classy looking cookie, will make them soon Was this review helpful? Yes Flag
+" It was excellent " pinkpasta ate it and said... Only my favorite cookie since I was a little girl! Thanks! Raise 'em up girl! Two High 5's for you!!!!!! Debbie~ pinkpasta Was this review helpful? Yes Flag
+kamikatze 17 years ago Yummy! This looks like a cake common in Germany. It's called "Amerikaner" which translates "Americans". Seriously! :) You will find it in every bakery here. Thanks for sharing the recipe. Was this review helpful? Yes Flag
+" It was excellent " redfish91117 ate it and said... Mmmm!!!!!!!!! Thanks soooooo much. Was this review helpful? Yes Flag
+philfull 18 years ago Yum! Made these for my mother-in-law for mothers day. They're like fairy cakes, which I half dunked in choc! Was this review helpful? Yes Flag
+" It was excellent " eggnogg ate it and said... This was my moms favorite cookie. Thanks for the flashback. I gave it a ^5. I'll make them for my grandchildren. Was this review helpful? Yes Flag
+cakelady 18 years ago These look wonderful! Was this review helpful? Yes Flag
+mandmtwo 18 years ago Will be making these for certain! I had a friend introduce me to these in NY and now I can't find them here in the South. Thanks! Was this review helpful? Yes Flag
+momma3 18 years ago This looks really good! Was this review helpful? Yes Flag
+kawa11desho 18 years ago They sell something almost exactly like this at Marx Bagels nearby. Thanks for the post! Was this review helpful? Yes Flag
+" It was excellent " efitobx ate it and said... Thanks for posting the recipe, reminds me of Berger Cookies out of Baltimore which I love. I'm in trouble now. Was this review helpful? Yes Flag
+lyndakaye 18 years ago thank you! thank you! thank you! I can't begin to tell you how excited I am to find this recipe. These are my husbands favorites and he only gets them when we get back up to New York, which just isn't often enough. I can't wait to make these. He will be so surprised. Was this review helpful? Yes Flag
+" It was excellent " sweetwords ate it and said... We ate these up! While I was working with the icing, my 2-year-old slipped up behind me and ate EIGHT cookies before I saw him! I made another batch the next day, and my husband ate 10. They both liked the cookies better without the icing. They're really easy that way, so I'll be making a lot of these! Was this review helpful? Yes Flag
+" It was excellent " sweetwords ate it and said... Repeat until happy... I love it! Got this recipe saved under "try real soon." Was this review helpful? Yes Flag
+snowpea 18 years ago Oh wow! I'll have to try them -- so pretty! Was this review helpful? Yes Flag
+The Cook
+The Rating
+Mmmm!!!!!!!!! Thanks soooooo much. redfish91117 in Wilmington loved it
+Mmmm!!!!!!!!! Thanks soooooo much.
+This was my moms favorite cookie. Thanks for the flashback. I gave it a ^5. I'll make them for my grandchildren. eggnogg in Greenville loved it
+This was my moms favorite cookie. Thanks for the flashback. I gave it a ^5. I'll make them for my grandchildren.
+Thanks for posting the recipe, reminds me of Berger Cookies out of Baltimore which I love. I'm in trouble now. efitobx in Norfolk loved it
+Thanks for posting the recipe, reminds me of Berger Cookies out of Baltimore which I love. I'm in trouble now.
+The Groups
+Sweet Tooth 451 members
+Food Styling And Photography 254 members
+My Stuff My Home My Bookmarks Shopping List Weekly Planner
+My Home
+My Bookmarks
+Shopping List
+Weekly Planner
+Jump To Browse Categories Search
+Browse Categories
+Help Help Forum FAQ
+Help Forum
+FAQ
+Search Inspiration Terms of Service & Privacy Contact
+Search Inspiration
+Terms of Service & Privacy
+Contact
+Take Note We will not respond to member emails. Use the Help Forum for that.
+If you have a business development or DMCA inquiry, Click Here .
+Advertising on Group Recipes is sold by SheKnows.com. You can contact the sales team for more info.
+while I look at others.

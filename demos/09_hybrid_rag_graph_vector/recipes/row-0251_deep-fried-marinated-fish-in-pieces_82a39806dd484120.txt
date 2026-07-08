@@ -1,0 +1,127 @@
+Deep-Fried Marinated Fish (In Pieces)
+=====================================
+
+Recipe Metadata
+---------------
+Recipe ID: 82a39806dd484120
+CSV row number: 251
+Recipe name: Deep-Fried Marinated Fish (In Pieces)
+Source: BigOven
+URL: http://www.bigoven.com/recipe/Deep-Fried-Marinated-Fish-(In-Pieces)/78208
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/018f1db84cefa2ec51a201e1e51483ccb28141e240032f2157863b4570e9d200/21083962.jpg
+Servings: 6
+Calories: 3289.98
+Diet labels: Low-Carb
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: south east asian
+Meal type: lunch/dinner
+Dish type: starter
+
+Original CSV Fields
+-------------------
+recipe_name: Deep-Fried Marinated Fish (In Pieces)
+source: BigOven
+url: http://www.bigoven.com/recipe/Deep-Fried-Marinated-Fish-(In-Pieces)/78208
+servings: 6
+calories: 3289.978527
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/018f1db84cefa2ec51a201e1e51483ccb28141e240032f2157863b4570e9d200/21083962.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["south east asian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["starter"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Deep-Fried Marinated Fish (In Pieces)
+
+Description: not set
+
+Recipe category: Main Dish
+
+Recipe cuisine: American
+
+Yield: 6
+
+Prep time: PT45M
+
+Cook time: PT30M
+
+Total time: PT45M
+
+Ingredients:
+- 1/4 ts Salt
+- 2 stalks Scallion
+- 4 tb Soy sauce
+- Oil for deep-frying
+- 1 ds Pepper
+- 3 dr Sesame oil more or less
+- 1 ts Sugar
+- 1 2.5-lb fish
+- 1 Garlic
+- 2 tb Sherry
+- 1/2 c Vegetable stock
+- 3 sl Fresh ginger root
+- 2 ts Sugar
+- 2 tb Soy sauce
+
+Instructions:
+1. 1. Bone fish and cut crosswise in 1-1/2 inch sections. 2. Mince scallion, ginger root and garlic; then combine with soy sauce, sherry, sugar, salt, pepper, and sesame oil. Add to fish sections and let stand 1 hour, turning occasionally. 3. Drain fish, discarding marinade; then blot dry with paper toweling. Meanwhile heat oil. 4. Add fish, a few pieces at a time, and deep-fry until golden. Drain on paper toweling. 5. In a saucepan, combine remaining soy sauce, salt and sugar with stock. Bring to a boil. 6. Add fish sections and cook over moderate heat, stirring gently until sauce has nearly evaporated. Serve hot or cold. VARIATION: In step 4, reserve the marinade, and substitute it for the ingredients in step 5. Heat the marinade; dip each fish section in it for about 5 seconds, then drain on paper toweling. Arrange fish on a serving platter. Sprinkle with 1/2 teaspoon Five Spices, and serve. From <The Thousand Recipe Chinese Cookbook>, ISBN 0-517-65870-4. Downloaded from G Internet, G Internet.
+
+Visible page text:
+Recipes
+Main Dish
+Fish and Shellfish
+Deep-Fried Marinated Fish (In Pieces)
+WANT TO TRY
+FAVORITE
+MADE
+CUSTOM FOLDER
+Try this Deep-Fried Marinated Fish (In Pieces) recipe, or contribute your own.
+Still searching for what to cook ?
+Find the most delicious recipes here
+Recipe
+Text
+Photos
+Nutr Nutrition
+Notes
+INGREDIENTS
+1/4 ts Salt
+2 stalks Scallion
+4 tb Soy sauce
+Oil ; for deep-frying
+1 ds Pepper
+3 dr Sesame oil ; more or less
+1 ts Sugar
+1 2.5-lb fish
+1 Garlic
+2 tb Sherry
+1/2 c Vegetable stock
+3 sl Fresh ginger root
+2 ts Sugar
+2 tb Soy sauce
+Copy and Customize
+About BigOven Pro
+INSTRUCTIONS
+1. Bone fish and cut crosswise in 1-1/2 inch sections. 2. Mince scallion, ginger root and garlic; then combine with soy sauce, sherry, sugar, salt, pepper, and sesame oil. Add to fish sections and let stand 1 hour, turning occasionally. 3. Drain fish, discarding marinade; then blot dry with paper toweling. Meanwhile heat oil. 4. Add fish, a few pieces at a time, and deep-fry until golden. Drain on paper toweling. 5. In a saucepan, combine remaining soy sauce, salt and sugar with stock. Bring to a boil. 6. Add fish sections and cook over moderate heat, stirring gently until sauce has nearly evaporated. Serve hot or cold. VARIATION: In step 4, reserve the marinade, and substitute it for the ingredients in step 5. Heat the marinade; dip each fish section in it for about 5 seconds, then drain on paper toweling. Arrange fish on a serving platter. Sprinkle with 1/2 teaspoon Five Spices, and serve. From , ISBN 0-517-65870-4. Downloaded from G Internet, G Internet.
+shobeshobe
+Nutrition
+View line-by-line Nutrition Insights™ : Discover which ingredients contribute the calories/sodium/etc.
+Disclaimer: Nutrition facts are derived from linked ingredients (shown at left in colored bullets) and may or may not be complete. Always consult a licensed nutritionist or doctor if you have a nutrition-related medical condition.
+Calories per serving : 302
+Get detailed nutrition information, including item-by-item nutrition insights, so you can see where the calories, carbs, fat, sodium and more come from.
+What would you serve with this? Link in another recipe .
+What to make this week
+Keep an eye out for original recipes from the BigOven Kitchen every week! SEE MORE >>
+BigOven Buzz
+Freshly baked content from the creators at BigOven Kitchen . Learn tried and true tips, ticks and methods.
+REVIEW THIS RECIPE
+REVIEWS
+There are no reviews yet. Be the first !

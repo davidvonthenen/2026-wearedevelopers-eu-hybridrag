@@ -1,0 +1,125 @@
+Monster Cookies
+===============
+
+Recipe Metadata
+---------------
+Recipe ID: d0681ed841cdad25
+CSV row number: 396
+Recipe name: Monster Cookies
+Source: BigOven
+URL: https://www.bigoven.com/recipe/monster-cookies/1385671
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/027ebf5023e7cea50fba93c6788e57e521cde932286486cd0fbc10dc32c2df60/21110525.jpg
+Servings: 36
+Calories: 9290.25
+Diet labels: Balanced, Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: biscuits and cookies
+
+Original CSV Fields
+-------------------
+recipe_name: Monster Cookies
+source: BigOven
+url: https://www.bigoven.com/recipe/monster-cookies/1385671
+servings: 36
+calories: 9290.252
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/027ebf5023e7cea50fba93c6788e57e521cde932286486cd0fbc10dc32c2df60/21110525.jpg
+diet_labels: ["Balanced","Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["biscuits and cookies"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Monster Cookies
+
+Description: not set
+
+Recipe category: Desserts
+
+Recipe cuisine: American
+
+Yield: 36
+
+Prep time: PT30M
+
+Cook time: PT30M
+
+Total time: PT30M
+
+Ingredients:
+- 1 1/2 cups Peanut Butter Creamy or Chunky
+- 1 cup Light brown sugar packed
+- 1 cup Granulated sugar
+- 8 tablespoon Unsalted butter 1-stick
+- 3 large Eggs
+- 1 tablespoon Vanilla extract
+- 4 1/2 cups Quick cooking oats
+- 2 teaspoon Baking Soda
+- 1 cup Semi-sweet Chocolate Chips
+- 1 cup M&M's plain chocolate candies
+
+Instructions:
+1. 1. Preheat oven to 350°F. Spray cookie sheets with nonstick spray, or line with parchment paper or a silpat mats. 2. In a large bowl, combine the peanut butter with the sugars and butter. Use an electric mixer to mix until well combined. Mix in the eggs and vanilla. Mix in the oats and baking soda. Then stir in the chips and M&M''s. 3. Drop the cookies by heaping spoonfuls onto the prepared cookie sheets. If you''d like your cookies to look pretty (like the photo), dot a few extra M&M''s and chocolate chips on each mound of dough before baking. 4. Bake 10 to 12 minutes. Do not overbake. Cool for 5 minutes on cookie sheets until cookies are set. Transfer to wire racks; cool completely before storing in an airtight container.
+
+Visible page text:
+Recipes
+Desserts
+Cookies and Bars
+Monster Cookies
+WANT TO TRY
+FAVORITE
+MADE
+CUSTOM FOLDER
+Try this Monster Cookies recipe, or contribute your own.
+Still searching for what to cook ?
+Find the most delicious recipes here
+Recipe
+Text
+Photos
+Nutr Nutrition
+Notes
+INGREDIENTS
+1 1/2 cups Peanut Butter ; Creamy or Chunky
+1 cup Light brown sugar ; packed
+1 cup Granulated sugar
+8 tablespoon Unsalted butter ; 1-stick
+3 large Eggs
+1 tablespoon Vanilla extract
+4 1/2 cups Quick cooking oats
+2 teaspoon Baking Soda
+1 cup Semi-sweet Chocolate Chips
+1 cup M&M's plain chocolate candies
+Copy and Customize
+About BigOven Pro
+INSTRUCTIONS
+1. Preheat oven to 350°F. Spray cookie sheets with nonstick spray, or line with parchment paper or a silpat mats.
+2. In a large bowl, combine the peanut butter with the sugars and butter. Use an electric mixer to mix until well combined. Mix in the eggs and vanilla. Mix in the oats and baking soda. Then stir in the chips and M&M''s.
+3. Drop the cookies by heaping spoonfuls onto the prepared cookie sheets. If you''d like your cookies to look pretty (like the photo), dot a few extra M&M''s and chocolate chips on each mound of dough before baking.
+4. Bake 10 to 12 minutes. Do not overbake. Cool for 5 minutes on cookie sheets until cookies are set. Transfer to wire racks; cool completely before storing in an airtight container.
+carolwood
+Nutrition
+View line-by-line Nutrition Insights™ : Discover which ingredients contribute the calories/sodium/etc.
+Disclaimer: Nutrition facts are derived from linked ingredients (shown at left in colored bullets) and may or may not be complete. Always consult a licensed nutritionist or doctor if you have a nutrition-related medical condition.
+Calories per serving : 243
+Get detailed nutrition information, including item-by-item nutrition insights, so you can see where the calories, carbs, fat, sodium and more come from.
+What would you serve with this? Link in another recipe .
+What to make this week
+Keep an eye out for original recipes from the BigOven Kitchen every week! SEE MORE >>
+BigOven Buzz
+Freshly baked content from the creators at BigOven Kitchen . Learn tried and true tips, ticks and methods.
+MORE IDEAS
+Putri Salju Pandan (Pandan-Flavored Indonesian "Snow White" ...
+Giant Monster Cookies
+REVIEW THIS RECIPE
+REVIEWS
+There are no reviews yet. Be the first !

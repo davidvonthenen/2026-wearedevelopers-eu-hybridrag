@@ -1,0 +1,86 @@
+Chocolate Apple Cake
+====================
+
+Recipe Metadata
+---------------
+Recipe ID: 27c8077ab78ccc32
+CSV row number: 473
+Recipe name: Chocolate Apple Cake
+Source: Foodista
+URL: http://www.foodista.com/recipe/44QVRYVW/chocolate-apple-cake
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/03115c5a61c431ac1ba3b4a051877195c1b5d54fee12f4310d664cd6cc2a51c8/21128186.jpg
+Servings: 8
+Calories: 5052.95
+Diet labels: High-Fiber, Low-Sodium
+Health labels: Vegetarian, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites, FODMAP
+Cuisine type: american
+Meal type: breakfast, lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Chocolate Apple Cake
+source: Foodista
+url: http://www.foodista.com/recipe/44QVRYVW/chocolate-apple-cake
+servings: 8
+calories: 5052.947333333334
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/03115c5a61c431ac1ba3b4a051877195c1b5d54fee12f4310d664cd6cc2a51c8/21128186.jpg
+diet_labels: ["High-Fiber","Low-Sodium"]
+health_labels: ["Vegetarian","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites","FODMAP"]
+cuisine_type: ["american"]
+meal_type: ["breakfast","lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Total Steps
+11
+Ingredients
+10
+Tools Needed
+3
+Related Article
+185 grams butter
+185 grams good quality dark chocolate
+1 1/2 cups sugar
+1 pod vanilla pod, seeds only
+1 cup flour
+2/3 cup self-raising flour
+1/2 cup almond flour
+2 pieces apples, small chunks
+1/2 tablespoon cinnamon (optional)
+3 eggs eggs
+Instructions
+Step 1
+<a href="/H3S4YV46">Preheat </a>the oven to 180° C
+Step 2
+Put the butter and chocolate in a double boiler and over low <a href="/XZFHRHHF">heat </a>let them <a href="/64W3NS5R">melt </a>slowly together. Once <a href="/64W3NS5R">melted </a>take of the <a href="/XZFHRHHF">heat </a>and let it <a href="/GZFHJC5K">cool </a>slightly.
+Step 3
+In a large bowl put the sugar, <a href="/FYFCQVPR">seeds </a>of the vanilla pod and the eggs together and <a href="/3CYMY2D7">whisk </a>until you have a light creamy mass.
+Step 4
+Add the flour, selfraising flour and almond flour and combine until it becomes an even mass.
+Step 5
+Add the <a href="/64W3NS5R">melted </a>chocolate/butter <a href="/7S3QCKWK">mix </a>and <a href="/DRM2WPZ4">stir </a>until everything is completely combined.
+Step 6
+If you want you <a href="/TPWNYF5L">can </a>sprinkle the apple chunks with cinnamon prior to adding them to the batter.
+Step 7
+Add the apple into the batter and <a href="/7S3QCKWK">mix </a>well.
+Step 8
+Line a <a href="/RNT367Z2">baking </a>tin with <a href="/RNT367Z2">baking </a>paper
+Step 9
+Put the batter into the tin up to roughly 3/4. It's heavy batter so will not rise a lot.
+Step 10
+<a href="/RNT367Z2">Bake </a>for about 35 minutes or until the <a href="/R34ZSY3M">top </a>of the cake feels firm to the touch.
+Step 11
+You <a href="/TPWNYF5L">can </a>check with a wooden pin but keep in mind that it needs to be moist inside!
+Tools & Equipment
+Tags
+Cookie Consent
+We use cookies to enhance your browsing experience, serve personalized content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies. Learn more

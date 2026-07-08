@@ -1,0 +1,81 @@
+Strawberry Slush
+================
+
+Recipe Metadata
+---------------
+Recipe ID: 45a9994d95fa58a0
+CSV row number: 214
+Recipe name: Strawberry Slush
+Source: Martha Stewart
+URL: https://www.marthastewart.com/340957/strawberry-slush
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01593c1496b64a284ec4c4738bdb3c99df3458e5d63dd5616759c7b9c1c3f5ed/20954153.jpeg
+Servings: 4
+Calories: 616.43
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Strawberry Slush
+source: Martha Stewart
+url: https://www.marthastewart.com/340957/strawberry-slush
+servings: 4
+calories: 616.4293333333334
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01593c1496b64a284ec4c4738bdb3c99df3458e5d63dd5616759c7b9c1c3f5ed/20954153.jpeg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Top Stories
+The No. 1 Fish to Eat
+Refrigerator Storage Mistakes
+24 Sweetened Condensed Milk Desserts
+Essential Italian Pasta Recipes
+Our 11 Most Popular Smoothie Recipes of All Time
+Blend one of these favorite smoothies for a healthy, delicious snack you can enjoy any time of day.
+Emily Laurae
+Smoothies pack all the healthy fruits, vegetables, and protein you need into a delicious blend that comes together in just minutes. Making homemade smoothies is simple, and they taste even better than store-bought smoothie packs. For more inspiration on smoothie combos to create at home, we've rounded up our best smoothie recipes, including both fruit and vegetable-based options, all packed with the good things.
+Banana-Blueberry Smoothie
+Jacob Fox
+With just three ingredients, this banana-blueberry smoothie is an all around winner. In addition to the fruits, all you need is nonfat plain yogurt— and your blender !
+Banana-Oat Smoothie
+Jason Donnelly
+Like many of our best smoothie recipes, this one is versatile. The recipe calls for old-fashioned rolled oats, but you can use quick-cooked oats if that’s what you have on hand. The low-fat yogurt and fat-free milk can also be substituted for any type of yogurt or milk, including non-dairy varieties.
+Avocado-Banana Smoothie
+Fresh tasting with a luscious mouthfeel, this is our favorite avocado smoothie—and it's vegan to boot. The green fruit makes it rich so there's no need for yogurt or other dairy, while the banana gives a delicate sweetness and creamy texture that's just what any smoothie needs.
+Pineapple and Ginger Smoothie
+Kelsey Hansen
+This smoothie is all about the pineapple. You can use fresh or frozen pineapple chunks, but frozen gives the drink a thicker, more luxurious flavor. The sweetness of the pineapple is tempered by the refreshing bite of fresh ginger, while low-fat yogurt adds protein, and a touch of cinnamon brings it all together.
+Peanut Butter Berry Smoothie
+Consider this dairy-free drink the smoothie version of a PBJ. There’s creamy peanut butter and frozen mixed berries, as well as banana and almond milk. No sweeteners are needed, a pinch of salt brings the flavors into harmony.
+Smoothie Parfait
+Jam-packed with superfoods that will keep you charged and ready to go for the day ahead, this smoothie parfait recipe is a winner. Plus, you can make it the night before so you can grab and go in the morning.
+Turmeric-Mango Smoothie
+Mangoes are full of nutrients and add a subtle tropical sweetness that makes this smoothie so delicious. But perhaps the winning ingredients here are fresh turmeric, an inflammation-fighting superfood, and a pinch of black pepper, which helps absorb all the antioxidants turmeric provides. Truly, a liquid gold!
+Orange-Vanilla Shake
+This sunny citrus smoothie is basically a more fiber-rich version of an Orange Julius. For a dairy-free version, you can use any milk alternative. Yogurt or even drinkable kefir can also add a touch of creaminess, just like a nostalgic orange Creamsicle pop.
+Martha's Favorite Green Juice
+Our founder's favorite immune-boosting treat. Celery, parsley, pears, orange, cucumber, and fresh ginger are blended together to create a cocktail of nutritious fruits and vegetables. However, it is so versatile, you can easily mix, match, and swap ingredients to give it your own flare.
+Berry-Banana Kefir Bowl
+Gut-friendly kefir makes a tangy, creamy foundation for this smoothie-in-a-bowl. The best part? You can customize it to your liking by adding healthy toppings, like fresh fruit, nuts, or seeds.
+Cucumber Blueberry Smoothie
+Brimming with antioxidants, this fresh-flavored smoothie will be a nice, cooling treat mid-summer or when you simply need a good-for-you breakfast that's quick and easy to blend.
+Food & Cooking
+Recipes
+Drink Recipes
+Smoothie Recipes
+Related Articles

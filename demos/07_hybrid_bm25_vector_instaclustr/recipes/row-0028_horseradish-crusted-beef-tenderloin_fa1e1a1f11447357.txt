@@ -1,0 +1,64 @@
+HORSERADISH CRUSTED BEEF TENDERLOIN
+===================================
+
+Recipe Metadata
+---------------
+Recipe ID: fa1e1a1f11447357
+CSV row number: 28
+Recipe name: HORSERADISH CRUSTED BEEF TENDERLOIN
+Source: shoppersfood.com
+URL: https://www.shoppersfood.com/recipes/view-recipe.17672.sd.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/001fd142989d7c67d0b228caef3fd8bc18be26126e44aa2e1940d9cb5e43c046/21131533.jpg
+Servings: 10
+Calories: 2651.05
+Diet labels: Low-Carb
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: HORSERADISH CRUSTED BEEF TENDERLOIN
+source: shoppersfood.com
+url: https://www.shoppersfood.com/recipes/view-recipe.17672.sd.html
+servings: 10
+calories: 2651.048226587786
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/001fd142989d7c67d0b228caef3fd8bc18be26126e44aa2e1940d9cb5e43c046/21131533.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Homepage
+Products
+Coupons
+Wallet
+Weekly Ad
+Shoppers Digital Deals
+1 of 0
+Pantry
+Health & Wellness
+Dairy & Frozen
+Fresh Foods
+Snacks
+All Coupons
+Baby Coupons
+Produce Coupons
+Pet Coupons
+Personal Care
+Beverage Coupons
+View All
+1
+of
+0

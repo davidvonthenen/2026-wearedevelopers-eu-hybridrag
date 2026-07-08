@@ -1,0 +1,106 @@
+Chardonnay Marinated Chicken or Pork
+====================================
+
+Recipe Metadata
+---------------
+Recipe ID: e680eb3e3dfa90c9
+CSV row number: 245
+Recipe name: Chardonnay Marinated Chicken or Pork
+Source: justapinch.com
+URL: https://www.justapinch.com/recipes/main-course/chicken/chardonnay-marinated-chicken-or-pork.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01872a2b29bd32d7a8fde4cc0faafd662c2c10bbae0693bd014e0d4e1832842c/21049398.jpeg
+Servings: 6
+Calories: 2851.38
+Diet labels: Low-Sodium
+Health labels: Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Chardonnay Marinated Chicken or Pork
+source: justapinch.com
+url: https://www.justapinch.com/recipes/main-course/chicken/chardonnay-marinated-chicken-or-pork.html
+servings: 6
+calories: 2851.383378386543
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01872a2b29bd32d7a8fde4cc0faafd662c2c10bbae0693bd014e0d4e1832842c/21049398.jpeg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Chardonnay Marinated Chicken or Pork
+
+Description: This marinade may be smilar to some others but it's still really simple and good! I use it for chicken breasts or porkloin chops on the grill. Marinate for an hour, overnight or freeze and thaw later.
+
+Recipe category: Chicken
+
+Recipe cuisine: American
+
+Yield: 4-6
+
+Prep time: PT1H
+
+Cook time: PT25M
+
+Ingredients:
+- 4-6 - chicken breasts or porkloin chops
+- MARINADE:2 clove(s) garlic, minced
+- 1 tablespoon(s) mrs. dash lemon pepper, garlic & herb or original seasoning blend
+- 1/2 teaspoon(s) black pepper, ground
+- 1/4 cup(s) olive oil, extra-virgin
+- 1 bottle(s) white wine, chardonnay (6-8oz mini bottles)
+- ## VEGGIES
+- 1 medium zucchini
+- 3 - green onions
+- 1/2 medium red bell pepper
+- 1/2 medium yellow bell pepper
+- 1/2 package(s) button mushrooms
+
+Instructions:
+1. Combine all of the ingredients listed in a gallon ziplock baggie and mix together well. Reserve 1/4 of marinade for grilled veggies.
+2. Place 4-6 chicken breasts or porkloin chops into the remaining marinade and refrigerate flat for 30 minutes to overnight. Turn the meat 1/2 way through marinate time. (I try to bring my meat close to room temp before cooking)
+3. Preheat BBQ grill and grill each side of chicken breasts or porkloin chops for 4-6 minutes until no longer pink inside. Do not over cook they will become dry.
+4. While meat is grilling chop fresh zucchini, button mushrooms, red & yellow bell pepper & green onion into bite size pieces
+5. Place veggies in foil and pour reserved marinade over these veggies. Grill for approximately 10 minutes and serve with pork or chicken.
+6. **Tip**
+purchase 4 pack mini bottles of white wine or red wine for cooking purposes to avoid opening an entire bottle of wine.
+
+Visible page text:
+chardonnay marinated chicken or pork
+This marinade may be smilar to some others but it's still really simple and good! I use it for chicken breasts or porkloin chops on the grill. Marinate for an hour, overnight or freeze and thaw later.
+Ingredients
+4-6 chicken breasts or porkloin chops
+MARINADE:2 clove garlic, minced
+1 tablespoon mrs. dash lemon pepper, garlic & herb or original seasoning blend
+1/2 teaspoon black pepper, ground
+1/4 cup olive oil, extra-virgin
+1 bottle white wine, chardonnay (6-8oz mini bottles)
+VEGGIES
+1 medium zucchini
+3 green onions
+1/2 medium red bell pepper
+1/2 medium yellow bell pepper
+1/2 package button mushrooms
+How To Make chardonnay marinated chicken or pork
+Step 1 Combine all of the ingredients listed in a gallon ziplock baggie and mix together well. Reserve 1/4 of marinade for grilled veggies.
+Step 2 Place 4-6 chicken breasts or porkloin chops into the remaining marinade and refrigerate flat for 30 minutes to overnight. Turn the meat 1/2 way through marinate time. (I try to bring my meat close to room temp before cooking)
+Step 3 Preheat BBQ grill and grill each side of chicken breasts or porkloin chops for 4-6 minutes until no longer pink inside. Do not over cook they will become dry.
+Step 4 While meat is grilling chop fresh zucchini, button mushrooms, red & yellow bell pepper & green onion into bite size pieces
+Step 5 Place veggies in foil and pour reserved marinade over these veggies. Grill for approximately 10 minutes and serve with pork or chicken.
+Step 6 **Tip**
+Last Step: Don't forget to share! Post a picture of your finished recipe here and on your favorite social
+network. Don't forget to tag Just A Pinch and include #justapinchrecipes!
+Discover More
+Comment & Reviews

@@ -1,0 +1,132 @@
+Crawfish Fettuccine I
+=====================
+
+Recipe Metadata
+---------------
+Recipe ID: 15e62c56ae92aec0
+CSV row number: 15
+Recipe name: Crawfish Fettuccine I
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/21173/crawfish-fettuccine-i
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0010d9c8e16ee51d60407812dc089bbecfb46c843e4abdc0c4cae6f06f7efaa8/21123204.jpg
+Servings: 8
+Calories: 4800.16
+Diet labels: none listed
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course, starter
+
+Original CSV Fields
+-------------------
+recipe_name: Crawfish Fettuccine I
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/21173/crawfish-fettuccine-i
+servings: 8
+calories: 4800.157095928837
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0010d9c8e16ee51d60407812dc089bbecfb46c843e4abdc0c4cae6f06f7efaa8/21123204.jpg
+diet_labels: []
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course","starter"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Crawfish Fettuccine I
+
+Description: One word -- delicious! This creamy dish will leave them begging for more. The crawfish and Cajun seasonings give a new twist to fettuccine.
+
+Recipe category: ['Dinner']
+
+Recipe cuisine: ['Southern']
+
+Yield: ['8', '8 servings']
+
+Prep time: PT15M
+
+Cook time: PT75M
+
+Total time: PT90M
+
+Ingredients:
+- 6 tablespoons butter
+- 1 large onion, chopped
+- 1 green bell pepper, chopped
+- 3 stalks celery, chopped
+- 1 clove garlic, minced
+- 1 tablespoon all-purpose flour
+- 1 pound peeled crawfish tails
+- 1 (8 ounce) package processed cheese food
+- 1 cup half-and-half cream
+- 2 teaspoons Cajun seasoning
+- 1 pinch cayenne pepper, or to taste
+- 1 pound dry fettuccine pasta
+- 0.5 cup grated Parmesan cheese
+
+Instructions:
+1. Melt the butter in a large skillet over medium heat. Cook onion, bell pepper, celery, and garlic in butter until onions are tender. Stir in flour, and cook for 5 to 10 minutes, stirring frequently. Stir in crawfish. Cover, and simmer for 15 to 20 minutes, stirring often.
+2. Stir in the processed cheese, half-and-half, Cajun seasonings, and cayenne pepper. Cover, and simmer for about 20 minutes, stirring occasionally.
+3. Meanwhile, bring a large pot of lightly salted water to a boil. Cook pasta in boiling water for 8 to 10 minutes, or until al dente; drain.
+4. Preheat oven to 350 degrees F (175 degrees C). Butter a 9x13 inch baking dish. Stir noodles into crawfish mixture; pour into prepared dish, and sprinkle with Parmesan cheese.
+5. Bake in a preheated oven for 20 minutes, or until hot and bubbly.
+
+Visible page text:
+Recipes
+Seafood
+Shellfish
+Crawfish
+Crawfish Fettuccine I
+One word -- delicious! This creamy dish will leave them begging for more. The crawfish and Cajun seasonings give a new twist to fettuccine.
+Why You'll Love This Recipe
+A creamy Cajun-spiced sauce with crawfish tails delivers authentic Louisiana-style flavor.
+Allrecipes reviewers value the straightforward steps that contribute to a successful recipe.
+"This is a great recipe that is easy to make and feeds a crowd." —Allrecipes member Brian Doster
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 8 servings
+6 tablespoons butter
+1 large onion, chopped
+1 green bell pepper, chopped
+3 stalks celery, chopped
+1 clove garlic, minced
+1 tablespoon all-purpose flour
+1 pound peeled crawfish tails
+1 (8 ounce) package processed cheese food
+1 cup half-and-half cream
+2 teaspoons Cajun seasoning
+1 pinch cayenne pepper, or to taste
+1 pound dry fettuccine pasta
+½ cup grated Parmesan cheese
+Directions
+Melt the butter in a large skillet over medium heat. Cook onion, bell pepper, celery, and garlic in butter until onions are tender. Stir in flour, and cook for 5 to 10 minutes, stirring frequently. Stir in crawfish. Cover, and simmer for 15 to 20 minutes, stirring often.
+Stir in the processed cheese, half-and-half, Cajun seasonings, and cayenne pepper. Cover, and simmer for about 20 minutes, stirring occasionally.
+Meanwhile, bring a large pot of lightly salted water to a boil. Cook pasta in boiling water for 8 to 10 minutes, or until al dente; drain.
+Preheat oven to 350 degrees F (175 degrees C). Butter a 9x13 inch baking dish. Stir noodles into crawfish mixture; pour into prepared dish, and sprinkle with Parmesan cheese.
+Bake in a preheated oven for 20 minutes, or until hot and bubbly.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Crawfish Fettuccine I
+1
+2
+Next
+Most-Saved Recipes Like This
+Cajun Seafood Pasta 1,227 Ratings 45 mins Save
+Creamy Cajun Chicken Pasta 3,169 Ratings 30 mins Save
+Creamy Chicken Fettuccine Alfredo 1,796 Ratings 45 mins Save
+Fettuccine with Sweet Pepper-Cayenne Sauce 1,157 Ratings 15 mins Save
+Cajun Crawfish and Shrimp Étouffée 592 Ratings 1 hr 10 mins Save
+Fettuccine Carbonara 553 Ratings 35 mins Save
+Blackened Shrimp Stroganoff 342 Ratings 45 mins Save
+Cajun Pasta Fresca 383 Ratings 25 mins Save
+Seafood Fettuccine 283 Ratings 35 mins Save
+Shrimp and Asparagus Fettuccine 142 Ratings 50 mins Save
+You’ll Also Love

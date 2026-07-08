@@ -1,0 +1,67 @@
+Rolled Egg
+==========
+
+Recipe Metadata
+---------------
+Recipe ID: fcc26f171edf1099
+CSV row number: 466
+Recipe name: Rolled Egg
+Source: chowtimes.com
+URL: https://chowtimes.com/2012/05/10/rolled-egg/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/030470c43e5c7fb6f89e06c2fff75d3e741202ceafec946b49414c71d025905e/21082546.jpg
+Servings: 4
+Calories: 254.20
+Diet labels: Low-Carb
+Health labels: Dairy-Free, Peanut-Free, Tree-Nut-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: south american
+Meal type: breakfast
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Rolled Egg
+source: chowtimes.com
+url: https://chowtimes.com/2012/05/10/rolled-egg/
+servings: 4
+calories: 254.1988
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/030470c43e5c7fb6f89e06c2fff75d3e741202ceafec946b49414c71d025905e/21082546.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Dairy-Free","Peanut-Free","Tree-Nut-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["south american"]
+meal_type: ["breakfast"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Post author: Suanne
+Post published: May 10, 2012
+Post category: Community Kitchen 2012
+Post comments: 0 Comments
+The last side dish which Kazuko demonstrated in the South Arm Community Kitchen is Rolled Egg.
+Rolled Egg is a popular bento box item and great for lunch box.
+Ingredients
+4 eggs
+Dashi bonito soup stock seasoning to taste (optional)
+soy sauce to taste
+Please note: the bonito flakes should not be in the photo
+Source: Kazuko
+Serves 4
+Instructions
+Season with a little dashi bonito soup stock seasoning if using.
+Season with soy sauce to taste.
+Use a paper towel to wipe off excess oil.
+Add enough beaten egg to form a thin layer.
+Swirl the egg to cover the pan.
+Slide the rolled egg to one end and add more egg mixture and repeat the rolling.
+You Might Also Like
+Roasted Cherry Tomato Salsa
+Miso Soup
+Millet and Cauliflower Casserole
+Leave a Reply Cancel reply

@@ -1,0 +1,174 @@
+Mini Baked Frittata with Potatoes, Bacon, Sharp Cheddar, and Green Onions
+=========================================================================
+
+Recipe Metadata
+---------------
+Recipe ID: 9a37335645fe9e18
+CSV row number: 160
+Recipe name: Mini Baked Frittata with Potatoes, Bacon, Sharp Cheddar, and Green Onions
+Source: fortheloveofcooking.net
+URL: https://fortheloveofcooking.net/2012/09/mini-baked-frittata-with-potatoes-bacon-sharp-cheddar-and-green-onions.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00fc02be4d0d020253870fceafc039d1d4016eacf6ea01fcf2ac55e5dfd6dcd2/21094786.jpg
+Servings: 1
+Calories: 431.15
+Diet labels: Balanced, High-Fiber
+Health labels: Gluten-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: breakfast
+Dish type: egg, main course
+
+Original CSV Fields
+-------------------
+recipe_name: Mini Baked Frittata with Potatoes, Bacon, Sharp Cheddar, and Green Onions
+source: fortheloveofcooking.net
+url: https://fortheloveofcooking.net/2012/09/mini-baked-frittata-with-potatoes-bacon-sharp-cheddar-and-green-onions.html
+servings: 1
+calories: 431.1498965278951
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00fc02be4d0d020253870fceafc039d1d4016eacf6ea01fcf2ac55e5dfd6dcd2/21094786.jpg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Gluten-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["breakfast"]
+dish_type: ["egg","main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Mini Baked Frittata with Potatoes, Bacon, Sharp Cheddar, and Green Onions
+
+Recipe category: ['Breakfast']
+
+Recipe cuisine: ['American']
+
+Yield: ['1']
+
+Prep time: PT5M
+
+Cook time: PT30M
+
+Total time: PT35M
+
+Ingredients:
+- 2 eggs (well-beaten)
+- 1-2 tsp milk
+- Sea salt and freshly cracked pepper (to taste)
+- 3-4 baby potatoes (sliced )
+- 1 piece of bacon (crumbled)
+- 1 tbsp sharp cheddar (grated)
+- 1 green onion (diced)
+
+Instructions:
+1. Preheat the oven to 350 degrees. Coat a mini baking dish with cooking spray.
+2. Slice the baby potatoes then cook them in a small pot of boiling water over high heat for 5-7 minutes or until fork-tender.
+3. Cook one slice of bacon until crisp in a skillet over medium heat then place on a paper towel to drain the grease; crumble.
+4. Mix the eggs with the milk until well combined then season with sea salt and freshly cracked pepper, to taste.
+5. Place some of the potatoes, bacon, cheddar, and green onions in the mini baking dish.
+6. Pour the egg mixture into the baking dish.
+7. Sprinkle the remaining potatoes, bacon, cheddar, and green onions on top.
+8. Place into the oven and bake for 20-25 minutes, or until a tester inserted into the center comes out clean.
+9. Remove from the oven and serve immediately. Enjoy.
+
+Visible page text:
+Don’t Miss a Single Recipe!
+Subscribe to receive new recipes straight to your inbox!
+I made this mini baked frittata with potatoes, bacon, sharp cheddar, and green onions for breakfast yesterday and absolutely loved it. I was craving a Peasant’s Omelet and a frittata so I decided to combine the two by making this mini frittata recipe. I loved everything about this little frittata and I can’t wait to make it again. Mini Baked Frittata with Potatoes, Bacon, Sharp Cheddar, and Green Onions Ingredients: 2 eggs, well-beaten 1-2 tsp milk Sea salt and freshly cracked pepper, to taste 3-4 baby potatoes, sliced 1 piece of bacon, crumbled 1 tbsp sharp cheddar, grated 1 green onion, diced How to Make a Mini Baked Frittata with Potatoes, Bacon, Sharp Cheddar, and Green Onions Preheat the oven to 350 degrees. Coat a mini baking dish with cooking spray. Slice the baby potatoes then cook them in boiling water over high heat for 5-7 minutes or until fork-tender. Cook one slice of bacon until crisp in a skillet over medium heat then place on a paper towel to drain the grease; crumble. Mix the eggs with the milk until well combined then season with sea salt and freshly cracked pepper, to taste. Place some of the potatoes, bacon, cheddar, and green onions in the mini baking dish . Pour the egg mixture into the baking dish, and sprinkle the remaining potatoes, bacon, cheddar, and green onions on top. Place into the oven and bake for 20-25 minutes, or until a tester inserted into the center comes out clean. Remove from the oven and serve immediately. Enjoy. Mini Baked Frittata with Potatoes, Bacon, Sharp Cheddar, and Green Onions Print Recipe Pin Recipe Rate Recipe Prep Time: 5 minutes minutes Cook Time: 30 minutes minutes Total Time: 35 minutes minutes Course: Breakfast Cuisine: American Servings: 1 Author: Pam / For the Love of Cooking Equipment Small Pot Small Baking Dish or Ramekin Ingredients 2 eggs well-beaten 1-2 tsp milk Sea salt and freshly cracked pepper to taste 3-4 baby potatoes sliced 1 piece of bacon crumbled 1 tbsp sharp cheddar grated 1 green onion diced Instructions Preheat the oven to 350 degrees. Coat a mini baking dish with cooking spray. Slice the baby potatoes then cook them in a small pot of boiling water over high heat for 5-7 minutes or until fork-tender. Cook one slice of bacon until crisp in a skillet over medium heat then place on a paper towel to drain the grease; crumble. Mix the eggs with the milk until well combined then season with sea salt and freshly cracked pepper, to taste. Place some of the potatoes, bacon, cheddar, and green onions in the mini baking dish . Pour the egg mixture into the baking dish. Sprinkle the remaining potatoes, bacon, cheddar, and green onions on top. Place into the oven and bake for 20-25 minutes, or until a tester inserted into the center comes out clean. Remove from the oven and serve immediately. Enjoy. DID YOU MAKE THIS RECIPE? Tag @4loveofcooking on instagram and hashtag it #4loveofcooking Save for later! Email a link to a friend (Opens in new window) Email Share on Mastodon (Opens in new window) Mastodon Share on Nextdoor (Opens in new window) Nextdoor
+I made this mini baked frittata with potatoes, bacon, sharp cheddar, and green onions for breakfast yesterday and absolutely loved it. I was craving a Peasant’s Omelet and a frittata so I decided to combine the two by making this mini frittata recipe. I loved everything about this little frittata and I can’t wait to make it again.
+Mini Baked Frittata with Potatoes, Bacon, Sharp Cheddar, and Green Onions
+2 eggs, well-beaten
+1-2 tsp milk
+Sea salt and freshly cracked pepper, to taste
+3-4 baby potatoes, sliced
+1 piece of bacon, crumbled
+1 tbsp sharp cheddar, grated
+1 green onion, diced
+How to Make a Mini Baked Frittata with Potatoes, Bacon, Sharp Cheddar, and Green Onions
+Preheat the oven to 350 degrees. Coat a mini baking dish with cooking spray.
+Slice the baby potatoes then cook them in boiling water over high heat for 5-7 minutes or until fork-tender.
+Cook one slice of bacon until crisp in a skillet over medium heat then place on a paper towel to drain the grease; crumble.
+Mix the eggs with the milk until well combined then season with sea salt and freshly cracked pepper, to taste.
+Place some of the potatoes, bacon, cheddar, and green onions in the mini baking dish .
+Pour the egg mixture into the baking dish, and sprinkle the remaining potatoes, bacon, cheddar, and green onions on top.
+Place into the oven and bake for 20-25 minutes, or until a tester inserted into the center comes out clean.
+Remove from the oven and serve immediately. Enjoy.
+Equipment
+Small Pot
+Small Baking Dish or Ramekin
+Ingredients
+2 eggs well-beaten
+Sea salt and freshly cracked pepper to taste
+3-4 baby potatoes sliced
+1 piece of bacon crumbled
+1 tbsp sharp cheddar grated
+1 green onion diced
+Instructions
+Slice the baby potatoes then cook them in a small pot of boiling water over high heat for 5-7 minutes or until fork-tender.
+Pour the egg mixture into the baking dish.
+Sprinkle the remaining potatoes, bacon, cheddar, and green onions on top.
+Save for later!
+Email a link to a friend (Opens in new window) Email
+Share on Mastodon (Opens in new window) Mastodon
+Share on Nextdoor (Opens in new window) Nextdoor
+Leave a Reply Cancel reply
+27 Comments
+How quick and easy and yet so palate pleasing! This is re-inventing eggs!!! Reply
+How quick and easy and yet so palate pleasing! This is re-inventing eggs!!!
+What size is your baking dish?? Reply Jen, They don’t have measurements on the baking dish but it holds a little over one cup of liquid. I hope this helps. Cheers, Pam
+What size is your baking dish??
+Jen, They don’t have measurements on the baking dish but it holds a little over one cup of liquid. I hope this helps. Cheers, Pam
+Jen,
+They don’t have measurements on the baking dish but it holds a little over one cup of liquid. I hope this helps.
+Cheers, Pam
+I love making single serving frittatas! Reply
+I love making single serving frittatas!
+This looks excellent!! Even picky picky husband will enjoy this (and that is saying something)!! Reply
+This looks excellent!! Even picky picky husband will enjoy this (and that is saying something)!!
+Delicious !!!! Reply
+Delicious !!!!
+Dear Pam, Another gorgeous looking dish, and amazing combination of flavours!! It looks ultra delicious!! Cheers and hope you have a fantastic weekend, Lia. Reply
+Dear Pam, Another gorgeous looking dish, and amazing combination of flavours!! It looks ultra delicious!! Cheers and hope you have a fantastic weekend, Lia.
+Can this be doubled or tripled without a problem. Reply Absolutely! Here is a large frittata recipe that you can use to help with the amount of eggs and baking time. I hope this helps. Cheers, Pam https://fortheloveofcooking.net/2011/10/brie-ham-potato-chive-and-tomato.html Thanks so much Pam. I want to make it for a brunch and also thanks for the larger recipe giving me an idea of the baking time. Love your recipes!
+Can this be doubled or tripled without a problem.
+Absolutely! Here is a large frittata recipe that you can use to help with the amount of eggs and baking time. I hope this helps. Cheers, Pam https://fortheloveofcooking.net/2011/10/brie-ham-potato-chive-and-tomato.html
+Absolutely! Here is a large frittata recipe that you can use to help with the amount of eggs and baking time. I hope this helps.
+https://fortheloveofcooking.net/2011/10/brie-ham-potato-chive-and-tomato.html
+Thanks so much Pam. I want to make it for a brunch and also thanks for the larger recipe giving me an idea of the baking time. Love your recipes!
+You are the QUEEN of baked eggs and frittatas, Pam! I have tried many of your egg recipes, and they have all been delicious. This frittata is no exception- I love everything about it! 🙂 Reply
+You are the QUEEN of baked eggs and frittatas, Pam! I have tried many of your egg recipes, and they have all been delicious. This frittata is no exception- I love everything about it! 🙂
+great cast of characters, pam! quadrupling this would make for a great brunch dish! Reply
+great cast of characters, pam! quadrupling this would make for a great brunch dish!
+You always make the best breakfasts!! They look so perfect and delicious every time!! I wish we were neighbors, I would bring over coffee every morning in hopes I would catch you making something like this! 🙂 Reply
+You always make the best breakfasts!! They look so perfect and delicious every time!! I wish we were neighbors, I would bring over coffee every morning in hopes I would catch you making something like this! 🙂
+Another great dish that seems perfect for Fall! Richard Reply
+Another great dish that seems perfect for Fall! Richard
+I love frittatas and never thought about making individual ones! Though now I simply must get some cute individual casserole type dishes! Reply
+I love frittatas and never thought about making individual ones! Though now I simply must get some cute individual casserole type dishes!
+delicious as it is pretty, and i love your dish! Reply
+delicious as it is pretty, and i love your dish!
+Ina Garten did a frittata like this, as well!! It makes for very good leftovers!!! Reply
+Ina Garten did a frittata like this, as well!! It makes for very good leftovers!!!
+What’s a peasant’s omelet? Reply
+What’s a peasant’s omelet?
+This is my type of breakfast/lunch! Homey, hearty and absolutely delicious. Reply
+This is my type of breakfast/lunch! Homey, hearty and absolutely delicious.
+Pam – you make the best baked egg dishes – you’re becoming my breakfast heroine. Reply
+Pam – you make the best baked egg dishes – you’re becoming my breakfast heroine.
+This looks delightful! I think I will need to try this, or at least some variation with the ingredients I have on hand. Reply
+This looks delightful! I think I will need to try this, or at least some variation with the ingredients I have on hand.
+Yum, perfect for Dining Alone! my husband hates eggs but I love them, this looks delicious. Reply
+Yum, perfect for Dining Alone! my husband hates eggs but I love them, this looks delicious.
+OMG is that the cutest little baker ever? Great recipe but dang that dish is an attention getter. Reply
+OMG is that the cutest little baker ever? Great recipe but dang that dish is an attention getter.
+WOW this sounds delicious! Reply
+WOW this sounds delicious!
+There’s a similar recipe on the the Eating Well web site. I have two suggestions. 1) you can microwave the potato to cook it and 2) I tend to throw in leftover (in my house, there never are a lot) cooked veggies from the night before. Ok, I lied, three suggestions: I also use egg beaters since I have high cholesterol but I love eggs. Reply
+There’s a similar recipe on the the Eating Well web site. I have two suggestions. 1) you can microwave the potato to cook it and 2) I tend to throw in leftover (in my house, there never are a lot) cooked veggies from the night before. Ok, I lied, three suggestions: I also use egg beaters since I have high cholesterol but I love eggs.
+I think this very delicious, I can not wait to try Reply
+I think this very delicious, I can not wait to try
+Made this dish much larger scale and was delicious, used ham instead of bacon, as I did not have any bacon at the time, will be making again loved it and really love your site. thanks for sharing Reply
+Made this dish much larger scale and was delicious, used ham instead of bacon, as I did not have any bacon at the time, will be making again loved it and really love your site. thanks for sharing

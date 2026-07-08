@@ -1,0 +1,122 @@
+Crockpot Lemon Rosemary Chicken
+===============================
+
+Recipe Metadata
+---------------
+Recipe ID: 06c783ea962c9280
+CSV row number: 219
+Recipe name: Crockpot Lemon Rosemary Chicken
+Source: stockpilingmoms.com
+URL: https://www.stockpilingmoms.com/crockpot-lemon-rosemary-chicken/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0160262e5c86b6bb8fb28c09475c416985dae609a492388ae75716414d7d634e/21131064.jpg
+Servings: 4
+Calories: 2717.34
+Diet labels: Low-Carb
+Health labels: Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Crockpot Lemon Rosemary Chicken
+source: stockpilingmoms.com
+url: https://www.stockpilingmoms.com/crockpot-lemon-rosemary-chicken/
+servings: 4
+calories: 2717.343
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0160262e5c86b6bb8fb28c09475c416985dae609a492388ae75716414d7d634e/21131064.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Crockpot Lemon Rosemary Chicken
+
+Description: We are loving this simple and healthy Crockpot Lemon Rosemary Chicken Freezer Meal that you can easily freeze and then prepare in your slow cooker.
+
+Recipe category: ['Slow Cooker']
+
+Yield: ['4', '4 people']
+
+Prep time: PT10M
+
+Cook time: PT480M
+
+Total time: PT490M
+
+Ingredients:
+- 1 cup chicken broth
+- 1/2 cup olive oil
+- 1 whole fresh lemon juiced
+- 2 cloves fresh garlic crushed and minced
+- 1 TBSP dried rosemary
+- 1/4 tsp. salt/pepper - optional
+- 4-6 whole boneless chicken breasts or skinless boneless chicken thighs (2 lbs.)
+
+Instructions:
+1. Salt and pepper both sides of chicken breasts
+2. Place all ingredients except for chicken broth into a freezer safe bag.
+3. Freeze.
+4. When ready to cook thaw in the refrigerator overnight.
+5. Place into the slow cooker with 1 cup of chicken broth and cook on low for 6-8 hours until done.
+
+Visible page text:
+35
+1.1K
+We are loving this simple and healthy Crockpot Lemon Rosemary Chicken Freezer Meal that you can easily freeze and then prepare in your slow cooker. Not only is it healthy it is delicious! It is simple to prepare. This recipe is Whole30 compliant and paleo plus it is naturally gluten free.
+As you know I have been eating Whole30 and just completed my third round. During this round I relied heavily on the slow cooker to prepare our meals because we had so many soccer games and end of the school year activities. This was a moist and delicious dinner that the entire family enjoyed.
+Be sure that you invest in a good quality slow cooker. Our favorite is this programmable cook and carry 6qt oval slow cooker . You can adjust this recipe to feed your family using 4-6 pieces of meat. I personally use 4 to feed my family of 3 with a leftover for lunch the next day. I use 2 lbs. of chicken in my recipe but you can adjust between 4-6 cuts of chicken.
+Simply salt and pepper both sides of chicken breasts Place all ingredients except for chicken broth into a freezer safe bag. Freeze. When ready to cook thaw in the refrigerator overnight. Place into the slow cooker with 1 cup of chicken broth and cook on low for 6-8 hours until done
+I served this chicken with roasted brussels sprouts and roasted potatoes. I hope your family enjoys this Crockpot Lemon Rosemary Chicken. It is light and healthy and soon to be a family favorite.
+Crockpot Lemon Rosemary Chicken
+Ingredients
+1 cup chicken broth
+1/2 cup olive oil
+1 whole fresh lemon juiced
+2 cloves fresh garlic crushed and minced
+1 TBSP dried rosemary
+1/4 tsp. salt/pepper - optional
+4-6 whole boneless chicken breasts or skinless boneless chicken thighs (2 lbs.)
+Instructions
+Salt and pepper both sides of chicken breasts
+Place all ingredients except for chicken broth into a freezer safe bag.
+Freeze.
+When ready to cook thaw in the refrigerator overnight.
+Place into the slow cooker with 1 cup of chicken broth and cook on low for 6-8 hours until done.
+MORE FREEZER MEAL RECIPES YOU MAY ENJOY:
+Slow Cooker Chicken Ranch Tacos
+Crockpot Freezer Citrus Chicken
+Crockpot Chinese Beef and Broccoli
+Slow Cooker Mexican Chili with Cornbread Topping
+Stockpiling Moms can be found in all your favorite places. Hop on over to Instagram and follow the fun. We love posting memes, family fun, travel, and whatever we are feeling that day. Pinterest is also an amazing place to visit Stockpiling Moms. This is where you can pin all your favorite articles from our Food, Travel & Lifestyle Blog.
+Melissa is a football and soccer mom who has been married to her best friend for 24 years. She loves sharing recipes , travel reviews and tips that focus on helping busy families make memories.
+Similar Posts
+8 Comments
+Hi! So this recipe is only for the chicken, not including the side dishes? Did you roast the vegetables separately, not in the crock pot? Thanks! Reply Yes, I roasted them in the oven. You could easily add veggies to this recipe. Green beans and potatoes would be good. Reply
+Hi! So this recipe is only for the chicken, not including the side dishes? Did you roast the vegetables separately, not in the crock pot? Thanks!
+Yes, I roasted them in the oven. You could easily add veggies to this recipe. Green beans and potatoes would be good. Reply
+Yes, I roasted them in the oven. You could easily add veggies to this recipe. Green beans and potatoes would be good.
+Is the cooking time different for thighs? I’m using two boneless skinless thighs in a 2 qt slow cooker so I’m guessing the time will be a bit shorter. Thanks! Reply Yes, those are smaller so I would reduce the time a bit. Reply
+Is the cooking time different for thighs? I’m using two boneless skinless thighs in a 2 qt slow cooker so I’m guessing the time will be a bit shorter. Thanks!
+Yes, those are smaller so I would reduce the time a bit. Reply
+Yes, those are smaller so I would reduce the time a bit.
+Can you add pasta? Reply Pasta can quickly turn into a mushy mess in the slow cooker. To keep the pasta from getting soggy, add the shells plus 1 cup of hot water (or maybe more, depending on how much liquid is already in the slow cooker) when there is 30 minutes left in the cooking time. Reply
+Can you add pasta?
+Pasta can quickly turn into a mushy mess in the slow cooker. To keep the pasta from getting soggy, add the shells plus 1 cup of hot water (or maybe more, depending on how much liquid is already in the slow cooker) when there is 30 minutes left in the cooking time. Reply
+Pasta can quickly turn into a mushy mess in the slow cooker. To keep the pasta from getting soggy, add the shells plus 1 cup of hot water (or maybe more, depending on how much liquid is already in the slow cooker) when there is 30 minutes left in the cooking time.
+Is there any reason I can’t use chicken breasts on the bone? They seem to hold their flavor better. Reply Oh you can for sure! I agree they do. In fact I most often use them because they cost less too. Reply
+Is there any reason I can’t use chicken breasts on the bone? They seem to hold their flavor better.
+Oh you can for sure! I agree they do. In fact I most often use them because they cost less too. Reply
+Oh you can for sure! I agree they do. In fact I most often use them because they cost less too.
+Leave a Reply Cancel reply
+This site uses Akismet to reduce spam. Learn how your comment data is processed .

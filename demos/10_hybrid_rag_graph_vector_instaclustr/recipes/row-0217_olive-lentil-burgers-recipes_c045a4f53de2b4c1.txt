@@ -1,0 +1,220 @@
+Olive Lentil Burgers recipes
+============================
+
+Recipe Metadata
+---------------
+Recipe ID: c045a4f53de2b4c1
+CSV row number: 217
+Recipe name: Olive Lentil Burgers recipes
+Source: Post Punk Kitchen
+URL: http://www.theppk.com/2010/12/olive-lentil-burgers/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/015c07ddd3b437ad4a59a03dada6f8dfbc0f1d7f169d0c56d32df5f0230ec259/21107289.jpeg
+Servings: 6
+Calories: 1085.88
+Diet labels: Balanced
+Health labels: Vegan, Vegetarian, Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Olive Lentil Burgers recipes
+source: Post Punk Kitchen
+url: http://www.theppk.com/2010/12/olive-lentil-burgers/
+servings: 6
+calories: 1085.884427660458
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/015c07ddd3b437ad4a59a03dada6f8dfbc0f1d7f169d0c56d32df5f0230ec259/21107289.jpeg
+diet_labels: ["Balanced"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Olive Lentil Burgers
+
+Description: Mediterranean-inspired lentil burgers with Kalamata olives, cremini mushrooms, and fresh herbs. Baked with a golden crust. A reader favorite since 2010.
+
+Recipe category: ['Burger', 'Sandwich']
+
+Recipe cuisine: ['Mediterranean']
+
+Yield: ['6', '6 servings']
+
+Prep time: PT20M
+
+Cook time: PT30M
+
+Total time: PT50M
+
+Ingredients:
+- Olive oil ((from 1 teaspoon to 2 tablespoons, your choice))
+- 1 small yellow onion (diced medium)
+- 1/2 lb cremini mushrooms (thinly sliced)
+- 3 cloves garlic (minced)
+- Fresh black pepper
+- 1/2 teaspoon dried thyme
+- 1/4 teaspoon dried tarragon
+- 1/2 cup pitted kalamata olives ((really, use any pitted olive you like))
+- 1 15 oz can cooked lentils (rinsed and drained (1 1/4 cups))
+- 1 cup breadcrumbs (divided)
+- 2 tablespoons soy sauce
+- 2 teaspoons fresh lemon juice
+- 1/4 teaspoon liquid smoke ((optional))
+- Cooking spray
+
+Instructions:
+1. Preheat oven to 350 F.
+2. Preheat a large, heavy bottomed pan non-stick (preferably cast iron) over medium high heat. Saute onion for about 3 minutes with a pinch of salt. Add mushroom, garlic, black pepper, thyme and tarragon and saute for 7 to 10 minutes, until mushroom is cooked.
+3. While mushroom is cooking, place olives in food processor and pulse until they are finely chopped (not pureed.) Remove from food processor and set aside. (No need to clean it out for the next step.)
+4. When mushrooms have cooked, add mushroom mixture to the food processor. Add all other ingredients except for 1/2 a cup of the breadcrumbs. (Did you hear me? Reserve 1/2 cup of the breadcrumbs, this will give them better texture.) Pulse until mostly smooth, but there should still be a little texture. Transfer to a large mixing bowl. Add the remaining 1/2 cup breadcrumbs to the burger mixture, along with the chopped olives, and thoroughly combine.
+5. Divide burger mix into 6 equal pieces. An easy way to do this is divide it in half, then cut each half into 3 basically equal portions. You can do that right in the bowl if it’s large enough.
+6. Line a baking sheet with parchment paper and spray with cooking spray. Form mixture into patties, spray with a little more cooking spray and bake for 15 minutes. Flip burgers and bake for 12 to 15 more minutes, until nicely browned.
+7. They taste great served immediately but they’re also excellent at room temperature so don’t be afraid to stuff into a sandwich and take as a lunch.
+
+Visible page text:
+Olive Lentil Burgers
+Isa Chandra
+December 29, 2010
+206 Comments
+4th Of July , Autumn , Beans , Comfort Food , Entrees , Fathers Day , Holiday , Low Fat , Pantry Friendly , Recipe , Sandwich , Season , Spring , Summer , Superbowl , Weeknight Supper , Winter
+This post may contain affiliate links. Read our disclaimer .
+Serves 6 Active time: 20 minutes || Total time: 45 minutes
+These are some of the best lentil burgers I’ve ever made, and they’ve been on the site since 2010 for good reason. Briny Kalamata olives, meaty mushrooms, and a little hit of fresh lemon make them taste like the Mediterranean on a bun. They bake up with a golden crust and hold together perfectly.
+I have a thing for veggie burgers that aren’t trying to be meat. Nothing wrong with a seitan burger, but sometimes you want a veggie burger that tastes like it. These are those burgers! Herby from the thyme and tarragon, briny from the olives, deliciously savory from the mushrooms.
+The mixture comes together in a food processor in minutes and bakes off in the oven. You can fry them if you want (I give directions), but baked is how I usually do it. Easier, less cleanup, and they still get a nice crust.
+These are great on a bun with classic fixings like lettuce, tomato, red onion, and dill pickles. But they really shine with Italian-inspired toppings. Roasted red pepper, a smear of pesto mayo, maybe some peppery arugula.
+Why These Vegan Lentil Burgers Are The Best (Over 200 Comments Can’t Be Wrong)
+This baked lentil burger recipe has been on the site since 2010 and people keep coming back. The comments are full of readers who made them the first time fifteen years ago and are still making them. That kind of longevity is the real review.
+Here’s what makes them work:
+Olives are irresistible. Kalamata olives bring salt, brine, and a rich savory quality that you can’t replicate with any other single ingredient. They get pulsed separately before the rest of the ingredients go in, so you get visible olive bits throughout the burger instead of a uniform purple-brown paste.
+The mushrooms add flavor and texture. Cremini mushrooms get sautéed down with garlic and fresh herbs, which concentrates their flavor and cooks off the moisture that would otherwise make the burgers fall apart. They also give the burgers a nice substantial bite.
+The breadcrumbs do double duty. Half go in the food processor with everything else to absorb moisture. The other half get folded in at the end for texture.
+Baked, Not Fried (But You Can Fry)
+These are baked lentil burgers. Baking is easier, cleaner, and you don’t have to stand over a pan flipping patties. A parchment-lined baking sheet, a little spray of oil on top, 30 minutes in a 350°F oven, and you get golden, crisp burgers that hold together.
+That said, you can absolutely fry them in a pan with a little olive oil if that’s your preference. About 10 to 12 minutes total, flipping once, until the outside is crisp and golden brown.
+If you like your burger with perfectly round, smooth sides, you can achieve that easily. Just pat your mixture into a 3-inch cookie cutter or a wide-mouth mason jar ring, press down to pack firmly, then lift the ring away, like this:
+Don’t worry about fingerprints in the burgers. They’ll flatten out when you flip them halfway through baking.
+How to Serve These Vegan Lentil Burgers
+Once the burgers come out of the oven, the fun starts.
+Grill the bun. Or toast it. A slightly charred bun is always better than a raw one. Brush with a little olive oil or vegan butter and warm it in a skillet or on a grill pan for about a minute.
+Classic fixings. Butter lettuce or leaf spinach, sliced tomato, red onion, dill pickles, a smear of vegan mayo, ketchup, mustard. The whole deal.
+Mediterranean style. This is where these burgers really shine. Roasted red peppers, a slather of pesto mayo (just mix pesto into vegan mayo, done), and a handful of peppery arugula or fresh parsley. For a Greek version, swap in a scoop of vegan tzatziki, a few extra Kalamata olives, sliced cucumber, and fresh dill.
+Throw one on top of a salad. Skip the bun entirely. These are sturdy enough to sit on top of a big bowl of greens with whatever vinaigrette and veggies you have around. A Greek salad with one of these on top is a full meal.
+Eat them cold. These are one of those rare veggie burgers that actually taste great at room temperature, so don’t feel locked into the hot-off-the-oven moment. Pack one for lunch the next day on a sandwich with a few extra fixings and call it the best desk lunch of your week.
+Vegan Lentil Burgers FAQ
+Can I make these lentil burgers gluten-free? You can. Swap the regular breadcrumbs for gluten-free breadcrumbs, or pulse gluten-free crackers or pretzels in the food processor until crumbly. Use a gluten-free bun to serve, obviously.
+Can I use different lentils? Yes. Canned lentils are easiest, but you can use cooked brown lentils or French green lentils (about 1¼ cups cooked from dry). You might need to add a little extra breadcrumbs to get the right texture since cooked-from-dry lentils can be a bit wetter. Do not use red lentils. They turn to mush and the burgers won’t hold together.
+Can I sub a different bean? Chickpeas work great here and give the burgers a slightly nuttier flavor. White beans also work. Black beans would be a flavor mismatch with the olives, but nothing is stopping you.
+Can I skip the olives? You can, but then they’re just lentil mushroom burgers. If you need to swap, try sun-dried tomatoes for a similar briny punch, or roasted red peppers with a pinch of extra salt.
+Can I skip the mushrooms? Sure. Finely chopped zucchini or eggplant work as substitutes. Sauté either down until most of the moisture is cooked off before adding.
+Can I add walnuts? Yes, and they’re a great addition. Toast about ½ cup of finely chopped walnuts and fold them in with the second round of breadcrumbs. Adds richness and a little extra texture.
+Can I freeze these? Absolutely. Cook first, then stack with squares of parchment paper between each burger so they don’t stick. Freeze in zip-top bags or containers. Reheat in a 375°F oven for about 10 minutes, or in a skillet with a little oil until warmed through and crispy again.
+Can I double the recipe? Please do. These make great leftovers and freeze beautifully.
+How did I end up here? You were probably searching for “lentil burgers,” “lentil burger recipe,” “olive lentil burgers,” or “mediterranean lentil burgers.” Maybe “vegan lentil burger” or “baked lentil burger.” This is the one that gets it right. You’re in the right place.
+More Homemade Veggie Burgers To Try
+Ingredients 1x 2x 3x
+Olive oil (from 1 teaspoon to 2 tablespoons, your choice)
+1 small yellow onion diced medium
+1/2 lb cremini mushrooms thinly sliced
+3 cloves garlic minced
+Fresh black pepper
+1/2 teaspoon dried thyme
+1/4 teaspoon dried tarragon
+1/2 cup pitted kalamata olives (really, use any pitted olive you like)
+1 15 oz can cooked lentils rinsed and drained (1 1/4 cups)
+1 cup breadcrumbs divided
+2 tablespoons soy sauce
+2 teaspoons fresh lemon juice
+1/4 teaspoon liquid smoke (optional)
+Cooking spray
+Instructions
+Preheat oven to 350 F.
+Preheat a large, heavy bottomed pan non-stick (preferably cast iron) over medium high heat. Saute onion for about 3 minutes with a pinch of salt. Add mushroom, garlic, black pepper, thyme and tarragon and saute for 7 to 10 minutes, until mushroom is cooked.
+While mushroom is cooking, place olives in food processor and pulse until they are finely chopped (not pureed.) Remove from food processor and set aside. (No need to clean it out for the next step.)
+When mushrooms have cooked, add mushroom mixture to the food processor. Add all other ingredients except for 1/2 a cup of the breadcrumbs. (Did you hear me? Reserve 1/2 cup of the breadcrumbs, this will give them better texture.) Pulse until mostly smooth, but there should still be a little texture. Transfer to a large mixing bowl. Add the remaining 1/2 cup breadcrumbs to the burger mixture, along with the chopped olives, and thoroughly combine.
+Divide burger mix into 6 equal pieces. An easy way to do this is divide it in half, then cut each half into 3 basically equal portions. You can do that right in the bowl if it’s large enough.
+Line a baking sheet with parchment paper and spray with cooking spray. Form mixture into patties, spray with a little more cooking spray and bake for 15 minutes. Flip burgers and bake for 12 to 15 more minutes, until nicely browned.
+They taste great served immediately but they’re also excellent at room temperature so don’t be afraid to stuff into a sandwich and take as a lunch.
+I Want To Hear From You!
+If you tried this recipe or have any questions or comments, please comment below and I’ll get back to you ASAP!
+OMG. I must try these.
+That is my New Year’s Eve dinner sorted yum!!
+What could an olive hater sub? I really cannot get over the fact that olives taste & smell like dirty feet… Any ideas?
+Not really a sub, but a roasted red pepper would taste great, I think. Add some salt, though. 1/4 teaspoon? And you must have tasted some delicious dirty feet in your time if you think they taste like olives!
+Momo, i don’t like olives either.how about walnuts and red bell pepper?
+Now I *must* get a burger cutter/shaper/thingy
+These look amazing! Breadcrumbs: homemade or storebought or does it matter?
+can’t wait to try them!
+The olive/ lentil combo sounds so yummy, but I seriously don’t like mushrooms. (I know that I am probably the only vegan in the world who hates mushrooms.) I’m going to be a pain and ask if there is anything that I can use instead of the mushrooms.
+How about zucchini? Eggplant doesn’t sound bad either.
+Jessy – you are the second vegan in the world who hates mushrooms. I have always considered it something of a birth defect in myself… Maybe some diced up eggplant instead?
+Where do you find canned lentils?
+If not olives – how about sundried tomato? Then again, I bet sundried tomato AND olives would be amazing!
+That’s a great idea!
+This recipe looks wonderful but of more importance… Is amazon deceiving me? Are you and Terry really releasing another cookbook next year?
+A dessert cookbook of some kind, to complete our trilogy! Then I’m gonna take a break.
+Wow, those look tasty. I’ve been trying to coax my family into trying some veggie stuff. This sounds like something they would love! Thanks PPK!
+They look tasty! 🙂
+Yum yum yum! Great to know that there are fellow veggie-veggie burger vegan friends out there. Fake meat is wierd, lentils are the bestest 🙂
+Mmmmm! I so love French lentils with mushrooms! I’m making these today! Thanks Isa! Laura, you can cut out the bottom of a kitty food can and use that if you have an obligate carnivore in residence.
+Thanks for responding to your readers, first of all. Next, made these already and whoosh…gone (served at a small party last night); need I say more? Finally, you are such a good writer of creative non-fiction (eg your cookbooks, blog writing , etc), how about short stories involving the lives and carryings-on of a vegan person/s? There could be a niche market for this thus far non-existent genre. Just an idea for the new year.
+Thank, Gina! I’m actually considering something that isn’t exactly a cookbook and your idea is not that far off.
+Oh yeah! Those look great. Pesto and roasted red peppers.. I think I would die of happiness.
+Hi, just wondering what I could substitute for breadcrumbs…. I’m avoiding wheat etc… it makes life difficult when you need to bind ingredients.. is there any type of flour (don’t use gluten free mixes, is seems so processed) that wouldn’t overwhelm the taste and texture… great book by the way!! Thanks
+I like to use gluten free pretzels as bread crumbs. Just whiz em into crumbs in the food processor.
+I do believe I’ll be making these. According to my calculations, pre-oil spray for baking, these are about 180 calories each. Not bad! http://paste.pocoo.org/show/312811/
+yum. I am going to make these today!
+thank you for continuing to post recipes…i’ve made so many of your things lately (including stuff from ‘vegan w/a vengeance’) that i feel like i should be sending you a thank you card or something : )
+Holy cremini, I didn’t even see this and just made something similar using the vcon chickpea cutlet as inspiration. http://www.vegandance.blogspot.com I’ll totally try these veggie burgers. Great tip with the molds. They look fantastic!
+I made these last night. Love ’em! Thanks for the recipe Isa. …and you’re right about the red lentils. Mushy is an understatement. Oops. As for canned lentils… no such thing in my neck of the woods, unless you are ok with canned lentil soup. So, my husband cooked up a small batch of regular brown lentils, nothing fancy with a bay leaf, pinch of salt and a clove of garlic (I think). I use a wide-mouth mason jar as my cookie cutter. The patties came out smaller than your average, but it’s funner to snack on them…
+[…] The olive lentil burger recipe comes from IsaChandra’s blog, the Post Punk Kitchen. […]
+Thanks for the recipe. I didn’t have mushrooms (!!!), so I used about a cup of leftover rice. They turned out great and I will try them again with mushrooms.
+Thank you for all the work you do. I have used my Veganomican book to the point that some pages are on the verge of needing replacements. Keep up the work!
+@Laura in Taos, I used a canning ring from a wide mouth jar. Worked great! These were a little bland to me when I put them on a bun. I’ll spice them up and bit next time and give them another try.
+Oh wow! These sounds yummy! I’m not huge on mushrooms, but I’d still love to try these just the way they are. I like the recipe because it seems like it would be very versatile.
+I also am going to add that I totally agree with you I like to have a veggie burger that isn’t made to be like meat!
+use a hot banana,chili sauce instead of tomato sauce
+YUM! I made these last weekend (with portobellos and boil-your-own-beans: got to work with what I got). Just ate another of the batch for my lunch at work and it was so good I had to thank you. If anything the texture improved from hanging out in the fridge for a few days. I wish I had more . . I only made a batch of 5 instead of 6 because I am a little piggy!
+Y’know, putting aside the amazing things you’ve managed to do with food, there are some really nicely shot pictures on this site. I love taking a picture or two before we sit down to eat at home. It’s always satisfying to make the non-vegans in our lives jealous. We have the Veganomicon at home and it’s been super-useful, especially when my boyfriend and I first got started vegan cooking. But I gotta say, love this site for the pictures. I want to make everything! Starting with these burgers….
+Thank you so much! I love taking the pictures but really don’t like the technical part of photography.
+When you say a half-pound of mushrooms, is that half-pound with the stems on, at the store, or half-pound with the stems off, in the kitchen?
+It’s a half pound at the store…however, I use the stems in this recipe. I only slice of a tiny nub if it seems particularly woodsy.
+THANK YOU i really feel like this is a recipe i will use for the rest of my life!!! please please please come to england and make dumb british people more accepting to vegans, which they might be if they got to know you and your awesome food!
+I’m also a vegan who doesn’t like mushrooms! Mushrooms taste like dirt to me. I hate the texture of portobello mushrooms. Thanks for this veggie burger recipe that doesn’t mimic meat…. thank you and thank you!
+I just made this an loved it! Perfect veggie burger recipe: no falling apart and very versatile!
+I made these yesterday and they are the best ever! I just wish I’d doubled the recipe since they will be gone in no time. Thank you!
+[…] made veggie burgers early this week, with cannellini beans instead of lentils and stuffed green olives instead of […]
+I went with frying them and eating them with selfmade naan bread like a kebap/ burger hybrid. Extremely tasty. I cooked the lentils and used canned mushrooms. The olives add plenty of taste to the burgers. Great!
+ok i just made these burgers but i also added parsley and i substituted the lemon with some vinegar and the olives with carrots! yummy! (tip: when boiling the lentils i added some orange zest, vitmain c helps absorb the iron and also gives a great taste!)
+yay! i love it when people have vegan recipes for things that dont involve fake meat. I dont like meat, why would i want fake meat?
+I’m cooking them up right now, and they look and smell so delicious. The best thing about these vegan burgers is that you can munch on the patty mixture before it goes in the oven! yummy!
+[…] Recipe: (adapted from Post Punk Kitchen) […]
+I made the burgers three times already and I love them! Last time, I cooked half lentils, half quinoa (I added the quinoa after 20 minutes of cooking the lentils and cooked them together for another 20 minutes) and really enjoyed it. It never came to my mind to bake burgers. Great suggestion! I just got two of your books, they are wonderful. A big thank you from Germany.
+[…] Olive Lentil Burgers […]
+Pesto is seconded. Although adding pepper is nice too, I might even go daring and add something even sweeter…chopped dried apricot. Don’t knock it ’til ya try it.
+I’m living in Beijing sans oven, so baking’s not an option. Perchance I’ll try these stove-top though! Thanks, Joanna
+[…] labu laiku atliku ļoti vilinošo lēcu-olīvu burgeru gatavošanu no Post Punk Kitchen lapas, par kuras esamību man jo laipni atgādināja Gunta (un […]
+[…] Dose, aber das war vermutlich bereits der Anfang, der mich letztlich zu so wunderbaren Rezepten wie diesem gebracht hat. Gefunden habe ich es zufällig über StumbleUpon bei The Post Punk Kitchen. Dieser […]
+Oh wow! All my favourite things rolled up at pattied. I’m so making these tomorrow. Think my mushroom hating husband will be able to detect my treachery?
+This has become one of my new favorite recipes! Thank you for sharing it with the masses.
+If you love vegan cooking from scratch, you’re in the right place. I’m a Brooklyn-born chef and cookbook author who’s been cooking vegan since the late ’80s.
+I’ve always felt that food is all about comfort, creativity, and cravings. Join me, and let’s cook like nobody’s watching <3
+Cookbooks
+Latest Recipes
+Strawberry Rosewater Cobbler with Lemon Poppy Seed Pastry
+Bow Tie Pasta Salad With Butter Beans And Dill
+Easy Breezy Cheesy Sauce (oil-free + nut-free)
+Chocolate Frosty Milkshake with Whippity Whip
+postpunkkitchen
+Search Recipes
+Search Recipe Index

@@ -1,0 +1,98 @@
+Cheesy Chicken
+==============
+
+Recipe Metadata
+---------------
+Recipe ID: e6931eccd54904ca
+CSV row number: 464
+Recipe name: Cheesy Chicken
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/15811/cheesy-chicken
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/03000fb65c21455fd572f9bb3bb245a15afc3bb7ab1a8a2dcf9097432e98b8fb/21040162.jpg
+Servings: 6
+Calories: 3107.25
+Diet labels: High-Protein, Low-Carb
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Cheesy Chicken
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/15811/cheesy-chicken
+servings: 6
+calories: 3107.248853779688
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/03000fb65c21455fd572f9bb3bb245a15afc3bb7ab1a8a2dcf9097432e98b8fb/21040162.jpg
+diet_labels: ["High-Protein","Low-Carb"]
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Cheesy Chicken
+
+Description: Spread cream of celery soup over chicken breasts, sprinkle with cheddar cheese, finish with a layer of croutons, and bake. Voila. Reheats well in the microwave.
+
+Recipe category: ['Dinner']
+
+Yield: ['6', '6 servings']
+
+Total time: PT0M
+
+Ingredients:
+- 6 skinless, boneless chicken breast halves
+- 1 (10.75 ounce) can condensed cream of celery soup
+- 8 ounces shredded Cheddar cheese
+- 1 cup croutons
+
+Instructions:
+1. Preheat oven to 350 degrees F (175 degrees C).
+2. Place chicken breasts in a 9x13 inch baking dish. Spread soup over chicken, sprinkle cheese over soup and top with croutons.
+3. Bake at 350 degrees F (175 degrees C) for 45 to 50 minutes or until chicken is cooked through and no longer pink inside.
+
+Visible page text:
+Recipes
+Meat and Poultry
+Chicken
+Chicken Breast
+Cheesy Chicken
+A delicious, quick recipe. Your family will absolutely love it! It is almost as good leftover, too - quickly heated in the microwave.
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 6 servings
+6 skinless, boneless chicken breast halves
+1 (10.75 ounce) can condensed cream of celery soup
+8 ounces shredded Cheddar cheese
+1 cup croutons
+Directions
+Preheat oven to 350 degrees F (175 degrees C).
+Place chicken breasts in a 9x13 inch baking dish. Spread soup over chicken, sprinkle cheese over soup and top with croutons.
+Bake at 350 degrees F (175 degrees C) for 45 to 50 minutes or until chicken is cooked through and no longer pink inside.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Cheesy Chicken
+1
+Most-Saved Recipes Like This
+Cheddar Baked Chicken 1,913 Ratings 45 mins Save
+Garlic Cheddar Chicken 3,171 Ratings 55 mins Save
+Savory Chicken Breasts 1,217 Ratings Save
+Creamy Chicken Enchiladas 4,557 Ratings 55 mins Save
+Smothered Chicken Breasts 822 Ratings 35 mins Save
+Chicken Enchiladas with Cream of Chicken Soup 1,532 Ratings 45 mins Save
+Jennie's Heavenly Slow Cooker Chicken 931 Ratings 4 hrs 5 mins Save
+Easy Cheesy Chicken I 860 Ratings 8 hrs 15 mins Save
+Slow Cooker Dump and Go Cheesy Chicken 497 Ratings 6 hrs 5 mins Save
+Delicious Chicken Casserole 563 Ratings 1 hr 30 mins Save
+You’ll Also Love

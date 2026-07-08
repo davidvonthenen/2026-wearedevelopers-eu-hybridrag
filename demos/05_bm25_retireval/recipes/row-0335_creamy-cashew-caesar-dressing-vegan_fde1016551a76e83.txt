@@ -1,0 +1,81 @@
+Creamy Cashew Caesar Dressing [Vegan]
+=====================================
+
+Recipe Metadata
+---------------
+Recipe ID: fde1016551a76e83
+CSV row number: 335
+Recipe name: Creamy Cashew Caesar Dressing [Vegan]
+Source: bakedgreens.com
+URL: http://www.bakedgreens.com/creamy-cashew-caesar-dressing-vegan/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0219a756190611737b1ae40c114bac39aee7c3d089dad8879ca769f29c38fe8e/21097406.jpg
+Servings: 6
+Calories: 1092.93
+Diet labels: Low-Carb
+Health labels: Vegan, Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Creamy Cashew Caesar Dressing [Vegan]
+source: bakedgreens.com
+url: http://www.bakedgreens.com/creamy-cashew-caesar-dressing-vegan/
+servings: 6
+calories: 1092.93175
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0219a756190611737b1ae40c114bac39aee7c3d089dad8879ca769f29c38fe8e/21097406.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Vegan","Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Share this:
+Share on X (Opens in new window) X
+Share on Facebook (Opens in new window) Facebook
+Share on Pinterest (Opens in new window) Pinterest
+This thick, creamy, cashew-based caesar dressing is made right in a blender for the perfect dairy-free, egg-free, vegan-friendly ceasar dressing filled with the quintessential briney, salty, creamy, cheesy elements as the classic. Toss with romaine and top with croutons for the perfect Caesar salad!
+Caesar salad lovers, unite!
+Today we’re making caesar dressing without any anchovies, egg yolk, or parmesan cheese, while still managing to capture the thick, creamy, rich, salty, garlicky flavor profile that transforms a big bowl of romaine lettuce into a crowd-pleasing salad.
+It’s kind of amazing how good this dressing is.
+Here’s what you’ll need to make it:
+Raw Cashews. These provide the thick, creamy, neutral-flavored base of the dressing. Make sure you soak them first, either in cold water for a few hours (or up to overnight), or in boiling water for 15 minutes before using. Soaking helps soften up the cashews and ensures the dressing is completely smooth.
+Capers . For that briney, salty umami flavor that typically comes from anchovies. We’re going to use both the capers and a few tablespoons of the salty, vinegary brine they’re packed in for maximum flavor.
+Nutritional Yeast. For a complex, subtly cheesy flavor profile. We’re only using a tablespoon in this recipe…a little goes a long way!
+Lemon Juice. To add acidity and bright, fresh tart flavor to this dressing.
+Olive Oil. Just a little bit of extra virgin olive oil makes this dressing extra luscious. We only need two tablespoons of oil to achieve the right consistency!
+Garlic, Dijon, Salt, and Pepper . For allll the flaaaaaavor. These are classic caesar dressing additions and the flavor just wouldn’t be complete without them!
+Water . To thin it out and help everything blend together well.
+That’s it! Just 10 ingredients (most of which I’m guessing you already have in your kitchen like olive oil, water, salt, pepper, dijon, and garlic) get unceremoniously dumped into a blender and whizzed up until creamy.
+The final product? A super luscious, creamy, garlicky salad dressing that is unnoticeably dairy-free/egg-free/vegan; when tossed with crunchy romaine and topped with homemade garlicky croutons , it just tastes like, well, caesar salad. Really good caesar salad, if I do say so myself.
+And, don’t let the fact that this is salad dressing stop you from using it in other places. We’re loving this as a spread for sandwiches and wraps, as a drizzle on top of burrito bowls, and as a dip for veggies. I even love it tossed with shredded cabbage as a fun fusion of caesar salad and coleslaw.
+If you’re a fan of ceasar salads, you are going to FLIP over this quick + easy version made with cashews and capers. Despite being all wrong, it tastes so right.
+If you make this recipe, let me know how it turns out! Leave a comment below, or take a picture of your Creamy Cashew Caesar Dressing and share it with me on Instagram so I can see!
+Creamy Cashew Caesar Dressing [Vegan]
+Time: 15 minutes Yields: 1 1/2 cups
+Ingredients :
+1 cup raw cashews
+1/4 cup fresh lemon juice (from 1-2 large lemons)
+2 Tablespoons extra virgin olive oil
+2 Tablespoons capers
+2 Tablespoons caper brine (the liquid the capers are in!)
+1 Tablespoon nutritional yeast
+2 garlic cloves, peeled
+1 teaspoon dijon mustard
+1/4 teaspoon black pepper
+Sea salt, to taste
+Instructions :
+First, soak your cashews. This can be done by covering them in almost-boiling water and letting them sit for 15 minutes, or by covering them in cold water and letting them sit for 3-4 hours at room temperature, or up to 24 hours in the fridge.
+Drain and rinse the soaked cashews, then add them to the bowl of a food processor or high powered blender with all remaining ingredients. Blend on high until smooth, about 1-2 minutes. Taste and add salt, a pinch at a time, until the dressing tastes salty enough for your tastebuds. The caper brine adds a good amount of salt to begin with, so you may find you only need a pinch or two to get it tasting right.
+Transfer caesar dressing to a jar with a lid, and store in the fridge for up to a week. Toss with chopped romaine for a classic caesar, or use as a spread, dip, or sauce.
+Be sure to check out my Shop page to purchase some of my favorite ingredients and kitchen equipment used in this recipe!

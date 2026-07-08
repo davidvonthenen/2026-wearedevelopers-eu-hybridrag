@@ -1,0 +1,119 @@
+Sour Cream Cookies
+==================
+
+Recipe Metadata
+---------------
+Recipe ID: 8c0bb24fe9e7c0e4
+CSV row number: 300
+Recipe name: Sour Cream Cookies
+Source: BigOven
+URL: https://www.bigoven.com/recipe/sour-cream-cookies/666646
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01e2b97527eb806a328592fa5f942e8de5bba8c82a59a859127c1e4fea129136/21125734.jpg
+Servings: 48
+Calories: 3827.56
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: snack
+Dish type: biscuits and cookies
+
+Original CSV Fields
+-------------------
+recipe_name: Sour Cream Cookies
+source: BigOven
+url: https://www.bigoven.com/recipe/sour-cream-cookies/666646
+servings: 48
+calories: 3827.556
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01e2b97527eb806a328592fa5f942e8de5bba8c82a59a859127c1e4fea129136/21125734.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["biscuits and cookies"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Sour Cream Cookies
+
+Description: Wow!
+
+Recipe category: Desserts
+
+Recipe cuisine: not set
+
+Yield: 48
+
+Prep time: PT30M
+
+Cook time: PT3H30M
+
+Total time: PT4H
+
+Ingredients:
+- 3 Eggs
+- 2 cups Sugar
+- 1 cup Butter softened
+- 1 cup Sour cream
+- 2 tsp Baking soda
+- pinch Salt
+- 1 tsp Vanilla
+- 5 Cups All purpose flour
+
+Instructions:
+1. Mix together the eggs, sugar, butter and sour cream. Add vanilla. Mix salt and soda with 2 cups of the flour. Mix in. Then add enough flour to handle the dough (2-3 cups). Dough will be sticky. Chill 2-3 hours or overnight. Roll dough to 3/8"thickness and cut shapes. Bake at 350° for 10-12 minutes or until slightly golden. Cool, ice and decorate.
+
+Visible page text:
+Recipes
+Desserts
+Cookies and Bars
+Sour Cream Cookies
+WANT TO TRY
+FAVORITE
+MADE
+CUSTOM FOLDER
+Wow!
+Still searching for what to cook ?
+Find the most delicious recipes here
+Recipe
+Text
+Photos
+Nutr Nutrition
+Notes
+INGREDIENTS
+3 Eggs
+2 cups Sugar
+1 cup Butter ; softened
+1 cup Sour cream
+2 tsp Baking soda
+pinch Salt
+1 tsp Vanilla
+5 Cups All purpose flour
+Copy and Customize
+About BigOven Pro
+INSTRUCTIONS
+Mix together the eggs, sugar, butter and sour cream. Add vanilla. Mix salt and soda with 2 cups of the flour. Mix in. Then add enough flour to handle the dough (2-3 cups). Dough will be sticky. Chill 2-3 hours or overnight.
+Roll dough to 3/8"thickness and cut shapes. Bake at 350° for 10-12 minutes or until slightly golden. Cool, ice and decorate.
+joannesaundersshields
+Nutrition
+View line-by-line Nutrition Insights™ : Discover which ingredients contribute the calories/sodium/etc.
+Disclaimer: Nutrition facts are derived from linked ingredients (shown at left in colored bullets) and may or may not be complete. Always consult a licensed nutritionist or doctor if you have a nutrition-related medical condition.
+Calories per serving : 157
+Get detailed nutrition information, including item-by-item nutrition insights, so you can see where the calories, carbs, fat, sodium and more come from.
+What would you serve with this? Link in another recipe .
+What to make this week
+Keep an eye out for original recipes from the BigOven Kitchen every week! SEE MORE >>
+BigOven Buzz
+Freshly baked content from the creators at BigOven Kitchen . Learn tried and true tips, ticks and methods.
+MORE IDEAS
+Putri Salju Pandan (Pandan-Flavored Indonesian "Snow White" ...
+Best Soft Sugar Cookies
+Grandma's Sour Cream Cookies
+REVIEW THIS RECIPE
+REVIEWS

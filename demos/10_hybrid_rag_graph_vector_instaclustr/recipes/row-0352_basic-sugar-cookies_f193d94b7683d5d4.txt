@@ -1,0 +1,158 @@
+Basic Sugar Cookies
+===================
+
+Recipe Metadata
+---------------
+Recipe ID: f193d94b7683d5d4
+CSV row number: 352
+Recipe name: Basic Sugar Cookies
+Source: Delish
+URL: http://www.delish.com/cooking/recipe-ideas/recipes/a34831/basic-sugar-cookies-recipe-wdy1212/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02404d0c98e4d8ad57921d490356ee5fce996bdad5a27cc5f746a55f6dab833d/21113087.jpg
+Servings: 50
+Calories: 3550.16
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: snack
+Dish type: biscuits and cookies
+
+Original CSV Fields
+-------------------
+recipe_name: Basic Sugar Cookies
+source: Delish
+url: http://www.delish.com/cooking/recipe-ideas/recipes/a34831/basic-sugar-cookies-recipe-wdy1212/
+servings: 50
+calories: 3550.157
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02404d0c98e4d8ad57921d490356ee5fce996bdad5a27cc5f746a55f6dab833d/21113087.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["biscuits and cookies"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Gingerbread Cookies
+
+Description: This Christmas, we have everything you'll need to master this classic gingerbread cookie recipe for ideal soft and adorable cookies.
+
+Recipe category: ['nut-free', 'Christmas', 'food gift', 'winter', 'baking', 'dessert']
+
+Recipe cuisine: ['American']
+
+Yield: 25 serving(s)
+
+Prep time: PT15M
+
+Cook time: PT0S
+
+Total time: PT3H15M
+
+Ingredients:
+- 3/4 c. (1 1/2 sticks)&nbsp;butter, softened
+- 3/4 c. packed brown sugar
+- 2/3 c. molasses
+- 1 large egg
+- 1 tsp. pure vanilla extract
+- 3 1/4 c. all-purpose flour
+- 1 tbsp. ground ginger
+- 1 tsp. baking soda
+- 1 tsp. ground cinnamon
+- 1/2 tsp. ground cloves
+- 1/4 tsp. ground nutmeg
+- 1/2 tsp. kosher salt
+- 2" piece fresh ginger, grated (optional)
+- Zest of 1 orange (optional)
+- 1/2 tsp. finely ground black pepper (optional)
+- Sugar cookie icing, for decorating
+- Sprinkles, for decorating
+
+Instructions:
+1. In a large bowl using a hand mixer, beat butter, brown sugar, and molasses until&nbsp;fluffy, about 2 minutes. Add egg and vanilla&nbsp;and beat until&nbsp;combined.
+2. In a medium bowl, whisk&nbsp;flour, spices, baking soda, and salt&nbsp;until combined. With the mixer on low, gradually add dry ingredients to wet ingredients, as well as&nbsp;&nbsp;fresh ginger, orange zest, and black pepper (if using),&nbsp;until dough just&nbsp;comes together. (Do not overmix!)
+3. Divide dough in half and create two discs. Wrap each in plastic wrap and chill until firm, about 2 to 3 hours. (Alternatively, divide dough in half and roll each piece of dough between two pieces of parchment to 1/4" thick.&nbsp;Chill until firm.)
+4. <span id="docs-internal-guid-54679d99-d054-d2b8-68ed-028d5928f91a"></span>Preheat oven to 350° and line two large baking sheets with parchment paper. Place one disc of dough on a lightly floured surface and roll until 1/4" thick. (Alternatively, peel off both sheets of parchment from dough, then replace one sheet of parchment back underneath dough.) Cut out gingerbread men with a 3" wide cutter&nbsp;and transfer to baking sheets.
+5. <span id="docs-internal-guid-54679d99-d055-6ba2-53c9-4766101c7c97"></span>Bake until slightly puffed and set, 9 to 10 minutes, depending on the size of your cookie cutters. Let cool on baking sheets for 5 minutes before transferring to a cooling rack to cool completely.&nbsp;
+6. &nbsp;Repeat with remaining disc of dough. Decorate with icing and sprinkles as desired.
+
+Visible page text:
+There are certain holiday treats that simply never go out of style. Full of brown sugar, molasses, warming spices, and just enough of a gingery bite, these gingerbread cookies—equally as adorable as they are delicious—are the Christmas treat I never go the holiday season without. Decorating these Christmas cookies is the ultimate holiday activity everyone can get involved in, creating the sweetest homemade food gift to give to friends and family. I tested this recipe over and over (and over again) until I had the perfect gingerbread cookies: crisp edges with a tender, soft middle. Ready to create a new holiday tradition? Here’s everything you need to know:
+What People Are Saying: "I made these cookies last year for my friends and had to come back to this recipe. Best cookies I’ve ever made!!" - star4200
+"Excellent cookie! I followed it to the letter and it is delicious. Thanks for the tip of dipping the cutter into a little flour. These were a hit!" - brichelley
+How To Make Gingerbread Cookies
+INGREDIENTS
+Butter: Butter adds moisture and fat to the cookie, which gives it significant depth. It is a large factor as to why cookies are so comforting.
+Brown Sugar: I am using brown sugar as it's sweet, and its more caramel-like notes lend very well to the warm, spicy flavors of gingerbread.
+Molasses: Something I discovered while creating this recipe is that the type of molasses you use can make a big difference in your cookie result. If your cookies come out darker than what we have pictured, it's most likely due to the brand of molasses used. Odds are they will still taste and look amazing, but keep that in mind when creating your cookies.
+Egg: Adding an egg to the cookie batter is going to do several things. For one, it will provide structure to the cookie that keeps it together during baking. For another, it provides moisture, which prevents the cookie from tasting stale and too hard.
+All-Purpose Flour & Baking Soda: The combination of all-purpose flour and baking soda is perfect for making a soft-centered, crisp-crusted cookie.
+Spices: Our spices give that punchy, warming taste to our gingerbread cookies, so I took my time perfecting the ideal Christmas formula. I chose a mixture of ground ginger, a bit of cinnamon, and a tiny amount of cloves. But, if you don't have cloves (or really loathe them), you can just leave them out. As for the ginger, it's necessary but negotiable. Feel free to use less.
+Fresh Ginger: While technically this is optional, I feel very strongly about including fresh ginger in the cookies. Gingerbread is called gingerbread for a reason, and that extra little bite of soft, chewy ginger inside the cookie really takes it to another level.
+Orange Zest: The citrusy, lightly bitter pang of orange zest complements the spicy aroma of the gingerbread perfectly. Plus, it just looks super nice.
+Black Pepper: This one is definitely optional. If you prefer a spicier gingerbread cookie, then I would definitely suggest adding black pepper. Much in the way that adding salt to baked goods creates extra depth of flavor and enjoyment, black pepper is a sneaky superstar in this recipe.
+Sugar Cookie Icing & Sprinkles: How you decorate your adorable gingerbread cookies is completely up to you! I stayed simple with sugar cookie icing and sprinkles, but feel free to add on gumdrops for buttons, ditch the sprinkles, or create your very own unique design. As long as you have fun, you can't go wrong.
+STEP-BY-STEP INSTRUCTIONS
+Use a hand mixer to beat butter, brown sugar, and molasses for about 2 minutes on medium speed. When the mixture has turned fluffy, add in the egg and vanilla extract and continue to beat until just combined and there are no streaks.
+Then, in a separate bowl, whisk together the spices and dry ingredients—as well as the fresh ginger, orange zest, and black pepper if using—until they are combined.
+Then, gradually add them into the wet ingredients, whisking on low as you do. Here we are, really just looking for the dough to come together. Overmixing will lead to too-dense cookies, so stop when you see that the dough is just able to hold together and is evenly mixed.
+Once mixed, divide the dough in half and form two even discs by pressing lightly with your hands or gently rolling to about ¼” thick in between two pieces of parchment paper—just be sure not to press too hard. When the discs are formed, wrap them each in plastic wrap and put them into the fridge to chill until firm, about 2 to 3 hours.
+Preheat the oven to 350° and as it heats, line two large baking sheets with parchment paper—if you rolled the dough out between two sheets, you can reuse those here. If you haven’t already rolled the dough out to ¼”, do so now.
+Once the first dough ball is rolled out, use a 3” wide gingerbread man cookie cutter to cut out individual cookies and transfer each to the parchment-lined baking sheets.
+Place the baking sheets into the heated oven and bake for 9 to 10 minutes until the cookies have puffed slightly and set. Remove the sheets from the oven and allow the cookies to finish cooking on the still-hot baking sheets for another 5 minutes before removing the cookies and transferring them to a cooling rack to cool completely. Repeat the cutting out and baking process with the second disc of dough, and once both batches of gingerbread men are completely cooled, decorate with icing and sprinkles, or other toppings as desired, and enjoy.
+Full list of ingredients and directions can be found in the recipe below .
+Recipe Tips
+Use them as a garnish. Looking for a way to get creative with your batch of cookies? Use them as the most adorable garnish in our gingerbread martini or make them tiny homeowners alongside our gingerbread house .
+Storage
+Once made, this dough will stay good in the fridge for about 2 days wrapped in plastic wrap. If the disc feels super stiff, just let it be on your counter for a bit until it's more pliable. If you want to freeze it, wrap your dough well and place it in a freezer-safe bag before freezing for 2-3 months. Allow to thaw overnight in the refrigerator before rolling and baking.
+If you want to bake and freeze the cookies ahead of time, but leave the decorating for later, let the cookies cool completely before freezing them for up to 3 months.
+If you have any leftovers, store them in an airtight container separated by wax paper at room temperature—they'll stay amazing and soft for up to one week.
+Cooking is easier on the app.
+Download for free!
+3/4 cup (1 1/2 sticks) butter, softened
+3/4 cup packed brown sugar
+2/3 cup molasses
+1 large egg
+1 tsp. pure vanilla extract
+3 1/4 cups all-purpose flour
+1 Tbsp. ground ginger
+1 tsp. baking soda
+1 tsp. ground cinnamon
+1/2 tsp. ground cloves
+1/4 tsp. ground nutmeg
+1/2 tsp. kosher salt
+2 " piece fresh ginger, grated (optional)
+Zest of 1 orange (optional)
+1/2 tsp. finely ground black pepper (optional)
+Sugar cookie icing, for decorating
+Sprinkles, for decorating
+Directions
+Step 1 In a large bowl using a hand mixer, beat butter, brown sugar, and molasses until fluffy, about 2 minutes. Add egg and vanilla and beat until combined. Step 2 In a medium bowl, whisk flour, spices, baking soda, and salt until combined. With the mixer on low, gradually add dry ingredients to wet ingredients, as well as fresh ginger, orange zest, and black pepper (if using), until dough just comes together. (Do not overmix!) Step 3 Divide dough in half and create two discs. Wrap each in plastic wrap and chill until firm, about 2 to 3 hours. (Alternatively, divide dough in half and roll each piece of dough between two pieces of parchment to 1/4" thick. Chill until firm.) Step 4 Preheat oven to 350° and line two large baking sheets with parchment paper. Place one disc of dough on a lightly floured surface and roll until 1/4" thick. (Alternatively, peel off both sheets of parchment from dough, then replace one sheet of parchment back underneath dough.) Cut out gingerbread men with a 3" wide cutter and transfer to baking sheets. Step 5 Bake until slightly puffed and set, 9 to 10 minutes, depending on the size of your cookie cutters. Let cool on baking sheets for 5 minutes before transferring to a cooling rack to cool completely. Step 6 Repeat with remaining disc of dough. Decorate with icing and sprinkles as desired.
+Step 1 In a large bowl using a hand mixer, beat butter, brown sugar, and molasses until fluffy, about 2 minutes. Add egg and vanilla and beat until combined.
+Step 2 In a medium bowl, whisk flour, spices, baking soda, and salt until combined. With the mixer on low, gradually add dry ingredients to wet ingredients, as well as fresh ginger, orange zest, and black pepper (if using), until dough just comes together. (Do not overmix!)
+Step 3 Divide dough in half and create two discs. Wrap each in plastic wrap and chill until firm, about 2 to 3 hours. (Alternatively, divide dough in half and roll each piece of dough between two pieces of parchment to 1/4" thick. Chill until firm.)
+Step 4 Preheat oven to 350° and line two large baking sheets with parchment paper. Place one disc of dough on a lightly floured surface and roll until 1/4" thick. (Alternatively, peel off both sheets of parchment from dough, then replace one sheet of parchment back underneath dough.) Cut out gingerbread men with a 3" wide cutter and transfer to baking sheets.
+Step 5 Bake until slightly puffed and set, 9 to 10 minutes, depending on the size of your cookie cutters. Let cool on baking sheets for 5 minutes before transferring to a cooling rack to cool completely.
+Step 6 Repeat with remaining disc of dough. Decorate with icing and sprinkles as desired.
+Made This?
+Let us know how it went in the comment section below!
+Readers Also Read
+97 Best Cookie Recipes
+Homemade Flour Tortillas
+Beef Stew
+Banana Bread
+How To Pan-Fry Steak
+Snickerdoodle Cookies
+Peanut Butter Blossoms
+93 Easy & Impressive Desserts
+Cream Cheese Frosting
+Oatmeal Cookies
+Pork Chops
+67 Best Homemade Pie Recipes

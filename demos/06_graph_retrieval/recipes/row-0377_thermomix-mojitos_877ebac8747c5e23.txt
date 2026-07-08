@@ -1,0 +1,145 @@
+Thermomix Mojitos
+=================
+
+Recipe Metadata
+---------------
+Recipe ID: 877ebac8747c5e23
+CSV row number: 377
+Recipe name: Thermomix Mojitos
+Source: thermobliss.com
+URL: https://thermobliss.com/thermomix-mojitos
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/026296a8de1d756b46032d202c1e445a1bf38c8063d07da2bca663836a6fce46/21109946.jpg
+Servings: 2
+Calories: 440.69
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Wheat, Sulfites
+Cuisine type: world
+Meal type: lunch/dinner
+Dish type: alcohol cocktail
+
+Original CSV Fields
+-------------------
+recipe_name: Thermomix Mojitos
+source: thermobliss.com
+url: https://thermobliss.com/thermomix-mojitos
+servings: 2
+calories: 440.6928
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/026296a8de1d756b46032d202c1e445a1bf38c8063d07da2bca663836a6fce46/21109946.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Wheat","Sulfites"]
+cuisine_type: ["world"]
+meal_type: ["lunch/dinner"]
+dish_type: ["alcohol cocktail"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Thermomix Mojitos
+
+Description: Our Thermomix Mojitos made with rum, soda water, raw sugar, fresh limes and mint are the perfect cocktail for any occasion!
+
+Recipe category: ['cocktails']
+
+Recipe cuisine: ['Cocktails', 'drinks']
+
+Yield: ['2', '2 cocktails']
+
+Prep time: PT5M
+
+Total time: PT5M
+
+Ingredients:
+- 30 grams raw sugar
+- 12 fresh mint leaves
+- 2 limes (quartered)
+- 120 grams white rum ((we used Bacardi))
+- 120 grams soda water
+- 300 grams ice
+
+Instructions:
+1. Place the raw sugar into the Thermomix bowl and mix for 5 seconds, Speed 8.
+2. Add the mint leaves and limes (still with the skins on) and mix for 20 seconds, Speed 3, Reverse.
+3. Add the white rum, soda water and ice and mix for 15 seconds, Speed 3, Reverse.
+4. Remove the lime quarters and pour into 2 serving glasses. Serve immediately.
+
+Visible page text:
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+Published: Apr 2, 2018 · Modified: May 4, 2024 by Lucy ·
+Facebook
+Pinterest
+Our Thermomix Mojitos made with rum, soda water, raw sugar, fresh limes and mint are the perfect cocktail for any occasion! This cocktail recipe can also easily be doubled or halved for a single serve and you can be enjoying these Mojitos in just 5 minutes!
+If you've been visiting ThermoBliss for a while now, you'll know that we're pretty massive fans of making cocktails in the Thermomix... and these Thermomix Mojitos are up there as one of our favourite recipes of all-time!
+Why you will love this recipe:
+Quick to prepare - you can be enjoying these Mojitos in just five minutes.
+Versatile - this recipe can be doubled or halved for a single serve. You can also omit the white rum to make a Virgin Mojito instead.
+Classic recipe - these Mojitos are a classic recipe that everyone will love.
+Mojito Ingredients:
+Please note you will find the full ingredient list and instructions in the recipe card below.
+Raw Sugar - you can use white sugar if that is all you have.
+Ice
+White Rum - we use Bacardi White Rum for this recipe.
+Mint Leaves - fresh is best.
+Soda Water - you can omit the sugar and substitute the soda water with lemonade if you prefer.
+How to Make Mojitos in a Thermomix:
+Step 1. Blitz the raw sugar.
+Step 2. Add the mint leaves and limes and mix.
+Step 3. Add the remaining ingredients and mix.
+Step 4. Divide the Mojitos between serving glasses and enjoy!
+Tips for Making the BEST Thermomix Mojitos:
+Fresh limes and mint work best for this recipe.
+You can omit the sugar and substitute the soda water with lemonade if you wish.
+This recipe can be doubled, please ensure you do not exceed the maximum fill line of your machine.
+You can make these Mojitos an hour or two before needed - omit the ice and give the mixture a gentle stir before adding the ice to serve.
+Frequently Asked Questions
+We recommend using a good quality White Rum (such as Bacardi) when making mojitos. If you don't have any white rum, vodka can be used instead.
+Yes, you can make a mojito cocktail without mint. You can use rosemary or basil in its place, or leave it out completely.
+More Thermomix Cocktail recipes:
+Thermomix Baileys Cocktail
+Thermomix Raspberry Gin Cocktail
+Watermelon, Vodka & Mint Cocktail
+Thermomix Eggnog Recipe
+Pina Colada
+Thermomix Baileys
+Looking for even more?
+Find more easy Thermomix Cocktail recipes in our books and eBooks - shop the range here .
+Thermomix Mojitos
+Equipment
+▢ Thermomix
+▢ 2 x glasses to serve
+Ingredients
+▢ 30 grams raw sugar
+▢ 12 fresh mint leaves
+▢ 2 limes quartered
+▢ 120 grams white rum (we used Bacardi)
+▢ 120 grams soda water
+▢ 300 grams ice
+Instructions
+Place the raw sugar into the Thermomix bowl and mix for 5 seconds, Speed 8.
+Add the mint leaves and limes (still with the skins on) and mix for 20 seconds, Speed 3, Reverse.
+Add the white rum, soda water and ice and mix for 15 seconds, Speed 3, Reverse.
+Remove the lime quarters and pour into 2 serving glasses. Serve immediately.
+Notes
+Nutrition
+YOU MIGHT ALSO LIKE
+Thermomix Ham and Cheese Scrolls
+Thermomix Whole Orange Cake
+Healthy Thermomix Recipes
+Thermomix Creamy Avocado Dip
+Reader Interactions
+Comments
+Delicious! Super easy. Obviously tastes of Barcadi so if you don't like it a little strong cull that back a little. Reply
+Delicious! Super easy. Obviously tastes of Barcadi so if you don't like it a little strong cull that back a little.
+Leave a Reply Cancel reply
+Manage options
+Manage services
+Manage {vendor_count} vendors
+Read more about these purposes
+{title}

@@ -1,0 +1,91 @@
+Taco Chicken
+============
+
+Recipe Metadata
+---------------
+Recipe ID: 6b80cff910c5ccfa
+CSV row number: 476
+Recipe name: Taco Chicken
+Source: justapinch.com
+URL: https://www.justapinch.com/recipes/main-course/chicken/taco-chicken.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0318e62499275ebdd5f88d63eb37cd957f13927b5da3561e298de5bf4098ff07/21117731.jpeg
+Servings: 8
+Calories: 6316.20
+Diet labels: Low-Carb
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Soy, Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Taco Chicken
+source: justapinch.com
+url: https://www.justapinch.com/recipes/main-course/chicken/taco-chicken.html
+servings: 8
+calories: 6316.198672
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0318e62499275ebdd5f88d63eb37cd957f13927b5da3561e298de5bf4098ff07/21117731.jpeg
+diet_labels: ["Low-Carb"]
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Soy","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Taco Chicken
+
+Description: This is a family favorite and has been eaten in kitchens of many of our friends as well. A friend told me she made this dish and took to her son and wife's to share, and the 4 of them cleaned up the whole dishfull! Easy, and can be made a day ahead. Try it, you'll love it.
+
+Recipe category: Chicken
+
+Recipe cuisine: Mexican
+
+Yield: 6 - 8
+
+Prep time: PT45M
+
+Cook time: PT30M
+
+Ingredients:
+- 3 - 4 pound(s) chicken
+- 1 - onion, chopped
+- 1 stick(s) margarine
+- 1 can(s) (10 ozs) can tomatoes with chilies, drained and mashed
+- 1 can(s) (10 ozs) cream of mushroom soup
+- 1 can(s) (10 ozs) cream of chicken soup
+- 1 cup(s) grated cheese
+- 1 - (7 ozs) bag taco or nacho chips
+
+Instructions:
+1. Boil or bake chicken; remove meat from bones; save 1 c. broth. Preheat oven to 350. In lg. skillet, saute onion in margarine. Add tomatoes, soups and broth. Heat and cook until thickened.
+2. Break half the chips into bottom of greased 9" X 13" X 2" baking pan, covering the bottom. Layer chicken over chips, then pour soup mixture over top. Sprinkle remaining chips over chicken, then sprinkle with cheese. Bake 30 minutes or until bubbly around the edges.
+3. May be made a day ahead. Cover and refrigerate; bring to room temp before baking.
+
+Visible page text:
+taco chicken
+This is a family favorite and has been eaten in kitchens of many of our friends as well. A friend told me she made this dish and took to her son and wife's to share, and the 4 of them cleaned up the whole dishfull! Easy, and can be made a day ahead. Try it, you'll love it.
+Ingredients
+3 - 4 pounds chicken
+1 onion, chopped
+1 stick margarine
+1 can (10 ozs) can tomatoes with chilies, drained and mashed
+1 can (10 ozs) cream of mushroom soup
+1 can (10 ozs) cream of chicken soup
+1 cup grated cheese
+1 (7 ozs) bag taco or nacho chips
+How To Make taco chicken
+Step 1 Boil or bake chicken; remove meat from bones; save 1 c. broth. Preheat oven to 350. In lg. skillet, saute onion in margarine. Add tomatoes, soups and broth. Heat and cook until thickened.
+Step 2 Break half the chips into bottom of greased 9" X 13" X 2" baking pan, covering the bottom. Layer chicken over chips, then pour soup mixture over top. Sprinkle remaining chips over chicken, then sprinkle with cheese. Bake 30 minutes or until bubbly around the edges.
+Step 3 May be made a day ahead. Cover and refrigerate; bring to room temp before baking.
+Last Step: Don't forget to share! Post a picture of your finished recipe here and on your favorite social
+network. Don't forget to tag Just A Pinch and include #justapinchrecipes!
+Discover More
+Comment & Reviews

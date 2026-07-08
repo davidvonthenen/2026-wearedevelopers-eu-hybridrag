@@ -1,0 +1,75 @@
+Lime Flowers
+============
+
+Recipe Metadata
+---------------
+Recipe ID: 8a0f5287a188a51d
+CSV row number: 135
+Recipe name: Lime Flowers
+Source: Martha Stewart
+URL: https://www.marthastewart.com/343526/lime-flowers
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00d7c71bdf1a4c954b36e55fba1af9648ae3753d5c24ba913a5e0f54ab449519/21008235.jpeg
+Servings: 24
+Calories: 2956.41
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: biscuits and cookies
+
+Original CSV Fields
+-------------------
+recipe_name: Lime Flowers
+source: Martha Stewart
+url: https://www.marthastewart.com/343526/lime-flowers
+servings: 24
+calories: 2956.412582124848
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00d7c71bdf1a4c954b36e55fba1af9648ae3753d5c24ba913a5e0f54ab449519/21008235.jpeg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["biscuits and cookies"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Top Stories
+The No. 1 Fish to Eat
+Refrigerator Storage Mistakes
+24 Sweetened Condensed Milk Desserts
+Essential Italian Pasta Recipes
+Sweet Limes May Look Like Lemons, but They Have a Distinct Flavor
+Less acidic than lemons and limes, here are all the reasons to love this sweeter citrus.
+Randi Gollin is a freelance food writer and editor who has been covering food, travel, and fashion for over 20 years.
+About
+Nutrition
+Uses
+Key Points
+Sweet limes are similar in appearance to lemons but are sweeter and less acidic.
+They are high in vitamin C and dietary fiber, offering therapeutic uses for throat infections, nausea, fevers, and jaundice.
+Sweet limes can be used in recipes that typically call for limes, adding extra sweetness to dishes and drinks.
+Few fruits are as refreshing and tart as a perfectly ripe lime . The lime is, of course, known for its pucker-inducing flavor, but there's another member of this citrus family with a less astringent taste. Known as the sweet lime (as well as Indian sweet lime or Palestinian sweet lime), this cultivar can be easily mistaken for a lemon because of its yellow skin, but its sweetness sets it apart. It's also low in acidity, which accounts for the tartness of its citrus counterparts.
+Seemanta Dutta / GETTY IMAGES
+All About Sweet Limes
+The sweet lime comes from the genus Citrus limettioides. There are varying perspectives on its origin, with some experts citing the northeastern region of India, and others believing it to be native to central and northern regions of India. And another faction places its points of origin in areas ranging from Indonesia to China. According to the Purdue University College of Agriculture , this fruit is thought to be a hybrid between a Mexican-type lime and a sweet lemon or sweet citron.
+Today, its main areas of cultivation include Egypt, Syria, Palestine, Southeast Asia, the tropical Americas, and the Mediterranean. In India, Vietnam, Egypt, and on the Mediterranean coast, sweet limes are grown as commercial crops.
+Looks Can Be Deceiving
+There are a few reasons why, at first glance, citrus lovers might confuse the sweet lime with its doppelgänger. For starters, size-wise, the sweet lime resembles a large lemon. Then, there's the color of its skin. Like their tart lime cousins, sweet limes start off green but mature into a bright yellow. Yellow sweet limes are ripe for picking while the green limes haven't reached their full sweetness yet and should remain on the vine.
+Storage
+For peak freshness, store your sweet limes in the crisper of your fridge for up to three or four weeks.
+To maximize the shelf life of your sweet limes, keep them in a cool, dry place, such as the crisper drawer of your refrigerator. This will help maintain their flavor and nutritional value for up to three to four weeks.
+Citrus fruits, including sweet limes, are packed with vitamins and nutrients. Because it's high in vitamin C and dietary fiber, with compounds including chlorophyll, carotenoids, and limonoids, sweet lime juice is used therapeutically in areas of the world, like India, to soothe a number of ailments, including throat infections and nausea, and prized for its cooling effect on fevers and jaundice.
+Sweet Lime Uses
+Low acidity not only lends this citrus standout its sweetness—it also gives it a unique flavor. Sweet limes can be eaten like any ripe fruit. They can be sliced and mixed into a citrus salad to zip up the flavor, or even added to water instead of lemon. In other words, sweet limes are incredibly versatile and can be substituted in recipes that typically call for everyday limes. Try them in our Limeade —squeeze the fruit as you would its namesake, and enjoy the extra dose of sweetness.
+Food & Cooking
+Recipes
+Ingredients
+Fruit
+Related Articles

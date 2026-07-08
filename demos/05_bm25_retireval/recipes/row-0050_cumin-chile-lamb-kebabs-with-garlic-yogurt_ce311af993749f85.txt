@@ -1,0 +1,108 @@
+Cumin-Chile Lamb Kebabs with Garlic Yogurt
+==========================================
+
+Recipe Metadata
+---------------
+Recipe ID: ce311af993749f85
+CSV row number: 50
+Recipe name: Cumin-Chile Lamb Kebabs with Garlic Yogurt
+Source: Bon Appetit
+URL: https://www.bonappetit.com/recipe/cumin-chile-lamb-kebabs-garlic-yogurt
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00400df3572f55aa54546063fe5cea3049b5f8e76bb41ece9da325cbf6e7c8fc/21020372.jpg
+Servings: 4
+Calories: 1974.57
+Diet labels: Low-Carb
+Health labels: Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: middle eastern
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Cumin-Chile Lamb Kebabs with Garlic Yogurt
+source: Bon Appetit
+url: https://www.bonappetit.com/recipe/cumin-chile-lamb-kebabs-garlic-yogurt
+servings: 4
+calories: 1974.569424918447
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00400df3572f55aa54546063fe5cea3049b5f8e76bb41ece9da325cbf6e7c8fc/21020372.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["middle eastern"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Cumin-Chile Lamb Kebabs With Garlic Yogurt
+
+Description: A perfect cube is not essential, but try to get the lamb into roughly the same size pieces so they cook at the same rate.
+
+Yield: 4 Servings
+
+Ingredients:
+- 1 garlic clove, grated
+- ½ teaspoon finely grated lemon zest
+- 1 tablespoon fresh lemon juice
+- 1 cup plain Greek yogurt
+- Kosher salt, freshly ground pepper
+- 2 tablespoons cumin seeds
+- 1 tablespoon Sichuan peppercorns or 1 teaspoon black peppercorns
+- 2 teaspoons caraway seeds
+- 2 teaspoons crushed red pepper flakes
+- 1 teaspoon sugar
+- Vegetable oil (for grill)
+- 1¼ pounds boneless lamb shoulder, cut into 1-inch pieces
+- Kosher salt, freshly cracked pepper
+- Finely grated lemon zest (for serving)
+- A spice mill or a mortar and pestle; eight 8–12-inch-long metal skewers
+
+Instructions:
+1. Stir garlic, lemon zest, and lemon juice into yogurt in a small bowl to combine; season with salt and pepper.
+2. Do Ahead: Yogurt can be made 3 days ahead. Cover and chill.
+3. Coarsely grind cumin seeds, peppercorns, caraway seeds, red pepper flakes, and sugar in spice mill or with mortar and pestle until only a few whole spices remain.
+4. Prepare a grill for medium-high, indirect heat (for a charcoal grill, bank coals on one side of grill; for a gas grill, leave one or two burners off). Oil grates. Thread lamb onto 6–8 skewers, leaving a small gap between each piece of meat. Season with salt, then sprinkle generously with spice blend, pressing it onto the meat with your hands to help it adhere if needed.
+5. Grill lamb over direct heat, turning every minute or so, until browned and beginning to char in spots, about 4 minutes. Move to cooler side of grill and continue to grill until lamb is cooked to desired doneness, about 4 minutes longer for medium-rare.
+6. Top garlic yogurt with cracked black pepper and a little lemon zest. Serve alongside lamb.
+7. Do Ahead: Spice blend can be made 1 month ahead. Store airtight at room temperature.
+
+Visible page text:
+A perfect cube is not essential, but try to get the lamb into roughly the same size pieces so they cook at the same rate.
+Recipe information
+Yield 4 Servings
+Yield
+4 Servings
+Ingredients
+Garlic Yogurt
+1
+½
+Lamb and Assembly
+2
+1¼
+Special Equipment
+Need to make a substitution?
+Preparation
+Garlic Yogurt Step 1 Stir garlic, lemon zest, and lemon juice into yogurt in a small bowl to combine; season with salt and pepper. Step 2 Do Ahead: Yogurt can be made 3 days ahead. Cover and chill.
+Step 1
+Stir garlic, lemon zest, and lemon juice into yogurt in a small bowl to combine; season with salt and pepper.
+Step 2
+Do Ahead: Yogurt can be made 3 days ahead. Cover and chill.
+Lamb and Assembly Step 3 Coarsely grind cumin seeds, peppercorns, caraway seeds, red pepper flakes, and sugar in spice mill or with mortar and pestle until only a few whole spices remain. Step 4 Prepare a grill for medium-high, indirect heat (for a charcoal grill, bank coals on one side of grill; for a gas grill, leave one or two burners off). Oil grates. Thread lamb onto 6–8 skewers, leaving a small gap between each piece of meat. Season with salt, then sprinkle generously with spice blend, pressing it onto the meat with your hands to help it adhere if needed. Step 5 Grill lamb over direct heat, turning every minute or so, until browned and beginning to char in spots, about 4 minutes. Move to cooler side of grill and continue to grill until lamb is cooked to desired doneness, about 4 minutes longer for medium-rare. Step 6 Top garlic yogurt with cracked black pepper and a little lemon zest. Serve alongside lamb. Step 7 Do Ahead: Spice blend can be made 1 month ahead. Store airtight at room temperature.
+Step 3
+Coarsely grind cumin seeds, peppercorns, caraway seeds, red pepper flakes, and sugar in spice mill or with mortar and pestle until only a few whole spices remain.
+Step 4
+Prepare a grill for medium-high, indirect heat (for a charcoal grill, bank coals on one side of grill; for a gas grill, leave one or two burners off). Oil grates. Thread lamb onto 6–8 skewers, leaving a small gap between each piece of meat. Season with salt, then sprinkle generously with spice blend, pressing it onto the meat with your hands to help it adhere if needed.
+Step 5
+Grill lamb over direct heat, turning every minute or so, until browned and beginning to char in spots, about 4 minutes. Move to cooler side of grill and continue to grill until lamb is cooked to desired doneness, about 4 minutes longer for medium-rare.
+Step 6
+Top garlic yogurt with cracked black pepper and a little lemon zest. Serve alongside lamb.
+Step 7
+Do Ahead: Spice blend can be made 1 month ahead. Store airtight at room temperature.
+Nutrition Per Serving
+Recipe notes

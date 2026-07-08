@@ -1,0 +1,103 @@
+Buffalo Deviled Eggs
+====================
+
+Recipe Metadata
+---------------
+Recipe ID: afa794912ca5f0e3
+CSV row number: 359
+Recipe name: Buffalo Deviled Eggs
+Source: recipezazz.com
+URL: https://www.recipezazz.com/recipe/buffalo-deviled-eggs-20996
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/024bc7590956823aa56fa6fab08100a49f3a3ca163be9c9d4ec5d4260eb9e49f/21135785.jpg
+Servings: 6
+Calories: 1169.88
+Diet labels: Low-Carb
+Health labels: Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: starter
+
+Original CSV Fields
+-------------------
+recipe_name: Buffalo Deviled Eggs
+source: recipezazz.com
+url: https://www.recipezazz.com/recipe/buffalo-deviled-eggs-20996
+servings: 6
+calories: 1169.882439999336
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/024bc7590956823aa56fa6fab08100a49f3a3ca163be9c9d4ec5d4260eb9e49f/21135785.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["starter"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Buffalo Deviled Eggs
+Recipe: #20996
+September 18, 2015
+Categories: Snacks , Eggs , Appetizers , Baby Shower , Birthday , Brunch , Christmas , Easter , Fathers Day , Game/Sports Day , Halloween , July 4th , Labor Day , Mothers Day , Picnic , Potluck , St Patricks Day , Thanksgiving , Wedding , Marinate , Gluten-Free , High Protein , Low Carbohydrate , Vegetarian , Spicy , Kosher Dairy , more
+Add to Recipe Book
+Add to Planner
+Add Private Note
+Add to Shopping List
+Send Email
+Follow Member
+"I have noticed that deviled eggs are making a comeback as a party food; they are a great game day or pot-luck snack/appetizer.
+I have been playing around, coming up with new recipes for different ways to make these interesting; this is so far up there as one of my favorites. If you do not have access to the Frank's RedHot Sauce, I have developed a copycat recipe for it and posted it here #recipe13676"
+Ingredients
+6 large eggs (hardboiled)
+1/2 cup hot sauce (Frank’s Redhot Sauce, plus more to drizzle with)
+1 teaspoon soy sauce
+1/4 teaspoon garlic powder
+1/3 to 1/2 cup mayonnaise
+15 grams blue cheese
+1 1/2 tablespoons minced celery
+1 teaspoon chopped chives
+Chopped celery leaves, for garnish
+Nutritional
+Serving Size: 1 (46.6 g)
+Calories 62.2
+Total Fat - 4.2 g
+Saturated Fat - 1.2 g
+Cholesterol - 106.5 mg
+Sodium - 196.6 mg
+Total Carbohydrate - 1.9 g
+Dietary Fiber - 0.1 g
+Sugars - 0.4 g
+Protein - 4.1 g
+Calcium - 29.6 mg
+Iron - 0.6 mg
+Vitamin C - 0.5 mg
+Thiamin - 0 mg
+Step by Step Method
+Step 1
+Place the eggs, hot sauce, soy sauce and garlic powder in a large re-sealable plastic bag and swish to coat the eggs; marinate for 24 hours, swishing the bag a few times to distribute the marinade evenly on the eggs.
+Step 2
+Remove the eggs from marinade and gently pat dry.
+Step 3
+Slice them in half, lengthwise, gently removing the yolks and placing them in a mixing bowl; mix while mashing with the mayonnaise, blue cheese, chives and celery.
+Step 4
+Fill the egg whites with yolk mixture and drizzle the eggs with a bit of Frank’s RedHot sauce; garnish with chopped celery leaves.
+Step 5
+Place in the refrigerator until ready to eat.
+Step 6
+Enjoy!
+NOTE: These taste better after sitting in the refrigerator for a couple of hours or more
+Tips
+1 Reviews
+You'll Also Love
+30+ Eggs-ceptional Easter Sunday Brunch Ideas | 2023
+Brunch is a great way for the kids to wash down those chocolate eggs and for the adults...
+Souvlaki
+(14 reviews)
+Greeker Than Greek Grilled Greek Chicken
+Jackie's Chicken Scampi - Yankee Kitchen
+(12 reviews)

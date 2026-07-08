@@ -1,0 +1,183 @@
+Roasted Red Pepper Barbecue Sauce recipes
+=========================================
+
+Recipe Metadata
+---------------
+Recipe ID: 15724d0d3db127f4
+CSV row number: 481
+Recipe name: Roasted Red Pepper Barbecue Sauce recipes
+Source: errenskitchen.com
+URL: http://www.errenskitchen.com/roasted-red-pepper-barbecue-sauce/2/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/032599eef110b571a3038ce6f15b70598ead89e444154dd79a7fc9eaf77b4609/21084219.jpeg
+Servings: 12
+Calories: 436.77
+Diet labels: Low-Fat
+Health labels: Vegetarian, Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Roasted Red Pepper Barbecue Sauce recipes
+source: errenskitchen.com
+url: http://www.errenskitchen.com/roasted-red-pepper-barbecue-sauce/2/
+servings: 12
+calories: 436.7672110555555
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/032599eef110b571a3038ce6f15b70598ead89e444154dd79a7fc9eaf77b4609/21084219.jpeg
+diet_labels: ["Low-Fat"]
+health_labels: ["Vegetarian","Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Homemade Roasted Red Pepper BBQ Sauce
+
+Description: This mouthwatering recipe for red pepper barbecue sauce will be your go-to recipe for all summer entertaining.
+
+Recipe category: ['sauce']
+
+Recipe cuisine: ['American']
+
+Yield: ['12']
+
+Prep time: PT5M
+
+Total time: PT5M
+
+Ingredients:
+- 4 Roasted Red peppers (Jarred )
+- 2 cloves garlic (peeled)
+- ¼ cup ketchup
+- fresh parsley (a good handful)
+- 2 tablespoons smoked paprika
+- 2 tablespoons soy sauce
+- 1 tablespoon honey
+- ¼ cup brown sugar
+- 2 green onions
+- 1 tablespoon tomato paste
+- salt and pepper to taste
+
+Instructions:
+1. Throw all of the ingredients into a food processor and blitz until smooth.
+
+Visible page text:
+Specialties :
+Homemade Roasted Red Pepper BBQ Sauce
+Erren Hart
+|
+last Updated:
+This site runs ads and generates income from affiliate links. Read my disclosure policy .
+Get sizzling on your grill with this mouthwatering recipe for Homemade Roasted Red Pepper BBQ Sauce. Ready in minutes!
+It’s a really nice change from traditional BBQ sauce. So if you’re looking for something a little different and super yummy – try this recipe.
+If you’re a regular reader of this blog, you probably know that I’m a brand ambassador for Peppadew®. They asked me to create a BBQ recipe. The first thing that came to mind was using their roasted red peppers .
+They are great for making sauces with because they blitz down so smooth and make a silky, flavorful base for sauces. Slather over your bbq meat for a truly fresh approach to outdoor cooking!
+I love making homemade sauces, why not try my Easy Homemade Tomato Sauce too!
+This recipe uses a lot of ingredients, but don’t let that fool you – it’s super simple to make. You just throw everything into a food processor.
+Why This Recipe Works
+This convenient recipe uses ingredients that are easy to find, a true pantry recipe
+Roasted red pepper adds a wonderful sweetness to this fresh bbq sauce.
+The ingredients aren’t set in stone, play with your favorite herbs and spices.
+How To Make Homemade Roasted Red Pepper BBQ Sauce
+Place the ingredients into a food mixer.
+Blitz until combined.
+It’s that easy!
+Serve and enjoy!
+Why Homemade BBQ Sauce?
+Why not? It only takes minutes and the ingredients are fresh and bright, homemade bbq sauce has all the flavor and none of the additives, it’s a win win!
+Step By Step Instructions
+Put all the ingredients into the blender or mixer.
+Blitz it down until smooth.
+Baste over your favorite bbq meat and enjoy!
+That’s it – it’s ready to use!
+I’ve tested this sauce on chicken, ribs and we’ve also used it as burger relish and a dip, which was fabulous.
+Storing Instructions ?
+Allow the homemade BBQ Sauce to cool to room temperature. Once cooled, transfer to a jar or bottle and store in the fridge for up to two weeks.
+Other Great Sauces
+Stir Fry Sauce
+Easy Homemade Tomato sauce
+Homemade Marinara Sauce
+Cherry Tomato Pasta Sauce
+Rate This Recipe
+Click here to leave a star rating!
+Recipe
+Pin
+Ingredients
+▢ 4 Roasted Red peppers (Jarred )
+▢ 2 cloves garlic (peeled)
+▢ ¼ cup ketchup
+▢ fresh parsley (a good handful)
+▢ 2 tablespoons smoked paprika
+▢ 2 tablespoons soy sauce
+▢ 1 tablespoon honey
+▢ ¼ cup brown sugar
+▢ 2 green onions
+▢ 1 tablespoon tomato paste
+▢ salt and pepper to taste
+Instructions
+Throw all of the ingredients into a food processor and blitz until smooth.
+Nutrition
+*This is a sponsored content written by me on behalf of Peppadew® . The opinions and text are all mine.*
+Leave a Reply Cancel reply
+12 responses
+Joy Lird 07/11/2021 Have lots of roasted red peppers that we want to make a barbecue sauce out of. We want to can it. Could we can this if we heated it up then processed it? Would love your input! Reply Erren Hart 07/12/2021 Sure! That would work great! Reply
+Have lots of roasted red peppers that we want to make a barbecue sauce out of. We want to can it. Could we can this if we heated it up then processed it? Would love your input!
+Erren Hart 07/12/2021 Sure! That would work great! Reply
+Sure! That would work great!
+Sandra | A Dash of Sanity 07/22/2019 This is really amazing! And I love that it is so easy to make!! Reply
+This is really amazing! And I love that it is so easy to make!!
+Erin | Dinners,Dishes and Dessert 07/17/2019 This is seriously making me hungry! Reply Erren’s Kitchen 07/22/2019 Haha thank you, Erin, I’m glad you think so! Reply
+This is seriously making me hungry!
+Erren’s Kitchen 07/22/2019 Haha thank you, Erin, I’m glad you think so! Reply
+Haha thank you, Erin, I’m glad you think so!
+Lora 07/16/2019 This is the perfect sauce to use all summer long. Can’t wait to grill this weekend! Reply Erren’s Kitchen 07/22/2019 Nothing better than Summer ready recipes is there Lora? Reply
+This is the perfect sauce to use all summer long. Can’t wait to grill this weekend!
+Erren’s Kitchen 07/22/2019 Nothing better than Summer ready recipes is there Lora? Reply
+Nothing better than Summer ready recipes is there Lora?
+Chrissie Baker 07/16/2019 I adore this sauce! I definitely want to make this recipe as soon as possible. Reply
+I adore this sauce! I definitely want to make this recipe as soon as possible.
+Dorothy Reinhold 07/16/2019 I like how balanced this sauce is! There are so many ways I want to use this sauce. Reply
+I like how balanced this sauce is! There are so many ways I want to use this sauce.
+Demeter 07/15/2019 This is a must have for summer! So versatile and flavorful! Reply
+This is a must have for summer! So versatile and flavorful!
+Nora 09/17/2017 I made this sauce with chicken in the oven! SO Good! Reply Erren 09/21/2017 Hi Nora, Thank so much for the great feedback! Reply
+I made this sauce with chicken in the oven! SO Good!
+Erren 09/21/2017 Hi Nora, Thank so much for the great feedback! Reply
+Hi Nora, Thank so much for the great feedback!
+Welcome
+Thank you for visiting Erren’s Kitchen! Here you will find a collection of easy & delicious recipes made with fresh, simple ingredients.
+FOLLOW ON SOCIAL!
+Don’t forget to tag me on social @ErrensKitchen to be featured!
+Facebook
+Instagram
+Pinterest
+X
+Trending
+Best EVER Potato Wedges
+Seriously, The Best Broccoli of Your Life
+The Best Fettuccine Alfredo of Your Life
+Award Winning Banana Bread
+Crispy Roasted Potatoes
+Reader Favorites
+Easy Chocolate Chip Cookies
+The Best Brussels Sprouts of Your Life
+Ultimate Orange Cake
+Fudgy Chocolate Chip Brownies
+Favorite Recipes from 2024
+These posts were seen over 4.5 million times!
+Quick & Easy Chinese Noodle Soup
+Quick & Easy Spaghetti Bolognese
+Donut Glaze Recipe
+Still hungry?
+Subscribe to my Newsletter for all my latest recipes!
+About your Chef
+I’m Erren, I have a passion for cooking and baking from scratch to create simple, nourishing, delicious recipes made with fresh ingredients, free from artificial additives and preservatives you find in prepackaged foods.

@@ -1,0 +1,178 @@
+Slow Cooker Carne Asada recipes
+===============================
+
+Recipe Metadata
+---------------
+Recipe ID: ef51f51157b77cc2
+CSV row number: 231
+Recipe name: Slow Cooker Carne Asada recipes
+Source: lexiscleankitchen.com
+URL: http://lexiscleankitchen.com/2016/09/11/slow-cooker-carne-asada/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01723ed4c372d7cd5165bceb346689ec4a2662c0acacc3bce12723662ac266ae/20970953.jpeg
+Servings: 6
+Calories: 1500.66
+Diet labels: High-Protein, Low-Carb
+Health labels: Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Shellfish-Free
+Allergy cautions: Shellfish, Sulfites, FODMAP
+Cuisine type: south american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Slow Cooker Carne Asada recipes
+source: lexiscleankitchen.com
+url: http://lexiscleankitchen.com/2016/09/11/slow-cooker-carne-asada/
+servings: 6
+calories: 1500.660662000142
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01723ed4c372d7cd5165bceb346689ec4a2662c0acacc3bce12723662ac266ae/20970953.jpeg
+diet_labels: ["High-Protein","Low-Carb"]
+health_labels: ["Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Shellfish-Free"]
+cautions: ["Shellfish","Sulfites","FODMAP"]
+cuisine_type: ["south american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Slow Cooker Carne Asada
+
+Description: This Slow Cooker Carne Asada is the perfect set it and forget it meal. It&#039;s made with juicy steak cooked low and slow in a flavorful marinade. Serve in tacos or burritos, on nachos, over salad, you name it!
+
+Yield: ['4']
+
+Prep time: PT10M
+
+Cook time: PT480M
+
+Ingredients:
+- 1 tablespoon extra-virgin olive oil
+- 2 chipotle peppers in adobo sauce (see note)
+- 2 oranges (juiced, about 1/2 cup)
+- 1 lime (juiced)
+- 1 teaspoon fish sauce
+- 4 garlic cloves
+- 1/4 cup chopped fresh cilantro
+- 1/2 teaspoon ground cumin
+- 1/2 teaspoon paprika
+- 1/2 teaspoon fine sea salt
+- 2 pounds flank steak or steak/beef of choice
+
+Instructions:
+1. Place all ingredients aside from the steak into your blender and blend until smooth.
+2. In a skillet over medium heat, sear the meat on both sides then place into the insert of your slow cooker.
+3. Pour the blended sauce mixture over the meat and set on low for 8 hours.
+4. Shred with two forks and serve over a salad, on top of nachos, or in lettuce leaf tacos.
+
+Visible page text:
+Home | Slow Cooker | Slow Cooker Carne Asada
+Slow Cooker Carne Asada
+published on Aug 07, 2023
+Share
+This post may contain affiliate links. Please read my disclosure policy .
+This Slow Cooker Carne Asada is the perfect set it and forget it meal. It’s made with juicy steak, cooked low and slow in a flavorful marinade. Serve in tacos or burritos, on nachos, over salad, you name it!
+Easy Crockpot Carne Asada
+The slow cooker is my favorite kitchen tool. I mean, there really is no better way to cook than just tossing a bunch of ingredients in a slow cooker, then forgetting about it.
+This Slow Cooker Carne Asada is one I will be making forever and ever. It’s perfect for weekly meal prep or for easy dinners or lunches when you don’t want to mess around with hands-on cooking.
+Not to mention the fact that it’s deliciously juicy, loaded with tons of flavor, and can be served in a million different ways.
+What is Carne Asada?
+Carne asada aka “grilled beef” is a traditional Mexican dish that’s made with marinated steak that’s cooked at high heat on a grill. It’s typically sliced into thin pieces, then served as part of a main dish!
+Since this carne asada is made in the slow cooker, it’s not technically prepared in the traditional way. But it does have the same delicious flavor and it sure is delicious!
+Ingredients Needed
+Sauce: Our flavorful marinade/sauce is made with a combination of olive oil, chipotle peppers in adobo sauce, orange and lime juice, fish sauce, garlic, cilantro, cumin, paprika, and salt.
+Steak: I use flank steak, but you could also use chuck or skirt steak if that’s what you have available to you.
+How to Make Carne Asada
+This crockpot carne asada recipe really is so simple! Just a couple steps of prep, then it all goes in the slow cooker!
+Make the marinade: Place all of the ingredients except the steak into your blender. Blend until smooth.
+Sear the meat: In a skillet over medium heat, sear the meat on both sides.
+Combine and cook: Place to seared meat into the slow cooker, pour the sauce on top, then cook on low for 8 hours. Once cooked, shred and serve as desired.
+What Meat is Carne Asada?
+Carne asada is beef—most commonly, steak.
+For this slow cooker recipe, I like to use flank steak. It’s a tougher cut of beef, which responds really well to the low and slow cooking process of the crockpot!
+Can You Put Marinated Meat in a Slow Cooker?
+You can, but it isn’t necessary. The meat and marinade in this recipe are added to the slow cooker at the same time.
+The long, slow cooking time gives the meat plenty of time to marinate while it cooks. It gets deliciously juicy, tender, and flavorful—no pre-marinating needed!
+How to Make Meat Tender in the Slow Cooker?
+The key to making the meat extra tender in the slow cooker is to cook it on low. While cooking it on high is also sufficient, the longer, slower cooking time with lower heat creates the most tender texture!
+In this recipe…
+KitchenAid ® 6-Qt. Slow Cooker
+Easy-read LCD display lets you choose from low, medium, high and warm settings and program up to 24 hours in 30-minute increments.
+Serving Suggestions
+There are tons of delicious and creative ways you can enjoy this carne asada. Here are a few ideas:
+Over a salad. Try it instead of the ground beef in my homemade taco salad .
+On nachos. Layer it over a big platter of loaded nachos.
+In tacos, burritos, or taquitos. Keep it light with lettuce leaf tacos, use it in baked beef taquitos , or scoop it into corn tortillas loaded up with rice , cotija cheese, Pickled Onions , and Coleslaw , with a scoop of fresh avocado and corn salsa , Homemade Guacamole , or Quick Restaurant-Style Salsa .
+And, of course, you can’t go wrong with a side of Mexican rice and homemade refried beans .
+How to Store
+Leftover carne asada can be stored in an airtight container in the fridge for up to 4 days or in the freezer for up to 3 months.
+To enjoy again, thaw the meat in the fridge if frozen, then warm in the oven, in a pan with a splash of broth, or in the microwave.
+More Slow Cooker Recipes:
+Slow Cooker Pulled Pork
+Classic Chicken Soup
+Beef Barbacoa Recipe
+Pork Carnitas
+Slow Cooker Short Ribs
+Crockpot Teriyaki Chicken
+Watch the Video:
+Pin this recipe to save it for later!
+Ingredients 1x 2x 3x
+1 tablespoon extra-virgin olive oil
+2 chipotle peppers in adobo sauce see note
+2 oranges juiced, about 1/2 cup
+1 lime juiced
+1 teaspoon fish sauce
+4 garlic cloves
+1/4 cup chopped fresh cilantro
+1/2 teaspoon ground cumin
+1/2 teaspoon paprika
+1/2 teaspoon fine sea salt
+2 pounds flank steak or steak/beef of choice
+Instructions
+Place all ingredients aside from the steak into your blender and blend until smooth.
+In a skillet over medium heat, sear the meat on both sides then place into the insert of your slow cooker .
+Pour the blended sauce mixture over the meat and set on low for 8 hours.
+Shred with two forks and serve over a salad, on top of nachos, or in lettuce leaf tacos.
+Notes
+Nutrition
+Freezer Friendly
+Meal Prep Frozen Burritos (Two Ways!)
+Thanksgiving
+Crockpot Cranberry Sauce
+Soups & Stews
+Classic Chicken Soup (Slow Cooker & Instant Pot)
+Chicken
+Slow Cooker Chicken Curry
+Leave a Comment Cancel reply
+Comments
+So easy and so delicious! The flank steak becomes so tender and the combination of flavors are perfect. Reply
+So easy and so delicious! The flank steak becomes so tender and the combination of flavors are perfect.
+Hi! Could I skip the fish sauce? Or is there a sub? Not my thing. Reply You can either omit or substitute for soy sauce at a 1-to-1 ratio. While we haven’t made the recipe with soy sauce it is a common substitution. Reply
+Hi! Could I skip the fish sauce? Or is there a sub? Not my thing.
+You can either omit or substitute for soy sauce at a 1-to-1 ratio. While we haven’t made the recipe with soy sauce it is a common substitution. Reply
+You can either omit or substitute for soy sauce at a 1-to-1 ratio. While we haven’t made the recipe with soy sauce it is a common substitution.
+This was the best – we fought over the leftovers! Reply
+This was the best – we fought over the leftovers!
+Hey Lexi! Looking to make this for super bowl Sunday and would like to use my instapot. Can you suggest cooking time etc? Thank you and LOVE your recipes!! Reply
+Hey Lexi! Looking to make this for super bowl Sunday and would like to use my instapot. Can you suggest cooking time etc? Thank you and LOVE your recipes!!
+I’m doubling the recipe – do I still cook for 8 hours? Reply That should work that way, but double check at the end it’s tender enough! Reply This recipe is so easy and always a hit. I used my instant pot and it worked so well too. Reply
+I’m doubling the recipe – do I still cook for 8 hours?
+That should work that way, but double check at the end it’s tender enough! Reply
+That should work that way, but double check at the end it’s tender enough!
+This recipe is so easy and always a hit. I used my instant pot and it worked so well too. Reply
+This recipe is so easy and always a hit. I used my instant pot and it worked so well too.
+Absolutely delicious! Was late on starting, so used Instant pot instead: cut up the meat in chunks, sautéed in pot for a couple minutes, added mixture on top and put on high pressure for 12 min + natural release. The meat melted in my mouth… so much flavor. Definitely a keeper! Reply
+Absolutely delicious! Was late on starting, so used Instant pot instead: cut up the meat in chunks, sautéed in pot for a couple minutes, added mixture on top and put on high pressure for 12 min + natural release. The meat melted in my mouth… so much flavor. Definitely a keeper!
+Hello, When you select a color for your recipes, people with bad eyesight have a hard time reading thin and light colors. Please use darker and heavier lettering so people like me, who are trying to get their health back can read the recipe. Thank you! Reply We’re about to launch our redesign which will be great! Thanks for being here Jean! Reply
+Hello, When you select a color for your recipes, people with bad eyesight have a hard time reading thin and light colors. Please use darker and heavier lettering so people like me, who are trying to get their health back can read the recipe. Thank you!
+We’re about to launch our redesign which will be great! Thanks for being here Jean! Reply
+We’re about to launch our redesign which will be great! Thanks for being here Jean!
+I have made this and love it. Was wondering if anyone has made it with chicken? Reply
+I have made this and love it. Was wondering if anyone has made it with chicken?
+I followed the recipe exactly, but my market only had thin sliced flank steak for Carne Asada. I got that and heated two cast iron skillets on high heat and quickly seared one side of the slices before putting them in the crockpot. I cooked them on low for 4 hours and they were done. The meat was delicious. It was very tender and smelled amazing while it was cooking. My family loved it I also put all of the ingredients in the cup for my hand immersion blender, and felt like that worked very wellf and was easy clean up for me. Thank you for the great recipe! Reply
+I followed the recipe exactly, but my market only had thin sliced flank steak for Carne Asada. I got that and heated two cast iron skillets on high heat and quickly seared one side of the slices before putting them in the crockpot. I cooked them on low for 4 hours and they were done. The meat was delicious. It was very tender and smelled amazing while it was cooking. My family loved it I also put all of the ingredients in the cup for my hand immersion blender, and felt like that worked very wellf and was easy clean up for me. Thank you for the great recipe!
+© 2026 Lexi's Clean Kitchen. All rights reserved. Privacy Policy

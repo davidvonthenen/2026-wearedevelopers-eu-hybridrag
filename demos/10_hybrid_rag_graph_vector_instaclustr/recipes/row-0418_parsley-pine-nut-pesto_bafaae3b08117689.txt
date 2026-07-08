@@ -1,0 +1,88 @@
+Parsley Pine Nut Pesto
+======================
+
+Recipe Metadata
+---------------
+Recipe ID: bafaae3b08117689
+CSV row number: 418
+Recipe name: Parsley Pine Nut Pesto
+Source: recipecommunity.com.au
+URL: https://www.recipecommunity.com.au/sauces-dips-spreads-recipes/parsley-pine-nut-pesto/pwjvep6l-d22cd-978532-cfcd2-aheqji0x
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02abfb542b03b2328159fa80c9d2ec48b15cffd6bea5c05e6cd0af80f4496c01/21126392.jpg
+Servings: 10
+Calories: 2631.00
+Diet labels: Low-Carb
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Parsley Pine Nut Pesto
+source: recipecommunity.com.au
+url: https://www.recipecommunity.com.au/sauces-dips-spreads-recipes/parsley-pine-nut-pesto/pwjvep6l-d22cd-978532-cfcd2-aheqji0x
+servings: 10
+calories: 2631.0046
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02abfb542b03b2328159fa80c9d2ec48b15cffd6bea5c05e6cd0af80f4496c01/21126392.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Login
+Parsley Pine Nut Pesto Edit
+TM 5
+Ingredients
+500 g flat leafed parsley, fresh
+125 g pine nuts, toasted
+125 g Parmigiano Reggiano Cheese, cubed
+125 g olive oil, Extra Virgin
+2 cloves garlic, peeled
+salt, to taste
+lemon juice, to taste
+Accessories you need
+Spatula TM5/TM6 buy now
+Share your activity
+Recipe's preparation
+1. Place Parmigiano Reggiano Cheese into mixing bowl and grate 15 sec/speed 10. 2. Add toasted pine nuts, garlic cloves, flat leafed parsley leaves, extra virgin olive oil, salt and lemon juice, chop 20 sec/speed 7. Serve immediately or transfer into a jar, seal and store in the refrigerator. Suitable to freeze in appropriate containers. This is a classic, fresh tasting sauce that originated in Genoa, Italy; it can be used on a variety of dishes and is a favourite with pasta. Pesto is Italian for "pounded".
+1. Place Parmigiano Reggiano Cheese into mixing bowl and grate 15 sec/speed 10.
+2. Add toasted pine nuts, garlic cloves, flat leafed parsley leaves, extra virgin olive oil, salt and lemon juice, chop 20 sec/speed 7. Serve immediately or transfer into a jar, seal and store in the refrigerator. Suitable to freeze in appropriate containers.
+This is a classic, fresh tasting sauce that originated in Genoa, Italy; it can be used on a variety of dishes and is a favourite with pasta. Pesto is Italian for "pounded".
+Tip
+Serve with all types of pasta.
+Keep pesto in refrigerator for up to one month, and in freezer for up to three months.
+Substitute 30 g of Parmigiano Reggiano Cheese with 30 g of Pecorino Cheese.
+Thermomix Model
+Recipe is created for TM 5 If you are using a Thermomix® TM6 measuring cup with your Thermomix® TM5: For cooking (simmering) at temperatures of 95°C or above (200°F), the simmering basket should always be used instead of the TM6 measuring cup, as the TM6 measuring cup fits tightly in the lid. The simmering basket rests loosely on top, is steam-permeable, and also prevents food spatter from the mixing bowl. Caution: Volume of TM5 Please note that the TM5 mixing bowl has a larger capacity than the TM31 (capacity of 2.2 liters instead of 2.0 liters for TM 31). Recipes for the Thermomix TM5 may not be cooked with a Thermomix TM31 for safety reasons without adjusting the quantities. Risk of scalding by spraying of hot liquids : Do not exceed the maximum filling quantity and observe the filling level markings of the mixing bowl!
+This recipe was provided to you by a Thermomix ® customer and has not been tested by Vorwerk Thermomix ® or The Mix Australia Pty Ltd and The Mix New Zealand Ltd. Vorwerk Thermomix ® and The Mix Australia Pty Ltd and The Mix New Zealand Ltd assume no liability, particularly in terms of ingredient quantities used and success of the recipes. Please observe the safety instructions in the Thermomix ® instruction manual at all times.
+Print recipe
+Comments
+Missasguard 15. July 2018 - 11:37 1.0 This was way to bitter & strong. I halved the mixture & only used 200g of fresh parsley & it was just like eating a bunch of parsley by itself as the other ingredients were way overpowered. I tried to rescue it by adding extra Parmesan & cream but even my husband who normally loves pesto wouldn’t eat it as it was too strong for him too. I can usually save recipes if they don’t turn out exactly to our taste but this went straight in the bin. Login or register
+This was way to bitter & strong. I halved the mixture & only used 200g of fresh parsley & it was just like eating a bunch of parsley by itself as the other ingredients were way overpowered. I tried to rescue it by adding extra Parmesan & cream but even my husband who normally loves pesto wouldn’t eat it as it was too strong for him too. I can usually save recipes if they don’t turn out exactly to our taste but this went straight in the bin.
+or
+register
+guest 18. September 2016 - 11:27 Beautiful recipe, I reduced the parsley as per the comments, it was around 350g whole. Incredibly tasty, mild and smooth. A great way to use up an abundance of parsley! Login or register
+Beautiful recipe, I reduced the parsley as per the comments, it was around 350g whole. Incredibly tasty, mild and smooth. A great way to use up an abundance of parsley!
+Beautiful recipe, I reduced the parsley as per the comments, it was around 350g whole. Incredibly tasty, mild and smooth.
+A great way to use up an abundance of parsley!
+Robbynfaye 10. January 2016 - 18:20 4.0 Agree that 500g is too much, it's a bit too bitter with parsley and it lost the cheese flavour. I used cashews instead of pine nuts, and it's still good. Login or register
+Agree that 500g is too much, it's a bit too bitter with parsley and it lost the cheese flavour. I used cashews instead of pine nuts, and it's still good.
+Summer77 15. July 2015 - 18:33 5.0 500g of parsley seems a little too much! However I made this with about 3 good handfuls of flat leaf and curly parsley and it was amazing. Will be making again thank you for sharing. Login or register
+500g of parsley seems a little too much! However I made this with about 3 good handfuls of flat leaf and curly parsley and it was amazing. Will be making again thank you for sharing.
+fullers 28. December 2014 - 14:47 5.0 This pesto is awesome!!!! I used about two and a half bunches of parsley (not the 500g recommended) & it tastes delicious. Can't wait to put it with some pasta but it would even be nice as a spread on crusty bread. Will definitely be making this again Login or register
+This pesto is awesome!!!! I used about two and a half bunches of parsley (not the 500g recommended) & it tastes delicious. Can't wait to put it with some pasta but it would even be nice as a spread on crusty bread. Will definitely be making this again
+Other users also liked
+more Sauces, dips & spreads recipes
+same creator
+same ingredients

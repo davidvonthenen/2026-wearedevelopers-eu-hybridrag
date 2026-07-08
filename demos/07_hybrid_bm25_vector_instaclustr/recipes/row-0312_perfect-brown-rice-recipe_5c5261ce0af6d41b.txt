@@ -1,0 +1,116 @@
+Perfect Brown Rice Recipe
+=========================
+
+Recipe Metadata
+---------------
+Recipe ID: 5c5261ce0af6d41b
+CSV row number: 312
+Recipe name: Perfect Brown Rice Recipe
+Source: Martha Stewart
+URL: https://www.marthastewart.com/924877/master-recipe-brown-rice
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01fde71da9c5f3264742ab00cf516a23b8403796ea669af9088d9f8ac233f771/20954758.jpg
+Servings: 4
+Calories: 687.80
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Low Sugar, Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: chinese
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Perfect Brown Rice Recipe
+source: Martha Stewart
+url: https://www.marthastewart.com/924877/master-recipe-brown-rice
+servings: 4
+calories: 687.8000000000001
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01fde71da9c5f3264742ab00cf516a23b8403796ea669af9088d9f8ac233f771/20954758.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Low Sugar","Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["chinese"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Perfect Brown Rice Recipe
+
+Description: Learn how to cook brown rice on the stove with our easy recipe. All you need is brown rice, the right rice-to-water ratio, and a pan with a tight-fitting lid.
+
+Recipe category: ['Dinner', 'Side Dish']
+
+Recipe cuisine: ['American']
+
+Yield: ['5', '2 1/2 cups']
+
+Cook time: PT30M
+
+Total time: PT40M
+
+Ingredients:
+- 1 cup brown rice
+- 1 1/4 to 1 1/2 cups water
+- 0.25 teaspoon kosher salt
+
+Instructions:
+1. Bring rice, water, and salt to a boil. Reduce heat, cover, and cook at a slow, steady simmer for 30 minutes.
+2. Let the cooked rice sit for 10 minutes, covered, to absorb maximum moisture; then remove the lid, and fluff the grains with a fork.
+
+Visible page text:
+Recipes
+Ingredients
+Pasta and Grains
+Rice Recipes
+Perfect Brown Rice Recipe
+Our easy method produces fluffy rice every time.
+Learn how to cook brown rice on the stove. It's really more of a formula than a recipe—and a revolutionary approach. Our go-to protocol calls for just 30 minutes of cooking time, not the 50 minutes typically called for in many other recipes. This key difference helps prevent overcooked, mushy rice and yields fluffy, chewy results every time. Before you begin, make sure you have a wide, shallow pot with a tight-fitting lid—it’s the key to getting evenly cooked rice . And measure the rice and water carefully using the ratios provided rather than eyeballing the ingredients.
+Diana Chistruga
+Key Differences Between Brown and White Rice
+While we love them both equally, brown and white rice differ dramatically in that brown rice retains the bran and germ covering of the rice grain. This results in a few disparities:
+Taste and texture: Brown rice is known for its nutty taste, which is slightly less neutral than white rice. When cooked properly, brown rice should be chewy and toothsome. It is both less tender and denser than its milled counterpart, in addition to being less starchy. For this reason, it's not necessary to rinse brown rice to remove excess starch as with white rice.
+Health benefits: Since it still contains the bran and germ, brown rice has more fiber and essential minerals—including magnesium, manganese, niacin, and folate—than white rice.
+Cook time: While our recipe cuts down on cook time compared to many other brown rice recipes, it still requires about 30 minutes on the stove compared to the 12 to 15 minutes that white rice needs to become tender.
+The Right Ratio: Although it's printed on the package, the standard 2-to-1 ratio makes for mushy rice.
+For long-grain brown rice, use 1 1/4 cups water to 1 cup rice.
+For short-grain brown rice, use 1 1/2 cups water to 1 cup rice.
+How to Properly Store Dry Brown Rice
+Dry brown rice can spoil more quickly than white rice, as the attached bran contains oils that are prone to oxidation. Kept in an airtight container in the pantry, it should last for at least six months. For longer storage, keep it in the refrigerator or freezer.
+1 cup brown rice
+1 1/4 to 1 1/2 cups water
+¼ teaspoon kosher salt
+Directions
+Combine rice and water and cook: Bring rice, water, and salt to a boil. Reduce heat, cover, and cook at a slow, steady simmer for 30 minutes. Credit: Diana Chistruga
+Combine rice and water and cook:
+Bring rice, water, and salt to a boil. Reduce heat, cover, and cook at a slow, steady simmer for 30 minutes.
+Steam and fluff: Let the cooked rice sit for 10 minutes, covered, to absorb maximum moisture; then remove the lid, and fluff the grains with a fork. Credit: Diana Chistruga
+Steam and fluff:
+Let the cooked rice sit for 10 minutes, covered, to absorb maximum moisture; then remove the lid, and fluff the grains with a fork.
+Storing and Reheating Cooked Brown Rice
+Refrigerate cooked rice in an airtight container for up to five days.
+Freezing
+Spread the cooled rice in an inch-thick layer in a large resealable plastic bag. That way you can easily break off individual portions as needed.
+Reheating
+Whether frozen or refrigerated, reheat rice in the microwave, covered, until it is steaming, one to three minutes.
+3 Ways to Use Brown Rice
+Rice with greens and eggs: Sauté spinach, collards, kale, or any other hearty green in olive oil with sliced garlic, salt, and pepper. Serve the greens over brown rice with a fried egg on top. Season with red pepper flakes. Fried rice: Stir-fry chicken, tofu , or shrimp until cooked. Remove from the pan, and add sliced vegetables. Cook until crisp-tender, remove, and then add chopped ginger, scallion, and garlic to the pan. Cook, stirring, until fragrant. Add vegetables and protein back to the pan, along with some rice, and toss. Finish with soy sauce. Hot rice cereal: Heat rice with milk and a pinch of salt in the microwave or on the stovetop. Top with cinnamon, bananas, maple syrup, nuts, or seeds.
+Frequently Asked Questions
+Why is my rice still crunchy after cooking? If your rice is still crunchy after cooking, the heat may have been too high. If the heat is too high when you cook rice, it causes too much water to evaporate before the rice has a chance to cook. The other main reason why your rice is still crunchy after cooking would be that you did not use enough water.
+If your rice is still crunchy after cooking, the heat may have been too high. If the heat is too high when you cook rice, it causes too much water to evaporate before the rice has a chance to cook. The other main reason why your rice is still crunchy after cooking would be that you did not use enough water.
+What is the correct ratio of water to brown rice? The correct ratio of water to brown rice is 1 1/4 to 1 1/2 cups of water to 1 cup of brown rice. We use a different ratio to the usual one cup of brown rice to 2 cups of water. Using our ratio and recipe will produce fluffy, chewy brown rice that isn't overcooked or mushy.
+The correct ratio of water to brown rice is 1 1/4 to 1 1/2 cups of water to 1 cup of brown rice. We use a different ratio to the usual one cup of brown rice to 2 cups of water. Using our ratio and recipe will produce fluffy, chewy brown rice that isn't overcooked or mushy.
+How do I know when brown rice is properly cooked? You know when brown rice is properly cooked when it is chewy and toothsome but not tough and crunchy. The rice should also be fluffy, with individual grains that separate when fluffed with a fork. Overcooked brown rice will be mushy and gluey with grains that stick together.
+You know when brown rice is properly cooked when it is chewy and toothsome but not tough and crunchy. The rice should also be fluffy, with individual grains that separate when fluffed with a fork. Overcooked brown rice will be mushy and gluey with grains that stick together.
+5 More Recipes With Brown Rice
+Rice Salad With Tomatoes, Cucumbers, and Feta
+One-Pot Chicken and Brown Rice
+Brown Rice, Farro, or Spelt Breakfast Bowl
+Sweet Corn-Brown Rice Risotto
+Crisped Brown Rice With Beef, Vegetables, and Eggs
+Related Articles

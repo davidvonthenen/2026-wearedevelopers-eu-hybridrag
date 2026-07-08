@@ -1,0 +1,171 @@
+Toasted Lobster Rolls Recipe
+============================
+
+Recipe Metadata
+---------------
+Recipe ID: 574f0a2361067145
+CSV row number: 96
+Recipe name: Toasted Lobster Rolls Recipe
+Source: Group Recipes
+URL: http://www.grouprecipes.com/76327/toasted-lobster-rolls.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/008a72b83d2f5712a6a59417df09e49f5e90d8275ccd3e157998cf19a9f97a01/21070629.jpg
+Servings: 4
+Calories: 1792.29
+Diet labels: Low-Carb
+Health labels: Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free
+Allergy cautions: Milk, Sulfites
+Cuisine type: south east asian
+Meal type: lunch/dinner
+Dish type: sandwiches
+
+Original CSV Fields
+-------------------
+recipe_name: Toasted Lobster Rolls Recipe
+source: Group Recipes
+url: http://www.grouprecipes.com/76327/toasted-lobster-rolls.html
+servings: 4
+calories: 1792.293404440294
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/008a72b83d2f5712a6a59417df09e49f5e90d8275ccd3e157998cf19a9f97a01/21070629.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free"]
+cautions: ["Milk","Sulfites"]
+cuisine_type: ["south east asian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["sandwiches"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Categories Search Your Bookmarks Upload a Recipe
+Categories
+Search
+Your Bookmarks
+Upload a Recipe
+No idea what to search for? Start browsing till you find something.
+grilled tilapia recipe
+soil mix recipe
+broiled steak recipe
+broiled pork chops
+recipe for cream of tomato soup
+wwwcabbage rollupscom
+microwave pork soy sauce wine flour onions
+frosting made with pudding
+Toasted Lobster Rolls Recipe
+Toasted Lobster Rolls
+Add yours
+3 minutes to make
+Serves 4
+After seeing so many different recipes for the famous New England sandwich, the Lobster Roll, I had to try it. I looked through several recipes, but was lacking an item or 2, so I had to improvise…many thanks to Greekgirrrl, Lam, and Binky67 for leading me in the right direction, and sharing your recipes that each contributed something to this end product – I didn’t regret for one moment the cost of the lobster meat! Read more This is not an economical meal by any means, but it sure is worth the splurge when you can afford it… See less
+creamy
+crunchy
+lobster
+filling
+on
+a
+toasted
+bun
+celery
+onion
+cucs
+quick
+save Add tags (comma separated) to categorize your bookmark. Save Feel free to use any of the below tags. Click one to add it. creamy crunchy lobster filling on a toasted bun celery onion cucs quick
+planner Add this recipe to your weekly planner Fri Sat Sun Mon Tue Wed Thu Schedule your weekly meals and get auto-generated shopping lists. or go to planner
+Fri
+Sat
+Sun
+Mon
+Tue
+Wed
+Thu
+Schedule your weekly meals and get auto-generated shopping lists.
+print
+email Email to Send
+groc. list Add items to your shopping list ¾ cup real mayonnaise (don’t substitute on this!) 1 squirt of fresh squeezed lemon juice a couple turns of fresh ground black pepper a couple turns of fresh ground sea salt a couple pinches of Old Bay seasoning ½ cup finely diced cucumber (peeled and seeds removed, then diced finely) ¼ cup diced sweet onion ¼ cup diced shallot ½ cup diced celery (large enough to give a good crunch factor) 1 pound lobster meat 4 large crispy romaine leaves hot dog buns softened butter go view your shopping list
+¾ cup real mayonnaise (don’t substitute on this!)
+1 squirt of fresh squeezed lemon juice
+a couple turns of fresh ground black pepper
+a couple turns of fresh ground sea salt
+a couple pinches of Old Bay seasoning
+½ cup finely diced cucumber (peeled and seeds removed, then diced finely)
+¼ cup diced sweet onion
+¼ cup diced shallot
+½ cup diced celery (large enough to give a good crunch factor)
+1 pound lobster meat
+4 large crispy romaine leaves
+hot dog buns
+softened butter
+Ingredients
+¾ cup real mayonnaise (don’t substitute on this!) shopping list
+1 squirt of fresh squeezed lemon juice shopping list
+a couple turns of fresh ground black pepper shopping list
+a couple turns of fresh ground sea salt shopping list
+a couple pinches of Old Bay Seasoning shopping list
+½ cup finely diced cucumber (peeled and seeds removed, then diced finely) shopping list
+¼ cup diced sweet onion shopping list
+¼ cup diced shallot shopping list
+½ cup diced celery (large enough to give a good crunch factor) shopping list
+1 pound lobster meat shopping list
+4 large crispy romaine leaves shopping list
+hot dog buns shopping list
+softened butter shopping list
+How to make it
+In a medium bowl, combine the mayonnaise, lemon juice, and seasonings (taste it to see if you want any additional seasoning, but I found this sandwich filling needed very little).
+Stir in the diced veggies, then gently add in the lobster meat.
+Butter both sides of the hot dog buns and either toast in a skillet or under the broiler (I found this easiest to do in a griddle pan on the stovetop - I could use a spatula to press down on the bread as the bottom toasted, then flip it and toast the other side).
+When toasted, insert a crispy romaine leaf inside each bun, and then fill it with the lobster salad mixture.
+Serve immediately, and lick your fingers all you want – you won’t want to waste a drop of this!
+NOTE: I think the lobster mixture would also be great on a bed of crispy lettuce for a main dish salad, or served on little rye bread squares for an appetizer. I had trouble not eating it straight out of the bowl!
+notyourmomma South St. Petersburg, FL
+littlemissey WI
+cookingforfun Marblehead, MA
+mystic_river1 Bradenton, Florida
+jett2whit Union City, GA
+cherylannxo Santa Nella, CA
+a1patti Salem, MA
+binky67 Ellicott City, MD
+lasaf St. Paul, MN
+shariv Rochester, NY
+Show up here? Review or Bookmark it! ✔
+All Comments
+Your Comments
+binky67 17 years ago :-) Anytime Was this review helpful? Yes Flag
+" It was excellent " littlemissey ate it and said... My hubby is from Maine and he would always talk about lobster rolls. I have saved this one to make, sounds wonderful. Thanks for posting this great recipe. Got my "5" Was this review helpful? Yes Flag
+michellem 17 years ago Yum this looks great! Im not sure I will find the best lobster around here. Maybe I can save this recipe and make it when we go to the coast in the summer! Was this review helpful? Yes Flag
+" It was excellent " cookingforfun ate it and said... Perfect recipe. Thnaks and a 5 to you Arthur Was this review helpful? Yes Flag
+" It was excellent " mystic_river1 ate it and said... I can smell the salty Atlantic Ocean as my Pappa and I walk along the rocky Maine coast. Memories of Kennebunkport, and a lobster roll to boot. A definite ^5. And a sincere thank you. Was this review helpful? Yes Flag
+" It was excellent " flavors ate it and said... Thank you so much for this. I miss the lobster rolls we used to get on the Cape. We haven't been able to get back there for about 10 years. I will be making these this week. I also miss the fried clam rolls with the bellies on :( You are the best. MJ Was this review helpful? Yes Flag
+" It was excellent " jett2whit ate it and said... Wowza! Love the sound of this one...high 5! Was this review helpful? Yes Flag
+" It was excellent " cherylannxo ate it and said... Good morning Krumkake! It is so good to see you back, I missed you so much. I hope you're doing OK. Please write me back. This recipe is Over the top. You deserve my 5. Thank you so very much for sharing. Your friend...Cheryl Was this review helpful? Yes Flag
+mrtnzangel8 17 years ago Oh you just made me so hungry. I have never had a lobster roll, but I am sure I would love them. Great post, Krum! Was this review helpful? Yes Flag
+The Cook
+The Rating
+Good morning Krumkake! It is so good to see you back, I missed you so much. I hope you're doing OK. Please write me back. This recipe is Over the top. You deserve my 5. Thank you so very much for sharing. Your friend...Cheryl cherylannxo in Santa Nella loved it
+Good morning Krumkake! It is so good to see you back, I missed you so much. I hope you're doing OK. Please write me back. This recipe is Over the top. You deserve my 5. Thank you so very much for sharing. Your friend...Cheryl
+Wowza! Love the sound of this one...high 5! jett2whit in Union City loved it
+Wowza! Love the sound of this one...high 5!
+Thank you so much for this. I miss the lobster rolls we used to get on the Cape. We haven't been able to get back there for about 10 years. I will be making these this week. I also miss the fried clam rolls with the bellies on :( You are the best. MJ flavors in Algonquin loved it
+Thank you so much for this. I miss the lobster rolls we used to get on the Cape. We haven't been able to get back there for about 10 years. I will be making these this week. I also miss the fried clam rolls with the bellies on :( You are the best. MJ
+The Groups
+Not added to any groups yet!
+My Stuff My Home My Bookmarks Shopping List Weekly Planner
+My Home
+My Bookmarks
+Shopping List
+Weekly Planner
+Jump To Browse Categories Search
+Browse Categories
+Help Help Forum FAQ
+Help Forum
+FAQ
+Search Inspiration Terms of Service & Privacy Contact
+Search Inspiration
+Terms of Service & Privacy
+Contact
+Take Note We will not respond to member emails. Use the Help Forum for that.
+If you have a business development or DMCA inquiry, Click Here .
+Advertising on Group Recipes is sold by SheKnows.com. You can contact the sales team for more info.
+while I look at others.

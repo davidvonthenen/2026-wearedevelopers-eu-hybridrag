@@ -1,0 +1,90 @@
+Mango Dream Cocktail
+====================
+
+Recipe Metadata
+---------------
+Recipe ID: cdb7b2d932db433a
+CSV row number: 382
+Recipe name: Mango Dream Cocktail
+Source: hungryforever.com
+URL: https://www.hungryforever.com/recipe/mango-dream-cocktail/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/026b8c97933c35fffd3d7ab4c87701a6e0676ca8fad43c89c01c4252f24191c5/21069575.jpg
+Servings: 2
+Calories: 174.49
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Wheat, Sulfites
+Cuisine type: world
+Meal type: lunch/dinner
+Dish type: alcohol cocktail
+
+Original CSV Fields
+-------------------
+recipe_name: Mango Dream Cocktail
+source: hungryforever.com
+url: https://www.hungryforever.com/recipe/mango-dream-cocktail/
+servings: 2
+calories: 174.4913148
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/026b8c97933c35fffd3d7ab4c87701a6e0676ca8fad43c89c01c4252f24191c5/21069575.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Wheat","Sulfites"]
+cuisine_type: ["world"]
+meal_type: ["lunch/dinner"]
+dish_type: ["alcohol cocktail"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Mango Dream Cocktail
+
+Description: It doesn't get much better than rum and mango!
+
+Recipe category: ['Drinks']
+
+Recipe cuisine: ['World']
+
+Yield: 1
+
+Total time: PT5M
+
+Ingredients:
+- 1 1/2 ounces mango nectar
+- 1 ounce rum
+- 1 ounce triple sec
+
+Instructions:
+1. Mix all ingredients in cocktail shaker with ice and serve in martini glass
+
+Visible page text:
+It’s Friday (more like Fri-yay) and let’s be honest this week has been hard. If you’re looking for an easy pick me up drink that only uses three ingredients (thank you Genius Kitchen) then the Mango Dream cocktail is something you should definitely try!
+1 1/2 ounces mango nectar
+1 ounce rum
+1 ounce triple sec
+Mix all ingredients in cocktail shaker with ice and serve in martini glass
+Rice Poori Recipe
+Apple Ginger Lemonade Recipe
+Compulsive junk food eater, football watcher, and book reader. Hate the unicorn trend, love laughing at my own jokes; also, sometimes I write about food.
+You may like
+Experience the Fusion of Flavors With Khmer Kitchen’s New Asian Inspired Cocktail Menu
+24 Years Old Bangkok Restaurant To Open An Outlet In Mumbai
+Potterheads You Have To Try This Magical Cocktail Class
+Make A Pretty Fly Mai Tai With This Simple Recipe
+Butterscotch Coffee Cocktail
+Black Tea Hot Toddy
+RECENT POSTS
+Elevate your Father’s Day celebration with a Sophisticated Highball Night in with your Dad
+Elevate your Father’s Day celebration with a Sophisticated Highball Night in with your Dad Father’s Day is a time to...
+Sip, Savor, Repeat: Monkey Bar’s Summer Cocktails
+Sip, Savor, Repeat: Monkey Bar’s Summer Cocktails Bangalore, May 2024: Get ready to sip your way through summer with Monkey...
+Tuk Tuk – The Night Noodle Market at The Fatty Bao
+Tuk Tuk The Night Noodle Market at The Fatty Bao Bengaluru, Karnataka – 2nd April, 2024 – Mark your...
+Which mangoes are coming in this season? Attributed to – Team Madras Mandi
+Which mangoes are coming in this season? Attributed to – Team Madras Mandi India accounts for a staggering 50% of...
+Spicing it up! : Foo’s Fiery Edit Menu Is Back
+Spicing it up! : Foo’s Fiery Edit Menu Is Back Get ready to turn up the heat with Foo’s much-awaited...
+Facebook

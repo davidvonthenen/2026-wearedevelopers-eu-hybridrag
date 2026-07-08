@@ -1,0 +1,132 @@
+Carrot and Raisin Salad
+=======================
+
+Recipe Metadata
+---------------
+Recipe ID: 8a416945e598cf47
+CSV row number: 402
+Recipe name: Carrot and Raisin Salad
+Source: sustainingthepowers.com
+URL: https://www.sustainingthepowers.com/carrot-raisin-salad/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02981b520e32d346f9d7d0f9b2b2cda4831ba734e49e21ef6cceed9b1e92bc12/21116257.jpg
+Servings: 6
+Calories: 1543.20
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Carrot and Raisin Salad
+source: sustainingthepowers.com
+url: https://www.sustainingthepowers.com/carrot-raisin-salad/
+servings: 6
+calories: 1543.19865
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02981b520e32d346f9d7d0f9b2b2cda4831ba734e49e21ef6cceed9b1e92bc12/21116257.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Carrot and Raisin Salad
+
+Description: A quick and easy southern favorite carrot and raisin salad.
+
+Prep time: PT5M
+
+Cook time: PT1H
+
+Total time: PT1H5M
+
+Ingredients:
+- 2 10oz bags of pre-shredded carrots or 12 medium fresh carrots, finely shredded
+- 1 20oz can crushed pineapple, with juice separated
+- 3/4 C pineapple juice, drained from canned pineapple
+- 1 C raisins or dried currants, plumped in hot water
+- 1 C plain Greek yogurt or mayonnaise
+- 1 Tbsp sugar
+- 1 Tbsp fresh lemon juice
+
+Instructions:
+1. Soak raisins in hot water to plump
+2. Drain juice off of crushed pineapple into a cup. Combine 3/4 C of the drained pineapple juice with the Greek yogurt, lemon juice, and sugar in a small bowl.
+3. Drain water off the raisins.
+4. In a large bowl, gently combine drained raisins, crushed pineapple, and shredded carrots.
+5. Pour the yogurt mixture over the top and stir to coat.
+6. Chill for at least an hour.
+7. Stir before serving.
+
+Visible page text:
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+Every Sunday in our house involves zombies. A while ago, we invited a couple friends over for dinner and to watch the Walking Dead on a Sunday night. The simple “post-apocalypse potluck” meal of whatever we had leftover in the fridge has now morphed into a weekly Sunday night event with 8-10 people over for dinner and a watch party each week. We watch it like many people watch football- yelling at the screen: “Look behind you!” “You didn’t check the back room!” “Save your bullets!” “Yay he’s dead!!” As crazy as it may seem to some to have people over every week, I actually thrive on the hospitality. I also love that we’ve all bonded and become better friends over a zombies. Sometimes we take those online quizzes to see which character we are and then plan what we would do if the world was infected. ( I’m Maggie btw. )
+We typically provide the “main” dish and ask people to bring whatever they feel like “post-apocalypse style” to contribute. Sometimes that’s beer and some tortilla chips. Other times we have a 50ct box of cookies and a salad to go with the spaghetti. At one point we had grilled cheese, meatballs, and salsa. It’s low key and fun. This past week was a treat for me because one of our weekly zombie lovers offered to make this amazing chicken pot pie recipe as our main dish. This left me with the easy task of making a suitable side dish. After thinking through the usual suspects of mashed potatoes and mac and cheese, I decided to head in the direction of salads and landed on this carrot and raisin salad. Come to find out, none of them had ever had it before! It was happily devoured, so I decided to share it with you all in case you too have never tried the wonderful fruit/veggie combo of carrot and raisin salad.
+The start of this recipe is to get some very hot water (either from the tap, stovetop, or heated in the microwave) and toss in the raisins to plump them up a bit. (I learned this awesome trick from my grandma.) I do this every time I make this salad or bake with raisins and it results in juicy bites of sweet raisin.
+The next stage is to drain the pineapple juice from the can (reserving the pineapple) into a cup. Measure out 3/4 cup of the pineapple juice and combine it with the sugar, lemon juice, and plain Greek yogurt. You can use regular mayonnaise for this dish if you want to go the traditional route, but I prefer the fewer calories and added protein of the Greek yogurt. It’s pretty much my go-to sub for anything mayo or sour cream and we buy it almost by the gallon.
+Drain the now-plump raisins and put them in a bowl with the shredded carrots and crushed pineapple you drained earlier. Pour the yogurt, sugar, pineapple juice, and lemon juice mixture over the top and stir to combine. Refrigerate for at least an hour before serving. You will end up with a bit of “soup” at the bottom because it will drain off of the solid carrots, so stir it around before serving with a slotted spoon. Enjoy your taste of the South!
+Description
+A quick and easy southern favorite carrot and raisin salad.
+Ingredients
+2 10oz bags of pre-shredded carrots or 12 medium fresh carrots, finely shredded
+1 20oz can crushed pineapple, with juice separated
+3/4 C pineapple juice, drained from canned pineapple
+1 C raisins or dried currants, plumped in hot water
+1 C plain Greek yogurt or mayonnaise
+1 Tbsp sugar
+1 Tbsp fresh lemon juice
+Instructions
+Soak raisins in hot water to plump
+Drain juice off of crushed pineapple into a cup. Combine 3/4 C of the drained pineapple juice with the Greek yogurt, lemon juice, and sugar in a small bowl.
+Drain water off the raisins.
+In a large bowl, gently combine drained raisins, crushed pineapple, and shredded carrots.
+Pour the yogurt mixture over the top and stir to coat.
+Chill for at least an hour.
+Stir before serving.
+Notes
+Gluten-Free: It’s already gluten free!
+Vegan: use a vegan Greek yogurt or make your own vegan mayo with my favorite recipe
+Nutrition
+Serving Size: 10
+Recipe Remix: If you want to go really southern, you can add it to some orange jello for a carrot jello salad. I like to toss extra carrot and raisin salad over some leafy greens with a dash of cumin or ground ginger, toasted almonds, some mandarin oranges, and some grilled chicken for an awesome healthy lunch.
+So, tell me below, have you had carrot and raisin salad before? Are you also a huge Walking Dead fan?
+Shared at:
+Recipes Chosen Just for You!
+Walking Dead Brain Cheesecake + Meal Plan Monday Week 13
+5 Allergy-friendly Potluck Themes for Your Next…
+Skinny Slow Cooker Chicken Tikka Masala //…
+Meal Plan Monday Week 44
+Reader Interactions
+This post may contain affiliate links. Sustaining the Powers is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. When you use these links to make purchases, I earn a portion of the sales at no extra cost to you. Thanks for helping to keep our pantry stocked! <3
+Comments
+I think we buy sour cream by the gallon. lol What a great way to spend Sundays! Sounds like a blast! 😀 Reply I’d love to buy sour cream by the gallon. 🙂 It’s definitely an awesome tradition we’ve started. If you were closer, I’d invite you to share some cocktails. I bet you’d have some awesome zombie-themed ideas. Reply
+I think we buy sour cream by the gallon. lol
+What a great way to spend Sundays! Sounds like a blast! 😀
+I’d love to buy sour cream by the gallon. 🙂 It’s definitely an awesome tradition we’ve started. If you were closer, I’d invite you to share some cocktails. I bet you’d have some awesome zombie-themed ideas. Reply
+I’d love to buy sour cream by the gallon. 🙂
+It’s definitely an awesome tradition we’ve started. If you were closer, I’d invite you to share some cocktails. I bet you’d have some awesome zombie-themed ideas.
+Zombies every Sunday…. how fun!! This slaw looks incredible…I love different versions and can’t wait to try this one! Reply It is definitely fun! We’ve made some great friends over dinner and get to geek out each week. I’ve had many different ones over the years and this is definitely the recipe I make over and over. Someone said it’s similar to the salad Chick-Fil-A used to make. Reply
+Zombies every Sunday…. how fun!! This slaw looks incredible…I love different versions and can’t wait to try this one!
+It is definitely fun! We’ve made some great friends over dinner and get to geek out each week. I’ve had many different ones over the years and this is definitely the recipe I make over and over. Someone said it’s similar to the salad Chick-Fil-A used to make. Reply
+It is definitely fun! We’ve made some great friends over dinner and get to geek out each week. I’ve had many different ones over the years and this is definitely the recipe I make over and over. Someone said it’s similar to the salad Chick-Fil-A used to make.
+That looks like fun. I’ve never had anything like this before. I wonder if it would encourage my kids to eat something healthy? Thanks for linking up on Snickerdoodle Sunday. Reply This was definitely one of my favorite treats as a kid. It typically turns out pretty sweet, and I think my mom even got away with serving carrot salad as a dessert a few times. For kid-size mouths, I might give the pre-shredded carrots a rough chop to shorten them down a bit before mixing them in. Reply
+That looks like fun. I’ve never had anything like this before. I wonder if it would encourage my kids to eat something healthy? Thanks for linking up on Snickerdoodle Sunday.
+This was definitely one of my favorite treats as a kid. It typically turns out pretty sweet, and I think my mom even got away with serving carrot salad as a dessert a few times. For kid-size mouths, I might give the pre-shredded carrots a rough chop to shorten them down a bit before mixing them in. Reply
+This was definitely one of my favorite treats as a kid. It typically turns out pretty sweet, and I think my mom even got away with serving carrot salad as a dessert a few times. For kid-size mouths, I might give the pre-shredded carrots a rough chop to shorten them down a bit before mixing them in.
+Thanks for the raisins trick! That’s probably why raisins are so good in my oatmeal, because they get a bit plump from cooking. I found you on a Pinterest party. Reply Plumping them really does make all the difference! Thanks for stopping by! Reply
+Thanks for the raisins trick! That’s probably why raisins are so good in my oatmeal, because they get a bit plump from cooking. I found you on a Pinterest party.
+Plumping them really does make all the difference! Thanks for stopping by! Reply
+Plumping them really does make all the difference! Thanks for stopping by!
+Leave a Reply Cancel reply

@@ -1,0 +1,69 @@
+Snickers Blondies
+=================
+
+Recipe Metadata
+---------------
+Recipe ID: 858d5b5b6f050ab9
+CSV row number: 287
+Recipe name: Snickers Blondies
+Source: Good Housekeeping
+URL: https://www.goodhousekeeping.com/food-recipes/a14117/snickers-blondies-recipe-123648
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01ccda7d51aa541fe654497a6b4dd00736b3a15ddeccb79d89474e5255fec959/21117915.jpg
+Servings: 16
+Calories: 2575.06
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Snickers Blondies
+source: Good Housekeeping
+url: https://www.goodhousekeeping.com/food-recipes/a14117/snickers-blondies-recipe-123648
+servings: 16
+calories: 2575.064
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01ccda7d51aa541fe654497a6b4dd00736b3a15ddeccb79d89474e5255fec959/21117915.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Your go-to resources for triple-tested recipes for delicious appetizers, salads and sides, easy dinners, desserts and refreshing cocktails — plus cooking how-tos and taste tests from the Good Housekeeping Test Kitchen.
+Inside The Test Kitchen
+Inside the Good Housekeeping Test Kitchen
+Delicious Cocktail Recipes
+What's the Best Ice for Margaritas? There's Actually a Right Answer
+The Best Classic Cocktail Recipes
+Cold, Crisp Pickle Micheladas
+Upgrade Your Cocktails With Clear Ice — Here's How
+How to Make the "Dirtiest, Filthiest" Martini
+you deserve the best
+Get tested and trusted tips, tricks and picks to create the home you want — straight to your inbox.
+Cooking Tips
+The Secret Ingredient for Better Beef Stroganoff
+How to Mellow Raw Onions Fast
+The Best Vegetable Oil Substitutes
+The #1 Sub Sandwich Mistake
+Healthy Recipes
+Easy High-Protein, High-Fiber Meals
+High-Protein Pasta Recipes
+Protein Pancake Swap
+The Easy Oatmeal Upgrade That Adds More Protein
+Party Recipes
+Raspberry-Rose Frangipane Tart
+Fondue vs. Raclette
+The Viral Winter Olympics Chocolate Lava Cake
+Jello Shots—the Unexpected Cocktail Trend of 2026
+Girly Shirley Jello Shots

@@ -1,0 +1,86 @@
+Tomato Toast with Chives and Sesame Seeds
+=========================================
+
+Recipe Metadata
+---------------
+Recipe ID: fb36b0f0a55bd16a
+CSV row number: 316
+Recipe name: Tomato Toast with Chives and Sesame Seeds
+Source: Bon Appetit
+URL: https://www.bonappetit.com/recipe/tomato-toast-with-chives-and-sesame-seeds
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0200483dfafd44134ec57fde2f7f7d6bc865dd2f41c957b44f7e21afacb79efa/21037240.jpg
+Servings: 4
+Calories: 1325.30
+Diet labels: none listed
+Health labels: Vegetarian, Dairy-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Tomato Toast with Chives and Sesame Seeds
+source: Bon Appetit
+url: https://www.bonappetit.com/recipe/tomato-toast-with-chives-and-sesame-seeds
+servings: 4
+calories: 1325.299230001785
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0200483dfafd44134ec57fde2f7f7d6bc865dd2f41c957b44f7e21afacb79efa/21037240.jpg
+diet_labels: []
+health_labels: ["Vegetarian","Dairy-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Tomato Toasts
+
+Description: For this tomato toast recipe, be sure to sprinkle the chives, sesame seeds, and flaky salt with abandon.
+
+Yield: 4 servings
+
+Ingredients:
+- 1 garlic clove, finely grated
+- ½ cup mayonnaise
+- Kosher salt
+- ½ lemon
+- 4 ¾"-thick slices country-style bread, toasted
+- 3 medium tomatoes, thinly sliced
+- 2 Tbsp. finely chopped chives
+- 2 tsp. toasted sesame seeds
+- Flaky sea salt
+- Freshly ground black pepper
+- Aleppo-style pepper (for serving; optional)
+- Extra-virgin olive oil (for drizzling)
+
+Instructions:
+1. Mix garlic and mayonnaise in a small bowl. Squeeze about 1 tsp. juice from lemon half into bowl; season with kosher salt. Hang on to lemon.
+2. Spread a generous layer of seasoned mayonnaise over toast; shingle a few tomato slices on top. Sprinkle with chives, sesame seeds, sea salt, black pepper, and Aleppo-style pepper. Finely grate some lemon zest from reserved lemon over and drizzle with some oil.
+
+Visible page text:
+For this tomato toast recipe, be sure to sprinkle the chives, sesame seeds, and flaky salt with abandon.
+Recipe information
+Yield 4 servings
+Yield
+4 servings
+Ingredients
+1
+½
+4
+3
+2
+Need to make a substitution?
+Preparation
+Step 1 Mix garlic and mayonnaise in a small bowl. Squeeze about 1 tsp. juice from lemon half into bowl; season with kosher salt. Hang on to lemon. Step 2 Spread a generous layer of seasoned mayonnaise over toast; shingle a few tomato slices on top. Sprinkle with chives, sesame seeds, sea salt, black pepper, and Aleppo-style pepper. Finely grate some lemon zest from reserved lemon over and drizzle with some oil.
+Step 1
+Mix garlic and mayonnaise in a small bowl. Squeeze about 1 tsp. juice from lemon half into bowl; season with kosher salt. Hang on to lemon.
+Step 2
+Spread a generous layer of seasoned mayonnaise over toast; shingle a few tomato slices on top. Sprinkle with chives, sesame seeds, sea salt, black pepper, and Aleppo-style pepper. Finely grate some lemon zest from reserved lemon over and drizzle with some oil.
+Recipe notes

@@ -1,0 +1,83 @@
+Saffron Cucumber Pickles
+========================
+
+Recipe Metadata
+---------------
+Recipe ID: 77adbe14556a45c8
+CSV row number: 283
+Recipe name: Saffron Cucumber Pickles
+Source: Food & Wine
+URL: http://www.foodandwine.com/recipes/saffron-cucumber-pickles
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01c778e90cf887a9122ab46585f7f9e246cb30c6119b34e5c0c6d701c1a58f9e/21013492.jpg
+Servings: 4
+Calories: 755.78
+Diet labels: Low-Fat
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: indian
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Saffron Cucumber Pickles
+source: Food & Wine
+url: http://www.foodandwine.com/recipes/saffron-cucumber-pickles
+servings: 4
+calories: 755.7843797
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01c778e90cf887a9122ab46585f7f9e246cb30c6119b34e5c0c6d701c1a58f9e/21013492.jpg
+diet_labels: ["Low-Fat"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["indian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Saffron Cucumber Pickles
+
+Description: Plus: More Vegetable Recipes and Tips...
+
+Yield: MAKES ABOUT 1 1/2 QUARTS
+
+Total time: PT0M
+
+Ingredients:
+- 1 cup Champagne vinegar
+- 1 cup dry white wine
+- 1/2 cup sugar
+- 1 tablespoon kosher salt
+- 1/2 teaspoon crumbled saffron threads
+- Two 1-pound European seedless cucumbers, sliced 1/8 inch thick
+
+Instructions:
+1. In a medium saucepan, combine the vinegar with the wine, sugar, salt and saffron and bring to a boil. Let cool to room temperature.
+2. In a heatproof bowl, pour the pickling liquid over the cucumbers. Cover and refrigerate overnight.
+
+Visible page text:
+Food
+Recipes
+Saffron Cucumber Pickles
+Plus: More Vegetable Recipes and Tips
+Jean-Georges Vongerichten is one of the most famous chefs in the world. His flagship Jean-Georges in New York City has two Michelin stars and four stars from The New York Times. The award-winning French chef and cookbook author has more than 25 restaurants in the United States and more than a dozen restaurants abroad.
+Ingredients
+1 cup Champagne vinegar
+1 cup dry white wine
+1/2 cup sugar
+1 tablespoon kosher salt
+1/2 teaspoon crumbled saffron threads
+Two 1-pound European seedless cucumbers, sliced 1/8 inch thick
+Directions
+In a medium saucepan, combine the vinegar with the wine, sugar, salt and saffron and bring to a boil. Let cool to room temperature.
+In a heatproof bowl, pour the pickling liquid over the cucumbers. Cover and refrigerate overnight.
+Make Ahead
+The pickles can be refrigerated for 2 weeks.
+Serve With
+Grill Match Salmon, swordfish, tuna, mackerel.
+Related Articles

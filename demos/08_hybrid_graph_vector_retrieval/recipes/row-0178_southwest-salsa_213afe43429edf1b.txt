@@ -1,0 +1,128 @@
+Southwest Salsa
+===============
+
+Recipe Metadata
+---------------
+Recipe ID: 213afe43429edf1b
+CSV row number: 178
+Recipe name: Southwest Salsa
+Source: BigOven
+URL: https://www.bigoven.com/recipe/southwest-salsa/171269
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01196e229d2b5ffc458ab55425df3910a70080a3e5249ecb8f6234f41dd89d5a/21122157.jpg
+Servings: 16
+Calories: 336.57
+Diet labels: Low-Fat
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites, FODMAP
+Cuisine type: mexican
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Southwest Salsa
+source: BigOven
+url: https://www.bigoven.com/recipe/southwest-salsa/171269
+servings: 16
+calories: 336.5689999996991
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01196e229d2b5ffc458ab55425df3910a70080a3e5249ecb8f6234f41dd89d5a/21122157.jpg
+diet_labels: ["Low-Fat"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites","FODMAP"]
+cuisine_type: ["mexican"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Southwest Salsa
+
+Description: This salsa has become a staple in our house and has been continuously requested. The salsa is best made in the summer, when field-ripened tomatoes are in season.
+
+Recipe category: Other
+
+Recipe cuisine: Mexican
+
+Yield: 16
+
+Prep time: PT1H
+
+Cook time: PT30M
+
+Total time: PT30M
+
+Ingredients:
+- 4 cups Tomato chopped, peeled
+- 1 cup Onion chopped
+- 4 cloves Garlic minced
+- 0.5 cup Sweet red pepper chopped
+- 4 Jalapeno peppers seeded, minced
+- 0.5 cup Red wine vinegar
+- 0.25 cup Fresh cilantro chopped
+- 2 tablespoon Orange juice
+- 1 tablespoon Lime juice
+- 1 teaspoon Granulated sugar
+- 1 teaspoon Pickling salt
+- 0.25 cup Tomato paste
+
+Instructions:
+1. 1. Combine tomatoes, onion, garlic, peppers, vinegar, cilantro, orange and lime juice, sugar and salt in saucepan. Bring to a boil over high heat, reduce heat and boil gently, uncovered, for 30 minutes, or until mixture is thickened, stirring occasionally. Stir in tomato paste and cook for 2 minutes. This salsa can now be cooled and refrigerated for up to a month in a sealed jar. For longer storage, please follow canning procedure below. 2. Remove hot jars from canner and ladle salsa into jars to within 1/2 inch of rim. Process for 20 minutes for half-pint and pint jars.
+
+Visible page text:
+Recipes
+Other
+Other - Misc
+Southwest Salsa
+WANT TO TRY
+FAVORITE
+MADE
+CUSTOM FOLDER
+This salsa has become a staple in our house and has been continuously requested. The salsa is best made in the summer, when field-ripened tomatoes are in season.
+Still searching for what to cook ?
+Find the most delicious recipes here
+Recipe
+Text
+Photos
+Nutr Nutrition
+Notes
+INGREDIENTS
+4 cups Tomato ; chopped, peeled
+1 cup Onion ; chopped
+4 cloves Garlic ; minced
+0.5 cup Sweet red pepper ; chopped
+4 Jalapeno peppers ; seeded, minced
+0.5 cup Red wine vinegar
+0.25 cup Fresh cilantro ; chopped
+2 tablespoon Orange juice
+1 tablespoon Lime juice
+1 teaspoon Granulated sugar
+1 teaspoon Pickling salt
+0.25 cup Tomato paste
+Copy and Customize
+About BigOven Pro
+INSTRUCTIONS
+1. Combine tomatoes, onion, garlic, peppers, vinegar, cilantro, orange and lime juice, sugar and salt in saucepan. Bring to a boil over high heat, reduce heat and boil gently, uncovered, for 30 minutes, or until mixture is thickened, stirring occasionally. Stir in tomato paste and cook for 2 minutes. This salsa can now be cooled and refrigerated for up to a month in a sealed jar. For longer storage, please follow canning procedure below.
+2. Remove hot jars from canner and ladle salsa into jars to within 1/2 inch of rim. Process for 20 minutes for half-pint and pint jars.
+TheSingingBaker
+Nutrition
+View line-by-line Nutrition Insights™ : Discover which ingredients contribute the calories/sodium/etc.
+Disclaimer: Nutrition facts are derived from linked ingredients (shown at left in colored bullets) and may or may not be complete. Always consult a licensed nutritionist or doctor if you have a nutrition-related medical condition.
+Calories per serving : 21
+Get detailed nutrition information, including item-by-item nutrition insights, so you can see where the calories, carbs, fat, sodium and more come from.
+Ice Cold Beer
+I recommend pairing it with this recipe
+— stevemur
+What would you serve with this? Link in another recipe .
+What to make this week
+Keep an eye out for original recipes from the BigOven Kitchen every week! SEE MORE >>
+BigOven Buzz
+Freshly baked content from the creators at BigOven Kitchen . Learn tried and true tips, ticks and methods.
+MORE IDEAS
+Southwest Salsa Burgers
+REVIEW THIS RECIPE
+REVIEWS

@@ -1,0 +1,99 @@
+Breakfast Buns
+==============
+
+Recipe Metadata
+---------------
+Recipe ID: 132f6f17fcfce02a
+CSV row number: 36
+Recipe name: Breakfast Buns
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/124453/breakfast-buns/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/002c2742170cc1202b5e70671fe3c24286dba4211cc388f5fc370d6859e7c5c4/21072452.jpg
+Servings: 16
+Calories: 2449.24
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: british
+Meal type: breakfast
+Dish type: biscuits and cookies
+
+Original CSV Fields
+-------------------
+recipe_name: Breakfast Buns
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/124453/breakfast-buns/
+servings: 16
+calories: 2449.236999999524
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/002c2742170cc1202b5e70671fe3c24286dba4211cc388f5fc370d6859e7c5c4/21072452.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["british"]
+meal_type: ["breakfast"]
+dish_type: ["biscuits and cookies"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Breakfast Buns
+
+Description: My grandmother taught me to bake these breakfast buns 70 years ago. Now my granddaughter makes them! This batter is like a biscuit dough and can be made up in a short time. There&#39;s no nicer way to wake up in the morning than to the aromas of biscuits baking and coffee perking!
+
+Yield: ['16', '16 servings']
+
+Prep time: PT20M
+
+Cook time: PT20M
+
+Total time: PT40M
+
+Ingredients:
+- 2 cups all-purpose flour
+- 0.75 cup sugar, divided
+- 1 tablespoon baking powder
+- 3 tablespoons butter or margarine
+- 2 eggs, lightly beaten
+- 1 teaspoon vanilla extract
+- 0.5 cup milk
+- 1 cup raisins
+- 0.5 teaspoon ground cinnamon
+
+Instructions:
+1. In a mixing bowl, stir together flour, 1/2 cup sugar and baking powder; cut in butter. Combine eggs, vanilla and milk; add to dry ingredients and stir just until moistened. Add raisins. Drop by tablespoonfuls onto greased baking sheet. Combine the cinnamon and remaining sugar; sprinkle over buns. Bake at 325 degrees F for 20-25 minutes or until light golden brown. Serve warm.
+
+Visible page text:
+Recipes
+Breakfast Buns
+My grandmother taught me to bake these breakfast buns 70 years ago. Now my granddaughter makes them! This batter is like a biscuit dough and can be made up in a short time. There's no nicer way to wake up in the morning than to the aromas of biscuits baking and coffee perking!
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 16 servings
+2 cups all-purpose flour
+¾ cup sugar, divided
+1 tablespoon baking powder
+3 tablespoons butter or margarine
+2 eggs, lightly beaten
+1 teaspoon vanilla extract
+½ cup milk
+1 cup raisins
+½ teaspoon ground cinnamon
+Directions
+In a mixing bowl, stir together flour, 1/2 cup sugar and baking powder; cut in butter. Combine eggs, vanilla and milk; add to dry ingredients and stir just until moistened. Add raisins. Drop by tablespoonfuls onto greased baking sheet. Combine the cinnamon and remaining sugar; sprinkle over buns. Bake at 325 degrees F for 20-25 minutes or until light golden brown. Serve warm.
+Photos of Breakfast Buns
+1
+Most-Saved Recipes Like This
+Ooey-Gooey Cinnamon Buns 1,451 Ratings 3 hrs 10 mins Save
+Hot Cross Buns 265 Ratings 2 hrs 25 mins Save
+Tasty Buns 582 Ratings 1 hr 20 mins Save
+Hamburger Buns 301 Ratings 40 mins Save
+Sticky Buns 76 Ratings 1 hr 40 mins Save
+Burger or Hot Dog Buns 1,087 Ratings 1 hr 5 mins Save
+Homemade Hamburger Buns 1,142 Ratings 3 hrs 45 mins Save
+Pretzel Buns 72 Ratings 1 hr 55 mins Save
+Easy Eggs Benedict Breakfast Sliders 2 Ratings 40 mins Save
+Marcia's Famous Sticky Buns 137 Ratings 8 hrs 35 mins Save
+You’ll Also Love

@@ -1,0 +1,261 @@
+Blueberry Smoothie Recipe
+=========================
+
+Recipe Metadata
+---------------
+Recipe ID: 5efb396bc9b14d58
+CSV row number: 118
+Recipe name: Blueberry Smoothie Recipe
+Source: simplelifemom.com
+URL: http://simplelifemom.com/2016/05/01/15-simple-and-healthy-breakfast-ideas/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00bb24ce9ca2de30a77789fe298fb17d462b87b424e23062a4891cc98b4cd14c/21035474.jpg
+Servings: 2
+Calories: 186.23
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: breakfast
+Dish type: drinks
+
+Original CSV Fields
+-------------------
+recipe_name: Blueberry Smoothie Recipe
+source: simplelifemom.com
+url: http://simplelifemom.com/2016/05/01/15-simple-and-healthy-breakfast-ideas/
+servings: 2
+calories: 186.2302499995625
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00bb24ce9ca2de30a77789fe298fb17d462b87b424e23062a4891cc98b4cd14c/21035474.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["drinks"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Blueberry Smoothie Recipe
+
+Yield: ['12', '12 oz']
+
+Prep time: PT10M
+
+Total time: PT10M
+
+Ingredients:
+- 1 cup frozen blueberries
+- 1/2 cup greek yogurt or milk kefir
+- 1/4 grape juice
+- 1 cup baby spinach leaves
+- 1 Tbs wheat germ
+
+Instructions:
+1. Combine in a blender. Add a little honey if you'd like it a bit sweeter.
+2. You can also try adding chia seeds (they change texture, but don't change taste).
+3. Even better, add a Tbsp of coconut oil as well.
+
+Recipe: Master Baking Mix
+
+Description: A master baking recipe that can be used for muffins, pancakes, biscuits and more.
+
+Recipe category: ['Breakfast']
+
+Recipe cuisine: ['American']
+
+Yield: ['11', '11 cups']
+
+Prep time: PT15M
+
+Total time: PT15M
+
+- 10 cups non-bleached flour (whole wheat and white mix of your choice)
+- 6 tablespoons baking powder
+- 1 tablespoon salt
+- 1/4 cup sugar
+- 2 cups dry milk powder (optional)
+- 2 cups coconut oil
+
+1. Combine all ingredients, cutting in oil until mixture is crumbly. Store in a sealed container at room temperature.
+2. Pancakes: 1-1/2 cups master mix, 1 egg, 1 cup water (or milk if you omitted the dry milk in the mix)
+3. Biscuits: 3 cups master mix, 2/3 cup milk – bake for 10 minutes at 450 F
+4. Muffins: 3 cups master mix, 1 egg, 1 cup water (or milk if you omitted the dry milk in the mix), 2 Tbsp sugar – Bake for 20 minutes at 375 F
+
+Visible page text:
+15 Simple and Healthy Breakfast Ideas
+Since we’re talking about simplifying our lives, we have to talk about simplifying our cooking, specifically, introducing simple and healthy breakfast ideas into our lives. Today, I’m going to give you a number of ideas, including recipes that may help you simplify breakfast time, while keeping it healthy.
+Real food is a must. The less processed the better.
+What is a Healthy Breakfast?
+I am one who believes that the food pyramid is upside down for our present lifestyle.
+Vegetables should be #1, followed by proteins and fruits. Good fats are third, which leaves starches as the smallest amount in volume for a our daily allowances.
+Anyone who studies anatomy and nutrition will tell you that we need all the nutrients we can get! We get these primarily from a variety of vegetables and fruits. At the same time, there are also 9 proteins and 2 fats (Omega 6 and Omega 3) that we do not make, but must have to create proper cell production and hormone delivery. If you’re going to be walking miles at work, or your child is going to be running around and playing outside, then an uptake in complex carbohydrates is very healthy.
+How Should You Start Your Morning?
+The morning meal is called breakfast because you are doing just that: breaking a fast . This is very healthy for your body. Fasting gives your body time to regulate your systems and get rid of waste that is stored in your cellular tissues. You fast every night, which is one reason doctors suggest that you do not eat after 2 hours before going to bed. This allows you to get a good fast in each night.
+So how should you break a fast? That’s our #1
+#1 Break Your Fast With Water and Lemon
+16 oz of water with fresh lemon squeezed into it is a wonderful way to break your fast and begin your day. Get your kids started with this habit as well. I mention fresh lemon, because those little lemon shaped bottles or larger bottles of lemon juice usually have multiple preservatives to keep them fresh. This is not what you want to use to start your day.
+Drinking water first thing in the morning helps to flush the toxins that were released during your sleeping fast. Lemon helps to wake up the senses, as well as boost your digestion juices and kill bacteria in your gastrointestinal tract. If you want to kick it up a notch, try this Easy Morning Detox Drink for more ideas.
+#2 Oatmeal
+Oats are high in those wonderful Omega 3 fatty acids, folate, and potassium! It takes almost the same amount of time to make fresh rolled oats as it does to make those flavored oats from a packet. Except that fresh rolled oats do not have preservatives, colorings, and other questionable ingredients. Want to step up the fiber? Use steel cut oats.
+Ideas to Flavor your Oats:
+Use Honey instead of sugar
+Raisins
+Cinnamon
+Blueberries, strawberries, or bananas
+Mango and coconut (non sweet for best ingredients)
+Seeds like Chia or sunflower
+Bacon
+Peanut butter
+Yogurt
+#3 Yogurt
+Ideally, you should make your own yogurt from raw milk. Here’s My Recipe with step by step instructions.
+Yogurt is great to have for breakfast, because it will help regulate your digestive system. Raw milk yogurt will add to your healthy gut bacteria and boost your immune system. So this is another healthy, simple, yet great choice.
+#4 Eggs
+Eggs are fabulous! When my health was worse I had a very bad allergy to eggs. It was horrible! Now that my immune system is up and running better, I can add them back to our menu. They are simple to fix and provide a wonderful source of nutrients that help your brain and liver (choline), add protein, and even help regulate cholesterol by increasing HDL (your good cholesterol!).
+5# Fruit
+Breakfast is the time to eat fruit! Fruits tend to be high in sugar, yet full of great nutrients. Eating them in the morning with yogurt or oatmeal is a great way to get those nutrients at a time that you will use those sugars in a healthy way. Blueberries are one of the fruits that do not raise blood sugar levels like other fruits do. They are always a great option if you are watching your sugar levels.
+Try keeping frozen fruits in the freezer, then they are always ready to use (and are a great addition to smoothies).
+#6 Smoothies
+Once the weather gets warm, I love to start the day with a smoothie. Once you find a recipe that you really like, they are a wonderful way to sneak in extra vitamins. They are also processed in a way that your fasting body can absorb vitamins quickly in order to get those nutrients where they are needed right away.
+BEWARE of sugary smoothies! A healthy smoothy can be a little sweet, but you defeat the purpose entirely if you are giving yourself and your family super sweet smoothies. The sugar will go into their systems rapidly, spiking blood sugar levels and causing inflammation, which in turn causes a lot of internal damage. Instead, try a moderately sweet smoothy and pair it with an egg.
+Blueberry Smoothie Recipe
+Ingredients
+1 cup frozen blueberries
+½ cup greek yogurt or milk kefir
+¼ grape juice
+1 cup baby spinach leaves
+1 Tbs wheat germ
+Instructions
+Combine in a blender. Add a little honey if you’d like it a bit sweeter.
+You can also try adding chia seeds (they change texture, but don’t change taste).
+Even better, add a Tbsp of coconut oil as well.
+#7 Nuts and Seeds
+Nuts and seeds give you nutrients that you jut can’t find easily anywhere else. They are a great source of good fats that your body desperately needs, as well as selenium (Brazilian nuts), magnesium, and potassium.
+Set them out on your table for people to choose from, or add them to your other foods (like oatmeal, granola, and yogurt).
+#8 Milk Kefir
+You can get kefir grains from a number of places. My sister-in-law gave me my first grains years ago, which I neglected after years of use and they died. I’m not sure if I could have revived them, but I got some more at Cultures For Health . They have easy instructions on how to get them going. I crave it in the mornings! It is something I highly recommend you looking into if you haven’t already.
+What are kefir grains? They are a combination of bacteria and yeast that grow to look like little squishy cauliflowers. You don’t eat them (though you can), but leave them in the kefir milk to create more. They create a yogurt type consistency that is tangier than regular yogurt. It is higher in probiotics than regular yogurt and is highly anti-bacterial. It is also said to inhibit the growth of cancerous tumors. 1 One study showed that it reduced breast cancer cells by 56% !!! 2
+#9 Non Traditional Breakfast foods
+It’s time to think outside the box! I’m sure you have your own quirks. Hopefully they are healthy.
+What’s wrong with a great cup of soup in the morning?
+What about a salad with sunflower seeds and berries ?
+How about taking those meat and potatoes you had for super last night, or that chicken and rice and fry it up with some eggs, onions, and a tomato ? Growing up in Zimbabwe we were influenced by the wonderful South African tradition of “Bubble and Squeak”. This was often taking the gravy and sausage from the night before and adding other items to make a breakfast hash. Some of the best breakfasts I’ve ever had!
+#10 Homemade Granola
+Homemade granola is great because you can add what you like to eat. It’s also very frugal. You can make a huge amount of granola that is very good for you and extremely tasty for a lot cheaper than you would be able to buy it. It’s also SO much better for you and your family than cereals full of artificial colors, sugars, preservatives, GMO grains and beet sugars, and chemicals on the packaging. Today’s boxed cereal really is a toxic mess! So make your own. We love these Homemade Chocolate Chip Granola Bars with Chia seeds.
+#11 Use a Master Baking Mix
+When my kids were younger, I loved having a master baking mix. This is a mix of dry ingredients that just needs a few wet ingredients to make various recipes like biscuits, pancakes, and pan bread. One of my sons, especially, loved using this mix to make pancakes. I taped the instructions to the container so that anyone could throw together a quick batch without much help from me. It came in very handy on many hectic days. Just make sure they are getting enough good proteins to balance the carbs.
+Master Baking Mix
+Equipment
+1 large glass bowl
+1 large spoon
+10 cups non-bleached flour (whole wheat and white mix of your choice)
+6 tablespoons baking powder
+1 tablespoon salt
+¼ cup sugar
+2 cups dry milk powder optional
+2 cups coconut oil
+Combine all ingredients, cutting in oil until mixture is crumbly. Store in a sealed container at room temperature. 10 cups non-bleached flour (whole wheat and white mix of your choice), 6 tablespoons baking powder, 1 tablespoon salt, 1/4 cup sugar, 2 cups dry milk powder, 2 cups coconut oil
+Recipes
+Pancakes: 1-1/2 cups master mix, 1 egg, 1 cup water (or milk if you omitted the dry milk in the mix)
+Biscuits: 3 cups master mix, 2/3 cup milk – bake for 10 minutes at 450 F
+Muffins: 3 cups master mix, 1 egg, 1 cup water (or milk if you omitted the dry milk in the mix), 2 Tbsp sugar – Bake for 20 minutes at 375 F
+#12 Green Tea
+Green tea is low in caffeine, but has a small enough amount to help boost your metabolism.
+It is also high in the antioxidant ECGC, a cancer fighting polyphenol that is said to stop cancer cells from growing, kill them, and reduce blood flow to cancerous tumors. 3 Well, that just sold me! Make sure to buy a brand like this one that you know is pure, strong, and contains no chemicals on the bags.
+#13 Breakfast Wraps
+I keep a salad in the refrigerator at all times now. We try to eat it for lunches. It also comes in very handy when someone is hungry for a snack. It is ideal when making a quick breakfast wrap!
+Here are some yummy ideas:
+salad with scrambled eggs and grated cheese
+spinach, egg, and feta
+salad that you have on hand, plus avocado slices and bacon
+peanut butter and fruit
+fry up some onions, peppers, and mushrooms (yum!)
+cottage cheese, fruit, sunflower seeds
+#14 Muffins for those growing boys!
+I will often make a batch of muffins that can (hopefully) last for two days. My kids will eat some the morning I make them, then snack on them until they are gone. My husband comes through the kitchen and does the same thing. Everyone seems to grab one as they go by.
+Here is our most FAVORITE recipe that is gluten free, but full of amazing ingredients (Yes, they do have chocolate chips, but they really make these over the top good!).
+#15 Fried Potatoes and Spinach
+Fried potatoes are an easy way to make a healthy and filling breakfast. Use coconut oil to give your body the good fats that it needs. Remember, good fats don’t make you fat. It’s all of those bad fats, but more than anything it’s the simple carbs and sugars! Fry up those potatoes and add some nutrient goodness like:
+eggs
+spinach
+onions
+mushrooms
+fish, steak, or natural bacon
+I hope this list helps to give you some great ideas to liven your breakfasts and make sure they are stress free and healthy. Overall, make a plan, stay away from boxed and packaged foods, and enjoy those bountiful flavors that will help you stay strong.
+Thanks for sharing!
+We already discussed taking the stress out of daily meals by:
+Brainstorming where we need to cut the stress
+Organizing the Kitchen
+Creating a Meal Plan (whether you do this weekly, biweekly, or monthly)
+What Stress Does to Your Body
+20 Stress Relieving Herbs and Teas
+Save
+About Kelly
+Kelly is the author of number one best seller The Natural Soap Making Book for Beginners and Easy Soap Making. She's also written multiple ebooks on herbal remedies and natural bath and body DIYs.
+
+Her journey toward better health has inspired her to make things in and around the home from scratch, start a homestead, and become more resourceful when it comes to health and home.
+
+She shares her recipes and DIYs here on Simple Life Mom and has a shop where she sells products for those who would rather buy than make (SimpleLifeMom.com/shop).
+You also might be interested in
+20 Ways to Detox Your Beauty Routine
+Please Share Knowing Over 20 Ways to Detox Your Beauty[...]
+Which Flour is Best for Bread?
+Please Share If you like to bake, then it’s important[...]
+Homestead Blog Hop 481 – Get ready for baby chicks and Valentine’s Day
+Please Share I hope you’ve have a wonderful week. Before[...]
+24 Comments
+Monica · Reply May 1, 2016 at 10:17 PM LOVE these ideas! I struggle with eating a healthy breakfast because of time constraints, these are perfect! Visiting from Mommy Monday! Kelly · Reply Author May 2, 2016 at 8:08 AM Thanks for stopping by! Glad I could help.
+LOVE these ideas! I struggle with eating a healthy breakfast because of time constraints, these are perfect! Visiting from Mommy Monday!
+Kelly · Reply Author May 2, 2016 at 8:08 AM Thanks for stopping by! Glad I could help.
+Thanks for stopping by! Glad I could help.
+Jenna @ A Savory Feast · Reply May 4, 2016 at 9:43 AM These are great ideas! I’m always looking for ideas for breakfast that are high in protein but low in sugar. Thanks for giving me a few new ideas to try.
+These are great ideas! I’m always looking for ideas for breakfast that are high in protein but low in sugar. Thanks for giving me a few new ideas to try.
+Nicole · Reply May 6, 2016 at 8:19 AM Some delicious and smart breakfast ideas here! I love the idea of making a large batch of baking mix to have on hand! I’ve been substituting my morning coffee with lemon water to start my day for about a month now and it’s amazing how I get a better morning lift from the lemon water. Definitely a great way to start the day!
+Some delicious and smart breakfast ideas here! I love the idea of making a large batch of baking mix to have on hand! I’ve been substituting my morning coffee with lemon water to start my day for about a month now and it’s amazing how I get a better morning lift from the lemon water. Definitely a great way to start the day!
+kallee · Reply May 6, 2016 at 1:25 PM I love to eat breakfast. I feel so much better when I eat a good breakfast. Oatmeal and smoothies are my favorite.
+I love to eat breakfast. I feel so much better when I eat a good breakfast. Oatmeal and smoothies are my favorite.
+Joy @ Joy Love Food · Reply May 6, 2016 at 7:36 PM It is essential that we start our day with a healthy breakfast at our house, so many great ideas here, I will need to try some of those wrap combination, yum! Kelly · Reply Author May 7, 2016 at 1:02 PM We love a good hot breakfast!
+It is essential that we start our day with a healthy breakfast at our house, so many great ideas here, I will need to try some of those wrap combination, yum!
+Kelly · Reply Author May 7, 2016 at 1:02 PM We love a good hot breakfast!
+We love a good hot breakfast!
+Katerina · Reply May 9, 2016 at 1:58 AM Breakfast is the most important meal of the day! These are all excellent ideas! Kelly · Reply Author May 9, 2016 at 10:35 AM Thank you Katerina
+Breakfast is the most important meal of the day! These are all excellent ideas!
+Kelly · Reply Author May 9, 2016 at 10:35 AM Thank you Katerina
+Thank you Katerina
+Miz Helen · Reply May 10, 2016 at 2:19 PM What great Breakfast ideas! Thanks so much for sharing them with us at Full Plate Thursday and come back soon! Miz Helen
+What great Breakfast ideas! Thanks so much for sharing them with us at Full Plate Thursday and come back soon! Miz Helen
+Morgan @ Morgan Manages Mommyhood · Reply May 16, 2016 at 3:10 PM I completely agree with your version of the food pyramid – today’s lifestyle does not require that many carbs! These are such great breakfast ideas! Kelly · Reply Author May 16, 2016 at 3:28 PM Thank you Morgan!
+I completely agree with your version of the food pyramid – today’s lifestyle does not require that many carbs! These are such great breakfast ideas!
+Kelly · Reply Author May 16, 2016 at 3:28 PM Thank you Morgan!
+Thank you Morgan!
+Cascia Talbert · Reply May 17, 2016 at 8:01 PM Your breakfast ideas are very similar to what I enjoy for breakfast. Thanks for sharing! I wanted to let you know that I am a huge fan of your blog and you are listed on my site as one of the best 100 family blogs.
+Your breakfast ideas are very similar to what I enjoy for breakfast. Thanks for sharing!
+I wanted to let you know that I am a huge fan of your blog and you are listed on my site as one of the best 100 family blogs.
+Shane Floyd · Reply May 18, 2016 at 11:56 AM Wow these all look and sound so good! Maybe I should start eating breakfast again! Will try some of these! Thanks for sharing at The Homesteader Hop! Kelly · Reply Author May 18, 2016 at 6:16 PM ha ha, you sound like me. It’s definitely the meal that gets neglected…either that or we eat sugary pancakes or something else unhealthy. Thanks for stopping by.
+Wow these all look and sound so good! Maybe I should start eating breakfast again! Will try some of these! Thanks for sharing at The Homesteader Hop!
+Kelly · Reply Author May 18, 2016 at 6:16 PM ha ha, you sound like me. It’s definitely the meal that gets neglected…either that or we eat sugary pancakes or something else unhealthy. Thanks for stopping by.
+ha ha, you sound like me. It’s definitely the meal that gets neglected…either that or we eat sugary pancakes or something else unhealthy. Thanks for stopping by.
+April J Harris · Reply May 20, 2016 at 7:18 PM Breakfast really is so important. Love your healthy and delicious ideas for this meal! Pinned. Thank you for sharing with us at the Hearth and Soul Hop.
+Breakfast really is so important. Love your healthy and delicious ideas for this meal! Pinned. Thank you for sharing with us at the Hearth and Soul Hop.
+Harshith Kumar · Reply May 30, 2019 at 12:54 AM Good Article the much needed article for the people who need fast and healthy brakfasts
+Good Article the much needed article for the people who need fast and healthy brakfasts
+Priya · Reply September 15, 2021 at 2:14 AM These are some really quick and convenient breakfast ideas for busy mornings.
+These are some really quick and convenient breakfast ideas for busy mornings.
+zkittles strain · Reply November 9, 2021 at 1:44 PM Thanks for sharing this. In fact, many people believe that if you start eating healthy foods, you will automatically lose all delicious foods. But this is not so, because in fact, you can cook a bunch of healthy dishes to replace harmful products, and it will not be expensive and tasty. One has only to try. In addition, no one will get worse if instead of milk chocolate you just take an apple or blueberry for a snack. Over time, this will become one of the best habits in your diet.
+Thanks for sharing this. In fact, many people believe that if you start eating healthy foods, you will automatically lose all delicious foods. But this is not so, because in fact, you can cook a bunch of healthy dishes to replace harmful products, and it will not be expensive and tasty. One has only to try. In addition, no one will get worse if instead of milk chocolate you just take an apple or blueberry for a snack. Over time, this will become one of the best habits in your diet.
+Leave a Reply We'd love to hear your thoughts and ideas! Cancel Reply
+Join Us!
+And get a FREE Bath and Body Recipe E-Book:
+Thank you!
+Check your email and add me to your address list so messages don't go to spam.
+You'll have a link to the free e-book in the email.
+Kelly
+SHOP
+© 2026 Simple Life Mom - All Rights Reserved Theme by HB-Themes.
+Disclaimers/Policies for Simple Life Mom
+Type and press Enter to search

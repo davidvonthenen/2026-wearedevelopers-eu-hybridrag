@@ -1,0 +1,77 @@
+Shtetl Toast
+============
+
+Recipe Metadata
+---------------
+Recipe ID: 7df83e0f98d5f524
+CSV row number: 314
+Recipe name: Shtetl Toast
+Source: Saveur
+URL: https://www.saveur.com/gribenes-chicken-skin-shtetl-toast-recipe/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01fe0ab0056881295842fb69ca7d2fdc4ed517f0786f665470181e4332debc05/20970153.jpg
+Servings: 4
+Calories: 4776.57
+Diet labels: Low-Carb
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: south american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Shtetl Toast
+source: Saveur
+url: https://www.saveur.com/gribenes-chicken-skin-shtetl-toast-recipe/
+servings: 4
+calories: 4776.567387779689
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01fe0ab0056881295842fb69ca7d2fdc4ed517f0786f665470181e4332debc05/20970153.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["south american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Gribenes, the deeply-flavored result of cooking chicken skin and onions down in fat—a byproduct of rendering schmaltz—is perfect fodder for schmearing on this crostini from Wise Sons Jewish delicatessen in San Francisco.
+Featured in: Gribenes are the Most Delicious Secret of Jewish Cooking
+Serves serves 4
+serves 4
+Time 2 hours
+2 hours
+Ingredients
+1 lb. chicken fat with skin (ask your butcher for this), chopped into 1-inch pieces
+Kosher salt
+1 small yellow onion, thinly sliced lengthwise
+4 slices (9 oz.) Jewish corn rye bread, cut 1-inch thick
+Dill fronds, flat-leaf parlsey leaves, thinly sliced radishes, flaky sea salt, and freshly cracked black pepper, to garnish
+Lemon wedges, for serving
+Instructions
+Step 1
+Step 2
+Step 3
+Step 4
+In a 6-qt. saucepan, combine the chicken fat and skin with a pinch of kosher salt and 2 tablespoons water and heat over medium-low. Cook the fat, stirring, until it’s completely melted and the skin pieces are no longer pink, about 30 minutes. Stir in the onion, reduce the heat to low, and continue cooking, stirring occasionally, until the chicken skin and onions are golden brown, about 1 hour and 20 minutes.
+Using a slotted spoon, transfer the fried skin and onions to a paper towel-lined baking sheet to drain. Reserve 2 tablespoons of the fat in the pan and save the remaining for another use.
+Heat a 12-inch cast iron skillet over medium. Add the fried skin and onions, and cook, stirring, until crisp, about 3 minutes. Transfer to another paper towel-lined baking sheet to drain, and return the skillet to medium-high heat. Brush both sides of each slice of bread with some of the reserved chicken fat and, working in batches, add the bread to the skillet and cook, flipping once, until golden brown and slightly charred, 3 to 4 minutes.
+Transfer the bread to a serving platter and top with crispy skin and onions. Garnish with the dill fronds, parsley leaves, radish slices, flaky salt, and pepper, and serve with lemon wedges.
+Keep Reading
+Mai Tai
+Basil Chambord Spritz
+Beet and Carrot Chops
+Bhaja Moshla
+The Original Kentucky Hot Brown
+Turkey Chowder With Bacon and Tomatoes
+Salted Caramel Macadamia Nut Bars
+Spaghetti With Green Tomato Sauce
+Salt-and-Pepper Fried Green Tomatoes
+Continue to Next Story
+Want more SAVEUR?
+Get our favorite recipes, stories, and more delivered to your inbox.

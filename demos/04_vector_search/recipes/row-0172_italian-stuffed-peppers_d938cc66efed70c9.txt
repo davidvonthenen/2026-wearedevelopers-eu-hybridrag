@@ -1,0 +1,98 @@
+Italian Stuffed Peppers
+=======================
+
+Recipe Metadata
+---------------
+Recipe ID: d938cc66efed70c9
+CSV row number: 172
+Recipe name: Italian Stuffed Peppers
+Source: food.com
+URL: http://www.food.com/recipe/italian-stuffed-peppers-507546
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0110c34d5cff04e4d3977c860a5c0dec012c620386f3c1a94c9cc637e7ddef3d/21101632.jpg
+Servings: 4
+Calories: 2504.18
+Diet labels: Low-Carb
+Health labels: Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Italian Stuffed Peppers
+source: food.com
+url: http://www.food.com/recipe/italian-stuffed-peppers-507546
+servings: 4
+calories: 2504.177980911111
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0110c34d5cff04e4d3977c860a5c0dec012c620386f3c1a94c9cc637e7ddef3d/21101632.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Italian Stuffed Peppers
+
+Description: This is a stuffed pepper recipe I clipped from the coupon section of the newspaper years ago. I'm uploading it here to share and so I can clean out the kitchen drawer full of recipe clippings!
+
+Recipe category: One Dish Meal
+
+Yield: 4 stuffed peppers, 4 serving(s)
+
+Prep time: PT15M
+
+Cook time: PT1H20M
+
+Total time: PT1H35M
+
+Ingredients:
+- 1 lb ground beef
+- 1 cup ricotta cheese
+- 1 cup mozzarella cheese, shredded, divided
+- 4 green peppers
+- 1 cup tomato sauce
+- 3/4 teaspoon salt
+- 1/4 teaspoon pepper
+
+Instructions:
+1. Heat oven to 350&deg;F.
+2. In a large bowl, mix ground beef, ricotta cheese, 1/2 cup mozzarella, salt, pepper and half the tomato sauce until well combined.
+3. Slice tops off peppers and remove seeds and ribs. With a small knife, cut a few small slits in the bottom of each pepper to drain liquid released by the filling as it cooks.
+4. Select a baking dish that will hold the peppers snugly; pour remaining sauce in bottom of the dish. Arrange peppers, open side up, and stuff with the filling mixture. Top with remaining mozzarella cheese.
+5. Spray a large piece of aluminum foil with nonstick spray. Place sprayed side down over peppers.
+6. Bake, covered, 30 minutes. Uncover and baked 50 minutes more, or until meat has cooked through and cheese is bubbly,.
+
+Visible page text:
+Italian Stuffed Peppers
+ingredients
+1 lb ground beef
+1 cup ricotta cheese
+1 cup mozzarella cheese , shredded, divided
+4 green peppers
+1 cup tomato sauce
+3 ⁄ 4 teaspoon salt
+1 ⁄ 4 teaspoon pepper
+directions
+Heat oven to 350°F.
+In a large bowl, mix ground beef, ricotta cheese, 1/2 cup mozzarella, salt, pepper and half the tomato sauce until well combined.
+Slice tops off peppers and remove seeds and ribs. With a small knife, cut a few small slits in the bottom of each pepper to drain liquid released by the filling as it cooks.
+Select a baking dish that will hold the peppers snugly; pour remaining sauce in bottom of the dish. Arrange peppers, open side up, and stuff with the filling mixture. Top with remaining mozzarella cheese.
+Spray a large piece of aluminum foil with nonstick spray. Place sprayed side down over peppers.
+Bake, covered, 30 minutes. Uncover and baked 50 minutes more, or until meat has cooked through and cheese is bubbly,.
+Questions & Replies
+Reviews
+This was really easy to do. I boiled the peppers to soften them a little, and I also browned the meat a little. My husband and I both think it needed something else to jazz it up. I screwed up and put all the mazzarella in all at once. It might have been good with some taco seasoning or something (I know- that's not Italian.). I made this for New Kids on the Block Recipe Tag. Thanks for posting, Patty9901. WhatamIgonnaeatnext Reply
+RECIPE SUBMITTED BY
+6 Recipes
+2 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

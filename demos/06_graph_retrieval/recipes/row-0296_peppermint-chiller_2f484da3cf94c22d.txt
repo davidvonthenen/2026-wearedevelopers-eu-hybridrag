@@ -1,0 +1,91 @@
+Peppermint Chiller
+==================
+
+Recipe Metadata
+---------------
+Recipe ID: 2f484da3cf94c22d
+CSV row number: 296
+Recipe name: Peppermint Chiller
+Source: justapinch.com
+URL: https://www.justapinch.com/recipes/drink/drink-cocktail/peppermint-chiller.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01db10fc5e3e08e2ccc8c85f751b6884f5d142be47a80307396c233ebe54ce02/21097295.jpeg
+Servings: 6
+Calories: 2116.16
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites, FODMAP
+Cuisine type: indian
+Meal type: lunch/dinner
+Dish type: drinks
+
+Original CSV Fields
+-------------------
+recipe_name: Peppermint Chiller
+source: justapinch.com
+url: https://www.justapinch.com/recipes/drink/drink-cocktail/peppermint-chiller.html
+servings: 6
+calories: 2116.16
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01db10fc5e3e08e2ccc8c85f751b6884f5d142be47a80307396c233ebe54ce02/21097295.jpeg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites","FODMAP"]
+cuisine_type: ["indian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["drinks"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Peppermint Chiller
+
+Description: This refreshing cocktail is a great way to cool down on a hot summer day. Make sure to have it ready in the fridge ... you never know when guests will drop by!
+
+Recipe category: Punches
+
+Recipe cuisine: American
+
+Yield: 12-16 8 ounce servings
+
+Prep time: PT15M
+
+Cook time: PT1H
+
+Ingredients:
+- 2 cup(s) sugar
+- 4 cup(s) fresh peppermint leaves, with stems
+- 2 cup(s) lemon juice
+- 2 cup(s) orange juice
+- 2 cup(s) ginger ale
+
+Instructions:
+1. In a large saucepan, combine sugar with 6 cups of water. Bring to a boil over high heat.
+2. Reduce heat, and simmer for 5 minutes.
+3. Add peppermint, remove pan from the heat, cover, and let the liquid steep for 1 hour.
+4. In a large pitcher, combine the mint syrup, lemon juice, orange juice, and ginger ale.
+5. Stir until well blended. Serve over crushed ice.
+
+Visible page text:
+peppermint chiller
+I planted a peppermint plant last year and was trying to decide what to do with ALL of the peppermint that I was harvesting from the plant. I have been using it for the obvious: 1. In the kettle on the wood stove 2. for a headache remedy. But alas, I still have so much to use. Here in Washington we hit a couple of warm days and I really wanted something cool and refreshing. SO was born this drink. It has been a good alternative to soda. Even though it is a Non-alcohol beverage with these ingredients, just an ounce of white rum added to an 8 oz. serving would make this a great adult beverage.
+Blue Ribbon Recipe
+This refreshing cocktail is a great way to cool down on a hot summer day. Make sure to have it ready in the fridge ... you never know when guests will drop by!
+Ingredients
+2 cups sugar
+4 cups fresh peppermint leaves, with stems
+2 cups lemon juice
+2 cups orange juice
+2 cups ginger ale
+How To Make peppermint chiller
+Step 1 In a large saucepan, combine sugar with 6 cups of water. Bring to a boil over high heat.
+Step 2 Reduce heat, and simmer for 5 minutes.
+Step 3 Add peppermint, remove pan from the heat, cover, and let the liquid steep for 1 hour.
+Step 4 In a large pitcher, combine the mint syrup, lemon juice, orange juice, and ginger ale.
+Step 5 Stir until well blended. Serve over crushed ice.
+Last Step: Don't forget to share! Post a picture of your finished recipe here and on your favorite social
+network. Don't forget to tag Just A Pinch and include #justapinchrecipes!
+Discover More
+Comment & Reviews

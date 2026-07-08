@@ -1,0 +1,85 @@
+Cold Curry Peach Soup
+=====================
+
+Recipe Metadata
+---------------
+Recipe ID: 38a4de808dbe662a
+CSV row number: 215
+Recipe name: Cold Curry Peach Soup
+Source: tastykitchen.com
+URL: https://tastykitchen.com/recipes/soups/cold-curry-peach-soup-2/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/015ab6b1dca0bd1f1f1a3c5e29f8c5bced1fcf5c2e221b7a9b207b31a2891589/21125982.jpg
+Servings: 8
+Calories: 620.16
+Diet labels: none listed
+Health labels: Vegan, Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Tree-Nuts, Sulfites
+Cuisine type: indian
+Meal type: lunch/dinner
+Dish type: soup
+
+Original CSV Fields
+-------------------
+recipe_name: Cold Curry Peach Soup
+source: tastykitchen.com
+url: https://tastykitchen.com/recipes/soups/cold-curry-peach-soup-2/
+servings: 8
+calories: 620.1616456473621
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/015ab6b1dca0bd1f1f1a3c5e29f8c5bced1fcf5c2e221b7a9b207b31a2891589/21125982.jpg
+diet_labels: []
+health_labels: ["Vegan","Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Tree-Nuts","Sulfites"]
+cuisine_type: ["indian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["soup"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Cold Curry Peach Soup
+Print
+Leave a comment
+write a review
+Print Options
+Description
+Nice and spicy, great with grilled chicken or as an appetizer.
+Ingredients
+6 whole Peaches Peeled And Pitted
+½ whole Jalapeno Roughly Chopped (seeded If You Prefer Less Heat)
+1 clove Garlic, Roughly Chopped
+2 Tablespoons Grated Ginger
+2 teaspoons Curry Powder
+1 pinch Cardamom
+¼ teaspoons Garam Masala
+½ cups Coconut Milk
+¼ cups Water
+Salt And Pepper
+Preparation
+Place all ingredients into a blender or food processor. Blend until smooth. If it’s too thick, add more water as needed.
+Serve room temperature or cold.
+More Recipes from tallmisto
+Sweet and Spicy Nuts
+Deconstructed Banana Cream “Pie”
+Find tallmisto elsewhere on the web.
+Website
+No Comments
+Leave a Comment!
+You must be logged in to post a comment.
+No Reviews
+You must be logged in to post a review.
+Food Gifts
+View Recipe
+Slow Cooker Season!
+Related Recipes
+Prep: 5 mins Cook: 25 mins
+Serves: 4 Level: Easy
+Share f a e
+Prep: 20 mins Cook: 2 hrs 30 mins
+Serves: 8 Level: Easy
+Prep: 10 mins Cook: 25 mins
+Prep: 10 mins Cook: 15 mins
+Prep: 30 mins Cook: -

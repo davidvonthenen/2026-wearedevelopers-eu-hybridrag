@@ -1,0 +1,112 @@
+Roasted Cauliflower with Lemon & Dijon recipes
+==============================================
+
+Recipe Metadata
+---------------
+Recipe ID: 533a797efdcd23f8
+CSV row number: 355
+Recipe name: Roasted Cauliflower with Lemon & Dijon recipes
+Source: culinary-cool.com
+URL: http://www.culinary-cool.com/roasted-cauliflower-with-lemon-dijon/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0243ea41f02c670d8a04bf7754db33bd3e2857af3bd5360fbd7832d425173fdb/21113063.jpeg
+Servings: 4
+Calories: 493.93
+Diet labels: Low-Carb
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: french
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Roasted Cauliflower with Lemon & Dijon recipes
+source: culinary-cool.com
+url: http://www.culinary-cool.com/roasted-cauliflower-with-lemon-dijon/
+servings: 4
+calories: 493.929025
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0243ea41f02c670d8a04bf7754db33bd3e2857af3bd5360fbd7832d425173fdb/21113063.jpeg
+diet_labels: ["Low-Carb"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["french"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Roasted Cauliflower with Lemon & Dijon
+
+Description: You can do more with cauliflower than just top with melted cheese! Instead, roast the cauliflower, and toss with a zesty lemon and dijon butter sauce. You will never go back to cauliflower and cheese again.
+
+Total time: PT40M
+
+Ingredients:
+- 1 small head cauliflower (cut into florets)
+- 1/4 cup butter
+- 3 tbsp fresh lemon juice
+- 1 tbsp grainy Dijon mustard
+- salt to taste
+- parsley for garnish
+
+Instructions:
+1. Preheat oven to 400 degrees F.
+2. Cut the cauliflower into florets and place in a medium bowl. Set aside.
+3. Melt the butter, and then stir in the lemon juice and dijon.
+4. Pour the melted butter over the cauliflower florets and toss to coat. Sprinkle with a salt to taste.
+5. Place the cauliflower on a baking sheet, and roast for 20-25 minutes, or until tender and golden brown.
+6. Serve warm and topped with parsley.
+
+Visible page text:
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+Skip to footer
+Jump to Recipe Print Recipe
+I feel as though a major detox is in order. We just spent the last 10 days on vacation, touring around the South. We spent some time in Georgia, Alabama, Louisiana, Mississippi, and Tennessee. My favourite place was New Orleans, where I ate Beignets every day we were there. Looking back on our meals, we really didn’t consume any vegetables. Before we left New Orleans, we stopped in at Whole Foods and grabbed some road snacks, and a quick lunch.
+I love their buffet of food! This particular time, I was eyeing up ALL of the vegetables, since I was feeling pretty sluggish after eating deep fried dough for 4 days. One of my absolute favourites turned out to be cauliflower with lemon and mustard. I wasn’t too sure about it, but took a small scoop anyways, and it ended up being the best part of the meal. I knew that I had to make it when I got home.
+It’s quite amazing how 4 simple ingredients can create something so flavourful! As an added bonus, it’s super simple to put together. The lemon and dijon butter sauce will tantalize your taste buds. I love using grainy dijon for the added texture and bite, and it adds some visual appeal. Fresh lemon juice is the way to go in this recipe, too. I don’t know why, but I find the bottled stuff doesn’t taste quite right, but use whatever you’ve got!
+Now that I’m back from vacation, I’m ready to hit the gym for my last month of the GoodLife Fitness 3-month challenge. I put my favourite jeans on for the first time in awhile and had a pleasant surprise – the waist was too big! Say what?! I was pretty excited about that! It’s a pretty awesome feeling to see results finally. I wore those same jeans to teach a cooking class this week, found myself constantly having to pull them up. I hate wearing belts, so I may have to retire these jeans. I guess I’ll have to go do some shopping. Woe is me.
+I still haven’t taken a class yet, but I was eyeing up the CXWORX class. It’s supposed to help strengthen your core, improve posture, and tone out your butt and legs. I need all of those things! I really like the idea of taking a class because it’s structured, and I don’t have to plan out a workout routine myself. All I have to do is show up and follow along!
+My eating habits have also improved. We try to eat as many veggies as we can, and this Roasted Cauliflower with Lemon and Dijon will be on heavy rotation for awhile. Cauliflower is in season right now, making it the perfect fall side-dish. I’m sure all of us have memories of cauliflower/broccoli topped with melted cheese from when we were kids. Don’t get me wrong, I love cheese, but after eating cauliflower like this, I don’t think I could ever go back to topping it with cheese.
+Roasted Cauliflower with Lemon & Dijon
+Ingredients
+1 small head cauliflower cut into florets
+1/4 cup butter
+3 tbsp fresh lemon juice
+1 tbsp grainy Dijon mustard
+salt to taste
+parsley for garnish
+Instructions
+Preheat oven to 400 degrees F.
+Cut the cauliflower into florets and place in a medium bowl. Set aside.
+Melt the butter, and then stir in the lemon juice and dijon.
+Pour the melted butter over the cauliflower florets and toss to coat. Sprinkle with a salt to taste.
+Place the cauliflower on a baking sheet, and roast for 20-25 minutes, or until tender and golden brown.
+Serve warm and topped with parsley.
+Nutritional calculation was provided by WP Recipe Maker and is an estimation only. For special diets or medical issues please use your preferred calculator
+Disclaimer: I’ve been provided a 3-month membership to GoodLife Fitness at no cost, in exchange to write about my experience.
+Reader Interactions
+Comments
+Great to have you back in the fair city. I’m totally going to try this. It looks so yummy and a great way to get the veggies in the diet. Have a great time at the gym, I will look for you the next time I am there. cheers b Reply Thanks B, I think you’re going to love it! I could eat this alone as a meal. See you at the gym soon! Reply
+Great to have you back in the fair city. I’m totally going to try this. It looks so yummy and a great way to get the veggies in the diet. Have a great time at the gym, I will look for you the next time I am there.
+cheers b
+Thanks B, I think you’re going to love it! I could eat this alone as a meal. See you at the gym soon! Reply
+Thanks B, I think you’re going to love it! I could eat this alone as a meal. See you at the gym soon!
+Ahhhh, New Orleans!! It’s funny how every one’s tastes are different. I like beignets, but definitely didn’t gravitate towards those … give me po boys over sweets!! Haha! I love, love, love Southern food. We’re planning to go somewhere in the southern US next year, but haven’t decided where. Reply
+Ahhhh, New Orleans!! It’s funny how every one’s tastes are different. I like beignets, but definitely didn’t gravitate towards those … give me po boys over sweets!! Haha! I love, love, love Southern food. We’re planning to go somewhere in the southern US next year, but haven’t decided where.
+Trackbacks
+[…] Roasted Cauliflower with Lemon Dijon from Nicole at Culinary Cool […] Reply
+[…] Roasted Cauliflower with Lemon Dijon from Nicole at Culinary Cool […]
+Leave a Reply Cancel reply
+Footer
+Let’s get Social
+About Me
+Welcome to my kitchen!
+I'm Nicole, a cookbook obsessed food photographer and blogger. I believe there's a chef in every one of us, and my goal is to create approachable recipes that anyone can make.
+Read more about Nicole...

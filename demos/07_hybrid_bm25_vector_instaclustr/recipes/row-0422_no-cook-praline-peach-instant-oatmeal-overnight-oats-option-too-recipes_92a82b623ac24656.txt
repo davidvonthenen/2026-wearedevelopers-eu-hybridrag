@@ -1,0 +1,134 @@
+No-Cook Praline Peach Instant Oatmeal (Overnight Oats Option, Too!) recipes
+===========================================================================
+
+Recipe Metadata
+---------------
+Recipe ID: 92a82b623ac24656
+CSV row number: 422
+Recipe name: No-Cook Praline Peach Instant Oatmeal (Overnight Oats Option, Too!) recipes
+Source: twohealthykitchens.com
+URL: http://www.twohealthykitchens.com/2015/08/13/no-cook-praline-peach-instant-oatmeal-overnight-oats-option-too/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02afcc3e1d53965f01607aeb6228d1db542e7806965e21bd1765159dcb9ebfba/21066084.jpeg
+Servings: 3
+Calories: 1333.84
+Diet labels: Balanced, High-Fiber
+Health labels: Vegetarian, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: breakfast
+Dish type: cereals
+
+Original CSV Fields
+-------------------
+recipe_name: No-Cook Praline Peach Instant Oatmeal (Overnight Oats Option, Too!) recipes
+source: twohealthykitchens.com
+url: http://www.twohealthykitchens.com/2015/08/13/no-cook-praline-peach-instant-oatmeal-overnight-oats-option-too/
+servings: 3
+calories: 1333.83675
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02afcc3e1d53965f01607aeb6228d1db542e7806965e21bd1765159dcb9ebfba/21066084.jpeg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Vegetarian","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["cereals"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: No-Cook Praline Peach Instant Oatmeal (Overnight Oats Option, Too!)
+
+Description: So delicious! And this simple recipe for no-cook instant oatmeal is quick and easy – great for busy mornings!
+
+• Ready in 30 Minutes or Less • Make Ahead (overnight option) • Vegetarian • Gluten Free •
+
+Recipe category: Breakfast
+
+Recipe cuisine: American
+
+Yield: 3
+
+Prep time: PT7M
+
+Total time: PT7M
+
+Ingredients:
+- 1 cup nonfat vanilla Greek yogurt
+- 1/2 cup nonfat milk (see note for amount, if making Overnight Oats version)
+- 1/4 teaspoon vanilla
+- 1/8 teaspoon cinnamon
+- 1/8 teaspoon salt
+- 1 cup quick oats (see note regarding oats, if making Overnight Oats version)
+- 1/2 cup chopped pecans
+- 1/3 cup dried chopped dates (we like pre-chopped)
+- 2 cups chopped fresh peaches (or nectarines), from about 2 peaches
+- 1-3 teaspoons packed brown sugar, optional (see note)
+
+Instructions:
+1. In a medium bowl, combine yogurt, milk, vanilla, cinnamon, and salt, stirring with a whisk to combine thoroughly.
+2. Add oats, pecans, and dates, stirring again to combine.
+3. Gently stir in peaches. Taste for sweetness and add brown sugar only if needed to enhance sweetness and caramel-y praline flavor.
+4. Allow oats mixture to sit for a minute or two before serving, if needed, so oats soften and thicken to your liking.
+5. (See note below for modified directions, if making Overnight Oats version.)
+
+Visible page text:
+Pinterest
+Email
+Facebook
+~ Perfectly delicious with sweet summer peaches, crunchy pecans and the rich notes of caramel-y pralines, this simple recipe for no-cook instant oatmeal is quick and easy – great for busy mornings! Filled with whole grains, protein and fruit, it’ll keep you fueled up all morning! Bonus: you can even make it ahead as an overnight oats recipe! ~
+This Recipe Is: • Ready in 30 Minutes or Less • Make Ahead (overnight option) • Vegetarian • Gluten Free •
+This would have been the perfect recipe to serve at Mommy’s Cafe.
+Mommy’s Cafe?
+Yeah. (*reminiscent sigh*)
+When my kiddos were toddlers, on those relaxed summer mornings when we had nowhere at all that we had to rush off to, I’d open up Mommy’s Cafe out on my wraparound front porch.
+The Cafe consisted of a brightly colored toddler table and two tiny chairs. Plus, two giggling kiddos who thought this was all such a big adventure. Much better than breakfast at the kitchen table!
+I’d conjure up a Southern diner waitress accent, while I explained the daily specials and took their orders. They were still at that glorious age where they thought I was hil- AR -ious and absolutely the most awesome mom ever, and it totally didn’t occur to them to make fun of my horrible fake accent. (again … *reminiscent sigh*)
+The ever-changing menu at Mommy’s Cafe typically included dishes like granola and yogurt parfaits or peanut butter toast, always with heaps of fresh summer fruit. Things that were quick and easy (since the waitress at Mommy’s Cafe was also the chef and the busboy!), and also really nutritious (because the day would undoubtedly hold all sorts of fun that would require two tiny toddlers to be fueled up and ready for action!).
+This Instant Oatmeal recipe would have been perfect! A regularly requested customer favorite, for sure! (And honestly, our Cinnamon Apple Overnight Oats , Banana Peanut Butter Overnight Oats , or our Blueberry Overnight Oats recipes would’ve been perfect, too!)
+Even though the toddler table has long since made its way to a garage sale or maybe Goodwill … and even though my kids would no doubt roll their eyes and smirk at me now, if I served up breakfast with a southern twang … this Peach Oats recipe has become one of our summer-favorite breakfasts.
+It’s creamy and comforting and refreshing, filled with juicy, ripe peaches and the crunchy pecans and sweet caramel-y notes you’d find in decadent pralines. Kinda like the flavors in our Praline Peach Muffins (hint hint).
+This is definitely a breakfast that a southern waitress would recommend to her favorite diner customers (especially if they giggled and wiggled in darling toddler chairs 🙂 )!
+And it’s filled with protein, fiber, and antioxidant-rich fruits to keep your family fueled up all morning … whether you’re off with your little ones to the zoo or the pool, or jumping in the car to drive your teens to soccer camp.
+Best of all, if you often find yourself as waitress-cook-busboy, then you’ll love how quick and easy these Peach Oats are to make! A total breeze! You can mix them together in just moments as an instant oatmeal breakfast, or even whip them up the night before as overnight oats, so they’re ready when you are on busy mornings!
+I might just have to reopen Mommy’s Cafe for old times’ sake, if only to feature this recipe and count how many times my kids laugh at my fake accent!
+Ingredients
+1 cup nonfat vanilla Greek yogurt
+1/2 cup nonfat milk (see note for amount, if making Overnight Oats version)
+1/4 teaspoon vanilla
+1/8 teaspoon cinnamon
+1/8 teaspoon salt
+1 cup quick oats (see note regarding oats, if making Overnight Oats version)
+1/2 cup chopped pecans
+1/3 cup dried chopped dates (we like pre-chopped)
+2 cups chopped fresh peaches (or nectarines), from about 2 peaches
+1-3 teaspoons packed brown sugar, optional (see note)
+Instructions
+In a medium bowl, combine yogurt, milk, vanilla, cinnamon, and salt, stirring with a whisk to combine thoroughly.
+Add oats, pecans, and dates, stirring again to combine.
+Gently stir in peaches. Taste for sweetness and add brown sugar only if needed to enhance sweetness and caramel-y praline flavor.
+Allow oats mixture to sit for a minute or two before serving, if needed, so oats soften and thicken to your liking.
+(See note below for modified directions, if making Overnight Oats version.)
+Notes
+Directions for Overnight Oats version: If you’d like to make this recipe ahead of time or the night before, increase the amount of milk to 2/3 cup. In addition, do not chop the peaches or mix them in until just before serving in the morning. You may choose to mix the dates in the night before, or mix them in with the peaches at the last minute. If you mix the dates in the night before, they will meld with the rest of the oatmeal and be less prominent, whereas if you choose to mix them in at the last minute in the morning, they will remain more texturally prominent and chewy. Our testers liked both options for the dates, and both are delicious. Lastly, if you are making this as an Overnight Oats recipe, be sure to use old fashioned, rolled oats instead of quick oats. Quick oats aren’t hearty enough to withstand overnight refrigeration, and they’ll be a bit too thick and gummy by morning. After mixing the ingredients together (except the peaches and possibly the dates), cover your Overnight Oats and refrigerate several hours or overnight. In the morning, chop and mix in the peaches (and possibly the dates if you didn't choose to add them the night before), adjust for sweetness by adding brown sugar if needed (see note below), and serve. Brown sugar: Different brands of vanilla Greek yogurt vary significantly in the amount of sugar they contain and how sweet or tart they taste, which can cause variances in how much brown sugar (if any) you’ll want to add to this recipe. In addition, how sweet and flavorful your peaches are has a dramatic effect on the overall sweetness of this recipe. We recommend starting with no brown sugar at all, and adding an extra 1-3 teaspoons only if needed.
+Nutrition information should be considered an estimate only, and may vary depending on your choice of ingredients or preparation. No guarantees are made regarding allergies or dietary needs. Always consult a physician or dietician for specific advice and questions.
+Did You Make This Recipe?
+We'd LOVE to hear! Please leave a star-rating above. And, tag us on Instagram @twohealthykitchens
+You Might Also Like ...
+Leave a Reply Cancel reply
+32 Comments
+Oatmeal is one of my absolute favorite breakfasts and this tastes soooo good. Thank you. Reply Oh, Chichi, thank you so much for taking a moment to let me know how much you like these overnight oats! I really appreciate it, and I’m just thrilled to hear you’re enjoying this recipe as much as we always do! 😀 ~Shelley Reply
+Oatmeal is one of my absolute favorite breakfasts and this tastes soooo good. Thank you.
+Oh, Chichi, thank you so much for taking a moment to let me know how much you like these overnight oats! I really appreciate it, and I’m just thrilled to hear you’re enjoying this recipe as much as we always do! 😀 ~Shelley Reply
+Oh, Chichi, thank you so much for taking a moment to let me know how much you like these overnight oats! I really appreciate it, and I’m just thrilled to hear you’re enjoying this recipe as much as we always do! 😀 ~Shelley
+The perfect combo of flavors! This makes me actually look forward to mornings. So delicious, thanks for sharing! Reply Peaches and pralines are a match made in heaven, for sure! I’m glad you’re enjoying this recipe – especially if it makes you actually look forward to getting your mornings started! Total win! 😀 ~Shelley Reply
+The perfect combo of flavors! This makes me actually look forward to mornings. So delicious, thanks for sharing!
+Peaches and pralines are a match made in heaven, for sure! I’m glad you’re enjoying this recipe – especially if it makes you actually look forward to getting your mornings started! Total win! 😀 ~Shelley Reply
+Peaches and pralines are a match made in heaven, for sure! I’m glad you’re enjoying this recipe – especially if it makes you actually look forward to getting your mornings started! Total win! 😀 ~Shelley
+Oh my goodness does this look amazing! I love pralines so much – and the fact that this is a no-cook recipe! Reply Yeah – pralines are kind of a guilty-indulgence favorite of mine, too! What’s awesome is that you get that praline flavor vibe with these overnight oats, but they’re nutritious enough that you don’t have to feel guilty about indulging. Yum!! And you are soooo right about the whole no-cook thing. What an easy, fast solution for busy mornings – total lifesaver! Enjoy, Amy! 🙂 ~Shelley Reply
+Oh my goodness does this look amazing! I love pralines so much – and the fact that this is a no-cook recipe!
+Yeah – pralines are kind of a guilty-indulgence favorite of mine, too! What’s awesome is that you get that praline flavor vibe with these overnight oats, but they’re nutritious enough that you don’t have to feel guilty about indulging. Yum!! And you are soooo right about the whole no-cook thing. What an easy, fast solution for busy mornings – total lifesaver! Enjoy, Amy! 🙂 ~Shelley Reply
+Yeah – pralines are kind of a guilty-indulgence favorite of mine, too! What’s awesome is that you get that praline flavor vibe with these overnight oats, but they’re nutritious enough that you don’t have to feel guilty about indulging. Yum!! And you are soooo right about the whole no-cook thing. What an easy, fast solution for busy mornings – total lifesaver! Enjoy, Amy! 🙂 ~Shelley

@@ -1,0 +1,86 @@
+Mozzarella Bites recipes
+========================
+
+Recipe Metadata
+---------------
+Recipe ID: d78fb1a076b0381a
+CSV row number: 453
+Recipe name: Mozzarella Bites recipes
+Source: purewow.com
+URL: http://www.purewow.com/recipes/Mozzarella-Bites
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02e764162deb6f76f0e9f4c0da6645ec81c5bd636e1105dcbed80a709221d7ad/21121138.jpeg
+Servings: 7
+Calories: 5686.92
+Diet labels: Low-Carb
+Health labels: Vegetarian, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: snack
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Mozzarella Bites recipes
+source: purewow.com
+url: http://www.purewow.com/recipes/Mozzarella-Bites
+servings: 7
+calories: 5686.916373
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02e764162deb6f76f0e9f4c0da6645ec81c5bd636e1105dcbed80a709221d7ad/21121138.jpeg
+diet_labels: ["Low-Carb"]
+health_labels: ["Vegetarian","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["snack"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+fashion
+beauty
+food
+wellness
+Mozzarella Bites Recipe
+Print Recipe
+Jump To Recipe
+Never trust a person who doesn’t like mozzarella sticks. (It’s fried cheese, people. What’s not to love?) Since we’re such big fans of this appetizer , we had to introduce you to this recipe for mozzarella bites. Instead of the usual stick shape, we fry tiny balls of cheese for a bite-size twist. Warning: Once you pop, you can’t stop.
+The Best Appetizers Recipes in the Whole Entire Universe
+Ingredients
+1 cup neutral, for frying
+Two (16-ounce) containers bocconcini
+½ cup all-purpose flour
+1 egg, lightly beaten
+1½ cups bread crumbs
+Kosher salt
+3 tablespoons chopped fresh parsley, for garnishing
+1 cup marinara sauce, warmed for dipping
+Directions
+1. Line a large plate with several layers of paper towels. In a small pot, heat the oil over medium heat until it reads 360°F to 370°F on a thermometer. (Note: This is a relatively high frying temperature, which gets the outside crust crispy before the inside cheese can melt too much. Keep an eye on the temperature of the oil, and if it gets too hot, turn off the heat.)
+2. Drain the mozzarella balls and dry them well with paper towels. (It’s best to get them as dry as possible on the outside.) Place the flour in a medium bowl, the egg in a second medium bowl and the bread crumbs in a third medium bowl.
+3. Working in batches, dredge the cheese balls in flour to coat, then in egg, then in bread crumbs. Repeat until all the cheese is breaded.
+4. Fry the mozzarella in the preheated oil until golden brown on the outside, then remove from the oil with a slotted spoon and transfer to the prepared paper-towel-lined plate. Season immediately with salt.
+5. To serve, garnish the mozzarella with parsley, then serve immediately with a side of warm marinara sauce.
+631 calories
+37g fat
+34g carbs
+40g protein
+6g sugars
+Powered By
+Note: The information shown is Edamam's estimate based on available ingredients and preparation. It should not be considered a substitute for a professional nutritionist's advice.
+PureWow Editors
+Editorial Team
+About Us
+Careers
+Contact
+Advertise
+Instagram Portfolio
+Sitemap
+Terms & Conditions
+Privacy Policy
+Editorial Policy
+Contests
+Do Not Sell or Share My Information

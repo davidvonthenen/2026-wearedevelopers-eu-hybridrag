@@ -1,0 +1,108 @@
+"Kale"sadilla
+=============
+
+Recipe Metadata
+---------------
+Recipe ID: 69279ff3187030b7
+CSV row number: 416
+Recipe name: "Kale"sadilla
+Source: Simply Recipes
+URL: https://www.simplyrecipes.com/recipes/kalesadilla
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02a9a41a261aa28c0340ec5abf0c70f7a2a4fa6333c429c143401f0476f05cb8/21011259.jpg
+Servings: 2
+Calories: 863.59
+Diet labels: none listed
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: starter
+
+Original CSV Fields
+-------------------
+recipe_name: "Kale"sadilla
+source: Simply Recipes
+url: https://www.simplyrecipes.com/recipes/kalesadilla
+servings: 2
+calories: 863.5874479176989
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02a9a41a261aa28c0340ec5abf0c70f7a2a4fa6333c429c143401f0476f05cb8/21011259.jpg
+diet_labels: []
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["starter"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: &#34;Kale&#34;sadilla
+
+Description: Kale Quesadilla! with finely shredded kale, red bell peppers, red onions, cumin, and cheddar cheese
+
+Recipe category: ['Snack', 'Quick and Easy']
+
+Recipe cuisine: ['American']
+
+Yield: 2
+
+Prep time: PT5M
+
+Cook time: PT15M
+
+Total time: PT20M
+
+Ingredients:
+- 1 tablespoon extra virgin olive oil
+- 1/3 cup finely chopped red bell pepper
+- 1/3 cup finely chopped red onion
+- Pinch of ground cumin
+- 1 1/2 cups thinly sliced kale (remove center rib from kale before slicing)
+- 1/4 teaspoon butter
+- 3/4 cup of grated mild cheddar
+- 2 flour tortillas (use corn tortillas for gluten-free version)
+
+Instructions:
+1. Heat olive oil in a medium sauté pan on medium high heat. Add the chopped bell pepper and red onion, cook until softened, about 3 minutes. Sprinkle with ground cumin. Add the thinly sliced kale and toss to combine. Cook a minute more on medium high, then lower the heat to low and cover the pan. Cook for a couple more minutes until kales is cooked through and softened, remove from heat.
+2. Heat a large cast iron pan on medium high to high heat. Spread a little butter over the bottom of the pan. Place a flour tortilla in the pan and heat until you see bubbles of air pockets starting to form. Then flip the tortilla over and lower the heat to medium.
+3. Sprinkle with half of the cheese. Place a couple scoops of the kale pepper onion mixture on one side of the tortilla. Fold the other side of the tortilla over the side with the kale. Press down with a spatula. When the cheese on one side has melted, flip the tortilla over to the other side. When the cheese on that side has melted, remove to a cutting board and repeat with the other tortilla and the remaining cheese and filling.
+4. Cut the &#34;kale&#34;sadilla into thirds and serve
+
+Visible page text:
+Recipes
+Recipes By Diet
+Healthy
+Easy and Healthy
+"Kale"sadilla
+Kale Quesadilla! with finely shredded kale, red bell peppers, red onions, cumin, and cheddar cheese
+We all love quesadillas , and we could all use more leafy greens in our diet, so let's add some shredded kale to our cheese and tortillas and call it a "kale"sadilla!
+This could even be a rather clever way to get your kids to eat more greens. Though it's not exactly "sneaky" as you can clearly see the kale.
+But think of it this way, shredded cabbage is often used in tacos, and kale is related to cabbage; they're both of the brassica family. So, it's not really a stretch. And these kale quesadillas are good! Especially with some red peppers, onions, cumin, and cheddar cheese.
+By the way, this recipe is testament to the fact that when you think you've invented something incredibly clever it's likely that someone else has already come up with The Exact Same Idea. And sometimes, even close to the same recipe.
+My pun-loving sweetheart Guy came up with the idea for a kalesadilla the other day when I told him I wanted to play with kale recipes. Kale tastes great with red bell pepper and with cheddar cheese, so that was my plan for the quesadilla. When I later did a Google search to see if what we had come up with was truly original, to my surprise, it was not!
+Kudos to Rachel Brathen and her "kale"sadillas. Check out her recipe with a slightly different method for quesadillas with kale, red bell peppers, and cheddar cheese.
+Corn would also be a good addition to this quesadilla. If you have some corn in your freezer, just toss a few kernels in with the pepper and onion sauté.
+1 tablespoon extra virgin olive oil
+1/3 cup finely chopped red bell pepper
+1/3 cup finely chopped red onion
+Pinch of ground cumin
+1 1/2 cups thinly sliced kale (remove center rib from kale before slicing)
+1/4 teaspoon butter
+3/4 cup grated mild cheddar
+2 flour tortillas (use corn tortillas for gluten-free version)
+Sauté bell pepper, onion, add cumin, kale: Heat olive oil in a medium sauté pan on medium high heat. Add the chopped bell pepper and red onion, cook until softened, about 3 minutes. Sprinkle with ground cumin. Add the thinly sliced kale and toss to combine. Cook a minute more on medium high, then lower the heat to low and cover the pan. Cook for a couple more minutes until kales is cooked through and softened, remove from heat. Elise Bauer Elise Bauer
+Heat olive oil in a medium sauté pan on medium high heat. Add the chopped bell pepper and red onion, cook until softened, about 3 minutes.
+Sprinkle with ground cumin. Add the thinly sliced kale and toss to combine. Cook a minute more on medium high, then lower the heat to low and cover the pan. Cook for a couple more minutes until kales is cooked through and softened, remove from heat.
+Heat the tortilla: Heat a large cast iron pan on medium high to high heat. Spread a little butter over the bottom of the pan. Place a flour tortilla in the pan and heat until you see bubbles of air pockets starting to form. Then flip the tortilla over and lower the heat to medium. Elise Bauer
+Heat a large cast iron pan on medium high to high heat. Spread a little butter over the bottom of the pan. Place a flour tortilla in the pan and heat until you see bubbles of air pockets starting to form. Then flip the tortilla over and lower the heat to medium.
+Add cheese and kale filling to tortilla: Sprinkle with half of the cheese. Place a couple scoops of the kale pepper onion mixture on one side of the tortilla. Fold the other side of the tortilla over the side with the kale. Press down with a spatula. When the cheese on one side has melted, flip the tortilla over to the other side. When the cheese on that side has melted, remove to a cutting board and repeat with the other tortilla and the remaining cheese and filling. Elise Bauer Elise Bauer
+Sprinkle with half of the cheese. Place a couple scoops of the kale pepper onion mixture on one side of the tortilla.
+Fold the other side of the tortilla over the side with the kale. Press down with a spatula. When the cheese on one side has melted, flip the tortilla over to the other side.
+When the cheese on that side has melted, remove to a cutting board and repeat with the other tortilla and the remaining cheese and filling.
+Cut the "kale"sadilla into thirds and serve Elise Bauer
+Cheddar Cheese
+Kale

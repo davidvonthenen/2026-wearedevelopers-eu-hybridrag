@@ -1,0 +1,102 @@
+Pecan Pie Crust
+===============
+
+Recipe Metadata
+---------------
+Recipe ID: 0477cb70290abbf7
+CSV row number: 362
+Recipe name: Pecan Pie Crust
+Source: food.com
+URL: http://www.food.com/recipe/pecan-pie-crust-30630
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02534dcf7d323e353404beff36b5bcc0447360d5d72fe7f555180fd6f4461dc7/21102813.jpg
+Servings: 6
+Calories: 1579.79
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Pecan Pie Crust
+source: food.com
+url: http://www.food.com/recipe/pecan-pie-crust-30630
+servings: 6
+calories: 1579.794250001111
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02534dcf7d323e353404beff36b5bcc0447360d5d72fe7f555180fd6f4461dc7/21102813.jpg
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Pecan Pie Crust
+
+Description: Make and share this Pecan Pie Crust recipe from Food.com.
+
+Recipe category: Pie
+
+Yield: 1 pie crust
+
+Prep time: PT5M
+
+Cook time: PT20M
+
+Total time: PT25M
+
+Ingredients:
+- 2 cups pecans
+- 2 teaspoons melted butter
+- 1/2 teaspoon vanilla
+- 4 tablespoons brown sugar
+- 1 tablespoon water
+
+Instructions:
+1. Place pecans in food processor; grind until fine.
+2. Add melted butter, brown sugar, vanilla and water.
+3. Continue processing till mixture begins falling off sides of bowl.
+4. Press into 9-inch pie pan.
+5. Bake at 325&deg; for 20 minutes or microwave at full power for 6 minutes.
+
+Visible page text:
+Pecan Pie Crust
+ingredients
+2 cups pecans
+2 teaspoons melted butter
+1 ⁄ 2 teaspoon vanilla
+4 tablespoons brown sugar
+1 tablespoon water
+directions
+Place pecans in food processor; grind until fine.
+Add melted butter, brown sugar, vanilla and water.
+Continue processing till mixture begins falling off sides of bowl.
+Press into 9-inch pie pan.
+Bake at 325° for 20 minutes or microwave at full power for 6 minutes.
+Questions & Replies
+I want to make this crust for a pie that needs to be baked for 45 minutes. Do I still bake this for 20 minutes and then 45 more with filling, or is it only for pies that don't need baked filling, etc.? Linda R. Reply 7 See 4 Replies
+can this be used with a pumpkin pie? How long to bake crust and filling together @350? fruitcake3291 Reply
+I have a recipe for key lime pie in an instant pot with graham cracker crust . That recipe is not gluten free. This looks good but I was hoping to not have to bake the crust as my graham cracker crust in the instant pot recipe does not require this. We just freeze it for 10 min. I’m actually camping and won’t have access to oven. What will happen if not baked? debreynolds0 Reply
+Reviews
+Updated to 5 stars, see my reply to this review. Original review: Actually 4 1/2 stars. Review, and what I'm going to try next time. Delicious, but somewhat crumbly, it didn't hold together well so was hard to serve pretty slices. I recommend tasting your pecans first to be sure they are fresh and delicious. Mine were fine, but I have had sweeter tasting pecans. I think it would be an improvement if I got the pecans a little finer ground. They looked like the picture, so I thought they were fine enough. The recipe didn't state whether to pack the brown sugar in the spoon, so I didn't, and I think more sugar would also help the crust stick together better. If those tweaks don't do the trick to keep the crust together I will use the hint I saw at LiveStrong, and add a beaten egg white. I think I would lightly butter the pan if I add egg white. I used this crust to make a Boozey Chocolate pudding pie, the recipe for the pudding came from Liquor.com, so you have to be 21. I think this crust would be wonderful with any filling that would taste good with pecans. I am thinking I will try coconut cream, or banana cream. I also think a chocolate caramel would be delish. I would also like to try to make a pecan pie, but am unsure whether to bake the crust twice. dramaclubmom Reply 1 See 2 Replies
+I'm from Alabama (now live in California). We used to drive to Panama City, Florida just to eat at Seven Seas. They had a glorious 3 layer cake called Fued Cake. OMG! It was worth the 6 hour drive. It is 3 nine inch layers of a chiffon type cake that uses pecan meal for the flour. It is iced fairly thickly with whipped cream and, of course, pecan pieces decorate the top. If it wasn't for the fat in the whipping cream (I do not do Coolwhip.....ever), using Splenda for your sweetener would make this the perfect, diabetic super dessert! Can't wait to try it! Genna G. Reply 1 See 1 Reply
+Very tasty, made it for a key lime pie. I mixed pecans with almonds. I just cooked it with the filling in it for 15 minutes. I didn’t pre cook the crust and it still turned out really good. I’ll be making it again :) emmayaberry Reply
+Is the measurement on butter accurate??! larissa m. Reply See 1 Reply
+Delicious recipe and easy to make. We added a dash of cinnamon and filled it with blueberries. alenga Reply
+Tweaks
+2 tweaks, 2 pies: Tweak 1 - I used 2 oz of brown sugar, with hazelnuts, and the crust came out perfectly, cut nicely and held together when served. If you don't have a scale I would say this is between medium and firmly packed. Tweak 2 - I baked a pecan pie in this crust, made with pecans, of course, and the 2 oz of sugar, as above. Every recipe I saw for pecan pie said to put it in an uncooked crust, and that's what I did. The crust got a little gooey, so it was a little more challenging to serve, but oh so good. I did make an effort to pack this crust extra tight so the crust wouldn't float into the custard along with the loose pecans. I want to add that I have now made it with almonds also, the 2 oz. measurement for the brown sugar worked well. I would say that almonds are the mildest flavor, if you want something that doesn't compete too much with the filling. dramaclubmom Reply
+RECIPE SUBMITTED BY
+69 Followers
+480 Recipes
+6 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

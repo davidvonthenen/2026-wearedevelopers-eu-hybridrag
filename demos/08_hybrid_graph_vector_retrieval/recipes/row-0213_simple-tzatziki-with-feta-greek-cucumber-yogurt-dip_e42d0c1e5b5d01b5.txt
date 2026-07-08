@@ -1,0 +1,173 @@
+Simple Tzatziki with Feta - Greek Cucumber Yogurt Dip
+=====================================================
+
+Recipe Metadata
+---------------
+Recipe ID: e42d0c1e5b5d01b5
+CSV row number: 213
+Recipe name: Simple Tzatziki with Feta - Greek Cucumber Yogurt Dip
+Source: inspiredtaste.net
+URL: http://www.inspiredtaste.net/20515/tzatziki-with-feta-cucumber-yogurt-dip/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01541908263fc521223629fe7153c3254c0fdba055bdcbe2df4dde4a87763f45/21116969.jpg
+Servings: 6
+Calories: 557.20
+Diet labels: Low-Carb
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean, greek
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Simple Tzatziki with Feta - Greek Cucumber Yogurt Dip
+source: inspiredtaste.net
+url: http://www.inspiredtaste.net/20515/tzatziki-with-feta-cucumber-yogurt-dip/
+servings: 6
+calories: 557.1988517
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01541908263fc521223629fe7153c3254c0fdba055bdcbe2df4dde4a87763f45/21116969.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean","greek"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipes Latest Recipes Fan Favorites Recipes by Category Recipe Videos Our Favorites Budget Friendly Meatless Dinner Soups and Stews Appetizers Side Dishes Breakfast Baking Quick Make Ahead Cocktails View All » Recipes by Diet Gluten-free Dairy-free Light Low-Carb Vegetarian Vegan View All » Recipes by Season Spring Summer Fall Winter Holiday Thanksgiving View All » Popular Ingredients Chicken Pork Beef Seafood Shrimp Salmon Pasta Turkey Avocado View All »
+Latest Recipes
+Fan Favorites
+Recipes by Category Recipe Videos Our Favorites Budget Friendly Meatless Dinner Soups and Stews Appetizers Side Dishes Breakfast Baking Quick Make Ahead Cocktails View All »
+Recipe Videos
+Our Favorites
+Budget Friendly
+Meatless
+Dinner
+Soups and Stews
+Appetizers
+Side Dishes
+Breakfast
+Baking
+Quick
+Make Ahead
+Cocktails
+View All »
+Recipes by Diet Gluten-free Dairy-free Light Low-Carb Vegetarian Vegan View All »
+Gluten-free
+Dairy-free
+Light
+Low-Carb
+Vegetarian
+Vegan
+Recipes by Season Spring Summer Fall Winter Holiday Thanksgiving View All »
+Spring
+Summer
+Fall
+Winter
+Holiday
+Thanksgiving
+Popular Ingredients Chicken Pork Beef Seafood Shrimp Salmon Pasta Turkey Avocado View All »
+Chicken
+Pork
+Beef
+Seafood
+Shrimp
+Salmon
+Pasta
+Turkey
+Avocado
+Recipe Index
+About Us
+Cooking Club
+Saved Recipes
+Feta Tzatziki
+Share
+We love this thick, creamy tzatziki with feta cheese and fresh herbs! It’s delicious as a sauce or dip with veggies, pita chips, grilled meats, and sandwiches.
+We absolutely love tzatziki sauce around here! It’s so versatile, and we’ll happily spoon it onto just about anything. This recipe takes classic tzatziki to the next level by adding tangy feta cheese for extra flavor and creaminess.
+I love this feta tzatziki with homemade pita bread ! It’s also incredible with baked chicken breasts , poached salmon , grilled lamb chops, or falafel wraps. Honestly, the possibilities are endless!
+Key Ingredients
+Cucumbers: For the best tzatziki, use English or hothouse cucumbers. These are the long, thin ones usually sold in plastic wrap. They have thinner skin and fewer seeds, so you can skip peeling and seeding them. Baby cucumbers or Persian cucumbers also work great!
+Yogurt: For a thick and creamy tzatziki, use full-fat plain Greek yogurt. Icelandic-style yogurt is another good option. If you only have thinner yogurt, strain it in cheesecloth for a few hours to thicken it. (It’s like making labneh !)
+Feta Cheese: Crumbled feta cheese adds a deliciously salty tang to tzatziki. If you can find feta packed in brine, grab it! You can use a little of the brine to thin out the tzatziki (if you think it needs it).
+Garlic, Lemon, and Herbs: These ingredients give the tzatziki an amazing flavor. I use one clove of garlic, but feel free to add more. Fresh dill and mint are my favorite herbs.
+How to Make Feta Tzatziki
+Tzatziki is very simple to make. To make the best, remember this: too much moisture is tzatziki’s enemy. It makes things watery and stops all the flavors like lemon, garlic, and dill from mingling.
+We reduce the moisture in two ways: by using thick Greek yogurt and by salting the cucumbers.
+For the cucumber, we remove the seeds (if there are any ) and grate it. Scatter the grated cucumber over a clean dishcloth and season with salt. The salt does two things: it makes the cucumber taste more like cucumber and helps draw moisture out. Finally, wrap the dishcloth up and squeeze all the liquid out. You’ll be shocked at how much comes out.
+Then mix the yogurt, cucumbers, and remaining tzatziki ingredients, and last but not least, stir in lots of feta cheese!
+Spoon this feta Tzatziki onto our lemon dill baked salmon , seriously good turkey burgers and our lemon dill chicken breasts (so good).
+PREP 30 mins
+TOTAL 30 mins
+We love this thick, creamy yogurt sauce with fresh cucumber, lemon, dill, and feta cheese. It’s brightly flavored and perfect for serving with veggies, pita chips, grilled meats, and even sandwiches. There are two options for the yogurt. The easiest is to use Greek yogurt. However, you can also use strained plain yogurt. To strain yogurt, place it in a fine mesh strainer lined with cheesecloth or paper towels and rest it over a bowl. Place the yogurt into the refrigerator for 3 to 4 hours to drain. Then, discard the liquid.
+You Will Need
+1 hothouse cucumber, also called English cucumber
+2 (7oz) containers Greek yogurt, we use Fage
+2 tablespoons fresh lemon juice
+1 garlic clove, finely minced (about 1 ½ teaspoons)
+1 tablespoon finely chopped fresh dill
+2 teaspoons apple cider vinegar or substitute white wine vinegar
+2 ounces feta cheese, crumbled
+1 teaspoon salt plus more to taste
+Directions
+1 Cut the cucumber in half lengthwise. Use a spoon to scrape out the seeds, then discard them. Grate the cucumber. Scatter the grated cucumber over a clean dishcloth (or paper towels). Sprinkle with 1/4 teaspoon of salt. Let sit for at least 10 minutes. Then, gather up the corners of the dishcloth and squeeze as much liquid from the grated cucumber as possible. Discard the liquid.
+2 In a medium bowl, combine the squeezed cucumber with yogurt, lemon juice, garlic, dill, apple cider vinegar, and feta cheese.
+3 Season with 1/2 teaspoon of salt, then taste and adjust as necessary with more salt.
+4 Serve now, or if you can spare the time, cover the dip with plastic wrap and refrigerate for 2 to 4 hours to develop flavor.
+Adam and Joanne's Tips
+The nutrition facts provided below are estimates.
+We are Adam and Joanne Gallagher, the creators of Inspired Taste. Established in 2009, Inspired Taste grew from a childhood dream into one of the internet’s most trusted recipe sites with hundreds of reliable recipes, step-by-step videos, and expert tips. More About Us
+You May Also Like...
+Easy Hummus (Better than Store-Bought)
+Perfect Tahini Sauce
+Easy Tahini
+Easy Tzatziki Sauce
+Lemon Dill Chicken
+Easy Chickpea Salad
+Dina June 11, 2024 Thank you Joanne and Adam, I too loved the tzatziki sauce and mixed mint, dill and cilantro into the mixture. It is so refreshing with cucumber salad. I also finely cut cucumbers and add lemon juice, salt and pepper and a bit of sugar and keep in the refrigerator for a couple of days for the flavours to marry. I like a hint of sweetness with the cucumbers., especially to counter balance the sliced onions. Would make delicious sandwiches too! Reply
+Thank you Joanne and Adam, I too loved the tzatziki sauce and mixed mint, dill and cilantro into the mixture. It is so refreshing with cucumber salad. I also finely cut cucumbers and add lemon juice, salt and pepper and a bit of sugar and keep in the refrigerator for a couple of days for the flavours to marry. I like a hint of sweetness with the cucumbers., especially to counter balance the sliced onions. Would make delicious sandwiches too!
+Lisa January 10, 2018 Loved this tzatziki! It puts all others I have tried to shame. I ran it through the food processor to smooth it out a bit. I sense a new addiction ? Reply
+Loved this tzatziki! It puts all others I have tried to shame. I ran it through the food processor to smooth it out a bit. I sense a new addiction ?
+Hiltrud Jones October 26, 2016 Thanks for the great tzatziki recipe. Really loved the twist with the feta cheese and the dill. Very delicious! I usually make mine with fresh mint instead of dill and also add a bit of red pepper (fresh or dried) and about 1/4 cup of very finely chopped onions. Readers should keep in mind that even though the water is squeezed from the cucumber, yogurt tends to get thinner/more liquid by stirring. To have a thick, creamy tzatziki, keep the stirring to a minimum and add all ingredients at once, using a spatula to gently fold them into the yogurt. Reply
+Thanks for the great tzatziki recipe. Really loved the twist with the feta cheese and the dill. Very delicious!
+I usually make mine with fresh mint instead of dill and also add a bit of red pepper (fresh or dried) and about 1/4 cup of very finely chopped onions.
+Readers should keep in mind that even though the water is squeezed from the cucumber, yogurt tends to get thinner/more liquid by stirring. To have a thick, creamy tzatziki, keep the stirring to a minimum and add all ingredients at once, using a spatula to gently fold them into the yogurt.
+REENA April 28, 2014 When did u mix the fetta ? Reply Joanne May 16, 2014 We add the feta cheese when we add the dill. Check above in the recipe for full directions. Reply
+When did u mix the fetta ?
+Joanne May 16, 2014 We add the feta cheese when we add the dill. Check above in the recipe for full directions. Reply
+We add the feta cheese when we add the dill. Check above in the recipe for full directions.
+Heather April 16, 2014 Found this recipe because I love Tzatziki and I eat the whole darn tub in one sitting every time I buy it, so I decided to try my hand. Adding feta is inspired! Slathered it on toasted garlic Naan bread, one of my favorite alternatives to pita. YUM! Love your blog too. It’s a perfect mix of diverse, exciting tastes and ease (because, seriously, who has time?) — and so pretty. Just wanted to give a thumbs up! Reply Joanne April 16, 2014 Aww, thanks Heather! We’re so glad you loved the tzatziki 🙂 Reply
+Found this recipe because I love Tzatziki and I eat the whole darn tub in one sitting every time I buy it, so I decided to try my hand. Adding feta is inspired! Slathered it on toasted garlic Naan bread, one of my favorite alternatives to pita. YUM! Love your blog too. It’s a perfect mix of diverse, exciting tastes and ease (because, seriously, who has time?) — and so pretty. Just wanted to give a thumbs up!
+Joanne April 16, 2014 Aww, thanks Heather! We’re so glad you loved the tzatziki 🙂 Reply
+Aww, thanks Heather! We’re so glad you loved the tzatziki 🙂
+Besa March 26, 2014 Good recipe. Small change: ***allow to sit in fridge 2-3 days before serving*** —makes the biggest difference. Serving it even 4 hours after preparation is not sufficient time. Reply
+Good recipe. Small change: ***allow to sit in fridge 2-3 days before serving*** —makes the biggest difference. Serving it even 4 hours after preparation is not sufficient time.
+Reitberger January 23, 2014 Hello I love to cook and prepared food for the family and make my own yoghurt and using this recipe, is wonderful and I am going to whip this dip tomorrow and impress everyone. Reitberger Reply
+Hello I love to cook and prepared food for the family and make my own yoghurt and using this recipe, is wonderful and I am going to whip this dip tomorrow and impress everyone.
+Reitberger
+Hollis April 18, 2013 WOW just what I was searching for. Came here by searching for tzatziki Reply Joanne April 18, 2013 Perfect! Reply
+WOW just what I was searching for. Came here by searching for tzatziki
+Joanne April 18, 2013 Perfect! Reply
+Perfect!
+Zee February 4, 2013 I tried making tzatzikonce but it didn’t turn out good.. Looking at your recipe I guess it’s time for a second attempt 🙂 Reply Joanne February 4, 2013 It just might be 🙂 Reply
+I tried making tzatzikonce but it didn’t turn out good.. Looking at your recipe I guess it’s time for a second attempt 🙂
+Joanne February 4, 2013 It just might be 🙂 Reply
+It just might be 🙂
+Anna @ Crunchy Creamy Sweet January 30, 2013 My favorite dip ever! Agree on squeezing the heck out of cucumbers for it. They do have a lot of moisture! Reply
+My favorite dip ever! Agree on squeezing the heck out of cucumbers for it. They do have a lot of moisture!
+Leave a Reply Cancel reply
+Welcome!
+We are Adam and Joanne, the creators of Inspired Taste. Since 2009, we’ve been dedicated to creating trusted, easy recipes to help home cooks feel confident and excited in the kitchen. More about us .
+AS FEATURED ON
+Blog
+Subscribe
+Contact Us
+Press
+Privacy Policy
+Terms of Use
+© 2009-2026 Inspired Taste, Inc.

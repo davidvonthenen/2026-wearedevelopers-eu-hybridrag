@@ -1,0 +1,65 @@
+Barbecued Salmon With Green Mango Salad
+=======================================
+
+Recipe Metadata
+---------------
+Recipe ID: 9410473f5882ece8
+CSV row number: 477
+Recipe name: Barbecued Salmon With Green Mango Salad
+Source: Food & Wine
+URL: http://www.foodandwine.com/recipes/barbecued-salmon-with-green-mango-salad
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0319e7cb4e31b4bef66b577b96b8300c86e11510209c5eda8c36b4e0633b22a3/21067469.jpg
+Servings: 10
+Calories: 2592.51
+Diet labels: Low-Carb
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: nordic
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Barbecued Salmon With Green Mango Salad
+source: Food & Wine
+url: http://www.foodandwine.com/recipes/barbecued-salmon-with-green-mango-salad
+servings: 10
+calories: 2592.506269095892
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0319e7cb4e31b4bef66b577b96b8300c86e11510209c5eda8c36b4e0633b22a3/21067469.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["nordic"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+7 Ways to Dress Up Grilled Salmon
+Try topping your salmon with these robustly flavored sauces.
+Kristin Donnelly is a writer with nearly two decades of experience crafting stories and recipes for editorial publications, books, and brands. She was a food editor at Food & Wine for eight years. Kristin is the author of two cookbooks and co-host of the Everything Cookbook podcast.
+Richly flavored salmon can stand up to bold flavors, especially when it’s grilled . Here are seven sauces to try.
+Pesto
+Sure, a classic basil pesto is nice, but this pistachio-oregano version is spectacular with grilled salmon.
+Honey Mustard
+To create a glazed finish, brush salmon with honey mustard that’s been amped up with garlic and thyme.
+Lemon Relish
+Floral and lightly acidic Meyer lemon salsa brings out the buttery, rich flavors of grilled salmon.
+Charmoula
+Salmon is made extra flavorful when marinated in charmoula , a tangy cilantro-based Moroccan sauce.
+Ketchup
+Doctor ketchup with soy sauce, vinegar, sugar, and curry to brush on salmon after it grills.
+Tandoori
+Salmon works beautifully with an Indian-style yogurt marinade , which forms a fantastic crust on the fish.
+Miso
+Rub and briefly marinate the salmon with miso, lemon, and ginger before grilling.
+Ingredients
+Seafood
+Fish
+Salmon
+Related Articles

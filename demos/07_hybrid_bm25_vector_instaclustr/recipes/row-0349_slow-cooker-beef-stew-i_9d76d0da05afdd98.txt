@@ -1,0 +1,58 @@
+Slow Cooker Beef Stew I
+=======================
+
+Recipe Metadata
+---------------
+Recipe ID: 9d76d0da05afdd98
+CSV row number: 349
+Recipe name: Slow Cooker Beef Stew I
+Source: mypinrecipes.blogspot.com
+URL: http://mypinrecipes.blogspot.com/2013/09/slow-cooker-beef-stew-i.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02399bb9c456dfa6b9d20f04d0a8be150cc9019aeb4dfc900971757d290152cb/21065582.jpg
+Servings: 8
+Calories: 2007.69
+Diet labels: none listed
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Slow Cooker Beef Stew I
+source: mypinrecipes.blogspot.com
+url: http://mypinrecipes.blogspot.com/2013/09/slow-cooker-beef-stew-i.html
+servings: 8
+calories: 2007.692120333557
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02399bb9c456dfa6b9d20f04d0a8be150cc9019aeb4dfc900971757d290152cb/21065582.jpg
+diet_labels: []
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Slow Cooker Beef Stew I
+2 pounds beef stew meat, cut into 1 inch cubes
+1/4 cup all-purpose flour
+1/2 teaspoon salt
+1/2 teaspoon ground black pepper
+1 clove garlic, minced
+1 bay leaf
+1 teaspoon paprika
+1 teaspoon Worcestershire sauce
+1 onion, chopped
+1 1/2 cups beef broth
+3 potatoes, diced
+4 carrots, sliced
+1 stalk celery, chopped
+Place meat in slow cooker. In a small bowl mix together the flour, salt, and pepper; pour over meat, and stir to coat meat with flour mixture. Stir in the garlic, bay leaf, paprika, Worcestershire sauce, onion, beef broth, potatoes, carrots, and celery.
+Cover, and cook on Low setting for 10 to 12 hours, or on High setting for 4 to 6 hours.

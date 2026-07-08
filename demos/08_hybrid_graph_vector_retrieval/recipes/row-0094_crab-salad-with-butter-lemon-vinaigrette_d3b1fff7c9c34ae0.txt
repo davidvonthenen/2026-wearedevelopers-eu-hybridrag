@@ -1,0 +1,177 @@
+Crab Salad with Butter-Lemon Vinaigrette
+========================================
+
+Recipe Metadata
+---------------
+Recipe ID: d3b1fff7c9c34ae0
+CSV row number: 94
+Recipe name: Crab Salad with Butter-Lemon Vinaigrette
+Source: thewoodenskillet.com
+URL: https://thewoodenskillet.com/crab-salad-butter-lemon-vinaigrette
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0088e780ccd24759dae40de3febeb38ac02a69535c2b4d115af4fa72feca0e88/21127964.jpg
+Servings: 1
+Calories: 357.54
+Diet labels: Low-Carb
+Health labels: Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Crab Salad with Butter-Lemon Vinaigrette
+source: thewoodenskillet.com
+url: https://thewoodenskillet.com/crab-salad-butter-lemon-vinaigrette
+servings: 1
+calories: 357.5363333333901
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0088e780ccd24759dae40de3febeb38ac02a69535c2b4d115af4fa72feca0e88/21127964.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Crab Salad Recipe
+
+Description: This easy Crab Salad is a simple and delicious crab salad recipe that comes together quickly and is great for meal prep!
+
+Recipe category: ['Salad']
+
+Recipe cuisine: ['American']
+
+Yield: ['4', '4 servings']
+
+Prep time: PT15M
+
+Total time: PT15M
+
+Ingredients:
+- 1/2 teaspoon lemon juice
+- 1/2 cup mayo
+- 2 tablespoons sour cream
+- 1/4 cup celery (sliced)
+- 1/2 teaspoon celery salt
+- 1 lb. crab meat (imitation or regular)
+- 1/4 teaspoon lemon zest
+- 1/4 teaspoon dijon mustard
+- 1 tablespoon red onion (diced)
+- 1/2 teaspoon Old Bay seasoning
+- 1 tablespoon fresh chives (sliced)
+- 1/2 tablespoon fresh dill (roughly chopped)
+- kosher salt &amp; ground black pepper (to taste)
+
+Instructions:
+1. Place all ingredients in a large bowl and mix to fully combine.
+2. Taste and add more fresh dill, chives, salt or pepper, to taste.
+3. Serve any way you want!
+
+Visible page text:
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+Get Inspired Recipe Series Reader Favs What Is…Series Whole30 Resources Whole30 Recipes Cooking School Meal Plans Sunday Suppers
+Recipe Series
+Reader Favs
+What Is…Series
+Whole30 Resources
+Whole30 Recipes
+Cooking School
+Meal Plans
+Sunday Suppers
+Work With Me
+Contact
+New! Sign-up for our Newsletter & never miss a recipe!
+Start Here
+Recipes Recipes Index Reader Faves Dinners Grilling Smoker Dairy-Free Gluten Free Salads
+Recipes Index
+Reader Faves
+Dinners
+Grilling
+Smoker
+Dairy-Free
+Gluten Free
+Salads
+Shop
+About
+Sign up for our Newsletter & never miss a recipe!
+Published on 02/20/24 by Erin Jensen
+Our quick and easy Crab Salad is the perfect light lunch or easy weeknight dinner! Made with flaky crab meat, a creamy base, fresh herbs, and seasonings that bring all the best flavors. This seafood salad recipe has been a crowd favorite for years!
+The Best Crab Salad Recipe
+This easy crab salad recipe is savory, yet decadent but so simple to make! During the warm, summer season we definitely don’t want to be inside cooking, enter this light & refreshing summer salad that can be made quickly or prepped ahead of time. Any seafood recipe is a huge hit around our house and this one is next level! Whether you use real crab meat or imitation crab, this delicious salad will be a crowd-pleaser that people will be requesting again and again.
+Looking for More Crab Recipes?
+If you love them as much as we do, you definitely need to try our Crab Roll or Crab Pasta Salad !
+What You Will Need
+fresh lemon juice & lemon zest – these combine for a little bit of acidity that helps amplify all the great flavor!
+mayonnaise & sour cream – Greek yogurt would make a great alternative for the mayo, if you want. They are the perfect light, yet creamy base for this imitation crab salad.
+celery & red onion – some fresh ingredients to bring the best crunch!
+celery salt, Old Bay seasoning, kosher salt, & black pepper – simple seasonings that combine to really bring the flavor.
+lump crab meat – feel free to cook some crab legs, crack them open, and use the fresh crab meat inside or pick-up some imitation crab meat at your local grocery store.
+dijon mustard – a great addition for some delicious flavor!
+fresh chives & fresh dill – we love these fresh herbs to really lighten and brighten this main dish, fresh parsley would also be great.
+How To Make Crab Salad
+The first steps to making this easy recipe are to gather these simple ingredients.
+Place all of these ingredients in a large mixing bowl. Mix to fully combine. Taste and make any seasoning adjustments, as needed.
+Best Ways To Serve Crab Salad
+This simple crab salad can be enjoyed in a bowl all by itself! Or feel free to serve in some butter lettuce or romaine lettuce to make lettuce wraps. They would also be delicious as crab salad sandwiches on fresh hoagie rolls, brioche bun, or on your favorite bread! For a little garnish on top, you can add some chopped green onions, chives, more red onion, fresh dill or some lemon wedges for a fresh squeeze of lemon juice. Or add a little kick of heat with a drizzle of hot sauce!
+What Do You Serve With Crab Salad
+There are so many great side dish options to serve with this easy weeknight dinner! A few of our favorites are slices of grilled bread , corn on the cob , grilled asparagus , or just some fresh vegetables on the side. No matter what you serve with it, everyone is going to love it!
+Other Great Recipes You Might Like
+Healthy Chicken Salad
+Greek Yogurt Chicken Salad Sandwich
+Crab Cakes
+Butter Poached Lobster
+Shrimp Scampi Pasta
+Made this recipe and loved it?!
+We would love it if you would take a minute and leave a star rating and review – it is also helpful if you made any substitutions or changes to the recipe to share that as well. THANK YOU!
+Follow Us on Social
+Crab Salad Recipe
+Ingredients 1x 2x 3x
+▢ 1/2 teaspoon lemon juice
+▢ 1/2 cup mayo
+▢ 2 tablespoons sour cream
+▢ 1/4 cup celery , sliced
+▢ 1/2 teaspoon celery salt
+▢ 1 lb. crab meat , imitation or regular
+▢ 1/4 teaspoon lemon zest
+▢ 1/4 teaspoon dijon mustard
+▢ 1 tablespoon red onion , diced
+▢ 1/2 teaspoon Old Bay seasoning
+▢ 1 tablespoon fresh chives , sliced
+▢ 1/2 tablespoon fresh dill , roughly chopped
+▢ kosher salt & ground black pepper , to taste
+Instructions
+Place all ingredients in a large bowl and mix to fully combine.
+Taste and add more fresh dill, chives, salt or pepper, to taste.
+Serve any way you want!
+Notes
+Storage : store in airtight container in the refrigerator for up to 3 days.
+Fresh Crab : feel free to substitute fresh, cooked (and cooled) crab leg meat instead of imitation.
+Originally published April 16, 2016. Recipe has been retested and revised with new photos.
+Join our Community!
+Subscribe to The Wooden Skillet Newsletter!
+Get meal plans w/ grocery lists, new recipes, meal prep ideas, cooking classes & more straight to your inbox every week!
+Reader Interactions
+Leave a Rating & Comment Cancel reply
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+Hi, I'm Erin!
+The founder and creator of The Wooden Skillet where I share healthy, simple, real-food recipes for every day life!
+Quick Links
+As Featured In
+Join Our Community
+Sign up to receive new recipes, menu plans, favorite products and more in our Weekly Newsletter!
+Privacy
+Policies
+Accessibility
+Copyright 2026 The Wooden Skillet. All Rights Reserved.
+Design by Weller Smith Design
+back to top
+What are you searching for?

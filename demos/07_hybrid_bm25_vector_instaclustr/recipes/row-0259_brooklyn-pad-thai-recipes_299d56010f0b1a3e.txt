@@ -1,0 +1,88 @@
+Brooklyn Pad Thai recipes
+=========================
+
+Recipe Metadata
+---------------
+Recipe ID: 299d56010f0b1a3e
+CSV row number: 259
+Recipe name: Brooklyn Pad Thai recipes
+Source: planetveggie.co.uk
+URL: http://www.planetveggie.co.uk/brooklyn-pad-thai-vegan-with-a-vengeance-by-isa-chandra-moskowitz/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/019de659ff6767eb0869badb180c4b036204a3c984eebe8ef5c108e04dab2f36/21135612.jpeg
+Servings: 2
+Calories: 833.99
+Diet labels: none listed
+Health labels: Vegan, Vegetarian, Dairy-Free, Egg-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: south east asian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Brooklyn Pad Thai recipes
+source: planetveggie.co.uk
+url: http://www.planetveggie.co.uk/brooklyn-pad-thai-vegan-with-a-vengeance-by-isa-chandra-moskowitz/
+servings: 2
+calories: 833.9877777776055
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/019de659ff6767eb0869badb180c4b036204a3c984eebe8ef5c108e04dab2f36/21135612.jpeg
+diet_labels: []
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Egg-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["south east asian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Brooklyn Pad Thai from Vegan with a Vengeance by Isa Chandra Moskowitz
+This vegan Brooklyn Pad Thai from Vegan with a Vengeance by Isa Chandra Moskowitz is a dish I’ve made many times. You have all heard of Isa, haven’t you? She’s the Queen of Vegan and if you haven’t heard of her, check out the Post Punk Kitchen website .
+Isa admits in VWAV this is most definitely not an authentic Pad Thai but, inauthentic or not, it’s a dish I always enjoy and even The Meat Eater didn’t feel the need to de-veganise it by covering it with salad cream.
+Isa’s original recipe has roasted peanuts and coriander (added at the end as a garnish) – I didn’t add either but as I was eating it, I could see how peanuts would give it that extra something. Brooklyn Pad Thai Save Print Prep time 10 mins Cook time 15 mins Total time 25 mins Adapted from Vegan with a Vengeance by Isa Chandra Moskowitz Author: Cathy @ Planet Veggie Recipe type: Thai Cuisine: Vegan Serves: 2 Ingredients 1 pack straight-to-wok rice noodles For the sauce 3 tbsp soy sauce 3 tbsp sugar 1 tbsp tomato puree 1 tbsp sriracha ⅛ cup rice wine vinegar 1 tbsp lime juice For the Pad Thai 2 tbsp peanut oil ½ block firm tofu, pressed and cubed ½ red onion, sliced 2 cloves garlic, crushed ½ tbsp lemongrass 2 large handfuls beansprouts 4 spring onions, sliced 1 red chilli, deseeded and sliced Instructions Mix together the ingredients for the sauce Heat 1 tbsp of the peanut oil in a wok and fry the tofu for about 5 minutes, until golden and crispy. Remove from the heat and set aside Heat the remaining peanut oil in the wok and fry the red onion for a couple of minutes Add the garlic and lemongrass and fry for another 30 seconds Add the sauce and the noodles and cook for 2 minutes, stirring constantly Add the beansprouts, spring onions, chilli and tofu and cook, stirring for another 30 seconds 3.5.3208
+1 pack straight-to-wok rice noodles
+For the sauce
+3 tbsp soy sauce
+3 tbsp sugar
+1 tbsp tomato puree
+1 tbsp sriracha
+⅛ cup rice wine vinegar
+1 tbsp lime juice
+For the Pad Thai
+2 tbsp peanut oil
+½ block firm tofu, pressed and cubed
+½ red onion, sliced
+2 cloves garlic, crushed
+½ tbsp lemongrass
+2 large handfuls beansprouts
+4 spring onions, sliced
+1 red chilli, deseeded and sliced
+Mix together the ingredients for the sauce
+Heat 1 tbsp of the peanut oil in a wok and fry the tofu for about 5 minutes, until golden and crispy. Remove from the heat and set aside
+Heat the remaining peanut oil in the wok and fry the red onion for a couple of minutes
+Add the garlic and lemongrass and fry for another 30 seconds
+Add the sauce and the noodles and cook for 2 minutes, stirring constantly
+Add the beansprouts, spring onions, chilli and tofu and cook, stirring for another 30 seconds
+Lunch was, again, another salad wrap with olives, spinach, cucumber, tomatoes, hummus and vegan mayo. It wasn’t just an excuse to use my new black spiral plate, honest.
+My friend Jacqui (who I interrogated about her transition from meat-eater to vegan, which you can read here ) asked me at the beginning of Veganuary if I liked cake. Of course, I said yes, and she said she’d send me some from a local bakery. I’d completely forgotten about it until the postman arrived yesterday morning bearing cake-based post and so, to accompany my hot chocolate today was this beautifully moist vegan almond and cherry cake from the Riverbank Bakery in Norfolk. Thanks, Jacqui!
+Breakfast
+This post is a bit backwards today but Thursday’s breakfast was a bit backwards as it was some of Wednesday’s superfood smoothie that was left over. I’ve never had left over smoothie before – purely because there never is any smoothie left over, but it had kept well.
+You know yesterday I said today I was going to venture into Caffè Nero and have my first out-of-the-house vegan meal? Come back tomorrow to see how I did (it’s not that exciting really, so don’t go changing your plans or anything).
+Share this:
+Share on Pinterest (Opens in new window) Pinterest
+Share on Facebook (Opens in new window) Facebook
+Share on X (Opens in new window) X
+Share on LinkedIn (Opens in new window) LinkedIn
+Share on Tumblr (Opens in new window) Tumblr
+Share on Reddit (Opens in new window) Reddit
+Email a link to a friend (Opens in new window) Email
+Like this:
+Related
+Discover more from Planet Veggie
+Subscribe to get the latest posts sent to your email.
+Leave a Reply Cancel reply
+Designed using Unos . Powered by WordPress .

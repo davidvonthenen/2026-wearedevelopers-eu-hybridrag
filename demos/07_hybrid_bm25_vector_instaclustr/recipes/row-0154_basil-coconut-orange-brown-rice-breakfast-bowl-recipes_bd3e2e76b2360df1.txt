@@ -1,0 +1,52 @@
+Basil Coconut Orange Brown Rice Breakfast Bowl recipes
+======================================================
+
+Recipe Metadata
+---------------
+Recipe ID: bd3e2e76b2360df1
+CSV row number: 154
+Recipe name: Basil Coconut Orange Brown Rice Breakfast Bowl recipes
+Source: theartfuldesperado.com
+URL: http://www.theartfuldesperado.com/creamy-basil-coconut-orange-brown-rice-breakfast-bowl-dairy-free/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00f3affd47f6bf647c278d3a11aad922e3edd44b345ac568245946926eb657b8/21122895.jpeg
+Servings: 2
+Calories: 1175.93
+Diet labels: Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Tree-Nuts, Sulfites, FODMAP
+Cuisine type: american
+Meal type: breakfast
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Basil Coconut Orange Brown Rice Breakfast Bowl recipes
+source: theartfuldesperado.com
+url: http://www.theartfuldesperado.com/creamy-basil-coconut-orange-brown-rice-breakfast-bowl-dairy-free/
+servings: 2
+calories: 1175.933124999279
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00f3affd47f6bf647c278d3a11aad922e3edd44b345ac568245946926eb657b8/21122895.jpeg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Tree-Nuts","Sulfites","FODMAP"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Affordable, Reliable Web Hosting Solutions
+Help Center
+Contact Us
+About Us
+Affiliates
+Terms
+Affordable, Reliable
+Web Hosting Solutions
+Web Hosting - courtesy of www.bluehost.com
+©2012 Bluehost.com. All rights reserved.

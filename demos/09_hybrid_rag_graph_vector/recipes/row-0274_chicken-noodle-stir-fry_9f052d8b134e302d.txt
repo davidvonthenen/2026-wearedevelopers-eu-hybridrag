@@ -1,0 +1,80 @@
+Chicken noodle stir fry
+=======================
+
+Recipe Metadata
+---------------
+Recipe ID: 9f052d8b134e302d
+CSV row number: 274
+Recipe name: Chicken noodle stir fry
+Source: legenrecipes.com
+URL: https://legenrecipes.com/recipe/chicken-noodle-stir-fry/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01bd87b21629698393cf152e748d36c372608fe7670db6e88a02924eb9e9d271/21116193.jpg
+Servings: 10
+Calories: 2485.95
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Dairy-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: asian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Chicken noodle stir fry
+source: legenrecipes.com
+url: https://legenrecipes.com/recipe/chicken-noodle-stir-fry/
+servings: 10
+calories: 2485.9525
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01bd87b21629698393cf152e748d36c372608fe7670db6e88a02924eb9e9d271/21116193.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Dairy-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["asian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Chicken noodle stir fry
+
+Ingredients:
+- 400 grams hokkien noodles
+- 1 teaspoon sesame oil
+- 2 chicken breasts, thickly sliced
+- 1 zucchini, chopped into large match sticks
+- 1 bunch broccolini, ends trimmed
+- 2 large handfuls of snow peas, ends trimmed
+- 1 garlic clove, thinly sliced
+
+Instructions:
+1. Prepare noodles according to packet instructions, set aside.
+2. Heat non stick fry pan to medium-high heat, add half a tablespoon of sesame oil and chicken and cook for 4-5 minutes or until chicken is golden and cooked through. Remove and set aside.
+3. Add half a tablespoon of sesame oil to the fry pan, add the zucchini, broccolini and snow peas and cook for 2-3 minutes or until the vegetables are golden. Add garlic and cook for a further minute. Add the chicken and noodles and stir to combine.
+
+Visible page text:
+Chicken noodle stir fry
+Preparing vegetables that are easy for bub’s to handle and eat can be quite the baby led weaning challenge .
+Over time and though much trial and error I have discovered a few lovely little tips and tricks that has helped Grace munch away on her fair share of wonderful vegetables.
+To start I find the shape of the sliced/chopped vegetable is pretty important; especially at the beginning of the baby led weaning journey when grabbing and holding food is very new to our little ones.
+Most vegetables I serve to Grace I chop into large match stick shapes .
+5 Stars 4 Stars 3 Stars 2 Stars 1 Star
+No reviews
+Ingredients
+400 grams hokkien noodles
+1 teaspoon sesame oil
+2 chicken breasts, thickly sliced
+1 zucchini, chopped into large match sticks
+1 bunch broccolini, ends trimmed
+2 large handfuls of snow peas, ends trimmed
+1 garlic clove, thinly sliced
+Instructions
+Prepare noodles according to packet instructions, set aside.
+Heat non stick fry pan to medium-high heat, add half a tablespoon of sesame oil and chicken and cook for 4-5 minutes or until chicken is golden and cooked through. Remove and set aside.
+Add half a tablespoon of sesame oil to the fry pan, add the zucchini, broccolini and snow peas and cook for 2-3 minutes or until the vegetables are golden. Add garlic and cook for a further minute. Add the chicken and noodles and stir to combine.
+No comments yet, be the first to leave one!
+Leave a Reply Cancel reply

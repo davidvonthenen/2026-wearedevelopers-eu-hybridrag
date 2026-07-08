@@ -1,0 +1,97 @@
+Chicken Wings in Honey Sauce - Crock Pot Recipe
+===============================================
+
+Recipe Metadata
+---------------
+Recipe ID: 61a7d493d9b8dd6c
+CSV row number: 19
+Recipe name: Chicken Wings in Honey Sauce - Crock Pot Recipe
+Source: recipeofhealth.com
+URL: http://recipeofhealth.com/recipe/chicken-wings-in-honey-sauce-crock-pot-143345rb
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00150285b023012175a09cbd563f58d6e2b398db628c425a98cc503cfbc2d286/21019814.jpg
+Servings: 4
+Calories: 4428.64
+Diet labels: Balanced
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Chicken Wings in Honey Sauce - Crock Pot Recipe
+source: recipeofhealth.com
+url: http://recipeofhealth.com/recipe/chicken-wings-in-honey-sauce-crock-pot-143345rb
+servings: 4
+calories: 4428.644925
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00150285b023012175a09cbd563f58d6e2b398db628c425a98cc503cfbc2d286/21019814.jpg
+diet_labels: ["Balanced"]
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Main
+Recipes
+Course
+Main Dishes
+chicken main dishes
+Chicken Wings in Honey Sauce - Crock Pot Recipe
+facebook
+twitter
+google+
+pinterest
+linkedin
+email
+Ingredients:
+3 lbs chicken wings (16 wings )
+salt and pepper
+2 cups honey
+1 cup soy sauce
+1/2 cup ketchup
+1/4 cup oil
+2 garlic cloves, minced
+sesame seeds (optional)
+Directions:
+Rinse chicken and pat dry.
+Cut off and discard wing tips.
+Cut each wing at joint to make two sections.
+Sprinkle wing parts with salt and pepper.
+Place wing parts on broiler pan.
+Broil 5-4 inches from heat 20 minutes, 10 minutes a side or until chicken is brown. Transfer chicken to crock pot.
+For sauce, combine honey, soy sauce, ketchup, oil and garlic in bowl.
+Pour over chicken wings.
+Cover and cook on low 4-5 hours or on high 2-2 /2 hours.
+Garnish with sesame seeds, if desired.
+Nutrition Facts
+* Percent Daily Values are based on a 2000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. Find out how many calories should you eat.
+Tastes
+salty
+savory
+bitter
+sweet
+Try this similar recipes
+Recipe Tags
+< 200 kcals
+> 90 min
+Weightwatchers Points
+36 Points
+43 PointsPlus
+Good Points
+saturated fat free
+Bad Points
+High in Sodium,
+High in Sugar,
+High in Total Fat
+Share Recipe
+Opt-out of the sale of personal information
+We won’t sell your personal information to inform the ads you see. You may still see interest-based ads if your information is sold by other copanies or was sold previously.

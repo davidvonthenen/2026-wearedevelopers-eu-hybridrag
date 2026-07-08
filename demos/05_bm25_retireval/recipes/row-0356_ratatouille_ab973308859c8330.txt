@@ -1,0 +1,111 @@
+Ratatouille
+===========
+
+Recipe Metadata
+---------------
+Recipe ID: ab973308859c8330
+CSV row number: 356
+Recipe name: Ratatouille
+Source: food.com
+URL: http://www.food.com/recipe/ratatouille-61658
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0247b61cd5d25389c874ee884f93114ea1b67dabf018c7b3eb21b342577c58d2/21127169.jpg
+Servings: 4
+Calories: 635.26
+Diet labels: High-Fiber
+Health labels: Vegan, Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: french
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Ratatouille
+source: food.com
+url: http://www.food.com/recipe/ratatouille-61658
+servings: 4
+calories: 635.2557035000001
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0247b61cd5d25389c874ee884f93114ea1b67dabf018c7b3eb21b342577c58d2/21127169.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Vegan","Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["french"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Ratatouille
+
+Description: This is an easy recipe and tastes great as a main course, served on a bed of Jasmine rice, with crumbled Feta cheese and chopped black olives. It came from the Feb 2003 Real Simple magazine.
+
+Recipe category: Stew
+
+Yield: 4 serving(s)
+
+Prep time: PT40M
+
+Cook time: PT15M
+
+Total time: PT55M
+
+Ingredients:
+- 3 tablespoons olive oil
+- 1 onion, thinly sliced
+- 4 garlic cloves, peeled and sliced
+- 1 small bay leaf
+- 1 small eggplant, cut into 1/2-inch, pieces
+- 1 small zucchini, halved length wise and cut into slices
+- 1 red bell pepper, cut into slivers
+- 4 plum tomatoes, chopped
+- 1 teaspoon salt
+- 1/4 cup shredded fresh basil leaf
+- fresh ground black pepper
+
+Instructions:
+1. Over medium-low heat, add the oil to a large pan with the onion, garlic and bay leaf.
+2. Stir occasionally till the onion begins to soften (about 2 minutes).
+3. Add the eggplant and cook for 8 minutes stirring occasionally.
+4. Stir in the zucchini, red bell pepper, tomatoes, and salt.
+5. Cook over medium heat for 6 minutes or until the vegetables are tender.
+6. Stir in the basil and a few grinds of black pepper.
+
+Visible page text:
+Ratatouille
+ingredients
+3 tablespoons olive oil
+1 onion , thinly sliced
+4 garlic cloves , peeled and sliced
+1 small bay leaf
+1 small eggplant , cut into 1/2-inch, pieces
+1 small zucchini , halved length wise and cut into slices
+1 red bell pepper , cut into slivers
+4 plum tomatoes , chopped
+1 teaspoon salt
+1 ⁄ 4 cup shredded fresh basil leaf
+fresh ground black pepper
+directions
+Over medium-low heat, add the oil to a large pan with the onion, garlic and bay leaf.
+Stir occasionally till the onion begins to soften (about 2 minutes).
+Add the eggplant and cook for 8 minutes stirring occasionally.
+Stir in the zucchini, red bell pepper, tomatoes, and salt.
+Cook over medium heat for 6 minutes or until the vegetables are tender.
+Stir in the basil and a few grinds of black pepper.
+Questions & Replies
+Reviews
+Even though most of us thought this was good, but not outstanding, I am going to give this four stars. The one member of our family who LOVES eggplant rolled up her eyes in bliss as she ate this, so her reaction is the one I am gauging this by. The rest of us thought this was "Good enough to use up extra eggplant from the garden" good, but not "Run out and buy eggplant from the store" good. DS2 wouldn't touch it, but DD6 ate most of hers. It was very good with fresh french rolls. CraftScout Reply
+This is absolutely the best recipe for ratatouille. I've made it twice both times in the claypot, 450 for about an hour after lightly browning the vegetables on the stove, and both times it was outstanding. A touch of fresh oregano adds to the taste. Remember, it shrinks in the claypot, so it really only serves two. Thanks BarbieRose Reply
+We really enjoyed this! I didn't have fresh basil so had to make due with dried, and also added a dash of oregano, but next time will try with fresh! Also used 2 regular tomatoes instead of 4 plum. We served over angel hair pasta with a crusty loaf of bread! Yum! My husband has requested it be made again soon! Thank you so much!! TnuSami Reply
+This is a delicious ratatouille recipe, delicious with french bread and a chiiled glass of white wine. Thanks for posting this classic. Kate in Katoomba Reply
+The store had run out of zucchini so I used mushrooms instead and this came out great. It even tasted good eaten cold the next day. Rena Raphael Reply
+RECIPE SUBMITTED BY
+1 Follower
+39 Recipes
+1 Tweak
+YOU'LL ALSO LOVE
+Find More Recipes

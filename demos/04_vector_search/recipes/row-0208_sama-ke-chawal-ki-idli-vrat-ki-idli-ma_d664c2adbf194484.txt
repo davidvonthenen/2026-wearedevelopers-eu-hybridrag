@@ -1,0 +1,233 @@
+sama ke chawal ki idli - vrat ki idli - ma
+==========================================
+
+Recipe Metadata
+---------------
+Recipe ID: d664c2adbf194484
+CSV row number: 208
+Recipe name: sama ke chawal ki idli - vrat ki idli - ma
+Source: vegrecipesofindia.com
+URL: http://www.vegrecipesofindia.com/sama-ke-chawal-ki-idli-vrat-ki-idli/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/014b98162d0774f2b21c99ceeda0ebf703994793d00fb968b16154379c9c75dc/21074335.jpg
+Servings: 4
+Calories: 959.88
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: biscuits and cookies
+
+Original CSV Fields
+-------------------
+recipe_name: sama ke chawal ki idli - vrat ki idli - ma
+source: vegrecipesofindia.com
+url: http://www.vegrecipesofindia.com/sama-ke-chawal-ki-idli-vrat-ki-idli/
+servings: 4
+calories: 959.8800000000001
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/014b98162d0774f2b21c99ceeda0ebf703994793d00fb968b16154379c9c75dc/21074335.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["biscuits and cookies"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Sama Chawal Idli | Vrat Ki Idli | Vari Rice Idli
+
+Description: Sama Chawal Idli or Vrat Ki Idli is a unique variation to the South Indian Idli. These are made without the regular rice and lentils, but with Sama also known as Barnyard Millet in English. Thus, a perfect choice of dish for your vrats or fasts and even on regular days. A vegan, gluten free and quite a nutritious recipe.
+
+Recipe category: ['Breakfast']
+
+Recipe cuisine: ['Indian']
+
+Yield: ['9', '9 Barnyard Millet Idli']
+
+Prep time: PT540M
+
+Cook time: PT10M
+
+Total time: PT550M
+
+Ingredients:
+- 1 cup sama ke chawal ((barnyard millet))
+- ½ cup sabudana ((tapioca pearls))
+- 2 pinches baking soda
+- rock salt ((edible and food grade) as required)
+- water (- as required, for soaking)
+
+Instructions:
+1. Take both the sama ke chawal and sabudana in a bowl.
+2. Rinse then well and soak in enough water for 3 hours.
+3. Press a few sabudana pearls and they should get mashed easily. If the center feels hard, they need to be soaked for more time. So add water if required and soak for a few more hours, until the sabudana has softened well.
+4. Drain all the water very well. Then grind the sama chawal and sabudana in a wet grinder or mixer-grinder.
+5. No need to add any water as the sago grains absorb enough water to help with the grinding. But if you are unable to grind in your grinder then just add 2 to 3 teaspoons of water.
+6. The consistency of the batter can be a bit granular or slightly coarse.
+7. Take the batter in a bowl and allow to ferment for 8 to 9 hours or overnight,
+8. Before preparing, add salt to the batter and mix well.
+9. Heat water in a steamer or an electric cooker. Add water as needed in the steamer or electric cooker or instant pot.
+10. Add the baking soda to the batter and stir well.
+11. Pour the batter in greased idli moulds.
+12. Place in the steamer or electric cooker.
+13. Steam the idli for 8 to 10 minutes or until they are cooked well.
+14. Serve sama ke idli hot or warm with your favorite coconut chutney
+
+Visible page text:
+Sama chawal, which is not actually rice but a seed, is a very popular ingredient in India. It is used in the recipes of many dishes that are consumed during the religious fasting season. Just like this Sama Chawal Idli or Vrat Ki Idli – a unique variation to the South Indian Idli . These are made without the regular rice, but with sama. Thus, a perfect choice of dish for your vrats or fasts and even on regular days. A vegan, gluten free and quite a nutritious recipe.
+What is Sama
+Although you may come across this ingredient as sama chawal or sama rice in a lot of recipes, this is definitely not rice but is a healthy seed.
+Known as Barnyard Millet or Japanese Millet in English and vari, samo, sanwa, varai, swang or samwa in other regional Indian languages, these tiny round grains are brimming with health benefits. Also, a naturally fibre-rich, gluten free and vegan option.
+This grain is grown in various regions of India, China, Japan and Korea, where it is suitable for both human consumption and as fodder for animals. The origin is believed to be as old as 2000 BC during the Jomon period in Japan.
+Given its composition, it is best suited for making dishes that are apt during the vrat or fasting season in India. Like this Sama Chawal Idli, there are many other delicious dishes that can be prepared using sama.
+Apart from being an excellent source of fibre, sama is also rich in proteins, low in calories and is ideal for diabetics.
+About Sama Chawal Idli
+This Vrat ki Idli is a fermented idli recipe with sama/vari rice or barnyard millet, which is a popular grain used during fasting in India.
+I have made these idlis many a times during my Navratri fasts as well, where I accompany them with a no onion, no garlic coconut chutney. This meal is tasty and filling too.
+Apart from the samo or sama chawal, I have also added sabudana or sago/tapioca pearls in this Sama Chawal Idli recipe. Thus, these are not your usual idlis.
+So, you can’t really expect these to be soft and fluffy like the regular idlis. Not hard as well, just can’t be compared to the softness of the idlis made with rice and urad dal. If you want to include millets in your diet then you can also check this recipe of Millet Idli made with foxtail millet.
+On my fasting days, I prefer to have something which is filling, yet light, healthy and energy giving. The Sama Chawal Idli is one of the best options then.
+The batter is kept overnight for fermentation. This imparts a pleasant aroma in it, the next day. For leavening, I add baking soda which makes the idli rise while steaming.
+Variations
+There’s a variation that can be done to this Vari Rice Idli recipe by adding 1 to 2 tablespoons curd (yogurt), then adding the baking soda before making the idli.
+You can also make khatta dhokla with the same batter. To make dhokla, you’ll have to add ½ cup thick sour curd in the ground batter, stir well and allow to ferment overnight.
+Before preparing, add 1 teaspoon fruit salt (Eno) and keep the batter for steaming. You’ll have lovely dhokla with this.
+Since I don’t like the soapy aroma of baking soda in the Sama Chawal Idli, I always add less; that is, just about 2 pinches in the batter. If you are ok with it, you can even add ¼ to ½ teaspoon of baking soda.
+In addition to this special idli, you can make a variety of other dishes with sama – Samvat Rice Khichdi and even Samak Rice Pulao . Also, if you are planning to keep fasts this time during Navratri, you can refer to this helpful compilation of Navratri Fasting Rules, Recipes & Pooja Vidhi .
+If you like trying various types of idli, do have a look at these recipes:
+Ragi Idli
+Oats Idli
+Thatte Idli
+Kanchipuram Idli
+Leftover Rice Idli
+FAQs
+My samo idlis turned out hard. What can be the reason?
+Less water in the batter can be one of the reasons. The batter should have a medium consistency or slightly thick like an idli batter, but not very thick.
+Make sure to soak the sabudana too well and they should soften and get mashed easily when you press them with your fingers. You can also increase the quantity of baking soda a bit for softer and fluffier idlis.
+What is the substitute for baking soda?
+You can make these idlis without the baking soda too. However, in that case, idlis will be slightly dense but still taste good. If you can use fruit salt (Eno), it is also a substitute.
+Can I refrigerate the batter in the morning and use it to make idlis in the night?
+Yes, certainly you can do that.
+Step by Step Photo Guide Above
+Sama Chawal Idli | Vrat Ki Idli | Vari Rice Idli
+Ingredients
+▢ 1 cup sama ke chawal (barnyard millet)
+▢ ½ cup sabudana (tapioca pearls)
+▢ 2 pinches baking soda
+▢ rock salt (edible and food grade) as required
+▢ water – as required, for soaking
+Instructions
+Soaking Barnyard Millet & Sago
+Take both the sama ke chawal and sabudana in a bowl.
+Rinse then well and soak in enough water for 3 hours.
+Press a few sabudana pearls and they should get mashed easily. If the center feels hard, they need to be soaked for more time. So add water if required and soak for a few more hours, until the sabudana has softened well.
+Making Batter
+Drain all the water very well. Then grind the sama chawal and sabudana in a wet grinder or mixer-grinder.
+No need to add any water as the sago grains absorb enough water to help with the grinding. But if you are unable to grind in your grinder then just add 2 to 3 teaspoons of water.
+The consistency of the batter can be a bit granular or slightly coarse.
+Take the batter in a bowl and allow to ferment for 8 to 9 hours or overnight,
+Before preparing, add salt to the batter and mix well.
+Steaming
+Heat water in a steamer or an electric cooker. Add water as needed in the steamer or electric cooker or instant pot.
+Add the baking soda to the batter and stir well.
+Pour the batter in greased idli moulds.
+Place in the steamer or electric cooker.
+Steam the idli for 8 to 10 minutes or until they are cooked well.
+Serve sama ke idli hot or warm with your favorite coconut chutney
+Dassana’s Notes
+Make sure that the sabudana (sago) is soaked well. Depending on the quality the sago may take more time to soak and soften. After a three hour soaking period, if the sabudana still feels hard, when you press it, soak for a further a couple of hours adding more water if needed; until the sago has softened really well.
+Do not make a very thick batter. The batter can be similar to that of the idli batter consistency.
+If you prefer, you can increase the amount of baking soda by ¼ to ½ teaspoon.
+Nutrition
+This Sama Chawal Idli Recipe from the archives was first published on February 2013. It has been updated and republished on March 2024.
+More Vegetarian Recipes You May Like
+Navratri Fasting Rules, Recipes & Pooja Vidhi | Navratri 2026
+Sabudana Khichdi Recipe
+Kaddu ki Sabji (Easy Pumpkin Recipe)
+Sabudana Vada Recipe (For Fasting)
+I am Dassana Amit, a vegetarian chef and baker with decades of experience, professionally trained in Indian and continental cooking and baking. I’m also a certified pastry chef, trained at Le Cordon Bleu in plant-based patisserie. For over 16 years, I’ve shared trusted, strictly vegetarian recipes with step-by-step photos, expert tips, and practical guidance. Bringing together tradition, technique, and a love for honest, soulful vegetarian cooking.
+Leave a Reply Cancel reply
+37 Comments
+Idli turns out very soft and tasty thanks for sharing perfect recipe. Reply Glad to know and thank you. Reply
+Idli turns out very soft and tasty thanks for sharing perfect recipe.
+Glad to know and thank you. Reply
+Glad to know and thank you.
+Replacement of tapioca pearls. I am diabetic, i prefer no potatoes, no yams, and no tapioca. Reply Add ½ cup urad dal (hulled black gram). If you prefer less urad dal flavor, add ¼ to ⅓ cup. Reply
+Replacement of tapioca pearls. I am diabetic, i prefer no potatoes, no yams, and no tapioca.
+Add ½ cup urad dal (hulled black gram). If you prefer less urad dal flavor, add ¼ to ⅓ cup. Reply
+Add ½ cup urad dal (hulled black gram). If you prefer less urad dal flavor, add ¼ to ⅓ cup.
+Can we eat baking soda in fast Reply Baking Soda is pure Sodium Bicarbonate. According to me you can use it. But not baking powder as it has a grain flour – cornstarch. But some folks use baking soda and some don’t. It depends from family to family. Reply
+Can we eat baking soda in fast
+Baking Soda is pure Sodium Bicarbonate. According to me you can use it. But not baking powder as it has a grain flour – cornstarch. But some folks use baking soda and some don’t. It depends from family to family. Reply
+Baking Soda is pure Sodium Bicarbonate. According to me you can use it. But not baking powder as it has a grain flour – cornstarch. But some folks use baking soda and some don’t. It depends from family to family.
+Hi Dassana, I made these idlis yesterday. They were a little bit on the harder side. I think it is because of sabudana. Have you tried without adding sabudana, only with sama chaval? Reply these are not hard. did you add enough water for grinding. the batter should not be very thick. the batter can be of medium consistency or slightly thick like idli batter. if sabudana does not get soaked well, then also the idli can become hard. so here both the batter should have the enough water in it and sabudana should be soaked well. i have never made without sabudana. but you can try. hope this helps. Reply
+Hi Dassana,
+I made these idlis yesterday. They were a little bit on the harder side. I think it is because of sabudana. Have you tried without adding sabudana, only with sama chaval?
+these are not hard. did you add enough water for grinding. the batter should not be very thick. the batter can be of medium consistency or slightly thick like idli batter. if sabudana does not get soaked well, then also the idli can become hard. so here both the batter should have the enough water in it and sabudana should be soaked well. i have never made without sabudana. but you can try. hope this helps. Reply
+these are not hard. did you add enough water for grinding. the batter should not be very thick. the batter can be of medium consistency or slightly thick like idli batter. if sabudana does not get soaked well, then also the idli can become hard. so here both the batter should have the enough water in it and sabudana should be soaked well. i have never made without sabudana. but you can try. hope this helps.
+Instead of idli can we make dosa of the same batter. Reply Charu, i didn’t made dosa with this batter. so don’t know. if you try then do let us know. i will experiment and try to post dosa recipe as well. Reply
+Instead of idli can we make dosa of the same batter.
+Charu, i didn’t made dosa with this batter. so don’t know. if you try then do let us know. i will experiment and try to post dosa recipe as well. Reply
+Charu, i didn’t made dosa with this batter. so don’t know. if you try then do let us know. i will experiment and try to post dosa recipe as well.
+ate this just now.. it was amazing.. so I had to come and leave a comment… I love idli and thanks to you I can fulfill my idli cravings during navratri tooo… Reply welcome naina. glad to know that you liked this idli recipe. i will try to experiment and post sama ke chawal ka dosa also. Reply I used the same batter .. just added a little water and amazing dosas were made.. have shared the recipe with other family members and they too cooked and loved the idlis/dosas from this batter.. Reply thanks naina for letting me know. i will give a try this time. also thanks for sharing the recipe with your family members. Reply Hi I tried these as directed but turned out very hard from inside. Any suggestions ? Thanks Reply if water in the batter added is less, then the idli becomes dense and hard. so this could be the reason. the amount of baking soda can be also increased a bit to make the idli soft and fluffy. hope these tips help. Reply
+ate this just now.. it was amazing.. so I had to come and leave a comment… I love idli and thanks to you I can fulfill my idli cravings during navratri tooo…
+welcome naina. glad to know that you liked this idli recipe. i will try to experiment and post sama ke chawal ka dosa also. Reply I used the same batter .. just added a little water and amazing dosas were made.. have shared the recipe with other family members and they too cooked and loved the idlis/dosas from this batter.. Reply thanks naina for letting me know. i will give a try this time. also thanks for sharing the recipe with your family members. Reply Hi I tried these as directed but turned out very hard from inside. Any suggestions ? Thanks Reply if water in the batter added is less, then the idli becomes dense and hard. so this could be the reason. the amount of baking soda can be also increased a bit to make the idli soft and fluffy. hope these tips help. Reply
+welcome naina. glad to know that you liked this idli recipe. i will try to experiment and post sama ke chawal ka dosa also.
+I used the same batter .. just added a little water and amazing dosas were made.. have shared the recipe with other family members and they too cooked and loved the idlis/dosas from this batter.. Reply thanks naina for letting me know. i will give a try this time. also thanks for sharing the recipe with your family members. Reply
+I used the same batter .. just added a little water and amazing dosas were made.. have shared the recipe with other family members and they too cooked and loved the idlis/dosas from this batter..
+thanks naina for letting me know. i will give a try this time. also thanks for sharing the recipe with your family members. Reply
+thanks naina for letting me know. i will give a try this time. also thanks for sharing the recipe with your family members.
+Hi I tried these as directed but turned out very hard from inside. Any suggestions ? Thanks Reply if water in the batter added is less, then the idli becomes dense and hard. so this could be the reason. the amount of baking soda can be also increased a bit to make the idli soft and fluffy. hope these tips help. Reply
+Hi I tried these as directed but turned out very hard from inside. Any suggestions ? Thanks
+if water in the batter added is less, then the idli becomes dense and hard. so this could be the reason. the amount of baking soda can be also increased a bit to make the idli soft and fluffy. hope these tips help. Reply
+if water in the batter added is less, then the idli becomes dense and hard. so this could be the reason. the amount of baking soda can be also increased a bit to make the idli soft and fluffy. hope these tips help.
+Hi Dassana, I prefer to eat at night during navratri. Can I keep the batter in the fridge in the morning and use it at night to make idlis? Reply naina, you can keep the batter in the fridge and prepare idlis at night. Reply
+I prefer to eat at night during navratri. Can I keep the batter in the fridge in the morning and use it at night to make idlis?
+naina, you can keep the batter in the fridge and prepare idlis at night. Reply
+naina, you can keep the batter in the fridge and prepare idlis at night.
+Hi Dasanna, any other substitute for soda? Is soda necessary..we generally avoid soda for ekadasi fasting. Thanks for a wonderful recipe but!:) Reply prepare without soda divyapriya. they will be slightly dense if soda is not used, but will still taste good. if you use eno or fruit salt, then you can add eno instead. Reply
+Hi Dasanna, any other substitute for soda? Is soda necessary..we generally avoid soda for ekadasi fasting. Thanks for a wonderful recipe but!:)
+prepare without soda divyapriya. they will be slightly dense if soda is not used, but will still taste good. if you use eno or fruit salt, then you can add eno instead. Reply
+prepare without soda divyapriya. they will be slightly dense if soda is not used, but will still taste good. if you use eno or fruit salt, then you can add eno instead.
+Thank u dasana ji i tried to make idlis for fast firsr time and it turned out really tasty n soft too this navrata is just awesome because of ur reciepes many new varietes for fasting thank u Reply we are glad to know you got new varieties of recipes to try from our food blog 🙂 you are welcome and thankyou. Reply
+Thank u dasana ji i tried to make idlis for fast firsr time and it turned out really tasty n soft too this navrata is just awesome because of ur reciepes many new varietes for fasting thank u
+we are glad to know you got new varieties of recipes to try from our food blog 🙂 you are welcome and thankyou. Reply
+we are glad to know you got new varieties of recipes to try from our food blog 🙂 you are welcome and thankyou.
+Best recipe ever thanku Reply thankyou lovepreet 🙂 Reply
+Best recipe ever thanku
+thankyou lovepreet 🙂 Reply
+thankyou lovepreet 🙂
+Tried Dhokla and idli absolutely amazing!!! If you thin the idli batter amazing Dosas were made from it! Divine recipe! Reply thanks rhea for sharing positive feedback and for your suggestion. Reply
+Tried Dhokla and idli absolutely amazing!!! If you thin the idli batter amazing Dosas were made from it! Divine recipe!
+thanks rhea for sharing positive feedback and for your suggestion. Reply
+thanks rhea for sharing positive feedback and for your suggestion.
+Can v use baking soda in navratre? As in is it allowed? Reply himani, some people use and some people don’t use. it depends upon family to family. Reply
+Can v use baking soda in navratre? As in is it allowed?
+himani, some people use and some people don’t use. it depends upon family to family. Reply
+himani, some people use and some people don’t use. it depends upon family to family.
+Your recipe looks delicious really want to try soon but We don’t eat sabudana can we substitute this with something… Reply thanks preetika. i don’t know any substitute of sabudana in this recipe. Reply
+Your recipe looks delicious really want to try soon but We don’t eat sabudana can we substitute this with something…
+thanks preetika. i don’t know any substitute of sabudana in this recipe. Reply
+thanks preetika. i don’t know any substitute of sabudana in this recipe.
+Can u please let me know where to find barnyard millet in US ?? Reply KK, no idea as i stay in india Reply Hi KK, U can find these at any Indian grocery store!!! Reply
+Can u please let me know where to find barnyard millet in US ??
+KK, no idea as i stay in india Reply
+KK, no idea as i stay in india
+Hi KK, U can find these at any Indian grocery store!!! Reply
+Hi KK,
+U can find these at any Indian grocery store!!!
+Good Reply
+Good
+Hi dear, Just tried it today for Navratri ….. It came out just wow…Had it along with coconut chutney 🙂 I made around 16 idlis with the above given batter measurements!!Thanks for sharing such a simple healthy unique vrat recipie !! Keep up the good work !! Reply welcome deeya. feeling good that u tried the recipe and you liked it too. thanks. Reply
+Hi dear, Just tried it today for Navratri ….. It came out just wow…Had it along with coconut chutney 🙂 I made around 16 idlis with the above given batter measurements!!Thanks for sharing such a simple healthy unique vrat recipie !! Keep up the good work !!
+welcome deeya. feeling good that u tried the recipe and you liked it too. thanks. Reply
+welcome deeya. feeling good that u tried the recipe and you liked it too. thanks.
+This fasting season I have been seeing so many sama ke chawal recipes that I feel like trying it myself. dont know where to get them here. lovely idli. fluffy, moist and soft. Reply
+This fasting season I have been seeing so many sama ke chawal recipes that I feel like trying it myself. dont know where to get them here. lovely idli. fluffy, moist and soft.
+Share anywhere

@@ -1,0 +1,108 @@
+Sunday Brunch: Broccolini Salad Recipe
+======================================
+
+Recipe Metadata
+---------------
+Recipe ID: f682208432c29e88
+CSV row number: 375
+Recipe name: Sunday Brunch: Broccolini Salad Recipe
+Source: Serious Eats
+URL: http://www.seriouseats.com/recipes/2010/09/sunday-brunch-broccolini-salad-recipe.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02609eb266632f0fbd8455c135b21e9870b9e2008cf8cf418d8a143e602fb4c6/20951494.jpg
+Servings: 6
+Calories: 2133.25
+Diet labels: Low-Carb
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: japanese
+Meal type: brunch, lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Sunday Brunch: Broccolini Salad Recipe
+source: Serious Eats
+url: http://www.seriouseats.com/recipes/2010/09/sunday-brunch-broccolini-salad-recipe.html
+servings: 6
+calories: 2133.254015
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02609eb266632f0fbd8455c135b21e9870b9e2008cf8cf418d8a143e602fb4c6/20951494.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["japanese"]
+meal_type: ["brunch","lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Stop Making Boring Broccoli: 16 Recipes We're Loving Right Now
+We're paying tribute to this versatile and beloved brassica.
+In the vegetable kingdom, broccoli rules—just ask anyone perusing the produce aisles. I, for one, invariably toss a head (or two) into my basket every time I grocery shop, regardless of whether or not I know what I'm going to do with it. It's so versatile that intention doesn't matter all that much. I know I can use it in stir-fries, add it to pasta, puree it into soup, or top a pizza. Heck, I even chop it into bits and add it to my dog Violet's homemade dog food. Eating broccoli is never a problem. Cooking broccoli the right way to retain all its healthy benefits and make the most of its natural deliciousness is another thing.
+We've discovered that roasting broccoli is one of the best ways to intensify its sweetness and add layers of flavor. And while broccoli is often sold by the "crown" (implying some sort of royal vegetable lineage), there are also ways to make every part of the brassica shine. We've got all the brassica fronts covered in the recipes below: a savory broccoli and beef stir-fry, caramelized broccoli-topped pizza to rival your favorite takeout, and a nostalgic broccoli cheddar soup, among many other delicious recipes.
+Love any of these recipes? Tap "Save" to add them to MyRecipes , our free tool to save and organize favorites from top food sites.
+Creamy Broccoli Salad With Bacon and Cheddar Serious Eats / Morgan Hunt Glaze In this Southern salad, broccoli gets fully dressed up with a creamy yet bright dressing, crunchy apples, crispy bacon, plump pickled raisins, and smoked cheddar. Creamy Broccoli Salad With Bacon and Cheddar
+Creamy Broccoli Salad With Bacon and Cheddar
+Serious Eats / Morgan Hunt Glaze
+In this Southern salad, broccoli gets fully dressed up with a creamy yet bright dressing, crunchy apples, crispy bacon, plump pickled raisins, and smoked cheddar.
+Caesar Roasted Broccoli Serious Eats / Amanda Suarez It's a simple as it sounds: Dress up sweet and nutty roasted broccoli with savory, crisp Caesar-flavored breadcrumbs. Caesar Roasted Broccoli
+Caesar Roasted Broccoli
+Serious Eats / Amanda Suarez
+It's a simple as it sounds: Dress up sweet and nutty roasted broccoli with savory, crisp Caesar-flavored breadcrumbs.
+Easy Roasted Broccoli Serious Eats / Vicky Wasik A 500°F oven and foil-lined pan that's ripping hot before the florets are added = perfectly sweet and nutty broccoli. Not a mushy, sulfurous-smelling floret in sight! For a tasty treat, finish off the lightly charred florets with Caesar breadcrumbs . Easy Roasted Broccoli
+Easy Roasted Broccoli
+Serious Eats / Vicky Wasik
+A 500°F oven and foil-lined pan that's ripping hot before the florets are added = perfectly sweet and nutty broccoli. Not a mushy, sulfurous-smelling floret in sight! For a tasty treat, finish off the lightly charred florets with Caesar breadcrumbs .
+The Greenest Broccoli Soup Serious Eats / Vy Tran This luscious, bright green is rich and velvety without any dairy. A base of leek whites, garlic, fish sauce, and bouillon builds richness and depth of flavor in the soup. Topping the soup with charred broccoli florets and snap peas adds a welcome crisp-tender crunch. The Greenest Broccoli Soup Continue to 5 of 16 below
+The Greenest Broccoli Soup
+Serious Eats / Vy Tran
+This luscious, bright green is rich and velvety without any dairy. A base of leek whites, garlic, fish sauce, and bouillon builds richness and depth of flavor in the soup. Topping the soup with charred broccoli florets and snap peas adds a welcome crisp-tender crunch.
+Crispy Air-Fryer Broccoli Serious Eats / Morgan Hunt Glaze Make crisp, tender air-fryer broccoli with our basic recipe. It’s great as-is—or dressed up with our five easy, delicious variations. Crispy Air-Fryer Broccoli
+Crispy Air-Fryer Broccoli
+Make crisp, tender air-fryer broccoli with our basic recipe. It’s great as-is—or dressed up with our five easy, delicious variations.
+Charred Broccoli With Manchego, Hazelnuts, and Honey Serious Eats / Vicky Wasik Caramelized roasted florets finished with a drizzle of honey, a sprinkling of toasted hazelnuts, and a blanket of shaved Manchego is our grown-up version of broccoli and cheese. Charred Broccoli With Manchego, Hazelnuts, and Honey
+Charred Broccoli With Manchego, Hazelnuts, and Honey
+Caramelized roasted florets finished with a drizzle of honey, a sprinkling of toasted hazelnuts, and a blanket of shaved Manchego is our grown-up version of broccoli and cheese.
+Charred Broccoli With Taleggio Cheese Sauce and Gremolata Serious Eats / Vicky Wasik How do you turn broccoli into a main dish? Slice it up and char it like steak, dress it with a punchy gremolata made with the stems and scraps, then serve it with a creamy smooth Taleggio sauce. Done! Charred Broccoli With Taleggio Cheese Sauce and Gremolata
+Charred Broccoli With Taleggio Cheese Sauce and Gremolata
+How do you turn broccoli into a main dish? Slice it up and char it like steak, dress it with a punchy gremolata made with the stems and scraps, then serve it with a creamy smooth Taleggio sauce. Done!
+Orecchiette With Broccoli and Toasted Hazelnuts Serious Eats / Amanda Suarez This pasta dish (and others like it ) comes together quickly and makes for an easy weeknight dinner. Searing some of the broccoli here adds smoky and bittersweet notes, contrasting nicely with the creamy cooked-down broccoli sauce infused with earthy turmeric and crunchy toasted hazelnuts. Orecchiette With Broccoli and Toasted Hazelnuts Continue to 9 of 16 below
+Orecchiette With Broccoli and Toasted Hazelnuts
+This pasta dish (and others like it ) comes together quickly and makes for an easy weeknight dinner. Searing some of the broccoli here adds smoky and bittersweet notes, contrasting nicely with the creamy cooked-down broccoli sauce infused with earthy turmeric and crunchy toasted hazelnuts.
+Chinese-American Beef and Broccoli With Oyster Sauce Serious Eats / Melissa Hom One could argue there is no Chinese-American takeout without beef and broccoli, possibly one of the most ordered items on the menu. When done right—that is, stir-fried on scorching high heat—the marinated beef is tender and the florets are slightly charred, crisp, and bright green. Chinese-American Beef and Broccoli With Oyster Sauce
+Chinese-American Beef and Broccoli With Oyster Sauce
+Serious Eats / Melissa Hom
+One could argue there is no Chinese-American takeout without beef and broccoli, possibly one of the most ordered items on the menu. When done right—that is, stir-fried on scorching high heat—the marinated beef is tender and the florets are slightly charred, crisp, and bright green.
+Broccoli Salad With Radicchio, Basil, and Pistachios Serious Eats / Vicky Wasik Every part of the brassica is used in this salad, and the key to its success lies in how each part is treated: the florets are lightly blanched and the raw stems are peeled and cut into thin strips. Tossed with radicchio and a bold basil-pistachio vinaigrette, it's a veritable celebration of broccoli. Broccoli Salad With Radicchio, Basil, and Pistachios
+Broccoli Salad With Radicchio, Basil, and Pistachios
+Every part of the brassica is used in this salad, and the key to its success lies in how each part is treated: the florets are lightly blanched and the raw stems are peeled and cut into thin strips. Tossed with radicchio and a bold basil-pistachio vinaigrette, it's a veritable celebration of broccoli.
+Vegan Cheesy Baked Potatoes With Broccoli Serious Eats / Eric Kleinberg For the best baked potatoes, start them off in foil for the first 30 minutes, which speeds up cooking time but still allows the skins to crisp. Then all you have to do is cut them open and fill them with a luscious vegan nacho sauce loaded with broccoli that's as flavorful and satisfying as real cheese. Vegan Cheesy Baked Potatoes With Broccoli
+Vegan Cheesy Baked Potatoes With Broccoli
+Serious Eats / Eric Kleinberg
+For the best baked potatoes, start them off in foil for the first 30 minutes, which speeds up cooking time but still allows the skins to crisp. Then all you have to do is cut them open and fill them with a luscious vegan nacho sauce loaded with broccoli that's as flavorful and satisfying as real cheese.
+Broccoli Cheese Soup Serious Eats / J. Kenji López-Alt Here, adding the broccoli in stages builds layers of flavor and texture in this creamy, filling version of broccoli cheddar soup. Broccoli Cheese Soup Continue to 13 of 16 below
+Broccoli Cheese Soup
+Serious Eats / J. Kenji López-Alt
+Here, adding the broccoli in stages builds layers of flavor and texture in this creamy, filling version of broccoli cheddar soup.
+Broccoli and Cheese Galette Serious Eats / Vicky Wasik Okay, who wouldn't want their veggies enveloped in a creamy, cheesy sauce and wrapped in a golden, flaky crust? Here, a free-form pie crust and Mornay sauce (the secret sauce in traditional mac and cheese) provide a delightfully decadent vehicle for broccoli. Broccoli and Cheese Galette
+Broccoli and Cheese Galette
+Okay, who wouldn't want their veggies enveloped in a creamy, cheesy sauce and wrapped in a golden, flaky crust? Here, a free-form pie crust and Mornay sauce (the secret sauce in traditional mac and cheese) provide a delightfully decadent vehicle for broccoli.
+Caramelized Broccoli and Red Onion Pizza Serious Eats / J. Kenji López-Alt We all know brassicas are delicious on top of pies. To make them taste even better, break the broccoli up into smaller pieces so they char faster, then pair them with thinly sliced red onion and red pepper flakes to play off the sweetness of the caramelized broccoli. Caramelized Broccoli and Red Onion Pizza
+Caramelized Broccoli and Red Onion Pizza
+We all know brassicas are delicious on top of pies. To make them taste even better, break the broccoli up into smaller pieces so they char faster, then pair them with thinly sliced red onion and red pepper flakes to play off the sweetness of the caramelized broccoli.
+Creamy Roasted-Broccoli Soup With Buttermilk and Spiced Pepitas Serious Eats / Daniel Gritzer Roasting instead of blanching the broccoli is what gives this creamy, dreamy soup its fall vibes. A splash of buttermilk adds brightness, while a garnish of spiced roasted pepitas plays off the roasted broccoli flavor. Creamy Roasted-Broccoli Soup With Buttermilk and Spiced Pepitas
+Creamy Roasted-Broccoli Soup With Buttermilk and Spiced Pepitas
+Serious Eats / Daniel Gritzer
+Roasting instead of blanching the broccoli is what gives this creamy, dreamy soup its fall vibes. A splash of buttermilk adds brightness, while a garnish of spiced roasted pepitas plays off the roasted broccoli flavor.
+Spanish Tortilla with Broccoli, Chorizo, and Onion Serious Eats / J. Kenji López-Alt This is a case where the riff on a classic might prove to be as good, if not better, than the original. The cooking method here is nearly identical to the traditional potato-based Spanish omelette , but with a great advantage: Broccoli is easier to prep than potatoes, which need to be peeled and thinly sliced. Spanish Tortilla with Broccoli, Chorizo, and Onion
+Spanish Tortilla with Broccoli, Chorizo, and Onion
+This is a case where the riff on a classic might prove to be as good, if not better, than the original. The cooking method here is nearly identical to the traditional potato-based Spanish omelette , but with a great advantage: Broccoli is easier to prep than potatoes, which need to be peeled and thinly sliced.
+Recipes
+Recipes By Ingredients
+Vegetables
+Broccoli
+More Serious Eats Recipes

@@ -1,0 +1,84 @@
+Super Healthy Grain Breakfast
+=============================
+
+Recipe Metadata
+---------------
+Recipe ID: 2cb99803aa8d2481
+CSV row number: 368
+Recipe name: Super Healthy Grain Breakfast
+Source: food.com
+URL: http://www.food.com/recipe/super-healthy-grain-breakfast-55118
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0258ad3afd49dba3c4e78f0ce57de343e09f2ec4a3b9a53256d56ae08110b0d3/21131645.jpg
+Servings: 1
+Calories: 323.53
+Diet labels: High-Fiber, Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: mediterranean
+Meal type: breakfast
+Dish type: cereals
+
+Original CSV Fields
+-------------------
+recipe_name: Super Healthy Grain Breakfast
+source: food.com
+url: http://www.food.com/recipe/super-healthy-grain-breakfast-55118
+servings: 1
+calories: 323.5322899
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0258ad3afd49dba3c4e78f0ce57de343e09f2ec4a3b9a53256d56ae08110b0d3/21131645.jpg
+diet_labels: ["High-Fiber","Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["breakfast"]
+dish_type: ["cereals"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Super Healthy Grain Breakfast
+
+Description: No milk, no sugar, but delicious, healthy and filling. The fruit provides the sweetness. It's very quick and filling too.
+
+Recipe category: Breakfast
+
+Yield: 1 serving(s)
+
+Prep time: PT2M
+
+Cook time: PT5M
+
+Total time: PT7M
+
+Ingredients:
+- 2 ounces porridge oats
+- 1 cup water
+- 1 sliced banana (plus 1 peeled and chopped pear, optional)
+
+Instructions:
+1. Mix all together in a microwave bowl.
+2. Cook for 5 minutes on High.
+
+Visible page text:
+Super Healthy Grain Breakfast
+ingredients
+2 ounces porridge oats
+1 cup water
+1 sliced banana (plus 1 peeled and chopped pear, optional)
+directions
+Mix all together in a microwave bowl.
+Cook for 5 minutes on High.
+Questions & Replies
+Reviews
+Very nice breakfast. I used my scale to measure out the oatmeal (regular, not quick cooking) and then added the banana and water. The back of my package said to cook it on medium in the microwave, but I followed the directions in this recipe and was happy with the consistency. I did pout some vanilla soymilk on top because I like the contrast of the liquid and I also like the subtle sweetness and vanilla with the oatmeal and banana. An easy healthy breakfast. Thanks! ladypit Reply
+I like this recipe as well but I add a touch of honey. Amy0t Reply
+Since Karl and I are big oatmeal eaters, I tripled the amount of oatmeal (i.e. to about 1 cup). However, when I considered the amount of water I usually add to oatmeal, I only doubled it from the recipe, and also only used two bananas. I think it would have been kind of soupy with more water/bananas. I also added a pinch of salt. The results were very good; oatmeal with a rich banana flavour that did not require any further sweetener, although we did serve it, as is our custom, with rice milk. Jenny Sanders Reply
+This is one of my favourites. Some people dont like it, but I think it's healthy and great! Charishma_Ramchandani Reply
+RECIPE SUBMITTED BY
+20 Recipes
+YOU'LL ALSO LOVE
+Find More Recipes

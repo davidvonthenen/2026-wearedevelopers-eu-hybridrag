@@ -1,0 +1,91 @@
+Black Tie Avocado Mousse
+========================
+
+Recipe Metadata
+---------------
+Recipe ID: f507f9dbed82d84b
+CSV row number: 166
+Recipe name: Black Tie Avocado Mousse
+Source: tastykitchen.com
+URL: https://tastykitchen.com/recipes/desserts/black-tie-avocado-mousse/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/010415afe7104fe566440716fca88a84300c6ff9cb886865715e4012610cdd7e/21094933.jpg
+Servings: 4
+Calories: 1181.74
+Diet labels: High-Fiber, Low-Sodium
+Health labels: Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: british
+Meal type: snack
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Black Tie Avocado Mousse
+source: tastykitchen.com
+url: https://tastykitchen.com/recipes/desserts/black-tie-avocado-mousse/
+servings: 4
+calories: 1181.739999999997
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/010415afe7104fe566440716fca88a84300c6ff9cb886865715e4012610cdd7e/21094933.jpg
+diet_labels: ["High-Fiber","Low-Sodium"]
+health_labels: ["Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["british"]
+meal_type: ["snack"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Black Tie Avocado Mousse
+Print
+2 Comments
+One Review
+Print Options
+Description
+This elegant, luxurious, and vegan-friendly dessert is perfect to wow a crowd at any party!
+Ingredients
+2 whole Large Ripe Avocados
+½ cups Unsweetened Cocoa Powder
+4 Tablespoons Honey
+2 teaspoons Vanilla Extract
+1 pinch Salt
+1 Tablespoon Brewed Coffee (optional)
+Preparation
+Discard avocado seeds and scoop flesh into food processor. Add all other ingredients and blend until smooth and creamy. Divide into four 6-ounce ramekins and chill for 1 hour. Serve chilled.
+Adapted from: Food 52 and Peanut Butter Fingers.
+More Recipes from The Newlywed Chefs
+Rosemary Cashews
+Southwestern Soup
+Find The Newlywed Chefs elsewhere on the web.
+Website
+Facebook
+Twitter
+Leave a Comment
+You must be logged in to post a comment.
+stefffie78 on 3.6.2013
+yikes
+Mary Adair on 3.6.2013
+Wow, I can’t believe how wonderful this looks and how healthy it is for a dessert. Sending my husband to the grocery store for another avocado in order to make it for us! Thanks.
+Write a Review
+You must be logged in to post a review.
+Shazana on 5.26.2013
+yummmyyy!
+Food Gifts
+View Recipe
+Slow Cooker Season!
+Related Recipes
+Prep: 25 mins Cook: 45 mins
+Serves: 6 Level: Easy
+Share f a e
+Prep: 1 hr Cook: 30 mins
+Serves: 12 Level: Intermediate
+Prep: 30 mins Cook: 30 mins
+Serves: 16 Level: Easy
+Prep: 20 mins Cook: 21 mins
+Serves: 24 Level: Intermediate
+Prep: 20 mins Cook: 20 mins
+Serves: 12 Level: Easy

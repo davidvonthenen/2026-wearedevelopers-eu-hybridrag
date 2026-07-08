@@ -1,0 +1,101 @@
+Mustard Chicken Salad
+=====================
+
+Recipe Metadata
+---------------
+Recipe ID: ae9fb152d38b5e8f
+CSV row number: 458
+Recipe name: Mustard Chicken Salad
+Source: food.com
+URL: http://www.food.com/recipe/mustard-chicken-salad-358542
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02ec975107579fe9949738552bc1f4c69d82f1af035e9f91190fb64bf8bc38d2/21027964.jpg
+Servings: 5
+Calories: 3574.40
+Diet labels: Low-Carb
+Health labels: Paleo, Dairy-Free, Gluten-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Mustard Chicken Salad
+source: food.com
+url: http://www.food.com/recipe/mustard-chicken-salad-358542
+servings: 5
+calories: 3574.397491599532
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02ec975107579fe9949738552bc1f4c69d82f1af035e9f91190fb64bf8bc38d2/21027964.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Paleo","Dairy-Free","Gluten-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Mustard Chicken Salad
+
+Description: Why wait for a picnic? Push back your furniture and pull out a blanket and spread it on the floor. Have your kids put on their shorts and sunglasses and then have the whole family sit down and enjoy this chicken salad on paper plates with some lemonade. Ah, life is good! Recipe by Ina Garten - Barefoot Contessa.
+
+Recipe category: Chicken Breast
+
+Yield: 4-5 serving(s)
+
+Prep time: PT10M
+
+Cook time: PT40M
+
+Total time: PT50M
+
+Ingredients:
+- 2 whole chicken breasts, bone-in, skin-on (4 split)
+- olive oil
+- kosher salt & freshly ground black pepper
+- 2 -3 cups broccoli florets
+- 1 1/2 cups good mayonnaise
+- 2 tablespoons dry white wine
+- 1/4 cup Dijon mustard
+- 3 tablespoons whole grain mustard
+- 2 tablespoons minced fresh tarragon leaves
+- 1 cup cherry tomatoes or 1 cup grape tomatoes, halved
+
+Instructions:
+1. Preheat the oven to 350 degrees F.
+2. Place the chicken breasts on a sheet pan and rub the skin with olive oil. Sprinkle liberally with salt and pepper. Roast for 35 to 40 minutes, until the chicken is just cooked. Set aside until cool enough to handle. Remove the meat from the bones, discard the skin, and dice the chicken in large bite-size pieces.
+3. Meanwhile, add the broccoli florets to a large pot of salted boiling water. Cook for 1 minute, until crisp tender, drain, and place into a bowl of ice water until cool. This will stop the cooking and set the bright green color.
+4. For the dressing, whisk together the mayonnaise, wine, mustards, and 1/2 teaspoon pepper. Add enough sauce to the warm chicken to moisten well. Add the tarragon, broccoli, and tomatoes and mix gently to combine. Season with salt to taste. Refrigerate for a few hours to allow the flavors to blend. Serve at room temperature.
+
+Visible page text:
+Mustard Chicken Salad
+ingredients
+2 whole chicken breasts, bone-in, skin-on (4 split)
+olive oil
+kosher salt & freshly ground black pepper
+2 -3 cups broccoli florets
+1 1 ⁄ 2 cups good mayonnaise
+2 tablespoons dry white wine
+1 ⁄ 4 cup Dijon mustard
+3 tablespoons whole grain mustard
+2 tablespoons minced fresh tarragon leaves
+1 cup cherry tomatoes or 1 cup grape tomatoes , halved
+directions
+Preheat the oven to 350 degrees F.
+Place the chicken breasts on a sheet pan and rub the skin with olive oil. Sprinkle liberally with salt and pepper. Roast for 35 to 40 minutes, until the chicken is just cooked. Set aside until cool enough to handle. Remove the meat from the bones, discard the skin, and dice the chicken in large bite-size pieces.
+Meanwhile, add the broccoli florets to a large pot of salted boiling water. Cook for 1 minute, until crisp tender, drain, and place into a bowl of ice water until cool. This will stop the cooking and set the bright green color.
+For the dressing, whisk together the mayonnaise, wine, mustards, and 1/2 teaspoon pepper. Add enough sauce to the warm chicken to moisten well. Add the tarragon, broccoli, and tomatoes and mix gently to combine. Season with salt to taste. Refrigerate for a few hours to allow the flavors to blend. Serve at room temperature.
+Questions & Replies
+Reviews
+I followed it to the letter and found it to lack flavor. I added brown rice noodles, sun dried tomatoes(instead of grape) red onion, garlic and lots of red wine vinegar. My husband liked it but it turned out like all my other pasta salads only with lots of chicken. I even marinated the chicken in Itilaian dressing and some papkria and red pepper flackes. Still not exciting. peacelady247 Reply
+RECIPE SUBMITTED BY
+116 Followers
+905 Recipes
+58 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

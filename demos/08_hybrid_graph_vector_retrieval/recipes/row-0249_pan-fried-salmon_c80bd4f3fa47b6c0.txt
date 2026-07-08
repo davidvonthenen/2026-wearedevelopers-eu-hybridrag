@@ -1,0 +1,110 @@
+Pan-Fried Salmon
+================
+
+Recipe Metadata
+---------------
+Recipe ID: c80bd4f3fa47b6c0
+CSV row number: 249
+Recipe name: Pan-Fried Salmon
+Source: Delish
+URL: https://www.delish.com/cooking/recipe-ideas/a23570664/pan-fried-salmon
+Image URL: unknown
+Servings: 4
+Calories: 1939.51
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: nordic
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Pan-Fried Salmon
+source: Delish
+url: https://www.delish.com/cooking/recipe-ideas/a23570664/pan-fried-salmon
+servings: 4
+calories: 1939.510569
+image_url: 
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["nordic"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Pan-Fried Salmon
+
+Description: Pan-Fried Salmon from Delish.com is perfectly lemony.
+
+Recipe category: ['gluten-free', 'low-carb', 'low sugar', 'nut-free', 'date night', 'weeknight meals', 'dinner', 'fish', 'main dish']
+
+Recipe cuisine: ['Latin American Cuisine', 'Caribbean Cuisine', 'Spanish Cuisine', 'Mexican Cuisine', 'Persian Cuisine', 'American Cuisine', 'Filipino cuisine', 'Lebanese Cuisine', 'Peruvian Cuisine', 'South Asian Cuisine']
+
+Yield: 4 serving(s)
+
+Prep time: PT10M
+
+Cook time: PT0S
+
+Total time: PT10M
+
+Ingredients:
+- 4 (6-oz.) salmon fillets, patted dry with a paper towel
+- Kosher salt
+- Freshly ground black pepper
+- 2 tbsp. extra-virgin olive oil
+- 1/4 c. white wine
+- Juice of 1 1/2 lemons, divided
+- 2 cloves garlic, sliced
+- Pinch red pepper flakes
+- 2 tbsp. butter
+- 1 lemon, cut into rounds, for serving
+- 2 tbsp. freshly chopped dill, for garnish
+
+Instructions:
+1. In a large skillet over medium-high heat, heat oil. When oil is hot but not smoking, add salmon skin-side up and season with salt and pepper. Cook salmon until deeply golden, about 6 minutes, then flip over.
+2. Add wine, juice of 1 lemon, garlic, and red pepper flakes. Bring to a simmer and cook, basting salmon occasionally with a spoon. When salmon is opaque, remove from skillet. Add butter and remaining lemon juice to pan and whisk to combine with the sauce. Let simmer until thickened slightly, 2 minutes.
+3. Serve fish drizzled with pan sauce and topped with fresh lemon slices and dill.
+
+Visible page text:
+Love this version, but wanna switch up the flavors? Try swapping limes for lemons and cilantro for dill. Now you've got a latin-inspired salmon that would be perfect served atop cilantro lime rice !
+Cooking is easier on the app.
+Download for free!
+Ingredients
+4 (6-oz.) salmon fillets, patted dry with a paper towel
+Kosher salt
+Freshly ground black pepper
+2 Tbsp. extra-virgin olive oil
+1/4 cup white wine
+Juice of 1 1/2 lemons, divided
+2 cloves garlic, sliced
+Pinch red pepper flakes
+2 Tbsp. butter
+1 lemon, cut into rounds, for serving
+2 Tbsp. freshly chopped dill, for garnish
+Directions
+Step 1 In a large skillet over medium-high heat, heat oil. When oil is hot but not smoking, add salmon skin-side up and season with salt and pepper. Cook salmon until deeply golden, about 6 minutes, then flip over. Step 2 Add wine, juice of 1 lemon, garlic, and red pepper flakes. Bring to a simmer and cook, basting salmon occasionally with a spoon. When salmon is opaque, remove from skillet. Add butter and remaining lemon juice to pan and whisk to combine with the sauce. Let simmer until thickened slightly, 2 minutes. Step 3 Serve fish drizzled with pan sauce and topped with fresh lemon slices and dill.
+Step 1 In a large skillet over medium-high heat, heat oil. When oil is hot but not smoking, add salmon skin-side up and season with salt and pepper. Cook salmon until deeply golden, about 6 minutes, then flip over.
+Step 2 Add wine, juice of 1 lemon, garlic, and red pepper flakes. Bring to a simmer and cook, basting salmon occasionally with a spoon. When salmon is opaque, remove from skillet. Add butter and remaining lemon juice to pan and whisk to combine with the sauce. Let simmer until thickened slightly, 2 minutes.
+Step 3 Serve fish drizzled with pan sauce and topped with fresh lemon slices and dill.
+Readers Also Read
+75 Cheap & Easy Dinner Recipes
+85 Best Ground Beef Recipes
+The Original Marry Me Chicken
+Stuffed Peppers
+105 Best Weeknight Chicken Dinners
+99 Simple Slow-Cooker & Crockpot Recipes
+Healthy Lazy Dinner Recipes
+20 Lazy Dinner Recipes
+77 Easy Low-Carb Recipes
+75 Quick & Easy Dinner Recipes for Kids
+Creamy Tuscan Chicken
+22 Easy Chicken Thigh Recipes

@@ -1,0 +1,158 @@
+Orange Chicken Recipe
+=====================
+
+Recipe Metadata
+---------------
+Recipe ID: 9dbf8b6b4d6a9b3c
+CSV row number: 412
+Recipe name: Orange Chicken Recipe
+Source: Group Recipes
+URL: http://www.grouprecipes.com/29792/orange-chicken.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02a3a3832b1223ac0582695e0c9efc6fc33091a8fbac15c6b9025f64008507d6/21069269.jpg
+Servings: 4
+Calories: 931.22
+Diet labels: High-Protein, Low-Carb
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites, FODMAP
+Cuisine type: french
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Orange Chicken Recipe
+source: Group Recipes
+url: http://www.grouprecipes.com/29792/orange-chicken.html
+servings: 4
+calories: 931.2189433161566
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02a3a3832b1223ac0582695e0c9efc6fc33091a8fbac15c6b9025f64008507d6/21069269.jpg
+diet_labels: ["High-Protein","Low-Carb"]
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites","FODMAP"]
+cuisine_type: ["french"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Categories Search Your Bookmarks Upload a Recipe
+Categories
+Search
+Your Bookmarks
+Upload a Recipe
+No idea what to search for? Start browsing till you find something.
+irish seafood recipes
+sausage jambalaya recipe
+planters punch
+hot cross buns
+chicken fried rice
+hotwings
+chocolate pound cakes
+best recipes for pheasant breasts
+how to prepare deer steak for frying
+cheapeasy dinners
+Orange Chicken Recipe
+Orange Chicken
+Add yours
+20 minutes to make
+Serves 4
+Like Panda Express Orange Chicken??? Why buy when you can cook it.
+chicken
+stovetop
+chinese
+save Add tags (comma separated) to categorize your bookmark. Save Feel free to use any of the below tags. Click one to add it. chicken stovetop chinese
+planner Add this recipe to your weekly planner Fri Sat Sun Mon Tue Wed Thu Schedule your weekly meals and get auto-generated shopping lists. or go to planner
+Fri
+Sat
+Sun
+Mon
+Tue
+Wed
+Thu
+Schedule your weekly meals and get auto-generated shopping lists.
+print
+email Email to Send
+groc. list Add items to your shopping list 4 boneless, skinless chicken breast halves, cut into 1-inch cubes Marinade: 2 tablespoons Chinese rice wine or dry sherry 1 tablespoon cornstarch Sauce: 1/3 cup orange juice 2 tablespoons dark soy sauce 1 teaspoon sesame oil 1 teaspoon brown sugar 1/4 teaspoon chile paste 1 clove garlic, minced 1 slice ginger, minced Oil for stir-frying, as needed go view your shopping list
+4 boneless, skinless chicken breast halves, cut into 1-inch cubes
+Marinade:
+2 tablespoons Chinese rice wine or dry sherry
+1 tablespoon cornstarch
+Sauce:
+1/3 cup orange juice
+2 tablespoons dark soy sauce
+1 teaspoon sesame oil
+1 teaspoon brown sugar
+1/4 teaspoon chile paste
+1 clove garlic, minced
+1 slice ginger, minced
+Oil for stir-frying, as needed
+Ingredients
+4 boneless, skinless chicken breast halves , cut into 1-inch cubes shopping list
+Marinade: shopping list
+2 tablespoons chinese rice wine or dry sherry shopping list
+1 tablespoon cornstarch shopping list
+Sauce: shopping list
+1/3 cup orange juice shopping list
+2 tablespoons dark soy sauce shopping list
+1 teaspoon sesame oil shopping list
+1 teaspoon brown sugar shopping list
+1/4 teaspoon chile paste shopping list
+1 clove garlic, minced shopping list
+1 slice ginger , minced shopping list
+oil for stir-frying, as needed shopping list
+How to make it
+Place the cubed chicken in a bowl, and add the marinade ingredients. Marinate the chicken for 30 minutes.
+While the chicken is marinating, prepare the sauce ingredients and the garlic and ginger.
+Heat the wok and add oil. When oil is ready, add the garlic and ginger and stir-fry until aromatic.
+Add the chicken and stir-fry until it changes color. Push up to the sides of the wok, making a well in the middle. Add the sauce.
+Combine the sauce and the chicken. Stir-fry for another minute and serve hot.
+*If you find the orange flavor too overpowering, try substituting a combination of orange juice and water to make 1/3 cup.
+NadineM Mississauga, Canada
+LindsayB Western, NY
+semi00 Nowhere, Us
+nanny1291955 Douglasville, Ga.
+cuddy1849 Cambridge, ID
+cldinardo2 Nowhere, Us
+celloboe Where The Antelope Play, SC
+bm14582 Nowhere, Us
+tamdog Nowhere, Us
+kathystark Nowhere, Us
+Plus 52 others From around the world!
+All Comments
+Your Comments
+hardhead101 16 years ago If I could go to Panda Express everyday I would....but if I could get it at home I'd think I died and went to heaven. Was this review helpful? Yes Flag
+" It was excellent " mark555 ate it and said... This looks great! We had an orange chicken the other day and enjoyed it, will have to give this a try, Was this review helpful? Yes Flag
+" It was excellent " berry ate it and said... Wow, if this is like Panda Express Orange Chicken, I rate it 5... I should try it! Thanks! Was this review helpful? Yes Flag
+krumkake 18 years ago Sounds devine!...love the sauce ingredients - I've printed this one out (but probably won't get a chance to try it until after the holidays)...thanks Watson! Was this review helpful? Yes Flag
+esherbow 18 years ago I would love to eat this dish but not to cook it as I have not yet gotten into wok cooking. Wouldn't even know what kind to buy to get started ... Was this review helpful? Yes Flag
+The Cook
+The Rating
+This looks great! We had an orange chicken the other day and enjoyed it, will have to give this a try, mark555 in Center Of The World Ma' Center Of The World loved it
+This looks great! We had an orange chicken the other day and enjoyed it, will have to give this a try,
+Wow, if this is like Panda Express Orange Chicken, I rate it 5... I should try it! Thanks! berry in Myrtle Beach loved it
+Wow, if this is like Panda Express Orange Chicken, I rate it 5... I should try it! Thanks!
+The Groups
+Not added to any groups yet!
+My Stuff My Home My Bookmarks Shopping List Weekly Planner
+My Home
+My Bookmarks
+Shopping List
+Weekly Planner
+Jump To Browse Categories Search
+Browse Categories
+Help Help Forum FAQ
+Help Forum
+FAQ
+Search Inspiration Terms of Service & Privacy Contact
+Search Inspiration
+Terms of Service & Privacy
+Contact
+Take Note We will not respond to member emails. Use the Help Forum for that.
+If you have a business development or DMCA inquiry, Click Here .
+Advertising on Group Recipes is sold by SheKnows.com. You can contact the sales team for more info.
+while I look at others.

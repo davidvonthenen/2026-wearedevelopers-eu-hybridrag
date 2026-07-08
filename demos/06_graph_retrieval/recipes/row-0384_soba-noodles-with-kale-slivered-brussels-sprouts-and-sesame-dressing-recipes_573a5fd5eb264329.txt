@@ -1,0 +1,99 @@
+Soba Noodles with Kale, Slivered Brussels Sprouts and Sesame Dressing recipes
+=============================================================================
+
+Recipe Metadata
+---------------
+Recipe ID: 573a5fd5eb264329
+CSV row number: 384
+Recipe name: Soba Noodles with Kale, Slivered Brussels Sprouts and Sesame Dressing recipes
+Source: katieatthekitchendoor.com
+URL: http://katieatthekitchendoor.com/2013/03/19/book-club-vegetable-literacy-soba-noodles-with-kale-sesame-and-slivered-brussels-sprouts/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/026fefb5da9224989c868e189c64c2636d49c3bd123fa6745a7dd5ab14bfacbb/21088961.jpeg
+Servings: 4
+Calories: 1284.05
+Diet labels: Balanced
+Health labels: Vegan, Vegetarian, Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat
+Cuisine type: asian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Soba Noodles with Kale, Slivered Brussels Sprouts and Sesame Dressing recipes
+source: katieatthekitchendoor.com
+url: http://katieatthekitchendoor.com/2013/03/19/book-club-vegetable-literacy-soba-noodles-with-kale-sesame-and-slivered-brussels-sprouts/
+servings: 4
+calories: 1284.052384767126
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/026fefb5da9224989c868e189c64c2636d49c3bd123fa6745a7dd5ab14bfacbb/21088961.jpeg
+diet_labels: ["Balanced"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat"]
+cuisine_type: ["asian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Skip to primary navigation
+Skip to content
+Skip to primary sidebar
+One of the most buzz-worthy cookbooks released so far this spring is Vegetable Literacy , Deborah Madison’s information-packed ode to cooking with vegetables. Since I’m already planning for the gardening season ahead and dreaming of what to do with all of our fresh, home-grown vegetables, I was thrilled to receive a copy to augment my daydreaming.
+This book is wholly centered around the plant kingdom. The chapters are organized by plant family, e.g. the knotweed family – sorrel, rhubarb, and buckwheat, or the nightshade family – potatoes, eggplants, peppers, and tomatoes. Within each chapter, each vegetable is given a lengthy introduction that mixes history, culture, biology, and even linguistics into a tale of the vegetable that is guaranteed to teach you something. (I’m still utterly fascinated by what I learned about Belgian endives – they grow on these massive roots , but in the dark!) Then the narrative moves on to discuss the best varieties (which reminds me of Tender ), using the whole plant, kitchen wisdom, good flavor companions (which reminds me of The Flavor Bible ), and how-tos (how to roast peppers, how to freeze garden-fresh swiss chard), before presenting us with the recipes that showcase that vegetable.
+That may sound like a lot of information for every vegetable – and it is! Vegetable Literacy doesn’t follow the current trend of having pretty pictures with every recipe (although when there are pictures, they’re lovely, just not the focus), or having fun graphics and sidebars – this cookbook is all about the words. Even visually it’s about the words – there are entire two-page spreads that are simply four columns of text. But it’s well written, highly informative, and horizon broadening – it’s easy to read and easy to learn from. The recipes themselves are creative and unabashedly healthy, and would provide any avid home-gardener with years worth of dishes to try using their home produce in. I already can’t wait for my peas to come up so I can try the Peas with Baked Ricotta and Bread Crumbs, and I’m intrigued by combinations such as Corn Cookies with Almonds and Raisins, and Tomato and Cilantro Soup with Black Quinoa. There’s plenty of new ideas to hold my attention as a cook.
+Coming back from a weekend of traveling and indulging with my girlfriends, I needed something fresh and simple to help re-balance my system. There were plenty of choices of fresh, delicious meals in Vegetable Literacy , but March is actually a tough season for local vegetables in New England – root vegetables are tired and everyone’s minds are on spring, but the first homegrown peas are still months away. So I went for a year-round staple, kale, and settled on this Soba Noodle Salad with raw kale, raw brussels sprouts, and a sesame-soy dressing. I liked that the noodles made the dish filling but the veggies remained uncooked, keeping as much of their nutrition as possible. It was easy to make and tasty, and I can definitely see adding a little bit of this or that (shredded carrot? raw red peppers?) as the seasons change.
+The bottom line: Vegetable Literacy is a well-written and highly informative cookbook that offers both healthy, veggie-focused recipes and a wealth of information on the history, culture, and biology of the plants we find on our plates. Truly, it straddles the line between cookbook and encyclopedia. I’d recommend this book to anyone with an interest in gardening or vegetarian cooking, as it will likely expand your horizons on both topics.
+Disclaimer: I was sent a review copy of Vegetable Literacy by Ten Speed Press, but I was not otherwise compensated for writing this review and all opinions are my own.
+Soba Noodles with Kale, Slivered Brussels Sprouts and Sesame Dressing
+Adapted slightly from Vegetable Literacy. Serves 3-4.
+8 oz. soba noodles
+8 tsp sesame oil, divided
+1 bunch Tuscan kale OR one 5-oz box baby kale
+sea salt
+8 Brussels sprouts
+1 clove garlic
+1 TBS brown rice wine vinegar
+1 tsp soy sauce
+1 TBS sesame seeds, toasted in a dry skillet until golden
+2 pinches red chile flakes
+handful of slivered chives or scallions
+Bring a large pot of salted water to a boil, then cook the soba noodles according to package directions. Drain, then toss with 3 tsp of the sesame oil.
+While the noodles are cooking, prepare the veggies. Wash and dry the kale. If using large, Tuscan kale, remove the leaves from the stems, then, working in batches, stack the leaves, roll them up tightly, and slice into thin ribbons. Place the ribbons in a large bowl. If using baby kale, simply put the clean dry leaves into the bowl. Add 2 tsp of the sesame oil and 1/4 tsp sea salt, then massage with your hands until the leaves have started to shrink and glisten.
+Remove the outer leaves from the Brussels sprouts, cut off the bottom stem, then slice them as thinly as possible, using a mandoline (carefully!) if you have one. Cut the slices into slivers, then toss with the kale.
+Pound the garlic into a paste with 1/8 tsp salt in a mortar and pestle. Whisk in the rice vinegar, then the remaining 3 tsp sesame oil, then the soy sauce, until you have a smooth dressing. Pour over the kale and Brussels sprouts and toss to coat. Toss with the cooked noodles, sesame seeds, and red chile flakes. Finish with chives or scallions, and serve at room temperature or chilled.
+Share this:
+Tweet
+Reader Interactions
+Comments
+This recipe looks awesome! Love the use of sesame seeds to make the taste a little more complex. Would love to try these out with Spaghetti Squash or black bean noodles for something a little lower on the glycemic index! Reply Sounds like a great idea! I’m not a fan of spaghetti squash but I think I could get behind the black bean noodles in this one, for sure. Reply
+This recipe looks awesome! Love the use of sesame seeds to make the taste a little more complex. Would love to try these out with Spaghetti Squash or black bean noodles for something a little lower on the glycemic index!
+Sounds like a great idea! I’m not a fan of spaghetti squash but I think I could get behind the black bean noodles in this one, for sure. Reply
+Sounds like a great idea! I’m not a fan of spaghetti squash but I think I could get behind the black bean noodles in this one, for sure.
+That is the prettiest, most delicate looking kale I have ever seen. Is it baby kale leaves or a special cultivar? Reply Baby kale! This particular box had very tiny leaves, which I really liked. Reply
+That is the prettiest, most delicate looking kale I have ever seen. Is it baby kale leaves or a special cultivar?
+Baby kale! This particular box had very tiny leaves, which I really liked. Reply
+Baby kale! This particular box had very tiny leaves, which I really liked.
+I am looking forward to buying this one. I always love Deborah Madison’s cookbooks. Reply
+I am looking forward to buying this one. I always love Deborah Madison’s cookbooks.
+What a wonderful, wholesome recipe and I particularly like your photography. I’ve just discovered your blog and I look forward to more great posts! Reply Thanks, Angelica! I’m glad to have discovered your blog as well – I’ve just subscribed. Have a great weekend! Reply
+What a wonderful, wholesome recipe and I particularly like your photography. I’ve just discovered your blog and I look forward to more great posts!
+Thanks, Angelica! I’m glad to have discovered your blog as well – I’ve just subscribed. Have a great weekend! Reply
+Thanks, Angelica! I’m glad to have discovered your blog as well – I’ve just subscribed. Have a great weekend!
+I bought my copy from Amazon and I’m just waiting for the time to sit down and savor it. I have a feeling we’ll be spending some time together; it looks beautiful and Deborah Madison has always been a great inspiration. If your soba noodles are any indication, there’s going to be utterly delicious food to eat, too! Reply Does anyone know the calories and other nutritional facts ? Reply
+I bought my copy from Amazon and I’m just waiting for the time to sit down and savor it. I have a feeling we’ll be spending some time together; it looks beautiful and Deborah Madison has always been a great inspiration. If your soba noodles are any indication, there’s going to be utterly delicious food to eat, too!
+Does anyone know the calories and other nutritional facts ? Reply
+Does anyone know the calories and other nutritional facts ?
+Sounds like a wonderful resource… and thank you for another recipe for Brussels sprouts. One can never have too many. :) Reply
+Sounds like a wonderful resource… and thank you for another recipe for Brussels sprouts. One can never have too many. :)
+Trackbacks
+[…] losing my mind over how delicious this […] Reply
+[…] losing my mind over how delicious this […]
+[…] Book Club: Vegetable Literacy // Soba Noodles with Kale, Sesame, and Slivered Brussels Sprouts (katieatthekitchendoor.com) […] Reply
+[…] Book Club: Vegetable Literacy // Soba Noodles with Kale, Sesame, and Slivered Brussels Sprouts (katieatthekitchendoor.com) […]
+Leave a Reply Cancel reply
+This site uses Akismet to reduce spam. Learn how your comment data is processed .

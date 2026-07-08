@@ -1,0 +1,118 @@
+Bourbon Glaze
+=============
+
+Recipe Metadata
+---------------
+Recipe ID: b5d11a75a8817133
+CSV row number: 340
+Recipe name: Bourbon Glaze
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/37622/bourbon-glaze
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0220c186f665081e9319fb1e84e35a8287d58e2546960a0f478f1e5bcc75c35b/21040625.jpg
+Servings: 24
+Calories: 1108.24
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: world
+Meal type: lunch/dinner
+Dish type: alcohol cocktail
+
+Original CSV Fields
+-------------------
+recipe_name: Bourbon Glaze
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/37622/bourbon-glaze
+servings: 24
+calories: 1108.241190730477
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0220c186f665081e9319fb1e84e35a8287d58e2546960a0f478f1e5bcc75c35b/21040625.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["world"]
+meal_type: ["lunch/dinner"]
+dish_type: ["alcohol cocktail"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Bourbon Glaze
+
+Description: This easy bourbon sauce made with common pantry items adds a sweet and tangy flavor when used as a basting glaze on salmon or chicken.
+
+Recipe category: ['Sauce']
+
+Recipe cuisine: ['American']
+
+Yield: ['24', '3 cups']
+
+Prep time: PT5M
+
+Total time: PT5M
+
+Ingredients:
+- 1 cup bourbon whiskey
+- 1 cup ketchup
+- 0.5 cup brown sugar
+- 0.25 cup white vinegar
+- 1 tablespoon lemon juice
+- 2 teaspoons Worcestershire sauce
+- 0.5 teaspoon minced garlic
+- 1 pinch dry mustard
+- salt and pepper to taste
+
+Instructions:
+1. Gather all ingredients.
+2. Combine bourbon, ketchup, brown sugar, vinegar, lemon juice, Worcestershire sauce, garlic, mustard, salt, and pepper in a medium bowl.
+
+Visible page text:
+Recipes
+BBQ & Grilling Recipes
+BBQ Sauces, Marinades and Rubs Recipes
+Bourbon Glaze
+This bourbon sauce works great as a basting glaze on grilled chicken, salmon, or any meat.
+Why You’ll Love This Recipe
+Everyday pantry staples and bourbon create this flavorful glaze.
+Home cooks agree that reducing the sauce on the stove tames any harsh alcohol notes.
+Allrecipes member Susan L shares, "Better than our favorite restaurants version!"
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 24 servings
+1 cup bourbon whiskey
+1 cup ketchup or to taste
+½ cup brown sugar
+¼ cup white vinegar
+1 tablespoon lemon juice
+2 teaspoons Worcestershire sauce
+½ teaspoon minced garlic
+1 pinch dry mustard
+salt and pepper to taste
+Directions
+Gather all ingredients. Allrecipes / Qi Ai
+Gather all ingredients.
+Allrecipes / Qi Ai
+Combine bourbon, ketchup, brown sugar, vinegar, lemon juice, Worcestershire sauce, garlic, mustard, salt, and pepper in a medium bowl. Allrecipes / Qi Ai
+Combine bourbon, ketchup, brown sugar, vinegar, lemon juice, Worcestershire sauce, garlic, mustard, salt, and pepper in a medium bowl.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Bourbon Glaze
+1
+2
+Next
+Most-Saved Recipes Like This
+Maple Salmon 5,869 Ratings 1 hr Save
+Grilled Salmon 5,521 Ratings 2 hrs 25 mins Save
+Salmon with Brown Sugar Glaze 1,025 Ratings 15 mins Save
+Balsamic-Glazed Salmon Fillets 1,605 Ratings 30 mins Save
+Baked Dijon Salmon 3,739 Ratings 30 mins Save
+Salmon with Brown Sugar and Bourbon Glaze 564 Ratings 20 mins Save
+Bourbon Chicken 585 Ratings 30 mins Save
+Bourbon Whiskey BBQ Sauce 1,185 Ratings 45 mins Save
+Easy Bake Fish 315 Ratings 35 mins Save
+Spicy-Sweet Glazed Salmon 146 Ratings 2 hrs 20 mins Save
+You’ll Also Love

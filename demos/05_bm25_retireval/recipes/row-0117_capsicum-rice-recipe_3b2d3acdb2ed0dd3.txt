@@ -1,0 +1,112 @@
+capsicum rice recipe
+====================
+
+Recipe Metadata
+---------------
+Recipe ID: 3b2d3acdb2ed0dd3
+CSV row number: 117
+Recipe name: capsicum rice recipe
+Source: jinooskitchen.com
+URL: https://www.jinooskitchen.com/kids-lunch-box-recipes-5/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00baa4e88b392ce9b127d55cee8bf3b027a8a156a526e5b8b35b3416e7361f2e/21125123.png
+Servings: 4
+Calories: 558.45
+Diet labels: none listed
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: french
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: capsicum rice recipe
+source: jinooskitchen.com
+url: https://www.jinooskitchen.com/kids-lunch-box-recipes-5/
+servings: 4
+calories: 558.4497500000317
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00baa4e88b392ce9b127d55cee8bf3b027a8a156a526e5b8b35b3416e7361f2e/21125123.png
+diet_labels: []
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["french"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: capsicum rice recipe
+
+Description: bell peppers/capsicum pulao recipe which is mildly flavored, easy to make and one of the best option for lunch box.&nbsp;
+
+Recipe category: ['Main Course']
+
+Recipe cuisine: ['Indian']
+
+Yield: ['1', '1 cups']
+
+Prep time: PT15M
+
+Cook time: PT20M
+
+Total time: PT35M
+
+Ingredients:
+- 1 tbsp oil
+- 1 tsp garlic (chopped)
+- 1/2 tsp green chilli (chopped)
+- 1/8 cup onion (chopped)
+- 6 tbsp bell peppers (green, yellow, red (2 tbsp each))
+- 1/4 tsp mixed herbs
+- 1/4 tsp pepper powder
+- 1/8 cup cashew paste
+- salt to taste
+- 1.5 cups cooked basmati rice
+
+Instructions:
+1. heat oil in a pan and add chopped garlic and chopped green chillies and also chopped onions.&nbsp;
+2. fry until brown and then add all the three colors of chopped bell peppers.
+3. fry for a minute and then add mixed herbs, pepper powder and cashew paste. mix well. need not fry for long. just sprinkle little water if it is scorching to the bottom.
+4. add enough salt for the vegetables and rice. cook the basmati rice before hand. Rice has to be non sticky and just cooked and not over cooked. add the rice and mix it up well and gently.
+5. serve the capsicum pulao hot with sauce
+
+Visible page text:
+Kids lunch box recipes # 5 Nuts and Capsicum rice recipe for kids
+snacks: Nuts
+Lunch box: Capsicum rice and tomato sauce.
+for a collection of kids lunch box ideas, check here.
+capsicum rice recipe
+Ingredients
+1 tbsp oil
+1 tsp garlic chopped
+1/2 tsp green chilli chopped
+1/8 cup onion chopped
+6 tbsp bell peppers green, yellow, red (2 tbsp each)
+1/4 tsp mixed herbs
+1/4 tsp pepper powder
+1/8 cup cashew paste
+salt to taste
+1.5 cups cooked basmati rice
+Instructions
+heat oil in a pan and add chopped garlic and chopped green chillies and also chopped onions.
+fry until brown and then add all the three colors of chopped bell peppers.
+fry for a minute and then add mixed herbs, pepper powder and cashew paste. mix well. need not fry for long. just sprinkle little water if it is scorching to the bottom.
+add enough salt for the vegetables and rice. cook the basmati rice before hand. Rice has to be non sticky and just cooked and not over cooked. add the rice and mix it up well and gently.
+serve the capsicum pulao hot with sauce
+Video
+How useful was this recipe?
+Click on a star to rate it!
+Average rating 0 / 5. Vote count: 0
+No votes so far! Be the first to rate this post.
+Latest Posts
+0 (0) Chicken Hot and Sour Soup, restaurant style. The…
+0 (0) Kollu thogayal is a traditional South Indian chutney…
+0 (0) There’s something about hot, crispy onion pakoda paired…
+0 (0) Easy Sambar recipe | Tiffin sambar recipe – Sambar…
+0 (0) This spicy garlic chutney, a.k.a “Poondu Chalichathu” is…
+0 (0) Carrot chutney is one of those simple &…

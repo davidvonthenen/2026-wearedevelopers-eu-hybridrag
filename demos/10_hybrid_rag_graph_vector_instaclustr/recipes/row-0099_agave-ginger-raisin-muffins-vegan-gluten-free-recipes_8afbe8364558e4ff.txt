@@ -1,0 +1,44 @@
+Agave Ginger Raisin Muffins (Vegan & Gluten-Free) recipes
+=========================================================
+
+Recipe Metadata
+---------------
+Recipe ID: 8afbe8364558e4ff
+CSV row number: 99
+Recipe name: Agave Ginger Raisin Muffins (Vegan & Gluten-Free) recipes
+Source: cakegirllosangeles.blogspot.com
+URL: http://cakegirllosangeles.blogspot.com/2013/08/agave-ginger-raisin-muffins-vegan.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/008dd2513103d640262b6e8063e80b9dbf6ce1bc0a4b46840c9e4aec136d1265/21132426.jpeg
+Servings: 6
+Calories: 1358.46
+Diet labels: none listed
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: breakfast
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Agave Ginger Raisin Muffins (Vegan & Gluten-Free) recipes
+source: cakegirllosangeles.blogspot.com
+url: http://cakegirllosangeles.blogspot.com/2013/08/agave-ginger-raisin-muffins-vegan.html
+servings: 6
+calories: 1358.46375
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/008dd2513103d640262b6e8063e80b9dbf6ce1bc0a4b46840c9e4aec136d1265/21132426.jpeg
+diet_labels: []
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Sign in
+Use your Google Account

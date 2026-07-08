@@ -1,0 +1,85 @@
+Skillet Steak Fajitas
+=====================
+
+Recipe Metadata
+---------------
+Recipe ID: 4978c42ca6510f5c
+CSV row number: 230
+Recipe name: Skillet Steak Fajitas
+Source: tastykitchen.com
+URL: https://tastykitchen.com/recipes/main-courses/skillet-steak-fajitas/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0170b5487a6365085bc4d8c1c00cd1d972913007af673ba8fc64082647b38037/21121654.jpg
+Servings: 3
+Calories: 1246.67
+Diet labels: Low-Carb
+Health labels: Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mexican
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Skillet Steak Fajitas
+source: tastykitchen.com
+url: https://tastykitchen.com/recipes/main-courses/skillet-steak-fajitas/
+servings: 3
+calories: 1246.671299388889
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0170b5487a6365085bc4d8c1c00cd1d972913007af673ba8fc64082647b38037/21121654.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mexican"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Skillet Steak Fajitas
+Print
+Leave a comment
+write a review
+Print Options
+Description
+Flank steak skillet fajitas! Time to get hot and spicy with this colorful dish!
+Ingredients
+3 Tablespoons Olive Oil
+1 whole Large Red Bell Pepper, Stem And Seeds Removed, Sliced Into Strips
+1 whole Onion, Sliced Into Rings
+2 Tablespoons Lawry's Seasoned Salt (or Any Spice Blend You Prefer)
+1 Tablespoon Chili Powder
+1 pound Flank Steak, Sliced Thin
+1 whole Lime
+2 whole Green Onion, Chopped
+Preparation
+Heat 1 tablespoon of olive oil in a skillet on medium heat. Add your bell pepper and onion then sprinkle with half of each seasoning. Saute until vegetables are soft and cooked to your liking. Remove vegetables from the skillet and set them aside on a plate nearby.
+Season steak slices with remaining seasoning and chili powder. Heat up remaining olive oil in the same skillet over medium high heat. When hot add the steak and brown steak on both sides until it reaches your desired done-ness. Add your cooked vegetables then squeeze in the juice from 1 lime. Toss to coat, top with green onions and enjoy!
+More Recipes from Food and the City
+Grilled Chicken Sesame Stir-fry Quinoa Bowl
+Balsamic Roasted Carrots
+Find Food and the City elsewhere on the web.
+Website
+Facebook
+Twitter
+No Comments
+Leave a Comment!
+You must be logged in to post a comment.
+No Reviews
+You must be logged in to post a review.
+Food Gifts
+View Recipe
+Slow Cooker Season!
+Related Recipes
+Prep: 5 mins Cook: 20 mins
+Serves: 4 Level: Easy
+Share f a e
+Prep: 10 mins Cook: 35 mins
+Serves: 6 Level: Easy
+Prep: 10 mins Cook: 8 mins
+Prep: 1 hr Cook: 2 hrs
+Prep: 10 mins Cook: 20 mins

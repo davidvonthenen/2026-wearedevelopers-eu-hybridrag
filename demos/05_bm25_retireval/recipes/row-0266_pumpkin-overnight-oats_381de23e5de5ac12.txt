@@ -1,0 +1,202 @@
+Pumpkin Overnight Oats
+======================
+
+Recipe Metadata
+---------------
+Recipe ID: 381de23e5de5ac12
+CSV row number: 266
+Recipe name: Pumpkin Overnight Oats
+Source: lifemadesweeter.com
+URL: https://lifemadesweeter.com/pumpkin-overnight-oats/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01b00c6fc92474beb754037ecd966910a0f03554c54d7655a1fe30d286c7cfc1/21126931.jpg
+Servings: 1
+Calories: 391.58
+Diet labels: Balanced, High-Fiber, Low-Sodium
+Health labels: Vegetarian, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: breakfast
+Dish type: cereals
+
+Original CSV Fields
+-------------------
+recipe_name: Pumpkin Overnight Oats
+source: lifemadesweeter.com
+url: https://lifemadesweeter.com/pumpkin-overnight-oats/
+servings: 1
+calories: 391.5787500019035
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01b00c6fc92474beb754037ecd966910a0f03554c54d7655a1fe30d286c7cfc1/21126931.jpg
+diet_labels: ["Balanced","High-Fiber","Low-Sodium"]
+health_labels: ["Vegetarian","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["cereals"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Pumpkin Overnight Oats
+
+Description: These Pumpkin Overnight Oats are a healthy make-ahead breakfast with all the classic flavors of a delicious pumpkin pie. Made with pure pumpkin, cozy spices, hearty old fashioned oats with maple syrup and perfect for fall mornings. Gluten-free, refined-sugar free, dairy-free and vegan friendly.
+
+Recipe category: ['Breakfast']
+
+Recipe cuisine: ['American']
+
+Yield: ['2', '2 servings']
+
+Prep time: PT5M
+
+Ingredients:
+- 1 1/2 cups gluten-free rolled oats
+- 2 teaspoons chia seeds
+- 1/2 cup unsweetened almond milk or your favorite milk
+- 2 tablespoons dairy-free thick Greek-style yogurt ( , (or your favorite Greek yogurt for a non-vegan version), )
+- 2 Tbsp pure pumpkin puree (, not pumpkin pie filling)
+- 2 Tbsps maple syrup (, (or preferred liquid sweetener))
+- 1 teaspoons vanilla extract
+- 1 1/2 teaspoons pumpkin pie spice
+- 1/4 teaspoon ground cinnamon
+- Dairy-free Greek yogurt or Whipped coconut cream (or regular whipped cream for a non-vegan version)
+- Pecans, roughly chopped, for serving
+
+Instructions:
+1. In a large bowl, add the almond milk, yogurt, pumpkin puree, maple syrup and vanilla and mix until well combined.
+2. Stir in the oats, chia seeds, pumpkin pie spice and cinnamon. If you like your oatmeal creamier, you can add more milk and less if you like them on the chunkier side. Taste and add more maple syrup if you want it sweeter.
+3. Pour into a glass jar(s) or container(s) and place in the fridge for at least 6 hours or overnight. Enjoy cold or heat up in the microwave or stove-top.
+4. Top with a dollop of vegan yogurt or whipped coconut cream, and sprinkle on some pecans and a shake of cinnamon or pumpkin pie spice before serving.
+
+Visible page text:
+Home
+About
+Shop
+Contact
+All Recipes / Recipe Index
+Air Fryer
+Instant Pot / Pressure Cooker
+Keto / Low Carb
+Vegan
+Gluten Free
+Appetizers and Snacks
+Breakfast
+Mains
+Salads
+Side Dishes
+Dessert
+About Contact
+Cookbook
+Work With Me Press & Features
+Press & Features
+Privacy Policy Nutritional Disclaimer
+Nutritional Disclaimer
+Get it for free! Our Healthier Than Takeout Ebook!
+Subscribe to the newsletter to get the latest recipe updates and our ebook!
+Thank you! Check your email for a confirmation link. Add lifemadesweeter@gmail.com to your email contacts so that you don't miss it. Once you confirm, you'll receive a link to download the printable!
+This post may contain affiliate links. We receive a small commission at no cost to you when you make a purchase using our links. Please see our Privacy Policy for more details.
+These Pumpkin Overnight Oats are a healthy make-ahead breakfast with all the classic flavors of a delicious pumpkin pie. Made with pure pumpkin, cozy spices, hearty old fashioned oat with maple syrup and perfect for fall mornings. Gluten-free, refined-sugar free, dairy-free and vegan friendly.
+PIN HERE for later and follow my boards for more recipe ideas
+Updated September 2022
+Easy Pumpkin Overnight Oats Recipe
+Looking for quick and easy breakfasts for busy fall mornings? These Pumpkin Overnight Oats come together in less than 5 minutes and are made with simple pantry-friendly ingredients! They sort of remind me of pumpkin pie but are made with wholesome ingredients and just perfect for mornings when you don’t feel like turning on the oven.
+It’s a healthy no cook oatmeal recipe made with hearty rolled oats, cozy pumpkin and warm autumn spices. Pumpkin Pie Overnight Oats are a delicious and nutritious breakfast option for pumpkin season and are completely dairy-free, refined sugar-free, vegan and gluten-free.
+What are overnight oats?
+Overnight oats are just uncooked old fashioned oats that you soak with liquid overnight. They require less than 5 minutes of prep time and are super easy to customize and I love that you can make a batch on meal prep Sunday with your favorite flavors.
+This Pumpkin Overnight Oatmeal recipe is a twist on the classic pumpkin pie in easy breakfast form. My family loves anything with pumpkin and this oatmeal recipe is just perfect for fall mornings when you don’t feel like turning on the oven.
+Ingredients you need
+All you need to make our easy pumpkin pie overnight oats are just a few simple pantry ingredients:
+Oats: we use gluten free old fashioned rolled oats – we do not recommend using Instant Oats or Quick Oats. For a grain-free option, use an equal mix of roughly chopped sliced almonds and coconut flakes.
+Chia seeds : Chia seeds give overnight oats that thick pudding-like texture and add extra fiber but feel free to leave swap with hemp seeds, ground flax seeds or them out if you aren’t a fan.
+Milk: Use your favorite dairy or dairy-free milk you like or have on hand. We usually like to use unsweetened almond milk but coconut milk, cashew milk all work great for a vegan option.
+Optional sweetener: Use your favorite: maple syrup, coconut sugar, monkfruit sweetener or honey (if not vegan)
+Pumpkin puree : be sure to use pure sugar free canned pumpkin puree (not pumpkin pie filling) or homemade pumpkin puree . Be sure not to use canned pumpkin pie filling though since it’s packed with other sweeteners and fillers.
+Pumpkin spice: you can use our homemade pumpkin pie spice blend or you can grab a jar from any grocery store.
+Cinnamon: for flavor.
+Vanilla Extract: balances out the sweetness.
+Other Optional add-ins
+Dairy-free Yogurt – You can add a combination of milk and yogurt to make your oats extra creamy .
+Fruit: Have fun with your toppings. Add fruit that won’t get mushy directly into the mason jar or toss them on directly on top of the oats when you’re ready to eat.
+Nut butter: add a spoonful of almond butter, cashew butter, peanut butter or sunflower seed butter for healthy fats and flavor.
+Chopped nuts: chopped pecans, walnuts or sliced almonds would add a great crunch.
+How to make Pumpkin Overnight Oats
+These Pumpkin Oats are one of the easiest breakfasts that even your kids can help you assemble the night before. Be sure to follow the step-by-step instructions or watch the video below.
+Mix the wet ingredients: In a large bowl, add the almond milk, yogurt, pumpkin puree, maple syrup and vanilla and mix until well combined.
+Stir in the dry ingredients: Stir in the oats, chia seeds, pumpkin pie spice and cinnamon. If you like your oatmeal creamier, you can add more milk and less if you like them on the chunkier side. Taste and add more maple syrup if you want it sweeter.
+Pour into containers and chill: Pour into a 8 oz. mason jar , resealable container or a bowl and place in the fridge for at least 6 hours or overnight.
+Serve and enjoy: Enjoy cold or heat up in the microwave or stove-top. Top with a dollop of vegan yogurt or whipped coconut cream, and sprinkle on some pecans and a shake of cinnamon or pumpkin pie spice before serving.
+Flavor Variations
+Add some chocolate chips or stir in some cocao powder
+Top with some sliced bananas
+Top with some fresh strawberries
+Storage and make ahead tips
+Double or triple the batch and divide into separate mason jars or resealable containers.
+Overnight oats can be stored in an airtight container or mason jar in the fridge for up to 5 days. Beyond that, they might get too softy and mushy.
+Be sure to add any toppings or nuts just before eating.
+Freezer and Reheating Instructions
+How to Freeze: If you want to store your overnight oats in the freezer, be sure to store in a freezer-safe resealable container with a lid. Overnight oats will last up to 3 months in the freezer.
+How to Reheat: To thaw out pumpkin overnight oats without yogurt, leave them in the fridge overnight or on the counter.
+Reheat in the microwave at medium-high to high for 30 seconds to 1 minute, depending on how warm you want them. The texture may be a bit softer than when they are made fresh.
+To reheat overnight oats over the stove, simply pour them into a small pot over medium heat and allow to come to a boil.
+Frequently Asked Questions
+Do you eat Pumpkin Oatmeal hot or cold?
+You can eat overnight oats hot or cold straight from the fridge. Enjoy cold overnight oats with yogurt and berries plus toppings of your choice.
+Can Pumpkin Overnight Oats be heated?
+Yes, you can eat reheat overnight oatmeal either in the microwave in a heat-safe container or pour into a pot and heat on the stove.
+Does this pumpkin overnight oat recipe work with steel cut oats?
+We specifically tested these instant oats recipes using old-fashioned rolled oats and not with steel cut oats.
+Overnight Oats Variations
+Carrot Cake Overnight Oats , banana , blueberries or for more Overnight Oatmeal options – Overnight Oat post with 9 fun flavors!
+More easy oatmeal recipes:
+Homemade Oatmeal
+Baked Oatmeal Cups
+Vegan Oatmeal
+These Pumpkin Overnight Oats are a healthy make-ahead breakfast with all the classic flavors of a delicious pumpkin pie. Made with pure pumpkin, cozy spices, hearty old fashioned oats with maple syrup and perfect for fall mornings. Gluten-free, refined-sugar free, dairy-free and vegan friendly.
+1 1/2 cups gluten-free rolled oats , (may sub with ground flaxseeds or hemp seeds), optional for extra fiber and to help thicken the oats
+2 teaspoons chia seeds
+1/2 cup unsweetened almond milk or your favorite milk , for a non-vegan version - you can add half milk and half Greek yogurt for creaminess as well
+2 tablespoons dairy-free thick Greek-style yogurt , (or your favorite Greek yogurt for a non-vegan version),
+2 Tbsp pure pumpkin puree , not pumpkin pie filling
+2 Tbsps maple syrup , (or preferred liquid sweetener)
+1 teaspoons vanilla extract
+1 1/2 teaspoons pumpkin pie spice
+1/4 teaspoon ground cinnamon
+Dairy-free Greek yogurt or Whipped coconut cream (or regular whipped cream for a non-vegan version)
+Pecans, roughly chopped, for serving
+In a large bowl, add the almond milk, yogurt, pumpkin puree, maple syrup and vanilla and mix until well combined.
+Stir in the oats, chia seeds, pumpkin pie spice and cinnamon. If you like your oatmeal creamier, you can add more milk and less if you like them on the chunkier side. Taste and add more maple syrup if you want it sweeter.
+Pour into a glass jar(s) or container(s) and place in the fridge for at least 6 hours or overnight. Enjoy cold or heat up in the microwave or stove-top.
+Pour into a glass jar(s) or container(s) and place in the fridge for at least 6 hours or overnight.
+Enjoy cold or heat up in the microwave or stove-top.
+Top with a dollop of vegan yogurt or whipped coconut cream, and sprinkle on some pecans and a shake of cinnamon or pumpkin pie spice before serving.
+Recipe Video
+How to Freeze:
+Store in a freezer-safe resealable container with a lid. Overnight oats will last up to 3 months in the freezer.
+How to Reheat:
+Thaw out pumpkin overnight oats without yogurt, leave them in the fridge overnight or on the counter.
+I'd love to see! Just snap a photo and hashtag it #LIFEMADESWEETER or tag me @lifemadesweeter on Instagram
+Free Low Carb / Keto Recipes E-Book!
+Sign up now to get a FREE low carb / Keto-friendly recipe e-book, plus access to subscriber exclusives!
+Kelly
+Delicious and healthier recipes to sweeten up your life.
+Comments
+My family makes this on repeat! Thank you! Reply
+My family makes this on repeat! Thank you!
+Leave a Comment Cancel reply
+Collaborate
+Privacy and Disclosure Policy
+Recipe Categories
+All Recipes / Index
+Soups / Stews / Chili
+30 Minute Meal
+Grilled
+Slow Cooker
+Freezer-friendly
+Latest Recipes
+Air Fryer Sweet Potato Fries
+Asparagus Salad
+Zucchini Chips
+Strawberry Pancakes

@@ -1,0 +1,164 @@
+Garlic Miso Chicken Wings
+=========================
+
+Recipe Metadata
+---------------
+Recipe ID: b73a5dde88389020
+CSV row number: 264
+Recipe name: Garlic Miso Chicken Wings
+Source: justonecookbook.com
+URL: http://justonecookbook.com/recipes/garlic-miso-chicken-wings/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01a9093d36d73c8bd5324ac196c9e127df750bbd0bc0707258e51eb6a4e01959/21105002.jpg
+Servings: 2
+Calories: 652.31
+Diet labels: Low-Carb
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: japanese
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Garlic Miso Chicken Wings
+source: justonecookbook.com
+url: http://justonecookbook.com/recipes/garlic-miso-chicken-wings/
+servings: 2
+calories: 652.3140000000001
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01a9093d36d73c8bd5324ac196c9e127df750bbd0bc0707258e51eb6a4e01959/21105002.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["japanese"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Garlic Miso Chicken Wings
+
+Description: Easy Garlic Miso Chicken Wings are marinated in a savory sauce, then baked until crispy and tender. Served as a party appetizer or weeknight main dish, they‘re delicious dipped in creamy Japanese mayo spiked with shichimi togarashi. You‘ll devour them in an instant!
+
+Recipe category: ['Main Dish']
+
+Recipe cuisine: ['Japanese']
+
+Yield: ['2']
+
+Prep time: PT10M
+
+Cook time: PT45M
+
+Total time: PT55M
+
+Ingredients:
+- 1 lb chicken wings (flats/drumettes)
+- 4 cloves garlic ((minced))
+- 2 Tbsp miso
+- 2 Tbsp soy sauce
+- 2 Tbsp mirin
+- shichimi togarashi (Japanese seven spice) ((for a spicy kick))
+- Japanese Kewpie mayonnaise ((optional; for dipping))
+
+Instructions:
+1. Before You Start: Please note that this recipe requires a marinating time of at least 6 hours (or overnight). Now, gather all the ingredients.
+2. In a resealable plastic bag, combine 4 cloves garlic (minced; I use a garlic press), 2 Tbsp miso, 2 Tbsp soy sauce, and 2 Tbsp mirin. Mix it together well to dissolve the miso.
+3. Pat dry 1 lb chicken wings (flats/drumettes) with paper towels and prick the skin with a fork. I recommend this extra step especially if you‘re using skin-on and bone-in chicken. Transfer the wings to the resealable plastic bag.
+4. Rub the wings really well from outside the bag, coating them with the marinade. Release the air from the bag and seal. Keep the wings in the refrigerator for at least 6 hours (preferably overnight) or up to a day; if you are using drumsticks, you can marinate for 1–2 days.
+5. To cook the wings, you can either bake or broil them (see the next section). To bake, preheat the oven to 425ºF (220ºC) with the rack in the middle position. Meanwhile, remove the chicken wings from the refrigerator and leave at room temperature for 15 minutes. Line the baking sheet with aluminum foil (for easier clean up) and place an oven-safe wire rack on top.
+6. After 15 minutes, remove as much of the marinade as possible from the chicken since miso burns easily. Place the chicken on the wire rack skin side down. Bake at 425ºF (220ºC) for 45 minutes total. (If you‘re using other chicken parts, see the instructions below for baking times.)
+7. After 30 minutes, flip the wings. Put them back in the oven for another 15 minutes.
+8. Monitor the cooking time; the chicken is cooked through when the internal temperature is 165ºF (74ºC). Serve immediately with optional Japanese Kewpie mayonnaise and shichimi togarashi (Japanese seven spice) on the side for dipping.
+9. Set the oven broiler to High (550ºF/288ºC) for 3 minutes before cooking. Place the baking sheet in the middle rack of the oven, about 8 inches (20 cm) away from the heating element. Cook for 9–10 minutes, until nicely browned and crispy, and then flip the chicken to cook the other side (skin side) for another 9–10 minutes. Watch the chicken carefully so it doesn‘t burn; if your oven is small/strong, try broiling at Medium (500ºF/260ºC) or lower the rack. The chicken is cooked through when the internal temperature is 165ºF (74ºC).
+10. For boneless chicken thighs or breasts: Bake for 30–40 minutes (depending on the part and thickness). Turn over the chicken halfway during the cooking process.
+11. For chicken drumsticks: Bake for 45–50 minutes, or until the internal temperature is 165ºF (74ºC). Turn over the chicken halfway during the cooking process.
+12. You can keep the leftovers in an airtight container and store in the refrigerator for up to 3 days or in the freezer for a month.
+
+Visible page text:
+Log in
+Go ad-free
+Search
+Garlic Miso Chicken Wings ガーリック味噌チキン
+84 Reviews
+62 comments
+Jump to Recipe
+by Namiko Hirasawa Chen . Updated February 9, 2025 This post may contain affiliate links. Please read my disclosure policy .
+Easy Garlic Miso Chicken Wings are marinated in a savory sauce, then baked until crispy and tender. Served as a party appetizer or weeknight main dish, they‘re delicious dipped in creamy Japanese mayo spiked with shichimi togarashi. You‘ll devour them in an instant!
+Do you love chicken wings? You’re going to need this Garlic Miso Chicken Wings (ガーリック味噌チキン) recipe!
+Coated in a punchy, garlicky, and umami-packed sauce, these wings come out of the oven with a crispy exterior and perfect juiciness within. Every bite is so flavorful that you won’t want to stop eating. My kids love them for our Friday movie night, but they also make an absolute winner to serve at a party, game night, or just a regular dinner.
+Why You’ll Love This Recipe
+A crowd-winning and fun staple for any occasion —you could never go wrong with these wings!
+Minimal preparation and make-ahead friendly —it’s really as simple as mixing the 4-ingredient sauce and marinating the chicken wings ahead of time. Then pop them into the oven until brown and crispy.
+The easiest yet surprisingly addictive dipping sauce . The chicken wings alone are super flavorful, but this dipping sauce truly elevates your experience!
+Pairing Miso with Garlic
+It’s a no-brainer that the main flavor comes from miso (Japanese fermented soybean paste) and a copious amount of garlic, as both impart the wings with an aromatic, bold, and deeply savory punch. Such a simple pairing, but you’d be amazed at the result.
+I use my favorite miso, Hikari Miso ‘s Kodawattemasu in this recipe, but you can use any red miso, which has a bolder flavor profile.
+Ingredients You’ll Need
+Chicken wings — I used 5 flats and 5 drumettes; you can use any parts of the chicken
+Garlic — Add more garlic, if you prefer.
+Miso — I used this miso .
+Japanese soy sauce — I use organic Kikkoman soy sauce.
+Mirin — The Japanese sweet rice wine helps tenderize the chicken wings and lends a mild sweetness. More about it in this post .
+Dipping sauce (optional) — Japanese Kewpie mayonnaise and shichimi togarashi (Japanese seven spice)
+Substitution Tips
+Chicken — Chicken thighs and drumsticks can be used. Adjust the cooking time.
+Mirin — You can use sake , or Japanese rice wine, but you will need to add sugar to replace the mirin in this recipe. You can use this non-alcoholic mirin .
+How to Make Garlic Miso Chicken Wings
+Mix minced garlic, miso, soy sauce, and mirin in a resealable plastic bag.
+Pat dry the chicken wings with paper towels and prick the skin with a fork.
+Add the wings to the plastic bag and coat them well with the marinade.
+Let them marinate in the refrigerator for at least 6 hours (preferably overnight) or up to a day.
+Put the wings on the oven-safe wire rack placed on a baking sheet lined with aluminum foil and bake in the oven at 425ºF (220ºC) for 30 minutes.
+At the 30-minute mark, flip the wings. Put them back in the oven for another 15 minutes. You can also broil the wings for an even crispier skin.
+Serve immediately with optional Japanese Kewpie mayonnaise and shichimi togarashi (Japanese seven spice) on the side for dipping.
+Cooking Tips
+Prick the chicken skin with a fork – It helps marinate better.
+Marinate the chicken for 6 hours or more , especially if you use drumsticks or other parts of the chicken.
+Remove the marinade from the chicken to avoid burning. Miso burns easily, so be sure to scrape off the best you can. As you see in my pictures, even though I tried my best, some parts got burnt.
+How to Store
+To Store . Refrigerate leftover Garlic Miso Chicken Wings in an airtight container for up to 3 days or in the freezer for a month.
+To Reheat . For the best results, reheat leftovers in the oven at 350ºF (175ºC) or microwave until heated through.
+What to Serve with Garlic Miso Chicken Wings
+Rice – Japanese Corn Rice , Japanese Mushroom Rice , Yaki Onigiri
+Soup – Kakitamajiru (Japanese Egg Drop Soup)
+Salad – Japanese Potato Salad , Green Salad with Japanese Onion Dressing , Asian Cabbage Salad
+Sides – Kinpiara Gobo , Tamagoyaki , Japanese Spinach Salad
+Wish to learn more about Japanese cooking? Sign up for our free newsletter to receive cooking tips & recipe updates! And stay in touch with me on Facebook , Pinterest , YouTube , and Instagram .
+Garlic Miso Chicken Wings
+Ingredients US Customary Metric 1x 2x 3x
+1 lb chicken wings (flats/drumettes) ( 5 flats and 5 drumettes; or use other parts like drumsticks or thighs and adjust the cooking time—see instructions)
+4 cloves garlic (minced)
+2 Tbsp miso (I use my favorite miso, Hikari Miso Kodawattemasu )
+2 Tbsp soy sauce
+2 Tbsp mirin
+For Serving
+shichimi togarashi (Japanese seven spice) (for a spicy kick)
+Japanese Kewpie mayonnaise (optional; for dipping)
+Instructions
+Before You Start: Please note that this recipe requires a marinating time of at least 6 hours (or overnight). Now, gather all the ingredients.
+To Marinate the Wings
+In a resealable plastic bag, combine 4 cloves garlic (minced; I use a garlic press ), 2 Tbsp miso , 2 Tbsp soy sauce , and 2 Tbsp mirin . Mix it together well to dissolve the miso.
+Pat dry 1 lb chicken wings (flats/drumettes) with paper towels and prick the skin with a fork. I recommend this extra step especially if you‘re using skin-on and bone-in chicken. Transfer the wings to the resealable plastic bag.
+Rub the wings really well from outside the bag, coating them with the marinade. Release the air from the bag and seal. Keep the wings in the refrigerator for at least 6 hours (preferably overnight) or up to a day; if you are using drumsticks, you can marinate for 1–2 days.
+To Bake (Method #1)
+To cook the wings, you can either bake or broil them (see the next section). To bake, preheat the oven to 425ºF (220ºC) with the rack in the middle position. Meanwhile, remove the chicken wings from the refrigerator and leave at room temperature for 15 minutes. Line the baking sheet with aluminum foil (for easier clean up) and place an oven-safe wire rack on top.
+After 15 minutes, remove as much of the marinade as possible from the chicken since miso burns easily. Place the chicken on the wire rack skin side down . Bake at 425ºF (220ºC) for 45 minutes total . (If you‘re using other chicken parts, see the instructions below for baking times.)
+After 30 minutes, flip the wings. Put them back in the oven for another 15 minutes .
+Monitor the cooking time; the chicken is cooked through when the internal temperature is 165ºF (74ºC). Serve immediately with optional Japanese Kewpie mayonnaise and shichimi togarashi (Japanese seven spice) on the side for dipping.
+To Broil (Method #2)
+Set the oven broiler to High (550ºF/288ºC) for 3 minutes before cooking. Place the baking sheet in the middle rack of the oven, about 8 inches (20 cm) away from the heating element . Cook for 9–10 minutes, until nicely browned and crispy, and then flip the chicken to cook the other side (skin side) for another 9–10 minutes. Watch the chicken carefully so it doesn‘t burn; if your oven is small/strong, try broiling at Medium (500ºF/260ºC) or lower the rack. The chicken is cooked through when the internal temperature is 165ºF (74ºC).
+To Cook Other Chicken Parts
+For boneless chicken thighs or breasts: Bake for 30–40 minutes (depending on the part and thickness). Turn over the chicken halfway during the cooking process.
+For chicken drumsticks: Bake for 45–50 minutes, or until the internal temperature is 165ºF (74ºC). Turn over the chicken halfway during the cooking process.
+To Store
+You can keep the leftovers in an airtight container and store in the refrigerator for up to 3 days or in the freezer for a month.
+Nutrition
+Did you make this recipe?
+Tag @justonecookbook on Instagram so we can see your delicious creation!
+Editor’s Note: This post was originally published on August 5, 2011. It was updated with new images and more helpful content on December 11, 2023, and republished on June 19, 2024.
+Subscribe to get recipes via email:

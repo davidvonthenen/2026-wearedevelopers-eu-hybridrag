@@ -61,4 +61,22 @@ Done!
 
 ## Workshop Materials
 
-Coming Soon!
+The workshop will consist of 4 sections. Each section will have a series of hands-on tasks for you to complete.
+
+- Section 1: The "R" In RAG: Use Cases & Methods
+  - Part 1: [Simple Vector-based Agent](./demos/01_vector_rag/README.md)
+  - Part 2: [Simple BM25-based Agent](./demos/02_bm25_rag/README.md)
+  - Part 3: [Simple Graph-based Agent](./demos/03_graph_rag/README.md)
+
+- Section 2: Data Retrieval Challenges
+  - Part 1: [Exploring Vector Retrieval](./demos/04_vector_search/README.md)
+  - Part 2: [Exploring BM25 Retrieval](./demos/05_bm25_retireval/README.md)
+  - Part 3: [Exploring Graph Retrieval](./demos/06_graph_retrieval/README.md)
+
+- Section 3: What Is Hybrid RAG?
+  - Part 1: [How Data Feeds Inference](./demos/07_hybrid_bm25_vector_instaclustr/README.md)
+  - Part 2: [Decouple Data & Inference](./demos/08_hybrid_graph_vector_retrieval/README.md)
+
+- Section 4: Fact-based Answers Wrapped in AI Governance
+  - Part 1: [Answers with Governance](./demos/09_hybrid_rag_graph_vector/README.md)
+  - Part 2: [The "Crazy" Architecture](./demos/10_hybrid_rag_graph_vector_instaclustr/README.md)

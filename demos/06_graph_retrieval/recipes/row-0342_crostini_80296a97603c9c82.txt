@@ -1,0 +1,98 @@
+Crostini
+========
+
+Recipe Metadata
+---------------
+Recipe ID: 80296a97603c9c82
+CSV row number: 342
+Recipe name: Crostini
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/michael-chiarello/crostini-recipe-1942374
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/026c047af4f5b7f0364b00cced4641ec66d8f7dcb83fb7a0a45a14fdd8b5dfb6/21124199.jpg
+Servings: 10
+Calories: 1101.22
+Diet labels: none listed
+Health labels: Vegan, Vegetarian, Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: italian
+Meal type: snack
+Dish type: bread
+
+Original CSV Fields
+-------------------
+recipe_name: Crostini
+source: Food Network
+url: https://www.foodnetwork.com/recipes/michael-chiarello/crostini-recipe-1942374
+servings: 10
+calories: 1101.217536
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/026c047af4f5b7f0364b00cced4641ec66d8f7dcb83fb7a0a45a14fdd8b5dfb6/21124199.jpg
+diet_labels: []
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["italian"]
+meal_type: ["snack"]
+dish_type: ["bread"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Crostini
+
+Recipe category: appetizer
+
+Recipe cuisine: italian
+
+Yield: 8 to 10 servings
+
+Prep time: P0Y0M0DT0H5M0.000S
+
+Cook time: P0Y0M0DT0H10M0.000S
+
+Total time: P0Y0M0DT0H15M0.000S
+
+Ingredients:
+- 1 loaf crusty bread, sliced into 1/2-inch slices
+- Olive oil
+- Salt and freshly ground black pepper
+
+Instructions:
+1. Preheat the oven to 400 degrees F.
+2. Place the bread in a single layer on a cookie sheet. Drizzle with olive oil and sprinkle with salt and pepper. Bake until bread is golden brown and crisp, about 8 to 9 minutes.
+
+Visible page text:
+Home
+Recipes
+Appetizers
+Crostini
+Level: Easy
+Total: 15 min
+Prep: 5 min
+Cook: 10 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+1 loaf crusty bread, sliced into 1/2-inch slices
+Olive oil
+Salt and freshly ground black pepper
+Preheat the oven to 400 degrees F.
+Place the bread in a single layer on a cookie sheet. Drizzle with olive oil and sprinkle with salt and pepper. Bake until bread is golden brown and crisp, about 8 to 9 minutes.
+Categories:
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Ropa Vieja Recipe
+Torrone Recipe
+Polenta Crostini Recipe
+Spiedini Recipe
+Bistecca with Balsamic-Roasted Onion Crostini...
+Salami Bits Recipe

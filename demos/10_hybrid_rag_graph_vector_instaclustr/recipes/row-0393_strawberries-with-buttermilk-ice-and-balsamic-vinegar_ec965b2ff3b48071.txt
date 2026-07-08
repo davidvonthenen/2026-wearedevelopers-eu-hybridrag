@@ -1,0 +1,81 @@
+Strawberries with Buttermilk Ice and Balsamic Vinegar
+=====================================================
+
+Recipe Metadata
+---------------
+Recipe ID: ec965b2ff3b48071
+CSV row number: 393
+Recipe name: Strawberries with Buttermilk Ice and Balsamic Vinegar
+Source: aol.com
+URL: https://www.aol.com/food/recipes/strawberries-buttermilk-ice-and-balsamic-vinegar
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/027b5e7c72dd472bacf0156b59079fa7fc34ce6af3ef6ace9034cd206a7601c8/21116884.jpg
+Servings: 4
+Calories: 412.96
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Strawberries with Buttermilk Ice and Balsamic Vinegar
+source: aol.com
+url: https://www.aol.com/food/recipes/strawberries-buttermilk-ice-and-balsamic-vinegar
+servings: 4
+calories: 412.9590000000001
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/027b5e7c72dd472bacf0156b59079fa7fc34ce6af3ef6ace9034cd206a7601c8/21116884.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Strawberries with Buttermilk Ice and Balsamic Vinegar
+Copied
+Ingredients
+3 1 / 2 tbsp sugar
+1 1 / 2 tbsp fresh lemon juice
+1 cup low-fat buttermilk
+1 pint strawberry, quartered
+1 / 2 tsp lemon zest
+1 tsp aged balsamic vinegar
+4 tarragon sprigs
+Directions
+1. In a bowl, whisk 1 1/2 tablespoons of the sugar with 1/2 tablespoon of the lemon juice until the sugar is dissolved. Whisk in the buttermilk and pour into a shallow baking dish; freeze until firm, whisking the mixture every 30 minutes, about 3 hours.
+2. In a bowl, toss the strawberries with the remaining 2 tablespoons of sugar and 1 tablespoon of lemon juice. Add the lemon zest and vinegar; let stand for 30 minutes. Spoon the berries and any juices into glasses. Using a fork, scrape the buttermilk ice into fluffy crystals and spoon over the strawberries. Garnish with the tarragon and serve.
+Search Recipes
+Animals |
+Business |
+Celebrity |
+Entertainment |
+Finance |
+Food |
+Health |
+News |
+Politics |
+Shopping |
+Sports |
+Style |
+True Crime
+Feedback
+Help
+Join AOL
+EU Digital Services Act
+Terms and Privacy Policy
+CA Privacy Notice
+Your Privacy Choices
+About Us
+About our Ads
+Advertising
+Licensing
+Sitemap

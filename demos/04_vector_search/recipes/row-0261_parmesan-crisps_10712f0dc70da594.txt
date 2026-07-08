@@ -1,0 +1,89 @@
+Parmesan Crisps
+===============
+
+Recipe Metadata
+---------------
+Recipe ID: 10712f0dc70da594
+CSV row number: 261
+Recipe name: Parmesan Crisps
+Source: food.com
+URL: http://www.food.com/recipe/parmesan-crisps-400770
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01a43c0ffdfcef17606c12c66c9ff8c9f86bd6ea22e2055a1c70b66bd9405770/21075143.jpg
+Servings: 8
+Calories: 584.05
+Diet labels: Low-Carb
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: snack
+Dish type: biscuits and cookies
+
+Original CSV Fields
+-------------------
+recipe_name: Parmesan Crisps
+source: food.com
+url: http://www.food.com/recipe/parmesan-crisps-400770
+servings: 8
+calories: 584.0482581
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01a43c0ffdfcef17606c12c66c9ff8c9f86bd6ea22e2055a1c70b66bd9405770/21075143.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["snack"]
+dish_type: ["biscuits and cookies"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Parmesan Crisps
+
+Description: Can't remember where I got this from. But looks great on soups as a garnish and quite tasty too. Can be made a couple of days ahead and stored in airtight container with wax paper between layers
+
+Recipe category: Cheese
+
+Yield: 8 crisps, 8 serving(s)
+
+Prep time: PT10M
+
+Cook time: PT10M
+
+Total time: PT20M
+
+Ingredients:
+- 1 cup parmigiano-reggiano cheese
+- black pepper (to taste)
+
+Instructions:
+1. Grate cheese on large holes of grater box.
+2. Line baking sheet with either parchment paper or silpat.
+3. With a 2 1/2 inch biscuit cutter on lined sheet place about 2 Tbs. of grated cheese into the cutter. Press down on cheese a bit to shape. Gently remove the cutter and repeat until you have made 8 crisps.
+4. Sprinkle with black pepper on top of each cheese mound.
+5. Bake in preheated oven of 325 for about 7 to 8 minutes. Take out when they are set but not golden in color. Remove from oven and let cool on pan for a few minutes. As they cool they will firm up, gently remove with spatula to clean plate.
+6. Place Cheese Crisp on top of soup for garnish. Delicious with tomatoe soup.
+
+Visible page text:
+Parmesan Crisps
+ingredients
+1 cup parmigiano-reggiano cheese
+black pepper (to taste)
+directions
+Grate cheese on large holes of grater box.
+Line baking sheet with either parchment paper or silpat.
+With a 2 1/2 inch biscuit cutter on lined sheet place about 2 Tbs. of grated cheese into the cutter. Press down on cheese a bit to shape. Gently remove the cutter and repeat until you have made 8 crisps.
+Sprinkle with black pepper on top of each cheese mound.
+Bake in preheated oven of 325 for about 7 to 8 minutes. Take out when they are set but not golden in color. Remove from oven and let cool on pan for a few minutes. As they cool they will firm up, gently remove with spatula to clean plate.
+Place Cheese Crisp on top of soup for garnish. Delicious with tomatoe soup.
+Questions & Replies
+Reviews
+A great topping to soup, salad, or even plain as an appetizer. These are quick and easy. The only problem with this recipe was that at the end of 8 minutes in the oven they were far from crisp. No sure if my oven ran cooler than yours or if the cook time was off. Mine end up taking about 12 minutes. Will be making lots as we love soup and this is a great soup topped. Thanks for the post. Debbwl Reply
+RECIPE SUBMITTED BY
+22 Followers
+73 Recipes
+20 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

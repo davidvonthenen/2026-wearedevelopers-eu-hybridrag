@@ -1,0 +1,120 @@
+Chicken, Zucchini and Prosciutto
+================================
+
+Recipe Metadata
+---------------
+Recipe ID: ae49adacb75a654a
+CSV row number: 361
+Recipe name: Chicken, Zucchini and Prosciutto
+Source: BigOven
+URL: https://www.bigoven.com/recipe/chicken-zucchini-and-prosciutto/166836
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/025108c6733aa94d86035e11ae13cafa79e743e07b746622a8c791686ba967be/21052061.jpg
+Servings: 4
+Calories: 1870.93
+Diet labels: High-Protein, Low-Carb
+Health labels: Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Chicken, Zucchini and Prosciutto
+source: BigOven
+url: https://www.bigoven.com/recipe/chicken-zucchini-and-prosciutto/166836
+servings: 4
+calories: 1870.9295
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/025108c6733aa94d86035e11ae13cafa79e743e07b746622a8c791686ba967be/21052061.jpg
+diet_labels: ["High-Protein","Low-Carb"]
+health_labels: ["Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Chicken, Zucchini and Prosciutto
+
+Description: Chicken, Zucchini and Prosciutto
+
+Recipe category: Main Dish
+
+Recipe cuisine: American
+
+Yield: 4
+
+Prep time: PT15M
+
+Cook time: PT30M
+
+Total time: PT15M
+
+Ingredients:
+- 4 boneless skinless chicken breasts
+- 1/2 tsp kosher salt
+- 1/2 tsp black pepper
+- 2 tbsp olive oil
+- 1/4 lb prosciutto (about 8 slices)
+- 3 small zucchini sliced into half-moons
+- 1 clove garlic thinly sliced
+- 1 Lemon
+
+Instructions:
+1. Heat oven to 400°F. Season chicken with 1/4 tsp each of salt and pepper. Heat 1 tbsp oil in a large oven-proof skillet over medium/high heat. Cook the chicken for 2 minutes per side. Transfer to oven and roast for 8 minutes. Meanwhile, in a second pan, over medium heat, heat the remaining oil. Cook the prosciutto until crisp, 1-2 minutes per side. Transfer to a plate. Add the zucchini, garlic and remaining salt and pepper and cook until tender, about 3 minutes. Transfer the prosciutto, zucchini and garlic to the skillet with the chicken, squeeze the lemon over top and toss. Serve.
+
+Visible page text:
+Recipes
+Main Dish
+Poultry - Chicken
+Chicken, Zucchini and Prosciutto
+WANT TO TRY
+FAVORITE
+MADE
+CUSTOM FOLDER
+Still searching for what to cook ?
+Find the most delicious recipes here
+Recipe
+Text
+Photos
+Nutr Nutrition
+Notes
+INGREDIENTS
+4 boneless skinless chicken breast s
+1/2 tsp kosher salt
+1/2 tsp black pepper
+2 tbsp olive oil
+1/4 lb prosciutto ; (about 8 slices)
+3 small zucchini ; sliced into half-moons
+1 clove garlic ; thinly sliced
+1 Lemon
+Copy and Customize
+About BigOven Pro
+INSTRUCTIONS
+Heat oven to 400°F. Season chicken with 1/4 tsp each of salt and pepper. Heat 1 tbsp oil in a large oven-proof skillet over medium/high heat. Cook the chicken for 2 minutes per side. Transfer to oven and roast for 8 minutes.
+Meanwhile, in a second pan, over medium heat, heat the remaining oil. Cook the prosciutto until crisp, 1-2 minutes per side. Transfer to a plate. Add the zucchini, garlic and remaining salt and pepper and cook until tender, about 3 minutes.
+Transfer the prosciutto, zucchini and garlic to the skillet with the chicken, squeeze the lemon over top and toss. Serve.
+Heatherferg
+judyjag
+Nutrition
+View line-by-line Nutrition Insights™ : Discover which ingredients contribute the calories/sodium/etc.
+Disclaimer: Nutrition facts are derived from linked ingredients (shown at left in colored bullets) and may or may not be complete. Always consult a licensed nutritionist or doctor if you have a nutrition-related medical condition.
+Calories per serving : 485
+Get detailed nutrition information, including item-by-item nutrition insights, so you can see where the calories, carbs, fat, sodium and more come from.
+What would you serve with this? Link in another recipe .
+What to make this week
+Keep an eye out for original recipes from the BigOven Kitchen every week! SEE MORE >>
+BigOven Buzz
+Freshly baked content from the creators at BigOven Kitchen . Learn tried and true tips, ticks and methods.
+MORE IDEAS
+Prosciutto Palmiers
+Prosciutto Bruschetta
+Chicken Prosciutto
+REVIEW THIS RECIPE
+REVIEWS

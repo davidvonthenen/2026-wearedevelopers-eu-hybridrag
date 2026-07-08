@@ -1,0 +1,105 @@
+Lobster Ravioli
+===============
+
+Recipe Metadata
+---------------
+Recipe ID: e6cac7f583f286cf
+CSV row number: 159
+Recipe name: Lobster Ravioli
+Source: EatingWell
+URL: https://www.eatingwell.com/recipe/277667/lobster-ravioli
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00fae806e39bfecc1e71d3a119e1088b8ff5ff27d55a86507b7cc751d14ce0f1/21081873.jpg
+Servings: 2
+Calories: 1315.47
+Diet labels: none listed
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Lobster Ravioli
+source: EatingWell
+url: https://www.eatingwell.com/recipe/277667/lobster-ravioli
+servings: 2
+calories: 1315.473106751864
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00fae806e39bfecc1e71d3a119e1088b8ff5ff27d55a86507b7cc751d14ce0f1/21081873.jpg
+diet_labels: []
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Lobster Ravioli
+
+Description: This lobster ravioli recipe uses packaged pasta for a quick, impressive meal. You can use Trader Joe&#39;s lobster ravioli in this healthy recipe.
+
+Recipe category: ['Entree']
+
+Recipe cuisine: ['American']
+
+Yield: ['2', '2 servings']
+
+Prep time: PT25M
+
+Total time: PT25M
+
+Ingredients:
+- 1.5 teaspoons all-purpose flour
+- 0.5 cup whole milk, divided
+- 0.25 cup frozen peas, thawed
+- 1 teaspoon chopped fresh tarragon
+- 0.25 teaspoon lemon zest
+- 0.75 teaspoon lemon juice
+- 0.125 teaspoon kosher salt
+- 0.125 teaspoon ground pepper
+- 1.5 tablespoons finely minced fresh chives, divided
+- 1 (9 ounce) package refrigerated lobster ravioli (such as Trader Joe's)
+- 3 ounces cooked lobster meat
+
+Instructions:
+1. Whisk flour and 1/4 cup milk in a small bowl until smooth. Bring the remaining 1/4 cup milk just to a boil in a small saucepan over medium-high heat. Whisk in the flour mixture; simmer, whisking constantly, until slightly thickened, about 1 minute. Remove from heat. Stir in peas, tarragon, lemon zest, lemon juice, salt, pepper and 1 tablespoon chives. Cover and keep warm until ready to serve.
+2. Meanwhile, prepare ravioli according to package directions; drain. Divide the ravioli evenly among 2 shallow bowls; top with the sauce, lobster (if using) and the remaining 1/2 tablespoon chives.
+
+Visible page text:
+Lobster Ravioli
+Who says a quick, easy dinner can't feel luxurious? This lobster ravioli recipe takes less than 30 minutes to make. It's quick enough for everyday, but worthy of a special occasion. Whip up this easy dinner on Valentine's Day or double it and serve it on a busy weeknight for the whole family to enjoy.
+Robin Bashinsky is a professional chef whose background includes stints at Birmingham fine-dining restaurants Daniel George and Hot and Hot Fish Club.
+Ready in just 25 minutes, this dish is ideal for busy weeknights.
+Chives and peas provide sources of fiber, supporting digestive health.
+Using packaged pasta saves time while leaving the meal feeling luxurious.
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 2 servings
+1 ½ teaspoons all-purpose flour
+½ cup whole milk, divided
+¼ cup frozen peas, thawed
+1 teaspoon chopped fresh tarragon
+¼ teaspoon lemon zest
+¾ teaspoon lemon juice
+⅛ teaspoon kosher salt
+⅛ teaspoon ground pepper
+1 ½ tablespoons finely minced fresh chives, divided
+1 (9 ounce) package refrigerated lobster ravioli (such as Trader Joe's)
+3 ounces cooked lobster meat (Optional)
+Directions
+Whisk flour and 1/4 cup milk in a small bowl until smooth. Bring the remaining 1/4 cup milk just to a boil in a small saucepan over medium-high heat. Whisk in the flour mixture; simmer, whisking constantly, until slightly thickened, about 1 minute. Remove from heat. Stir in peas, tarragon, lemon zest, lemon juice, salt, pepper and 1 tablespoon chives. Cover and keep warm until ready to serve.
+Meanwhile, prepare ravioli according to package directions; drain. Divide the ravioli evenly among 2 shallow bowls; top with the sauce, lobster (if using) and the remaining 1/2 tablespoon chives.
+Nutrition Facts (per serving)
+Nutrition information is calculated by a registered dietitian using an ingredient database but should be considered an estimate.
+* Daily Values (DVs) are the recommended amounts of nutrients to consume each day. Percent Daily Value (%DV) found on nutrition labels tells you how much a serving of a particular food or recipe contributes to each of those total recommended amounts. Per the Food and Drug Administration (FDA), the daily value is based on a standard 2,000 calorie diet. Depending on your calorie needs or if you have a health condition, you may need more or less of particular nutrients. (For example, it’s recommended that people following a heart-healthy diet eat less sodium on a daily basis compared to those following a standard diet.)
+(-) Information is not currently available for this nutrient. If you are following a special diet for medical reasons, be sure to consult with your primary care provider or a registered dietitian to better understand your personal nutrition needs.
+Ingredient
+Pasta and Noodle
+Pasta by Shape
+Ravioli
+Related Articles

@@ -1,0 +1,83 @@
+Cream Cheese Kolache Filling
+============================
+
+Recipe Metadata
+---------------
+Recipe ID: 65a10d630ee062e7
+CSV row number: 273
+Recipe name: Cream Cheese Kolache Filling
+Source: Food & Wine
+URL: https://www.foodandwine.com/recipes/cream-cheese-kolache-filling
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01badcd50f3a213523e91e007d93ae0ed95ac4d3908643810f9893f6fe0f6c26/21064895.jpg
+Servings: 6
+Calories: 1039.75
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Cream Cheese Kolache Filling
+source: Food & Wine
+url: https://www.foodandwine.com/recipes/cream-cheese-kolache-filling
+servings: 6
+calories: 1039.746564166667
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01badcd50f3a213523e91e007d93ae0ed95ac4d3908643810f9893f6fe0f6c26/21064895.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Cream Cheese Kolache Filling
+
+Description: This super-easy cream cheese filling has just one easy step.
+
+Recipe category: ['Dessert']
+
+Yield: ['18', '1 1/4 cups']
+
+Total time: PT10M
+
+Ingredients:
+- 8 ounces cream cheese (softened)
+- 0.25 cup granulated sugar
+- 1 egg yolk
+- 0.5 teaspoon pure vanilla extract
+- 0.25 teaspoon ground cinnamon
+- 0.13 teaspoon ground nutmeg
+- Kosher salt
+
+Instructions:
+1. In a medium bowl, use a hand mixer to beat the cream cheese with the sugar at low speed until smooth, about 3 minutes. Add the egg yolk, vanilla, cinnamon, nutmeg and salt. Mix at low speed until combined, 3 minutes longer.
+
+Visible page text:
+Food
+Recipes
+Desserts
+Cream Cheese Kolache Filling
+Use this rich, sweet filling to make kolache, a sort of stuffed fluffy bun.
+Ingredients
+8 ounces cream cheese (softened)
+¼ cup granulated sugar
+1 egg yolk
+½ teaspoon pure vanilla extract
+¼ teaspoon ground cinnamon
+⅛ teaspoon ground nutmeg
+Kosher salt
+Directions
+In a medium bowl, use a hand mixer to beat the cream cheese with the sugar at low speed until smooth, about 3 minutes. Add the egg yolk, vanilla, cinnamon, nutmeg and salt. Mix at low speed until combined, 3 minutes longer.
+Make Ahead
+The cream cheese filling can kept in an airtight container in the refrigerator for 3 days.
+Related Articles

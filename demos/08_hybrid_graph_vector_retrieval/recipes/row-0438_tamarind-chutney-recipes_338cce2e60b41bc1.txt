@@ -1,0 +1,161 @@
+Tamarind Chutney recipes
+========================
+
+Recipe Metadata
+---------------
+Recipe ID: 338cce2e60b41bc1
+CSV row number: 438
+Recipe name: Tamarind Chutney recipes
+Source: peppersandpennies.com
+URL: https://peppersandpennies.com/tamarind/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02ca12db2d58f5f0b233a006e39ee6030315dcd81cc75518c914a05253696d8e/21069926.jpeg
+Servings: 4
+Calories: 1720.11
+Diet labels: Low-Fat
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites, FODMAP
+Cuisine type: indian
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Tamarind Chutney recipes
+source: peppersandpennies.com
+url: https://peppersandpennies.com/tamarind/
+servings: 4
+calories: 1720.111632
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02ca12db2d58f5f0b233a006e39ee6030315dcd81cc75518c914a05253696d8e/21069926.jpeg
+diet_labels: ["Low-Fat"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites","FODMAP"]
+cuisine_type: ["indian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Tamarind Chutney
+
+Description: Tamarind chutney is the sweet and tangy dipping sauce that accompanies Indian snack foods and appetizers like Pakoras and Samosas. This recipe is highly customizable! It's also makes an affordable gift for foodie friends.
+
+Recipe category: ['Sauce']
+
+Recipe cuisine: ['Indian']
+
+Prep time: PT30M
+
+Ingredients:
+- 8 oz Tamarind pulp (brick form, this is typically half the brick)
+- 1 1/4 cup water
+- 1 1/2 cup white sugar
+- 1/2 teaspoon black salt
+- 1/4 teaspoon cumin
+- 1 tablespoon coriander
+- 1/8 teaspoon fresh ginger (ground)
+
+Instructions:
+1. Prepare tamarind pulp by cutting into 1 inch cubes. Place in medium saucepan with water. Bring to a boil, shut-off heat (leave on element) and cover. Let sit for 10-15 minutes to soften.
+2. Mash tamarind pulp and water mixture with a potato masher or hands.
+3. Filter-out seeds and veins by pushing mixture through fine sieve or cheesecloth. Discard veins and seeds.
+4. Add sugar and spices to tamarind pulp and mix well. If sauce is too thick, add water in small amounts until desired consistency.
+5. Store in air-tight container in the fridge for two weeks. Mixture can be frozen and thawed!
+
+Visible page text:
+Tamarind Chutney is the sweet and tangy dipping sauce that often accompanies Indian snack foods and appetizers like Pakoras and Samosas. This recipe is highly customizable! It also makes an affordable and thoughtful gift for foodie friends.
+You know what I love about going out for Indian cuisine? Tamarind Chutney. Seriously, the sauce that accompanies pakoras, samosas and battered paneer is like the best sweet and tangy dipping sauce there is, hands down.
+As yummy as Tamarind Chutney is, it is so very difficult to take a good picture of it (or any brown sauce, for that matter). These pictures are okay , but they don’t pop or instill a desire in me to make the sauce. As such, they have been sitting on my computer for a few months and this amazing recipe has been ignored. But, with a broken index finger puttering around the kitchen and setting-up the light box to stage a cute photo has not been the easiest task. I figured it was time to break-out this recipe and share it with the world. If anyone has any tips on how to take a great photo of a boring brown sauce, please let me know and I will reshoot! Update January 2018: I reshot! Here is the original pic from November 2016. Phew – much better, eh? Does the sauce a bit more justice!
+Tamarind chutney is very customizable and varies a lot from restaurant to restaurant. I have enjoyed it in various ways from a very thin sauce drizzled on a chickpea-based appetizer and a thicker, more sharp tasting dip for fried goodies. I set-out to make my own and landed on the perfect consistency and sweetness for at-home Indian cuisine. It’s so good, I sometimes dip naan right into it and call it a day! #healthychoices
+This sauce keeps will in the fridge but can also be frozen and thawed when needed. I just take it out of the freezer about 24 hours before needed and let it thaw, in the fridge in the original freezer bag. I have also jarred the Tamarind Chutney is cute jars and gifted to friends for a Christmas or Housewarming gift. As Tamarind is often one of the first ‘dishes’ people tend to like when being introduced to Indian cuisine, it’s always a hit! In my household, we don’t just enjoy this dip with Indian cuisine but serve this sauce as a dip for homemade oven fries! Seriously, this stuff is better than ketchup!
+Tamarind Chutney
+Ingredients
+8 oz Tamarind pulp brick form, this is typically half the brick
+1 1/4 cup water
+1 1/2 cup white sugar
+1/2 teaspoon black salt
+1/4 teaspoon cumin
+1 tablespoon coriander
+1/8 teaspoon fresh ginger ground
+Method
+Prepare tamarind pulp by cutting into 1 inch cubes. Place in medium saucepan with water. Bring to a boil, shut-off heat (leave on element) and cover. Let sit for 10-15 minutes to soften.
+Mash tamarind pulp and water mixture with a potato masher or hands.
+Filter-out seeds and veins by pushing mixture through fine sieve or cheesecloth. Discard veins and seeds.
+Add sugar and spices to tamarind pulp and mix well. If sauce is too thick, add water in small amounts until desired consistency.
+Store in air-tight container in the fridge for two weeks. Mixture can be frozen and thawed!
+Related
+15 Comments
+Leave a Comment Cancel
+Meet Amanda
+Hi! I'm Amanda: the smiling face behind Peppers & Pennies. I develop budget friendly recipes that are sure to please. I'd love for you to try 'em out for your family and friends.
+
+Cheers!
+Follow me
+Let's connect!
+instagram
+facebook
+twitter
+About Me
+Budget Basics
+Vegetarian
+Dessert
+Now Trending
+Archives
+April 2022
+March 2022
+November 2021
+October 2021
+December 2020
+November 2020
+September 2020
+May 2020
+April 2020
+February 2020
+December 2019
+November 2019
+October 2019
+September 2019
+June 2019
+April 2019
+March 2019
+January 2019
+December 2018
+October 2018
+September 2018
+August 2018
+June 2018
+May 2018
+April 2018
+March 2018
+January 2018
+December 2017
+November 2017
+October 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+August 2015

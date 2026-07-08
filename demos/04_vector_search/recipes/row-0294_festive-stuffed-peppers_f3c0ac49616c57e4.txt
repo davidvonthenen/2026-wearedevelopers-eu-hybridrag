@@ -1,0 +1,92 @@
+FESTIVE STUFFED PEPPERS
+=======================
+
+Recipe Metadata
+---------------
+Recipe ID: f3c0ac49616c57e4
+CSV row number: 294
+Recipe name: FESTIVE STUFFED PEPPERS
+Source: justapinch.com
+URL: https://www.justapinch.com/recipes/side/vegetable/festive-stuffed-peppers.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01d4d46a0e823e99304615abe268bbc72750e1b315e0e7b44b3c48322ee841da/21004552.jpeg
+Servings: 6
+Calories: 1744.08
+Diet labels: Balanced
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: FESTIVE STUFFED PEPPERS
+source: justapinch.com
+url: https://www.justapinch.com/recipes/side/vegetable/festive-stuffed-peppers.html
+servings: 6
+calories: 1744.078951
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01d4d46a0e823e99304615abe268bbc72750e1b315e0e7b44b3c48322ee841da/21004552.jpeg
+diet_labels: ["Balanced"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: FESTIVE STUFFED PEPPERS
+
+Description: This recipe comes from Hormel Foods.
+10-16-15
+
+Recipe category: Vegetables
+
+Recipe cuisine: Southwestern
+
+Yield: 6
+
+Prep time: PT10M
+
+Cook time: PT45M
+
+Ingredients:
+- 1 cup(s) instant white rice
+- 2 cup(s) thick & chunky medium salsa, drained
+- 1 can(s) (11 oz.) whole kernel corn with red and green bell peppers, drained
+- 1 cup(s) shredded cheddar cheese
+- 3 large bell peppers
+- ½ cup(s) shredded monterey jack cheese
+
+Instructions:
+1. Cut off tops of peppers and a slice off bottoms so that they stand up. Clean out seeds; set peppers aside.
+2. Cook rice according to package directions. In saucepan, combine salsa, rice, corn, and Cheddar cheese.
+3. Fill bell pepper halves evenly with rice mixture. Cover with aluminum foil and bake in a preheated 375º oven for 30 minutes.
+4. Uncover and sprinkle each pepper with Monterey Jack cheese. Continue baking, uncovered, another 15-20 minutes or until cheese is melted and peppers are tender.
+5. Serve immediately; add a dollup of sour cream if desired.,
+
+Visible page text:
+festive stuffed peppers
+This recipe comes from Hormel Foods.
+Ingredients
+1 cup instant white rice
+2 cups thick & chunky medium salsa, drained
+1 can (11 oz.) whole kernel corn with red and green bell peppers, drained
+1 cup shredded cheddar cheese
+3 large bell peppers
+½ cup shredded monterey jack cheese
+How To Make festive stuffed peppers
+Step 1 Cut off tops of peppers and a slice off bottoms so that they stand up. Clean out seeds; set peppers aside.
+Step 2 Cook rice according to package directions. In saucepan, combine salsa, rice, corn, and Cheddar cheese.
+Step 3 Fill bell pepper halves evenly with rice mixture. Cover with aluminum foil and bake in a preheated 375º oven for 30 minutes.
+Step 4 Uncover and sprinkle each pepper with Monterey Jack cheese. Continue baking, uncovered, another 15-20 minutes or until cheese is melted and peppers are tender.
+Step 5 Serve immediately; add a dollup of sour cream if desired.,
+Last Step: Don't forget to share! Post a picture of your finished recipe here and on your favorite social
+network. Don't forget to tag Just A Pinch and include #justapinchrecipes!
+Discover More
+Comment & Reviews

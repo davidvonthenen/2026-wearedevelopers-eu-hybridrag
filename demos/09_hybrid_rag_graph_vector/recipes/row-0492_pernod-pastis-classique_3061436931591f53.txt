@@ -1,0 +1,88 @@
+Pernod (pastis) Classique
+=========================
+
+Recipe Metadata
+---------------
+Recipe ID: 3061436931591f53
+CSV row number: 492
+Recipe name: Pernod (pastis) Classique
+Source: food.com
+URL: http://www.food.com/recipe/pernod-pastis-classique-93483
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0334093ea9628816dd07d19e3470a452960b9d369f05da695a2a6b2dcfd43cb3/21072972.jpg
+Servings: 1
+Calories: 64.22
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Low Sugar, Vegan, Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: world
+Meal type: lunch/dinner
+Dish type: alcohol cocktail
+
+Original CSV Fields
+-------------------
+recipe_name: Pernod (pastis) Classique
+source: food.com
+url: http://www.food.com/recipe/pernod-pastis-classique-93483
+servings: 1
+calories: 64.218
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0334093ea9628816dd07d19e3470a452960b9d369f05da695a2a6b2dcfd43cb3/21072972.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Low Sugar","Vegan","Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["world"]
+meal_type: ["lunch/dinner"]
+dish_type: ["alcohol cocktail"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Pernod (pastis) Classique
+
+Description: This a summer staple at our house, in French homes and on cafe terraces. A very thirst-quenching and refreshing drink, the taste will grow on you. Pernod is the brand name of the French licorice-flavored liqueur pastis, and you can find it under either of these names, as well as Ricard. It is traditionally served to you in two parts: the pernod with two ice cubes, in a special glass that is broader at the top than at the bottom; and a small pitcher of water so that you can mix it as strongly or weakly as you wish. I've listed here the classic combination.
+
+Recipe category: Beverages
+
+Yield: 1 serving(s)
+
+Prep time: PT1M
+
+Total time: PT1M
+
+Ingredients:
+- 1 fluid ounce Pernod
+- 5 fluid ounces water
+- 2 ice cubes
+
+Instructions:
+1. Pour the Pernod in a tall glass.
+2. Add the water, and ice cubes.
+3. Stir, then-- Sit back, relax, and enjoy life!
+
+Visible page text:
+Pernod (pastis) Classique
+ingredients
+1 fluid ounce Pernod
+5 fluid ounces water
+2 ice cubes
+directions
+Pour the Pernod in a tall glass.
+Add the water, and ice cubes.
+Stir, then-- Sit back, relax, and enjoy life!
+Questions & Replies
+Reviews
+Nice drink. Thank you very much. mianbao Reply 1
+DH and I enjoyed the Pernod Classique with a lovely summer meal of fresh sea scallops, we thought it complimented the seafood perfectly! Light, simple and refreshing, this will be a regular at our house. Thank you FlemishMinx for sharing. BecR2400 Reply
+You said it. The classic mixture: 1 part Pernod and 5 parts water. I use mineral water (non sparkling) and instead of ice cubes I use to put Pernod and water into the fridge for a while. A refreshing aperitif. Never change a winning team. Thorsten Reply
+Bien sur, this is the way we drink pastis! Though I have to admit, at my house I favor Granier, "mon pastis"...although Pernod is the better pastis, when I moved, I could only find Granier, so now...c'est ca! tim_cat Reply
+Thanks Flemish Minx for this recipe, it is just about how I drink it myself, just a tad less water. Latchy Reply
+Tweaks
+RECIPE SUBMITTED BY
+25 Followers
+143 Recipes
+11 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

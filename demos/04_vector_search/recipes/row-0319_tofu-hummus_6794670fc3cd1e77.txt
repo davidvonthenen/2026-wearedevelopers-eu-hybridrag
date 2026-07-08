@@ -1,0 +1,95 @@
+Tofu Hummus
+===========
+
+Recipe Metadata
+---------------
+Recipe ID: 6794670fc3cd1e77
+CSV row number: 319
+Recipe name: Tofu Hummus
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/19771/tofu-hummus/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0206275cbafad0549e9e97f8fa3b1faa5d36fb5cf2777765ffa79bb90e38b84b/21103407.jpg
+Servings: 8
+Calories: 1298.47
+Diet labels: Balanced
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: asian
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Tofu Hummus
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/19771/tofu-hummus/
+servings: 8
+calories: 1298.474496
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0206275cbafad0549e9e97f8fa3b1faa5d36fb5cf2777765ffa79bb90e38b84b/21103407.jpg
+diet_labels: ["Balanced"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["asian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Tofu Hummus
+
+Description: Garbanzo beans pureed with tofu, peanut butter, lemon and garlic.
+
+Yield: ['8', '8 servings']
+
+Prep time: PT10M
+
+Total time: PT10M
+
+Ingredients:
+- 0.5 cup diced silken tofu
+- 0.25 cup lemon juice
+- 2 tablespoons creamy peanut butter
+- 2 tablespoons olive oil
+- 3 cloves garlic
+- 1 (19 ounce) can garbanzo beans, drained
+
+Instructions:
+1. Place tofu, lemon juice, peanut butter, olive oil, garlic, and garbanzo beans in a blender or food processor. Blend until mixture is smooth. Chill until ready to serve.
+
+Visible page text:
+Recipes
+Tofu Hummus
+This version of hummus contains tofu for added protein and extra creaminess, and it uses peanut butter instead of tahini. Very easy and delicious!
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 8 servings
+½ cup diced silken tofu
+¼ cup lemon juice
+2 tablespoons creamy peanut butter
+2 tablespoons olive oil
+3 cloves garlic
+1 (19 ounce) can garbanzo beans, drained
+Directions
+Place tofu, lemon juice, peanut butter, olive oil, garlic, and garbanzo beans in a blender or food processor. Blend until mixture is smooth. Chill until ready to serve.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Tofu Hummus
+1
+Most-Saved Recipes Like This
+Real Hummus 1,214 Ratings 15 mins Save
+Tofu Parmigiana 1,281 Ratings 45 mins Save
+Super Easy Hummus 274 Ratings 5 mins Save
+Jalapeño Hummus 265 Ratings 10 mins Save
+Baked Tofu 200 Ratings 1 hr 15 mins Save
+Best Hummus 115 Ratings 10 mins Save
+Crispy Tofu Bites 15 Ratings 35 mins Save
+Smoky Chipotle Hummus 263 Ratings 15 mins Save
+Extra Easy Hummus 673 Ratings 5 mins Save
+Fusion Hummus 97 Ratings 15 mins Save
+You’ll Also Love

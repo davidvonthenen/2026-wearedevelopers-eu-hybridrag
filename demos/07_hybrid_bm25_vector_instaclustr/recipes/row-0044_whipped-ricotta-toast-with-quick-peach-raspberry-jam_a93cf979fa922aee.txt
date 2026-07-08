@@ -1,0 +1,114 @@
+Whipped Ricotta Toast with Quick Peach-Raspberry Jam
+====================================================
+
+Recipe Metadata
+---------------
+Recipe ID: a93cf979fa922aee
+CSV row number: 44
+Recipe name: Whipped Ricotta Toast with Quick Peach-Raspberry Jam
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/bobby-flay/whipped-ricotta-toast-with-quick-peach-raspberry-jam-3219828
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/003629474566ca163db5797162227d8a37e8d97f0d8e9dfbb1adc2f74a061a67/21126440.jpg
+Servings: 6
+Calories: 2546.69
+Diet labels: High-Fiber
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: british
+Meal type: breakfast
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Whipped Ricotta Toast with Quick Peach-Raspberry Jam
+source: Food Network
+url: https://www.foodnetwork.com/recipes/bobby-flay/whipped-ricotta-toast-with-quick-peach-raspberry-jam-3219828
+servings: 6
+calories: 2546.687049
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/003629474566ca163db5797162227d8a37e8d97f0d8e9dfbb1adc2f74a061a67/21126440.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["british"]
+meal_type: ["breakfast"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Whipped Ricotta Toast with Quick Peach-Raspberry Jam
+
+Recipe category: dessert
+
+Yield: 4 to 8 servings
+
+Cook time: P0Y0M0DT1H0M0.000S
+
+Total time: P0Y0M0DT4H0M0.000S
+
+Ingredients:
+- 2 pounds very ripe peaches, peeled and coarsely chopped
+- 1/2 to 3/4 cup granulated sugar
+- Juice of 1/2 lemon
+- 1 pint raspberries
+- 1 1/4 cups fresh ricotta, drained
+- 2 tablespoons heavy cream, cold
+- 1 tablespoon granulated sugar
+- 1 teaspoon finely grated lemon zest
+- Eight 1-inch-thick slices day-old brioche, toasted
+- Honey, for drizzling
+
+Instructions:
+1. For the jam: Combine the peaches, sugar and lemon juice in a nonreactive medium saucepan and bring to a boil over high heat, stirring occasionally. Reduce the heat and simmer, mashing the peaches occasionally with a potato masher, until the mixture thickens and sticks to a spoon, about 20 minutes.
+2. Remove the saucepan from the heat and stir in the raspberries. Let cool to room temperature, stirring occasionally. Transfer the jam to a nonreactive container with a lid and refrigerate until ready to use. The jam will keep in the refrigerator for up to 1 week.
+3. For the toast: Combine the ricotta, cream, sugar and lemon zest in a bowl and whisk until light and creamy.
+4. Slice the toasts on the diagonal and add a dollop of the whipped ricotta to each piece; use the back of a spoon to smear the ricotta across the toast, making a little trough and leaving a big mound on one end. Spoon some of the jam into the trough and drizzle with honey. Serve immediately.
+
+Visible page text:
+Home
+Recipes
+Dessert
+Whipped Ricotta Toast with Quick Peach-Raspberry Jam
+Level: Intermediate
+Total: 4 hr (includes setting and draining time)
+Active: 1 hr
+Nutrition Info
+Pinterest
+Email
+Deselect All
+Peach-Raspberry Jam:
+2 pounds very ripe peaches, peeled and coarsely chopped
+1/2 to 3/4 cup granulated sugar
+Juice of 1/2 lemon
+1 pint raspberries
+Whipped Ricotta Toast:
+1 1/4 cups fresh ricotta, drained
+2 tablespoons heavy cream, cold
+1 tablespoon granulated sugar
+1 teaspoon finely grated lemon zest
+Eight 1-inch-thick slices day-old brioche, toasted
+Honey, for drizzling
+For the jam: Combine the peaches, sugar and lemon juice in a nonreactive medium saucepan and bring to a boil over high heat, stirring occasionally. Reduce the heat and simmer, mashing the peaches occasionally with a potato masher, until the mixture thickens and sticks to a spoon, about 20 minutes.
+Remove the saucepan from the heat and stir in the raspberries. Let cool to room temperature, stirring occasionally. Transfer the jam to a nonreactive container with a lid and refrigerate until ready to use. The jam will keep in the refrigerator for up to 1 week.
+For the toast: Combine the ricotta, cream, sugar and lemon zest in a bowl and whisk until light and creamy.
+Slice the toasts on the diagonal and add a dollop of the whipped ricotta to each piece; use the back of a spoon to smear the ricotta across the toast, making a little trough and leaving a big mound on one end. Spoon some of the jam into the trough and drizzle with honey. Serve immediately.
+To drain fresh ricotta, put it in a strainer lined with dampened cheesecloth. Set the strainer over a bowl and refrigerate for a few hours or up to overnight.
+Categories:
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Beignets with Quick Homemade Blackberry Jam Recipe
+Lemon Ricotta Fritters with Fresh Berry Jam Recipe
+Sweet Potato-Green Onion Pancakes with Poached...
+Gin and Jam Recipe
+Raspberry Jam Recipe
+Rotisserie Lamb with Minted Cucumber Chutney and...

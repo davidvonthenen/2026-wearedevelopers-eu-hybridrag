@@ -1,0 +1,192 @@
+Meatballs with Spaghetti Sauce Recipe 4
+=======================================
+
+Recipe Metadata
+---------------
+Recipe ID: ab6a122c8d450681
+CSV row number: 47
+Recipe name: Meatballs with Spaghetti Sauce Recipe 4
+Source: Taste of Home
+URL: http://www.tasteofhome.com/Recipes/Meatballs-with-Spaghetti-Sauce
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/003de0a9eef8424501d95f8816eb23a67e868233592f1f15a4061eef5ba55a5b/21089005.jpg
+Servings: 2
+Calories: 1284.28
+Diet labels: High-Fiber
+Health labels: Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Meatballs with Spaghetti Sauce Recipe 4
+source: Taste of Home
+url: http://www.tasteofhome.com/Recipes/Meatballs-with-Spaghetti-Sauce
+servings: 2
+calories: 1284.282855887406
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/003de0a9eef8424501d95f8816eb23a67e868233592f1f15a4061eef5ba55a5b/21089005.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Meatballs with Spaghetti Sauce
+
+Description: “A friend gave me the recipe for this traditional favorite. It’s her Italian mother-in-law’s recipe from the old country, and it tastes wonderful,” writes Denise Linnett of Picton, Ontario.
+
+Recipe category: ['Dinner']
+
+Recipe cuisine: Europe, Italian
+
+Yield: 2 servings
+
+Prep time: PT30M
+
+Cook time: PT25M
+
+Total time: PT55M
+
+Ingredients:
+- 1/2 cup soft bread crumbs
+- 1/4 cup grated Parmesan cheese
+- 1 tablespoon 2% milk
+- 1 egg, lightly beaten
+- 1-1/2 teaspoons minced fresh parsley
+- 1/4 teaspoon garlic powder
+- 1/8 teaspoon salt
+- 1/8 teaspoon pepper
+- 6 ounces lean ground beef
+- 2 ounces ground pork
+- SAUCE:
+- 1/2 cup chopped onion
+- 1 garlic clove, minced
+- 1 tablespoon olive oil
+- 1 can (14-1/2 ounces) whole tomatoes, quartered
+- 1 can (8 ounces) tomato sauce
+- 1 can (6 ounces) tomato paste
+- 1/2 cup water
+- 3 tablespoons minced fresh parsley
+- 1 teaspoon sugar
+- 1 teaspoon dried basil
+- 1/4 teaspoon pepper
+- Hot cooked spaghetti
+
+Instructions:
+1. In a large bowl, combine the first eight ingredients. Crumble beef and pork over mixture and mix well. Shape into 1-3/4-in. balls.
+2. Place meatballs on a greased rack in a shallow baking pan. Bake at 350° for 25-30 minutes or until a thermometer reads 160°; drain.
+3. Meanwhile, in a large saucepan, saute onion and garlic in oil until tender. Stir in the tomatoes, tomato sauce and paste, water, parsley, sugar, basil and pepper. Bring to a boil. Reduce heat; simmer, uncovered, for 15 minutes, stirring occasionally.
+4. Add meatballs to sauce; simmer 5 minutes longer or until heated through. Serve with spaghetti.
+
+Visible page text:
+Meatballs with Spaghetti Sauce
+By Taste Of Home Editorial Team
+Recipe by denise linnett
+Tested by Taste of Home Test Kitchen
+Taste of Home's Editorial Process
+Updated on Sep. 26, 2022
+“A friend gave me the recipe for this traditional favorite. It’s her Italian mother-in-law’s recipe from the old country, and it tastes wonderful,” writes Denise Linnett of Picton, Ontario.
+Ingredients
+1/2 cup soft bread crumbs
+1/4 cup grated Parmesan cheese
+1 tablespoon 2% milk
+1 egg, lightly beaten
+1-1/2 teaspoons minced fresh parsley
+1/4 teaspoon garlic powder
+1/8 teaspoon salt
+1/8 teaspoon pepper
+6 ounces lean ground beef
+2 ounces ground pork
+sauce:
+1/2 cup chopped onion
+1 garlic clove, minced
+1 tablespoon olive oil
+1 can (14-1/2 ounces) whole tomatoes, quartered
+1 can (8 ounces) tomato sauce
+1 can (6 ounces) tomato paste
+1/2 cup water
+3 tablespoons minced fresh parsley
+1 teaspoon sugar
+1 teaspoon dried basil
+1/4 teaspoon pepper
+Hot cooked spaghetti
+Directions
+1 In a large bowl, combine the first eight ingredients. Crumble beef and pork over mixture and mix well. Shape into 1-3/4-in. balls.
+2 Place meatballs on a greased rack in a shallow baking pan. Bake at 350° for 25-30 minutes or until a thermometer reads 160°; drain.
+3 Meanwhile, in a large saucepan, saute onion and garlic in oil until tender. Stir in the tomatoes, tomato sauce and paste, water, parsley, sugar, basil and pepper. Bring to a boil. Reduce heat; simmer, uncovered, for 15 minutes, stirring occasionally.
+4 Add meatballs to sauce; simmer 5 minutes longer or until heated through. Serve with spaghetti.
+Nutrition Facts
+We are no longer supporting IE (Internet Explorer) as we strive to provide site experiences for browsers that support new web standards and security practices.
+We recommend our users to update the browser.
+Google Chrome
+Apple Safari
+Mozilla Firefox
+Microsoft Edge
+Recipes More Items SEE ALL RECIPES Cooking Gear & Gadgets Cuisines Cooking Styles Dishes & Beverages Health & Wellness Holidays & Events Ingredients Meal Types Techniques
+SEE ALL RECIPES
+Cooking Gear & Gadgets
+Cuisines
+Cooking Styles
+Dishes & Beverages
+Health & Wellness
+Holidays & Events
+Meal Types
+Techniques
+Contests
+News More Items SEE ALL NEWS People in Food Grocery Stores New Products Recalls Restaurants Trends
+SEE ALL NEWS
+People in Food
+Grocery Stores
+New Products
+Recalls
+Restaurants
+Trends
+Health & Wellness More Items SEE ALL HEALTH & WELLNESS Healthy Eating Healthy Lifestyle Tips Nutrition Tips
+SEE ALL HEALTH & WELLNESS
+Healthy Eating
+Healthy Lifestyle Tips
+Nutrition Tips
+Holidays & Events More Items SEE ALL HOLIDAYS & EVENTS Christmas Easter Halloween St. Patrick’s Day
+SEE ALL HOLIDAYS & EVENTS
+Christmas
+Easter
+Halloween
+St. Patrick’s Day
+Home & Living More Items SEE ALL HOME & LIVING Cleaning & Organizing Entertaining & Hosting Family & Parenting Grocery Shopping Home Decor Outdoor Living Travel
+SEE ALL HOME & LIVING
+Cleaning & Organizing
+Entertaining & Hosting
+Family & Parenting
+Grocery Shopping
+Home Decor
+Outdoor Living
+Travel
+Stuff We Love
+Test Kitchen More Items SEE ALL TEST KITCHEN Cooking Gear & Gadgets How To Meal Planning Taste Tests Test Kitchen Tips
+SEE ALL TEST KITCHEN
+How To
+Meal Planning
+Taste Tests
+Test Kitchen Tips
+Videos
+Submit a Recipe
+Newsletters
+Follow Us More Items Facebook Pinterest Instagram Twitter Feedly
+Facebook
+Pinterest
+Instagram
+Twitter
+Feedly
+Subscribe
+Shop
+Log In / Join
+Recipe Box

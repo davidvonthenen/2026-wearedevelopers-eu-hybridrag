@@ -1,0 +1,72 @@
+Lentil Soup with Cumin & Coriander recipes
+==========================================
+
+Recipe Metadata
+---------------
+Recipe ID: e23775b0e9b24549
+CSV row number: 112
+Recipe name: Lentil Soup with Cumin & Coriander recipes
+Source: veganinsanity.com
+URL: http://www.veganinsanity.com/recipes/lentil-soup/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00b16b7b375bc996caf14dd1e2f098dd34d02c2253cb55bf0957f35526441615/21134964.jpeg
+Servings: 4
+Calories: 1956.18
+Diet labels: High-Fiber
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: indian
+Meal type: lunch/dinner
+Dish type: soup
+
+Original CSV Fields
+-------------------
+recipe_name: Lentil Soup with Cumin & Coriander recipes
+source: veganinsanity.com
+url: http://www.veganinsanity.com/recipes/lentil-soup/
+servings: 4
+calories: 1956.179262
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00b16b7b375bc996caf14dd1e2f098dd34d02c2253cb55bf0957f35526441615/21134964.jpeg
+diet_labels: ["High-Fiber"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["indian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["soup"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+When I was a kid, my favourite soup was chicken noodle. Preferably from a can. And preferably without any chicken and mostly noodles.
+I would often eat canned soup for lunch on the weekends. It was easy enough for me to make myself once I knew how to use a can opener and the microwave (that’s right, I didn’t even cook it in a pot on the stove).
+Chicken noodle soup was my thang. For years. Even as an adult, it was one of my favourite things to eat when I was too lazy to come up with something a bit more creative.
+Now, though, I’m obviously done with chicken noodle, but I still love the comfort of soup. My current favourite is vegetable, but this lentil soup is a close second.
+It’s easy to throw together, it’s crazy good for you, and it tastes amazing. Way better than chicken noodle soup ever did.
+Side note: Photographing soup is HARD. Photographing brown soup is even harder. Perhaps the green parsley on top will help? What if I stick some green in the background?
+Be jealous of my food photography skillzzzz. Or not.
+When it’s cold and gray outside (like today at my house!), soup is the perfect remedy. Try this lentil soup and let me know if you enjoyed it as much as I did!
+4 cloves garlic, chopped
+1 small yellow onion, minced
+4 medium carrots, chopped
+4 celery stalks, chopped
+3 tbsp olive oil
+2 cups green or brown lentils, uncooked (I used brown)
+1 tsp cumin
+1/2 tsp coriander
+8 cups vegetable broth
+1 large bay leaf
+2 whole sprigs fresh thyme
+1 cup chopped spinach
+1/2 cup chopped tomatoes
+Salt & pepper, to taste
+Heat olive oil in a large pot over medium heat.
+Add in the onion, carrots, celery and garlic, and cook until tender and browned.
+Add the lentils, cumin, coriander, broth, bay leaf and fresh thyme. Give it all a good mix, then add lid and simmer over low heat until the lentils are tender, 30-40 minutes.
+Remove the bay leaf and thyme, and add in the chopped spinach and tomatoes. Cook for 3-4 minutes, or until spinach has wilted.
+season with salt and pepper, and serve, with some fresh parsley on top for colour (if desired).
+Related Posts:
+Leave a Reply Cancel reply
+This site uses Akismet to reduce spam. Learn how your comment data is processed .

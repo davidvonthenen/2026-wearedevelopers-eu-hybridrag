@@ -1,0 +1,92 @@
+Citrus Fennel and Avocado Salad recipes
+=======================================
+
+Recipe Metadata
+---------------
+Recipe ID: 5c4395d784a6d2aa
+CSV row number: 70
+Recipe name: Citrus Fennel and Avocado Salad recipes
+Source: mylifewellloved.com
+URL: http://mylifewellloved.com/how-to-eat-seasonally/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/005a92928a34f758851044d2549878ecd0ab90a4abf3c7a12d1ac58640e071a5/21052832.jpeg
+Servings: 4
+Calories: 1745.11
+Diet labels: High-Fiber
+Health labels: Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Citrus Fennel and Avocado Salad recipes
+source: mylifewellloved.com
+url: http://mylifewellloved.com/how-to-eat-seasonally/
+servings: 4
+calories: 1745.108655
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/005a92928a34f758851044d2549878ecd0ab90a4abf3c7a12d1ac58640e071a5/21052832.jpeg
+diet_labels: ["High-Fiber"]
+health_labels: ["Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Share
+Tweet
+Pin
+I’m excited to welcome Lindsey from Life Lutzurious to the blog today! She’s my bump twin and you’ll see below we’ve found a lot in common. My mouth is watering from looking at the pictures of her Clean Eating Friendly Seasonal Salad below, I hope y’all enjoy it!
+Hi y’all! I’m Lindsey Lutz from Life Lutzurious …nice to meet ya! If you are not familiar with my blog, it focuses on a LOT on fashion with a little (ok, a lot) travel, food, and design mixed in. I am BEYOND excited to be a guest on My Life Well Loved. I truly feel so honored to be swapping posts with Heather. While she and I have not met in person, I have been following her blog for months. A few cool tidbits that Heather and I have in common: 1) We are both PREGNANT and only a couple of weeks apart…August babies! 2) We both eat [try to] as clean as possible but enjoy a splurge every now in then. 3) We both love our exercise regimens. As you know, she teaches Pure Barre. For those of you don’t know me, I am an avid Iron Triber. WOD me, baby!
+One of my FAVORITE local treasures in our great city of Birmingham is the Pepper Place Farmer’s Market . The hubs and I love going there each and every Saturday to pick out our veggies for the week, taste a plethora of samples, and hobnob with the local farmers. If you have not been, I highly recommend it. It will be one on the coolest things you do in Birmingham. If you do not live in Birmingham, your city probably has a local farmer’s market or CSA program. When I tell people about our weekly ritual, some people immediately respond, “wow, that sounds overwhelming. How in the world do you know what to buy? And what IS the point?” By purchasing locally [and seasonally], you support the local farmers, while enjoying delicious fruits and veggies that are fresh and unprocessed. They really do taste better!
+Ok, so HOW do you eat seasonally?
+1) Buy exactly what is in season at your local farmer’s market or grocery store.
+2) Plan your meals around what you purchase that week . Pinterest is a GREAT tool.
+3) Prepare foods on Sunday, so you have quick meals to eat all week.
+Ok, I agree. That can be a little overwhelming if you are more of a planner. I found a great blog called The Vintage Mixer that posts monthly seasonal vegetable guides. You can check out April’s veggies below. Match this up with what you find at the market, and you are ready to rock and roll. Once you get home, hop on Pinterest and start planning your menu.
+While researching March’s seasonal produce guide, I stumbled across a FABULOUS recipe: Citrus Fennel and Avocado Salad . I mean, how amazing does this look?
+The hubs was suffering from a cold, and I knew the fennel and the citrus would be the perfect cure for his illness. I never imagined it would turn out so well. The avocado adds the perfect amount of creaminess, while the variety of oranges yields the perfect pop of sweetness. So, without further adieu, here is the recipe, including some additions I made. I hope you all enjoy!! OH, and guess what? Avocados AND oranges are back in season for the month of April. Heather and I would love to know how you like the recipe, so feel free to share your comments below!
+Print Citrus Fennel and Avocado Salad Ingredients An assortment of citrus, totaling about 2½ to 3 pounds I used: 3 navel oranges 3 cara cara oranges 2 minneola oranges 3 mandarin oranges 1 blood orange ½ fennel bulb, very thinly sliced 1 avocado, peeled, pitted and sliced ½ shallot, peeled and very thinly sliced ⅓ cup extra virgin olive oil 2 tablespoons champagne vinegar 1 tablespoon honey kosher salt and freshly cracked black pepper ¼ cup mint leaves Reserved fennel fronds Instructions Slice the peels off of the citrus and place in a bowl or on a serving plate. Layer with thinly slivered fennel slices. Add avocado slices and shallot slivers. In a small bowl, slowly whisk the olive oil into the champagne vinegar until emulsified. Add the honey and whisk to mix. Season with kosher salt and pepper. Pour dressing over the salad and season with more kosher salt and freshly ground pepper. Top with reserved fennel fronds and mint leaves. 3.2.2929
+An assortment of citrus, totaling about 2½ to 3 pounds
+I used:
+3 navel oranges
+3 cara cara oranges
+2 minneola oranges
+3 mandarin oranges
+1 blood orange
+½ fennel bulb, very thinly sliced
+1 avocado, peeled, pitted and sliced
+½ shallot, peeled and very thinly sliced
+⅓ cup extra virgin olive oil
+2 tablespoons champagne vinegar
+1 tablespoon honey
+kosher salt and freshly cracked black pepper
+¼ cup mint leaves
+Reserved fennel fronds
+Slice the peels off of the citrus and place in a bowl or on a serving plate.
+Layer with thinly slivered fennel slices.
+Add avocado slices and shallot slivers.
+In a small bowl, slowly whisk the olive oil into the champagne vinegar until emulsified.
+Add the honey and whisk to mix. Season with kosher salt and pepper.
+Pour dressing over the salad and season with more kosher salt and freshly ground pepper.
+Top with reserved fennel fronds and mint leaves.
+**Lindsey’s Additions**
+*Add some sort of green. I used arugula, but if you want to stick to exactly what’s in season in April, use watercress .
+*Add goat cheese, YUM!!!!!!
+I hope you all enjoyed the post. Please keep in touch at Life Lutzurious !
+Lindsey
+You may also enjoy:
+From Urban Cookhouse to Farm Bowl: A …
+Patriotic Fruit Pizza
+My Clean Eating Grocery List
+2 Comments
+Pingback: BUMPDATE: 24 WEEKS • Life Lutzurious
+Pingback: How To LOVE Your Pregnancy: FOOD + FITNESS • Life Lutzurious
+Leave a Reply Cancel reply

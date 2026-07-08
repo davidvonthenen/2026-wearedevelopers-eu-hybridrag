@@ -1,0 +1,148 @@
+Fried Chicken Banh Mi
+=====================
+
+Recipe Metadata
+---------------
+Recipe ID: 67260b356b938f91
+CSV row number: 5
+Recipe name: Fried Chicken Banh Mi
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/fried-chicken-banh-mi-18315478
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0003c1856f51c706fed64ddb5f965c26d5bb1700cd09d45c813a871c97167ada/21008642.jpg
+Servings: 4
+Calories: 8471.18
+Diet labels: High-Fiber
+Health labels: Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: south east asian
+Meal type: lunch/dinner
+Dish type: sandwiches
+
+Original CSV Fields
+-------------------
+recipe_name: Fried Chicken Banh Mi
+source: Food Network
+url: https://www.foodnetwork.com/recipes/fried-chicken-banh-mi-18315478
+servings: 4
+calories: 8471.182074998183
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0003c1856f51c706fed64ddb5f965c26d5bb1700cd09d45c813a871c97167ada/21008642.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["south east asian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["sandwiches"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Fried Chicken Banh Mi
+
+Description: Banh mi sandwiches are Molly’s FAVE because the flavor and texture combinations are a “raging party.” These Vietnamese sandwiches are traditionally made with pork roll and pâté, but the fried chicken gives these the hardiness her hard-working farmer needs during wheat harvest.
+
+Recipe category: main-dish
+
+Yield: 4 servings
+
+Cook time: P0Y0M0DT0H25M0.000S
+
+Total time: P0Y0M0DT1H0M0.000S
+
+Ingredients:
+- Neutral oil, for frying
+- 1/2 cup unseasoned rice vinegar
+- 1 tablespoon granulated sugar
+- 1 teaspoon kosher salt
+- 1 cup julienned carrots
+- 1 cup peeled and julienned daikon
+- 1/2 cup Japanese-style mayonnaise, such as Kewpie
+- 2 tablespoons sriracha
+- 1 tablespoon hoisin sauce
+- 2 large eggs
+- 1/4 cup cornstarch
+- 2 teaspoons kosher salt
+- 1 teaspoon five-spice powder
+- 3 cups panko breadcrumbs
+- 2 boneless, skinless chicken breasts, sliced lengthwise in half (into thin cutlets)
+- 4 tablespoons unsalted butter, divided
+- 4 crusty hoagies or small baguettes
+- Dill pickle slices
+- 1 jalapeño, thinly sliced, optional
+- Cilantro leaves and tender stems
+
+Instructions:
+1. Heat 1 inch of neutral oil in a heavy-bottomed pot over medium heat until an oil thermometer reaches 350 degrees F.
+2. While the oil heats, pickle the vegetables.
+3. For the quick-pickled vegetables: In a medium mixing bowl, whisk together the rice vinegar, sugar and salt until fully dissolved. Add the carrots and daikon and toss to combine. Refrigerate for at least 30 minutes to pickle.
+4. For the sauce: In a small mixing bowl, whisk together the mayonnaise, sriracha and hoisin until combined. Set aside.
+5. For the fried chicken: In a shallow bowl, whisk together the eggs, cornstarch, salt and five spice. In a separate, shallow bowl, add the panko. To bread the chicken, add each breast into the egg mixture to fully coat, allowing any excess to drip off before placing into the panko. Press each chicken breast firmly into the panko to completely cover with breadcrumbs.
+6. To fry: Add the breaded chicken into the hot oil, frying for 1 to 2 minutes each side until golden brown and cooked through. Remove the fried chicken to a cooling rack set over a baking sheet to drain of excess oil.
+7. To toast the sandwich bread: Heat a pan or griddle over medium heat. Melt 1 tablespoon of butter for each roll. Place the rolls into the buttered pan, cut-side down, to toast. Remove and set aside to assemble.
+8. To assemble: Spread the spicy mayo on both sides of each roll. Add one piece of fried chicken to the bottom half and top with a spoonful of pickled carrot and daikon, sliced dill pickles, jalapeños (if using) and a few cilantro sprigs. Finish with the top half.
+9. Enjoy immediately; leftovers will not keep well if already assembled. If enjoying later, keep the components separate and assemble when ready to eat.
+
+Visible page text:
+Home
+Recipes
+Poultry
+Chicken
+Fried Chicken Banh Mi
+Level: Intermediate
+Total: 1 hr (includes pickling time)
+Active: 25 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+Neutral oil, for frying
+Quick-Pickled Vegetables:
+1/2 cup unseasoned rice vinegar
+1 tablespoon granulated sugar
+1 teaspoon kosher salt
+1 cup julienned carrots
+1 cup peeled and julienned daikon
+Sauce:
+1/2 cup Japanese-style mayonnaise, such as Kewpie
+2 tablespoons sriracha
+1 tablespoon hoisin sauce
+Fried Chicken:
+2 large eggs
+1/4 cup cornstarch
+2 teaspoons kosher salt
+1 teaspoon five-spice powder
+3 cups panko breadcrumbs
+2 boneless, skinless chicken breasts, sliced lengthwise in half (into thin cutlets)
+To Serve:
+4 tablespoons unsalted butter, divided
+4 crusty hoagies or small baguettes
+Dill pickle slices
+1 jalapeño, thinly sliced, optional
+Cilantro leaves and tender stems
+Heat 1 inch of neutral oil in a heavy-bottomed pot over medium heat until an oil thermometer reaches 350 degrees F.
+While the oil heats, pickle the vegetables.
+For the quick-pickled vegetables: In a medium mixing bowl, whisk together the rice vinegar, sugar and salt until fully dissolved. Add the carrots and daikon and toss to combine. Refrigerate for at least 30 minutes to pickle.
+For the sauce: In a small mixing bowl, whisk together the mayonnaise, sriracha and hoisin until combined. Set aside.
+For the fried chicken: In a shallow bowl, whisk together the eggs, cornstarch, salt and five spice. In a separate, shallow bowl, add the panko. To bread the chicken, add each breast into the egg mixture to fully coat, allowing any excess to drip off before placing into the panko. Press each chicken breast firmly into the panko to completely cover with breadcrumbs.
+To fry: Add the breaded chicken into the hot oil, frying for 1 to 2 minutes each side until golden brown and cooked through. Remove the fried chicken to a cooling rack set over a baking sheet to drain of excess oil.
+To toast the sandwich bread: Heat a pan or griddle over medium heat. Melt 1 tablespoon of butter for each roll. Place the rolls into the buttered pan, cut-side down, to toast. Remove and set aside to assemble.
+To assemble: Spread the spicy mayo on both sides of each roll. Add one piece of fried chicken to the bottom half and top with a spoonful of pickled carrot and daikon, sliced dill pickles, jalapeños (if using) and a few cilantro sprigs. Finish with the top half.
+Enjoy immediately; leftovers will not keep well if already assembled. If enjoying later, keep the components separate and assemble when ready to eat.
+Categories:
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Chicken Banh Mi Tacos Recipe
+Chicken Banh Mi Recipe
+Jerk Chicken Banh Mi with Daikon Pickles Recipe
+Smoked Brisket Banh Mi Recipe
+Duck Banh Mi Recipe
+Pork Meatball Banh Mi Recipe

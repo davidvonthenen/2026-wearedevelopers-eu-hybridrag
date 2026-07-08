@@ -1,0 +1,122 @@
+Garlic Butter and Shrimp Foil Packs
+===================================
+
+Recipe Metadata
+---------------
+Recipe ID: 9503514136f63385
+CSV row number: 381
+Recipe name: Garlic Butter and Shrimp Foil Packs
+Source: Betty Crocker
+URL: https://www.bettycrocker.com/recipes/garlic-butter-and-shrimp-foil-packs/9039937e-730e-4060-ba3d-f5a664ef0c35
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0265fc30866674ce92b69444732999299ee49fa95907cc9b4e807f51685d2068/21052800.webp
+Servings: 4
+Calories: 2779.64
+Diet labels: Balanced
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Garlic Butter and Shrimp Foil Packs
+source: Betty Crocker
+url: https://www.bettycrocker.com/recipes/garlic-butter-and-shrimp-foil-packs/9039937e-730e-4060-ba3d-f5a664ef0c35
+servings: 4
+calories: 2779.644983617336
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0265fc30866674ce92b69444732999299ee49fa95907cc9b4e807f51685d2068/21052800.webp
+diet_labels: ["Balanced"]
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Garlic Butter and Shrimp Foil Packs
+
+Description: This delicate grilled shrimp dinner comes together in a flash, thanks to an easy foil-pack technique and simple list of ingredients.
+
+Recipe category: Dinner
+
+Yield: 4
+
+Prep time: PT0H10M
+
+Total time: PT0H25M
+
+Ingredients:
+- 1 roll (1 lb) refrigerated polenta, cut into 1/2-inch slices
+- 2 tablespoons olive oil
+- Salt and pepper, to taste
+- 1 lb uncooked deveined peeled shrimp
+- 4 tablespoons butter, melted
+- 1 cup fresh parsley, chopped
+- 2 cloves garlic, grated or finely chopped
+- Juice of 1 lemon, plus lemon wedges for serving
+- Pinch of crushed red pepper flakes
+- Additional chopped fresh parsley
+
+Instructions:
+1. Heat gas or charcoal grill.
+2. Place large sheet of heavy-duty foil or double layer of regular foil on work surface. Rub foil with a little olive oil.
+3. Arrange slices of polenta in center of foil. Drizzle with olive oil; sprinkle with salt and pepper.
+4. In medium bowl, toss shrimp with melted butter, parsley, garlic and lemon juice. Sprinkle with salt, pepper and crushed red pepper flakes. Add shrimp on top of polenta, getting all the butter out of the bowl.
+5. Bring short ends of foil together, and fold twice to seal; fold in sides to seal, leaving room for steam.
+6. Place packets on grill over medium-high heat. Cover grill; cook 10 to 15 minutes or until shrimp are pink.
+7. Remove from grill; unwrap and top with additional fresh parsley and lemon wedges.
+
+Visible page text:
+Garlic Butter and Shrimp Foil Packs
+Write a Review
+Ask a Question
+Save
+Pin
+Print
+Share
+Jump to Recipe
+Prep Time 10 min
+Total 25 min
+Servings 4
+Ingredients 10
+Keep Screen On
+Ingredients
+1 roll (1 lb) refrigerated polenta, cut into 1/2-inch slices
+2 tablespoons olive oil
+Salt and pepper, to taste
+1 lb uncooked deveined peeled shrimp
+4 tablespoons butter, melted
+1 cup fresh parsley, chopped
+2 cloves garlic, grated or finely chopped
+Juice of 1 lemon, plus lemon wedges for serving
+Pinch of crushed red pepper flakes
+Additional chopped fresh parsley
+Instructions
+Step 1 Heat gas or charcoal grill.
+Step 2 Place large sheet of heavy-duty foil or double layer of regular foil on work surface. Rub foil with a little olive oil.
+Step 3 Arrange slices of polenta in center of foil. Drizzle with olive oil; sprinkle with salt and pepper.
+Step 4 In medium bowl, toss shrimp with melted butter, parsley, garlic and lemon juice. Sprinkle with salt, pepper and crushed red pepper flakes. Add shrimp on top of polenta, getting all the butter out of the bowl.
+Step 5 Bring short ends of foil together, and fold twice to seal; fold in sides to seal, leaving room for steam.
+Step 6 Place packets on grill over medium-high heat. Cover grill; cook 10 to 15 minutes or until shrimp are pink.
+Step 7 Remove from grill; unwrap and top with additional fresh parsley and lemon wedges.
+Nutrition
+Nutrition Facts
+Recipe Tips
+Try These Next
+Grilled Foil Packets Recipes
+Shrimp Recipes
+Mint Desserts
+Low Country Shrimp Foil Packs (55) Save
+Burger and Veggie Foil Packs (63) Save
+Grilled Seafood Foil Packs with Lemon-Chive Butter (15) Save
+Grilled Salmon and Rice Foil Packs (62) Save
+Grilled Dill Salmon (4) Save
+Grilled Lemon-Salmon Foil Packs (12) Save
+Reviews & Questions Section

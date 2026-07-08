@@ -1,0 +1,156 @@
+Rum Flavored Fruit Salad
+========================
+
+Recipe Metadata
+---------------
+Recipe ID: 5e4ae4bf177e6445
+CSV row number: 254
+Recipe name: Rum Flavored Fruit Salad
+Source: McCormick
+URL: http://www.mccormick.com/Recipes/Dessert/Rum-Flavored-Fruit-Salad
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0196cbf5ce57bdfb2947b475b145a3e9943dd65bc054f8f994905327d8c10751/21100404.jpg
+Servings: 12
+Calories: 807.61
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Wheat, Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Rum Flavored Fruit Salad
+source: McCormick
+url: http://www.mccormick.com/Recipes/Dessert/Rum-Flavored-Fruit-Salad
+servings: 12
+calories: 807.6089999994572
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0196cbf5ce57bdfb2947b475b145a3e9943dd65bc054f8f994905327d8c10751/21100404.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Wheat","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Free Shipping on Orders Over $60
+This paragraph is used to check browser font size. If the font size is 25px or greater, the browser will apply a large font size class to the body.
+New & Trending Recipes
+Blueberry Flavored Pancakes
+Chicken Shawarma Salad with Garlic Dressing
+Enjoy DIY Shawarma Salad in the comfort of your home. McCormick® makes it that much easier with our convenient Seasoning & Sauce Mix. Chicken breast...
+Prep Time: 10m | Cook Time: 10m
+Black Currant Lemonade
+With its deep purple hue, this refreshing non-alcoholic sip is as gorgeous as it is delicious. It’s prepared with fresh lemon juice and a McCormick®...
+Prep Time: 5m
+Easy Mini Cheesecakes
+Learn how to make mini cheesecakes with this simple recipe. These luscious cheesecakes are infused with vanilla and almond flavors, served in cupcake form, and...
+Prep Time: 15m | Cook Time: 24m
+BBQ Burger Crunch Wraps
+These simple, delicious wraps turn the weeknight time crunch into a delicious meal in just 30 minutes. The barbecue-style flavors of McCormick® Loaded BBQ Burger Bowl Seasoning Mix...
+Prep Time: 15m | Cook Time: 15m
+Flavor Inspiration for Every Occasion
+Light, Bright Spring Recipes
+Made with Love: Mother’s Day Recipes
+Quick & Easy Recipes You’ll Love
+Weeknight Dinner Ideas
+Taco Tuesday Ideas
+Flame On: Grilling Recipes
+Shake up Your Chicken Routine
+All You Need for Delicious Weeknight Meals
+Herbs & Spices
+Seasoning Blends
+Seasoning Mixes
+Shop All
+McCormick® Garlic Powder, 3.12 oz
+$6.49
+McCormick® Chili Powder, 2.5 oz
+$4.49
+McCormick® Ground Thyme, 0.7 oz
+$5.49
+McCormick® Paprika, 2.12 oz
+McCormick® Ground Mustard, 1.75 oz
+$5.99
+McCormick® Garlic and Olive Oil Seasoning Blend, 5.25 oz
+McCormick® Caramelized Onion Seasoning, 4.66 oz
+McCormick® Chili Garlic Seasoning, 5.22 oz
+McCormick® Chimichurri Flavored Seasoning, 2.47 oz
+McCormick® Perfect Pinch® Cajun Seasoning, 5 oz
+$6.99
+McCormick® Perfect Pinch® Gluten Free Salad Supreme Seasoning, 4.34 oz
+McCormick® Perfect Pinch® Green Goddess Seasoning, 4.23 oz
+McCormick® Perfect Pinch® Italian Seasoning, 1.31 oz
+McCormick® Original Taco Seasoning Mix, 1 oz (6-Pack)
+$8.99
+McCormick® Chili Seasoning Mix, 1.25 oz (6-Pack)
+$12.99
+McCormick® Brown Gravy Mix, 0.87 oz (6-Pack)
+$11.99
+McCormick® Garlic Ranch Crunchy Chicken Seasoning Mix, 1.25 oz
+McCormick® Au Jus Gravy Seasoning Mix, 1 oz (6-Pack)
+McCormick® Sloppy Joes Seasoning Mix, 1.31 oz (6-Pack)
+$14.99
+McCormick® Thick And Zesty Spaghetti Sauce Seasoning Mix, 1.37 oz (6-Pack)
+$13.99
+Meet Our Chefs
+McCormick Chefs are the masterminds behind some of your favorite recipes and flavor. Get to know them and their favorite recipes.
+From Our Chefs to Your Table
+Apps & Sides
+Entrées
+Harry Potter™ Butterbeer™
+Taco Rice
+Prep Time: 5m | Cook Time: 30m
+Honey Balsamic Carrots
+Prep Time: 10m | Cook Time: 22m
+Broccoli Cauliflower Casserole
+Prep Time: 20m | Cook Time: 40m
+Greek Lemon Potatoes
+Prep Time: 5m | Cook Time: 20m
+Garlic Mashed Potatoes
+Prep Time: 5m | Cook Time: 5m
+Creamy Tuscan Chicken Pasta
+Prep Time: 10m | Cook Time: 15m
+Mediterranean Quinoa Bowl
+Prep Time: 10m | Cook Time: 20m
+Taco Tater Topped Casserole
+Prep Time: 10m | Cook Time: 40m
+Garlic and Olive Oil Shrimp
+Prep Time: 5m | Cook Time: 10m
+One Pot Pasta
+Prep Time: 5m | Cook Time: 25m
+Chicken Caesar Smash Tacos
+Slow Cooker Tuscan Chicken
+Prep Time: 5m | Cook Time: 6h
+Italian Meatloaf
+Prep Time: 10m | Cook Time: 1h
+Butterbeer Finishing Sugar Blondies
+Butterbeer Finishing Sugar White Hot Chocolate
+Butterbeer Finishing Sugar Crispy Treats
+Explore More Recipes from McCormick
+Apple Pie Snack Cake
+Prep Time: 10m | Cook Time: 35m
+Apple Pie Float
+Apple Pie Whoopie Pies
+Prep Time: 10m | Cook Time: 14m
+Smoky Garlic and Rosemary Bloody Mary
+Smoky Scalloped Potatoes
+Prep Time: 15m | Cook Time: 1h25m
+Smoky Applewood Bacon Mac and Cheese
+Prep Time: 20m | Cook Time: 1h
+Ranch Smashed Potatoes
+Ranch Chicken Flatbread
+Recently Viewed
+Discover Recipes from Our Other Brands
+Availability
+Sale price Original price Price Quantity of {{ item.product_title }} {{ item.quantity }} Remove : {{ isBundleVisible(item) ? 'Hide' : 'Show' }} items Bundle Name
+Bundle Name
+Product name
+Back in stock description
+Please login to save this recipe

@@ -1,0 +1,73 @@
+Pineapple Agua Fresca
+=====================
+
+Recipe Metadata
+---------------
+Recipe ID: 07f4f32394985d9c
+CSV row number: 344
+Recipe name: Pineapple Agua Fresca
+Source: naivecookcooks.com
+URL: http://www.naivecookcooks.com/pineapple-agua-fresca/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/022ea6857825f1be1dc1a327592efc8c3c82d2e3bb3dac2870d90f20ae4a8532/21135290.jpg
+Servings: 4
+Calories: 472.66
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean
+Meal type: snack
+Dish type: drinks
+
+Original CSV Fields
+-------------------
+recipe_name: Pineapple Agua Fresca
+source: naivecookcooks.com
+url: http://www.naivecookcooks.com/pineapple-agua-fresca/
+servings: 4
+calories: 472.6600000000001
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/022ea6857825f1be1dc1a327592efc8c3c82d2e3bb3dac2870d90f20ae4a8532/21135290.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["snack"]
+dish_type: ["drinks"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Skip to main content
+Skip to primary sidebar
+Skip to footer
+Pineapple agua fresca – fruity, crowd pleasing non alcoholic drink! Perfect for enjoying warm weather!
+I have been waiting for this week to get over soon. It’s been a long and hectic week and I have a big list of things to do for this weekend, the top contender being sleeping and that too lots and lots of it. What were you thinking?! You thought for a while that she is crazy enough to make things to do list for the weekend too. Actually I do but for now the only thing on my mind is sleep and this drink.
+While typing this, there is a huge bowl of pizza dough rising in the microwave and a big jug filled with pineapple agua fresca chilling for dinner. Pizza + fruity drink = perfect dinner in my world.
+This drink! Surprisingly I have had lots of agua frescas in my lifetime but until this I never knew what they really were. Lol.
+When I came across this recipe while reading a magazine, I was intrigued and surprised as it seemed so simple. I was little hesitant about the flavours but thought what could possible go wrong by mixing pineapple, water, sugar and lime.
+I knew for sure that fruits & tons of lime make every drink taste better.So finally I made this and I wonder why I waited for so long?!
+Run and buy yourself a pineapple and make this! Trust me it will make your Friday dinner more enjoyable!
+On another note, I saw lots of people talking about Kentucky Derby and wondered how many of you are either going or doing stuff around those dates?! I have never been to one or celebrated one, so kind of interested in knowing. If you are spending time with friends or throwing a party or just for quick get togethers, you should seriously make these! Its like fruit heaven in a glass!
+Pineapple Agua Fresca Save Print Author: Naive Cook Cooks Serves: 6-8 Ingredients 1 medium pineapple ( ~ 5 cups chopped) 6 cups water, cold 7 Tbsp sugar or honey or any other sweetener to taste ( I used fine white cane sugar) Juice of 4 limes Instructions In a high power blender add pineapple chunks and water and blend on high until smooth. I did it in two batches. You can do in as many batches as you want depending on the capacity of your blender. Strain the blended mix in a big jug. To it add sugar or any sweetener using and lime juice. Stir it and taste. Add more sugar or lime juice per taste. Chill for at least 5-6 hours or overnight. 3.5.3208 More Drink Recipes:
+1 medium pineapple ( ~ 5 cups chopped)
+6 cups water, cold
+7 Tbsp sugar or honey or any other sweetener to taste ( I used fine white cane sugar)
+Juice of 4 limes
+In a high power blender add pineapple chunks and water and blend on high until smooth. I did it in two batches. You can do in as many batches as you want depending on the capacity of your blender. Strain the blended mix in a big jug. To it add sugar or any sweetener using and lime juice.
+Stir it and taste. Add more sugar or lime juice per taste.
+Chill for at least 5-6 hours or overnight.
+Iced Green Tea Punch
+Green Bloody Mary Verde
+Jalapeno Watermelon Lemonade
+Reader Interactions
+Comments
+This looks very refreshing! Reply
+This looks very refreshing!
+Leave a Reply Cancel reply
+Footer
+My Fav Cookbooks
+Reader’s Favorite Recipes
+Look Around

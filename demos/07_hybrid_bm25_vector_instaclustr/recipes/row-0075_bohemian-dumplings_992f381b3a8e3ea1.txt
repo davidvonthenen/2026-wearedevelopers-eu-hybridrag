@@ -1,0 +1,65 @@
+Bohemian Dumplings
+==================
+
+Recipe Metadata
+---------------
+Recipe ID: 992f381b3a8e3ea1
+CSV row number: 75
+Recipe name: Bohemian Dumplings
+Source: Foodista
+URL: http://www.foodista.com/recipe/W6TGTSTC/bohemian-dumplings
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/005f7483a104c44dbb433044351420b26fec086f61c314c11a6afeef59964f6f/21106298.jpg
+Servings: 4
+Calories: 1271.01
+Diet labels: Low-Fat
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: chinese
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Bohemian Dumplings
+source: Foodista
+url: http://www.foodista.com/recipe/W6TGTSTC/bohemian-dumplings
+servings: 4
+calories: 1271.012
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/005f7483a104c44dbb433044351420b26fec086f61c314c11a6afeef59964f6f/21106298.jpg
+diet_labels: ["Low-Fat"]
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["chinese"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Total Steps
+3
+Ingredients
+6
+Tools Needed
+4
+Related Article
+2 <a href="/2PVT278D">eggs,</a> beaten
+0.5 cup <a href="/FPQGTBZG">whole milk</a>
+2 cup <a href="/4YMSSPXL">flour</a>
+2 teaspoon <a href="/J2KTPXCW">baking powder</a>
+0.5 teaspoon <a href="/XBPNFKYS">salt</a>
+2 slices <a href="/3TJ3LFDS">white bread </a>or <a href="/D67QJCKT">rye,</a> toasted and cubed
+Instructions
+Step 1
+<a href="/7S3QCKWK">Mix </a>eggs and milk and set aside. Sift together flour, <a href="/HF7TLMS7">baking powder,</a> and <a href="/DPSVTKVY">salt. </a>Place sifted <a href="/RF7SRX43">dry </a>ingredients in a large wooden bowl. Make a well in <a href="/RF7SRX43">dry </a>ingredients and add milk and egg mixture. <a href="/DRM2WPZ4">Stir. </a>Note: (When <a href="/7S3QCKWK">mixing </a>dough, use wooden <a href="/NX588QBK">spoon,</a> not mixer. Dumplings will flop if you do.) Add <a href="/482ZKJDV">bread </a>cubes. <a href="/DRM2WPZ4">Stir. </a>Dough will be sticky. With floured hands, shape dough into 2 loaves, about 5-1/2 inches long. Cover with a large bowl and let rest for 30 minutes. Option: I add a tsp. of caraway <a href="/FYFCQVPR">seeds </a>to the mixture when <a href="/7S3QCKWK">mixing </a>but it's optional.
+Step 2
+Meanwhile, fill a large pot half full with water. Bring to a <a href="/W7VKDJHH">boil. </a>Reshape dough with hands and drop into water. <a href="/W7VKDJHH">Boil,</a> covered, for 12 minutes. Carefully <a href="/B52FHCF2">turn </a>dumplings and <a href="/W7VKDJHH">boil </a>12 minutes more. Using a large spatula, lift dumplings to a platter. <a href="/45BJSPGG">Prick </a>a few times to let <a href="/WPFKW7GH">steam </a>escape. <a href="/XZBDDD5G">Cut </a>into <a href="/3JDX2Q84">slices </a>with sewing <a href="/Z27T5R5G">thread.</a>
+Step 3
+Warning you must let the dumplings <a href="/W7VKDJHH">boil </a>for 12 minutes each side or run the risk of it flopping. And it will flop.
+Tools & Equipment
+Cookie Consent
+We use cookies to enhance your browsing experience, serve personalized content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies. Learn more

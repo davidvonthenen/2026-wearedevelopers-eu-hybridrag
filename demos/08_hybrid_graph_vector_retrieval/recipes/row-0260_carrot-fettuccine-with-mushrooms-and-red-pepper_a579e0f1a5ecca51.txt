@@ -1,0 +1,358 @@
+Carrot Fettuccine With Mushrooms and Red Pepper
+===============================================
+
+Recipe Metadata
+---------------
+Recipe ID: a579e0f1a5ecca51
+CSV row number: 260
+Recipe name: Carrot Fettuccine With Mushrooms and Red Pepper
+Source: completerecipes.com
+URL: https://completerecipes.com/carrot-fettuccine-with-mushrooms-and-red-pepper.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/019f54173b916c8b66ec400a81cf268836621c82e1687eff3559748a3dce4bf5/21125688.jpg
+Servings: 4
+Calories: 414.90
+Diet labels: none listed
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Carrot Fettuccine With Mushrooms and Red Pepper
+source: completerecipes.com
+url: https://completerecipes.com/carrot-fettuccine-with-mushrooms-and-red-pepper.html
+servings: 4
+calories: 414.9005054166667
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/019f54173b916c8b66ec400a81cf268836621c82e1687eff3559748a3dce4bf5/21125688.jpg
+diet_labels: []
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Sign in
+Home
+Submit Recipe
+Top Rated
+Healthy Recipes
+Carrot Fettuccine With Mushrooms and Red Pepper
+Prep Time:
+Cooking Time:
+Serves:
+Recipe Submitted by Herb on 11/19/2014
+Added to Cookbook Add to Cookbook
+Category: Healthy Recipes, Peppers, Mashrooms, Carrots
+Ingredients List
+1 1/2 tablespoons olive oil
+1 garlic clove, minced
+1/2 cup baby bella mushrooms, sliced
+1/2 cup diced red bell pepper
+2 tablespoons fresh basil, chopped
+1/2 cup cherry tomatoes, quartered
+3/4 cup marinara sauce
+3 large carrots, peeled
+Salt and pepper to taste
+1/2 tablespoon fresh basil, chopped, for garnish
+Directions
+Share this Recipe
+Quick & Easy
+Recipes by Course
+Appetizers Dips Spreads
+Dips
+Spreads
+Beverages Cocktails Punch Smoothies Shakes
+Cocktails
+Punch
+Smoothies
+Shakes
+Breads Coffee Cakes Flat Shapes Rolls Biscuits Yeast Quick Breads
+Coffee Cakes
+Flat Shapes
+Rolls
+Biscuits
+Yeast
+Quick Breads
+Breakfast Granolla & Porridge Omelets & Frittas Pancakes & Waffles
+Granolla & Porridge
+Omelets & Frittas
+Pancakes & Waffles
+Condiments Garnishes Jams & Preserves Jellies Marinades & Rubs Sauces Cooking Mixes
+Garnishes
+Jams & Preserves
+Jellies
+Marinades & Rubs
+Sauces
+Cooking Mixes
+Desserts Cakes Candy Cobblers Cookies Frozen Gelatin Pies Pudding & Mousses Cheesecakes
+Cakes
+Candy
+Cobblers
+Cookies
+Frozen
+Gelatin
+Pies
+Pudding & Mousses
+Cheesecakes
+Lunch/Snacks Snacks Sandwiches
+Snacks
+Sandwiches
+Main Dish Chili Curries Pizza Savory Pies Stews One-Dish Meal
+Chili
+Curries
+Pizza
+Savory Pies
+Stews
+One-Dish Meal
+Salads
+Side Dishes
+Soups Bisques/Cream Chowders Clear Stocks
+Bisques/Cream
+Chowders
+Clear
+Stocks
+Recipes by Main Ingredient
+Beans Black Beans Lentils Soy Chick Peas
+Black Beans
+Lentils
+Soy
+Chick Peas
+Chocolate
+Eggs/Dairy Cheese Eggs
+Cheese
+Eggs
+Fruit Apples Berries Citrus Melons Nuts Pears Pitted Tropical
+Apples
+Berries
+Citrus
+Melons
+Nuts
+Pears
+Pitted
+Tropical
+Meat Beef Lamb/Sheep Pork Poultry Wild Game Chicken
+Beef
+Lamb/Sheep
+Pork
+Poultry
+Wild Game
+Chicken
+Seafood Fish No Shell Shellfish
+Fish
+No Shell
+Shellfish
+Vegetables Asparagus Broccoli Carrots Cauliflower Corn Beens Greens Mashrooms Onions Peppers Potatoes Squash Tomatoes
+Asparagus
+Broccoli
+Carrots
+Cauliflower
+Corn
+Beens
+Greens
+Mashrooms
+Onions
+Peppers
+Potatoes
+Squash
+Tomatoes
+Pasta, Rice & Grains Pasta Rice Grains
+Pasta
+Rice
+Grains
+Recipes by Cuisine
+African Ethiopian Egyptian South African Sub-Saharan Moroccan Libyan Angolan Congolese Namibian Somalian Sudanese
+Ethiopian
+Egyptian
+South African
+Sub-Saharan
+Moroccan
+Libyan
+Angolan
+Congolese
+Namibian
+Somalian
+Sudanese
+Asian Chinese Japanese Korean Thai Indian Georgian Turkish Iraqi Iranian Indonesian Filipino Malaysian Vietnamese Laotian Cambodian Mongolian Nepalese Pakistani Palestinian Saudi Arabian
+Chinese
+Japanese
+Korean
+Thai
+Indian
+Georgian
+Turkish
+Iraqi
+Iranian
+Indonesian
+Filipino
+Malaysian
+Vietnamese
+Laotian
+Cambodian
+Mongolian
+Nepalese
+Pakistani
+Palestinian
+Saudi Arabian
+European Italian German Spanish English Greek Polish Russian Hungarian Czech Portuguese Austrian Belgian Dutch French Irish Scottish Swiss Welsh Danish Finnish Icelandic Swedish Norwegian
+Italian
+German
+Spanish
+English
+Greek
+Polish
+Russian
+Hungarian
+Czech
+Portuguese
+Austrian
+Belgian
+Dutch
+French
+Irish
+Scottish
+Swiss
+Welsh
+Danish
+Finnish
+Icelandic
+Swedish
+Norwegian
+North American Canadian Central American Mexican United States Native American
+Canadian
+Central American
+Mexican
+United States
+Native American
+Oceania Australian Hawaiian New Zealand Polynesian
+Australian
+Hawaiian
+New Zealand
+Polynesian
+South American Argentinean Brazilian Chilean Colombian Ecuadorean Venezuelan
+Argentinean
+Brazilian
+Chilean
+Colombian
+Ecuadorean
+Venezuelan
+Recipes by Preparation
+Equipment Casseroles Freezer Microwave Refrigerator Barbeque Grill Crockpot
+Casseroles
+Freezer
+Microwave
+Refrigerator
+Barbeque
+Grill
+Crockpot
+Technique Canning Deep Fry Steam Brewing No Cook
+Canning
+Deep Fry
+Steam
+Brewing
+No Cook
+Presentation Finger Food Served Cold Served Hot
+Finger Food
+Served Cold
+Served Hot
+Inexpensive
+Recipes by Occasion
+Holiday Christmas Easter Ramadan Hanukka Independence Thanksgiving Valentine's Day New Years
+Christmas
+Easter
+Ramadan
+Hanukka
+Independence
+Thanksgiving
+Valentine's Day
+New Years
+Brunch
+Dinner Party
+Gifts
+Seasonal Spring Summer Winter Fall
+Spring
+Summer
+Winter
+Fall
+To Go.. Picnic Camping Brown Bag
+Picnic
+Camping
+Brown Bag
+Kids
+Recipes by Dietary
+Diabetic
+Low in.. Low Fat Low Calorie Low Cholesterol Low Carbonade
+Low Fat
+Low Calorie
+Low Cholesterol
+Low Carbonade
+Vegetarian
+High in.. High Calcium High Fiber High Protein
+High Calcium
+High Fiber
+High Protein
+Kosher
+Sign Up and Create a Cookbook Today!
+Please Sign in to your Account or Sign up if you are new user.
+Who loves our Healthy Recipes?
+The Free Site
+Free Greeting Cards
+Quick Links
+Submit
+Sign Up
+Copyright Policy
+Contact Us
+Facebook
+Twitter
+Google
+pinut
+rss
+Course
+Appetizers
+Beverages
+Breads
+Breakfast
+Condiments
+Desserts
+Lunch/Snacks
+Main Dish
+Soups
+Main Ingredient
+Beans
+Eggs/Dairy
+Fruit
+Meat
+Pasta, Rice & Grains
+Seafood
+Vegetables
+Cuisine
+African
+Asian
+European
+North American
+Oceania
+South American
+Preparation
+Equipment
+Presentation
+Technique
+Occasion
+Holiday
+Seasonal
+To Go..
+Dietary
+High in..
+Low in..
+Copyright © 2016, CompleteRecipes.com
+Terms of Service
+/
+Privacy
+Copyright © 2015, CompleteRecipes.com

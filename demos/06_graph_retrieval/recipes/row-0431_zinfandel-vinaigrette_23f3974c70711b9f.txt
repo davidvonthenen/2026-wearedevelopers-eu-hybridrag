@@ -1,0 +1,96 @@
+Zinfandel Vinaigrette
+=====================
+
+Recipe Metadata
+---------------
+Recipe ID: 23f3974c70711b9f
+CSV row number: 431
+Recipe name: Zinfandel Vinaigrette
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/15130/zinfandel-vinaigrette/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02c0e41e114398c5076cbe85d24433ac60e934b983305fb3aa86170067ba72fe/21108786.jpg
+Servings: 8
+Calories: 1465.06
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Vegan, Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: french
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Zinfandel Vinaigrette
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/15130/zinfandel-vinaigrette/
+servings: 8
+calories: 1465.058191605769
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02c0e41e114398c5076cbe85d24433ac60e934b983305fb3aa86170067ba72fe/21108786.jpg
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["french"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Zinfandel Vinaigrette
+
+Description: The two most important ingredients for this or any vinaigrette are the olive oil and the vinegar. For the oil try using cold pressed, extra virgin, and made from 100% Italian olives. For the vinegar, try using a 40 year old sherry vinegar from Spain. Also try adding a dash of Dijon mustard for a kick to this dressing.
+
+Yield: ['8', '1 cup']
+
+Prep time: PT15M
+
+Total time: PT815M
+
+Ingredients:
+- 0.75 cup extra virgin olive oil
+- 2 ounces sherry wine vinegar
+- 2 tablespoons minced shallots
+- 1 tablespoon chopped fresh parsley
+- 1 teaspoon chopped fresh basil
+- 1 clove garlic, minced
+- salt and pepper to taste
+
+Instructions:
+1. Whisk together the olive oil, wine or sherry vinegar, shallot, parsley, basil, garlic, salt and pepper. Allow to refrigerate overnight. Remove from refrigerator and serve at room temperature.
+
+Visible page text:
+Recipes
+Zinfandel Vinaigrette
+The two most important ingredients for this or any vinaigrette are the olive oil and the vinegar. For the oil try using cold pressed, extra virgin, and made from 100% Italian olives. For the vinegar, try using a 40 year old sherry vinegar from Spain. Also try adding a dash of Dijon mustard for a kick to this dressing.
+Ingredients
+¾ cup extra virgin olive oil
+2 ounces sherry wine vinegar
+2 tablespoons minced shallots
+1 tablespoon chopped fresh parsley
+1 teaspoon chopped fresh basil
+1 clove garlic, minced
+salt and pepper to taste
+Directions
+Whisk together the olive oil, wine or sherry vinegar, shallot, parsley, basil, garlic, salt and pepper. Allow to refrigerate overnight. Remove from refrigerator and serve at room temperature.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Zinfandel Vinaigrette
+1
+Most-Saved Recipes Like This
+Honey Balsamic Vinaigrette 306 Ratings 15 mins Save
+Caesar Vinaigrette 55 Ratings 15 mins Save
+Orange Vinaigrette 148 Ratings 5 mins Save
+Susan's Vinaigrette Coleslaw 110 Ratings 2 hrs 15 mins Save
+Basil Vinaigrette 165 Ratings 10 mins Save
+Vinaigrette 133 Ratings 5 mins Save
+Honey-Balsamic Vinaigrette 143 Ratings 5 mins Save
+Maple-Balsamic Vinaigrette 151 Ratings 10 mins Save
+Mustard Vinaigrette 224 Ratings 10 mins Save
+Mussels Vinaigrette 7 Ratings 35 mins Save
+You’ll Also Love

@@ -1,0 +1,172 @@
+Lemon Orzo Pasta Salad recipes
+==============================
+
+Recipe Metadata
+---------------
+Recipe ID: b76578bfdabf3d56
+CSV row number: 276
+Recipe name: Lemon Orzo Pasta Salad recipes
+Source: ohsweetbasil.com
+URL: http://www.ohsweetbasil.com/lemon-orzo-pasta-salad-recipe
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01be310c9de108049c8477b0d5cedbdb339b3cb65de688f9da6a47aa17547e8e/21133633.jpeg
+Servings: 9
+Calories: 3000.77
+Diet labels: Balanced, High-Fiber
+Health labels: Vegan, Vegetarian, Dairy-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Lemon Orzo Pasta Salad recipes
+source: ohsweetbasil.com
+url: http://www.ohsweetbasil.com/lemon-orzo-pasta-salad-recipe
+servings: 9
+calories: 3000.774929320569
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01be310c9de108049c8477b0d5cedbdb339b3cb65de688f9da6a47aa17547e8e/21133633.jpeg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Lemon Orzo Pasta Salad
+
+Description: This lemon orzo pasta salad isn&#039;t creamy (in fact, it&#039;s dairy-free), but it&#039;s certainly flavorful and just right for spring/summer weather with lots of fresh basil and freshly squeezed lemon juice.
+
+Recipe category: ['100 Family Favorite Easy Healthy Recipes']
+
+Yield: ['10']
+
+Prep time: PT10M
+
+Cook time: PT10M
+
+Total time: PT40M
+
+Ingredients:
+- 16 Ounces Orzo Pasta
+- 3 Lemons (juiced, more or less to taste)
+- 1/4 Cup Olive Oil (extra-virgin)
+- 2 teaspoon Vinegar (apple cider )
+- 1/2 teaspoon Garlic (minced )
+- Salt and Pepper (to taste)
+- 1/2 Cup Almonds (sliced, chopped)
+- 15 Ounces Beans (cannellini, rinsed and drained)
+- 1/2 Cup Basil Leaves (packed, fresh, chopped (or as much as you like!))
+
+Instructions:
+1. Add water to a large saucepan and bring to a boil on the stove top.
+2. Once boiling, lightly salt the water and add orzo and stir.
+3. Let pasta cook for 8-10 minutes, stirring occasionally so that the pasta doesn&#x27;t stick.
+4. When pasta is to your preferred doneness, drain the water and add pasta to a bowl to cool.
+5. You&#x27;ll want to stir the pasta as it cools to ensure it doesn&#x27;t stick together.
+6. If it begins to stick, drizzle pasta with a little bit of olive oil and it should be fine.
+7. In a separate bowl, add lemon juice, olive oil, apple cider vinegar, garlic, salt, and pepper and whisk to combine.
+8. Pour over cooled orzo and stir to combine.
+9. Add almonds, cannellini beans, and basil and stir to combine evenly.
+10. Refrigerate the pasta salad for at least 30 minutes before serving.
+11. As the pasta will absorb some of the liquid as it is refrigerated, you may want to drizzle a little extra olive oil and lemon juice over top and stir in before serving.
+
+Visible page text:
+Your Guide To High Protein For Every Meal!
+Home › Recipes › Dinner › Pasta
+Lemon Orzo Pasta Salad
+By Carrian Cheney
+Updated Oct 06, 2025
+This post may contain references to products from one or more of our advertisers. Oh Sweet Basil may receive compensation when you click on links to such products.
+Hi everyone, it’s Alyssa again from My Sequined Life with a pasta side dish just perfect for get-togethers (Mother’s Day, anyone?). To me, pasta salads signify warmer weather on the horizon. For one they’re usually not served warm so they have a refreshing quality to them, and they play nicely with other barbecue accoutrements. Some are creamy and some are tangy, but either way pasta salad is a favorite of mine. If you like more classic orzo, you have to try this recipe!
+This lemon orzo pasta salad isn’t creamy (in fact, it’s dairy-free), but it’s certainly flavorful and just right for spring/summer weather with lots of fresh basil and freshly squeezed lemon juice. Chopped almonds, cannellini beans, and tomatoes are stirred into the mix for a little bit of crunch, protein, and veggie goodness. All you need to do is cook and drain the pasta, stir up the liquids, and and stir to combine everything. This recipe yields a fair amount of servings, making it a great dish to serve at a party, or you could even serve it as a main dish with chicken, shrimp, or your favorite protein over top. I’ve done that with grilled chicken and it instantly made me think ‘summer’!
+The great thing about pasta salads is that by and large they’re customizable. I used orzo here, but any sort of small shaped pastas would work, too. I’m thinking rotini, farfalle, even penne. The juice of three lemons are used here, but add as much (or as little) lemon juice as you like. I didn’t want the lemon to be too overpowering, but of course that’s all relative. Add enough to fit with your tastes! You can also sub in chickpeas for the cannellini beans (or omit entirely), add some chopped onion, etc.
+What is Orzo Pasta?
+Orzo, or sometimes called risoni, is a short-cut pasta resembling a long grain rice.
+Can Orzo be Cooked in a Rice Cooker?
+You can cook Orzo and other pastas in a rice cooker.
+Just put dry pasta in cooker and add water to cover. (maybe add to 1/8-1/4 inch above pasta).
+Add a little salt and about a tsp. oil and start cooker.
+Remove from cooker just as it switches to “warm” to avoid browning on the bottom.
+Is Orzo Healthier than Rice?
+Orzo and rice have about the same carbohydrate content, but orzo has twice the protein.
+Orzo can be used in place of rice in many recipes.
+Looking for more delicious ORZO RECIPES?
+Creamy Garlic Parmesan Orzo
+Ham Lemon Orzo with Parmesan and Peas
+Caprese Orzo Pasta
+Lemon Orzo with Parmesan and Peas
+Greek Orzo Pasta Salad
+Zupas Copycat Tomato Basil Orzo Soup
+Cuban Pasta Salad
+Teriyaki Chicken Pasta Salad
+Bacon Chicken Ranch Pasta Salad
+10 Minute Ranch Tortellini Pasta Salad
+Spring Ham and Asparagus Lemon Cream Pasta
+Turkey Tetrazzini with Crunchy Honey Dijon Topping
+15 Minute Pesto Pasta
+All our Pasta Recipes here !
+Ingredients 1x 2x 3x
+▢ 16 Ounces Orzo Pasta
+▢ 3 Lemons , juiced, more or less to taste
+▢ 1/4 Cup Olive Oil , extra-virgin
+▢ 2 teaspoon Vinegar , apple cider
+▢ 1/2 teaspoon Garlic , minced
+▢ Salt and Pepper , to taste
+▢ 1/2 Cup Almonds , sliced, chopped
+▢ 15 Ounces Beans , cannellini, rinsed and drained
+▢ 1/2 Cup Basil Leaves , packed, fresh, chopped (or as much as you like!)
+Instructions
+Add water to a large saucepan and bring to a boil on the stove top.
+Once boiling, lightly salt the water and add orzo and stir. 16 Ounces Orzo Pasta
+Let pasta cook for 8-10 minutes, stirring occasionally so that the pasta doesn't stick.
+When pasta is to your preferred doneness, drain the water and add pasta to a bowl to cool.
+You'll want to stir the pasta as it cools to ensure it doesn't stick together.
+If it begins to stick, drizzle pasta with a little bit of olive oil and it should be fine.
+In a separate bowl, add lemon juice, olive oil, apple cider vinegar, garlic, salt, and pepper and whisk to combine. 3 Lemons, 1/4 Cup Olive Oil, 2 teaspoon Vinegar, 1/2 teaspoon Garlic, Salt and Pepper
+Pour over cooled orzo and stir to combine.
+Add almonds, cannellini beans, and basil and stir to combine evenly. 1/2 Cup Almonds, 15 Ounces Beans, 1/2 Cup Basil Leaves
+Refrigerate the pasta salad for at least 30 minutes before serving.
+As the pasta will absorb some of the liquid as it is refrigerated, you may want to drizzle a little extra olive oil and lemon juice over top and stir in before serving.
+Recipe Notes
+Nutrition
+Nutrition information is automatically calculated, so should only be used as an approximation.
+Here are some more recipes for your next party!
+Easy Salsa Verde with Seasoned Tortilla Chips
+Baked Coconut Shrimp with Tropical Dipping Sauce
+Quick Onion Crescent Rolls
+Pepper Jack Bacon Ranch Dip
+About The Author
+Carrian Cheney
+Carrian Cheney is the creative force behind ‘Oh, Sweet Basil,’ a food blog she co-authors with her husband, Cade. She creates fresh, family-friendly recipes that encourage togetherness in the kitchen.
+Salad
+Chopped Green Goddess Salad
+Chicken
+Smoked Whole Chicken (How to Cook a Whole Chicken on a Traeger)
+Pasta Salad Recipes
+15 Easy Pasta Salad Recipes for Potlucks
+Dinner
+How to Make the Best Grilled Salmon
+Leave a comment Cancel reply
+6 Comments
+Made lemon orzo salad tonight. It was so easy to make and was delicious ! Reply Yay! Thank you so much for the feedback Lynn! Reply
+Made lemon orzo salad tonight. It was so easy to make and was delicious !
+Yay! Thank you so much for the feedback Lynn! Reply
+Yay! Thank you so much for the feedback Lynn!
+This was a big hit at the BBQ! So light and fresh, it was enjoyed by adults and children. Reply Love love love to hear this! Thank you so much Jill! Reply
+This was a big hit at the BBQ! So light and fresh, it was enjoyed by adults and children.
+Love love love to hear this! Thank you so much Jill! Reply
+Love love love to hear this! Thank you so much Jill!
+How many cherry tomatoes are recommended for the Lemon Orzo Pasta Salad? Thanks! Reply You could totally do however many you want! I’d say we probably throw in 2 dozen cherry tomatoes. Reply
+How many cherry tomatoes are recommended for the Lemon Orzo Pasta Salad? Thanks!
+You could totally do however many you want! I’d say we probably throw in 2 dozen cherry tomatoes. Reply
+You could totally do however many you want! I’d say we probably throw in 2 dozen cherry tomatoes.
+As Seen In
+© 2026 Oh Sweet Basil. • Privacy Policy • Accessibility • Powered by CultivateWP .

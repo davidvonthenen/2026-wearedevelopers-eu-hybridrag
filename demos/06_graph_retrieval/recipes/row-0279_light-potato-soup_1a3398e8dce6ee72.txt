@@ -1,0 +1,43 @@
+Light Potato Soup
+=================
+
+Recipe Metadata
+---------------
+Recipe ID: 1a3398e8dce6ee72
+CSV row number: 279
+Recipe name: Light Potato Soup
+Source: danagiltner.com
+URL: http://www.danagiltner.com/2015/01/light-potato-soup/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01c1237ac27104e03a3f12e419d2513a28389b670e20583ce203138d96f2e52b/21050194.jpg
+Servings: 4
+Calories: 962.53
+Diet labels: Balanced
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: soup
+
+Original CSV Fields
+-------------------
+recipe_name: Light Potato Soup
+source: danagiltner.com
+url: http://www.danagiltner.com/2015/01/light-potato-soup/
+servings: 4
+calories: 962.5286354166718
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01c1237ac27104e03a3f12e419d2513a28389b670e20583ce203138d96f2e52b/21050194.jpg
+diet_labels: ["Balanced"]
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["soup"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Error. Page cannot be displayed. Please contact your service provider for more details.

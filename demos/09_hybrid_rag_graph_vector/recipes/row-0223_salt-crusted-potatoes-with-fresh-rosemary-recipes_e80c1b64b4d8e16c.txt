@@ -1,0 +1,152 @@
+Salt Crusted Potatoes with Fresh Rosemary recipes
+=================================================
+
+Recipe Metadata
+---------------
+Recipe ID: e80c1b64b4d8e16c
+CSV row number: 223
+Recipe name: Salt Crusted Potatoes with Fresh Rosemary recipes
+Source: melskitchencafe.com
+URL: http://www.melskitchencafe.com/salt-crusted-potatoes-with-fresh-rosemary/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0168fb1189220fb8bffdab9c9dc04b01a733a33cf4588b3230fe3155249ed998/21078536.jpeg
+Servings: 6
+Calories: 1814.83
+Diet labels: High-Fiber, Low-Fat
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: british
+Meal type: lunch/dinner
+Dish type: starter
+
+Original CSV Fields
+-------------------
+recipe_name: Salt Crusted Potatoes with Fresh Rosemary recipes
+source: melskitchencafe.com
+url: http://www.melskitchencafe.com/salt-crusted-potatoes-with-fresh-rosemary/
+servings: 6
+calories: 1814.831562
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0168fb1189220fb8bffdab9c9dc04b01a733a33cf4588b3230fe3155249ed998/21078536.jpeg
+diet_labels: ["High-Fiber","Low-Fat"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["british"]
+meal_type: ["lunch/dinner"]
+dish_type: ["starter"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Salt Crusted Potatoes with Fresh Rosemary
+
+Recipe category: ['Side Dish']
+
+Recipe cuisine: ['American']
+
+Yield: ['6', '6 Servings']
+
+Prep time: PT10M
+
+Cook time: PT40M
+
+Total time: PT50M
+
+Ingredients:
+- 4-5 pounds baby red (white, yellow or purple potatoes (1 inch to 2 1/2 inches), can use a variety)
+- 1 tablespoon coarse kosher salt
+- 2 tablespoons olive oil
+- 2 tablespoons minced fresh rosemary leaves
+
+Instructions:
+1. Preheat the oven to 425 degrees F.
+2. Place the potatoes in a large bowl (if you have overly large ones, cut them in half so all the potatoes are about 1-inch to 2 1/2-inches). Toss to coat with olive oil, salt, and rosemary so all the flavors are evenly distributed.
+3. Transfer to a large, rimmed baking sheet and bake for 20 minutes.
+4. Turn the potatoes and continue to bake 18-22 minutes longer until they are fork tender.
+5. Serve hot; some of my family avoid the salty skins and go straight for the creamy middle, but I love the combination of both.
+
+Visible page text:
+About About Contact Friday Thoughts Gift Guides Favorite Things
+About
+Contact
+Friday Thoughts
+Gift Guides
+Favorite Things
+Recipes Recipe Index Main Dishes Desserts Breads 30-Minute Meals Breakfast Make-Ahead Meals Recipes the World Forgot
+Recipe Index
+Main Dishes
+Desserts
+Breads
+30-Minute Meals
+Breakfast
+Make-Ahead Meals
+Recipes the World Forgot
+The Best Recipes
+Menu Plans
+Mel’s Kitchen Cafe Cookbook: Available Now!
+Salt Crusted Potatoes with Fresh Rosemary
+These salt crusted potatoes with fresh rosemary bake until the outsides are crispy, then the insides are perfectly creamy and tender.
+Aren’t these colorful baby potatoes adorable? Looks aside, they are incredibly tasty, too.
+The teensy taters are crusted with salt, olive oil and rosemary and bake until the outsides are crispy and wrinkly and the insides are perfectly creamy and tender.
+I know, potato side dishes aren’t exactly the most exciting thing to see pop up here, especially after the extreme cookie dough overload earlier this week, but I also know that sometimes you need a really, really great side dish to go with a fabulous main dish (like this braised brisket , any one of these pork tenderloin numbers , or this sweet and spicy pot roast ) and that’s why these potatoes are here for you today.
+I loved-these-times-a-trillion especially with the fresh rosemary flavor.
+A few of my kids eschewed the salty skins and went straight for the creamy middle. I, and a few others, loved the combination of both the salty crust and the soft insides.
+Oh, and by the way, if you haven’t seen baby potatoes around, I’m guessing they will be easier to find than you think.
+As we’ve discussed before, I live in the middle of pretty much nowhere (not an insult because I love where I live; just the facts) and I found little two pound bags of these unique and colorful potatoes sitting right underneath the russets.
+This may not be true in all instances but usually, if I can find it at my grocery store, I’m pretty confident you can, too.
+One Year Ago: Red Chicken Chili Two Years Ago: Spooky Eats: Mummy-Dogs and Mummy Cookies Three Years Ago: Romaine Salad with Chicken, Cheddar, Apples, Spiced Pecans and Cranberry Vinaigrette
+Ingredients
+4-5 pounds baby red , white, yellow or purple potatoes (1 inch to 2 1/2 inches), can use a variety
+1 tablespoon coarse kosher salt
+2 tablespoons olive oil
+2 tablespoons minced fresh rosemary leaves
+Instructions
+Preheat the oven to 425 degrees F.
+Place the potatoes in a large bowl (if you have overly large ones, cut them in half so all the potatoes are about 1-inch to 2 1/2-inches). Toss to coat with olive oil, salt, and rosemary so all the flavors are evenly distributed.
+Transfer to a large, rimmed baking sheet and bake for 20 minutes.
+Turn the potatoes and continue to bake 18-22 minutes longer until they are fork tender.
+Serve hot; some of my family avoid the salty skins and go straight for the creamy middle, but I love the combination of both.
+Recommended Products
+Recipe Source: adapted slightly from a recipe sent to me by Emily B., a MKC reader (thanks, Emily!)
+Other Recipes Like This:
+Cheesy Funeral Potatoes {Au Gratin Potatoes}
+Melting Roasted Potatoes
+Cheesy Bacon and Garlic Butter Smashed Red Potatoes
+Herb-Roasted Potatoes
+Leave a Comment + Rate This Recipe Cancel reply
+15 comments on “Salt Crusted Potatoes with Fresh Rosemary”
+Monica — March 25, 2025 @ 9:40 pm Reply Your recipe was my inspiration to give leftover boiled new potatoes some flair: Although it is always better with fresh rosemary and garlic, in a pinch I used dried rosemary ( ground to a powder with a mortar and pestle) and combined with garlic salt. I rolled the potatoes lightly in oil, then the rosemary-salt blend. Quick, easy, and tasty!
+Your recipe was my inspiration to give leftover boiled new potatoes some flair: Although it is always better with fresh rosemary and garlic, in a pinch I used dried rosemary ( ground to a powder with a mortar and pestle) and combined with garlic salt. I rolled the potatoes lightly in oil, then the rosemary-salt blend. Quick, easy, and tasty!
+Sara J — March 8, 2021 @ 4:51 pm Reply “These are the best potatoes I’ve ever had.” “Why would I ever eat potatoes any other way?” Those are the comments I got from my family when we had this recipe. This is a keeper! Thanks, Mel!!
+“These are the best potatoes I’ve ever had.” “Why would I ever eat potatoes any other way?” Those are the comments I got from my family when we had this recipe. This is a keeper! Thanks, Mel!!
+Margo M Gardner — January 7, 2019 @ 6:18 pm Reply Oh my goodness these are SO delicious!! Tonight was one of those nights when making dinner was the last thing I wanted to do. Breakfast for dinner is my typical go to on nights when I don’t really want to cook – usually scrambled eggs, toast, and smoothies. Because these little potatoes are so easy I decided to add them to the meal too. So glad I did! Very little effort but it really made our breakfast for dinner feel like a more substantial meal. Thank you!!
+Oh my goodness these are SO delicious!! Tonight was one of those nights when making dinner was the last thing I wanted to do. Breakfast for dinner is my typical go to on nights when I don’t really want to cook – usually scrambled eggs, toast, and smoothies. Because these little potatoes are so easy I decided to add them to the meal too. So glad I did! Very little effort but it really made our breakfast for dinner feel like a more substantial meal. Thank you!!
+Emy — May 7, 2018 @ 3:22 pm Reply Wow! These are so simple to make, but produce impressive results! The colored baby potatoes make a really pretty dish and the flavor is crazy good! I will definitely use this side dish again – great with any of Mel’s pork tenderloin recipes, grilled pork chops, or grilled chicken. Thanks for another winner Mel!
+Wow! These are so simple to make, but produce impressive results! The colored baby potatoes make a really pretty dish and the flavor is crazy good! I will definitely use this side dish again – great with any of Mel’s pork tenderloin recipes, grilled pork chops, or grilled chicken. Thanks for another winner Mel!
+Ellisa — August 22, 2015 @ 9:46 pm Reply I lived in the Canary Islands for a while and these potatoes are similar to a typical dish there called Papas Arrugadas (“Wrinkled Potatoes”). In their case, you boil a pot of water with a whole bunch of salt and wait for the water to evaporate, leaving the potatoes crusted in the salt. Very yummy! I can’t wait to try these.
+I lived in the Canary Islands for a while and these potatoes are similar to a typical dish there called Papas Arrugadas (“Wrinkled Potatoes”). In their case, you boil a pot of water with a whole bunch of salt and wait for the water to evaporate, leaving the potatoes crusted in the salt. Very yummy! I can’t wait to try these.
+Nicole H — September 3, 2014 @ 5:08 pm Reply I’m not going to lie, I passed by this recipe when you first posted it, and now I wish that I hadn’t! I’m making these tonight for the second time in about 2 weeks and love how simple and delicious they are. They are so quick to put together and my family loves them! Thanks for another great recipe!
+I’m not going to lie, I passed by this recipe when you first posted it, and now I wish that I hadn’t! I’m making these tonight for the second time in about 2 weeks and love how simple and delicious they are. They are so quick to put together and my family loves them! Thanks for another great recipe!
+Becky — November 3, 2013 @ 8:58 am Reply I made these are they are wonderful! I actually found these potatoes at Aldi!
+I made these are they are wonderful!
+I actually found these potatoes at Aldi!
+Tahnycooks — October 14, 2013 @ 12:24 pm Reply As soon as your top picture popped up, it instantly made me say, YUM! The perfect potato! These look so delicious!
+As soon as your top picture popped up, it instantly made me say, YUM! The perfect potato! These look so delicious!
+Des — October 13, 2013 @ 1:54 am Reply One of my all time favorite way to cook potatoes. Love love love!
+One of my all time favorite way to cook potatoes. Love love love!
+Deborah — October 12, 2013 @ 11:02 pm Reply I am always on the lookout for a great side dish recipe. These look perfect!!
+I am always on the lookout for a great side dish recipe. These look perfect!!
+amy — October 11, 2013 @ 11:25 am Reply Yum, my hubsband loves potatoes. I also want to add that i indeed overloaded on your cookie dough recipe myself. I dont make a lot of treats but cookie dough is my weakness and i couldnt resist. Addicting and i did feel a little sick from too much but nevertheless the cookie.dough was great. Great recipe here too.
+Yum, my hubsband loves potatoes. I also want to add that i indeed overloaded on your cookie dough recipe myself. I dont make a lot of treats but cookie dough is my weakness and i couldnt resist. Addicting and i did feel a little sick from too much but nevertheless the cookie.dough was great. Great recipe here too.
+Erin @ The Spiffy Cookie — October 11, 2013 @ 11:17 am Reply Rosemary and potatoes were meant for eachother.
+Rosemary and potatoes were meant for eachother.
+kelly @ livelovepasta — October 11, 2013 @ 8:39 am Reply I love the simplicity of this recipe…and they look totally delish!!
+I love the simplicity of this recipe…and they look totally delish!!
+Stephanie @ PlainChicken — October 11, 2013 @ 8:19 am Reply YUM! These potatoes sound delicious!
+YUM! These potatoes sound delicious!
+Melanie @ carmelmoments.com — October 11, 2013 @ 7:52 am Reply They are adorable! I don’t know if I’ve ever seen purple potatoes. I must live a very sheltered life. 🙂
+They are adorable! I don’t know if I’ve ever seen purple potatoes. I must live a very sheltered life. 🙂
+Get my best recipes + tips straight to your inbox
+©2026 Mel's Kitchen Cafe . Design by Purr .

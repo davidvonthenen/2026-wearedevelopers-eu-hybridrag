@@ -1,0 +1,173 @@
+Best Bread Machine Bread recipes
+================================
+
+Recipe Metadata
+---------------
+Recipe ID: c52f35bbf3da03bf
+CSV row number: 411
+Recipe name: Best Bread Machine Bread recipes
+Source: sotastysoyummy.blogspot.com
+URL: http://sotastysoyummy.blogspot.com/2011/09/best-bread-machine-bread.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02a2481172730f129d6f1a9354f881371ced1c754d60f2a53d00f1404367262d/21044655.jpeg
+Servings: 4
+Calories: 2104.75
+Diet labels: Balanced
+Health labels: Vegan, Vegetarian, Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: breakfast
+Dish type: bread
+
+Original CSV Fields
+-------------------
+recipe_name: Best Bread Machine Bread recipes
+source: sotastysoyummy.blogspot.com
+url: http://sotastysoyummy.blogspot.com/2011/09/best-bread-machine-bread.html
+servings: 4
+calories: 2104.75
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02a2481172730f129d6f1a9354f881371ced1c754d60f2a53d00f1404367262d/21044655.jpeg
+diet_labels: ["Balanced"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["bread"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Monday, September 26, 2011
+Best Bread Machine Bread
+20 comments:
+I want a bread machine! But I hate the smell. I know, I'm crazy!! My mom still uses her bread maker all the time - I just sent her this recipe!
+Nothing is better then a fresh loaf of bread out of the oven. Thanks for sharing this post!
+I am totally trying this. No egg + homemade bread = happy momma!
+Your pictures are looking great girl! Keep it up!
+@Lauren Thanks! As long as I have time to take the picture...I feel like I can get a good shot. But I am normally rushing to get dinner on the table...with waiting a hungry husband and toddler.
+Great picture! You've sold me on a bread machine. I saw about a billion of them at yard sales this summer. Picking one up in the spring for sure!
+I stopped using my bread machine book after I found this on allrecipes, too! It is perfect, every single time.
+This looks delicious. Your photos have been looking great lately!
+@Kelsey Thanks so much! I have been shooting in manual mode and I am learning as I go. Miss F has started school three days a week and I have LOTS of free time now.
+I am constantly making bread in my bread machine, since my hubby is such a carb-a-holic. This is by far the best basic recipe I've tried. I was able to cut the bread into thin slices without it falling apart and it was so, so yummy. Also, I loved the fact that I didn't have to check and stir during the mix cycle like I frequently have to.
+Looks lovely! Can I add dried fruit or chopped nuts to this? Would that affect the lightness of this loaf?
+This recipe makes wonderful bread without a ton of ingredients. I use my breadmaker on the dough setting and then make my breads in loafs or even cinnamon rolls. This recipe will make one medium loaf and six cinnamon rolls.
+Some time back, I bought a Zojirushi bread machine and this was done only after going through dozens of reviews about it. Yet, I was disappointed by how my bread turns out. I think I know why now. I guess it must be because I've been following the manual too religiously :) I'll give your recipe a shot. Wish me luck :)
+Is this suppose to be a 2lb loaf or a 1.5lb loaf? So far, I've been making it in my breadmaker as a 2lb loaf and it's turning out fine. I just wonder if it would turn out different if I set it to 1.5lbs?
+Very simple and worked so well. I will always use this recipe for my simple white bread if I'm not using a delayed timer.
+It's quite bold to say this is the best bread recipe yet it holds up by every standard! Not only is it the best but it's the easiest too. it couldn't be easier to make and clean up is a breeze. The entire house smells delicious! After sending this off with my friend he wrote back to tell me that it makes an incredible French toast. Thank you for this recipe who ever met who ever provided it... you're a doll! You're making the Nashville mom look like I've got mad baking skills. Please shhhhhh.. Don't tell. Lol
+This turned out to be the best bread I've EVER made. My friend took a loaf with him & said it made excellent French Toast. I have dental issues & am not able to eat foods that are hard to chew; the crust is even easy for me. THANK YOU THANK YOU to the doll who posted this!
+Also...for perfect slices. Electric Carving knife works wonderfully.
+bread turned out perfect - Thanks for the recipe.
+This is really nice information you posted, It's very informative and definitely, will be helpful for those who are looking for best bread knifes. To know more about visit best bread knife
+Post a Comment
+Tasty & Yummy Search
+Tastier and Yummier Blogs
+Budget Bytes Meatloaf Casserole
+APPLE A DAY Easy Chicken Fajita Bowls
+Tide and Thyme Pawpaw Margaritas
+elly says opa Chicken and Butternut Gnocchi
+Macaroni and Cheesecake Red Velvet Sugar Cookies
+The Barbee Housewife Spring Cobb Salad #BrunchWeek
+Stick a Fork in It Pumpkin Cupcakes with Cinnamon Cream Cheese Frosting
+Pink Parsley Summer Favorites
+The Brewer & The Baker Pressure Cooker French Dip Sandwiches
+Labels
+Followers
+About Me
+Blog Archive
+► 2018 (2) ► March (2)
+► March (2)
+► 2017 (67) ► October (8) ► September (5) ► August (7) ► July (3) ► June (9) ► May (7) ► April (8) ► March (9) ► February (2) ► January (9)
+► October (8)
+► September (5)
+► August (7)
+► July (3)
+► June (9)
+► May (7)
+► April (8)
+► March (9)
+► February (2)
+► January (9)
+► 2016 (98) ► December (8) ► November (7) ► October (9) ► September (8) ► August (9) ► July (7) ► June (9) ► May (8) ► April (8) ► March (9) ► February (8) ► January (8)
+► December (8)
+► November (7)
+► October (9)
+► September (8)
+► August (9)
+► July (7)
+► May (8)
+► February (8)
+► January (8)
+► 2015 (121) ► December (7) ► November (8) ► October (9) ► September (7) ► August (8) ► July (9) ► June (12) ► May (12) ► April (12) ► March (12) ► February (12) ► January (13)
+► December (7)
+► November (8)
+► September (7)
+► August (8)
+► July (9)
+► June (12)
+► May (12)
+► April (12)
+► March (12)
+► February (12)
+► January (13)
+► 2014 (153) ► December (14) ► November (10) ► October (14) ► September (12) ► August (13) ► July (12) ► June (13) ► May (13) ► April (13) ► March (13) ► February (12) ► January (14)
+► December (14)
+► November (10)
+► October (14)
+► September (12)
+► August (13)
+► July (12)
+► June (13)
+► May (13)
+► April (13)
+► March (13)
+► January (14)
+► 2013 (154) ► December (13) ► November (13) ► October (13) ► September (12) ► August (13) ► July (14) ► June (11) ► May (14) ► April (13) ► March (13) ► February (12) ► January (13)
+► December (13)
+► November (13)
+► October (13)
+► July (14)
+► June (11)
+► May (14)
+► 2012 (157) ► December (13) ► November (13) ► October (14) ► September (12) ► August (14) ► July (13) ► June (13) ► May (14) ► April (13) ► March (12) ► February (13) ► January (13)
+► August (14)
+► July (13)
+► February (13)
+▼ 2011 (157) ► December (13) ► November (13) ► October (14) ▼ September (13) Pork Chops and Peppers Crispy Potato Roast Best Bread Machine Bread Recipe Swap: Ham and Swiss Double Pinwheels Double Chocolate Banana Bread Spicy Sweet Potato Wedges Baked Penne with Chicken and Sun-Dried Tomatoes Naan Pumpkin Powdered Doughnuts Lemony Potato Rounds Crab Rangoon Beer Braised Chicken Thighs Chocolate Iced Doughnuts ► August (14) ► July (12) ► June (14) ► May (13) ► April (13) ► March (13) ► February (12) ► January (13)
+▼ September (13) Pork Chops and Peppers Crispy Potato Roast Best Bread Machine Bread Recipe Swap: Ham and Swiss Double Pinwheels Double Chocolate Banana Bread Spicy Sweet Potato Wedges Baked Penne with Chicken and Sun-Dried Tomatoes Naan Pumpkin Powdered Doughnuts Lemony Potato Rounds Crab Rangoon Beer Braised Chicken Thighs Chocolate Iced Doughnuts
+Pork Chops and Peppers
+Crispy Potato Roast
+Recipe Swap: Ham and Swiss Double Pinwheels
+Double Chocolate Banana Bread
+Spicy Sweet Potato Wedges
+Baked Penne with Chicken and Sun-Dried Tomatoes
+Naan
+Pumpkin Powdered Doughnuts
+Lemony Potato Rounds
+Crab Rangoon
+Beer Braised Chicken Thighs
+Chocolate Iced Doughnuts
+► June (14)
+► 2010 (130) ► December (15) ► November (15) ► October (8) ► September (9) ► August (9) ► July (11) ► June (12) ► May (11) ► April (11) ► March (11) ► February (6) ► January (12)
+► December (15)
+► November (15)
+► September (9)
+► July (11)
+► May (11)
+► April (11)
+► March (11)
+► February (6)
+► January (12)
+► 2009 (128) ► December (9) ► November (7) ► October (8) ► September (5) ► August (13) ► July (15) ► June (24) ► May (13) ► April (17) ► March (17)
+► December (9)
+► July (15)
+► June (24)
+► April (17)
+► March (17)
+► 2008 (9) ► September (1) ► February (8)
+► September (1)
+Visitors

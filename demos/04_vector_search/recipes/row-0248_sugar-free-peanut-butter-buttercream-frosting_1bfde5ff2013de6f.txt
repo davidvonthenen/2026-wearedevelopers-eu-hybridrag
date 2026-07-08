@@ -1,0 +1,119 @@
+Sugar Free Peanut Butter Buttercream Frosting
+=============================================
+
+Recipe Metadata
+---------------
+Recipe ID: 1bfde5ff2013de6f
+CSV row number: 248
+Recipe name: Sugar Free Peanut Butter Buttercream Frosting
+Source: sugarfreemom.com
+URL: https://www.sugarfreemom.com/recipes/sugar-free-peanut-butter-buttercream-frosting
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/018c1ff5bc6b449b6f3fd9e281a44c6db2814de5bbdec2a1a8663700d8f2388e/21075386.jpg
+Servings: 6
+Calories: 1583.07
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Sugar Free Peanut Butter Buttercream Frosting
+source: sugarfreemom.com
+url: https://www.sugarfreemom.com/recipes/sugar-free-peanut-butter-buttercream-frosting
+servings: 6
+calories: 1583.07
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/018c1ff5bc6b449b6f3fd9e281a44c6db2814de5bbdec2a1a8663700d8f2388e/21075386.jpg
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Sugar Free Peanut Butter Buttercream Frosting
+
+Yield: ['10']
+
+Prep time: PT2M
+
+Total time: PT2M
+
+Ingredients:
+- 1/2 cup sugar free organic peanut butter
+- 1/2 cuppowdered Swerve sweetener
+- 1 stick butter (softened)
+
+Instructions:
+1. Blend ingredients in a stand mixer until smooth.
+2. Does not need refrigeration if you are using right away. If you do refrigerate you will need to bring it room temperature for a few hours on the counter or microwave it to soften it and be able to spread easily on a cake.
+3. Here's the perfect Peanut Butter Cake to spread it on!
+
+Visible page text:
+Sugar Free Peanut Butter Buttercream Frosting made with just 3 ingredients!!!
+Are you thinking, “Oh geez not another peanut butter recipe?” Or are you thinking, “YES, ANOTHER peanut butter recipe!!?”
+I’m obviously into peanut butter lately from the last few recipes posted but I just can’t help it because I’ve got some really good ones to share! Also because Father’s Day is around the corner and my hubby is a peanut butter lover himself, this recipe and the one to follow is basically a gift to me…I mean HIM, wink wink 😉 !
+Sure you might say it looks exactly like really creamy peanut butter from a jar. Well, it might but it’s NOT.
+Real, no sugar added, nothing else added to it, peanut butter from a jar looks oily on top and clumpy and needs plenty of stirring to get it smooth like this.
+This here is FROSTING and not just any frosting but BUTTERCREAM frosting. Do I have your attention now? Sure this could easily be done with heavy cream and made into peanut butter whipped cream frosting but that’s not what my hubby likes. He likes buttercream and buttercream is what he’s getting. At least for Father’s Day anyway. On top of Peanut Butter Cake! Did I mention that?
+So just when you might be thinking I’m over the peanut butter recipes, I’m not. This frosting is going to top and incredible cake that will literally knock your socks off. I mean you will take one look at it and will be shocked it’s completely grain free, sugar free and low carb. But that’s to come, more on this frosting recipe.
+Whip it up well, taste and decide if you need more sweetener and then spread on whatever you fancy. Or grab a spoon but be careful this is hard to resist!
+If Swerve isn’t your sugar free sweetener of choice, use whatever you like to sweeten. Just use about 1/4 cup of any granulated sugar free sub then taste and adjust. Most other sugar free granulated sweeteners are much sweeter than Swerve. Fair warning: I did try this with granulated erythritol and it was gritty, tasty, but gritty.
+Sugar Free Peanut Butter Buttercream Frosting
+Ingredients
+1/2 cup sugar free organic peanut butter
+1/2 cuppowdered Swerve sweetener
+1 stick butter softened
+Instructions
+Blend ingredients in a stand mixer until smooth.
+Does not need refrigeration if you are using right away. If you do refrigerate you will need to bring it room temperature for a few hours on the counter or microwave it to soften it and be able to spread easily on a cake.
+Here's the perfect Peanut Butter Cake to spread it on!
+Nutrition
+About Brenda
+Brenda Bennett is a certified Nutritional Therapy Practitioner, certified Sugar Detox Coach, certified Keto Coach, and certified Life Coach. She has been Sugar Free & refined-carb free for 20 years and is the author of four cookbooks: Sugar-Free Mom, Naturally Keto, The 30-Day Sugar Elimination Diet, and her newest release, Good, Better, Best (2025). Her work focuses on helping women detox from sugar, eliminate cravings, balance blood sugar, and lose weight while enjoying delicious, nutrient-dense whole foods. Brenda is also the creator of the Midlife Macro™ Method and the weekly Midlife Macro Meal Plans™, designed specifically for women in perimenopause and menopause who want simple, high-protein, low-carb meals to support hormones, metabolism, and long-term health.She is the founder of the Sugar Free Fresh Start course and the Sugar Free Mom Tribe membership.
+Related Posts
+21 Comments
+This was a lovely creamy frosting.I added a cap full of vanilla extract, and a pinch of salt to the mix. The swerve sugar was kinda lumpy, so I put it in my magic bullet and made it really smooth that really helped. Reply Thanks!
+This was a lovely creamy frosting.I added a cap full of vanilla extract, and a pinch of salt to the mix. The swerve sugar was kinda lumpy, so I put it in my magic bullet and made it really smooth that really helped.
+Thanks!
+Very nice frosting and so easy to make. We don’t have any special dietary needs so I made it with unsalted butter, peanut butter powder and regular powdered sugar. Those are the ingredients we have in our pantry. It was the perfect topper for a brown butter cake! Reply Thank you!
+Very nice frosting and so easy to make. We don’t have any special dietary needs so I made it with unsalted butter, peanut butter powder and regular powdered sugar. Those are the ingredients we have in our pantry. It was the perfect topper for a brown butter cake!
+Thank you!
+Where do you find sugar free organic peanut butter ? Reply
+Where do you find sugar free organic peanut butter ?
+Anyone else sick of recipes saying “sugar free” and then they just add a cup of some other sweetener? I’ve been searching “sweetener free” and it all just leads me to these fake sugar filled recipes. Is it that hard to make fluffy thinking without any sweetener? Reply Hi Sam, Please do more research into stevia, erythritol and even monk fruit, which are completely natural sugar free sweeteners which do no spike blood sugar and are not at all in the same category as artificial stuff like Splenda and Aspartame. You can make any dessert you like on my website, even this frosting and leave out the sweetener and see how you like it.
+Anyone else sick of recipes saying “sugar free” and then they just add a cup of some other sweetener? I’ve been searching “sweetener free” and it all just leads me to these fake sugar filled recipes. Is it that hard to make fluffy thinking without any sweetener?
+Hi Sam, Please do more research into stevia, erythritol and even monk fruit, which are completely natural sugar free sweeteners which do no spike blood sugar and are not at all in the same category as artificial stuff like Splenda and Aspartame. You can make any dessert you like on my website, even this frosting and leave out the sweetener and see how you like it.
+Oh yummmm ! I replaced the butter with softened cream cheese and added 1/2 teaspoon of vanilla , added enough heavy cream to get the consistency I wanted and total deliciousness ! Reply
+Oh yummmm ! I replaced the butter with softened cream cheese and added 1/2 teaspoon of vanilla , added enough heavy cream to get the consistency I wanted and total deliciousness !
+Made the frosting but it is very runny. What can I do to make it stiffer? Reply Add more confectioners Swerve.
+Made the frosting but it is very runny. What can I do to make it stiffer?
+Add more confectioners Swerve.
+Wonder if you could sub peanut butter powder for the peanut butter? Reply Probably would be fine.
+Wonder if you could sub peanut butter powder for the peanut butter?
+Probably would be fine.
+You know, you can also try peanut butter powder, or (Protein Plus) peanut flour as a MUCH lighter substitute for actual peanut butter, or as a reduction. I’ve made my own sugar free, low cal & carb frostings this way, with peanut powder, and it still tastes awesome! You’ll be hungry quicker after, though. The peanut powder has so little fat, calories & carbs, but still the protein hit! I’ve used non-dairy milk, greek yogurt, pure erythritol and some stevia. Also, I’ve mixed in a little sugar with pure maple syrup or honey…or Truvia. Try sprinkling some cinnamon in there…wow…or a hit of shredded coconut. Reply
+You know, you can also try peanut butter powder, or (Protein Plus) peanut flour as a MUCH lighter substitute for actual peanut butter, or as a reduction. I’ve made my own sugar free, low cal & carb frostings this way, with peanut powder, and it still tastes awesome! You’ll be hungry quicker after, though. The peanut powder has so little fat, calories & carbs, but still the protein hit! I’ve used non-dairy milk, greek yogurt, pure erythritol and some stevia. Also, I’ve mixed in a little sugar with pure maple syrup or honey…or Truvia. Try sprinkling some cinnamon in there…wow…or a hit of shredded coconut.
+Could I sub the butter for say soy butter or coconut butter as I have an intolerance to dairy products…? Reply I would suggest using Earth Balance dairy free butter, but I don’t think coconut butter will work as well, too dry.
+Could I sub the butter for say soy butter or coconut butter as I have an intolerance to dairy products…?
+I would suggest using Earth Balance dairy free butter, but I don’t think coconut butter will work as well, too dry.
+I love peanut butter, where do I get swerve sweetner? Reply http://www.swervesweetener.com
+I love peanut butter, where do I get swerve sweetner?
+http://www.swervesweetener.com
+Could you please provide the peanut butter cake recipe. I really like your recipes. I am starting the New Adkins for New You diet for my life change healthy way of living. Thank you for all those great and wonderful recipes. Reply The cake will be posted on my blog tomorrow, Tuesday 6/16
+Could you please provide the peanut butter cake recipe. I really like your recipes. I am starting the New Adkins for New You diet for my life change healthy way of living. Thank you for all those great and wonderful recipes.
+The cake will be posted on my blog tomorrow, Tuesday 6/16
+Simple and healthy! Reply
+Simple and healthy!
+Who could possibly ever get tired of peanut butter recipes?!?! Peanut butter is such a “if you were trapped on a desert island and could only take one thing” kind of food 😀 Reply
+Who could possibly ever get tired of peanut butter recipes?!?! Peanut butter is such a “if you were trapped on a desert island and could only take one thing” kind of food 😀
+Leave a Reply Cancel reply

@@ -1,0 +1,115 @@
+Oven-Fried Chicken
+==================
+
+Recipe Metadata
+---------------
+Recipe ID: 1f761b362687d770
+CSV row number: 281
+Recipe name: Oven-Fried Chicken
+Source: food.com
+URL: http://www.food.com/recipe/oven-fried-chicken-291839
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01c4629b02b82877913a98db7202f1ddaccee88adffd2784e8c4a94e19b37a61/21134526.jpg
+Servings: 6
+Calories: 2535.10
+Diet labels: High-Protein, Low-Carb
+Health labels: Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Oven-Fried Chicken
+source: food.com
+url: http://www.food.com/recipe/oven-fried-chicken-291839
+servings: 6
+calories: 2535.098416666667
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01c4629b02b82877913a98db7202f1ddaccee88adffd2784e8c4a94e19b37a61/21134526.jpg
+diet_labels: ["High-Protein","Low-Carb"]
+health_labels: ["Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Oven-Fried Chicken
+
+Description: I found this recipe in &quot;The Everything Cookbook&quot;. This has to be one of my DH &amp; I's favorite recipe for chicken. We have also used it for fish, substituting breadcrumbs for cereal crumbs.
+
+Recipe category: Chicken Breast
+
+Yield: 4-6 serving(s)
+
+Prep time: PT15M
+
+Cook time: PT1H
+
+Total time: PT1H15M
+
+Ingredients:
+- 6 boneless skinless chicken breasts
+- 1/3 cup flour
+- 1/2 teaspoon salt
+- 1/4 teaspoon pepper
+- 1 egg
+- 1 tablespoon water
+- 1 cup finely crushed crisp rice cereal or 1 cup corn flakes
+- 3 tablespoons melted butter
+
+Instructions:
+1. Preheat oven to 350 degrees.
+2. Place the flour, salt, pepper in a shallow dish/zipped baggie.
+3. Beat egg lightly with water, place in seperate shallow dish.
+4. Place crushed cereal crumbs in another shallow dish.
+5. Rinse chicken.
+6. Dip chicken in flour mix, coat evenly. Shake off excess flour.
+7. Dip chicken in egg mix, coat evenly.
+8. Roll chicken in cereal crumbs.
+9. Place chicken on a cookie sheet that has been sprayed with non-fat cooking spray.
+10. Drizzle with melted butter.
+11. Bake 45 minutes - 1 hour.
+12. Do not turn while baking.
+
+Visible page text:
+Oven-Fried Chicken
+ingredients
+6 boneless skinless chicken breasts
+1 ⁄ 3 cup flour
+1 ⁄ 2 teaspoon salt
+1 ⁄ 4 teaspoon pepper
+1 egg
+1 tablespoon water
+1 cup finely crushed crisp rice cereal or 1 cup corn flakes
+3 tablespoons melted butter
+directions
+Preheat oven to 350 degrees.
+Place the flour, salt, pepper in a shallow dish/zipped baggie.
+Beat egg lightly with water, place in seperate shallow dish.
+Place crushed cereal crumbs in another shallow dish.
+Rinse chicken.
+Dip chicken in flour mix, coat evenly. Shake off excess flour.
+Dip chicken in egg mix, coat evenly.
+Roll chicken in cereal crumbs.
+Place chicken on a cookie sheet that has been sprayed with non-fat cooking spray.
+Drizzle with melted butter.
+Bake 45 minutes - 1 hour.
+Do not turn while baking.
+Questions & Replies
+Reviews
+I used rice crispies for my coating and I used chicken tenderloins which I cooked for only 30 minutes as the chicken is smaller in size. The chicken was moist and yummy! Made for Spring 2014 PAC. AcadiaTwo Reply
+I have never been able to fry chicken and keep the coating on it so I enjoyed baking the chicken in the oven. The chicken breasts did have a crunchy coating and was moist and tasty. Bought a box of the corn flake crumbs and added a shake or two of lemon pepper to the flour along with the salt and pepper. The breasts were pretty big and it took over an hour to bake so adjust cooking time as needed. Made for my adopted baby Legna and Pick A Chef 2012. lauralie41 Reply
+This was really good. I used the cornflakes and got a nice crunchy crust. I added more pepper than called for and next time I make it (because I will) will had some more spices to the flour mixture. Made for PAC Spring 2008 SimplyME Reply
+RECIPE SUBMITTED BY
+3 Followers
+49 Recipes
+7 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

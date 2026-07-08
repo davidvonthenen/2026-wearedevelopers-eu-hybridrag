@@ -1,0 +1,96 @@
+Korean Pork and Potato Soup with Perilla
+========================================
+
+Recipe Metadata
+---------------
+Recipe ID: e97f9012d7eee85e
+CSV row number: 401
+Recipe name: Korean Pork and Potato Soup with Perilla
+Source: kimchimom.com
+URL: http://www.kimchimom.com/korean-pork-and-potato-soup-with-perilla/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/029497a197160a191446f22d78cce46152cd463b1c47b3fe25f6c2440310a0d7/21115781.jpg
+Servings: 4
+Calories: 1927.71
+Diet labels: High-Fiber
+Health labels: Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: french, korean
+Meal type: lunch/dinner
+Dish type: soup
+
+Original CSV Fields
+-------------------
+recipe_name: Korean Pork and Potato Soup with Perilla
+source: kimchimom.com
+url: http://www.kimchimom.com/korean-pork-and-potato-soup-with-perilla/
+servings: 4
+calories: 1927.714437288314
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/029497a197160a191446f22d78cce46152cd463b1c47b3fe25f6c2440310a0d7/21115781.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["french","korean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["soup"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Korean Pork and Potato Soup with Perilla
+
+Recipe category: ['Main Dish', 'Soup']
+
+Recipe cuisine: ['Korean']
+
+Yield: ['4', '4 -6']
+
+Cook time: PT150M
+
+Total time: PT150M
+
+Ingredients:
+- 2 pound pork bones
+- 1 1- inch piece of ginger root
+- 1 Tablespoon kochujang (Korean red pepper paste)
+- 2 Tablespoons dwaen jang (Korean soybean paste)
+- 1 Tablespoon roasted sesame seeds
+- 4 red potatoes peeled and quartered
+- 1/4 cup chopped kaenip kimchi
+- 3 scallions (thinly sliced)
+
+Instructions:
+1. Soak pork bones in cold water for about 30 minutes. Change the water a few times until there is little blood and the water is clear.
+2. Place bones and ginger in a large pot. Cover with water, about 3 quarts, and bring to a boil. Simmer for about 2 hours, skimming any foam that forms on the surface.
+3. Mix together the kochujang, dwaen jang, and sesame seeds in a small bowl. Set aside.
+4. Remove ginger from the pot. Add a few spoonfuls of the hot broth into the paste mixture to make a thick slurry. Pour the mixture to the pot of broth and stir until there are no lumps. Add the potatoes and kaenip kimchi. Bring to a boil. Lower heat and simmer until potatoes are cooked.
+5. Serve each bowlful with a generous topping of scallions.
+
+Visible page text:
+It was the summer of 1991. I had just graduated from college and I was taking Korean language classes at a university and was also teaching English to a group of professionals at a small company (with the unfortunate name, Colon) for extra cash. I had just finished a session of teaching and was on my way back to the university campus. I was standing at an insanely busy street corner in Seoul, Korea and all of a sudden I felt like could not move. It was as if my feet were encased in concrete. People streamed by me like I was a rock in a rushing stream. I panicked for what seemed like 15 minutes, but I’m sure was only a split second. In that split second, a million thoughts rushed through my head confused as to who I really was. I stared out at the swelling sea of people who all looked identical..and, I blended right in. For that split second, I was actually horrified. I looked like one of them, but did feel like one of them. As someone who was born and raised in American towns and cities where I always stood out, this idea of homogeneity in my mother country felt very foreign to me.
+I relaxed. I was my own self. Not entirely Korean and not entirely American, but at that moment, a perfect balance of both.
+I continued walking and merged with the swell of people.
+****
+Notes: This soup is a spin on a traditional Korean pork and potato soup. The addition of the kaenip (perilla) kimchi adds a blast of nutty, peppery flavor and works perfectly with the pork and potatoes. Kaenip kimchi can be found in the prepared food section of your local Korean market.
+With soups like these, my appetite definitely identifies with the Korean cuisine. No doubt.
+Korean Pork and Potato Soup with Perilla
+Ingredients
+2 pound pork bones
+1 1- inch piece of ginger root
+1 Tablespoon kochujang Korean red pepper paste
+2 Tablespoons dwaen jang Korean soybean paste
+1 Tablespoon roasted sesame seeds
+4 red potatoes peeled and quartered
+1/4 cup chopped kaenip kimchi
+3 scallions thinly sliced
+Instructions
+Soak pork bones in cold water for about 30 minutes. Change the water a few times until there is little blood and the water is clear.
+Place bones and ginger in a large pot. Cover with water, about 3 quarts, and bring to a boil. Simmer for about 2 hours, skimming any foam that forms on the surface.
+Mix together the kochujang, dwaen jang, and sesame seeds in a small bowl. Set aside.
+Remove ginger from the pot. Add a few spoonfuls of the hot broth into the paste mixture to make a thick slurry. Pour the mixture to the pot of broth and stir until there are no lumps. Add the potatoes and kaenip kimchi. Bring to a boil. Lower heat and simmer until potatoes are cooked.
+Serve each bowlful with a generous topping of scallions.
+Connect
+Amy Kim is the voice behind kimchi MOM. I share delectable Korean recipes plus more! Thanks for visiting and I hope you enjoy your stay! Read More…

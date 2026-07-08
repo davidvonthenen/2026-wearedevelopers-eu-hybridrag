@@ -1,0 +1,150 @@
+Apple, Orange and Fennel Salad
+==============================
+
+Recipe Metadata
+---------------
+Recipe ID: a7a9e56a03452fc2
+CSV row number: 128
+Recipe name: Apple, Orange and Fennel Salad
+Source: cravingsofalunatic.com
+URL: http://www.cravingsofalunatic.com/2011/12/apple-orange-and-fennel-salad-guest-post-by-eat-yourself-skinny.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00c8d575a0ab5bc0031fae57b6d67e7fb174e972197de292a4798c3c498acfc5/21118218.jpg
+Servings: 4
+Calories: 529.96
+Diet labels: Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Apple, Orange and Fennel Salad
+source: cravingsofalunatic.com
+url: http://www.cravingsofalunatic.com/2011/12/apple-orange-and-fennel-salad-guest-post-by-eat-yourself-skinny.html
+servings: 4
+calories: 529.9645
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00c8d575a0ab5bc0031fae57b6d67e7fb174e972197de292a4798c3c498acfc5/21118218.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Apple, Orange and Fennel Salad
+
+Description: This simple salad recipe uses fresh ingredients to make a healthy salad that will delight your taste buds.
+
+Recipe category: ['Dinner', 'Salad']
+
+Recipe cuisine: ['American']
+
+Yield: ['4']
+
+Prep time: PT15M
+
+Total time: PT15M
+
+Ingredients:
+- 1 tablespoon lemon juice
+- 1 tablespoon cider vinegar
+- 1 tablespoon canola oil
+- 1 teaspoon snipped fresh thyme
+- 1/8 teaspoon salt
+- 1 medium apple (cored and chopped)
+- 1 medium orange (peeled, seeded, sectioned and chopped)
+- 1 small fennel bulb (trimmed, cored and chopped)
+- 1/4 cup chopped pecans (toasted)
+
+Instructions:
+1. In a medium bowl, whisk together lemon juice, vinegar, oil, the 1 teaspoon thyme, and salt.
+2. Stir in apple, orange and fennel. Cover and chill for 1 to 4 hours.
+3. Stir in pecans just before serving. If desired, garnish with additional snipped fresh thyme.
+4. Serve!
+
+Visible page text:
+Skip to main content
+Skip to primary sidebar
+24
+129
+This apple orange fennel salad recipe is simple to make and uses fresh ingredients to make a healthy salad that will delight your taste buds.
+Hello there lovely readers of Cravings of a Lunatic!
+I’m Kelly from Eat Yourself Skinny. I was so glad when Kim asked me to guest post for her over the holidays.
+I absolutely adore her blog. I've been a follower for awhile now, her posts are just so fun to read!
+When I knew I’d be sharing a recipe around Christmas, I wanted to make something super festive but that was still somewhat healthy.
+I mean my blog is “Eat Yourself Skinny” after all, gingerbread cookies and peppermint bark wouldn’t exactly fall into that category.
+Umm lemme tell you…it is nearly impossible to find festive healthy recipes for the holidays.
+Trust me…I looked.
+So, instead of doing a low calorie cookie recipe or any dessert for that matter, I decided to go with one of my favorite holiday fruit salads that taste amazing with almost anything!
+Our family has this salad on the table every year during Christmas and the mixture of apple, orange and fennel tastes so delicious.
+You can even throw in some dried cranberries for a more festive look. I didn’t have any on hand at the time so I just left the recipe as is.
+The addition of lemon is essential not only to keep the apples from browning, but it really brings all the flavors together in this dish.
+This is also heart healthy and diabetic friendly! Hope you enjoy this as much as I did!
+More Healthy Recipes:
+Mixed Berry Smoothie
+Roasted Red Pepper and Chipotle Pepper in Adobo Angel Hair Pasta
+Healthy Fish Recipes
+Healthy Bowl Recipes
+Yogurt Parfaits
+Places to stalk Cravings of a Lunatic
+Facebook ~ Twitter ~ Pinterest
+Instagram ~ YouTube ~ Kiss My Smoke
+Apple, Orange and Fennel Salad
+Equipment
+1 Glass Mixing Bowl
+1 Glass Measuring Cup
+1 Measuring Spoons
+1 Wooden Spoon
+Ingredients
+1 tablespoon lemon juice
+1 tablespoon cider vinegar
+1 tablespoon canola oil
+1 teaspoon snipped fresh thyme
+⅛ teaspoon salt
+1 medium apple cored and chopped
+1 medium orange peeled, seeded, sectioned and chopped
+1 small fennel bulb trimmed, cored and chopped
+¼ cup chopped pecans toasted
+Instructions
+In a medium bowl, whisk together lemon juice, vinegar, oil, the 1 teaspoon thyme, and salt.
+Stir in apple, orange and fennel. Cover and chill for 1 to 4 hours.
+Stir in pecans just before serving. If desired, garnish with additional snipped fresh thyme.
+Serve!
+Notes
+Nutrition
+Thanks for visiting today!
+If you’re looking for more dinner recipes be sure to check out my recipe index . You can also find a lot more healthy recipes as well.
+Be sure to follow me on Pinterest while you’re here. I love pinning great recipes! Also, make sure you follow me on Instagram . It’s a great way to stay up to date with the blog.
+Toodles! xx
+Never Miss a Bite!
+Subscribe for FREE recipes sent right to your inbox!
+This post may contain affiliate links. Read my disclosure policy .
+Reader Interactions
+Comments
+@Notes- I have to travel to the city for thyme myself. Hard to get in a small town. I lol'd when I read that comment about Kelly. If it will I am eating huge amounts of it myself. The girl is gorgeous. I hope the suggestions help. I've had insomnia since childhood. It's rough. I find the hot chocolate helpful. Or do all of them so you get into a routine. Draw a bath, then spray your sheets when you get out, then sit in bed with a hot chocolate with honey and off to snoozeland you go. I thought the caffeine would keep me up but something about the warm milk and honey just works. Reply
+@Notes- I have to travel to the city for thyme myself. Hard to get in a small town. I lol'd when I read that comment about Kelly. If it will I am eating huge amounts of it myself. The girl is gorgeous. I hope the suggestions help. I've had insomnia since childhood. It's rough. I find the hot chocolate helpful. Or do all of them so you get into a routine. Draw a bath, then spray your sheets when you get out, then sit in bed with a hot chocolate with honey and off to snoozeland you go. I thought the caffeine would keep me up but something about the warm milk and honey just works.
+This looks great for a side dish for our Christmas table! So fresh and healthy too! 🙂 Reply
+This looks great for a side dish for our Christmas table! So fresh and healthy too! 🙂
+What a healthy and gorgeous salad! Reply
+What a healthy and gorgeous salad!
+@sweetpeaskitchen- It does look lovely doesn't it. @Asmita- Kelly will be so happy you liked it. Reply
+@sweetpeaskitchen- It does look lovely doesn't it.
+@Asmita- Kelly will be so happy you liked it.
+This looks very light, delicious. Good way to start a new year. Thank your for posting! Reply
+This looks very light, delicious. Good way to start a new year. Thank your for posting!
+Awesome guest post! I need to eat like Kelly more! 🙂 Reply
+Awesome guest post! I need to eat like Kelly more! 🙂
+This was delicious. We served it as a side dish with pork tenderloin. Reply Thanks Barb. I'll have to try serving it with tenderloin! Reply
+This was delicious. We served it as a side dish with pork tenderloin.
+Thanks Barb. I'll have to try serving it with tenderloin! Reply
+Thanks Barb. I'll have to try serving it with tenderloin!
+Leave a Reply Cancel reply

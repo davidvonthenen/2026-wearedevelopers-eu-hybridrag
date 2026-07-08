@@ -1,0 +1,75 @@
+Recipe Fried Tofu with Broccoli and Mushrooms recipes
+=====================================================
+
+Recipe Metadata
+---------------
+Recipe ID: 97d7e1dff5ac993d
+CSV row number: 404
+Recipe name: Recipe Fried Tofu with Broccoli and Mushrooms recipes
+Source: 12tomatoes.com
+URL: http://12tomatoes.com/easy-stirfry-recipe-fried-tofu-with-broccoli-and-mushrooms/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/029a100d9bde6b2c4eed010906972e87cc51fa17f2ce03c334f038f61921d5f7/21114857.jpeg
+Servings: 4
+Calories: 2005.49
+Diet labels: Low-Carb
+Health labels: Vegan, Vegetarian, Dairy-Free, Egg-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: asian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Recipe Fried Tofu with Broccoli and Mushrooms recipes
+source: 12tomatoes.com
+url: http://12tomatoes.com/easy-stirfry-recipe-fried-tofu-with-broccoli-and-mushrooms/
+servings: 4
+calories: 2005.487030323852
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/029a100d9bde6b2c4eed010906972e87cc51fa17f2ce03c334f038f61921d5f7/21114857.jpeg
+diet_labels: ["Low-Carb"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Egg-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["asian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Enjoying our recipes?
+We keep all our recipes free, and ads make that possible. If you’re using an ad blocker, please consider disabling it for our site — it helps support our team and keeps the recipes coming.
+Never Miss a Recipe!
+Get delicious recipes, cooking tips, and kitchen inspiration delivered to your inbox.
+By subscribing, you agree to our Privacy Policy .
+Easy Stir-Fry: Recipe Fried Tofu with Broccoli and Mushrooms
+Stir-fries are great because it’s your chance to just throw everything in the pan and watch your delicious meal come together—that’s our kind of cooking, right? The tofu tastes amazing, and the sauce coating your bean curd and veggies is rich and delicious (and would also taste amazing with any beef or chicken dish); you can drizzle whatever leftover you have over white or brown rice. This tofu is so jazzed up with flavor you’ll be looking for more ways to incorporate it into your every day cooking!
+Tofu Stir Fry with Broccoli and Mushroom
+(Serves 4)
+Ingredients
+1 pound firm tofu (bean curd), drained
+2 cups broccoli
+1 1/2 cups small mushrooms
+1-2 cloves garlic, minced
+2 tablespoons low-sodium soy sauce
+1-2 tablespoons peanut oil
+2 teaspoons cornstarch
+2 teaspoons rice vinegar
+1 teaspoon Chinese black bean sauce
+3/4 cup water
+vegetable oil, for frying
+salt and pepper, to taste
+Directions
+Begin by taking tofu out of packaging and placing it between several layers of paper towels, placing something heavy on top of it to drain it of all liquid. Cut into 1x1x1/2-inch squares.
+In a deep pan, heat your vegetable oil over medium-high heat (until it reaches around 375º F) and fry tofu, making sure to brown all sides. (5-8 minutes.) Sprinkle with salt and remove tofu pieces and drain on paper towels. Set aside.
+In a separate bowl, whisk together the soy sauce, cornstarch and rice vinegar. Set aside.
+Drain oil from original pan and heat peanut oil and black bean sauce over medium heat. Add broccoli, mushrooms, bean curd, water and garlic, and bring to a boil, adding in cornstarch and soy sauce mixture. Mix well.
+Reduce to a simmer and let sauce thicken for several minutes, making sure to coat everything.
+Take off heat and serve immediately.
+Recipe adapted from My Recipes
+Get Our Best Recipes
+Join over 650,000 home cooks and get delicious recipes delivered to your inbox weekly.
+More Posts You May Be Interested In

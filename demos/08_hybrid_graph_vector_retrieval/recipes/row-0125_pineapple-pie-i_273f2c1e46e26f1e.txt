@@ -1,0 +1,104 @@
+Pineapple Pie I
+===============
+
+Recipe Metadata
+---------------
+Recipe ID: 273f2c1e46e26f1e
+CSV row number: 125
+Recipe name: Pineapple Pie I
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/12272/pineapple-pie-i
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00c7f4ba3c7a58cecb0e42e5d5b30d90097dda81b2d9a16c17182f418e23fd81/21125038.jpg
+Servings: 10
+Calories: 2625.64
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Tree-Nuts, Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Pineapple Pie I
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/12272/pineapple-pie-i
+servings: 10
+calories: 2625.64
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00c7f4ba3c7a58cecb0e42e5d5b30d90097dda81b2d9a16c17182f418e23fd81/21125038.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Tree-Nuts","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Pineapple Pie I
+
+Description: Shredded coconut is sweetened and blended with eggs, a bit of flour, melted butter, and crushed pineapple. creamy sweet filling is then poured into a deep dish pastry shell and popped into the oven to bake for an hour. Cool and serve with freshly whipped cream and toasted coconut.
+
+Recipe category: ['Dessert']
+
+Yield: ['10', '1 deep dish pie']
+
+Total time: PT0M
+
+Ingredients:
+- 1 (9 inch) deep dish pie crust
+- 1 cup white sugar
+- 1 tablespoon all-purpose flour
+- 0.75 cup flaked coconut
+- 2 eggs
+- 0.75 cup crushed pineapple, drained
+- 0.25 cup butter, melted
+
+Instructions:
+1. In a small bowl, mix sugar and flour. Stir in coconut.
+2. In a larger bowl, beat eggs lightly. Mix in pineapple, and then coconut mixture. Add melted butter, and mix well. Pour filling into deep dish pie crust.
+3. Bake at 350 degrees F (175 degrees C) for 45 to 60 minutes.
+
+Visible page text:
+Desserts
+Pies
+Custard and Cream Pies
+Pineapple Pie
+Pineapple Pie I
+Rich and tasty!
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 10 servings
+1 (9 inch) deep dish pie crust
+1 cup white sugar
+1 tablespoon all-purpose flour
+¾ cup flaked coconut
+2 eggs
+¾ cup crushed pineapple, drained
+¼ cup butter, melted
+Directions
+In a small bowl, mix sugar and flour. Stir in coconut.
+In a larger bowl, beat eggs lightly. Mix in pineapple, and then coconut mixture. Add melted butter, and mix well. Pour filling into deep dish pie crust.
+Bake at 350 degrees F (175 degrees C) for 45 to 60 minutes.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Pineapple Pie I
+1
+Most-Saved Recipes Like This
+Old-Fashioned Coconut Cream Pie 1,975 Ratings 4 hrs 30 mins Save
+Easy Key Lime Pie 1,610 Ratings 35 mins Save
+Coconut Cream Pie 439 Ratings 4 hrs 55 mins Save
+Carrot Pineapple Cake 722 Ratings 1 hr 15 mins Save
+Toasted Coconut, Pecan, and Caramel Pie 136 Ratings 1 hr 40 mins Save
+Easy Coconut Cream Pie 414 Ratings 1 hr 15 mins Save
+Coconut (Haupia) and Chocolate Pie 235 Ratings 1 hr 45 mins Save
+Pineapple Pie 136 Ratings 55 mins Save
+Key Lime Pie I 309 Ratings 4 hrs 30 mins Save
+Florida Key Lime Pie 128 Ratings Save
+You’ll Also Love

@@ -1,0 +1,70 @@
+Chicken Avocado and Apple Caesar Salad + Primal Kitchen Discount
+================================================================
+
+Recipe Metadata
+---------------
+Recipe ID: a2573dc4109aae12
+CSV row number: 495
+Recipe name: Chicken Avocado and Apple Caesar Salad + Primal Kitchen Discount
+Source: kissbybrooke.com
+URL: http://www.kissbybrooke.com/2018/04/18/chicken-avocado-and-apple-caesar-salad-primal-kitchen-discount/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/03384ff12c75ee2268c1fc7b547f721775a3fcfa83661b04e2e1e3141b3f9d4a/21110684.jpg
+Servings: 2
+Calories: 1932.92
+Diet labels: High-Fiber, Low-Carb
+Health labels: Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Chicken Avocado and Apple Caesar Salad + Primal Kitchen Discount
+source: kissbybrooke.com
+url: http://www.kissbybrooke.com/2018/04/18/chicken-avocado-and-apple-caesar-salad-primal-kitchen-discount/
+servings: 2
+calories: 1932.924768998993
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/03384ff12c75ee2268c1fc7b547f721775a3fcfa83661b04e2e1e3141b3f9d4a/21110684.jpg
+diet_labels: ["High-Fiber","Low-Carb"]
+health_labels: ["Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+Happy Wednesday! Last week I shared a special discount with Further Food using their amazing products in my Collagen Peptides and Turmeric Tonic Latte recipe. My code is still active so if you haven’t gotten a chance to try out their collagen peptides or turmeric tonic , you still have time! Use code kissbybrooke at checkout and you will save 5 percent on your order!
+Today I am bring you another special discount on some of my favorite paleo products! Primal Kitchen is the world’s best-tasting, health-enhancing, real-food pantry staples. There isn’t anything processed or artificial, no added sugars, partially hydrogenated or trans fats, soybean or canola oils. No more artificial flavors, colors, dyes, waxes or chemical preservatives, either! The products are simply, just real food.
+Primal Kitchen first started producing a healthier and paleo version to mayo. Have you ever looked at the ingredient list of any popular mayo brands? They are scary long and chalked full of fillers, preservatives, canola and soy bean oil, sugar and the list goes on. They offer two mayo flavors which are both amazing! I love to have their Mayo with Avocado Oil on coconut or lettuce wraps, and burgers and their Chipotle Lime Mayo with Avocado Oil on tacos or to spice up my eggs. You really can’t go wrong with either flavor. What I love most about these mayos is that they are made with avocado oil (heart healthy fat), nutritious ingredients, free of sugar, gluten, dairy, soy and canola oil, and are completely paleo friendly. But, that’s not all! Primal Kitchen has so many other super food products like dressings and marinades, avocado oil, collagen nut and seed bars, collagen protein, whey protein, and keto and whole30 approved products.
+I haven’t tried a Primal Kitchen product that I did not like. Our fridge is always stocked with their dressings and mayo and my cupboards with their avocado oil, collagen protein and collagen nut and see bars. I use their dressings almost daily to toss a quick salad for lunch or dinner and their Green Goddess is my favorite flavor at the moment! I am pumped to try their Lemon Turmeric Vinaigrette & Marinade , Sesame Ginger Vinaigrette & Marinade and Honey Mustard Vinaigrette & Marinade . I add a scoop of their Vanilla Collagen Fuel to my morning coffee every morning and they even have individual packets that will make it easy to bring these along anytime I travel. If you aren’t sure what collagen is, make sure and check out this post . I am currently in love with the Coconut Cashew Collagen Protein Bars , but can’t wait to try the Macadamia Sea Salt bars and they even have a Dark Chocolate Almond flavor!
+I have partnered up with Primal Kitchen to offer all of you a 10 percent discount on your entire order from here on out using code kissbybrooke! You might want to load up on some of their dressings, marinades and collagen fuel because I already have shared recipes with these tasty products like my Berry Blast Collagen Protein Smoothie Bowl and Vanilla Coconut Collagen Matcha Tea Latte and see lots more to come! It is companies like Primal Kitchen that makes eating whole food nutritious meals more tasty and easier to make!
+Chicken Avocado and Apple Caesar Salad + Primal Kitchen Discount Save Print Prep time 10 mins Cook time 35 mins Total time 45 mins Author: Brooke Weiss Recipe type: Salad Serves: 2 Ingredients 2 boneless skinless chicken breast 1 tbsp ghee salt and pepper 1 avocado, sliced 1 apple, sliced 1 bunch red leaf lettuce, chopped 2 tbsp goat cheese 5-6 tbsp Primal Kitchen Avocado Oil Caesar Dressing Instructions Preheat oven to 425 degrees. Place a cast iron skillet on the stove over medium high heat and add the ghee. Season the chicken breast with salt and pepper and when the skillet is hot, add the two chicken breast. Brush the top of each chicken breast with 1 tbsp Primal Kitchen Avocado Oil Caesar Dressing. Let cook for 5-6 mins. Flip the chicken breast and brush with another 1 tbsp Primal Kitchen Avocado Oil Caesar Dressing. Let cooke for 5-6 mins. Place the skillet with the chicken breast in the oven for 25 minutes. While the chicken is baking, make the salad. Add the chopped red leaf lettuce to a large bowl and add the sliced avocado, apple, and goat cheese. Gently toss to mix. Remove the chicken breast from the oven and slice. Add the sliced chicken to the salad and drizzle 3-4 tbsp of Primal Kitchen Avocado Oil Caesar Dressing on top. Gently toss until the chicken and dressing is mixed in. Transfer the salad to two plates or bowls. Enjoy! 3.5.3239
+2 boneless skinless chicken breast
+1 tbsp ghee
+salt and pepper
+1 avocado, sliced
+1 apple, sliced
+1 bunch red leaf lettuce, chopped
+2 tbsp goat cheese
+5-6 tbsp Primal Kitchen Avocado Oil Caesar Dressing
+Preheat oven to 425 degrees. Place a cast iron skillet on the stove over medium high heat and add the ghee.
+Season the chicken breast with salt and pepper and when the skillet is hot, add the two chicken breast. Brush the top of each chicken breast with 1 tbsp Primal Kitchen Avocado Oil Caesar Dressing. Let cook for 5-6 mins. Flip the chicken breast and brush with another 1 tbsp Primal Kitchen Avocado Oil Caesar Dressing. Let cooke for 5-6 mins.
+Place the skillet with the chicken breast in the oven for 25 minutes.
+While the chicken is baking, make the salad. Add the chopped red leaf lettuce to a large bowl and add the sliced avocado, apple, and goat cheese. Gently toss to mix.
+Remove the chicken breast from the oven and slice. Add the sliced chicken to the salad and drizzle 3-4 tbsp of Primal Kitchen Avocado Oil Caesar Dressing on top. Gently toss until the chicken and dressing is mixed in.
+Transfer the salad to two plates or bowls. Enjoy!
+Share this:
+Share on X (Opens in new window) X
+Share on Facebook (Opens in new window) Facebook
+Like this:
+Related

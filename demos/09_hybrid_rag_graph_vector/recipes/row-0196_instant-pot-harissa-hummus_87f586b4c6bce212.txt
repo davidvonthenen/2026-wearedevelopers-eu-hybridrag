@@ -1,0 +1,116 @@
+Instant Pot® Harissa Hummus
+===========================
+
+Recipe Metadata
+---------------
+Recipe ID: 87f586b4c6bce212
+CSV row number: 196
+Recipe name: Instant Pot® Harissa Hummus
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/276695/instant-pot-harissa-hummus
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/013f025feb1e2f892c698e88950e1873f0f2b00978045f2207709d7488444038/21080243.jpg
+Servings: 8
+Calories: 1311.94
+Diet labels: none listed
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Instant Pot® Harissa Hummus
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/276695/instant-pot-harissa-hummus
+servings: 8
+calories: 1311.942989269606
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/013f025feb1e2f892c698e88950e1873f0f2b00978045f2207709d7488444038/21080243.jpg
+diet_labels: []
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Instant Pot® Harissa Hummus
+
+Description: This classic hummus with a kick of harissa is made from scratch with dried chickpeas in your Instant Pot®--its perfect to serve with warm flatbread or veggies.
+
+Recipe category: ['Dinner', 'Appetizer']
+
+Yield: ['8', '8 servings']
+
+Prep time: PT5M
+
+Cook time: PT30M
+
+Total time: PT155M
+
+Ingredients:
+- 1 cup dry chickpeas (garbanzo beans)
+- 2 cups water
+- 1 cup low-sodium vegetable broth
+- 3 tablespoons extra-virgin olive oil , divided
+- 2 tablespoons tahini
+- 1 tablespoon lemon juice
+- 1 large clove garlic
+- 6 teaspoons harissa paste, divided
+- 0.5 teaspoon salt, or more to taste
+
+Instructions:
+1. Soak chickpeas in water for about 2 hours, rubbing occasionally while soaking to help remove the outer skin. Discard any skins that come loose. Drain chickpeas.
+2. Combine chickpeas, water, and vegetable broth in a multi-functional pressure cooker (such as Instant Pot®). Close and lock the lid. Select high pressure according to manufacturer&#39;s instructions; set timer for 20 minutes. Allow 10 to 15 minutes for pressure to build.
+3. Release pressure carefully using the quick-release method according to manufacturer&#39;s instructions, about 5 minutes. Unlock and remove the lid.
+4. Strain chickpeas, reserving 3/4 cup of cooking liquid. Set aside 1/4 cup cooked chickpeas for garnish and transfer remaining chickpeas into the bowl of a food processor fitted with a blade. Add 2 tablespoons olive oil, tahini, lemon juice, and garlic. Blend until smooth, about 3 minutes, scraping down the sides. Add 1/2 cup of the reserved cooking liquid. Blend until creamy adding more liquid if necessary. Mix in 5 teaspoons harissa paste and salt.
+5. Scrape hummus into a bowl. Drizzle remaining 1 tablespoon olive oil and 1 teaspoon harissa paste and swirl with a knife, but do not mix in completely. Sprinkle with the reserved, whole chickpeas. Serve at room temperature.
+
+Visible page text:
+Recipes
+Appetizers and Snacks
+Dips and Spreads Recipes
+Hummus Recipes
+Instant Pot® Harissa Hummus
+Classic hummus made from dried chickpeas in your Instant Pot® with the kick of harissa, the smoked pepper paste from North Africa. Serve with warm flatbread or veggies. You can even add some to your soups for a twist in flavor. The hummus can be served immediately or refrigerated to help flavors meld.
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 8 servings
+1 cup dry chickpeas (garbanzo beans)
+2 cups water
+1 cup low-sodium vegetable broth
+3 tablespoons extra-virgin olive oil , divided
+2 tablespoons tahini
+1 tablespoon lemon juice
+1 large clove garlic
+6 teaspoons harissa paste, divided
+½ teaspoon salt, or more to taste
+Directions
+Soak chickpeas in water for about 2 hours, rubbing occasionally while soaking to help remove the outer skin. Discard any skins that come loose. Drain chickpeas.
+Combine chickpeas, water, and vegetable broth in a multi-functional pressure cooker (such as Instant Pot®). Close and lock the lid. Select high pressure according to manufacturer's instructions; set timer for 20 minutes. Allow 10 to 15 minutes for pressure to build.
+Release pressure carefully using the quick-release method according to manufacturer's instructions, about 5 minutes. Unlock and remove the lid.
+Strain chickpeas, reserving 3/4 cup of cooking liquid. Set aside 1/4 cup cooked chickpeas for garnish and transfer remaining chickpeas into the bowl of a food processor fitted with a blade. Add 2 tablespoons olive oil, tahini, lemon juice, and garlic. Blend until smooth, about 3 minutes, scraping down the sides. Add 1/2 cup of the reserved cooking liquid. Blend until creamy adding more liquid if necessary. Mix in 5 teaspoons harissa paste and salt.
+Scrape hummus into a bowl. Drizzle remaining 1 tablespoon olive oil and 1 teaspoon harissa paste and swirl with a knife, but do not mix in completely. Sprinkle with the reserved, whole chickpeas. Serve at room temperature.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Instant Pot® Harissa Hummus
+1
+Most-Saved Recipes Like This
+Hummus III 2,291 Ratings 10 mins Save
+Real Hummus 1,214 Ratings 15 mins Save
+Spiced Sweet Roasted Red Pepper Hummus 733 Ratings 1 hr 35 mins Save
+Extra Easy Hummus 673 Ratings 5 mins Save
+Black Bean Hummus 743 Ratings 5 mins Save
+Super Easy Hummus 274 Ratings 5 mins Save
+Jalapeño Hummus 265 Ratings 10 mins Save
+Easy Roasted Red Pepper Hummus 397 Ratings 15 mins Save
+Easy Red Pepper Hummus 131 Ratings 10 mins Save
+Smoky Chipotle Hummus 263 Ratings 15 mins Save
+You’ll Also Love

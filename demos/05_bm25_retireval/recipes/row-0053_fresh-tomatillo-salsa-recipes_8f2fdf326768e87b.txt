@@ -1,0 +1,154 @@
+Fresh Tomatillo Salsa recipes
+=============================
+
+Recipe Metadata
+---------------
+Recipe ID: 8f2fdf326768e87b
+CSV row number: 53
+Recipe name: Fresh Tomatillo Salsa recipes
+Source: acedarspoon.com
+URL: http://www.acedarspoon.com/fresh-tomatillo-salsa/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0043f7a143fe47bdc7e65e12b94b30d6d95b3b6d881e3ecc7a15c8321eb2d4b8/21110139.jpeg
+Servings: 4
+Calories: 190.87
+Diet labels: none listed
+Health labels: Vegan, Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: south american
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Fresh Tomatillo Salsa recipes
+source: acedarspoon.com
+url: http://www.acedarspoon.com/fresh-tomatillo-salsa/
+servings: 4
+calories: 190.8695583999349
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0043f7a143fe47bdc7e65e12b94b30d6d95b3b6d881e3ecc7a15c8321eb2d4b8/21110139.jpeg
+diet_labels: []
+health_labels: ["Vegan","Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["south american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Tomatillo Salsa Verde
+
+Description: Tomatillo Salsa Verde uses six simple ingredients to create a sweet salsa verde. Fresh tomatillos are blended with jalapeños, garlic, cilantro, onion and lime juice.
+
+Recipe category: ['Appetizer, Dip']
+
+Recipe cuisine: ['Mexican']
+
+Yield: ['4', '4 servings']
+
+Prep time: PT10M
+
+Total time: PT10M
+
+Ingredients:
+- 8 medium tomatillos (husked, rinsed and quartered {about 1 pound})
+- 2 jalapeños (rinsed, sliced and seeded {optional for heat})
+- 1 clove garlic
+- 1 cup cilantro
+- 1/2 cup sweet onion (chopped)
+- 1 Tablespoons lime juice {more to taste} (fresh )
+- Salt to taste
+
+Instructions:
+1. Put the tomatillos in a food processor and blend for 10 seconds to begin to break them up.
+2. Add remaining ingredients and blend until liquified.
+3. Taste the salsa and if it is too spicy add more lime juice to taste as well as additional salt to taste.
+4. Serve with fresh tortilla chips or on Mexican Dishes or put in a sealed container and keep in the refrigerator for up to 4 days.
+
+Visible page text:
+Get my newest recipes to your inbox!
+Home › Recipes › Appetizers
+Tomatillo Salsa Verde
+By Julia Jolliff
+Updated Feb 21, 2026, Published Jun 21, 2024
+This post may contain affiliate links.
+Tomatillo Salsa Verde uses six simple ingredients to create a sweet salsa verde. Fresh tomatillos are blended with jalapeños, garlic, cilantro, onion and lime juice. This makes a great topping for your favorite Mexican dishes or as a snack with chips.
+Last year I started growing tomatillos in my garden. They ended up being a lot easier to grow than I originally thought they would be. By the end of the summer had a weekly supply of them and knew I had to start using them to make this Tomatillo Salsa Verde or this Avocado Tomatillo Salsa. I love the sweetness of tomatillos that they add to this easy salsa. Green salsas have become some of my favorite salsas. Don’t get me wrong, I love a good red salsa, but there is something about a sweet tomatillo salsa verde recipe that is so good. There is something so good about green salsa. I use it in these Slow Cooker Salsa Verde Chicken Tacos, Pinto Bean Soup , Green Chili Chicken Soup and this Instant Pot Pork Chili Verde.
+I love putting green salsa on these beef nachos , Easy Cod Fish Tacos , Grilled Flank Steak , Greek Marinated Chicken and grilled veggies. It is the perfect sauce for a lot of your favorite Mexican dishes like a green enchilada sauce for enchiladas. A few I love putting it on breakfast tacos this Mexican Style Zucchini , Chicken Tinga , Chilaquiles Rojos , Easy Vegetarian Enchiladas , these Easy Zucchini Tacos, a burrito bowl or pork tacos .
+Table of Contents
+Recipe Ingredients
+How to Make Salsa Verde
+More Salsa Recipes
+Tomatillo Salsa Verde Recipe
+See full list of simple ingredients below in recipe card with exact measurements.
+Tomatillos: Raw tomatillos are the star of this salsa. They look like small green tomatoes. I love finding fresh tomatillos at the farmers market or growing them in my summer garden. For a smoky flavor try using roasted tomatillos. See below for instructions on how to roast tomatillos.
+Jalapenos : Jalapeños make this a spicier salsa. You could also use serrano chiles or green chili peppers or leave the jalapeño pepper out all together.
+Cilantro : I love cilantro and fresh cilantro is a must in this recipe. Add what you like to get to the flavor you prefer!
+Sweet Onion: The onion adds flavor to the salsa. You could use red onion or shallot instead or leave it out.
+Lime Juice: This is adds sweetness and acidity to the salsa verde. You can add more or less to your liking.
+This is such an easy recipe that you can whip up in under 10 minutes.
+Step 1: Blend: Place tomatillos in a food processor and blend for 10 seconds to begin to break them up. Add remaining ingredients and blend until liquified.
+Step 2: Adjust Seasoning: Taste the salsa and if it is too spicy add more lime juice to taste as well as additional salt to taste.
+Serve with fresh tortilla chips or on Mexican Dishes or put in an airtight container or mason jars and keep in the refrigerator for up to 4 days.
+Appetizers
+Cucumber Salsa
+Avocado Tomatillo Salsa
+Easy Watermelon Salsa
+Homemade Pico de Gallo
+Tried this recipe? Leave a star rating and comment below! Subscribe to my newsletter or follow me on Facebook , Instagram , or Pinterest for the latest.
+Ingredients 1x 2x 3x
+▢ 8 medium tomatillos , husked, rinsed and quartered {about 1 pound}
+▢ 2 jalapeños , rinsed, sliced and seeded {optional for heat}
+▢ 1 clove garlic
+▢ 1 cup cilantro
+▢ 1/2 cup sweet onion , chopped
+▢ 1 Tablespoons lime juice {more to taste} , fresh
+▢ Salt to taste
+Instructions
+Put the tomatillos in a food processor and blend for 10 seconds to begin to break them up.
+Add remaining ingredients and blend until liquified.
+Taste the salsa and if it is too spicy add more lime juice to taste as well as additional salt to taste.
+Serve with fresh tortilla chips or on Mexican Dishes or put in a sealed container and keep in the refrigerator for up to 4 days.
+Notes
+Nutrition
+Nutrition information is automatically calculated, so should only be used as an approximation.
+Facebook
+X
+Pinterest 272
+Save
+Email
+Flipboard
+Leave a comment Cancel reply
+10 Comments
+This is so easy to make in the summer months. Reply
+This is so easy to make in the summer months.
+I’ve never tried making homemade salsa verde! Excited to try 🙂 Reply It is so easy! I love that I control everything in it and can control the salt! Reply
+I’ve never tried making homemade salsa verde! Excited to try 🙂
+It is so easy! I love that I control everything in it and can control the salt! Reply
+It is so easy! I love that I control everything in it and can control the salt!
+I am going to use tomatillos from my Bountiful Basket to make this tonight…however, I don’t care for the taste of cilantro and typically leave it out of all recipes. 1 cup is a lot, though. Will this salsa taste good without the cilantro? Reply I think it would..you could do less cilantro and I think it would taste just as good. I would probably do it and then taste it and adjust as necessary. Try 8 tomatillos, 1 small/medium onion, 1 lime, salt and 2 jalapeños (depending on how much spice you want)…I think that would be good. Reply
+I am going to use tomatillos from my Bountiful Basket to make this tonight…however, I don’t care for the taste of cilantro and typically leave it out of all recipes. 1 cup is a lot, though. Will this salsa taste good without the cilantro?
+I think it would..you could do less cilantro and I think it would taste just as good. I would probably do it and then taste it and adjust as necessary. Try 8 tomatillos, 1 small/medium onion, 1 lime, salt and 2 jalapeños (depending on how much spice you want)…I think that would be good. Reply
+I think it would..you could do less cilantro and I think it would taste just as good. I would probably do it and then taste it and adjust as necessary. Try 8 tomatillos, 1 small/medium onion, 1 lime, salt and 2 jalapeños (depending on how much spice you want)…I think that would be good.
+So glad you liked this salsa! I actually haven’t used roasted tomatillos but it is on my list to try! Reply
+So glad you liked this salsa! I actually haven’t used roasted tomatillos but it is on my list to try!
+I love that this is not cooked. I nornally roast mine but the color always ends up so dreary. This is so bright and pretty! Reply Now that I have made the no-cook version I want to try roasting them to see how the flavor changes! I do love the color of this one though–would look great on a plate of tasty Mexican food. Reply
+I love that this is not cooked. I nornally roast mine but the color always ends up so dreary. This is so bright and pretty!
+Now that I have made the no-cook version I want to try roasting them to see how the flavor changes! I do love the color of this one though–would look great on a plate of tasty Mexican food. Reply
+Now that I have made the no-cook version I want to try roasting them to see how the flavor changes! I do love the color of this one though–would look great on a plate of tasty Mexican food.
+Thanks for the mention! So happy you liked it. It’s amazing how easy and delicious it is! Reply Your welcome–thanks for the great recipe! I loved it. Reply
+Thanks for the mention! So happy you liked it. It’s amazing how easy and delicious it is!
+Your welcome–thanks for the great recipe! I loved it. Reply
+Your welcome–thanks for the great recipe! I loved it.
+About Julia Jolliff
+I'm Julia. Wife, mom to three growing boys, lover of food. Here you will find quick & easy weeknight meal ideas, kid-friendly recipes and a few sweet treats. My roots are from the Mediterranean and many of my recipes incorporate those flavors!
+Mediterranean
+Lemon Whipped Feta Dip
+Roasted Red Pepper Feta Dip
+Smoked Salmon Cucumber Appetizer
+Layered Greek Dip
+As Seen In

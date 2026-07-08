@@ -1,0 +1,114 @@
+Chickpea, red pepper, egg & feta hash
+=====================================
+
+Recipe Metadata
+---------------
+Recipe ID: ef4be70f67c4a293
+CSV row number: 175
+Recipe name: Chickpea, red pepper, egg & feta hash
+Source: BBC Good Food
+URL: https://www.bbcgoodfood.com/recipes/chickpea-red-pepper-egg-feta-hash
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01151e6f5c8379c96d1d84395ed8057dda0413926124973343b19dd60c7030ed/20976157.jpg
+Servings: 6
+Calories: 1129.74
+Diet labels: Balanced, High-Fiber
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: greek, mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Chickpea, red pepper, egg & feta hash
+source: BBC Good Food
+url: https://www.bbcgoodfood.com/recipes/chickpea-red-pepper-egg-feta-hash
+servings: 6
+calories: 1129.7445
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01151e6f5c8379c96d1d84395ed8057dda0413926124973343b19dd60c7030ed/20976157.jpg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["greek","mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Chickpea, red pepper, egg & feta hash
+
+Description: Kick-start your day with our vegetarian chickpea, red pepper, egg and feta hash. This brilliant breakfast is easy to make and delivers two of your 5-a-day
+
+Recipe category: Breakfast, Brunch, Lunch, Supper
+
+Yield: 2
+
+Prep time: PT10M
+
+Cook time: PT15M
+
+Total time: PT25M
+
+Ingredients:
+- 1 tbsp olive or rapeseed oil
+- 1 onion halved and sliced
+- 400g can chickpeas drained
+- 1½ tsp cumin seeds
+- 4 roasted red peppers from a jar, torn into chunks
+- 2-4 eggs
+- 40g feta crumbled
+- ½ lemon zested
+- small handful mint leaves chopped
+- flatbreads to serve (optional)
+
+Instructions:
+1. Heat the oil in a frying pan. Cook the onion for 12-15 mins until starting to caramelise. Add the chickpeas, cumin and peppers and season well, then cook for a few mins until hot throughout.
+2. Create spaces in the pan for each of the eggs. Crack the eggs into the pan, then cover and cook for 2-3 mins, or until the eggs are done to your liking. Scatter over the feta, lemon zest and mint. Serve alongside the flatbreads, if you like.
+
+Visible page text:
+Chickpea, red pepper, egg & feta hash
+Good Food team
+Kick-start your day with our vegetarian chickpea, red pepper, egg and feta hash. This brilliant breakfast is easy to make and delivers two of your 5-a-day
+Ingredients
+Nutrition
+1 tbsp olive or rapeseed oil
+1 onion halved and sliced
+400g can chickpeas drained
+1½ tsp cumin seeds
+4 roasted red peppers from a jar, torn into chunks
+2-4 eggs
+40g feta crumbled
+½ lemon zested
+small handful mint leaves chopped
+flatbreads to serve (optional)
+Nutrition: Per serving
+kcal 441
+fat 23 g
+saturates 6 g
+carbs 30 g
+sugars 8 g
+fibre 9 g
+protein 24 g
+salt 2.8 g
+Method
+step 1 Heat the oil in a frying pan . Cook the onion for 12-15 mins until starting to caramelise. Add the chickpeas, cumin and peppers and season well, then cook for a few mins until hot throughout.
+step 1
+Heat the oil in a frying pan . Cook the onion for 12-15 mins until starting to caramelise. Add the chickpeas, cumin and peppers and season well, then cook for a few mins until hot throughout.
+step 2 Create spaces in the pan for each of the eggs. Crack the eggs into the pan, then cover and cook for 2-3 mins, or until the eggs are done to your liking. Scatter over the feta, lemon zest and mint. Serve alongside the flatbreads, if you like.
+step 2
+Create spaces in the pan for each of the eggs. Crack the eggs into the pan, then cover and cook for 2-3 mins, or until the eggs are done to your liking. Scatter over the feta, lemon zest and mint. Serve alongside the flatbreads, if you like.
+Recipe from Good Food magazine, November 2018
+Comments, questions and tips
+Overall rating
+Get 1 year of Good Food All Access + a free air fryer for £59.99
+Explore our recipe app
+Subscribe now and get access to exclusive recipes, meal plans, podcasts and more.
+All Access subscription: Magazine & App
+Good Food magazine and our award winning app in one simple subscription. Now from £3.17 per month
+Podcast
+Our food team shares tips, techniques and their all-time favourite recipes in our lively weekly podcast.

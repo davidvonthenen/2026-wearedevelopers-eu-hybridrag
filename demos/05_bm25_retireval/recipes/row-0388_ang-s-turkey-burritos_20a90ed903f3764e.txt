@@ -1,0 +1,112 @@
+Ang's Turkey Burritos
+=====================
+
+Recipe Metadata
+---------------
+Recipe ID: 20a90ed903f3764e
+CSV row number: 388
+Recipe name: Ang's Turkey Burritos
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/261942/angs-turkey-burritos/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02758c678e1b68542474eb34308f7d1e354bad3af99e851125a677686f8bb887/21041310.jpg
+Servings: 8
+Calories: 2733.48
+Diet labels: High-Fiber
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Ang's Turkey Burritos
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/261942/angs-turkey-burritos/
+servings: 8
+calories: 2733.478151829297
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02758c678e1b68542474eb34308f7d1e354bad3af99e851125a677686f8bb887/21041310.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Ang&#39;s Turkey Burritos
+
+Description: Make easy ground turkey burritos for a lighter take on the beef dish, complete with sweet corn, black beans, and chiles in wheat tortillas.
+
+Yield: ['8', '8 servings']
+
+Prep time: PT20M
+
+Cook time: PT20M
+
+Total time: PT40M
+
+Ingredients:
+- 1 pound ground turkey
+- 1 small onion, chopped
+- 1 (15 ounce) can whole sweet corn, drained
+- 1 (15 ounce) can black beans, drained and rinsed
+- 1 (10 ounce) can diced tomatoes and green chile peppers, undrained
+- 0.5 cup chopped red bell pepper, or to taste
+- 2 teaspoons lime juice
+- 0.75 teaspoon garlic powder
+- 0.75 teaspoon chili powder
+- 0.5 teaspoon ground cumin
+- 8 (8 inch) whole wheat tortillas
+
+Instructions:
+1. Heat a large skillet over medium-high heat. Cook and stir turkey and onion in the hot skillet until turkey is browned and no longer pink, 5 to 7 minutes. Add corn, black beans, tomatoes, red bell pepper, lime juice, garlic powder, chili powder, and cumin. Reduce heat to medium-low and simmer until flavors combine, 15 to 20 minutes.
+2. Place tortillas on a microwave-safe plate. Heat in the microwave until warmed, 15 to 20 seconds. Divide turkey mixture over the warmed tortillas.
+
+Visible page text:
+Recipes
+Ang's Turkey Burritos
+Turkey burritos are a lighter version of our favorite beef burritos. My husband actually prefers these over the local Mexican restaurant! Optional toppings: lettuce, fresh spinach, avocado, salsa, tomatoes, black olives, fat-free sour cream, low-fat Cheddar cheese, etc.
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 8 servings
+1 pound ground turkey
+1 small onion, chopped
+1 (15 ounce) can whole sweet corn, drained
+1 (15 ounce) can black beans, drained and rinsed
+1 (10 ounce) can diced tomatoes and green chile peppers, undrained
+½ cup chopped red bell pepper, or to taste
+2 teaspoons lime juice
+¾ teaspoon garlic powder
+¾ teaspoon chili powder
+½ teaspoon ground cumin
+8 (8 inch) whole wheat tortillas
+Directions
+Heat a large skillet over medium-high heat. Cook and stir turkey and onion in the hot skillet until turkey is browned and no longer pink, 5 to 7 minutes. Add corn, black beans, tomatoes, red bell pepper, lime juice, garlic powder, chili powder, and cumin. Reduce heat to medium-low and simmer until flavors combine, 15 to 20 minutes.
+Place tortillas on a microwave-safe plate. Heat in the microwave until warmed, 15 to 20 seconds. Divide turkey mixture over the warmed tortillas.
+Cook's Notes:
+Use any color bell pepper you prefer.
+Cooked brown rice can also be added to the mixture.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Ang's Turkey Burritos
+1
+Most-Saved Recipes Like This
+Gary's Turkey Burritos 228 Ratings 25 mins Save
+Breakfast Burritos 148 Ratings 35 mins Save
+Southwest Breakfast Burritos 109 Ratings 1 hr 5 mins Save
+Tasty Breakfast Burritos 57 Ratings 40 mins Save
+Sweet Potato Burritos 2,800 Ratings 40 mins Save
+Delicious Black Bean Burritos 2,217 Ratings 25 mins Save
+Flannery's Bacon Avocado Burritos 5 Ratings 40 mins Save
+Easy Egg and Avocado Breakfast Burrito 34 Ratings 25 mins Save
+Best Turkey Burgers 2,645 Ratings 30 mins Save
+Simple Turkey Chili 2,339 Ratings 1 hr Save
+You’ll Also Love

@@ -1,0 +1,128 @@
+Brownie-Walnut Pie
+==================
+
+Recipe Metadata
+---------------
+Recipe ID: 4c5a021af11733ce
+CSV row number: 225
+Recipe name: Brownie-Walnut Pie
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/giada-de-laurentiis/brownie-walnut-pie-recipe-2119507
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/016a0d1155b76d0aae01d8b8cf8727626278e509b0377a9da2341ea7e1659059/21095088.jpg
+Servings: 10
+Calories: 4333.82
+Diet labels: none listed
+Health labels: Vegetarian, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: french
+Meal type: lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Brownie-Walnut Pie
+source: Food Network
+url: https://www.foodnetwork.com/recipes/giada-de-laurentiis/brownie-walnut-pie-recipe-2119507
+servings: 10
+calories: 4333.818399484375
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/016a0d1155b76d0aae01d8b8cf8727626278e509b0377a9da2341ea7e1659059/21095088.jpg
+diet_labels: []
+health_labels: ["Vegetarian","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["french"]
+meal_type: ["lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Brownie-Walnut Pie
+
+Recipe category: dessert
+
+Yield: 8 to 10 servings
+
+Prep time: P0Y0M0DT0H30M0.000S
+
+Cook time: P0Y0M0DT0H50M0.000S
+
+Total time: P0Y0M0DT1H40M0.000S
+
+Ingredients:
+- 6 tablespoons unsalted butter, diced
+- 3 ounces unsweetened chocolate, chopped
+- 1 1/4 cups packed dark brown sugar (about 9 ounces)
+- 3 eggs, at room temperature
+- 3/4 cup flour
+- 1/4 teaspoon fine salt
+- 1/2 cup walnut pieces, toasted
+- Biscotti Crumb Crust, recipe follows
+- Walnut halves, optional
+- Ice cream or sweetened whipped cream, optional
+- One 5.5-ounce box biscotti (about 8), coarsely broken
+- 1/2 stick unsalted butter, chilled and diced
+- 1/4 cup packed dark brown sugar
+
+Instructions:
+1. Preheat the oven to 350 degrees F.
+2. Whisk the butter and the chocolate over low heat in a heavy medium saucepan until the chocolate is almost melted. Remove the pan from the heat and whisk until the chocolate is fully melted and the mixture is smooth. Whisk in the sugar, then the eggs, one at a time. Stir in the flour and salt with a flexible rubber spatula. Stir in the nut pieces. Scrape the batter into the prepared Biscotti Crumb Crust. Press a ring of walnut halves, if using, into the batter around the top edge.
+3. Place the pie on a baking sheet and bake until the outer 2 to 3 inches are slightly puffed and dry looking and the center is set, 35 minutes. A wooden skewer inserted into the center should come out with some moist batter still attached. Cool the pie completely on a rack.
+4. Cut the pie into wedges and serve with ice cream or whipped cream, if using.
+5. Preheat the oven to 350 degrees F. Blend the biscotti, butter and sugar in a food processor until the crumbs are moist and stick together when pressed. Firmly press the crumb mixture over the bottom and up the sides of a 9-inch glass pie dish, building up a high rim. Bake the crust until golden and feels firm to the touch, 15 minutes. Cool the crust completely.
+
+Visible page text:
+Home
+Recipes
+Dessert
+Brownies
+We're sorry, there seems to be an issue playing this video. Please refresh the page or try again in a moment. If you continue to have issues, please contact us here .
+Brownie-Walnut Pie
+Level: Intermediate
+Total: 1 hr 40 min
+Prep: 30 min
+Inactive: 20 min
+Cook: 50 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+6 tablespoons unsalted butter, diced
+3 ounces unsweetened chocolate, chopped
+1 1/4 cups packed dark brown sugar (about 9 ounces)
+3 eggs, at room temperature
+3/4 cup flour
+1/4 teaspoon fine salt
+1/2 cup walnut pieces, toasted
+Biscotti Crumb Crust, recipe follows
+Walnut halves, optional
+Ice cream or sweetened whipped cream, optional
+Biscotti Crumb Crust:
+One 5.5-ounce box biscotti (about 8), coarsely broken
+1/2 stick unsalted butter, chilled and diced
+1/4 cup packed dark brown sugar
+Preheat the oven to 350 degrees F.
+Whisk the butter and the chocolate over low heat in a heavy medium saucepan until the chocolate is almost melted. Remove the pan from the heat and whisk until the chocolate is fully melted and the mixture is smooth. Whisk in the sugar, then the eggs, one at a time. Stir in the flour and salt with a flexible rubber spatula. Stir in the nut pieces. Scrape the batter into the prepared Biscotti Crumb Crust. Press a ring of walnut halves, if using, into the batter around the top edge.
+Place the pie on a baking sheet and bake until the outer 2 to 3 inches are slightly puffed and dry looking and the center is set, 35 minutes. A wooden skewer inserted into the center should come out with some moist batter still attached. Cool the pie completely on a rack.
+Cut the pie into wedges and serve with ice cream or whipped cream, if using.
+Preheat the oven to 350 degrees F. Blend the biscotti, butter and sugar in a food processor until the crumbs are moist and stick together when pressed. Firmly press the crumb mixture over the bottom and up the sides of a 9-inch glass pie dish, building up a high rim. Bake the crust until golden and feels firm to the touch, 15 minutes. Cool the crust completely.
+Categories:
+More from:
+Valentine's Day
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Chocolate Caramel Crunch Pie Recipe
+Blackberry Raspberry Pie Recipe
+Raspberry-Almond Pie Recipe
+Persimmon-Pumpkin Pie Recipe
+Chocolate Ricotta Pie Recipe
+Apple Parmesan Pie Recipe

@@ -1,0 +1,130 @@
+Braised Brussels sprouts with bacon
+===================================
+
+Recipe Metadata
+---------------
+Recipe ID: 4a60eb70abfd9e1d
+CSV row number: 66
+Recipe name: Braised Brussels sprouts with bacon
+Source: simply-delicious-food.com
+URL: http://simply-delicious-food.com/braised-brussels-sprouts-bacon/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0055731abf290ed33bdc16cef5caaceee9596df55866685f093f3232ab402765/21117580.jpg
+Servings: 8
+Calories: 1946.35
+Diet labels: Low-Carb
+Health labels: Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Braised Brussels sprouts with bacon
+source: simply-delicious-food.com
+url: http://simply-delicious-food.com/braised-brussels-sprouts-bacon/
+servings: 8
+calories: 1946.348066549138
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0055731abf290ed33bdc16cef5caaceee9596df55866685f093f3232ab402765/21117580.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Brussels sprouts with bacon
+
+Description: Brussels sprouts with bacon is the ultimate easy side dish for any meal and is perfect for the festive season.
+
+Recipe category: ['Sides', 'Vegetables']
+
+Recipe cuisine: ['American']
+
+Yield: ['8']
+
+Prep time: PT10M
+
+Cook time: PT15M
+
+Total time: PT25M
+
+Ingredients:
+- ½ lb / 250g bacon (finely chopped)
+- 2 lb / 1kg brussels sprouts (halved and trimmed)
+- 1 cup / 250ml chicken stock / vegetable stock
+- salt and black pepper (to taste)
+- 1-2 tbsp lemon juice (to taste)
+
+Instructions:
+1. In a large skillet/pan set over medium-high heat, fry the bacon until crisp and golden.
+2. Remove from the pan with a slotted spoon and set aside. Pour off the bacon grease, leaving 2 tablespoons behind.
+3. Add the brussels sprouts to the pan and cook until golden brown, tossing every few minutes to ensure even browning.
+4. Pour in the stock and season to taste then partially cover and allow to simmer gently for 5 minutes.
+5. Remove the lid then simmer until the stock has evaporated and the sprouts are tender but not mushy.
+6. Add the crispy bacon back to the pan then season with salt, pepper and lemon juice.
+7. Serve.
+
+Visible page text:
+Brussels sprouts with bacon is the ultimate easy side dish for any meal and is perfect for the festive season.
+Ingredients Needed
+Brussels Sprouts .
+Bacon . I used streaky bacon.
+Chicken broth /vegetable stock.
+Fresh garlic cloves .
+Salt and black pepper .
+Fresh lemon juice . A splash of Balsamic vinegar or Balsamic glaze will be delicious too.
+How to make Brussels sprouts with bacon
+In a large skillet or frying pan, fry the chopped bacon until crisp then remove with a slotted spoon and set aside. Pour off the bacon fat, leaving a few tablespoons of bacon grease behind. Add the halved brussels sprouts and cook until golden, tossing the pan every few minutes to ensure even browning. Add the garlic and cook for another 30 seconds. Pour in the stock then partially cover with a lid and allow to cook until the sprouts are fork tender and the stock has been absorbed. Add the bacon back to the pan then season to taste with salt, pepper and lemon juice then serve.
+Can I make this ahead?
+The bacon brussels sprouts are definitely best serve immediately but leftovers can be kept in an airtight container in the refrigerator for up to 3 days and reheated in a hot pan, in the microwave or in an air fryer. To prepare ahead, cook to recipe instructions then transfer to a baking sheet and cover with foil. Reheat in a hot oven before serving.
+Serving Suggestions
+Brussels sprouts are the perfect side dish for a variety of side dishes. We love it during the holidays with roast chicken or roast turkey . It’s delicious served with steak and pork chops with mashed potatoes for a simple weeknight dinner.
+Brussels Sprouts Recipes
+Garlic Parmesan Air Fryer Brussels Sprouts
+Easy Garlic Butter Sautéed Brussels Sprouts
+Roasted Brussels Sprouts on Cheese sauce with Prosciutto crumbs
+Brussels sprouts with bacon
+Ingredients
+▢ ½ lb / 250g bacon finely chopped
+▢ 2 lb / 1kg brussels sprouts halved and trimmed
+▢ 1 cup / 250ml chicken stock / vegetable stock
+▢ salt and black pepper to taste
+▢ 1-2 tbsp lemon juice to taste
+Instructions
+In a large skillet/pan set over medium-high heat, fry the bacon until crisp and golden.
+Remove from the pan with a slotted spoon and set aside. Pour off the bacon grease, leaving 2 tablespoons behind.
+Add the brussels sprouts to the pan and cook until golden brown, tossing every few minutes to ensure even browning.
+Pour in the stock and season to taste then partially cover and allow to simmer gently for 5 minutes.
+Remove the lid then simmer until the stock has evaporated and the sprouts are tender but not mushy.
+Add the crispy bacon back to the pan then season with salt, pepper and lemon juice.
+Serve.
+Nutrition
+Leave a Reply Cancel reply
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+8 Comments
+I would love to make this recipe, but I have no idea what the following means: 250g 1 kg 350 ml I get that they are measurements, but I haven’t a clue as to how to relate to American measurements. Or how to find out. Reply You can use my conversion chart here: https://simply-delicious-food.com/conversion-chart/ Reply
+I would love to make this recipe, but I have no idea what the following means:
+250g 1 kg 350 ml
+I get that they are measurements, but I haven’t a clue as to how to relate to American measurements. Or how to find out.
+You can use my conversion chart here: https://simply-delicious-food.com/conversion-chart/ Reply
+You can use my conversion chart here: https://simply-delicious-food.com/conversion-chart/
+We LOVE Brussels sprouts and your recipe looks fantastic. Definitely making it this Christmas. Reply Hope you love it! Reply
+We LOVE Brussels sprouts and your recipe looks fantastic. Definitely making it this Christmas.
+Hope you love it! Reply
+Hope you love it!
+One of my favorite side dishes Alida! Love the added bacon! Reply Mine too Mary Ann! Reply
+One of my favorite side dishes Alida! Love the added bacon!
+Mine too Mary Ann! Reply
+Mine too Mary Ann!
+I love brussels and bacon! One of my favorite winter veggie dishes! Reply Me too! And to think I never used to eat the lovely sprouts. Now they’re a regular on my menu. Reply
+I love brussels and bacon! One of my favorite winter veggie dishes!
+Me too! And to think I never used to eat the lovely sprouts. Now they’re a regular on my menu. Reply
+Me too! And to think I never used to eat the lovely sprouts. Now they’re a regular on my menu.

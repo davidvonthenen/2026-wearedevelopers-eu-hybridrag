@@ -1,0 +1,102 @@
+Hot Chocolate
+=============
+
+Recipe Metadata
+---------------
+Recipe ID: 79004bb148b7db0e
+CSV row number: 61
+Recipe name: Hot Chocolate
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/hot-chocolate-recipe-1962772
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0066d6f63e9b4ace21cfdb6a3579251a750aa31719be9b80e032f0fdfafb21c8/21126475.jpg
+Servings: 4
+Calories: 2690.92
+Diet labels: Low-Carb
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: drinks
+
+Original CSV Fields
+-------------------
+recipe_name: Hot Chocolate
+source: Food Network
+url: https://www.foodnetwork.com/recipes/hot-chocolate-recipe-1962772
+servings: 4
+calories: 2690.917332
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0066d6f63e9b4ace21cfdb6a3579251a750aa31719be9b80e032f0fdfafb21c8/21126475.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["drinks"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Hot Chocolate
+
+Recipe category: beverage
+
+Yield: 4 servings
+
+Prep time: P0Y0M0DT0H5M0.000S
+
+Cook time: P0Y0M0DT0H8M0.000S
+
+Total time: P0Y0M0DT0H13M0.000S
+
+Ingredients:
+- 4 cups milk
+- 4 tablespoons Dutch process cocoa, mixed into a paste with 1/4 cup milk
+- 4 tablespoons granulated sugar
+- 2 ounces peppermint schnapps
+- 1 pint heavy cream, whipped
+- Grated bittersweet chocolate for garnish
+- 4 candy canes
+
+Instructions:
+1. In a small saucepan, over low heat, heat milk. Stir in cocoa mixed with milk, sugar and continue to stir until cocoa is incorporated and sugar is dissolved. Do not bring mixture to a boil. Off heat add peppermint Schnapps. Pour hot chocolate into 4 mugs. Top with whipped cream, grated chocolate and add 1 candy cane per mug.
+
+Visible page text:
+Home
+Recipes
+Dessert
+Hot Chocolate
+Level: Easy
+Total: 13 min
+Prep: 5 min
+Cook: 8 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+4 cups milk
+4 tablespoons Dutch process cocoa, mixed into a paste with 1/4 cup milk
+4 tablespoons granulated sugar
+2 ounces peppermint schnapps
+1 pint heavy cream, whipped
+Grated bittersweet chocolate for garnish
+4 candy canes
+In a small saucepan, over low heat, heat milk. Stir in cocoa mixed with milk, sugar and continue to stir until cocoa is incorporated and sugar is dissolved. Do not bring mixture to a boil. Off heat add peppermint Schnapps. Pour hot chocolate into 4 mugs. Top with whipped cream, grated chocolate and add 1 candy cane per mug.
+Categories:
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Peppermint-Vodka Hot Chocolate Recipe
+Holiday Hot Chocolate Recipe
+Spiced Hot Chocolate Recipe
+El Dorado Hot Chocolate Recipe
+Slow-Cooker Hot Chocolate Recipe
+Minty Hot Chocolate Recipe

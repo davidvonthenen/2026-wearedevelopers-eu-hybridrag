@@ -1,0 +1,104 @@
+Quick Fire Roasted Tomato Sauce recipes
+=======================================
+
+Recipe Metadata
+---------------
+Recipe ID: 07ac8095da56274a
+CSV row number: 450
+Recipe name: Quick Fire Roasted Tomato Sauce recipes
+Source: artfuldishes.com
+URL: http://www.artfuldishes.com/quick-fire-roasted-tomato-sauce/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02e471433dac10a83a84c78932f7793c4a17e2b9c0e8f8e51af3fbea2c6bbf19/21089003.jpeg
+Servings: 6
+Calories: 373.97
+Diet labels: Balanced
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Quick Fire Roasted Tomato Sauce recipes
+source: artfuldishes.com
+url: http://www.artfuldishes.com/quick-fire-roasted-tomato-sauce/
+servings: 6
+calories: 373.9685559500317
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02e471433dac10a83a84c78932f7793c4a17e2b9c0e8f8e51af3fbea2c6bbf19/21089003.jpeg
+diet_labels: ["Balanced"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Quick Fire Roasted Tomato Sauce
+
+Description: This flavorful sauce comes together really quickly!
+
+Recipe cuisine: Italian
+
+Ingredients:
+- 1 tablespoon olive oil
+- 3 cloves garlic, minced
+- 1/4 teaspoon crushed red pepper flakes (or more if you like it spicier, to taste)
+- 3 14.5 oz cans of fire-roasted diced tomatoes, pureed in a blender or food processor. You can leave some chunky if you like.
+- 1/2 cup water
+- 1 1/2 teaspoon Kosher salt
+- 1/2 teaspoon freshly ground black pepper
+- 2 teaspoons dried oregano
+- 2 teaspoons sugar
+- 1 tablespoon fresh parsley, chopped
+- 2 tablespoons fresh basil, chopped
+
+Instructions:
+1. Using a blender or food processor, puree the canned tomatoes. I like them mostly blended, with a rustic texture.
+2. Heat the olive oil in a 12&#8243; skillet over medium heat, add the garlic and the red pepper flakes and saute for 30 seconds. Don&#8217;t brown the garlic or the sauce may get a bitter flavor.
+3. Add the pureed tomatoes and water to the pan. Be careful because they will bubble up in the hot pan, turn the heat to low. Use a splatter screen over the pan if the tomato sauce keeps bubbling up.
+4. Add the salt, pepper, oregano and sugar to the pan, stir to combine and simmer for 15 minutes.
+5. Turn off the heat and add the fresh parsley and basil. Serve over your favorite shape of pasta!
+
+Visible page text:
+Get all the latest recipes straight to your inbox
+Quick Fire Roasted Tomato Sauce
+This quick fire roasted tomato sauce is great for weeknights because, well, it’s quick! You can have it done in the time it takes to make your pasta. But it’s also delicious. You’ll get a ton of flavor developed in a short amount of time by adding delicious herbs and aromatics to fire roasted tomatoes.
+The great thing about this sauce is that the ingredients are mostly pantry staples. With the exception of the fresh herbs, you might already have everything you need.
+I like to use canned, fire roasted tomatoes because they’re so naturally flavorful. The charred bits add a nice, slightly smoky taste to the sauce. If you’ve never used them before, you’re going to love them. I don’t even buy regular canned tomatoes any more! You’ll start by putting the tomatoes in the blender or food processor to puree them quickly to make a smoother, but still slightly chunky sauce. This is an optional step, but I think it’s worth it to get a nice consistency that will cling to your noodles! If you like a more chunky sauce, you could blend one can instead of all three.
+This quick fire roasted tomato sauce is also a nice blank canvas for other ingredients. You can add some capers if you have those on hand, they add a nice briney, bright flavor to the sauce. Pretty much any cooked meats or sautéed veggies can be added for more substance (or to help clean out the fridge!). It’s also perfect on it’s own with just a little fresh basil, parsley or Parmesan sprinkled on top.
+This is also a great sauce to use in other recipes, like, oh, I don’t know, maybe some gluten free Italian sausage lasagna ? ; )
+Description
+This flavorful sauce comes together really quickly!
+Ingredients
+1 tablespoon olive oil
+3 cloves garlic, minced
+1/4 teaspoon crushed red pepper flakes (or more if you like it spicier, to taste)
+3 14.5 oz cans of fire-roasted diced tomatoes, pureed in a blender or food processor. You can leave some chunky if you like.
+1/2 cup water
+1 1/2 teaspoon Kosher salt
+1/2 teaspoon freshly ground black pepper
+2 teaspoons dried oregano
+2 teaspoons sugar
+1 tablespoon fresh parsley, chopped
+2 tablespoons fresh basil, chopped
+Instructions
+Using a blender or food processor, puree the canned tomatoes. I like them mostly blended, with a rustic texture.
+Heat the olive oil in a 12″ skillet over medium heat, add the garlic and the red pepper flakes and saute for 30 seconds. Don’t brown the garlic or the sauce may get a bitter flavor.
+Add the pureed tomatoes and water to the pan. Be careful because they will bubble up in the hot pan, turn the heat to low. Use a splatter screen over the pan if the tomato sauce keeps bubbling up.
+Add the salt, pepper, oregano and sugar to the pan, stir to combine and simmer for 15 minutes.
+Turn off the heat and add the fresh parsley and basil. Serve over your favorite shape of pasta!
+Notes
+Feel free to add any meats or sauteed veggies to the sauce. Capers are a great addition too!
+Share this:
+Email a link to a friend (Opens in new window) Email
+Print (Opens in new window) Print
+Share on Facebook (Opens in new window) Facebook
+Share on Pinterest (Opens in new window) Pinterest
+You might also like

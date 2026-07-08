@@ -1,0 +1,225 @@
+Pad Thai with Shrimp
+====================
+
+Recipe Metadata
+---------------
+Recipe ID: 341adcc20e1822a9
+CSV row number: 69
+Recipe name: Pad Thai with Shrimp
+Source: afarmgirlsdabbles.com
+URL: https://www.afarmgirlsdabbles.com/pad-thai-with-shrimp-recipe/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0058e65b4ecf8ff88526e26967fe0d9b051145ea8f52f696aae4a979dc018cf4/21135621.jpg
+Servings: 2
+Calories: 1204.17
+Diet labels: High-Fiber, Low-Fat
+Health labels: Dairy-Free, Tree-Nut-Free
+Allergy cautions: Shellfish, Sulfites, FODMAP
+Cuisine type: south east asian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Pad Thai with Shrimp
+source: afarmgirlsdabbles.com
+url: https://www.afarmgirlsdabbles.com/pad-thai-with-shrimp-recipe/
+servings: 2
+calories: 1204.170479891228
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0058e65b4ecf8ff88526e26967fe0d9b051145ea8f52f696aae4a979dc018cf4/21135621.jpg
+diet_labels: ["High-Fiber","Low-Fat"]
+health_labels: ["Dairy-Free","Tree-Nut-Free"]
+cautions: ["Shellfish","Sulfites","FODMAP"]
+cuisine_type: ["south east asian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Pad Thai with Shrimp
+
+Description: This easy Shrimp Pad Thai recipe is a flavorful stir-fry dish that features rice noodles, shrimp, scrambled egg, and fresh vegetables, all tossed together in a savory-sweet-sour sauce and scattered with crushed peanuts. It comes together in just 30 minutes!
+
+Recipe category: ['Dinner Ideas']
+
+Recipe cuisine: ['Asian']
+
+Yield: ['2', '2 to 3 servings']
+
+Prep time: PT20M
+
+Cook time: PT10M
+
+Total time: PT30M
+
+Ingredients:
+- ¼ cup packed light brown sugar (add more if you like a sweeter pad Thai)
+- 2 tablespoons fish sauce
+- 2 tablespoons Thai tamarind concentrate - I like Dragonfly Tamarind Concentrate (see photo in post)
+- 1 tablespoon freshly squeezed lime juice
+- 2 teaspoons oyster sauce
+- 2 teaspoons sriracha - our family likes the one from Trader Joe's (use more or less, depending on your heat preference)
+- 8 ounces thin rice noodles - I recommend Thai Kitchen Stir-Fry Rice Noodles
+- 2½ tablespoon vegetable or canola oil
+- 12 large (21/25 count raw shrimp, peeled and deveined)
+- ½ teaspoon kosher salt
+- ¼ teaspoon black pepper
+- 1 cup fresh bean sprouts
+- ½ cup shredded carrots
+- 3 green onions (sliced into 1" pieced)
+- 2 large cloves garlic (minced)
+- 2 large eggs (whisked)
+- ⅓ cup finely chopped roasted salted peanuts (divided)
+- fresh cilantro and lime wedges (for serving)
+
+Instructions:
+1. For the sauce: In a small bowl, whisk all sauce ingredients together. Set aside.
+2. For the pad Thai: Cook the rice noodles according to package directions. Drain the noodles in a strainer and rinse with cold water until noodles are no longer hot. Drizzle ½ tablespoon of the oil over the top of the noodles and toss briefly to prevent sticking.
+3. Place shrimp on a paper towel lined pan or plate and pat the shrimp dry. Sprinkle with salt and pepper.
+4. Heat a large sauté pan or wok over medium-high heat. Add 1 tablespoon of the oil. Once oil is shimmering, add the shrimp. Sear for 1-2 minutes per side, until shrimp is opaque and has a golden exterior - cook time will depend on size of shrimp and heat temperature; do not overcook. Transfer shrimp to a clean plate and set aside.
+5. Add remaining tablespoon of oil to sauté pan. Once it&#x27;s shimmering, add the bean sprouts, carrots, and green onions. Cook for 1 minute, stirring occasionally. Stir in the garlic and cook 1 minute more.
+6. Slide the veggies to one side of the pan and add the whisked eggs on the other side. Cook the eggs until scrambled, stirring and chopping into little bites.
+7. Add the cooked noodles, cooked shrimp, and 1 tablespoon of the chopped peanuts to the pan. Then drizzle the pad Thai sauce over the top and toss it altogether until everything is evenly coated in the sauce. Remove pan from heat.
+8. Serve: Serve immediately, sprinkled with more chopped peanuts. Offer plenty of lime wedges for squeezing over the top, plus fresh cilantro. For those who like more heat, also offer crushed red pepper flakes.
+
+Visible page text:
+This easy Shrimp Pad Thai recipe is a flavorful stir-fry dish that features rice noodles, shrimp, scrambled egg, and fresh vegetables, all tossed together in a savory-sweet-sour sauce and scattered with crushed peanuts. It comes together in just 30 minutes!
+Flavorful Shrimp Pad Thai Recipe
+My easy Shrimp Pad Thai recipe is just as good (maybe even better?!) than what we order at our favorite take-out spot!
+The best pad Thai takes your taste buds on a delicious journey. From savory (oyster sauce and fish sauce) to sweet (a little sugar) to sour (tamarind paste and lime juice), each bite of this shrimp pad Thai is glorious. Plus, it’s quick and easy to make, so our family can enjoy it any time the craving strikes!
+Why You’ll Love This Easy Pad Thai
+There’s a lot to love about pad Thai; this Asian-inspired comfort food is something truly special. Here’s why you’ll love this recipe:
+Quick to make. You’ll need just 30 minutes to throw together this satisfying pad Thai. For our family, that’s quicker than it would take to order and pick up our favorite pad Thai takeout!
+Incredible flavor and texture. There are so many flavors and textures going on in this dish – this is one of the reasons I make it again and again. Chewy rice noodles + briny, succulent shrimp + fresh, crunchy vegetables, all dressed in a perfectly salty-sweet-sour (and spicy, if you like) sauce that I could eat every single week!
+Easy to modify. You can adjust all the flavors of the sauce – make it more or less salty, sweet, or sour. And if you like heat, you can add that, too! You can also swap out the shrimp for another protein – see the notes in the recipe card for how to make this with chicken, beef, pork, and tofu!
+What Is Pad Thai?
+Pad Thai is a popular stir-fried rice noodle dish. It’s native to Thailand, where it’s served as street food.
+The main ingredients in pad Thai include thin, flat rice noodles, shrimp or another protein, crushed peanuts, scrambled egg, and bean sprouts.
+Everything is tossed in an easy pad Thai sauce made of fish sauce, oyster sauce, brown sugar, and tamarind, which gives the dish a unique salty-sweet-sour flavor.
+Recipe Ingredients
+Here’s an overview of what you’ll need to make shrimp pad Thai.
+Scroll down to the printable recipe card at the end of this post for exact ingredient amounts.
+FOR THE SAUCE
+Brown sugar – You can use light or dark brown sugar, for a touch of sweetness.
+Fish sauce – Find this savory, funky-flavored condiment in the Asian aisle of most supermarkets.
+Thai tamarind concentrate – I especially like Dragonfly Tamarind Concentrate. Just do not use an Indian tamarind paste, as it does not have the right flavor for pad Thai.
+Lime juice – Use freshly squeezed lime juice for the brightest, freshest flavor.
+Oyster sauce – This gives a delicious savory flavor.
+Sriracha – This adds some heat to the dish. You can use more or less, depending on your heat preference.
+FOR THE PAD THAI
+Rice noodles – Look for thin, flat rice noodles. I use Thai Kitchen Stir-Fry Rice Noodles .
+Vegetable oil – Or you can use canola oil.
+Raw shrimp – Use large raw shrimp that is peeled and deveined.
+Salt & black pepper
+Bean sprouts – One of my favorite ingredients when we order pad Thai takeout! I look for ones that look plump and super fresh.
+Carrots – I like to add shredded carrots for extra flavor, texture, and nutrition.
+Green onions – Green onions add another layer of fresh flavor.
+Garlic – Garlic is essential to the base of this dish.
+Eggs – Eggs add extra protein and soft contrast to the dish. Whisked eggs get scrambled into the dish, much like when you make fried rice .
+Peanuts – I use roasted, salted peanuts for some salty crunch.
+Cilantro and lime – For serving.
+How To Make Shrimp Pad Thai
+Follow along with my quick and easy method for shrimp pad Thai below:
+Make the sauce: Whisk all sauce ingredients together and set aside.
+Make the pad Thai: Cook the rice noodles according to package directions, then drain them in a strainer and rinse with cold water until the noodles are no longer hot. Drizzle ½ tablespoon of the oil over the top of the noodles and toss briefly to prevent sticking.
+Prepare the shrimp. Pat the shrimp dry and season with salt and pepper.
+Cook the shrimp. Heat a large sauté pan or wok over medium-high heat. Add 1 tablespoon of oil, then sear the shrimp for 1-2 minutes per side, until the shrimp is opaque, with a golden exterior. Transfer shrimp to a clean plate and set aside.
+Cook the vegetables. Add a little more oil to the pan/wok and add the bean sprouts, carrots, and green onions. Cook for 1 minute, stir in the garlic and cook for 1 minute more.
+Add the eggs. Slide the veggies to one side of the pan. Add the whisked eggs on the other side. Cook the eggs until scrambled, stirring and chopping into little bites.
+Combine everything. Add the cooked noodles, cooked shrimp, and 1 tablespoon of the chopped peanuts to the pan. Then drizzle the pad Thai sauce over the top. Toss it altogether until everything is evenly coated in the sauce. Remove the pan from heat.
+Serve. Serve immediately, sprinkled with more chopped peanuts. Offer fresh lime wedges for squeezing over the top, plus fresh cilantro. For those who like more heat, also offer crushed red pepper flakes.
+Common Questions
+Shrimp pad Thai uses rice noodles as its base while lo mein typically includes wheat flour noodles. Pad Thai is also sweeter and originated in Thailand, while lo mein has its origins in China.
+Fish sauce is a sauce made from fermented fish, like anchovies, that has been coated in salt. It has a salty, funky flavor.
+Unlike many other Thai dishes, pad Thai is not traditionally spicy. It is often served with a variety of condiments, which lets the individual make it spicy if they like. I’ve included a little spice in my version of pad Thai, which you can alter to your liking.
+Yes! Chicken pad Thai is very popular. See the notes at the bottom of the recipe card for how to make chicken pad Thai – or how to substitute beef, pork, or tofu.
+Serving Suggestions
+Shrimp pad Thai is a one-bowl comfort meal that’s filling and flavorful. Here are a few suggestions of other dishes you might like to serve along with it:
+Spring rolls. Fresh spring rolls stuffed with vegetables and avocado and served with spicy peanut sauce or sweet chili sauce for dipping would make the perfect appetizer to a meal of shrimp pad Thai.
+Rice. Try my lime-scented cilantro lime rice as a simple side dish to pad Thai. Or pineapple fried rice or kimchi fried rice .
+More stir-fries. To add another noodle stir fry to the table along with shrimp pad Thai, make my pad woon sen , another Thai-inspired dish with glass noodles and vegetables.
+How to Store Leftover Shrimp Pad Thai
+Store leftover shrimp pad Thai in an airtight container in the fridge for up to 3 days. To reheat it, place it in a microwave-safe bowl and reheat in 30-second intervals until hot.
+Pad Thai with Shrimp
+Ingredients
+¼ cup packed light brown sugar add more if you like a sweeter pad Thai
+2 tablespoons fish sauce
+2 tablespoons Thai tamarind concentrate – I like Dragonfly Tamarind Concentrate see photo in post
+1 tablespoon freshly squeezed lime juice
+2 teaspoons oyster sauce
+2 teaspoons sriracha – our family likes the one from Trader Joe’s use more or less, depending on your heat preference
+8 ounces thin rice noodles – I recommend Thai Kitchen Stir-Fry Rice Noodles
+2½ tablespoon vegetable or canola oil
+12 large 21/25 count raw shrimp, peeled and deveined
+½ teaspoon kosher salt
+¼ teaspoon black pepper
+1 cup fresh bean sprouts
+½ cup shredded carrots
+3 green onions sliced into 1″ pieced
+2 large cloves garlic minced
+2 large eggs whisked
+⅓ cup finely chopped roasted salted peanuts divided
+fresh cilantro and lime wedges for serving
+Instructions
+For the sauce: In a small bowl, whisk all sauce ingredients together. Set aside.
+For the pad Thai: Cook the rice noodles according to package directions. Drain the noodles in a strainer and rinse with cold water until noodles are no longer hot. Drizzle ½ tablespoon of the oil over the top of the noodles and toss briefly to prevent sticking.
+Place shrimp on a paper towel lined pan or plate and pat the shrimp dry. Sprinkle with salt and pepper.
+Heat a large sauté pan or wok over medium-high heat. Add 1 tablespoon of the oil. Once oil is shimmering, add the shrimp. Sear for 1-2 minutes per side, until shrimp is opaque and has a golden exterior – cook time will depend on size of shrimp and heat temperature; do not overcook. Transfer shrimp to a clean plate and set aside.
+Add remaining tablespoon of oil to sauté pan. Once it's shimmering, add the bean sprouts, carrots, and green onions. Cook for 1 minute, stirring occasionally. Stir in the garlic and cook 1 minute more.
+Slide the veggies to one side of the pan and add the whisked eggs on the other side. Cook the eggs until scrambled, stirring and chopping into little bites.
+Add the cooked noodles, cooked shrimp, and 1 tablespoon of the chopped peanuts to the pan. Then drizzle the pad Thai sauce over the top and toss it altogether until everything is evenly coated in the sauce. Remove pan from heat.
+Serve: Serve immediately, sprinkled with more chopped peanuts. Offer plenty of lime wedges for squeezing over the top, plus fresh cilantro. For those who like more heat, also offer crushed red pepper flakes.
+Notes
+Nutrition Information:
+More Asian-Inspired Recipes
+Yaki Udon
+Mandarin Chicken
+Potstickers
+Dragon Roll
+Like this Recipe? Save to Pinterest
+This post was originally published in 2104, then updated in 2023.
+Asian
+Cuisines
+Dinner Ideas
+Fish & Seafood
+Recipes
+get new posts via email:
+Leave a Reply Cancel Reply
+17 comments on “Shrimp Pad Thai”
+Reply
+I must try this! I’ve been looking for an easy(ish) recipe for this and I’m excited to give it a whirl! Reply
+I must try this! I’ve been looking for an easy(ish) recipe for this and I’m excited to give it a whirl!
+One of my all time faves! This looks fantastic! Reply
+One of my all time faves! This looks fantastic!
+Happy Valentine’s Day to you and your family, Brenda! This pad thai is so my kind of meal! Reply Thank you so much, Tieghan! Hope you had a great day! Reply
+Happy Valentine’s Day to you and your family, Brenda! This pad thai is so my kind of meal!
+Thank you so much, Tieghan! Hope you had a great day! Reply
+Thank you so much, Tieghan! Hope you had a great day!
+Love Pad Thai and this looks like a big bowl of yumminess! Reply Thanks, Paula! :) Reply
+Love Pad Thai and this looks like a big bowl of yumminess!
+Thanks, Paula! :) Reply
+Thanks, Paula! :)
+Love Pad Thai but I’ve only had it with chicken before! Will have to make this version soon! Reply Chicken is great. But shrimp is my favorite!! Thanks, Angie! Reply
+Love Pad Thai but I’ve only had it with chicken before! Will have to make this version soon!
+Chicken is great. But shrimp is my favorite!! Thanks, Angie! Reply
+Chicken is great. But shrimp is my favorite!! Thanks, Angie!
+Pad Thai is one of my very favorite meals and this looks fabulous! Reply Thanks, Gaby! :) Reply
+Pad Thai is one of my very favorite meals and this looks fabulous!
+Thanks, Gaby! :) Reply
+Thanks, Gaby! :)
+United Noodle is one of my favorite stores to browse in within the whole of the Twin Cities. I went there for a tasting menu a couple of weeks back, and their deli counter does not disappoint! Reply I’ve heard about those tasting menus, and how the store has been redone since I was there years ago. Can’t wait to visit again! Reply
+United Noodle is one of my favorite stores to browse in within the whole of the Twin Cities. I went there for a tasting menu a couple of weeks back, and their deli counter does not disappoint!
+I’ve heard about those tasting menus, and how the store has been redone since I was there years ago. Can’t wait to visit again! Reply
+I’ve heard about those tasting menus, and how the store has been redone since I was there years ago. Can’t wait to visit again!
+Oh I love pad thai–and love when I can make “home takeout”. Pinning this now so I can make this when baby is here and I’m craving a tasty restaurant style meal! :) Reply Yay! Hope you like it, Katie. And I hope you’re feeling great!! Reply
+Oh I love pad thai–and love when I can make “home takeout”. Pinning this now so I can make this when baby is here and I’m craving a tasty restaurant style meal! :)
+Yay! Hope you like it, Katie. And I hope you’re feeling great!! Reply
+Yay! Hope you like it, Katie. And I hope you’re feeling great!!
+Happy Valentine’s Day to you and your family, Brenda! This looks fantastic! xo Reply Thanks bunches, Sandy! I hope you had a great day with your fam, too! xo Reply
+Happy Valentine’s Day to you and your family, Brenda! This looks fantastic! xo
+Thanks bunches, Sandy! I hope you had a great day with your fam, too! xo Reply
+Thanks bunches, Sandy! I hope you had a great day with your fam, too! xo

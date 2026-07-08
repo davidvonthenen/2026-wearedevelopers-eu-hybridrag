@@ -1,0 +1,82 @@
+Baked Falafel Recipe
+====================
+
+Recipe Metadata
+---------------
+Recipe ID: 4299f58764f98763
+CSV row number: 474
+Recipe name: Baked Falafel Recipe
+Source: cookingwithamandaz.blogspot.com
+URL: http://cookingwithamandaz.blogspot.com/2015/12/baked-falafel.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/03153843fa256b1de8d3c2315fc6997ed09590089eeb92b70af5ea6656182909/21099899.jpeg
+Servings: 8
+Calories: 2263.42
+Diet labels: Balanced, High-Fiber
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: middle eastern
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Baked Falafel Recipe
+source: cookingwithamandaz.blogspot.com
+url: http://cookingwithamandaz.blogspot.com/2015/12/baked-falafel.html
+servings: 8
+calories: 2263.418625
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/03153843fa256b1de8d3c2315fc6997ed09590089eeb92b70af5ea6656182909/21099899.jpeg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["middle eastern"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Saturday, December 5, 2015
+Baked Falafel
+There's nothing like crispy hot falafel coming out of the fryer. I can eat them all by themselves, but frying is work and not the healthiest. If you are looking for an alternative, these baked falafels are easy to make at home, better for you, and can be made ahead for those busy weeknights. Of course, nothing can completely replace the taste of fried falafel. Baking over frying does throw off the outside texture, but you have to get the inside right too. I've either been using a pre-made mix or preparing my own mixture of chickpea flour and spices. I loved the taste, but the texture was just not right. I realized that using whole chickpeas makes all the difference and it's super easy to make. The only difficult part is remembering to soak the chickpeas! That's where I fall apart. Why I can't remember to do a task that takes only seconds is beyond me. For those of you that are more organized and like to plan menus, this is a great add on recipe. If you have school-aged kids, I'll bet that you have at least one crazy weekday full of afterschool activities where there is no way you are going to get dinner on the table. It's easy to declare it a pizza night or in our case, Chipotle night. I was getting a little tired of it, so recently, I've decided that day is going to be a freezer meal. Not a store bought frozen dinner, but a homemade frozen meal. Well, a little someone was not too thrilled about skipping Chipotle, so the compromise was for that weeknight to alter between Chipotle and a freezer meal. Yes, that's right, I negotiate with 7 year olds because sometimes you just have to! I have a few recipes that I make in bulk, divide into portions, label and then store in the freezer. I've been doing this with my spicy black bean burgers and it's been great. So I figured, falafel patties should freeze just as easily. I wrapped them in a single layer in foil and stored them in a Ziploc bag. To reheat, just wrap the frozen falafel patties in foil and heat at 350 for about 20 minutes or until they are hot. Chop up some veggies and put together a tahini sauce while the patties are reheating. Easy! Healthy homemade dinner is on the table in no time. Print Save Baked Falafel Recipe Embed Ingredients 2 cups dry chickpeas, soaked for 24 hours 1 cup red onion, diced 1/2 cup parsley leaves 3/4 cup cilantro leaves 4 cloves garlic, chopped 2 teaspoons ground cumin 2 teaspoons ground coriander pinch of cayenne pepper, or to taste 1 1/2 teaspoons salt 1/2 teaspoon black pepper 1/2 teaspoon baking soda 2 tablespoons lemon juice 5 tablespoons oil Directions Heat the oven to 375°F. Drain the chickpeas. Combine the chickpeas, onion, parsley, cilantro, garlic, spices and baking soda in a food processor and pulse it a few times. Scrape down the sides and add the lemon juice and pulse until the chickpeas are finely minced. Taste and adjust salt and spices if necessary. Brush a full size baking sheet with 3 Tablespoons of oil. Form 2 inch patties with your hands and place them on your baking sheet. Brush the tops with the remaining oil. Bake for 12 minutes, flip over the patties and bake for another 12 minutes or until they nicely browned on both sides. Serve with tahini or harissa alone or with pita and vegetables. Notes Only the part of the patty touching the baking sheet will brown so make sure your patties are flat enough to have contact with the baking sheet. I use my small cookie scoop to get each patty to be the same size. Recommended Magimix 4200XL Food Processor Magimix 5200XL Food Processor Breville Food Processor Cuisinart Elite Food Processor via Food Fanatic http://ift.tt/1XQm8YD
+There's nothing like crispy hot falafel coming out of the fryer. I can eat them all by themselves, but frying is work and not the healthiest. If you are looking for an alternative, these baked falafels are easy to make at home, better for you, and can be made ahead for those busy weeknights.
+Of course, nothing can completely replace the taste of fried falafel. Baking over frying does throw off the outside texture, but you have to get the inside right too. I've either been using a pre-made mix or preparing my own mixture of chickpea flour and spices. I loved the taste, but the texture was just not right.
+I realized that using whole chickpeas makes all the difference and it's super easy to make. The only difficult part is remembering to soak the chickpeas! That's where I fall apart. Why I can't remember to do a task that takes only seconds is beyond me. For those of you that are more organized and like to plan menus, this is a great add on recipe.
+If you have school-aged kids, I'll bet that you have at least one crazy weekday full of afterschool activities where there is no way you are going to get dinner on the table. It's easy to declare it a pizza night or in our case, Chipotle night.
+I was getting a little tired of it, so recently, I've decided that day is going to be a freezer meal. Not a store bought frozen dinner, but a homemade frozen meal. Well, a little someone was not too thrilled about skipping Chipotle, so the compromise was for that weeknight to alter between Chipotle and a freezer meal. Yes, that's right, I negotiate with 7 year olds because sometimes you just have to! I have a few recipes that I make in bulk, divide into portions, label and then store in the freezer. I've been doing this with my spicy black bean burgers and it's been great. So I figured, falafel patties should freeze just as easily. I wrapped them in a single layer in foil and stored them in a Ziploc bag.
+To reheat, just wrap the frozen falafel patties in foil and heat at 350 for about 20 minutes or until they are hot. Chop up some veggies and put together a tahini sauce while the patties are reheating. Easy! Healthy homemade dinner is on the table in no time.
+Baked Falafel Recipe
+Ingredients
+2 cups dry chickpeas, soaked for 24 hours
+1 cup red onion, diced
+1/2 cup parsley leaves
+3/4 cup cilantro leaves
+4 cloves garlic, chopped
+2 teaspoons ground cumin
+2 teaspoons ground coriander
+pinch of cayenne pepper, or to taste
+1 1/2 teaspoons salt
+1/2 teaspoon black pepper
+1/2 teaspoon baking soda
+2 tablespoons lemon juice
+5 tablespoons oil
+Directions
+Heat the oven to 375°F. Drain the chickpeas.
+Combine the chickpeas, onion, parsley, cilantro, garlic, spices and baking soda in a food processor and pulse it a few times. Scrape down the sides and add the lemon juice and pulse until the chickpeas are finely minced.
+Taste and adjust salt and spices if necessary.
+Brush a full size baking sheet with 3 Tablespoons of oil.
+Form 2 inch patties with your hands and place them on your baking sheet. Brush the tops with the remaining oil.
+Bake for 12 minutes, flip over the patties and bake for another 12 minutes or until they nicely browned on both sides.
+Serve with tahini or harissa alone or with pita and vegetables.
+Notes
+Only the part of the patty touching the baking sheet will brown so make sure your patties are flat enough to have contact with the baking sheet.
+I use my small cookie scoop to get each patty to be the same size.
+Recommended
+Put the internet to work for you.
+Turn off or edit this Recipe
+No comments:
+Post a Comment

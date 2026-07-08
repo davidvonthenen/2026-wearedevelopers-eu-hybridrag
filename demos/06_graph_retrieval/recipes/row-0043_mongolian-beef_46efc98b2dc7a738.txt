@@ -1,0 +1,135 @@
+Mongolian Beef
+==============
+
+Recipe Metadata
+---------------
+Recipe ID: 46efc98b2dc7a738
+CSV row number: 43
+Recipe name: Mongolian Beef
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/81972/mongolian-beef
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0034546fc7c51dfc499c0e80c1757d690fb16c61c4f04a66d27095fcc660325c/21068105.jpg
+Servings: 6
+Calories: 1692.94
+Diet labels: Low-Carb
+Health labels: Dairy-Free, Egg-Free, Tree-Nut-Free, Fish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: asian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Mongolian Beef
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/81972/mongolian-beef
+servings: 6
+calories: 1692.937049387563
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0034546fc7c51dfc499c0e80c1757d690fb16c61c4f04a66d27095fcc660325c/21068105.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Dairy-Free","Egg-Free","Tree-Nut-Free","Fish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["asian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Mongolian Beef
+
+Description: An unusual freezing technique infuses intense Asian flavors into thin-sliced beef, which is then stir fried with green onions and Swiss chard.
+
+Recipe category: ['Dinner']
+
+Recipe cuisine: ['Asian Inspired']
+
+Yield: ['6', '6 servings']
+
+Prep time: PT20M
+
+Cook time: PT10M
+
+Total time: PT140M
+
+Ingredients:
+- 1 pound flank steak
+- 0.25 cup chicken stock
+- 1.5 tablespoons cornstarch
+- 3 tablespoons hot chili oil
+- 2 tablespoons hoisin sauce
+- 1 tablespoon oyster sauce
+- 1 tablespoon dry sherry
+- 2 teaspoons sugar
+- 2 teaspoons soy sauce
+- 2 teaspoons crushed red pepper flakes
+- 2 tablespoons peanut oil
+- 2 tablespoons chopped garlic
+- 1 bunch Swiss chard - rinsed, stems removed and cut into 1/2 inch slices
+- 2 green onions, cut into thin slivers about 2 inches long
+- 1 teaspoon salt
+- 0.25 teaspoon black pepper
+
+Instructions:
+1. Spread the flank steak out flat, cover with plastic wrap, and place in the freezer until partially frozen, 20 to 30 minutes.
+2. Remove beef from the freezer and slice across the grain into very thin slices.
+3. Whisk the chicken stock and cornstarch in a freezer-safe bowl until smooth; whisk in the hot chili oil, hoisin sauce, oyster sauce, sherry, sugar, soy sauce, and crushed red pepper flakes. Place the beef into the sauce, stir to coat well. Cover and freeze until frozen, about 1 hour.
+4. Remove from the freezer and allow to defrost, about 30 minutes.
+5. Heat a wok over high heat until very hot, and pour in the peanut oil. Immediately add garlic, cook and stir in the hot oil until fragrant, about 15 seconds. Mix in the Swiss chard and green onions; cook and stir the vegetables until they turn bright green, about 3 minutes, and then remove from the wok.
+6. Pour the defrosted beef mixture into the hot wok; cook and stir until the meat browns and the sauce forms a glaze, 3 to 5 minutes. Return the cooked vegetables to the wok, sprinkle with salt and pepper, mix to combine well; serve hot.
+
+Visible page text:
+Recipes
+Global Cuisines
+Asian
+Mongolian Beef
+This is a traditional Mongolian beef recipe that I have worked on for over a year to perfect. My husband and I love Chinese food, and now we make it at home -- even better than the restaurant!
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 6 servings
+1 pound flank steak
+¼ cup chicken stock
+1 ½ tablespoons cornstarch
+3 tablespoons hot chili oil
+2 tablespoons hoisin sauce
+1 tablespoon oyster sauce
+1 tablespoon dry sherry
+2 teaspoons sugar
+2 teaspoons soy sauce
+2 teaspoons crushed red pepper flakes
+2 tablespoons peanut oil
+2 tablespoons chopped garlic
+1 bunch Swiss chard - rinsed, stems removed and cut into 1/2 inch slices
+2 green onions, cut into thin slivers about 2 inches long
+1 teaspoon salt
+¼ teaspoon black pepper
+Directions
+Spread the flank steak out flat, cover with plastic wrap, and place in the freezer until partially frozen, 20 to 30 minutes.
+Remove beef from the freezer and slice across the grain into very thin slices.
+Whisk the chicken stock and cornstarch in a freezer-safe bowl until smooth; whisk in the hot chili oil, hoisin sauce, oyster sauce, sherry, sugar, soy sauce, and crushed red pepper flakes. Place the beef into the sauce, stir to coat well. Cover and freeze until frozen, about 1 hour.
+Remove from the freezer and allow to defrost, about 30 minutes.
+Heat a wok over high heat until very hot, and pour in the peanut oil. Immediately add garlic, cook and stir in the hot oil until fragrant, about 15 seconds. Mix in the Swiss chard and green onions; cook and stir the vegetables until they turn bright green, about 3 minutes, and then remove from the wok.
+Pour the defrosted beef mixture into the hot wok; cook and stir until the meat browns and the sauce forms a glaze, 3 to 5 minutes. Return the cooked vegetables to the wok, sprinkle with salt and pepper, mix to combine well; serve hot.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Mongolian Beef
+1
+2
+Next
+Most-Saved Recipes Like This
+Mongolian Beef and Spring Onions 1,205 Ratings 35 mins Save
+Asian Beef with Snow Peas 1,275 Ratings 15 mins Save
+Mongolian Beef from the Slow Cooker 462 Ratings 15 mins Save
+Asian Beef Skewers 538 Ratings 2 hrs 40 mins Save
+Sesame Beef 1,044 Ratings 45 mins Save
+Quick Beef Stir-Fry 480 Ratings 25 mins Save
+Slow Cooker Mongolian Beef 431 Ratings 4 hrs 30 mins Save
+Super-Simple, Super-Spicy Mongolian Beef 465 Ratings 1 hr 25 mins Save
+Crispy Orange Beef 1,071 Ratings 1 hr 40 mins Save
+Black Pepper Beef and Cabbage Stir Fry 786 Ratings 30 mins Save
+You’ll Also Love

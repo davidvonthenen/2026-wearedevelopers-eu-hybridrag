@@ -1,0 +1,72 @@
+Chipotle Marinade recipes
+=========================
+
+Recipe Metadata
+---------------
+Recipe ID: 8abdc76a82bdf454
+CSV row number: 98
+Recipe name: Chipotle Marinade recipes
+Source: Food Republic
+URL: http://www.foodrepublic.com/recipes/chipotle-marinade-recipe/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/008c3888831c52f9db24f722a3c24184664832c5fcaccd10d15578d28c6ac2ee/20961586.jpeg
+Servings: 4
+Calories: 428.73
+Diet labels: Low-Carb
+Health labels: Vegan, Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: mexican
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Chipotle Marinade recipes
+source: Food Republic
+url: http://www.foodrepublic.com/recipes/chipotle-marinade-recipe/
+servings: 4
+calories: 428.727
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/008c3888831c52f9db24f722a3c24184664832c5fcaccd10d15578d28c6ac2ee/20961586.jpeg
+diet_labels: ["Low-Carb"]
+health_labels: ["Vegan","Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["mexican"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Chipotle Marinade Recipe
+
+Yield: ['1', '1 1/2 pounds meat']
+
+Prep time: PT10M
+
+Total time: PT10M
+
+Ingredients:
+- 4 chipotle peppers in adobo sauce
+- 3 tablespoons olive oil
+- 3 tablespoons cider vinegar
+- 1/4 teaspoon salt
+
+Instructions:
+1. In a large zip top bag combine all ingredients.
+2. Add steak and marinate in the fridge for 4 to 6 hours. Never leave uncooked marinating meat at room temperature for more than 40 minutes.
+
+Visible page text:
+Chipotle Marinade Recipe
+Marinating is a good way to get more flavor and tenderness from your meat, which is especially important when you are grilling, because of the quick cooking time. In this Chipotle Marinade Recipe , the vinegar helps to tenderize the meat, while the chipotle peppers infuse it with smoky spice.
+Ingredients
+4 chipotle peppers in adobo sauce
+3 tablespoons olive oil
+3 tablespoons cider vinegar
+1/4 teaspoon salt
+Directions
+In a large zip top bag combine all ingredients.
+Add steak and marinate in the fridge for 4 to 6 hours. Never leave uncooked marinating meat at room temperature for more than 40 minutes.
+Recommended

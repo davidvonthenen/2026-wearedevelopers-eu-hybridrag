@@ -1,0 +1,113 @@
+Banana Fritters with Spiced Glaze
+=================================
+
+Recipe Metadata
+---------------
+Recipe ID: 557d222f283b8fd1
+CSV row number: 74
+Recipe name: Banana Fritters with Spiced Glaze
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/sandra-lee/banana-fritters-with-spiced-glaze-recipe-2047729
+Image URL: unknown
+Servings: 16
+Calories: 4626.75
+Diet labels: none listed
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Banana Fritters with Spiced Glaze
+source: Food Network
+url: https://www.foodnetwork.com/recipes/sandra-lee/banana-fritters-with-spiced-glaze-recipe-2047729
+servings: 16
+calories: 4626.745399999999
+image_url: 
+diet_labels: []
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Banana Fritters with Spiced Glaze
+
+Recipe category: dessert
+
+Yield: 16 fritters
+
+Prep time: P0Y0M0DT0H10M0.000S
+
+Cook time: P0Y0M0DT0H15M0.000S
+
+Total time: P0Y0M0DT0H25M0.000S
+
+Ingredients:
+- 3 eggs, beaten
+- 3/4 cup milk
+- 1/4 cup brown sugar
+- 3 cups baking mix
+- 3 ripe bananas, diced
+- 2 cups canola oil, for frying
+- 1 1/2 cups powdered sugar
+- 1 1/2 teaspoons pumpkin pie spice
+
+Instructions:
+1. For the fritters: In a large bowl, whisk the eggs with the milk and sugar until blended. Stir in the baking mix and bananas until just combined.
+2. Heat the canola oil in a large, heavy-bottomed skillet over medium heat. Using a small ice cream scoop, drop the batter into the skillet. Fry in batches until golden brown and cooked through the center, 2 to 3 minutes per side. Remove from the oil and allow to drain on a wire cooling rack set over a baking sheet.
+3. For the glaze: Whisk together the powdered sugar, 1/4 cup water and pumpkin pie spice.
+4. While the fritters are still warm, pour the glaze over top. Allow the glaze to set up slightly before serving.
+
+Visible page text:
+Home
+Recipes
+Dessert
+Banana Fritters with Spiced Glaze
+Level: Easy
+Total: 25 min
+Prep: 10 min
+Cook: 15 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+Fritters:
+3 eggs, beaten
+3/4 cup milk
+1/4 cup brown sugar
+3 cups baking mix
+3 ripe bananas, diced
+2 cups canola oil, for frying
+Spiced Glaze:
+1 1/2 cups powdered sugar
+1 1/2 teaspoons pumpkin pie spice
+For the fritters: In a large bowl, whisk the eggs with the milk and sugar until blended. Stir in the baking mix and bananas until just combined.
+Heat the canola oil in a large, heavy-bottomed skillet over medium heat. Using a small ice cream scoop, drop the batter into the skillet. Fry in batches until golden brown and cooked through the center, 2 to 3 minutes per side. Remove from the oil and allow to drain on a wire cooling rack set over a baking sheet.
+For the glaze: Whisk together the powdered sugar, 1/4 cup water and pumpkin pie spice.
+While the fritters are still warm, pour the glaze over top. Allow the glaze to set up slightly before serving.
+Recipe copyright Sandra Lee
+Categories:
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Spice Cake with Ginger Glaze Recipe
+Prosecco Pound Cakes with Sparkling Glaze Recipe
+Sherry Tea Cakes and Glaze Recipe
+Roast Ham with Sweet Mustard Glaze Recipe
+Roasted Brussels Sprouts with Cranberry Glaze...
+Brats on a Stick with Sweet Mustard Glaze Recipe

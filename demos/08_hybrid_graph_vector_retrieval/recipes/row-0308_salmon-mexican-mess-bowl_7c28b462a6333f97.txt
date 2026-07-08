@@ -1,0 +1,107 @@
+Salmon Mexican mess bowl
+========================
+
+Recipe Metadata
+---------------
+Recipe ID: 7c28b462a6333f97
+CSV row number: 308
+Recipe name: Salmon Mexican mess bowl
+Source: kitchen.nine.com.au
+URL: https://kitchen.nine.com.au/healthy/salmon-mexican-mess-bowl/77abcf30-7ea6-4997-b2e9-ddda2836aa96
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01f910054801708d120b6778c271fc58846bb42d1aee5f05a01a57601d26f517/21101452.jpg
+Servings: 4
+Calories: 2752.97
+Diet labels: High-Fiber, Low-Sodium
+Health labels: Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mexican, nordic
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Salmon Mexican mess bowl
+source: kitchen.nine.com.au
+url: https://kitchen.nine.com.au/healthy/salmon-mexican-mess-bowl/77abcf30-7ea6-4997-b2e9-ddda2836aa96
+servings: 4
+calories: 2752.975
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01f910054801708d120b6778c271fc58846bb42d1aee5f05a01a57601d26f517/21101452.jpg
+diet_labels: ["High-Fiber","Low-Sodium"]
+health_labels: ["Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mexican","nordic"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Salmon Mexican mess bowl
+
+Description: Freshen up your nacho game with this vibrant, healthier salmon iteration.
+
+Recipe category: dinner
+
+Yield: serves 4
+
+Total time: PT30M
+
+Ingredients:
+- 4x 140g Fresh Huon Salmon portions
+- 440g cannellini beans, drained
+- 1 teaspoon cumin, ground
+- 2 cups passata
+- 2 cups purple corn chips, crushed
+- 1 avocado
+- ½ cup sour cream
+
+Instructions:
+1. Heat a large fry-pan with the rice bran oil until hot. Add the cubed fresh Huon Salmon and gently cook for 1-2 minutes.
+2. Add the fresh chilli and ground cumin
+3. Add passata and cannellini beans and cook for a further 2-3 minutes
+4. Serve with crushed purple corn chips, sour cream and slices of avocado
+5. Image and recipe courtesy of
+6. .
+
+Visible page text:
+Nine
+9Honey
+Kitchen
+Healthy
+Difficulty easy
+Cooking time less than 30 minutes
+Serves serves 4
+Ingredients Method
+4x 140g Fresh Huon Salmon portions
+440g cannellini beans, drained
+1 teaspoon cumin, ground
+2 cups passata
+2 cups purple corn chips, crushed
+1 avocado
+½ cup sour cream
+Share
+Mail
+Pinterest
+X
+Salad
+Seafood
+Healthy Ingredients
+High Protein
+Salmon
+Bean
+Corn Chip
+Dinner
+Fried
+Easy
+Serves 4
+Less Than 30 Minutes
+Property News: Australia's most popular suburbs in every capital city.
+Related Recipes
+This salmon dinner is perfect for people who hate seafood
+Kitchen Australia's best cafe of 2026 has been crowned
+Kitchen Subway announces next move after cancelling loyalty program
+Kitchen Coles releases more M&S food products in supermarkets

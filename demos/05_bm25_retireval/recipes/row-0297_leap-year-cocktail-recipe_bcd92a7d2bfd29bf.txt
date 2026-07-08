@@ -1,0 +1,83 @@
+Leap Year Cocktail Recipe
+=========================
+
+Recipe Metadata
+---------------
+Recipe ID: bcd92a7d2bfd29bf
+CSV row number: 297
+Recipe name: Leap Year Cocktail Recipe
+Source: Serious Eats
+URL: https://www.seriouseats.com/leap-year-cocktail-recipe
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01dcb0d7cfffc4acb221d84fe3ddbcf4ed2c2d70a621667d4a3671cb487bacbc/20948383.jpg
+Servings: 1
+Calories: 193.77
+Diet labels: Low-Fat, Low-Sodium
+Health labels: none listed
+Allergy cautions: Sulfites
+Cuisine type: world
+Meal type: lunch/dinner
+Dish type: alcohol cocktail
+
+Original CSV Fields
+-------------------
+recipe_name: Leap Year Cocktail Recipe
+source: Serious Eats
+url: https://www.seriouseats.com/leap-year-cocktail-recipe
+servings: 1
+calories: 193.7670346103671
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01dcb0d7cfffc4acb221d84fe3ddbcf4ed2c2d70a621667d4a3671cb487bacbc/20948383.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: []
+cautions: ["Sulfites"]
+cuisine_type: ["world"]
+meal_type: ["lunch/dinner"]
+dish_type: ["alcohol cocktail"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Leap Year Cocktail Recipe
+
+Description: The Leap Year is a very engaging concoction. Mildly sweet, with a faint touch of bitterness, the cocktail is tasty enough to be enjoyed regularly while we wait for the next February 29 to roll around.
+
+Recipe category: ['Gin', 'Cocktail']
+
+Recipe cuisine: ['British']
+
+Yield: 1
+
+Prep time: PT5M
+
+Total time: PT5M
+
+Ingredients:
+- 2 ounces gin
+- 1/2 ounce Grand Marnier
+- 1/2 ounce sweet vermouth
+- 1 dash fresh lemon juice
+
+Instructions:
+1. Pour ingredients into a cocktail shaker and fill with ice. Shake well for 10 seconds and strain into a chilled cocktail glass. Twist a piece of lemon peel over the drink and use for garnish.
+
+Visible page text:
+Recipes By Course
+Drinks
+Cocktails
+Gin
+Leap Year Cocktail Recipe
+When I was a kid, one of my mother's closest friends was in the habit of slyly pointing out that she'd had only twelve (or thereabouts) birthdays--this, despite the fact that she was a middle-aged mother of three. Her punchline of course--and note I never said it was a good one--was that she was born on February 29, a date that only appears on the calendar when leap year rolls around.
+Hey, look at today's date! As you might expect from such a benign oddity, the day has spawned its own cocktail. The Savoy Cocktail Book states, "This Cocktail was created by Harry Craddock, for the Leap Year celebrations at the Savoy Hotel, London, on February 29th, 1928. It is said to have been responsible for more proposals than any other cocktail that has ever been mixed."
+I can't attest to Craddock's claim, but I can back up the notion that the Leap Year is a very engaging concoction. Mildly sweet, with a faint touch of bitterness, the cocktail is tasty enough to be enjoyed regularly while we wait for the next February 29 to roll around.
+Adapted from Savoy Cocktail Book.
+Recipe Details
+2 ounces gin
+1/2 ounce Grand Marnier
+1/2 ounce sweet vermouth
+1 dash fresh lemon juice
+Pour ingredients into a cocktail shaker and fill with ice. Shake well for 10 seconds and strain into a chilled cocktail glass. Twist a piece of lemon peel over the drink and use for garnish.
+Liqueurs & Fortified Wines
+More Serious Eats Recipes

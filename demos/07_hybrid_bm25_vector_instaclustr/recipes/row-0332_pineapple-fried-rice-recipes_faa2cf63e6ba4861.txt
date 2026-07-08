@@ -1,0 +1,186 @@
+Pineapple Fried Rice recipes
+============================
+
+Recipe Metadata
+---------------
+Recipe ID: faa2cf63e6ba4861
+CSV row number: 332
+Recipe name: Pineapple Fried Rice recipes
+Source: healthynibblesandbits.com
+URL: http://healthynibblesandbits.com/pineapple-fried-rice/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02166c88e2607cbd44ec7583c8c1875a9338f05669a17d2921c7958b81cacd9f/21116825.jpeg
+Servings: 5
+Calories: 2409.58
+Diet labels: Balanced, High-Fiber
+Health labels: Vegetarian, Dairy-Free, Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: chinese
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Pineapple Fried Rice recipes
+source: healthynibblesandbits.com
+url: http://healthynibblesandbits.com/pineapple-fried-rice/
+servings: 5
+calories: 2409.578638888016
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02166c88e2607cbd44ec7583c8c1875a9338f05669a17d2921c7958b81cacd9f/21116825.jpeg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Vegetarian","Dairy-Free","Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["chinese"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Pineapple Fried Rice
+
+Description: If possible, try and use fresh pineapple for the recipe. This recipe also works well with frozen vegetables. There is no need to defrost the vegetables before cooking with them.
+
+Recipe category: ['Main Course', 'Rice']
+
+Recipe cuisine: ['Thai']
+
+Yield: ['4']
+
+Prep time: PT18M
+
+Cook time: PT12M
+
+Total time: PT30M
+
+Ingredients:
+- 3 tablespoons safflower oil (divided (any high-heat oil works, too))
+- 3 large eggs (whisked)
+- 1 cup diced yellow onions (about 1/2 large onion)
+- pinch of salt
+- 1/2 large red pepper (diced)
+- 1 large carrot (peeled and diced)
+- 1/2 cup frozen peas ((70g))
+- 1 teaspoon turmeric
+- 1 1/2 teaspoons ground coriander
+- 6 cups cooked jasmine rice
+- 3 tablespoons soy sauce or tamari
+- 1 1/2 tablespoons brown sugar ((see note 1))
+- 1/2 teaspoon ground white pepper (optional)
+- 1 1/4 cups diced pineapple
+- 2 scallions (sliced)
+- 3 tablespoons chopped basil
+
+Instructions:
+1. Heat 1/2 tablespoon of oil in a wok or large sauté pan over medium-high heat. When the pan is hot, add the whisked eggs and scramble it with a spatula. Continue scrambling until eggs are cooked, about 30 seconds to 1 minute. Transfer eggs to a plate and set aside. If the wok or pan is dirty, wipe it down with paper towels.
+2. Heat remaining 2 1/2 tablespoons of oil over medium-high heat. Add the onions and a pinch of salt and cook until the onions start to soften, about 2 minutes. Mix in the red pepper, carrots and peas and cook for another 2 minutes. Add the turmeric and coriander and stir until the vegetables are coated with the spices. Add the rice and mix well with the vegetables. Continue cooking and stirring the rice for about 1 to 2 minutes.
+3. In a small bowl, quickly mix the soy sauce (or tamari) with the brown sugar and pour that sauce over the rice. Add the white pepper, if using, and stir until well incorporated.
+4. Add the eggs, pineapple and sliced scallions to the rice and stir to distribute. Turn off the heat and mix in the chopped basil. Serve immediately.
+
+Visible page text:
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+Pineapple Fried Rice
+This healthy pineapple fried rice is a lovely blend of sweet and savory flavors. Unlike other pineapple fried rice recipes, this one is seasoned with turmeric and coriander for a more earthy flavor. Ready in 30 minutes!
+Just as “coffee is life” is a motto that some people live by, my motto is “fried rice is life.” Honestly, where would I be without it? Carbs, fat, vegetables, spice—fried rice has it all! It’s one of the main reasons why I can’t ever see myself committing to a paleo or low-carb lifestyle. I don’t have the will power to give up the fried good stuff!
+I’ve shared quite a few fried rice recipes here already (see my kimchi , coconut and shrimp , and turmeric and shallots versions). Trying to pick my favorite recipe is like asking a mother to pick their favorite child—they’re all equally loved.
+Several weeks ago, my friends and I got together for dinner at a Thai restaurant. One of them ordered pineapple fried rice, and what I loved most about it was the spices, particularly the turmeric. Usually, when I order pineapple fried rice at a restaurant, it’s just a soy sauce fried rice tossed with a few pineapple cubes. But the one my friend got in front of her had a beautiful, mesmerizing golden hue. And, of course, it inspired me to create a version at home.
+The main spices are turmeric, coriander and a bit of soy sauce. I’ve made this a few times for my in-laws and they give it their thumbs up!
+COOKING NOTES FOR PINEAPPLE FRIED RICE
+USING DAY-OLD RICE
+Traditionally, fried rice was a dish that people cooked to repurpose leftover rice from the night before. That’s why most fried rice recipes call for day-old rice. If you don’t have leftover rice on hand, cook a big batch of rice (about 1 1/2 cups to 2 cups of rice) and spread it over plates or a large baking sheet to cool. Let the rice dry out for an hour or two. Freshly cooked rice has too much moisture, so it’s not ideal for fried rice.
+HOW TO PICK FRESH PINEAPPLE
+If you are using fresh pineapple, you want to use one that is golden on the outside. If you use one that has a lot of green color in the outer skin, it means that the pineapple isn’t ripe enough and the fruit will have a sour taste. I usually leave pineapples on my counter for at least a few days for the fruit to ripen. If the bottom of the pineapple starts getting moldy, don’t worry. The fruit usually won’t be rotten on the inside. If you see some discolored bits in the pineapple (parts that look brown and not golden), just chop it away. The rest of the pineapple is still fine to eat.
+KITCHEN TIP: HOW TO CUT A PINEAPPLE
+Ingredients
+3 tablespoons safflower oil , divided (any high-heat oil works, too)
+3 large eggs , whisked
+1 cup diced yellow onions , about 1/2 large onion
+pinch of salt
+1/2 large red pepper , diced
+1 large carrot , peeled and diced
+1/2 cup frozen peas , (70g)
+1 teaspoon turmeric
+1 1/2 teaspoons ground coriander
+6 cups cooked jasmine rice
+3 tablespoons soy sauce or tamari
+1 1/2 tablespoons brown sugar , (see note 1)
+1/2 teaspoon ground white pepper , optional
+1 1/4 cups diced pineapple
+2 scallions , sliced
+3 tablespoons chopped basil
+Instructions
+Heat 1/2 tablespoon of oil in a wok or large sauté pan over medium-high heat. When the pan is hot, add the whisked eggs and scramble it with a spatula. Continue scrambling until eggs are cooked, about 30 seconds to 1 minute. Transfer eggs to a plate and set aside. If the wok or pan is dirty, wipe it down with paper towels.
+Heat remaining 2 1/2 tablespoons of oil over medium-high heat. Add the onions and a pinch of salt and cook until the onions start to soften, about 2 minutes. Mix in the red pepper, carrots and peas and cook for another 2 minutes. Add the turmeric and coriander and stir until the vegetables are coated with the spices. Add the rice and mix well with the vegetables. Continue cooking and stirring the rice for about 1 to 2 minutes.
+In a small bowl, quickly mix the soy sauce (or tamari) with the brown sugar and pour that sauce over the rice. Add the white pepper, if using, and stir until well incorporated.
+Add the eggs, pineapple and sliced scallions to the rice and stir to distribute. Turn off the heat and mix in the chopped basil. Serve immediately.
+Video
+Notes
+I added brown sugar to the recipe to balance out the turmeric and soy sauce with the pineapple. If you would rather not add any additional sugar to the fried rice, feel free to leave it out.
+Substitutions : If you have curry powder on hand, you can use that to replace the turmeric.
+Nutrition
+Pin
+Email
+Hello! I’m Lisa Lin
+Here, you’ll find well-tested Asian recipes, pantry guides, and recipes from my sassy mother, Mama Lin. Through my recipes and cooking videos, I hope to honor the food and traditions that surrounded my Chinese American upbringing.
+The Latest
+Reader Interactions
+Leave a Reply Cancel reply
+Share a comment
+Haha totally agreed! Could not be low-carb because rice is a main food group for me. But I’m not such a master at fried rice, and this looks delightful! Reply Thanks, Karlie! Reply
+Haha totally agreed! Could not be low-carb because rice is a main food group for me. But I’m not such a master at fried rice, and this looks delightful!
+Thanks, Karlie! Reply
+Thanks, Karlie!
+This dish is delicious! It’s the best fried rice I’ve ever eaten and my husband said it’s the best meal I’ve ever made. Instant favorite. Reply Becca, thank you so much for trying this recipe!! I’m so glad that you and your husband enjoyed it!! Reply
+This dish is delicious! It’s the best fried rice I’ve ever eaten and my husband said it’s the best meal I’ve ever made. Instant favorite.
+Becca, thank you so much for trying this recipe!! I’m so glad that you and your husband enjoyed it!! Reply
+Becca, thank you so much for trying this recipe!! I’m so glad that you and your husband enjoyed it!!
+Love this!! Reply
+Love this!!
+Great recipe. I used yellow curry powder instead of the tumeric. I added about 6 ounces of diced boneless chicken, browned with the onions. Otherwise, I followed it exactly as written. It was easy and so tasty! Will save and make again. Reply
+Great recipe. I used yellow curry powder instead of the tumeric. I added about 6 ounces of diced boneless chicken, browned with the onions. Otherwise, I followed it exactly as written. It was easy and so tasty! Will save and make again.
+I substituted in mixed grain rice, coconut oil, and egg whites. It came out delicious!!! I will make this again as I love Thai pineapple fried rice. Reply Pamela, thanks for trying my recipe! I’m so glad that you enjoyed it! Reply
+I substituted in mixed grain rice, coconut oil, and egg whites. It came out delicious!!! I will make this again as I love Thai pineapple fried rice.
+Pamela, thanks for trying my recipe! I’m so glad that you enjoyed it! Reply
+Pamela, thanks for trying my recipe! I’m so glad that you enjoyed it!
+Wow Lisa, page 1 result for pineapple fried rice. I see post-law school is treating you well. Look forward to trying more of your recipies, but I hope you don’t hop on the cauliflour everything bandwagon, it’s already expensive enough. We should hang out when I get back to California. Reply Hahaha! Thanks, Youchen! Yes, let me know when you get back to California! Reply
+Wow Lisa, page 1 result for pineapple fried rice. I see post-law school is treating you well. Look forward to trying more of your recipies, but I hope you don’t hop on the cauliflour everything bandwagon, it’s already expensive enough. We should hang out when I get back to California.
+Hahaha! Thanks, Youchen! Yes, let me know when you get back to California! Reply
+Hahaha! Thanks, Youchen! Yes, let me know when you get back to California!
+Hi what should I use to replace eggs ?? Reply You can leave them out if you don’t like eggs. Reply
+Hi what should I use to replace eggs ??
+You can leave them out if you don’t like eggs. Reply
+You can leave them out if you don’t like eggs.
+Really good, authentic flavors! HOWEVER I doubled all of the veggies, spices, the soy sauce/brown sugar mixture & the pineapple. I think it would’ve been pretty bland without doing that. It makes a lot of food, so make sure you have an extra large pan, or just cut the quantity of the cooked rice in half. I also added shrimp, but could easily add chicken or pork too. This recipe is definitely a keeper though! Reply Hi, Kara! Thank you so much for trying out the recipe and for your feedback. I’m glad you made modifications to adjust the recipe to your taste! Reply
+Really good, authentic flavors! HOWEVER I doubled all of the veggies, spices, the soy sauce/brown sugar mixture & the pineapple. I think it would’ve been pretty bland without doing that. It makes a lot of food, so make sure you have an extra large pan, or just cut the quantity of the cooked rice in half. I also added shrimp, but could easily add chicken or pork too. This recipe is definitely a keeper though!
+Hi, Kara! Thank you so much for trying out the recipe and for your feedback. I’m glad you made modifications to adjust the recipe to your taste! Reply
+Hi, Kara! Thank you so much for trying out the recipe and for your feedback. I’m glad you made modifications to adjust the recipe to your taste!
+This is delicious. I doubled the veggies, used half rice and half cauliflower ‘rice’ and added a drop of hot sauce. Reply Thank you, Laura! I’m so glad you enjoyed this!! Reply
+This is delicious. I doubled the veggies, used half rice and half cauliflower ‘rice’ and added a drop of hot sauce.
+Thank you, Laura! I’m so glad you enjoyed this!! Reply
+Thank you, Laura! I’m so glad you enjoyed this!!
+Hi I want to make this but do I drain the pineapples ? Thank You Connie Reply
+Hi I want to make this but do I drain the pineapples ? Thank You Connie
+Can this be made a day ahead of time & reheated? We’re having a luau & I’m trying to be cautious of my prep time. Reply
+Can this be made a day ahead of time & reheated? We’re having a luau & I’m trying to be cautious of my prep time.
+Oh my sooo yummy! Reply Thanks, CJ! Reply
+Oh my sooo yummy!
+Thanks, CJ! Reply
+Thanks, CJ!
+Looks pretty and smells great but really rather tasteless. So bummed out I had high hopes. Reply
+Looks pretty and smells great but really rather tasteless. So bummed out I had high hopes.
+This Pineapple Fried Rice recipe looks absolutely delicious! I love how you’ve incorporated healthy ingredients and the vibrant presentation. Can’t wait to give it a try for my next meal! Thanks for sharing! Reply
+This Pineapple Fried Rice recipe looks absolutely delicious! I love how you’ve incorporated healthy ingredients and the vibrant presentation. Can’t wait to give it a try for my next meal! Thanks for sharing!
+I love how vibrant and refreshing this Pineapple Fried Rice looks! The combination of sweet and savory flavors sounds irresistible. I can’t wait to try it out this weekend; it feels like the perfect dish to brighten up any meal. Thanks for sharing this delicious recipe, Lisa! Reply
+I love how vibrant and refreshing this Pineapple Fried Rice looks! The combination of sweet and savory flavors sounds irresistible. I can’t wait to try it out this weekend; it feels like the perfect dish to brighten up any meal. Thanks for sharing this delicious recipe, Lisa!
+I absolutely love the idea of incorporating pineapple into fried rice! The sweet and savory combination sounds delicious. Can’t wait to try this recipe for a healthy and vibrant meal. Thanks for sharing, Lisa! Reply
+I absolutely love the idea of incorporating pineapple into fried rice! The sweet and savory combination sounds delicious. Can’t wait to try this recipe for a healthy and vibrant meal. Thanks for sharing, Lisa!
+I tried the Pineapple Fried Rice recipe from your post, and it was a hit! The combination of flavors is fantastic, and I love how healthy it is. Thank you for sharing such a delicious and vibrant dish! Reply
+I tried the Pineapple Fried Rice recipe from your post, and it was a hit! The combination of flavors is fantastic, and I love how healthy it is. Thank you for sharing such a delicious and vibrant dish!
+I can’t wait to try this Pineapple Fried Rice recipe! I love how it’s both healthy and packed with flavor. The combination of pineapple and vegetables sounds amazing. Thanks, Lisa, for sharing such a vibrant dish! Reply
+I can’t wait to try this Pineapple Fried Rice recipe! I love how it’s both healthy and packed with flavor. The combination of pineapple and vegetables sounds amazing. Thanks, Lisa, for sharing such a vibrant dish!
+Let's Connect

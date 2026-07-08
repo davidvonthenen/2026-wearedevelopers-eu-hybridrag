@@ -1,0 +1,125 @@
+20-Minute Grilled Pizza with Smoked Salmon and Mixed Greens
+===========================================================
+
+Recipe Metadata
+---------------
+Recipe ID: 19799fe2e563e3fe
+CSV row number: 263
+Recipe name: 20-Minute Grilled Pizza with Smoked Salmon and Mixed Greens
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/food-network-kitchen/20-minute-grilled-pizza-with-smoked-salmon-and-mixed-greens-3362670
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01a5a13ae6442e5074dca5f8ed4587fa2b4e5b9a9b6277e33883fee576f980df/21131707.jpg
+Servings: 4
+Calories: 2817.58
+Diet labels: none listed
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: 20-Minute Grilled Pizza with Smoked Salmon and Mixed Greens
+source: Food Network
+url: https://www.foodnetwork.com/recipes/food-network-kitchen/20-minute-grilled-pizza-with-smoked-salmon-and-mixed-greens-3362670
+servings: 4
+calories: 2817.584794451882
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01a5a13ae6442e5074dca5f8ed4587fa2b4e5b9a9b6277e33883fee576f980df/21131707.jpg
+diet_labels: []
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: 20-Minute Grilled Pizza with Smoked Salmon and Mixed Greens
+
+Description: Grilling pizza gives the crust a wonderful char in just a few minutes, without heating up the kitchen. We took our inspiration for the no-cook toppings from our Sunday bagels: A schmear of lemony cream cheese is a natural for the smoked salmon, while cucumbers and radishes add color and crunch.
+
+Yield: 4 servings
+
+Prep time: P0Y0M0DT0H10M0.000S
+
+Cook time: P0Y0M0DT0H5M0.000S
+
+Total time: P0Y0M0DT0H15M0.000S
+
+Ingredients:
+- 8 ounces whipped cream cheese, at room temperature
+- Zest and juice of 1 small lemon
+- 1/4 cup fresh dill, roughly chopped, plus more fronds for garnish
+- Kosher salt and freshly ground black pepper
+- 1 pound frozen pizza dough, thawed
+- All-purpose flour, for sprinkling
+- 1/4 cup extra-virgin olive oil, plus more for oiling the grill grates
+- 1/2 pound smoked salmon, thinly sliced
+- 1 Persian cucumber, very-thinly sliced
+- 2 radishes, very-thinly sliced
+- 5 ounces mesclun mix
+
+Instructions:
+1. Prepare a grill for medium-high heat.
+2. Line a baking sheet with parchment paper. Stir together the cream cheese, lemon zest, 1 tablespoon of the lemon juice, the chopped dill, a large pinch of salt and several grinds of pepper in a small mixing bowl. Set aside.
+3. Divide the pizza dough into 2 balls. Sprinkle the flour on a clean flat surface and roll each ball into an elongated crust, approximately 16 inches long and 6 inches wide. Transfer the crusts to the prepared baking sheet. Brush both sides of both crusts with 2 tablespoons of the oil and lightly sprinkle with salt.
+4. Lightly oil the grill grates. Grill the crusts until they start to puff and distinct grill marks appear, about 2 minutes. Flip and cook until just cooked through, an additional 1 to 2 minutes. Discard the used parchment paper and put the finished crusts on the baking sheet.
+5. Smear each crust with the cream cheese mixture. Shingle the smoked salmon on top making sure that each bite will have a piece of salmon. Scatter the sliced cucumbers and radishes on top of the salmon and garnish with dill fronds.
+6. Whisk together the remaining lemon juice, remaining 2 tablespoons oil and a large pinch of salt and pepper in a large bowl. Add the mesclun mix and toss to combine. Serve the pizzas family-style or cut each pizza in half and serve as individual pizzas for 4 people, with some salad on the side.
+7. Copyright 2014 Television Food Network, G.P. All rights reserved.
+
+Visible page text:
+Home
+Recipes
+Main Dishes
+Pizza
+20-Minute Grilled Pizza with Smoked Salmon and Mixed Greens
+Level: Easy
+Total: 15 min
+Prep: 10 min
+Cook: 5 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+8 ounces whipped cream cheese, at room temperature
+Zest and juice of 1 small lemon
+1/4 cup fresh dill, roughly chopped, plus more fronds for garnish
+Kosher salt and freshly ground black pepper
+1 pound frozen pizza dough, thawed
+All-purpose flour, for sprinkling
+1/4 cup extra-virgin olive oil, plus more for oiling the grill grates
+1/2 pound smoked salmon, thinly sliced
+1 Persian cucumber, very-thinly sliced
+2 radishes, very-thinly sliced
+5 ounces mesclun mix
+Prepare a grill for medium-high heat.
+Line a baking sheet with parchment paper. Stir together the cream cheese, lemon zest, 1 tablespoon of the lemon juice, the chopped dill, a large pinch of salt and several grinds of pepper in a small mixing bowl. Set aside.
+Divide the pizza dough into 2 balls. Sprinkle the flour on a clean flat surface and roll each ball into an elongated crust, approximately 16 inches long and 6 inches wide. Transfer the crusts to the prepared baking sheet. Brush both sides of both crusts with 2 tablespoons of the oil and lightly sprinkle with salt.
+Lightly oil the grill grates. Grill the crusts until they start to puff and distinct grill marks appear, about 2 minutes. Flip and cook until just cooked through, an additional 1 to 2 minutes. Discard the used parchment paper and put the finished crusts on the baking sheet.
+Smear each crust with the cream cheese mixture. Shingle the smoked salmon on top making sure that each bite will have a piece of salmon. Scatter the sliced cucumbers and radishes on top of the salmon and garnish with dill fronds.
+Whisk together the remaining lemon juice, remaining 2 tablespoons oil and a large pinch of salt and pepper in a large bowl. Add the mesclun mix and toss to combine. Serve the pizzas family-style or cut each pizza in half and serve as individual pizzas for 4 people, with some salad on the side.
+Copyright 2014 Television Food Network, G.P. All rights reserved.
+Categories:
+More from:
+Quick-Fix Meals
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Risotto Cakes with Mixed Greens Recipe
+Creamed Mixed Greens Recipe
+Mixed Greens Recipe
+Garlic Staked Leg of Lamb with Salad of Mixed...
+Bowties with Pancetta, Grilled Salmon and...
+Tartello with Raveggiolo and Mixed Greens Recipe

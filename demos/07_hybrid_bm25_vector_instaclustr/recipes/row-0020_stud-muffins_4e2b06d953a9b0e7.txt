@@ -1,0 +1,131 @@
+Stud Muffins
+============
+
+Recipe Metadata
+---------------
+Recipe ID: 4e2b06d953a9b0e7
+CSV row number: 20
+Recipe name: Stud Muffins
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/stud-muffins-7256302
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0015fdc8462d739dcc15a1678dc2a238f099c3b98200f02d99b42ad726e35aed/21095402.jpg
+Servings: 12
+Calories: 7194.97
+Diet labels: High-Fiber
+Health labels: Vegetarian, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Tree-Nuts, Sulfites, FODMAP
+Cuisine type: american
+Meal type: breakfast
+Dish type: biscuits and cookies
+
+Original CSV Fields
+-------------------
+recipe_name: Stud Muffins
+source: Food Network
+url: https://www.foodnetwork.com/recipes/stud-muffins-7256302
+servings: 12
+calories: 7194.969999926486
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0015fdc8462d739dcc15a1678dc2a238f099c3b98200f02d99b42ad726e35aed/21095402.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Vegetarian","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Tree-Nuts","Sulfites","FODMAP"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["biscuits and cookies"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Stud Muffins
+
+Yield: 12 muffins
+
+Cook time: P0Y0M0DT0H20M0.000S
+
+Total time: P0Y0M0DT1H0M0.000S
+
+Ingredients:
+- Nonstick baking spray, for the muffin tin, optional
+- 1 cup coconut oil, melted and cooled (room temperature vegetable oil can be substituted)
+- 2 teaspoons vanilla extract
+- 1/2 teaspoon almond extract, optional
+- 6 eggs, at room temperature
+- 1 1/4 cups unsweetened almond milk
+- 3 cups oat or fine almond flour, plus more if needed (see Cook's Note)
+- 2 cups coconut sugar
+- 1 cup coconut flour (see Cook's Note)
+- 1 tablespoon baking powder
+- 1/2 teaspoon fine salt
+- 1 cup frozen blueberries
+- 1/2 cup white, dark, milk or mini chocolate chips
+- 1/3 cup rainbow sprinkles
+
+Instructions:
+1. For the base muffins: Preheat the oven to 350 degrees F. Grease a 12-cup muffin tin with baking spray (or use paper muffin liners).
+2. In a large bowl, mix together the coconut oil, vanilla extract, almond extract if using and eggs until well combined. Add the milk and mix again until well incorporated.
+3. In a separate large bowl, whisk together the oat flour, sugar, coconut flour, baking powder and salt. Add the dry ingredients to the wet ingredients and mix well. The mixture should be on the thicker side (you can sprinkle in some extra flour if needed).
+4. Divide the batter evenly among the muffin tin cups. Bake until golden brown, 35 to 40 minutes. Do not overbake to avoid drying out the muffins.
+5. For the blueberry muffins: Follow the directions for the base muffins, mixing in the frozen blueberries after combining the wet and dry ingredients. Bake as directed above.
+6. For the chocolate chip muffins: Follow the directions for the base muffins, mixing in the chocolate chips after combining the wet and dry ingredients. Bake as directed above.
+7. For the confetti muffins: Follow the directions for the base muffins, mixing in the rainbow sprinkles after combining the wet and dry ingredients. Bake as directed above.
+
+Visible page text:
+Home
+Recipes
+Bread
+Quick Bread
+Muffins
+We're sorry, there seems to be an issue playing this video. Please refresh the page or try again in a moment. If you continue to have issues, please contact us here .
+Stud Muffins
+Level: Easy
+Total: 1 hr
+Active: 20 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+Base Muffins:
+Nonstick baking spray, for the muffin tin, optional
+1 cup coconut oil, melted and cooled (room temperature vegetable oil can be substituted)
+2 teaspoons vanilla extract
+1/2 teaspoon almond extract, optional
+6 eggs, at room temperature
+1 1/4 cups unsweetened almond milk
+3 cups oat or fine almond flour, plus more if needed (see Cook's Note)
+2 cups coconut sugar
+1 cup coconut flour (see Cook's Note)
+1 tablespoon baking powder
+1/2 teaspoon fine salt
+For Blueberry Muffins:
+1 cup frozen blueberries
+For Chocolate Chip Muffins:
+1/2 cup white, dark, milk or mini chocolate chips
+For Confetti Muffins:
+1/3 cup rainbow sprinkles
+For the base muffins: Preheat the oven to 350 degrees F. Grease a 12-cup muffin tin with baking spray (or use paper muffin liners).
+In a large bowl, mix together the coconut oil, vanilla extract, almond extract if using and eggs until well combined. Add the milk and mix again until well incorporated.
+In a separate large bowl, whisk together the oat flour, sugar, coconut flour, baking powder and salt. Add the dry ingredients to the wet ingredients and mix well. The mixture should be on the thicker side (you can sprinkle in some extra flour if needed).
+Divide the batter evenly among the muffin tin cups. Bake until golden brown, 35 to 40 minutes. Do not overbake to avoid drying out the muffins.
+For the blueberry muffins: Follow the directions for the base muffins, mixing in the frozen blueberries after combining the wet and dry ingredients. Bake as directed above.
+For the chocolate chip muffins: Follow the directions for the base muffins, mixing in the chocolate chips after combining the wet and dry ingredients. Bake as directed above.
+For the confetti muffins: Follow the directions for the base muffins, mixing in the rainbow sprinkles after combining the wet and dry ingredients. Bake as directed above.
+4 cups all-purpose flour can be substituted for the oat and coconut flours
+Categories:
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Apricot Breakfast Muffins Recipe
+Apricot Cranberry Muffins Recipe
+Date-Orange Muffins Recipe
+Banana Papaya Muffins Recipe
+Cornmeal-Molasses Muffins Recipe
+Apple-Cranberry Muffins Recipe

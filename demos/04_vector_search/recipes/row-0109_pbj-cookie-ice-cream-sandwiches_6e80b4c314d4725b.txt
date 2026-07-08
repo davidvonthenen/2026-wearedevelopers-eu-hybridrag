@@ -1,0 +1,121 @@
+PBJ cookie ice cream sandwiches
+===============================
+
+Recipe Metadata
+---------------
+Recipe ID: 6e80b4c314d4725b
+CSV row number: 109
+Recipe name: PBJ cookie ice cream sandwiches
+Source: BBC Good Food
+URL: https://www.bbcgoodfood.com/recipes/pbj-cookie-ice-cream-sandwiches
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00a08ec2ab386d87484090c6001bbf33a9ea832852e583ec23a805b299f9fd36/21028060.jpg
+Servings: 16
+Calories: 4813.62
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: biscuits and cookies
+
+Original CSV Fields
+-------------------
+recipe_name: PBJ cookie ice cream sandwiches
+source: BBC Good Food
+url: https://www.bbcgoodfood.com/recipes/pbj-cookie-ice-cream-sandwiches
+servings: 16
+calories: 4813.615818091015
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00a08ec2ab386d87484090c6001bbf33a9ea832852e583ec23a805b299f9fd36/21028060.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["biscuits and cookies"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: PBJ cookie ice cream sandwiches
+
+Description: Kids – and adults! – will love these ice cream sandwiches. Raspberry ice cream is sandwiched between two peanut butter cookies for the ultimate decadent dessert
+
+Recipe category: Dessert
+
+Yield: Makes 8 ice cream sandwiches plus 500ml ice cream
+
+Prep time: PT20M
+
+Cook time: PT12M
+
+Total time: PT32M
+
+Ingredients:
+- 120g frozen raspberries
+- 1 lemon juiced
+- 2 tbsp icing sugar
+- 1⁄2 tbsp liquid glucose (optional)
+- 1⁄2 x 397g can condensed milk
+- 600ml double cream
+- 1 tsp vanilla bean paste
+- 200g peanut butter
+- 50g golden caster sugar
+- 125g light brown soft sugar
+- 1 egg
+
+Instructions:
+1. For the ice cream, tip the berries into a food processor with the lemon juice, sugar and glucose, if using. Blitz until smooth. Push the raspberry purée through a fine mesh sieve into a bowl. Whisk the rest of the ingredients together in another bowl for 5 mins until thick, then spoon into a freezerproof container or large loaf tin. Ripple through the raspberry purée using a skewer. Cover and freeze overnight.
+2. Heat the oven to 180C/160C fan/gas 4. Line two large baking sheets with baking parchment. Mix the peanut butter and sugars together in a bowl with a large pinch of salt. Beat in the egg until you have a stiff dough. Break off cherry-tomato-sized lumps of dough (you should get about 16) and arrange on the baking sheets, well spaced apart. Press the cookies down with the back of a fork. Bake for 10-12 mins until golden. Leave to cool on the sheets. Once cool, sandwich a scoop of ice cream between two cookies just before serving (you should use half the ice cream). The remaining 500ml ice cream will keep frozen for three months.
+
+Visible page text:
+PBJ cookie ice cream sandwiches
+Good Food team
+Kids – and adults! – will love these ice cream sandwiches. Raspberry ice cream is sandwiched between two peanut butter cookies for the ultimate decadent dessert
+Showing items 1 to 3 of 3
+Gather round a campfire and make these moreish mango chutney and cheese toasties for a simple family supper. Serve with more chutney for dunking
+Make your own hummus in this family pasta salad. Dish up for little ones first, then scatter with pul biber chilli flakes and crumbled feta for the grown-ups
+Ingredients
+Nutrition
+For the ice cream
+120g frozen raspberries
+1 lemon juiced
+2 tbsp icing sugar
+1⁄2 tbsp liquid glucose (optional)
+1⁄2 x 397g can condensed milk
+600ml double cream
+1 tsp vanilla bean paste
+For the cookies
+200g peanut butter
+50g golden caster sugar
+125g light brown soft sugar
+1 egg
+Nutrition: Per serving
+kcal 490
+fat 35 g
+saturates 17 g
+carbs 34 g
+sugars 32 g
+fibre 2 g
+protein 9 g
+salt 0.3 g
+Method
+step 1 For the ice cream, tip the berries into a food processor with the lemon juice, sugar and glucose, if using. Blitz until smooth. Push the raspberry purée through a fine mesh sieve into a bowl. Whisk the rest of the ingredients together in another bowl for 5 mins until thick, then spoon into a freezerproof container or large loaf tin. Ripple through the raspberry purée using a skewer. Cover and freeze overnight.
+step 1
+For the ice cream, tip the berries into a food processor with the lemon juice, sugar and glucose, if using. Blitz until smooth. Push the raspberry purée through a fine mesh sieve into a bowl. Whisk the rest of the ingredients together in another bowl for 5 mins until thick, then spoon into a freezerproof container or large loaf tin. Ripple through the raspberry purée using a skewer. Cover and freeze overnight.
+step 2 Heat the oven to 180C/160C fan/gas 4. Line two large baking sheets with baking parchment. Mix the peanut butter and sugars together in a bowl with a large pinch of salt. Beat in the egg until you have a stiff dough. Break off cherry-tomato-sized lumps of dough (you should get about 16) and arrange on the baking sheets, well spaced apart. Press the cookies down with the back of a fork. Bake for 10-12 mins until golden. Leave to cool on the sheets. Once cool, sandwich a scoop of ice cream between two cookies just before serving (you should use half the ice cream). The remaining 500ml ice cream will keep frozen for three months.
+step 2
+Heat the oven to 180C/160C fan/gas 4. Line two large baking sheets with baking parchment. Mix the peanut butter and sugars together in a bowl with a large pinch of salt. Beat in the egg until you have a stiff dough. Break off cherry-tomato-sized lumps of dough (you should get about 16) and arrange on the baking sheets, well spaced apart. Press the cookies down with the back of a fork. Bake for 10-12 mins until golden. Leave to cool on the sheets. Once cool, sandwich a scoop of ice cream between two cookies just before serving (you should use half the ice cream). The remaining 500ml ice cream will keep frozen for three months.
+Recipe from Good Food magazine, August 2021
+Comments, questions and tips
+Overall rating
+Get 1 year of Good Food All Access + a free air fryer for £59.99
+Explore our recipe app
+Subscribe now and get access to exclusive recipes, meal plans, podcasts and more.
+All Access subscription: Magazine & App
+Good Food magazine and our award winning app in one simple subscription. Now from £3.17 per month
+Podcast
+Our food team shares tips, techniques and their all-time favourite recipes in our lively weekly podcast.

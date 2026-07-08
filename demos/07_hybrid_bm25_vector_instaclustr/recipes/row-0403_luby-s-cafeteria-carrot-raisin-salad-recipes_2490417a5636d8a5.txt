@@ -1,0 +1,76 @@
+Luby's Cafeteria Carrot Raisin Salad recipes
+============================================
+
+Recipe Metadata
+---------------
+Recipe ID: 2490417a5636d8a5
+CSV row number: 403
+Recipe name: Luby's Cafeteria Carrot Raisin Salad recipes
+Source: cdkitchen.com
+URL: http://www.cdkitchen.com/recipes/recs/2406/Lubys-Cafeteria-Carrot-Raisin106249.shtml
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0298dcc6998e48544766ca4aa7b73e2ff12ffe79e495c9b1d5752df2c344c45a/21088351.jpeg
+Servings: 6
+Calories: 2603.22
+Diet labels: High-Fiber
+Health labels: Vegetarian, Dairy-Free, Gluten-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Luby's Cafeteria Carrot Raisin Salad recipes
+source: cdkitchen.com
+url: http://www.cdkitchen.com/recipes/recs/2406/Lubys-Cafeteria-Carrot-Raisin106249.shtml
+servings: 6
+calories: 2603.215743
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0298dcc6998e48544766ca4aa7b73e2ff12ffe79e495c9b1d5752df2c344c45a/21088351.jpeg
+diet_labels: ["High-Fiber"]
+health_labels: ["Vegetarian","Dairy-Free","Gluten-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Luby's Cafeteria Carrot Raisin Salad
+add review
+#77122
+ingredients
+2 pounds carrots, peeled and finely shredded 1 cup drained crushed pineapple 1 cup mayonnaise 1 cup raisins 1/4 cup powdered sugar
+directions
+Combine the carrots, pineapple, mayonnaise, raisins, and sugar in a bowl. Mix well to combine. Adjust the flavor as needed with more sugar if desired. Cover the bowl and place in the refrigerator for 1-2 hours before serving.
+nutrition data
+reviews & comments
+delicious and easy...just the taste I was looking for...LOVE IT!
+dinners
+casseroles
+soups & salads
+appetizers
+desserts
+baked goods
+crockpot
+copycat
+drinks
+side dishes
+breakfast
+holidays
+Not to be confused with evaporated milk, sweetened condensed milk is very sweet (and very sticky) and used primarily in desserts.
+Beer makes batters better, meat more tender, and sauces more flavorful.
+A can of cream of mushroom soup can be a real dinner saver. It works great in casseroles and can turn into a sauce or gravy in a pinch.
+Online since 1995, CDKitchen has grown into a large collection of delicious recipes created by home cooks and professional chefs from around the world. We are all about tasty treats, good eats, and fun food. Join our community of 200K+ members - browse for a recipe, submit your own, add a review, or upload a recipe photo.
+Media Inquiries
+Advertise
+Help Desk
+About CDKitchen
+Privacy Policy
+Copyright
+Recipe Use
+Photo Use

@@ -1,0 +1,139 @@
+Apple Peanut Butter Cookie Bites recipes
+========================================
+
+Recipe Metadata
+---------------
+Recipe ID: 08e039a6f49fad8e
+CSV row number: 459
+Recipe name: Apple Peanut Butter Cookie Bites recipes
+Source: happyhealthymama.com
+URL: http://happyhealthymama.com/2011/10/healthy-apple-peanut-butter-cookie-bites-49-calories-each.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02ed366fb64cd4b9e857a5f83b4835e47bf13094dfdba723b0cf1bc3c82f3143/21100456.jpeg
+Servings: 4
+Calories: 2544.45
+Diet labels: Balanced, High-Fiber
+Health labels: Dairy-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: biscuits and cookies
+
+Original CSV Fields
+-------------------
+recipe_name: Apple Peanut Butter Cookie Bites recipes
+source: happyhealthymama.com
+url: http://happyhealthymama.com/2011/10/healthy-apple-peanut-butter-cookie-bites-49-calories-each.html
+servings: 4
+calories: 2544.445
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02ed366fb64cd4b9e857a5f83b4835e47bf13094dfdba723b0cf1bc3c82f3143/21100456.jpeg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Dairy-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["biscuits and cookies"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Healthy apple peanut butter cookie bites-49 calories each
+
+Description: A tasty and healthy snack for all!
+
+Recipe category: Snacks
+
+Recipe cuisine: American
+
+Yield: ['44', '44 cookies']
+
+Prep time: PT15M
+
+Cook time: PT13M
+
+Total time: PT28M
+
+Ingredients:
+- 1 cup whole wheat pastry flour (regular whole wheat flour might work here, too)
+- 1 1/2 cups rolled oats
+- 1/2 teaspoon baking soda
+- 1/2 teaspoon baking powder
+- 1/2 teaspoon salt
+- 1 tablespoon cinnamon
+- 1/2 teaspoon nutmeg
+- 1/2 cup honey
+- 1/2 cup natural peanut butter
+- 1/4 cup unsweetened apple sauce
+- 1 extra-large egg
+- 1 teaspoon vanilla
+- 1 cup diced apple (two small or one large)
+- 1/2 cup raisins (optional)
+
+Instructions:
+1. Preheat the oven to 325 degrees. Line two baking sheets with parchment paper (or lightly oil them) and set aside.
+2. In a large bowl, mix together the flour, oats, baking soda, baking powder, salt, cinnamon, and nutmeg well. Set aside.
+3. In a medium bowl, whisk together the honey, peanut butter, apple sauce, egg, and vanilla until you get a smooth mixture.
+4. Add the wet ingredients to the dry ingredients and combine. Add the apples and raisins and stir until evenly combined.
+5. Drop by 1/2 tablespoon onto the cookie sheets. Bake for 11-13 minutes, or until the bottom of the cookie is lightly golden. {I baked mine in two batches}
+
+Visible page text:
+Pinterest
+Facebook
+Twitter
+Save This Recipe! Enter your email and I'll send it straight to your inbox. Plus you'll get new recipes from me every week! By submitting this form, you consent to receive emails from Happy Healthy Mama. I wouldn’t classify any kind of baking as easy , per se. Baking is a science that’s easy to screw up. But when it comes to different types of baking, I’d say that unhealthy baking is infinitely easier than healthy baking.
+Save This Recipe!
+Enter your email and I'll send it straight to your inbox. Plus you'll get new recipes from me every week!
+By submitting this form, you consent to receive emails from Happy Healthy Mama.
+Throw a few sticks of butter, a cup of white sugar, half a cup of brown sugar, and some white flour into a recipe and it’s bound to taste pretty good. Greatly reduce or eliminate the butter, take away the refined sugar, use a whole grain flour, and making something taste good is downright difficult .
+That’s why I blog. I have a passion for creating healthy alternatives to the Standard American Diet recipes that we’ve all grown up with and I love being able to share what I learn with like-minded people.
+I get excited when I create a recipe that has healthy components and still tastes great. Trust me, many of my recipes don’t taste that great and therefore never make it to the blog. When I put on my baking apron, however, and churn out something healthy and delicious, I love to share it.
+This creation takes one of my favorite flavor combinations of apple and peanut butter and turns it into a healthy cookie.
+The result is a chewy, somewhat cake-like cookie with a peanut butter flavor and bits of apple throughout. Delicious. And each cookie is only 49 calories, with 1.5 grams of fat, 1.5 grams of protein, almost 1 gram of fiber, and 4 grams of sugar. Made with whole grains. No refined sugar. No butter. Yes, please.
+Description
+A tasty and healthy snack for all!
+Ingredients
+1 cup whole wheat pastry flour (regular whole wheat flour might work here, too)
+1 1/2 cups rolled oats
+1/2 teaspoon baking soda
+1/2 teaspoon baking powder
+1/2 teaspoon salt
+1 tablespoon cinnamon
+1/2 teaspoon nutmeg
+1/2 cup honey
+1/2 cup natural peanut butter
+1/4 cup unsweetened apple sauce
+1 extra-large egg
+1 teaspoon vanilla
+1 cup diced apple ( two small or one large)
+1/2 cup raisins (optional)
+Instructions
+Preheat the oven to 325 degrees. Line two baking sheets with parchment paper (or lightly oil them) and set aside.
+In a large bowl, mix together the flour, oats, baking soda, baking powder, salt, cinnamon, and nutmeg well. Set aside.
+In a medium bowl, whisk together the honey, peanut butter, apple sauce, egg, and vanilla until you get a smooth mixture.
+Add the wet ingredients to the dry ingredients and combine. Add the apples and raisins and stir until evenly combined.
+Drop by 1/2 tablespoon onto the cookie sheets. Bake for 11-13 minutes, or until the bottom of the cookie is lightly golden. {I baked mine in two batches}
+Prep Time: 15 minutes
+Cook Time: 13 minutes
+Category: Snacks
+Cuisine: American
+Nutrition
+Serving Size: 1 cookie
+Calories: 49
+Sugar: 4g
+Fat: 1.5g
+Fiber: 0.9g
+Protein: 1.5g
+I love that these cookies are small, perfect for the little hands of a certain preschooler.
+The small factor (did I mention these are only 49 calories each?!) is also good for her parents, who both have trouble saying no to cookie #2. And cookie #3. Oh, and sometimes even cookie #4. Just another reason to focus on healthy when I’m baking, even if it is more difficult.
+I am a wife and a mama who has a passion for healthy living. Happy Healthy Mama is a place for me to share recipes for delicious, wholesome food and my desire to live everyday with great health and happiness.
+Similar Posts
+39 Comments
+Made these today and they are amazing! Love them! Crowd pleaser for sure! Have you tried them with almond butter at all? I didn’t think I was going to have enough peanut butter and was going to substitute, but in the end I had enough. I may try them with Almond Butter next time. 🙂 Reply No, I haven’t, but I bet they’d be great with almond butter, too. Reply
+Made these today and they are amazing! Love them! Crowd pleaser for sure! Have you tried them with almond butter at all? I didn’t think I was going to have enough peanut butter and was going to substitute, but in the end I had enough. I may try them with Almond Butter next time. 🙂
+No, I haven’t, but I bet they’d be great with almond butter, too. Reply
+No, I haven’t, but I bet they’d be great with almond butter, too.
+Leave a Reply Cancel reply
+This site uses Akismet to reduce spam. Learn how your comment data is processed.

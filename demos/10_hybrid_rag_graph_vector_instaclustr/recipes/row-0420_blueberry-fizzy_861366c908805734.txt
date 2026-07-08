@@ -1,0 +1,99 @@
+Blueberry Fizzy
+===============
+
+Recipe Metadata
+---------------
+Recipe ID: 861366c908805734
+CSV row number: 420
+Recipe name: Blueberry Fizzy
+Source: food.com
+URL: http://www.food.com/recipe/blueberry-fizzy-220355
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02ad3d2b8715f194384c226718a21330973f872777fd35187b8eb559c039f2f4/21094362.jpg
+Servings: 12
+Calories: 1621.99
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: snack
+Dish type: drinks
+
+Original CSV Fields
+-------------------
+recipe_name: Blueberry Fizzy
+source: food.com
+url: http://www.food.com/recipe/blueberry-fizzy-220355
+servings: 12
+calories: 1621.988161672447
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02ad3d2b8715f194384c226718a21330973f872777fd35187b8eb559c039f2f4/21094362.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["snack"]
+dish_type: ["drinks"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Blueberry Fizzy
+
+Description: This easy-to-make flavored ginger ale showcases blueberries, but also includes lemon, lime, and ginger. The longer the berries are in the ginger ale, the more they infuse the drink with flavor and color.
+
+Recipe category: Beverages
+
+Yield: 12 serving(s)
+
+Prep time: PT20M
+
+Cook time: PT2H
+
+Total time: PT2H20M
+
+Ingredients:
+- 2 (2 liter) bottles ginger ale, chilled (sugar free is fine)
+- 1 cup blueberries
+- 1 lemon, thinly sliced and seeded
+- 1 lime, thinly sliced and seeded
+- 2 tablespoons crystallized ginger
+
+Instructions:
+1. Divide one bottle of the ginger ale between two half-gallon jars or pitchers.
+2. Add 1/2 cup of the berries, half the lemon slices, half the lime slices and 1 tablespoon of the ginger to each jar.
+3. Cover and refrigerate for 2 to 24 hours (If chilling more than 2 hours, add the lemon and lime slices only 1 to 2 hours before serving, citrus adds a slightly bitter flavor after 2 hours.).
+4. Just before serving, fill jars with ice.
+5. To serve, fill each glass half full with the blueberry mixture and ice; fill glass with chilled ginger ale for fizz.
+
+Visible page text:
+Blueberry Fizzy
+ingredients
+2 (2 liter) bottles ginger ale , chilled (sugar free is fine)
+1 cup blueberries
+1 lemon , thinly sliced and seeded
+1 lime , thinly sliced and seeded
+2 tablespoons crystallized ginger
+directions
+Divide one bottle of the ginger ale between two half-gallon jars or pitchers.
+Add 1/2 cup of the berries, half the lemon slices, half the lime slices and 1 tablespoon of the ginger to each jar.
+Cover and refrigerate for 2 to 24 hours (If chilling more than 2 hours, add the lemon and lime slices only 1 to 2 hours before serving, citrus adds a slightly bitter flavor after 2 hours.).
+Just before serving, fill jars with ice.
+To serve, fill each glass half full with the blueberry mixture and ice; fill glass with chilled ginger ale for fizz.
+Questions & Replies
+Reviews
+What a delicious refreshing drink. It was gorgeous on a hot sunny day. MarraMamba Reply
+Wow, what an excellant drink. This is so good. I love blueberries, ginger, lemons and limes. I used sugar free ginger ale, it made it a little sweet, next time I will use gingerbeer or a spicy ginger ale. This is going to be made often this summer, thanks so much for sharing your tasty tasty drink. Annacia I took your suggestion and made the blueberrie ice cubes with the gingerale. They worked really well, they were so pretty and made the drink taste even nicer. Thanks again. Just updating to add that the beautiful blue color was achieved by using frozen wild blueberries. Baby Kato Reply
+Loved this summertime drink. I used fresh blueberries, the lemon and the lime accented the blueberries very nicely. Very refreshing. Made this for a picnic on the patio. Thanks for sharing this recipe its one Im going to enjoy over and over again. Calee Reply
+Ok I followed these directions and did not get any of the blue/purple color that Baby Kato has in her pictures.
+Do be sure to save the 1 bottle of ginger ale because the first does go flat. I used the berries whole and didn`t crush I did chop the ginger. Mine was in the refridgerator for 3 hours and the lime and lemon was not bitter at all. I do have 1/2 leftover so I do wonder if the color will come to be more vibrant.
+Good and Healthy!
+Unless of course you want to add some Southern Comfort! ;) Rita1652 Reply
+RECIPE SUBMITTED BY
+169 Followers
+1624 Recipes
+232 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

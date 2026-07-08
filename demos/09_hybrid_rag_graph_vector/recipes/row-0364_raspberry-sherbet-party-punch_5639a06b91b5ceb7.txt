@@ -1,0 +1,263 @@
+Raspberry Sherbet Party Punch
+=============================
+
+Recipe Metadata
+---------------
+Recipe ID: 5639a06b91b5ceb7
+CSV row number: 364
+Recipe name: Raspberry Sherbet Party Punch
+Source: natashaskitchen.com
+URL: https://natashaskitchen.com/raspberry-sherbet-party-punch/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0254c753a8d8a52691636323b77fbd61717414db2cd1435703d2aaa4ecc48721/21118052.jpg
+Servings: 18
+Calories: 1565.17
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: drinks
+
+Original CSV Fields
+-------------------
+recipe_name: Raspberry Sherbet Party Punch
+source: natashaskitchen.com
+url: https://natashaskitchen.com/raspberry-sherbet-party-punch/
+servings: 18
+calories: 1565.170287941012
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0254c753a8d8a52691636323b77fbd61717414db2cd1435703d2aaa4ecc48721/21118052.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["drinks"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Raspberry Sherbet Party Punch
+
+Description: This punch is perfect for parties. It's a showy punch and your guests will be intrigued by the fizz, colorful floating fruit and sherbet of course.
+
+Recipe category: ['Beverage']
+
+Recipe cuisine: ['American']
+
+Yield: ['18', '18 -20 cups']
+
+Prep time: PT10M
+
+Total time: PT10M
+
+Ingredients:
+- 2 Liter Bottle Sierra Mist (Sprite or 7-up, chilled)
+- 2 Liter Bottle Club Soda (chilled)
+- 1 Fruit punch can (12oz, or pink lemonade, thawed in the fridge)
+- 1 Pineapple juice can (12oz, thawed in the fridge)
+- 6-8 scoops Raspberry Sherbet Ice cream (or any flavor you have available)
+- Fresh or frozen raspberries for garnish
+- Pineapple slices for garnish (canned or fresh)
+
+Instructions:
+1. Pre-scoop ice cream and place on a baking dish lined with plastic wrap. Freeze and add ice cream just before serving so it remains frozen in the punch.
+2. In a punch bowl, combine: 2 juice cans. Pour in Sierra Mist and Club Soda and gently stir until combined.
+3. Add pineapple slices and raspberries if using and top with scooped sherbet just before serving. The ice cream will keep it chilled.
+
+Visible page text:
+Recipes
+Menu
+Search this site
+Home
+Recipes Category Appetizers Bread Recipes Breakfast Condiments Copycat Recipes Desserts Drinks Entertaining Kid Friendly Main Course Salads Sandwiches Side Dishes Soups Sourdough Tacos Cuisine American Recipes Asian Recipes Eastern European Recipes French Recipes Italian Recipes German Recipes Greek Recipes Mexican Recipes Diet Keto Gluten Free Vegetarian Paleo Ingredient Search Holiday Thanksgiving Christmas Cinco de Mayo Easter Patriotic Recipes Valentine’s Day Method Air Fryer Grilling Instant Pot Slow Cooker Canning Freezer Friendly 30-Minute Meals How To Cook
+Category Appetizers Bread Recipes Breakfast Condiments Copycat Recipes Desserts Drinks Entertaining Kid Friendly Main Course Salads Sandwiches Side Dishes Soups Sourdough Tacos
+Appetizers
+Bread Recipes
+Breakfast
+Condiments
+Copycat Recipes
+Desserts
+Drinks
+Entertaining
+Kid Friendly
+Main Course
+Salads
+Sandwiches
+Side Dishes
+Soups
+Sourdough
+Tacos
+Cuisine American Recipes Asian Recipes Eastern European Recipes French Recipes Italian Recipes German Recipes Greek Recipes Mexican Recipes
+American Recipes
+Asian Recipes
+Eastern European Recipes
+French Recipes
+Italian Recipes
+German Recipes
+Greek Recipes
+Mexican Recipes
+Diet Keto Gluten Free Vegetarian Paleo Ingredient Search
+Keto
+Gluten Free
+Vegetarian
+Paleo
+Ingredient Search
+Holiday Thanksgiving Christmas Cinco de Mayo Easter Patriotic Recipes Valentine’s Day
+Thanksgiving
+Christmas
+Cinco de Mayo
+Easter
+Patriotic Recipes
+Valentine’s Day
+Method Air Fryer Grilling Instant Pot Slow Cooker Canning Freezer Friendly 30-Minute Meals How To Cook
+Air Fryer
+Grilling
+Instant Pot
+Slow Cooker
+Canning
+Freezer Friendly
+30-Minute Meals
+How To Cook
+Cookbook
+Videos
+Cooking Challenge
+About About Subscribe Shop
+About
+Subscribe
+Shop
+Raspberry Sherbet Party Punch
+by Natasha Kravchuk | Updated Apr 7, 2018 4.98 from 78 votes 142 comments
+4.98 from 78 votes
+142 comments
+Jump to Recipe
+This post may contain affiliate links. Read my disclosure policy .
+This party punch is so pretty and refreshing. It is perfect for baby showers, church potlucks, Valentines day parties and family get-togethers.
+It’s a showy punch and your guests will be intrigued by the fizz, colorful floating fruit and sherbet of course. My sister Sveta frequently brings her version of this sherbet punch to parties and it’s always a hit.
+You can easily cut the entire recipe in half for a smaller crowd. It is simple to assemble and you can pre-scoop and freeze your ice cream balls in advance – remember that Instagram post I shared? This is what the ice cream was for! 🙂
+Raspberry Party Punch Ingredients:
+2 Liter Bottle Sierra Mist, Sprite or 7-up, chilled 2 Liter Bottle Club Soda, chilled 1 Fruit punch can (12oz), or pink lemonade, thawed in the fridge (*see note) 1 Pineapple juice can (12oz), thawed in the fridge (*see note) 6-8 scoops Raspberry Sherbet Ice cream, or any flavor you have available
+*note: if you can’t find fruit punch or pineapple juice, then 2 cans pink lemonade will work well also.
+For Garnish (optional, but so pretty!):
+Fresh or frozen raspberries for garnish Pineapple slices for garnish (canned or fresh)
+How to Make Raspberry Sorbet Party Punch:
+3. Add pineapple slices and raspberries if using and top with scooped sherbert just before serving. The ice cream will keep it chilled. Add cold water or ice if desired to control how sweet your punch is.
+Note: once the ice cream melts, the punch will be sweeter.
+Credits: This punch is based on my sister Sveta’s sherbet punch. Inspiration for adding pineapple & pineapple juice from the Chic Site . Thank you ladies for sharing! 🙂
+Ingredients
+Raspberry Punch Ingredients:
+2 Liter Bottle Sierra Mist , Sprite or 7-up, chilled
+2 Liter Bottle Club Soda , chilled
+1 Fruit punch can , 12oz, or pink lemonade, thawed in the fridge
+1 Pineapple juice can , 12oz, thawed in the fridge
+6-8 scoops Raspberry Sherbet Ice cream , or any flavor you have available
+Fresh or frozen raspberries for garnish
+Pineapple slices for garnish , canned or fresh
+Instructions
+Pre-scoop ice cream and place on a baking dish lined with plastic wrap. Freeze and add ice cream just before serving so it remains frozen in the punch.
+In a punch bowl, combine: 2 juice cans. Pour in Sierra Mist and Club Soda and gently stir until combined.
+Add pineapple slices and raspberries if using and top with scooped sherbet just before serving. The ice cream will keep it chilled.
+Notes
+Full Nutrition Label
+Nutrition Disclosure
+♥ FAVORITE THINGS ♥ Shown in this post: (nope, no one paid us to write this; just stuff we love): * Our favorite scooper is this 2-inch Disher from Hamilton Beach * A Pyrex muffin tin is perfect for holding perfect scoops of icecream. * These stemless wine glasses are so pretty for serving punch.
+Leave a Comment Cancel reply
+Comments
+Kadie Cosby January 16, 2026 I bought all the ingredients for this punch and realized that we don’t have raspberry sherbet in our little local grocery store. I live in a rural area. They do have a rainbow sherbet that is raspberry, pineapple, and orange. What do you think? Would it be better to just go without or do you think that would be ok? Reply Natashas Kitchen January 16, 2026 Hi Kadie, I bet it could still work for the flavor. Reply
+I bought all the ingredients for this punch and realized that we don’t have raspberry sherbet in our little local grocery store. I live in a rural area. They do have a rainbow sherbet that is raspberry, pineapple, and orange. What do you think? Would it be better to just go without or do you think that would be ok?
+Reply
+Natashas Kitchen January 16, 2026 Hi Kadie, I bet it could still work for the flavor. Reply
+Hi Kadie, I bet it could still work for the flavor.
+Ashley Lezoche October 9, 2025 What kind of alcohol and how much can you put in it? Reply NatashasKitchen.com October 9, 2025 I haven’t tried this with alcohol (we’re not alcohol drinkers). I assume it would work well with a sparkling wine but you may research some ideas. Reply
+What kind of alcohol and how much can you put in it?
+NatashasKitchen.com October 9, 2025 I haven’t tried this with alcohol (we’re not alcohol drinkers). I assume it would work well with a sparkling wine but you may research some ideas. Reply
+I haven’t tried this with alcohol (we’re not alcohol drinkers). I assume it would work well with a sparkling wine but you may research some ideas.
+Sheryl July 2, 2025 Loved this punch Made for my daughters reception but as I was ready for the sherbert it was not in freezer so my son went to truck to see if still out there and mind you this was Jan 11 and here in we had 12” of snow! But it was not brought to church! I thought it was a loss NO IT WAS MARVELOUS!!! Everyone drank it and my daughter loved it. So make this and if you ever forget the sherbert it’s ok looked like sherbert was in and tasted marvelous!!! Reply NatashasKitchen.com July 2, 2025 Hi Sheryl! I’m so glad it still workout out. Thank you for sharing your experience. Reply
+Loved this punch Made for my daughters reception but as I was ready for the sherbert it was not in freezer so my son went to truck to see if still out there and mind you this was Jan 11 and here in we had 12” of snow! But it was not brought to church! I thought it was a loss NO IT WAS MARVELOUS!!! Everyone drank it and my daughter loved it. So make this and if you ever forget the sherbert it’s ok looked like sherbert was in and tasted marvelous!!!
+NatashasKitchen.com July 2, 2025 Hi Sheryl! I’m so glad it still workout out. Thank you for sharing your experience. Reply
+Hi Sheryl! I’m so glad it still workout out. Thank you for sharing your experience.
+Jennifer January 1, 2025 This is so delicious and reminds me of my childhood. I have made it several times for quite a few years now. My one issue: after a while, I end up with the sherbet foaming against the sides of the dispenser and looking a little like stagnant beach foam. Maybe I should be stirring the punch occasionally? Do you ever have this issue? NOTE: I make a double batch for a large dispenser, not in a punch bowl where it would naturally be mixed up over the course of filling glasses. Reply NatashasKitchen.com January 1, 2025 Hi Jennifer! Yes, stirring occasionally will help. This is a common issue especially if it’s been sitting for a while. Reply
+This is so delicious and reminds me of my childhood. I have made it several times for quite a few years now. My one issue: after a while, I end up with the sherbet foaming against the sides of the dispenser and looking a little like stagnant beach foam. Maybe I should be stirring the punch occasionally? Do you ever have this issue? NOTE: I make a double batch for a large dispenser, not in a punch bowl where it would naturally be mixed up over the course of filling glasses.
+NatashasKitchen.com January 1, 2025 Hi Jennifer! Yes, stirring occasionally will help. This is a common issue especially if it’s been sitting for a while. Reply
+Hi Jennifer! Yes, stirring occasionally will help. This is a common issue especially if it’s been sitting for a while.
+Melissa Smith March 15, 2024 Hi, This looks amazing. I cant find sherbet ice cream. Can i substitute with sorbet? Can I make ahead and add sherbet just before serving? Reply NatashasKitchen.com March 16, 2024 Hi Melissa! I don’t recommend making this to far in advance because the soda will loose it’s carbonation the longer it sits out and become flat. Sorbet will work, but I like to use sherbet because it’s more creamy. Reply Sheryl July 16, 2025 I made for my daughter wedding and the sherbert was left in freezer when we went to church but I didn’t realize until ceremony was over and I had everything in and sherbert did get left behind. It’s ok it’s fabulous everyone loved it beautiful and tastes great Reply
+Hi, This looks amazing. I cant find sherbet ice cream. Can i substitute with sorbet? Can I make ahead and add sherbet just before serving?
+NatashasKitchen.com March 16, 2024 Hi Melissa! I don’t recommend making this to far in advance because the soda will loose it’s carbonation the longer it sits out and become flat. Sorbet will work, but I like to use sherbet because it’s more creamy. Reply
+Hi Melissa! I don’t recommend making this to far in advance because the soda will loose it’s carbonation the longer it sits out and become flat. Sorbet will work, but I like to use sherbet because it’s more creamy.
+Sheryl July 16, 2025 I made for my daughter wedding and the sherbert was left in freezer when we went to church but I didn’t realize until ceremony was over and I had everything in and sherbert did get left behind. It’s ok it’s fabulous everyone loved it beautiful and tastes great Reply
+I made for my daughter wedding and the sherbert was left in freezer when we went to church but I didn’t realize until ceremony was over and I had everything in and sherbert did get left behind. It’s ok it’s fabulous everyone loved it beautiful and tastes great
+Lacey May 5, 2023 Hi! I love this for a baby girl shower. What would you recommend for a blue or green punch? Have you tried using Hawaiian Punch to substitute to make it blue for a baby boy shower? Reply NatashasKitchen.com May 5, 2023 Hi Lacey! I have not tested any substitutes but feel free to experiment with the recipe. You can reference my images above to see what I used, I am not sure if Hawaiian Punch comes in the frozen concentrate cans but if they do, that should work just fine. Reply
+Hi! I love this for a baby girl shower. What would you recommend for a blue or green punch? Have you tried using Hawaiian Punch to substitute to make it blue for a baby boy shower?
+NatashasKitchen.com May 5, 2023 Hi Lacey! I have not tested any substitutes but feel free to experiment with the recipe. You can reference my images above to see what I used, I am not sure if Hawaiian Punch comes in the frozen concentrate cans but if they do, that should work just fine. Reply
+Hi Lacey! I have not tested any substitutes but feel free to experiment with the recipe. You can reference my images above to see what I used, I am not sure if Hawaiian Punch comes in the frozen concentrate cans but if they do, that should work just fine.
+Wendy August 16, 2022 Hi Natasha, love all your recipes! We’ve made this punch before and loved it!! We want to make it again but put it in a covered beverage container with a spout instead of a punch bowl. Would that work? Reply NatashasKitchen.com August 16, 2022 Hi Wendy! So glad you loved it. This works best in a punch bowl because of the chunks of fruits. Reply
+Hi Natasha, love all your recipes! We’ve made this punch before and loved it!! We want to make it again but put it in a covered beverage container with a spout instead of a punch bowl. Would that work?
+NatashasKitchen.com August 16, 2022 Hi Wendy! So glad you loved it. This works best in a punch bowl because of the chunks of fruits. Reply
+Hi Wendy! So glad you loved it. This works best in a punch bowl because of the chunks of fruits.
+Kimberly Davis March 7, 2022 Did you use *sherbet or *ice cream? You seem to use both words throughout the instructions. I don’t know if there’s a shortage because of the pandemic (??) but no one is carrying raspberry sherbet in my area, but I want to make this for my DIL baby shower. Reply Natashas Kitchen March 8, 2022 Hi Kimberly, sherbet falls in between sorbet and ice cream. Since it contains dairy, so it is called sherbert ice cream, so we used both names for it since it is ice cream. Reply
+Did you use *sherbet or *ice cream? You seem to use both words throughout the instructions. I don’t know if there’s a shortage because of the pandemic (??) but no one is carrying raspberry sherbet in my area, but I want to make this for my DIL baby shower.
+Natashas Kitchen March 8, 2022 Hi Kimberly, sherbet falls in between sorbet and ice cream. Since it contains dairy, so it is called sherbert ice cream, so we used both names for it since it is ice cream. Reply
+Hi Kimberly, sherbet falls in between sorbet and ice cream. Since it contains dairy, so it is called sherbert ice cream, so we used both names for it since it is ice cream.
+sharon February 11, 2022 going to make this for a baby shower. was the fruit punch apple cherry? could barely make out from your picture. Reply Natashas Kitchen February 11, 2022 Hi Sharon, both fruit punch or apple cherry work great! In the photo, I have apple cherry. Reply
+going to make this for a baby shower. was the fruit punch apple cherry? could barely make out from your picture.
+Natashas Kitchen February 11, 2022 Hi Sharon, both fruit punch or apple cherry work great! In the photo, I have apple cherry. Reply
+Hi Sharon, both fruit punch or apple cherry work great! In the photo, I have apple cherry.
+Jessica P January 16, 2022 This was a HIT at the party!! Only problem was.. I didn’t make enough! Reply Natasha's Kitchen January 16, 2022 That’s awesome and you definitely need to make more next time! Reply
+This was a HIT at the party!! Only problem was.. I didn’t make enough!
+Natasha's Kitchen January 16, 2022 That’s awesome and you definitely need to make more next time! Reply
+That’s awesome and you definitely need to make more next time!
+Dru October 5, 2021 I’ll be making this for a Sprinkle this Sunday. I’m trying to determine the size needed for the punch bowl. I’ve calculated the number of cups for the liquid ingredients + 2 cans of frozen lemonade (12 oz Each). How many cups would you estimate for the sherbert? I’m concerned the bowl will be too full + the ladle may cause the punch to rise. Thank you. Love your recipes & tips. Reply Natasha's Kitchen Team October 5, 2021 The Sherbert does not have to be exact, its more of a tasty garnish than anything else. I would add the sherbert after the liquid is in the punch bowl and if you feel like its too full just pour some into an extra container and then add the sherbert. You can always add the extra liquid back in as people are served and there is more room in the bowl. Reply
+I’ll be making this for a Sprinkle this Sunday. I’m trying to determine the size needed for the punch bowl. I’ve calculated the number of cups for the liquid ingredients + 2 cans of frozen lemonade (12 oz Each). How many cups would you estimate for the sherbert? I’m concerned the bowl will be too full + the ladle may cause the punch to rise. Thank you. Love your recipes & tips.
+Natasha's Kitchen Team October 5, 2021 The Sherbert does not have to be exact, its more of a tasty garnish than anything else. I would add the sherbert after the liquid is in the punch bowl and if you feel like its too full just pour some into an extra container and then add the sherbert. You can always add the extra liquid back in as people are served and there is more room in the bowl. Reply
+The Sherbert does not have to be exact, its more of a tasty garnish than anything else. I would add the sherbert after the liquid is in the punch bowl and if you feel like its too full just pour some into an extra container and then add the sherbert. You can always add the extra liquid back in as people are served and there is more room in the bowl.
+Armand D Alcazar June 12, 2021 So, the 2 cans of juice are frozen concentrate? Reply Natashas Kitchen June 12, 2021 Hi Armand, that’s correct; we have the exact images of the juice in the recipe post. Reply
+So, the 2 cans of juice are frozen concentrate?
+Natashas Kitchen June 12, 2021 Hi Armand, that’s correct; we have the exact images of the juice in the recipe post. Reply
+Hi Armand, that’s correct; we have the exact images of the juice in the recipe post.
+lydia knowles February 3, 2021 It looks really good. I’m going to make it on valentines day. Reply
+It looks really good. I’m going to make it on valentines day.
+cordelia January 13, 2021 looks delicious I’ll have to try it sometime. Reply
+looks delicious I’ll have to try it sometime.
+Nancy Hyland June 30, 2020 Does the punch recipe call for one 2 liter bottle of the Sierra Mist and of the club soda or did u mean one bottle of a 1 liter bottle Reply Natasha Kravchuk June 30, 2020 Hi Nancy you need 2 liters of each. Reply
+Does the punch recipe call for one 2 liter bottle of the Sierra Mist and of the club soda or did u mean one bottle of a 1 liter bottle
+Natasha Kravchuk June 30, 2020 Hi Nancy you need 2 liters of each. Reply
+Hi Nancy you need 2 liters of each.
+Jennifer February 21, 2020 When I add the cans of juice do I follow the directions on the can by adding “3 cans of water” THEN add the soda? Or is the soda substituting the water? Reply Natashas Kitchen February 21, 2020 Hi Jennifer, the soda replaces the water. We did not use the canned juice instructions. Reply
+When I add the cans of juice do I follow the directions on the can by adding “3 cans of water” THEN add the soda? Or is the soda substituting the water?
+Natashas Kitchen February 21, 2020 Hi Jennifer, the soda replaces the water. We did not use the canned juice instructions. Reply
+Hi Jennifer, the soda replaces the water. We did not use the canned juice instructions.
+Yole December 30, 2019 I want to spike my punch what would be better vodka or champagne Reply Natashas Kitchen December 30, 2019 Hi Yole, I’ve never tried making it into an adult version. One of our readers wrote the following ” I made 4 batches of this tonight also added vodka and put the sherbet in the muffin pan just like you did. Turned out great! My family loved it.” I hope that helps. Reply
+I want to spike my punch what would be better vodka or champagne
+Natashas Kitchen December 30, 2019 Hi Yole, I’ve never tried making it into an adult version. One of our readers wrote the following ” I made 4 batches of this tonight also added vodka and put the sherbet in the muffin pan just like you did. Turned out great! My family loved it.” I hope that helps. Reply
+Hi Yole, I’ve never tried making it into an adult version. One of our readers wrote the following ” I made 4 batches of this tonight also added vodka and put the sherbet in the muffin pan just like you did. Turned out great! My family loved it.” I hope that helps.
+Jessie November 28, 2019 Hello Natasha I have more of a question than a comment. The can of fruit punch or pink lemonade what if I can’t find these in the store i shop at? Can i substitute with another kind of juice? Thanks so much! Happy Thanksgiving!! Reply natashaskitchen November 28, 2019 Hi Jessie, you can definitely experiment with different brands and even different juices. These are our go-to’s but there’s room to experiment. In the photo I used an apple-cherry blend (shhh!) I do love the pineapple though so I would recommend that one. Reply
+Hello Natasha I have more of a question than a comment. The can of fruit punch or pink lemonade what if I can’t find these in the store i shop at? Can i substitute with another kind of juice? Thanks so much! Happy Thanksgiving!!
+natashaskitchen November 28, 2019 Hi Jessie, you can definitely experiment with different brands and even different juices. These are our go-to’s but there’s room to experiment. In the photo I used an apple-cherry blend (shhh!) I do love the pineapple though so I would recommend that one. Reply
+Hi Jessie, you can definitely experiment with different brands and even different juices. These are our go-to’s but there’s room to experiment. In the photo I used an apple-cherry blend (shhh!) I do love the pineapple though so I would recommend that one.
+Welcome to Natasha’s Kitchen!
+Hi! I’m Natasha Kravchuk, a New York Times bestselling cookbook author, recipe developer, food photographer, and writer. Here you’ll find delicious, reliable recipes made with simple ingredients, plus easy step-by-step photos and videos to help you cook confidently at home. Learn more...
+Love,
+Reader Favorites
+Banana Bread Recipe (VIDEO) (6690)
+Fish Tacos Recipe with Best Fish Taco Sauce! (1937)
+The Best Meatloaf Recipe (9546)
+Easy Roasted Cauliflower Recipe (873)
+Slow Cooker Chili Recipe (2327)
+Authentic Pico de Gallo (394)
+Sloppy Joes Recipe (2020)
+Caesar Salad (579)
+Search Full Recipe Index
+As Featured On
+Copyright © 2026 Natasha's Kitchen
+Privacy Policy
+Website Accessibility Policy
+Start A Blog
+Press
+FAQ
+Contact
+Design by cre8d
+Never Go "Hangry" Again!
+Get weekly updates on new recipes, exclusive giveaways plus behind the scenes photos.

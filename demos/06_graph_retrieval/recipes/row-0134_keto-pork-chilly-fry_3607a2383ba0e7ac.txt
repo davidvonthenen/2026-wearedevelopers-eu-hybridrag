@@ -1,0 +1,116 @@
+Keto Pork Chilly Fry
+====================
+
+Recipe Metadata
+---------------
+Recipe ID: 3607a2383ba0e7ac
+CSV row number: 134
+Recipe name: Keto Pork Chilly Fry
+Source: headbangerskitchen.com
+URL: https://headbangerskitchen.com/recipe/keto-pork-chilly-fry/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00d4996a569a42873fb5b5d36852c98411d41e931c8157864f17b5b1b814b095/21129191.jpg
+Servings: 1
+Calories: 424.94
+Diet labels: Low-Carb
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: chinese
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Keto Pork Chilly Fry
+source: headbangerskitchen.com
+url: https://headbangerskitchen.com/recipe/keto-pork-chilly-fry/
+servings: 1
+calories: 424.9434444444445
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00d4996a569a42873fb5b5d36852c98411d41e931c8157864f17b5b1b814b095/21129191.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["chinese"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Keto Pork Chili Fry
+
+Description: A quick and easy Asian style stir fry
+
+Recipe category: ['Appetizer']
+
+Recipe cuisine: ['Chinese']
+
+Yield: ['1', '1 serving']
+
+Prep time: PT5M
+
+Cook time: PT10M
+
+Total time: PT15M
+
+Ingredients:
+- 200 grams Pork Tenderloin
+- 50 grams Green Peppers
+- 2 Green Chillies
+- 1 Spring Onion
+- 5 grams garlic
+- 5 grams Ginger
+- 1 Tsp Vinegar ( Try this one )
+- 1 Tsp Soya Sauce ( Try this one )
+- 1 Tbsp olive oil ( I use this one )
+
+Instructions:
+1. Clean and chop the pork tenderloin into bite size pieces
+2. Heat the oil in a wok and fry the spring onion white, ginger and garlic
+3. Add in the chilly and fry till the garlic starts to brown
+4. Add in the pork, season and fry till it starts to brown
+5. Add in the green peppers, soya sauce and vinegar.
+6. Just as the pork is almost cooked add in the spring onion greens
+7. Serve.
+
+Visible page text:
+Stir Fry Keto Style
+It’s time for a Keto pork chili fry. For some reason I had a hankering for Pork Tenderloin and I was watching tons of YouTube recipe videos which resulted in me heading to the butcher to procure some. Once in my possession I cooked it up 2 different ways, an oriental style and a regular grilled version. The wife fully approved the oriental pork chilly fry and said I must shoot it for the show. So here we are. Enjoy!
+I must also mention that you can make this recipe with Chicken as well, in fact I have a chili chicken recipe and if you’re vegetarian paneer works as well. This is a great snack or appetizer when you have guests over or if you just want to make a quick snack.
+Asian food can Keto
+I think one of the hardest cuisines to ‘make Keto’ is Chinese food. When I say Chinese I really mean Indian Chinese which is it’s own cuisine if you ask me. Most of the items have sauces with lots of sugar and carbs in them. Otherwise it’s always coated in corn flour and deep fried or the starch is used to thicken the sauces and soups. This recipe (and most of my other ones) generally use limited amounts of sauce and skip the coating on the meat (or paneer) when frying. You can still bring out those beautiful flavours with the garlic, ginger, spring onions and using minimal amounts of sauce like soya sauce and vinegar which keep the carb counts down.
+Nutrition Info (Per serving)
+Calories: 394
+Net Carbs: 5g
+Carbs: 6g
+Fat: 21g
+Protein: 43g
+Fiber: 1g
+This recipe makes 1 serving. Get this recipe on myfitnesspal . If you use coconut aminos instead of the soya sauce you will probably reduce the carbs a bit. Keto Pork Chili Fry A quick and easy Asian style stir fry 4.34 from 3 votes Print Recipe Pin Recipe Prep Time 5 minutes mins Cook Time 10 minutes mins Total Time 15 minutes mins Course Appetizer Cuisine Chinese Servings 1 serving Ingredients 1x 2x 3x 200 grams Pork Tenderloin 50 grams Green Peppers 2 Green Chillies 1 Spring Onion 5 grams garlic 5 grams Ginger 1 Tsp Vinegar Try this one 1 Tsp Soya Sauce Try this one 1 Tbsp olive oil I use this one Instructions Clean and chop the pork tenderloin into bite size pieces Heat the oil in a wok and fry the spring onion white, ginger and garlic Add in the chilly and fry till the garlic starts to brown Add in the pork, season and fry till it starts to brown Add in the green peppers, soya sauce and vinegar. Just as the pork is almost cooked add in the spring onion greens Serve. Tried this recipe? Let us know how it was!
+Keto Pork Chili Fry
+Ingredients 1x 2x 3x
+200 grams Pork Tenderloin
+50 grams Green Peppers
+2 Green Chillies
+1 Spring Onion
+5 grams garlic
+5 grams Ginger
+1 Tsp Vinegar Try this one
+1 Tsp Soya Sauce Try this one
+1 Tbsp olive oil I use this one
+Instructions
+Clean and chop the pork tenderloin into bite size pieces
+Heat the oil in a wok and fry the spring onion white, ginger and garlic
+Add in the chilly and fry till the garlic starts to brown
+Add in the pork, season and fry till it starts to brown
+Add in the green peppers, soya sauce and vinegar.
+Just as the pork is almost cooked add in the spring onion greens
+Serve.
+Hi, I’m Sahil, I’m the creator of Headbanger’s Kitchen. For 14 years I’ve been blogging about food, publishing over 500 recipes, and connecting with more than 800,000 followers who share my passion for cooking.
+Leave a Reply Cancel reply
+One Comment
+Hi what are the measurements for 1 serving? Like how many grams of pork, onion, etc etc Reply
+Hi what are the measurements for 1 serving? Like how many grams of pork, onion, etc etc

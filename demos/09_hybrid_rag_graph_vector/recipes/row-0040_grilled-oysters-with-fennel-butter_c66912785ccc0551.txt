@@ -1,0 +1,107 @@
+Grilled Oysters with Fennel Butter
+==================================
+
+Recipe Metadata
+---------------
+Recipe ID: c66912785ccc0551
+CSV row number: 40
+Recipe name: Grilled Oysters with Fennel Butter
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/13728/grilled-oysters-with-fennel-butter
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/002eb5eb1ba3f6cbd3657c17dd6353223c976a3a25d0a0801eb9ea80614d0332/21048366.jpg
+Servings: 24
+Calories: 2621.15
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free
+Allergy cautions: none listed
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Grilled Oysters with Fennel Butter
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/13728/grilled-oysters-with-fennel-butter
+servings: 24
+calories: 2621.148624999972
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/002eb5eb1ba3f6cbd3657c17dd6353223c976a3a25d0a0801eb9ea80614d0332/21048366.jpg
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free"]
+cautions: []
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Grilled Oysters with Fennel Butter
+
+Description: A seasonal side dish or appetizer with fresh oysters and fennel.
+
+Recipe category: ['Dinner', 'Appetizer']
+
+Recipe cuisine: ['U.S.']
+
+Yield: ['24', '24 servings']
+
+Total time: PT0M
+
+Ingredients:
+- 1 teaspoon fennel seed, ground
+- 1 cup butter, softened
+- 1 tablespoon shallots, minced
+- 1 tablespoon chopped fennel greens
+- 1 teaspoon ground black pepper
+- 0.5 teaspoon salt
+- 24 unopened, fresh, live medium oysters
+
+Instructions:
+1. Prepare and light a grill or preheat the oven to 500 degrees F (260 degrees C).
+2. In a small bowl, blend together the butter, ground fennel seeds, shallots, fennel bulb, fennel greens, pepper and salt.
+3. Arrange the oysters on the grill or oven rack, cover and cook for 3 to 5 minutes or until they start hissing and begin to open.
+4. Using an oyster knife, pry each oyster open at the hinge, loosen the oyster and discard the flat shell. Top each oyster with 1/2 teaspoon of the fennel butter. Return to grill and cook until butter is melted and hot.
+
+Visible page text:
+Recipes
+Appetizers and Snacks
+Seafood
+Grilled Oysters with Fennel Butter
+A seasonal side dish or appetizer with fresh oysters and fennel.
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 24 servings
+1 teaspoon fennel seed, ground
+1 cup butter, softened
+1 tablespoon shallots, minced
+1 tablespoon chopped fennel greens
+1 teaspoon ground black pepper
+½ teaspoon salt
+24 unopened, fresh, live medium oysters
+Directions
+Prepare and light a grill or preheat the oven to 500 degrees F (260 degrees C).
+In a small bowl, blend together the butter, ground fennel seeds, shallots, fennel bulb, fennel greens, pepper and salt.
+Arrange the oysters on the grill or oven rack, cover and cook for 3 to 5 minutes or until they start hissing and begin to open.
+Using an oyster knife, pry each oyster open at the hinge, loosen the oyster and discard the flat shell. Top each oyster with 1/2 teaspoon of the fennel butter. Return to grill and cook until butter is melted and hot.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Grilled Oysters with Fennel Butter
+1
+Most-Saved Recipes Like This
+Garlicky Appetizer Shrimp Scampi 185 Ratings 21 mins Save
+Grilled Artichokes 326 Ratings 35 mins Save
+Fresh Corn and Zucchini Sauté 379 Ratings 25 mins Save
+Corn on the Grill 210 Ratings 30 mins Save
+Grilled Sea Bass 425 Ratings 40 mins Save
+Sautéed Scallops 162 Ratings 10 mins Save
+Sweet Grilled Corn 127 Ratings 1 hr 30 mins Save
+Fennel Salad 76 Ratings 20 mins Save
+Steamed Mussels with Fennel, Tomatoes, Ouzo, and Cream 60 Ratings 30 mins Save
+Flavorful Flounder for the Oven 291 Ratings 30 mins Save
+You’ll Also Love

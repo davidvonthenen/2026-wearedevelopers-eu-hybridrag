@@ -1,0 +1,118 @@
+Gluten Free Peanut Butter Pancakes
+==================================
+
+Recipe Metadata
+---------------
+Recipe ID: 14936681674df9de
+CSV row number: 25
+Recipe name: Gluten Free Peanut Butter Pancakes
+Source: hometoheather.com
+URL: https://hometoheather.com/2015/03/peanut-butter-and-honey-protein-pancakes/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/001c79bd380f2e58e3bcf84b6c8af961cdcc8efa0b5d67c886a91e35754cf6c1/21103644.jpg
+Servings: 8
+Calories: 2007.35
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: breakfast
+Dish type: pancake
+
+Original CSV Fields
+-------------------
+recipe_name: Gluten Free Peanut Butter Pancakes
+source: hometoheather.com
+url: https://hometoheather.com/2015/03/peanut-butter-and-honey-protein-pancakes/
+servings: 8
+calories: 2007.349
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/001c79bd380f2e58e3bcf84b6c8af961cdcc8efa0b5d67c886a91e35754cf6c1/21103644.jpg
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["pancake"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Gluten Free Peanut Butter Pancakes
+
+Description: a hearty breakfast option for peanut butter lovers
+
+Recipe category: Breakfast
+
+Yield: 8
+
+Prep time: PT5M
+
+Cook time: PT10M
+
+Total time: PT15M
+
+Ingredients:
+- 1 cup Adams 100% Natural Peanut Butter (I used Creamy)
+- 3 eggs (I used small ones, if you have large eggs use 2)
+- 1 ½ tsp baking powder
+- 2 tbsp honey
+- 1 cup milk (I used lactose free whole milk)
+
+Instructions:
+1. Heat a large non-stick skillet over low-med heat.
+
+Take care not to have the pan too hot or they won&rsquo;t cook all the way through the center before burning on the outside.
+
+I sprayed my pan with a bit of coconut oil cooking spray.
+
+Mix all ingredients in a large bowl with a whisk.
+
+I made my pancakes with about a 1/3 of a cup of batter each.
+
+Pour batter into the pan and let cook until browned on the bottom &ndash; these won&rsquo;t bubble up in the center like a standard pancake but don&rsquo;t worry.
+
+Flip and cook until the other side has browned and a toothpick inserted in the center comes out clean.
+
+Serve warm with an extra drizzle of honey if you wish!
+
+Visible page text:
+Oh breakfast. It’s the bane of my existence. I want to make sure the kids get some protein but I also want to shower. Making bacon on a week day before school just isn’t in the cards and they are getting pretty tired of our quick standby – scrambled eggs. Some days I relent to the ‘ can we have cereal ?!’ pleas because it’s easy. But I know that on those days they aren’t leaving for school on the best nutrition, sometimes that’s ok but I’d rather it was the exception and not the rule.
+Balancing fast and easy with what is good for us isn’t a simple task.
+That was until Peanut Butter and Honey Protein Pancakes came into our lives. This gluten free pancake recipe comes together so quickly and it only takes 5 ingredients!
+I used Adams 100% Natural Peanut Butter so the only sugar in these is from the honey which gives kids a slower burn than processed sugar in cereals. Bonus? No preservatives, trans or hydrogenated fats either. They are rich and filling and super quick to put together, requiring only 5 ingredients. These all natural, peanut butter pancakes are flourless so that means they are gluten free which is a requirement for us – they’ll put a spring in our step instead of weighing us down.
+Ingredients 1 cup Adams 100% Natural Peanut Butter (I used Creamy) 3 eggs (I used small ones, if you have large eggs use 2) 1 ½ tsp baking powder 2 tbsp honey 1 cup milk (I used lactose free whole milk) Instructions Heat a large non-stick skillet over low-med heat. Take care not to have the pan too hot or they won’t cook all the way through the center before burning on the outside. I sprayed my pan with a bit of coconut oil cooking spray. Mix all ingredients in a large bowl with a whisk. I made my pancakes with about a 1/3 of a cup of batter each. Pour batter into the pan and let cook until browned on the bottom – these won’t bubble up in the center like a standard pancake but don’t worry. Flip and cook until the other side has browned and a toothpick inserted in the center comes out clean. Serve warm with an extra drizzle of honey if you wish! Nutrition Information: Yield: 10 Serving Size: 1 Amount Per Serving: Calories: 209 Total Fat: 14.3g Carbohydrates: 9.8g Fiber: 1.6g Sugar: 5.4g Protein: 8g
+Ingredients
+1 cup Adams 100% Natural Peanut Butter (I used Creamy)
+3 eggs (I used small ones, if you have large eggs use 2)
+1 ½ tsp baking powder
+2 tbsp honey
+1 cup milk (I used lactose free whole milk)
+Instructions
+Heat a large non-stick skillet over low-med heat.
+Take care not to have the pan too hot or they won’t cook all the way through the center before burning on the outside.
+Pour batter into the pan and let cook until browned on the bottom – these won’t bubble up in the center like a standard pancake but don’t worry.
+Leftovers can be stored wrapped in wax paper in the fridge and re-heated quickly in the toaster. My kids will usually eat 2 pancakes each with a side of fruit. Hint? Banana is amazing with these….you pretty much can’t go wrong with any sort of fruit though. Or jam. Mmmmmmm peanut butter and jam. Go make them. You’ll be glad you did!
+Looking for another gluten free pancake option? Try these Buckwheat Pancakes!
+Don’t forget to pin it for later!
+*this post was sponsored by Adams 100% Natural Peanut Butter. All opinions remain my own.
+Comments
+That looks gooooood. Your first few sentences slayed me. Reply
+That looks gooooood. Your first few sentences slayed me.
+would love to try it but without any flour i am afraid it might taste like a sweet peanut butter quiche Reply Hi Linray! No fear! They taste like peanut butter and honey – you can’t really taste the egg. Reply
+would love to try it but without any flour i am afraid it might taste like a sweet peanut butter quiche
+Hi Linray! No fear! They taste like peanut butter and honey – you can’t really taste the egg. Reply
+Hi Linray!
+No fear! They taste like peanut butter and honey – you can’t really taste the egg.
+hi! is there no flour in the batter? Reply No there isn’t! Crazy eh? Reply
+hi! is there no flour in the batter?
+No there isn’t! Crazy eh? Reply
+No there isn’t! Crazy eh?
+Hi heather! Can I sub unsweetened almond milk for dairy milk? Reply I haven’t tried but I don’t see why not! Reply
+Hi heather! Can I sub unsweetened almond milk for dairy milk?
+I haven’t tried but I don’t see why not! Reply
+I haven’t tried but I don’t see why not!
+Leave a Reply Cancel reply
+Privacy Overview

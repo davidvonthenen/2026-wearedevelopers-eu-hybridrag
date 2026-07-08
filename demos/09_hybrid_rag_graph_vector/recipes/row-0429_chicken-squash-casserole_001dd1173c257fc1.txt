@@ -1,0 +1,106 @@
+Chicken & Squash Casserole
+==========================
+
+Recipe Metadata
+---------------
+Recipe ID: 001dd1173c257fc1
+CSV row number: 429
+Recipe name: Chicken & Squash Casserole
+Source: food.com
+URL: http://www.food.com/recipe/chicken-squash-casserole-259235
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02bd1c3bd05cd2612e3e7ac2e2d503d27ef04e8d7066dcd131202233142f76d9/21114328.jpg
+Servings: 2
+Calories: 1318.23
+Diet labels: High-Fiber
+Health labels: Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Chicken & Squash Casserole
+source: food.com
+url: http://www.food.com/recipe/chicken-squash-casserole-259235
+servings: 2
+calories: 1318.226
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02bd1c3bd05cd2612e3e7ac2e2d503d27ef04e8d7066dcd131202233142f76d9/21114328.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Chicken &amp; Squash Casserole
+
+Description: Adapted from a recipe in one of my books. This is a great autumn/winter casserole - very tasty and ever so healthy! I've given the directions for cooking in the oven but this can easily be done in a crock pot as well - just follow steps 2 and 3 and fling it all in the crock pot, cooking on low for 8 hours.
+
+Recipe category: Stew
+
+Yield: 2 serving(s)
+
+Prep time: PT15M
+
+Cook time: PT45M
+
+Total time: PT1H
+
+Ingredients:
+- 2 chicken breasts
+- 1 carrot
+- 1 medium onion
+- 1/2 butternut squash (peeled)
+- 1 tablespoon sage
+- chicken stock cube
+- water
+- 1/2 cup cashew nuts (optional)
+
+Instructions:
+1. Preheat an oven to 190c.
+2. Chop everything up - the chicken and onion, cube the squash and slice the carrotts. If you're using the cashews chop these up as well.
+3. Using some 1 cal spray (or olive oil if you prefer), brown the chicken and soften the onion, squash and carrot for approximately 5 minutes.
+4. Transfer into a casserole dish, add the sage and stock cube. Fill with water until everything is nearly covered.
+5. Cook in the oven for 45mins to an hour or until everything is cooked and tender.
+6. Stir through half the nuts (if using).
+7. Plate up and garnish with remaining nuts.
+
+Visible page text:
+Chicken & Squash Casserole
+ingredients
+2 chicken breasts
+1 carrot
+1 medium onion
+1 ⁄ 2 butternut squash (peeled)
+1 tablespoon sage
+chicken stock cube
+water
+1 ⁄ 2 cup cashew nuts (optional)
+directions
+Preheat an oven to 190c.
+Chop everything up - the chicken and onion, cube the squash and slice the carrotts. If you're using the cashews chop these up as well.
+Using some 1 cal spray (or olive oil if you prefer), brown the chicken and soften the onion, squash and carrot for approximately 5 minutes.
+Transfer into a casserole dish, add the sage and stock cube. Fill with water until everything is nearly covered.
+Cook in the oven for 45mins to an hour or until everything is cooked and tender.
+Stir through half the nuts (if using).
+Plate up and garnish with remaining nuts.
+Questions & Replies
+Reviews
+I have a bushel of butternut squash, so needed to use some up. Unfortunately I found this recipe to be bland. There was so much fluid in the casserole when finished baking, that it was more like a soup. Plus the squash was a bit mushy. If I had added rice to the casserole when I put in the oven, that might have been a good alternative. StillRiverCook Reply
+Simple and Delicious! I'm slow with the preparation steps, so it took longer than I thought it would, but it was easy to make and tasted wonderful. I seasoned the chicken before browning and left out the cashews...also added a bit of grated cheese to the dish before baking. emmerrill Reply
+This was a very good basic chicken recipe. I may not have cut the squash up enough since it was not done at the same time as the chicken, so I removed the chicken and finshed up the squash for about ten more minutes. I didnt use cashews , but next time if I make this I will add them or some cheese or just something to give it a bit of a kick. anme7039 Reply
+Review Tag 2007 ~ This was amazing! Who would have thought such simple ingredients could taste so good! I prefer to brown the meat separate from the veggies first. I browned the chicken chunks in 3 separate batches so that it actually browned instead of steamed. I used fresh sage from the garden and did not use the nuts. This makes a lovely juice at the end. Cooked for 50 minutes. Hubby and I enjoyed it so much, we devoured the whole lot! This could also work as a side dish or vegetarian meal by omitting the chicken and using veggie stock cubes. Perhaps a sprinkling of cheese on top would be nice too. I will definitely be making this often. Thanks Wendy-Bob! CulinaryQueen Reply
+RECIPE SUBMITTED BY
+21 Followers
+70 Recipes
+11 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

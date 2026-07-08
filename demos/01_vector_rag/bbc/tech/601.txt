@@ -1,0 +1,15 @@
+Google Is Said to Pay $2.4 Billion for Windsurf Assets, Talent
+
+Windsurf CEO Varun Mohan, along with co-founder Douglas Chen, and other top talent are joining Google (NASDAQ:GOOG) DeepMind, which operates as an AI research laboratory, The Verge reported. The tech news outlet noted that the former Windsurf employees will focus efforts on Gemini.
+
+Google (NASDAQ:GOOGL) will have neither a stake nor control in Windsurf, but will have a nonexclusive license to some Windsurf technology, The Verge added.
+
+Late Friday night, The Wall Street Journal reported that Google will pay ~$2.4B to license Windsurf's technology.
+
+"We're excited to welcome some top AI coding talent from Windsurf's team to Google DeepMind to advance our work in agentic coding," Google spokesperson Chris Pappas told TechCrunch.
+
+Windsurf Head of Business Jeff Wang is becoming its interim CEO, effective immediately, while VP, Global Sales, Graham Moreno, is becoming president.
+
+In a post on X, Wang portrayed the development as "an agreement to kickstart the next phase of the company." He added that "we find ourselves at a crossroads where the company needs to evolve on two, slightly divergent axes. On one axis, we have a responsibility to continue pushing the frontier of model capabilities. On the other hand, we have a responsibility to make the technology more approachable, secure, and reliable for enterprise workloads, the most critical and consequential workloads for society."
+
+"Given the rapid pace of innovation, we see an advantage to double down our focus on the enterprise problems, which has long been our primary focus, and we will be continuing to devote resources to taking the wide range of product innovations in the broader market and making them work for enterprise workloads, the most impactful workloads to society," a Windsurf blog post reads.

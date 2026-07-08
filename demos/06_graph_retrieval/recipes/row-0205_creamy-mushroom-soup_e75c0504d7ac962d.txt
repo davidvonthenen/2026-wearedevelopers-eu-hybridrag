@@ -1,0 +1,97 @@
+Creamy Mushroom Soup
+====================
+
+Recipe Metadata
+---------------
+Recipe ID: e75c0504d7ac962d
+CSV row number: 205
+Recipe name: Creamy Mushroom Soup
+Source: justapinch.com
+URL: https://www.justapinch.com/recipes/soup/vegetable-soup/creamy-mushroom-soup-2.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01471bc17c6b1c3c44cc32a9791f9e88a87665221d468f18d9c8deb9c038e878/21032763.jpeg
+Servings: 4
+Calories: 392.89
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: soup
+
+Original CSV Fields
+-------------------
+recipe_name: Creamy Mushroom Soup
+source: justapinch.com
+url: https://www.justapinch.com/recipes/soup/vegetable-soup/creamy-mushroom-soup-2.html
+servings: 4
+calories: 392.8932083358316
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01471bc17c6b1c3c44cc32a9791f9e88a87665221d468f18d9c8deb9c038e878/21032763.jpeg
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["soup"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Creamy Mushroom Soup
+
+Description: This is one of our family favorite soups, from Helen's Pantry. It's good with a roast beef sandwich. June recipe COOKBOOK RECIPE
+
+Recipe category: Cream Soups
+
+Recipe cuisine: American
+
+Yield: Serves 2 to 4
+
+Ingredients:
+- 1/4 cup(s) onions, finely chopped
+- 2 tablespoon(s) parsley
+- 1 tablespoon(s) butter
+- 1 1/2 cup(s) mushrooms, sliced
+- 1 1/2 teaspoon(s) corn starch
+- 1 teaspoon(s) beef bouillon
+- 1/2 teaspoon(s) Worcestershire sauce
+- 1/3 teaspoon(s) dry mustard
+- pinch(es) pepper
+- 1/2 cup(s) sour cream
+
+Instructions:
+1. Saute onions in butter, do not brown.
+2. Stir in sliced mushrooms, cook until tender.
+3. Add cornstarch, beef bouillon, worcestershire sauce, dry mustard and pepper.
+4. Add sour cream.
+5. Run through blender until smooth or use an immersion blender.
+6. Top with chopped parsley.
+
+Visible page text:
+creamy mushroom soup
+This is one of our family favorite soups, from Helen's Pantry. It's good with a roast beef sandwich. June recipe COOKBOOK RECIPE
+Ingredients
+1/4 cup onions, finely chopped
+2 tablespoons parsley
+1 tablespoon butter
+1 1/2 cups mushrooms, sliced
+1 1/2 teaspoons corn starch
+1 teaspoon beef bouillon
+1/2 teaspoon Worcestershire sauce
+1/3 teaspoon dry mustard
+pinch pepper
+1/2 cup sour cream
+How To Make creamy mushroom soup
+Step 1 Saute onions in butter, do not brown.
+Step 2 Stir in sliced mushrooms, cook until tender.
+Step 3 Add cornstarch, beef bouillon, worcestershire sauce, dry mustard and pepper.
+Step 4 Add sour cream.
+Step 5 Run through blender until smooth or use an immersion blender.
+Step 6 Top with chopped parsley.
+Last Step: Don't forget to share! Post a picture of your finished recipe here and on your favorite social
+network. Don't forget to tag Just A Pinch and include #justapinchrecipes!
+Discover More
+Comment & Reviews

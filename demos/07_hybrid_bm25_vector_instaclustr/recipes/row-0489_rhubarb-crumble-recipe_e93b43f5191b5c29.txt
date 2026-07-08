@@ -1,0 +1,197 @@
+Rhubarb Crumble Recipe
+======================
+
+Recipe Metadata
+---------------
+Recipe ID: e93b43f5191b5c29
+CSV row number: 489
+Recipe name: Rhubarb Crumble Recipe
+Source: Taste of Home
+URL: http://www.tasteofhome.com/recipes/english-rhubarb-crumble
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/032f70491498838b9bf2d4768da30383bc54fce71e98850fd7ba292614143982/21099994.jpg
+Servings: 12
+Calories: 6578.96
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: british
+Meal type: lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Rhubarb Crumble Recipe
+source: Taste of Home
+url: http://www.tasteofhome.com/recipes/english-rhubarb-crumble
+servings: 12
+calories: 6578.956
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/032f70491498838b9bf2d4768da30383bc54fce71e98850fd7ba292614143982/21099994.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["british"]
+meal_type: ["lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Rhubarb Crumble
+
+Description: Our rhubarb crumble is filled with a unique combination of bright pink rhubarb stalks, fresh strawberries and apples.
+
+Recipe category: ['Desserts']
+
+Yield: 8 servings
+
+Prep time: PT20M
+
+Cook time: PT40M
+
+Total time: PT60M
+
+Ingredients:
+- 3 cups sliced fresh or frozen rhubarb (1/2-inch pieces)
+- 1 cup diced peeled apples
+- 1/2 to 1 cup sliced strawberries
+- 1/3 cup sugar
+- 1/2 teaspoon ground cinnamon
+- 1/2 cup all-purpose flour
+- 1 teaspoon baking powder
+- 1/4 teaspoon salt
+- 4 tablespoons cold butter
+- 2/3 cup packed brown sugar
+- 2/3 cup quick-cooking oats
+- Vanilla ice cream, optional
+
+Instructions:
+1. Preheat the oven to 350°F. In a bowl, stir together the rhubarb, apples and strawberries. Spoon the mixture into a greased 8-inch square baking dish. In a separate bowl, stir together the sugar and cinnamon. Evenly sprinkle the sugar mixture over the rhubarb mixture, and set aside.
+2. In a bowl, whisk together the all-purpose flour, baking powder and salt. Cut in the butter until the mixture resembles coarse crumbs. Stir in the brown sugar and quick-cooking oats. Sprinkle the crumble topping over the rhubarb mixture.
+3. Bake the rhubarb crumble until it’s lightly browned, 40 to 50 minutes. Serve the rhubarb warm or chilled with a scoop of ice cream if desired.
+
+Visible page text:
+Rhubarb Crumble
+By Val Goodrich
+Recipe by Linda Enslen, Schuler, Alberta
+Tested by Taste of Home Test Kitchen
+Taste of Home's Editorial Process
+Updated on Jun. 24, 2024
+Our rhubarb crumble is filled with a unique combination of bright pink rhubarb stalks, fresh strawberries and apples.
+Our rhubarb crumble is a bit more sophisticated than others. While it still has that crave-worthy, knobbly, oat-y topping, this crumble uses three different kinds of produce in its filling: rhubarb (of course), plus strawberries and apples. It’s unusual to find apples with rhubarb and strawberries, but apples add a subtle tartness and crispy bite to an otherwise jam-like filling. What we’re left with is a dynamic rhubarb crumble that’s full of sweet, tart, and fruity flavors with a toothsome bite. It only gets better with a scoop of vanilla ice cream on top.
+Rhubarb Crumble Ingredients
+Rhubarb: You have the option of using fresh or frozen rhubarb for this recipe. We always recommend fresh if it’s local and in season, but frozen works just fine!
+Apples: Pick tart, crisp apples like Honeycrisp or Granny Smith, and avoid mealy, bland apples like McIntosh.
+Strawberries: You might be surprised by how much dirt and bugs strawberries can hold! Soak your strawberries in salt water to try and draw everything out.
+Sugar: Rhubarb, strawberries and apples hold a natural sweetness, but we add a bit of granulated sugar to give the rhubarb crumble a dessert-like taste.
+Ground cinnamon: Did you know there is more than one cinnamon variety? They range in flavor notes and cinnamon potency. Try a few out to expand your baking horizons.
+Topping: A mixture of all-purpose flour, baking powder, salt, cold butter, brown sugar and quick-cooking oats creates a rickety crumble topping.
+Ice cream: Like most things in life, a scoop of vanilla ice cream makes everything better. The best vanilla ice cream brands make all the difference in quality and taste. Or, try making homemade vanilla ice cream at home.
+Directions
+Step 1: Make the rhubarb filling
+Preheat the oven to 350°F. In a bowl, stir together the rhubarb, apples and strawberries.
+Spoon the mixture into a greased 8-inch square baking dish. In a separate bowl, stir together the sugar and cinnamon. Evenly sprinkle the sugar mixture over the rhubarb mixture, and set aside.
+Step 2: Mix the crumble topping
+In a bowl, whisk together the all-purpose flour, baking powder and salt.
+Cut in the butter until the mixture resembles coarse crumbs.
+Stir in the brown sugar and quick-cooking oats.
+Sprinkle the crumble topping over the rhubarb mixture.
+Step 3: Bake the crumble
+Bake the rhubarb crumble until it’s lightly browned, 40 to 50 minutes. Serve the rhubarb warm or chilled with a scoop of ice cream if desired.
+Recipe Variations
+Try out your favorite fruits: A huge draw to crumbles is how customizable they are, especially with their fruit base. The rhubarb and strawberries can be swapped for blackberries, blueberries or stone fruits, and the apples can be swapped for pears. Get creative here and try to use what’s in season for the best taste.
+Bump up the flavor: Excavate your pantry and see what you already have on hand to dial up the taste. A tiny bit of cardamom, ginger or nutmeg would work best in this recipe. If you have any lemons or oranges lying about the house, grate some of their bright citrus zest into the fruit mixture before baking.
+Bake in a different pan: According to our handy dandy baking pan conversions chart, this rhubarb crumble can be baked in a 9-inch round pan. If you want to double this recipe to feed a crowd, bake the crumble in a 13×9-inch pan or 12-inch skillet.
+How to Store Rhubarb Crumble
+Let the baked rhubarb crumble cool to room temperature, then wrap the pan with storage wrap or spoon the leftovers into an airtight container. You’ll want to stash the crumble in the fridge and only keep it around for up to three days. We love reheating servings in the microwave for that fresh-out-the-oven taste.
+Rhubarb Crumble Tips
+How do I prepare rhubarb?
+Rhubarb and celery are shaped very similarly, so you can prep rhubarb the same way you’d go about celery. Cut off the leaves from the rhubarb and discard them (they’re toxic, so make sure they go right in the garbage!). Wash the rhubarb stalks, then cut off the thick, rough ends.
+Can I use old-fashioned oats instead of quick-cooking oats?
+You can use old-fashioned oats (also known as rolled oats) in place of quick-cooking oats. Keep in mind that old-fashioned oats are a bit thicker than quick-cooking, so the crumble topping’s texture will be chewier and taste more oaty. If you’re OK with that (and maybe even prefer it) then proceed! If you’re unsure, stick with quick-cooking oats.
+Watch How to Make Rhubarb Crumble
+Ingredients
+3 cups sliced fresh or frozen rhubarb (1/2-inch pieces)
+1 cup diced peeled apples
+1/2 to 1 cup sliced strawberries
+1/3 cup sugar
+1/2 teaspoon ground cinnamon
+1/2 cup all-purpose flour
+1 teaspoon baking powder
+1/4 teaspoon salt
+4 tablespoons cold butter
+2/3 cup packed brown sugar
+2/3 cup quick-cooking oats
+Vanilla ice cream, optional
+1 Preheat oven to 350°. Combine rhubarb, apples and strawberries; spoon into a greased 8-in. square baking dish. Combine sugar and cinnamon; sprinkle over rhubarb mixture. Set aside.
+2 In a bowl, combine flour, baking powder and salt. Cut in butter until mixture resembles coarse crumbs. Stir in brown sugar and oats. Sprinkle over rhubarb mixture.
+3 Bake at 350° for 40-50 minutes or until lightly browned. Serve warm or cold, with a scoop of ice cream if desired.
+Nutrition Facts
+We are no longer supporting IE (Internet Explorer) as we strive to provide site experiences for browsers that support new web standards and security practices.
+We recommend our users to update the browser.
+Google Chrome
+Apple Safari
+Mozilla Firefox
+Microsoft Edge
+Recipes More Items SEE ALL RECIPES Cooking Gear & Gadgets Cuisines Cooking Styles Dishes & Beverages Health & Wellness Holidays & Events Ingredients Meal Types Techniques
+SEE ALL RECIPES
+Cooking Gear & Gadgets
+Cuisines
+Cooking Styles
+Dishes & Beverages
+Health & Wellness
+Holidays & Events
+Meal Types
+Techniques
+Contests
+News More Items SEE ALL NEWS People in Food Grocery Stores New Products Recalls Restaurants Trends
+SEE ALL NEWS
+People in Food
+Grocery Stores
+New Products
+Recalls
+Restaurants
+Trends
+Health & Wellness More Items SEE ALL HEALTH & WELLNESS Healthy Eating Healthy Lifestyle Tips Nutrition Tips
+SEE ALL HEALTH & WELLNESS
+Healthy Eating
+Healthy Lifestyle Tips
+Nutrition Tips
+Holidays & Events More Items SEE ALL HOLIDAYS & EVENTS Christmas Easter Halloween St. Patrick’s Day
+SEE ALL HOLIDAYS & EVENTS
+Christmas
+Easter
+Halloween
+St. Patrick’s Day
+Home & Living More Items SEE ALL HOME & LIVING Cleaning & Organizing Entertaining & Hosting Family & Parenting Grocery Shopping Home Decor Outdoor Living Travel
+SEE ALL HOME & LIVING
+Cleaning & Organizing
+Entertaining & Hosting
+Family & Parenting
+Grocery Shopping
+Home Decor
+Outdoor Living
+Travel
+Stuff We Love
+Test Kitchen More Items SEE ALL TEST KITCHEN Cooking Gear & Gadgets How To Meal Planning Taste Tests Test Kitchen Tips
+SEE ALL TEST KITCHEN
+How To
+Meal Planning
+Taste Tests
+Test Kitchen Tips
+Videos
+Submit a Recipe
+Newsletters
+Follow Us More Items Facebook Pinterest Instagram Twitter Feedly
+Facebook
+Pinterest
+Instagram
+Twitter
+Feedly
+Subscribe
+Shop
+Log In / Join
+Recipe Box

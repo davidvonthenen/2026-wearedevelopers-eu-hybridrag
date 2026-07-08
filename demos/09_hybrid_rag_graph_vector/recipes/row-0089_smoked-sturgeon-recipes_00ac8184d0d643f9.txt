@@ -1,0 +1,137 @@
+Smoked Sturgeon recipes
+=======================
+
+Recipe Metadata
+---------------
+Recipe ID: 00ac8184d0d643f9
+CSV row number: 89
+Recipe name: Smoked Sturgeon recipes
+Source: honest-food.net
+URL: http://honest-food.net/smoked-sturgeon-recipe/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/007fc4113dd85ffc094f3804a05ac9970e6fc59d9a89704ab2d74da97eee3142/21085100.jpeg
+Servings: 4
+Calories: 2187.48
+Diet labels: High-Protein, Low-Carb
+Health labels: Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Smoked Sturgeon recipes
+source: honest-food.net
+url: http://honest-food.net/smoked-sturgeon-recipe/
+servings: 4
+calories: 2187.482529
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/007fc4113dd85ffc094f3804a05ac9970e6fc59d9a89704ab2d74da97eee3142/21085100.jpeg
+diet_labels: ["High-Protein","Low-Carb"]
+health_labels: ["Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Smoked Sturgeon
+
+Description: This is a dry cure approach to smoking fish, which I like a little better than the brine option: It seems to draw out excess moisture faster. The spices I use are what I like, but you can feel free to alter to your taste. Don't change the salt and sugar, though. If you can't use alcohol, skip that step and just dry the fish without the coating of booze. This method will work with any sort of fish you can cut into blocks: tuna, salmon, white seabass, big redfish or catfish, tilefish, swordfish, shark, marlin, albacore, etc.
+
+Recipe category: ['Cured Meat']
+
+Recipe cuisine: ['American']
+
+Yield: ['15']
+
+Prep time: PT15M
+
+Cook time: PT180M
+
+Total time: PT195M
+
+Ingredients:
+- 3 to 5 pounds sturgeon, (in large blocks)
+- 1 cup kosher salt
+- 1/4 cup sugar
+- 1 teaspoon mace
+- 1 tablespoon garlic powder
+- Brandy or whisky to coat salmon
+
+Instructions:
+1. Trim the sturgeon of any fat or dark meat. Cut the pieces into regular blocks, like rectangles. Mix the salt, sugar and spices together, then coat the fish with it. Put into a covered, non-reactive container (plastic, ceramic, stainless steel) and set in the fridge to cure for as many hours as each block of sturgeon weighs, i.e., if you cut 1 pound blocks, they should be salted for only about 1 hour.
+2. Remove the sturgeon from the cure and rinse. Pat dry with paper towels, then brush brandy or whisky all over the sturgeon. Set on a rack in the fridge uncovered until the next day.
+3. Smoke over very low heat -- about 160°F -- until it's smoked the way you like it. I go for 4 hours.
+4. Allow to cool fully before vacuum sealing and storing. It will keep for a week in the fridge or 6 months in the freezer if it has been vacuum sealed.
+
+Visible page text:
+Home | Fish | Smoked Sturgeon
+Smoked Sturgeon
+By Hank Shaw
+March 27, 2014 | Updated June 06, 2022
+As an Amazon Associate I earn from qualifying purchases.
+I remember many years ago a trip to a little Jewish deli in Manhattan. It was probably the iconic Russ & Daughters, but I can’t be sure. All I can tell you is that I remember a vivid image of a display of smoked fish that I’d never seen before, and have never seen since: There were little chubs, golden and smoked whole.
+Smoked sablefish, coated with paprika. Slabs of vermillion salmon, each a different shade depending on whether it was lox or Nova or Scottish or Pacific.
+King of them all was the smoked sturgeon. It was in a block, and was sliced like deli meat. Even as a little kid I remember it being expensive. Precious. Mysterious. I was dimly aware that there were no sturgeon anymore, and that this was something truly exotic.
+Truth is I was half right. There were no sturgeon anywhere within 1500 miles of me then. The East once had a tremendous sturgeon fishery, but we humans had no inkling of how slow sturgeon grow and as a consequence we fished them out. That was nearly a century ago, and the sturgeon are still not plentiful enough for even a recreational fishery. It’s a terrible story of human ignorance and greed.
+Here in the West, we have the white sturgeon, which is still plentiful enough for a recreational fishery thanks to heavy regulation. Here in California we are only allowed three fish a year, which everyone agrees was a wise move — except for the poachers, many of whom are recent immigrants from Russia, where caviar poaching is big business. After all, who needs more than three fish a year? Hell, I’d be happy with one.
+Until right at the very end of the trip, when the final angler laid into a really nice 56-inch fish. He was generous enough to share it with all of us, so I did get to take home some sturgeon.
+I knew I needed to smoke some, so I contacted my colleague Barton Seaver, who is a guru of smoked fish and the author of the book Where There’s Smoke: Simple, Sustainable, Delicious Grilling . Barton gave me the rough outlines of this recipe, and I am happy to say it worked like a charm!
+The dry cure works fast, and the level of smoke was perfect: I use alder for all my fish, but fruit woods or oak would also work well.
+The result is a hybrid cured-smoked fish that is just barely cooked through to the center, pleasantly salty and smoky, with just a hint of the mace I used in the cure. If you’ve never eaten sturgeon, it’s a very meaty fish, dense and easily sliceable once smoked.
+Holly and I ate this whole piece in a day, slice by slice. It brought back memories.
+Ingredients 1x 2x 3x
+▢ 3 to 5 pounds sturgeon, in large blocks
+▢ 1 cup kosher salt
+▢ 1/4 cup sugar
+▢ 1 teaspoon mace
+▢ 1 tablespoon garlic powder
+▢ Brandy or whisky to coat salmon
+Instructions
+Trim the sturgeon of any fat or dark meat. Cut the pieces into regular blocks, like rectangles. Mix the salt, sugar and spices together, then coat the fish with it. Put into a covered, non-reactive container (plastic, ceramic, stainless steel) and set in the fridge to cure for as many hours as each block of sturgeon weighs, i.e., if you cut 1 pound blocks, they should be salted for only about 1 hour.
+Remove the sturgeon from the cure and rinse. Pat dry with paper towels, then brush brandy or whisky all over the sturgeon. Set on a rack in the fridge uncovered until the next day.
+Smoke over very low heat -- about 160°F -- until it's smoked the way you like it. I go for 4 hours.
+Allow to cool fully before vacuum sealing and storing. It will keep for a week in the fridge or 6 months in the freezer if it has been vacuum sealed.
+Notes
+Nutrition
+Nutrition information is automatically calculated, so should only be used as an approximation.
+Want Google to show you more recipes like this?
+Categorized as: American Recipes , Appetizers and Snacks , Charcuterie , Eastern European , Featured , Fish , Recipe
+How-To (DIY stuff)
+Lime Habanero Butter
+Tropical, zippy, and perfect on fish, poultry or pork, lime habanero butter is easy to make and freezes well.
+Fish
+Walleye Soup
+A clear fish soup with cherry tomatoes, greens and peas. This is designed as a walleye soup, but any white fish works.
+Southern
+Catfish Etouffee
+A simple recipe for catfish etouffee, a Cajun smothered catfish dish served with white rice. Other fish work well here, too.
+Pan Seared Grouper
+Simple pan seared grouper or other white fish, served with a hearts of palm salad and key lime browned butter sauce. It’s an ode to Florida.
+About Hank Shaw
+Hey there. Welcome to Hunter Angler Gardener Cook, the internet’s largest source of recipes and know-how for wild foods. I am a chef, author, and yes, hunter, angler, gardener, forager and cook. Follow me on Instagram and on Facebook .
+Leave a comment Cancel reply
+34 Comments
+different folks will have different affinities, for sure, but just my 2 cents: you should do a recipe for gravlax sometime…. lox and cold-smoked fish is certainly good, but gravlax is an entirely different animal, cured in sugar and salt and dill with black pepper and anise or pernod often showing up for the ride, but christ, it is good. I make it every year (usually several times) but you have an entire audience to bring it to. just my entirely unsolicited 2 cents from the wilds of Madison(ish).. Reply
+different folks will have different affinities, for sure, but just my 2 cents:
+you should do a recipe for gravlax sometime….
+lox and cold-smoked fish is certainly good, but gravlax is an entirely different animal, cured in sugar and salt and dill with black pepper and anise or pernod often showing up for the ride, but christ, it is good. I make it every year (usually several times) but you have an entire audience to bring it to.
+just my entirely unsolicited 2 cents from the wilds of Madison(ish)..
+I want to try this recipe for the picture alone! however you mention temp and duration. Do you have an internal meat temperature you like to get to? I have an electric smoker that heats very unevenly at lower temps and don’t want to under cook the fish. Reply Eric: No. I don’t measure internal temperature with fish. But a good indicator is that the fish is fully cooked, so it will flake if you try to separate those flakes. Reply
+I want to try this recipe for the picture alone! however you mention temp and duration. Do you have an internal meat temperature you like to get to? I have an electric smoker that heats very unevenly at lower temps and don’t want to under cook the fish.
+Eric: No. I don’t measure internal temperature with fish. But a good indicator is that the fish is fully cooked, so it will flake if you try to separate those flakes. Reply
+Eric: No. I don’t measure internal temperature with fish. But a good indicator is that the fish is fully cooked, so it will flake if you try to separate those flakes.
+Been using this recipe for years on lake sturgeon in Wisconsin. Very good, and love the simplicity of the cure. Have been adding a sweetness on the outside as it smokes. Trying a honey glaze this year. Candy sturgeon! Reply
+Been using this recipe for years on lake sturgeon in Wisconsin. Very good, and love the simplicity of the cure. Have been adding a sweetness on the outside as it smokes. Trying a honey glaze this year. Candy sturgeon!
+Amazing sturgeon recipe. Doing another batch today/tomorrow It’s all in the timing as for how long to brine, rinse. Leave it too long, or have smaller pieces of fish will díctate salty the fish will be. It was a huge hit yesterday! Thanks for sharing Reply
+Amazing sturgeon recipe. Doing another batch today/tomorrow It’s all in the timing as for how long to brine, rinse. Leave it too long, or have smaller pieces of fish will díctate salty the fish will be. It was a huge hit yesterday! Thanks for sharing
+As Seen In
+©2026 Hunter Angler Gardener Cook. All rights reserved. As an Amazon Associate I earn from qualifying purchases. Privacy Policy • Powered by CultivateWP .
+234
+250

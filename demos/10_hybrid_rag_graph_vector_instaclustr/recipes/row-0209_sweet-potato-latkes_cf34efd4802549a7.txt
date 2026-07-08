@@ -1,0 +1,123 @@
+Sweet Potato Latkes
+===================
+
+Recipe Metadata
+---------------
+Recipe ID: cf34efd4802549a7
+CSV row number: 209
+Recipe name: Sweet Potato Latkes
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/food-network-kitchen/sweet-potato-latkes-recipe-1927940
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/014c8bf18b30a764978faf1a00650e4e7f7e0b18575770e3b4886bfb3c4dcc6b/21132694.jpg
+Servings: 8
+Calories: 625.84
+Diet labels: none listed
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: kosher
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Sweet Potato Latkes
+source: Food Network
+url: https://www.foodnetwork.com/recipes/food-network-kitchen/sweet-potato-latkes-recipe-1927940
+servings: 8
+calories: 625.8428697104317
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/014c8bf18b30a764978faf1a00650e4e7f7e0b18575770e3b4886bfb3c4dcc6b/21132694.jpg
+diet_labels: []
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["kosher"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Sweet Potato Latkes
+
+Description: The addition of sweet potato to the classic latke mix of white potatoes and onions, lends an earthy sweetness to this Hanukkah staple.
+
+Recipe category: appetizer
+
+Recipe cuisine: jewish-cooking
+
+Yield: 8 latkes
+
+Prep time: P0Y0M0DT0H10M0.000S
+
+Cook time: P0Y0M0DT0H10M0.000S
+
+Total time: P0Y0M0DT0H20M0.000S
+
+Ingredients:
+- 1/2 medium yellow onion
+- 1/2 pound Yukon gold potato, (about 1 large)
+- 1/2 pound sweet potato, (about 1 medium)
+- 2 tablespoons all-purpose flour
+- 1 teaspoon kosher salt
+- Pinch cayenne
+- 1 large egg, lightly beaten
+- Vegetable oil
+- 4 teaspoons light sour cream
+- 4 teaspoons beet or regular horseradish
+- 2 to 3 sprigs flat-leaf parsley
+
+Instructions:
+1. Preheat the oven to 200 degrees F. Put a wire rack on a baking sheet and place in the oven.
+2. Grate the onion on a box grater into a large bowl. Grate both potatoes into the same bowl, grating down the length of the potato to get long strands. Toss the potatoes with the onions as you work to keep them from discoloring. Put potato mixture in a clean dish towel and wring out excess liquid. Toss the latke mixture with the flour, salt, and cayenne. Stir in the egg.
+3. Heat a 1/4-inch oil in a large cast iron or other heavy skillet over medium heat. Working in batches, spoon about 1/4 cup of the latke mixture into the skillet, pressing lightly to form 3-inch pancakes. Take care not to overcrowd the pan. Cook, turning once, until just golden, about 2 minutes per side. Transfer to the rack in the oven while you cook the remaining batter.
+4. Serve the latkes topped with a small dollop of sour cream and horseradish. Garnish with a parsley leaf. Serve immediately.
+
+Visible page text:
+Home
+Recipes
+Appetizers
+Sweet Potato Latkes
+Level: Intermediate
+Total: 20 min
+Prep: 10 min
+Cook: 10 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+1/2 medium yellow onion
+1/2 pound Yukon gold potato, (about 1 large)
+1/2 pound sweet potato, (about 1 medium)
+2 tablespoons all-purpose flour
+1 teaspoon kosher salt
+Pinch cayenne
+1 large egg, lightly beaten
+Vegetable oil
+4 teaspoons light sour cream
+4 teaspoons beet or regular horseradish
+2 to 3 sprigs flat-leaf parsley
+Preheat the oven to 200 degrees F. Put a wire rack on a baking sheet and place in the oven.
+Grate the onion on a box grater into a large bowl. Grate both potatoes into the same bowl, grating down the length of the potato to get long strands. Toss the potatoes with the onions as you work to keep them from discoloring. Put potato mixture in a clean dish towel and wring out excess liquid. Toss the latke mixture with the flour, salt, and cayenne. Stir in the egg.
+Heat a 1/4-inch oil in a large cast iron or other heavy skillet over medium heat. Working in batches, spoon about 1/4 cup of the latke mixture into the skillet, pressing lightly to form 3-inch pancakes. Take care not to overcrowd the pan. Cook, turning once, until just golden, about 2 minutes per side. Transfer to the rack in the oven while you cook the remaining batter.
+Serve the latkes topped with a small dollop of sour cream and horseradish. Garnish with a parsley leaf. Serve immediately.
+Copyright 2004 Television Food Network, G.P. All rights reserved.
+Categories:
+More from:
+The Best Hanukkah Recipes
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Beet-and-Potato Latkes Recipe
+Potato Latkes Recipe
+Classic Potato Latkes Recipe
+Kevin Johnson Grange Hall Beet and Potato Latkes...
+Spiced Carrot-Potato Latkes Recipe
+Southwestern Style Potato Latkes Recipe

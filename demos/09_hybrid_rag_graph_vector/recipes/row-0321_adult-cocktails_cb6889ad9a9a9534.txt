@@ -1,0 +1,99 @@
+Adult Cocktails
+===============
+
+Recipe Metadata
+---------------
+Recipe ID: cb6889ad9a9a9534
+CSV row number: 321
+Recipe name: Adult Cocktails
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/adult-cocktails-recipe-2121751
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/026c047af4f5b7f0364b00cced4641ec66d8f7dcb83fb7a0a45a14fdd8b5dfb6/21124199.jpg
+Servings: 1
+Calories: 369.29
+Diet labels: Low-Fat, Low-Sodium
+Health labels: none listed
+Allergy cautions: Wheat, Sulfites
+Cuisine type: world
+Meal type: lunch/dinner
+Dish type: alcohol cocktail
+
+Original CSV Fields
+-------------------
+recipe_name: Adult Cocktails
+source: Food Network
+url: https://www.foodnetwork.com/recipes/adult-cocktails-recipe-2121751
+servings: 1
+calories: 369.2947245569375
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/026c047af4f5b7f0364b00cced4641ec66d8f7dcb83fb7a0a45a14fdd8b5dfb6/21124199.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: []
+cautions: ["Wheat","Sulfites"]
+cuisine_type: ["world"]
+meal_type: ["lunch/dinner"]
+dish_type: ["alcohol cocktail"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Adult Cocktails
+
+Yield: 1 serving
+
+Ingredients:
+- 1.5 oz gin
+- .5 oz Campari
+- .25 oz Cointreau
+- 2 oz ruby red grapefruit juice
+- .25 ounce lemon juice
+- orange peel to garnish
+- 2 ounces vodka
+- 2 sprigs mint, plus more for garnish
+- 1 oz fresh lime juice
+- .5 oz simple syrup
+
+Instructions:
+1. Combine ingredients and serve over ice. Per drink (will be making enough to fit in cookie jar/vase).
+2. Muddle mint, combine with vodka, lime juice & simple syrup. Serve over ice. Per drink (will be making enough to fill container).
+
+Visible page text:
+Home
+Recipes
+Adult Cocktails
+Nutrition Info
+Pinterest
+Email
+Deselect All
+Eve's Tryst
+1.5 oz gin
+.5 oz Campari
+.25 oz Cointreau
+2 oz ruby red grapefruit juice
+.25 ounce lemon juice
+orange peel to garnish
+Southampton
+2 ounces vodka
+2 sprigs mint, plus more for garnish
+1 oz fresh lime juice
+.5 oz simple syrup
+Combine ingredients and serve over ice. Per drink (will be making enough to fit in cookie jar/vase).
+Muddle mint, combine with vodka, lime juice & simple syrup. Serve over ice. Per drink (will be making enough to fill container).
+Categories:
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Hemlock Cocktails Recipe
+Negroni Cocktails Recipe
+Lillet Cocktails Recipe
+Cranberry and Pear Cocktails Recipe
+Lobster Avocado Cocktails Recipe
+Seaweed Cocktails Recipe

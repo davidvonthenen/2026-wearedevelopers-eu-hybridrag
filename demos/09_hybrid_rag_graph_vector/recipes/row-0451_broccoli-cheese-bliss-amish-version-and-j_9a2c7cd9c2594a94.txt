@@ -1,0 +1,98 @@
+Broccoli Cheese Bliss: Amish Version and J
+==========================================
+
+Recipe Metadata
+---------------
+Recipe ID: 9a2c7cd9c2594a94
+CSV row number: 451
+Recipe name: Broccoli Cheese Bliss: Amish Version and J
+Source: amish365.com
+URL: http://www.amish365.com/broccoli-cheese-bliss-amish-version-and-just-like-panera-version/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02e64763dfcdb83cec110093597af9bd0d89edf8218fdae6ee44d8d088b9f772/21115075.jpg
+Servings: 8
+Calories: 1807.26
+Diet labels: Low-Carb
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Soy, Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: starter
+
+Original CSV Fields
+-------------------
+recipe_name: Broccoli Cheese Bliss: Amish Version and J
+source: amish365.com
+url: http://www.amish365.com/broccoli-cheese-bliss-amish-version-and-just-like-panera-version/
+servings: 8
+calories: 1807.262317
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02e64763dfcdb83cec110093597af9bd0d89edf8218fdae6ee44d8d088b9f772/21115075.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Soy","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["starter"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+Skip to footer
+Amish Recipes
+Amish Culture
+About
+The Amish Cook, Week of May 4, 2026
+Guide to the Milroy, Indiana Amish Community
+The Amish Cook, Week of April 27, 2026
+Trending Amish Recipes, 4-29-2026: Hot Chicken Salad, The Bishop's Chocolate Pie, and Much More!
+5 Amish Recipes Using Miracle Whip (not mayo)
+The Amish Cook, Week of 4-20-2026
+5 Amish Rhubarb Recipes
+The Amish Cook, Week of April 13, 2026
+Where Are the Amish in South Dakota?
+The Amish Cook, Week of March 30, 2026
+The Amish Cook, 3-23-2026 - A Bittersweet Anniversary
+Sugarcreek Amish Mysteries: Blessings in Disguise — A Review From Someone Who Actually Knows Sugarcreek
+Broccoli Cheddar Soup from Panera.
+By Kevin Williams
+When broccoli cheese soup hits the mark, it is a perfect blend of just-right thickness cheese with just-right chunks of broccoli. The cheese can't be too watery, can't be TOO thick (although would prefer too thick to too runny) and you don't want limp broccoli, nor undercooked broccoli...it has to be just right so you get a tender mouthful of broccoli bliss along with a spoonful of smooth cheese. Subway used to do soups, maybe they still do. I always thought their broccoli soup was too runny. Panera bread does have decent mass market broccoli cheese soup...man, I am glad when we have gift cards for there because that place always just seems overpriced. (For those in other countries, Panera is a chain of restaurants in the USA serving soups, sandwiches, breads, etc...considered more "upscale" than, say, a McDonald's....not sure if Canada has them, Panera might be comparable to a Swiss Chalet in Canada? Although I think they are more known for chicken...)
+It was funny because on the same evening I recently enjoyed a bowl of Panera's broccoli cheddar soup our friends over at Recipelion posted a recipe for "Just like Panera Broccoli Cheese Soup." So, you are hankering for Panera but don't want to spend $30 for a bowl of it (okay, I'm exaggerating), you can make it yourself, click here for their copycat recipe.
+Meanwhile, I also have a recipe in my Amish Cook archives from way back in 1993 from the original Amish Cook for Cheesy Broccoli Soup. Her soup was an amazing blend of flavors and she'd cook it up just right in a pot on top of her kerosene stove. Good stuff, good memories! Broccoli Cheese Bliss: Amish Version and Just Like Panera Version Print Prep time 10 mins Cook time 30 mins Total time 40 mins Serves: serves 6 Ingredients 1 /4 cup chopped onion 1 tablespoon of margarine 1 1 /2 cups milk ¾ pound processed and cubed cheese 10 ounces of frozen, chopped broccoli or equivalent fresh dash of pepper Instructions In a 2-quart saucepan, cook onions in margarine until tender. Add remaining ingredients and stir over low heat until cheese is fully melted and mixture is hot. Wordpress Recipe Plugin by EasyRecipe 3.4.3177
+1 /4 cup chopped onion
+1 tablespoon of margarine
+1 1 /2 cups milk
+¾ pound processed and cubed cheese
+10 ounces of frozen, chopped broccoli or equivalent fresh
+dash of pepper
+In a 2-quart saucepan, cook onions in margarine until tender.
+Add remaining ingredients and stir over low heat until cheese is fully melted and mixture is hot.
+Pinterest
+Facebook
+Twitter
+Like
+More Amish Soups
+Soothing and Hearty Amish Chicken Noodle Soup
+Classic Amish Broccoli-Cauliflower Soup
+A Delicious Amish Leftover Turkey Soup Recipe
+How to Make Comforting Turkey Frame Soup From Thanksgiving Leftovers
+About Kevin Williams
+Hi, my name is Kevin Williams and I am owner of Oasis Newsfeatures and editor of The Amish Cook newspaper column.
+Reader Interactions
+Comments
+Hi Kevin! I feel the pain of those prices at Panera. While I rarely go to that restaurant, I have found myself there twice within the last week 🤦🏼‍♀️. I was unaware until now of the $6.99 “duets” they offer. While the broccoli cheddar soup of course isn’t one of the choices (you have to stick with their pairings), maybe with the money saved if someone else ordered a duet … this way you could order the favored soup for yourself (?) Just trying to help…. 🙃 Anyway, these are not tremendously advertised and you do have to tell the cashier that is what you want to order. All very hush hush. Gee whiz! https://www.panerabread.com/en-us/articles/panera-duets-cheap-lunch-dinner-deal-menu.html Reply Interesting, thank you, will look out for the duet deal! Reply
+Hi Kevin! I feel the pain of those prices at Panera. While I rarely go to that restaurant, I have found myself there twice within the last week 🤦🏼‍♀️. I was unaware until now of the $6.99 “duets” they offer. While the broccoli cheddar soup of course isn’t one of the choices (you have to stick with their pairings), maybe with the money saved if someone else ordered a duet … this way you could order the favored soup for yourself (?) Just trying to help…. 🙃
+Anyway, these are not tremendously advertised and you do have to tell the cashier that is what you want to order. All very hush hush. Gee whiz!
+https://www.panerabread.com/en-us/articles/panera-duets-cheap-lunch-dinner-deal-menu.html
+Interesting, thank you, will look out for the duet deal! Reply
+Interesting, thank you, will look out for the duet deal!
+Leave a Reply Cancel reply
+Footer
+Want 200+ More Amish Recipes? Download our free 202-page Original Amish Cookbook instantly! ✓ Traditional breads and pies ✓ Hearty casseroles and comfort food ✓ Classic Amish desserts ✓ Dutch oven specialties
+Pin It on Pinterest
+0

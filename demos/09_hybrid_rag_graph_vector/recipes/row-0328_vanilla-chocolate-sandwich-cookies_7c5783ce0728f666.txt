@@ -1,0 +1,121 @@
+Vanilla-Chocolate Sandwich Cookies
+==================================
+
+Recipe Metadata
+---------------
+Recipe ID: 7c5783ce0728f666
+CSV row number: 328
+Recipe name: Vanilla-Chocolate Sandwich Cookies
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/food-network-kitchen/vanilla-chocolate-sandwich-cookies-3361579
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/020d33f8e3588210f0c24c1c4b09060ebd9cb0b86bc762e6dad0d04496b14705/21125273.jpg
+Servings: 30
+Calories: 5843.86
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: sandwiches
+
+Original CSV Fields
+-------------------
+recipe_name: Vanilla-Chocolate Sandwich Cookies
+source: Food Network
+url: https://www.foodnetwork.com/recipes/food-network-kitchen/vanilla-chocolate-sandwich-cookies-3361579
+servings: 30
+calories: 5843.855273248068
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/020d33f8e3588210f0c24c1c4b09060ebd9cb0b86bc762e6dad0d04496b14705/21125273.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["sandwiches"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Vanilla-Chocolate Sandwich Cookies
+
+Recipe category: dessert
+
+Yield: about 30 sandwich cookies
+
+Prep time: P0Y0M0DT4H8M0.000S
+
+Cook time: P0Y0M0DT0H12M0.000S
+
+Total time: P0Y0M0DT4H20M0.000S
+
+Ingredients:
+- 2 1/2 cups all-purpose flour, plus more for dusting
+- 1/4 teaspoon baking powder
+- 1/2 teaspoon salt
+- 2 1/2 sticks unsalted butter, at room temperature
+- 1 cup sugar
+- 1 large egg
+- 2 teaspoons vanilla extract
+- 2/3 cup heavy cream
+- 8 ounces milk chocolate, finely chopped
+- Sprinkles, for decorating (optional)
+
+Instructions:
+1. Sift the flour, baking powder and salt into a medium bowl. Beat the butter and sugar in a large bowl with a mixer on medium-high speed until light and fluffy, 3 to 5 minutes. Add the egg and vanilla; beat until combined. Reduce the mixer speed to low; add the flour mixture in 2 batches, beating after each, until just incorporated. Divide the dough between 2 sheets of plastic wrap; form into disks. Wrap and refrigerate until firm, at least 1 hour.
+2. Make the filling: Bring the heavy cream to a simmer in a small saucepan over medium heat. Pour over the chocolate in a medium bowl and let stand 2 minutes; stir until smooth. Set aside.
+3. Working with 1 disk at a time, roll out the dough between floured sheets of parchment paper until about 1/8 inch thick; chill 15 minutes. Line 2 baking sheets with parchment. Cut out circles with a 2-inch cutter; transfer to the baking sheets. Gather the scraps and refrigerate until firm; reroll once to cut out more cookies. Chill the cutouts 30 minutes.
+4. Position racks in the upper and lower thirds of the oven and preheat to 350 degrees F. Bake, switching the pans halfway through, until just golden, about 12 minutes. Let cool 5 minutes on the baking sheets, then transfer to racks to cool completely.
+5. Briefly beat the filling with a mixer on medium-high speed until thick, 30 seconds. Chill until cold, about 1 hour. Sandwich between the cookies and roll the edges in sprinkles.
+
+Visible page text:
+Home
+Recipes
+Dessert
+Cookies
+Vanilla-Chocolate Sandwich Cookies
+Level: Easy
+Total: 4 hr 20 min
+Prep: 4 hr 8 min
+Cook: 12 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+2 1/2 cups all-purpose flour, plus more for dusting
+1/4 teaspoon baking powder
+1/2 teaspoon salt
+2 1/2 sticks unsalted butter, at room temperature
+1 cup sugar
+1 large egg
+2 teaspoons vanilla extract
+2/3 cup heavy cream
+8 ounces milk chocolate, finely chopped
+Sprinkles, for decorating (optional)
+Sift the flour, baking powder and salt into a medium bowl. Beat the butter and sugar in a large bowl with a mixer on medium-high speed until light and fluffy, 3 to 5 minutes. Add the egg and vanilla; beat until combined. Reduce the mixer speed to low; add the flour mixture in 2 batches, beating after each, until just incorporated. Divide the dough between 2 sheets of plastic wrap; form into disks. Wrap and refrigerate until firm, at least 1 hour.
+Make the filling: Bring the heavy cream to a simmer in a small saucepan over medium heat. Pour over the chocolate in a medium bowl and let stand 2 minutes; stir until smooth. Set aside.
+Working with 1 disk at a time, roll out the dough between floured sheets of parchment paper until about 1/8 inch thick; chill 15 minutes. Line 2 baking sheets with parchment. Cut out circles with a 2-inch cutter; transfer to the baking sheets. Gather the scraps and refrigerate until firm; reroll once to cut out more cookies. Chill the cutouts 30 minutes.
+Position racks in the upper and lower thirds of the oven and preheat to 350 degrees F. Bake, switching the pans halfway through, until just golden, about 12 minutes. Let cool 5 minutes on the baking sheets, then transfer to racks to cool completely.
+Briefly beat the filling with a mixer on medium-high speed until thick, 30 seconds. Chill until cold, about 1 hour. Sandwich between the cookies and roll the edges in sprinkles.
+Photograph by Andrew Purcell
+Courtesy of Food Network Magazine
+Categories:
+More from:
+The Best Christmas Recipes
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Chocolate Sandwich Cookies Recipe
+Cake-Mix Mint Chocolate Sandwich Cookies Recipe
+Peppermint-Chocolate Sandwich Cookies Recipe
+Gluten Free Chocolate Sandwich Cookies Recipe
+Chocolate Sandwich Cookies with Vanilla Cream...
+Swiss Chocolate Sandwich Cookies Recipe

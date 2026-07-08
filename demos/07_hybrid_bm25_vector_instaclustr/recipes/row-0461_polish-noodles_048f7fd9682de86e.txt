@@ -1,0 +1,114 @@
+Polish Noodles
+==============
+
+Recipe Metadata
+---------------
+Recipe ID: 048f7fd9682de86e
+CSV row number: 461
+Recipe name: Polish Noodles
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/82135/polish-noodles
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02f605043483756ba6bc780ba5a82b5a780cb9058c26dcad901c6cb51a54390d/21023418.jpg
+Servings: 8
+Calories: 3469.41
+Diet labels: High-Fiber
+Health labels: Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: asian, eastern europe
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Polish Noodles
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/82135/polish-noodles
+servings: 8
+calories: 3469.411600686691
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02f605043483756ba6bc780ba5a82b5a780cb9058c26dcad901c6cb51a54390d/21023418.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["asian","eastern europe"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Polish Noodles
+
+Description: This recipe combines sage sausage, cabbage, and egg noodles in a dish that&#39;s simple and delish.
+
+Recipe category: ['Dinner']
+
+Recipe cuisine: ['Polish']
+
+Yield: ['8', '12 cups']
+
+Prep time: PT10M
+
+Cook time: PT45M
+
+Total time: PT55M
+
+Ingredients:
+- 1 (8 ounce) package kluski noodles
+- 2 (12 ounce) packages sage pork sausage
+- 1 green pepper, diced
+- 1 onion, diced
+- 4 cups water, or as needed
+- 1 large head cabbage, chopped
+- salt and pepper to taste
+- 0.5 cup sour cream
+
+Instructions:
+1. Bring a pot of lightly salted water to a rolling boil over high heat. Stir in the egg noodles, and return to a boil. Cook, uncovered, stirring occasionally, until the pasta is cooked through, but still firm to the bite, about 5 minutes. Drain.
+2. Meanwhile, heat a large skillet over medium-high heat and stir in the sausage, green pepper, and onion. Cook and stir until the sausage is crumbly, evenly browned, and no longer pink, about 10 minutes. Drain and discard any excess grease.
+3. Bring the 4 cups of water to a boil in a large pot. Stir in the cabbage, the sausage mixture, and the noodles. Simmer over medium-low heat, stirring occasionally, until the cabbage is tender, about 30 minutes. Add water while cooking if needed; the mixture should not be dry. Season to taste with salt and pepper. Garnish with sour cream if desired.
+
+Visible page text:
+Global Cuisines
+European
+Eastern European
+Polish
+Polish Noodles
+This recipe combines sage sausage, cabbage, and noodles. Simple and DELISH! This is my husband's grandma's recipe, and my husband's favorite. I couldn't ask for an easier favorite. It's better when served the next day, or cooled for at least an hour, then reheated.
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 8 servings
+1 (8 ounce) package kluski noodles
+2 (12 ounce) packages sage pork sausage
+1 green pepper, diced
+1 onion, diced
+4 cups water, or as needed
+1 large head cabbage, chopped
+salt and pepper to taste
+½ cup sour cream (Optional)
+Directions
+Bring a pot of lightly salted water to a rolling boil over high heat. Stir in the egg noodles, and return to a boil. Cook, uncovered, stirring occasionally, until the pasta is cooked through, but still firm to the bite, about 5 minutes. Drain.
+Meanwhile, heat a large skillet over medium-high heat and stir in the sausage, green pepper, and onion. Cook and stir until the sausage is crumbly, evenly browned, and no longer pink, about 10 minutes. Drain and discard any excess grease.
+Bring the 4 cups of water to a boil in a large pot. Stir in the cabbage, the sausage mixture, and the noodles. Simmer over medium-low heat, stirring occasionally, until the cabbage is tender, about 30 minutes. Add water while cooking if needed; the mixture should not be dry. Season to taste with salt and pepper. Garnish with sour cream if desired.
+Cook's Note
+If you are making this dish ahead to serve the next day, make it watery; the noodles will absorb most of the moisture.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Polish Noodles
+1
+Most-Saved Recipes Like This
+Egg and Sausage Casserole 957 Ratings 50 mins Save
+Easy Egg Noodles 986 Ratings 40 mins Save
+Fried Cabbage and Egg Noodles 315 Ratings 20 mins Save
+Polish Noodles (Cottage Cheese and Noodles) 380 Ratings 20 mins Save
+Cheesy Sausage Pasta 221 Ratings 35 mins Save
+Grandma's Polish Perogies 505 Ratings 1 hr 40 mins Save
+Cabbage and Noodles 386 Ratings 45 mins Save
+Kielbasa with Peppers and Potatoes 817 Ratings 40 mins Save
+Polish Cabbage Noodles 240 Ratings Save
+Bow Tie Pasta with Sausage and Sweet Peppers 400 Ratings 35 mins Save
+You’ll Also Love

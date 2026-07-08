@@ -1,0 +1,127 @@
+Grilled Turkey Breast with Chili-Cumin Rub
+==========================================
+
+Recipe Metadata
+---------------
+Recipe ID: 08cc5cbed3e2c0fd
+CSV row number: 203
+Recipe name: Grilled Turkey Breast with Chili-Cumin Rub
+Source: BigOven
+URL: https://www.bigoven.com/recipe/grilled-turkey-breast-with-chili-cumin-rub/360665
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0145e84d68021d5ccce9b42efc017058646be0f0a068bbd0623f1f1463050fb3/21059111.jpg
+Servings: 8
+Calories: 4158.25
+Diet labels: High-Protein, Low-Carb
+Health labels: Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Grilled Turkey Breast with Chili-Cumin Rub
+source: BigOven
+url: https://www.bigoven.com/recipe/grilled-turkey-breast-with-chili-cumin-rub/360665
+servings: 8
+calories: 4158.254612858836
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0145e84d68021d5ccce9b42efc017058646be0f0a068bbd0623f1f1463050fb3/21059111.jpg
+diet_labels: ["High-Protein","Low-Carb"]
+health_labels: ["Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Grilled Turkey Breast with Chili-Cumin Rub
+
+Description: Original recipe from Betty Crocker: http://www.bettycrocker.com/recipes/grilled-turkey-breast-with-chili-cumin-rub/80dcec14-30bb-4a00-98e4-a373578882ab
+
+Recipe category: Main Dish
+
+Recipe cuisine: not set
+
+Yield: 8
+
+Prep time: PT15M
+
+Cook time: PT2H15M
+
+Total time: PT2H30M
+
+Ingredients:
+- 2 tablespoons brown sugar packed
+- 2 teaspoons paprika
+- 1 teaspoon chili powder
+- 1 teaspoon ground cumin
+- 1/2 teaspoon ground mustard
+- 1/2 teaspoon ground ginger
+- 1/2 teaspoon garlic pepper blend
+- 1/2 teaspoon salt
+- 1 6-lb bone-in whole turkey breast thawed if frozen
+- 2 tablespoons firm butter
+
+Instructions:
+1. 1. If using charcoal grill, place drip pan with 1/2 inch water directly under grilling area, and arrange coals around edge of firebox. Heat coals or gas grill for indirect heat. 2. In small bowl, mix all ingredients except turkey and butter. Loosen skin on turkey breast in 4 or 5 places. Cut butter into small slices; place randomly under skin of turkey. Rub chili powder mixture over entire outside of turkey. Insert barbecue meat thermometer so tip is in thickest part of turkey and does not touch bone. 3. Place turkey, skin side down, on grill over drip pan or over unheated side of gas grill. Cover and grill over medium heat 30 minutes; turn turkey. Cover and grill 1 hour 30 minutes to 2 hours longer or until thermometer reads 170ºF and juice of turkey is no longer pink when center is cut. 4. Remove turkey from grill; cover with foil. Let stand 10 minutes before slicing.
+
+Visible page text:
+Recipes
+Main Dish
+Poultry - Turkey
+Turkey Breast
+Grilled Turkey Breast with Chili-Cumin Rub
+WANT TO TRY
+FAVORITE
+MADE
+CUSTOM FOLDER
+Original recipe from Betty Crocker: http://www.bettycrocker.com/recipes/grilled-turkey-breast-with-chili-cumin-rub/80dcec14-30bb-4a00-98e4-a373578882ab
+Still searching for what to cook ?
+Find the most delicious recipes here
+Recipe
+Text
+Photos
+Nutr Nutrition
+Notes
+INGREDIENTS
+2 tablespoons brown sugar ; packed
+2 teaspoons paprika
+1 teaspoon chili powder
+1 teaspoon ground cumin
+1/2 teaspoon ground mustard
+1/2 teaspoon ground ginger
+1/2 teaspoon garlic pepper blend
+1/2 teaspoon salt
+1 6-lb bone-in whole turkey breast ; thawed if frozen
+2 tablespoons firm butter
+Copy and Customize
+About BigOven Pro
+INSTRUCTIONS
+1. If using charcoal grill, place drip pan with 1/2 inch water directly under grilling area, and arrange coals around edge of firebox. Heat coals or gas grill for indirect heat.
+2. In small bowl, mix all ingredients except turkey and butter. Loosen skin on turkey breast in 4 or 5 places. Cut butter into small slices; place randomly under skin of turkey. Rub chili powder mixture over entire outside of turkey. Insert barbecue meat thermometer so tip is in thickest part of turkey and does not touch bone.
+3. Place turkey, skin side down, on grill over drip pan or over unheated side of gas grill. Cover and grill over medium heat 30 minutes; turn turkey. Cover and grill 1 hour 30 minutes to 2 hours longer or until thermometer reads 170ºF and juice of turkey is no longer pink when center is cut.
+4. Remove turkey from grill; cover with foil. Let stand 10 minutes before slicing.
+Whole turkey breasts grill beautifully. Because they’re available in different sizes, adjust the grilling time as needed and check the meat thermometer for doneness. This spice rub is a grilling basic you’ll want to keep on hand for chicken and pork, too. Make a double batch and store in a tightly sealed container.
+bfortescue
+Nutrition
+View line-by-line Nutrition Insights™ : Discover which ingredients contribute the calories/sodium/etc.
+Disclaimer: Nutrition facts are derived from linked ingredients (shown at left in colored bullets) and may or may not be complete. Always consult a licensed nutritionist or doctor if you have a nutrition-related medical condition.
+Calories per serving : 30
+Get detailed nutrition information, including item-by-item nutrition insights, so you can see where the calories, carbs, fat, sodium and more come from.
+What would you serve with this? Link in another recipe .
+What to make this week
+Keep an eye out for original recipes from the BigOven Kitchen every week! SEE MORE >>
+BigOven Buzz
+Freshly baked content from the creators at BigOven Kitchen . Learn tried and true tips, ticks and methods.
+MORE IDEAS
+Cumin Chili
+Cumin-Chili Cauliflower
+Chili, Lime and Cumin Cod
+REVIEW THIS RECIPE
+REVIEWS

@@ -1,0 +1,102 @@
+Smokin' Jalapeno Poppers
+========================
+
+Recipe Metadata
+---------------
+Recipe ID: 9b5e2b8db581be46
+CSV row number: 299
+Recipe name: Smokin' Jalapeno Poppers
+Source: recipezazz.com
+URL: https://www.recipezazz.com/recipe/smokin-jalapeno-poppers-21684
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01df8f50f8905dbece222cc81b0ae5a39b376b34f9f68093a46b0aedaa6bc0a7/21130065.jpg
+Servings: 18
+Calories: 5098.88
+Diet labels: Low-Carb
+Health labels: Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mexican
+Meal type: snack
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Smokin' Jalapeno Poppers
+source: recipezazz.com
+url: https://www.recipezazz.com/recipe/smokin-jalapeno-poppers-21684
+servings: 18
+calories: 5098.883854
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01df8f50f8905dbece222cc81b0ae5a39b376b34f9f68093a46b0aedaa6bc0a7/21130065.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mexican"]
+meal_type: ["snack"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Smokin' Jalapeno Poppers
+Recipe: #21684
+November 07, 2015
+Categories: Bacon , Cheese , Appetizers , Pacific Northwest , Christmas , Game/Sports Day New Years , Grilling (Outdoor) , Gluten-Free , No Eggs , Cream Cheese , Hot Peppers , Spicy , more
+Add to Recipe Book
+Add to Planner
+Add Private Note
+Add to Shopping List
+Send Email
+Follow Member
+""YES! Here is another Jalapeno Popper recipe. This one is from the Northwest (not that, that makes a difference.) This one is from, a local TV cookbook by "KTCS Cooks" (Favorite Recipes) Dated 2004. Todd in Newcastle sent it in.""
+Ingredients
+32 ounces cream cheese (at room temperature)
+3 to 6 garlic cloves, minced
+1/4 cup finely chopped sun-dried tomato
+1 1/2 tablespoons fresh basil leaves
+Kosher salt (1 pinch)
+28 to 56 ounces jalapeno peppers (14-28 peppers)
+1 pound bacon (thinly sliced bacon)
+Nutritional
+Serving Size: 1 (321.6 g)
+Calories 812.4
+Total Fat - 71.5 g
+Saturated Fat - 33.9 g
+Cholesterol - 213.8 mg
+Sodium - 2751.3 mg
+Total Carbohydrate - 10.8 g
+Dietary Fiber - 4.1 g
+Sugars - 8.3 g
+Protein - 31.8 g
+Calcium - 218.4 mg
+Iron - 1.5 mg
+Vitamin C - 15.6 mg
+Thiamin - 0.3 mg
+Step by Step Method
+Step 1
+Preheat the grill to medium high.
+Step 2
+Mix all packages of cream cheese with garlic, sundried tomatoes, basil and salt.
+Step 3
+Mix until smooth.
+Step 4
+Cut a small slice on one side of the pepper and remove all of the meat and seed from the jalapeno. (I have used the extra jalapeno, finely chopped, in the cream cheese mixture also, only if you like it HOT!).
+Step 5
+Fill the opening of the jalapeno with the cream cheese mixture using a pastry bag, or whatever kitchen tool allows you to fill it the easiest. (some times I have found that a steak knife works the best.)
+Step 6
+Be careful not to overfill, as filling may spurt out during cooking.
+Step 7
+Wrap each pepper with 1 strip of bacon, securing the opening in the pepper with a pre-socked toothpick. (If serving a large crowd and you are using long metal or wood skewers this works also.).
+Step 8
+Barbecue the peppers until the bacon is fully cooked.
+Tips
+1 Reviews
+You'll Also Love
+Kittencal's Famous Parmesan Meatballs
+(41 reviews)
+Awesome Jalapeno Popper Burgers
+(38 reviews)
+Parmesan Baked Potato Halves
+(25 reviews)

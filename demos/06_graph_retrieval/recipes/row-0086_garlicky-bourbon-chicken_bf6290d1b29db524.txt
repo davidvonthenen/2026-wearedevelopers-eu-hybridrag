@@ -1,0 +1,124 @@
+Garlicky Bourbon Chicken
+========================
+
+Recipe Metadata
+---------------
+Recipe ID: bf6290d1b29db524
+CSV row number: 86
+Recipe name: Garlicky Bourbon Chicken
+Source: Delish
+URL: https://www.delish.com/cooking/recipe-ideas/recipes/a50323/garlicky-bourbon-chicken-recipe
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0076c0a29da8f3199cb92f4f01335af4cab4a27727f0fc78d8e28526a6c5f420/21027934.jpg
+Servings: 4
+Calories: 3057.24
+Diet labels: none listed
+Health labels: Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Garlicky Bourbon Chicken
+source: Delish
+url: https://www.delish.com/cooking/recipe-ideas/recipes/a50323/garlicky-bourbon-chicken-recipe
+servings: 4
+calories: 3057.242275
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0076c0a29da8f3199cb92f4f01335af4cab4a27727f0fc78d8e28526a6c5f420/21027934.jpg
+diet_labels: []
+health_labels: ["Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Garlicky Bourbon Chicken
+
+Description: Looking for an easy stovetop chicken recipe? This Garlicky Bourbon Chicken Recipe from Delish.com has an easy sauce of bourbon and chicken broth.
+
+Recipe category: ['dairy-free', 'gluten-free', 'dinner', 'main dish']
+
+Recipe cuisine: ['American']
+
+Yield: 4 serving(s)
+
+Prep time: PT5M
+
+Cook time: PT0S
+
+Total time: PT40M
+
+Ingredients:
+- 2 tbsp. unsalted butter
+- extra-virgin olive oil
+- 2 lb. bone-in skin-on chicken thighs, patted dry with paper towels
+- Kosher salt
+- Freshly ground black pepper
+- 6 garlic cloves, minced
+- 1 large onion, sliced
+- 1 c. bourbon
+- 2 1/2 c. low-sodium chicken broth
+- 1 c. frozen peas
+- 2 tbsp. freshly chopped parsley
+
+Instructions:
+1. In a large skillet over medium-high heat, melt 1 tablespoon each butter and oil. Season chicken thighs with salt and pepper.
+2. Sear chicken skin-side down until golden, about 5 minutes, then flip and cook 2 minutes more. Transfer to a plate.
+3. Add remaining tablespoon butter to skillet and let melt. Add garlic and onions and cook until just soft, about 3 minutes. Add bourbon and chicken broth and simmer 5 minutes. Season with salt and pepper and return chicken skin side up. Simmer until chicken is cooked through and sauce is thickened, about 15 to 20 minutes.
+4. Add peas to skillet and cook until warmed through, 2 minutes.
+5. Garnish with parsley before serving.
+
+Visible page text:
+You might think bourbon is just for drinking—but we love it for cooking, too. Bourbon chicken is one of the easiest ways to cook up chicken thighs on a weeknight.
+Is there really bourbon in there?!
+There sure is! But don't worry—it's not like this chicken recipe is going to get you drunk. The bourbon adds a nice smoky flavor and most of the alcohol itself cooks off while the sauce simmers on the stove.
+How do you make a bourbon sauce?
+We make a pan sauce in this recipe, using the chicken fat left from searing the thighs. You add a little butter to the pan drippings, then sauté garlic and onion until softened before adding a mix of bourbon and chicken broth and letting that mixture simmer and thicken for 15 minutes. Season with salt and pepper and you have a bourbon pan sauce.
+How can I make this recipe spicy?
+You can add a couple dashes of hot sauce to the pan sauce or a pinch of crushed red pepper flakes when you season the pan sauce with salt and pepper.
+What can I serve the chicken thighs with?
+You're gonna want to soak up every last bit of this pan sauce, so we recommend having a crusty baguette or cooked rice to go with these chicken thighs. You can even serve the thighs over buttery noodles .
+Can I cook this in the slow cooker?
+Yes, we love cooking chicken thighs in the slow cooker. (And wings—these bourbon glazed wings are one of our favorite Super Bowl recipes .) You'll still want to sear the thighs in a skillet for a few minutes per side (we really don't like soggy chicken skin), then add the thighs and sauce ingredients to the slow cooker and cook on low for 6 hours. Add the frozen peas before serving and stir until they're heated through.
+Cooking is easier on the app.
+Download for free!
+Ingredients
+2 Tbsp. unsalted butter
+extra-virgin olive oil
+2 lb. bone-in skin-on chicken thighs, patted dry with paper towels
+Kosher salt
+Freshly ground black pepper
+6 garlic cloves, minced
+1 large onion, sliced
+1 cup bourbon
+2 1/2 cups low-sodium chicken broth
+1 cup frozen peas
+2 Tbsp. freshly chopped parsley
+Directions
+Step 1 In a large skillet over medium-high heat, melt 1 tablespoon each butter and oil. Season chicken thighs with salt and pepper. Step 2 Sear chicken skin-side down until golden, about 5 minutes, then flip and cook 2 minutes more. Transfer to a plate. Step 3 Add remaining tablespoon butter to skillet and let melt. Add garlic and onions and cook until just soft, about 3 minutes. Add bourbon and chicken broth and simmer 5 minutes. Season with salt and pepper and return chicken skin side up. Simmer until chicken is cooked through and sauce is thickened, about 15 to 20 minutes. Step 4 Add peas to skillet and cook until warmed through, 2 minutes. Step 5 Garnish with parsley before serving.
+Step 1 In a large skillet over medium-high heat, melt 1 tablespoon each butter and oil. Season chicken thighs with salt and pepper.
+Step 2 Sear chicken skin-side down until golden, about 5 minutes, then flip and cook 2 minutes more. Transfer to a plate.
+Step 3 Add remaining tablespoon butter to skillet and let melt. Add garlic and onions and cook until just soft, about 3 minutes. Add bourbon and chicken broth and simmer 5 minutes. Season with salt and pepper and return chicken skin side up. Simmer until chicken is cooked through and sauce is thickened, about 15 to 20 minutes.
+Step 4 Add peas to skillet and cook until warmed through, 2 minutes.
+Step 5 Garnish with parsley before serving.
+Readers Also Read
+75 Cheap & Easy Dinner Recipes
+85 Best Ground Beef Recipes
+The Original Marry Me Chicken
+Stuffed Peppers
+105 Best Weeknight Chicken Dinners
+99 Simple Slow-Cooker & Crockpot Recipes
+Healthy Lazy Dinner Recipes
+20 Lazy Dinner Recipes
+77 Easy Low-Carb Recipes
+75 Quick & Easy Dinner Recipes for Kids
+Creamy Tuscan Chicken
+22 Easy Chicken Thigh Recipes

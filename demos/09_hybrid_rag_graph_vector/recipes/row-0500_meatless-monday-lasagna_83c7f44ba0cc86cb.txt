@@ -1,0 +1,131 @@
+Meatless Monday Lasagna
+=======================
+
+Recipe Metadata
+---------------
+Recipe ID: 83c7f44ba0cc86cb
+CSV row number: 500
+Recipe name: Meatless Monday Lasagna
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/281775/meatless-monday-lasagna
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/033e16c2ff3b02cfba0bc46bf1c5713708310d0c62bdfc4c1db9d77da01b4767/21064864.jpg
+Servings: 8
+Calories: 7348.20
+Diet labels: High-Fiber
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Meatless Monday Lasagna
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/281775/meatless-monday-lasagna
+servings: 8
+calories: 7348.198272062499
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/033e16c2ff3b02cfba0bc46bf1c5713708310d0c62bdfc4c1db9d77da01b4767/21064864.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Meatless Monday Lasagna
+
+Description: Whether you&#39;re doing a Meatless Monday once a week or more often, this hearty, vegetable-loaded lasagna with tofu and lots of cheese is definitely one to add to the rotation.
+
+Recipe category: ['Dinner']
+
+Yield: ['8', '8 servings']
+
+Prep time: PT35M
+
+Cook time: PT65M
+
+Total time: PT110M
+
+Ingredients:
+- 1 (16 ounce) package dry lasagna noodles
+- 3 tablespoons olive oil, divided
+- 4 cups shredded part-skim mozzarella cheese, divided
+- 1 (15 ounce) container part-skim ricotta cheese
+- 0.5 cup shredded Parmesan cheese, divided
+- 4 ounces silken tofu
+- 2 large eggs
+- 2 large carrots, shredded
+- 2 medium zucchini, diced
+- 1 medium yellow onion, diced
+- 1 medium red bell pepper, diced
+- 1 cup sliced portobello mushrooms
+- 1.5 (28 ounce) jars pasta sauce
+- 4 ounces fresh baby spinach
+
+Instructions:
+1. Preheat the oven to 375 degrees F (190 degrees C).
+2. Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in the boiling water, stirring occasionally, until tender yet firm to the bite, about 8 minutes. Drain and rinse with cold water. Toss with 1 tablespoon olive oil to prevent sticking and add flavor.
+3. Meanwhile, mix 2 cups mozzarella, ricotta, 1/2 cup Parmesan, tofu, and eggs together in a bowl. Combine remaining mozzarella and Parmesan in a smaller bowl.
+4. While the noodles are cooking, heat remaining tablespoons olive oil in a skillet over medium-high heat. Add carrots, zucchini, onion, bell pepper, and mushrooms; saute until tender, 5 to 7 minutes. Add pasta sauce and spinach; simmer until sauce is heated through and spinach is wilted, about 3 minutes.
+5. Cover the bottom of a 2-quart rectangular baking dish with a little of the vegetable sauce and arrange 1/2 of the lasagna noodles, overlapping slightly, over top. Layer with 1/2 of the cheese-tofu mixture over noodles and 1/2 of the remaining sauce. Repeat layers with remaining noodles, cheese-tofu mixture, and sauce. Top with mozzarella-Parmesan mixture.
+6. Bake, covered, in the preheated oven for 30 minutes. Uncover and bake until bubbly, about 20 minutes more. Let stand for 10 minutes before slicing into 8 large squares and serving.
+
+Visible page text:
+Main Dishes
+Pasta
+Lasagna Recipes
+Vegetarian Lasagna Recipes
+Meatless Monday Lasagna
+We are always looking for recipes to add to our Meatless Monday rotation. Bumping up the protein is important for our 3 kids, so adding tofu to the cheese mixture of vegetarian lasagna works great. Use the excess tofu to make a high-protein salad dressing.
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 8 servings
+1 (16 ounce) package dry lasagna noodles
+3 tablespoons olive oil, divided
+4 cups shredded part-skim mozzarella cheese, divided
+1 (15 ounce) container part-skim ricotta cheese
+½ cup shredded Parmesan cheese, divided
+4 ounces silken tofu
+2 large eggs
+2 large carrots, shredded
+2 medium zucchini, diced
+1 medium yellow onion, diced
+1 medium red bell pepper, diced
+1 cup sliced portobello mushrooms
+1 ½ (28 ounce) jars pasta sauce
+4 ounces fresh baby spinach
+Directions
+Preheat the oven to 375 degrees F (190 degrees C).
+Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in the boiling water, stirring occasionally, until tender yet firm to the bite, about 8 minutes. Drain and rinse with cold water. Toss with 1 tablespoon olive oil to prevent sticking and add flavor.
+Meanwhile, mix 2 cups mozzarella, ricotta, 1/2 cup Parmesan, tofu, and eggs together in a bowl. Combine remaining mozzarella and Parmesan in a smaller bowl.
+While the noodles are cooking, heat remaining tablespoons olive oil in a skillet over medium-high heat. Add carrots, zucchini, onion, bell pepper, and mushrooms; saute until tender, 5 to 7 minutes. Add pasta sauce and spinach; simmer until sauce is heated through and spinach is wilted, about 3 minutes.
+Cover the bottom of a 2-quart rectangular baking dish with a little of the vegetable sauce and arrange 1/2 of the lasagna noodles, overlapping slightly, over top. Layer with 1/2 of the cheese-tofu mixture over noodles and 1/2 of the remaining sauce. Repeat layers with remaining noodles, cheese-tofu mixture, and sauce. Top with mozzarella-Parmesan mixture.
+Bake, covered, in the preheated oven for 30 minutes. Uncover and bake until bubbly, about 20 minutes more. Let stand for 10 minutes before slicing into 8 large squares and serving.
+Cook's Notes:
+If you want to make this for picky eaters, use an immersion blender to make the veggies disappear into the pasta sauce.
+Choose a high quality pasta sauce that you love. That is where all of the seasoning comes from. I love Bertolli's(R) Arrabiatta and I add 3 cloves of minced garlic to the veggies. Although extra sauce seems inconvenient, 1 jar does not create a moist enough lasagna. We always have leftovers, so I top the cold lasagna with leftover pasta sauce and microwave. This keeps it from becoming dry when reheated.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Meatless Monday Lasagna
+1
+Most-Saved Recipes Like This
+American Lasagna 2,745 Ratings 1 hr 40 mins Save
+Hearty Vegetable Lasagna 1,020 Ratings 1 hr 40 mins Save
+Spinach Lasagna 739 Ratings 1 hr 50 mins Save
+Artichoke Spinach Lasagna 1,823 Ratings 1 hr 20 mins Save
+No-Noodle Zucchini Lasagna 665 Ratings 1 hr 35 mins Save
+Bettie's Lasagna Roll Ups 392 Ratings 1 hr Save
+Easy Lasagna 1,210 Ratings 1 hr 30 mins Save
+Eggplant Lasagna 374 Ratings 1 hr 35 mins Save
+Vegan Lasagna I 195 Ratings 2 hrs 30 mins Save
+Easy Lasagna with Uncooked Noodles 579 Ratings 1 hr 55 mins Save
+You’ll Also Love

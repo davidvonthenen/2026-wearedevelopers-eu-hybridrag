@@ -1,0 +1,85 @@
+Crispy Tofu & Rice Noodles in Red Curry Coconut Sauce
+=====================================================
+
+Recipe Metadata
+---------------
+Recipe ID: f4fb77fb1b59ff60
+CSV row number: 409
+Recipe name: Crispy Tofu & Rice Noodles in Red Curry Coconut Sauce
+Source: tastykitchen.com
+URL: https://tastykitchen.com/recipes/special-dietary-needs/vegetarian/crispy-tofu-rice-noodles-in-red-curry-coconut-sauce/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/029f7b74ead55f24e9f4a23e80d16b9c852be88dd24826c078c4bd74d0e5c4ce/21122034.jpg
+Servings: 6
+Calories: 1187.78
+Diet labels: none listed
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites, FODMAP
+Cuisine type: asian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Crispy Tofu & Rice Noodles in Red Curry Coconut Sauce
+source: tastykitchen.com
+url: https://tastykitchen.com/recipes/special-dietary-needs/vegetarian/crispy-tofu-rice-noodles-in-red-curry-coconut-sauce/
+servings: 6
+calories: 1187.778785298125
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/029f7b74ead55f24e9f4a23e80d16b9c852be88dd24826c078c4bd74d0e5c4ce/21122034.jpg
+diet_labels: []
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites","FODMAP"]
+cuisine_type: ["asian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Crispy Tofu & Rice Noodles in Red Curry Coconut Sauce
+Print
+Leave a comment
+write a review
+Print Options
+Description
+Super easy dinner of crispy tofu, rice noodles and a fiery red curry sauce laced with coconut milk.
+Ingredients
+1 whole Yellow Onion (small), Coarsely Chopped
+1 whole Orange Bell Pepper, Coarsely Chopped
+1 package (about 11 To 14 Oz. Size) Firm Tofu, Diced
+2 Tablespoons Red Curry Paste
+13-½ ounces, fluid Lite Coconut Milk
+1 teaspoon Salt
+½ whole Lime, Juiced
+8 ounces, weight Rice Noodles, Cooked
+¼ cups Cilantro, Chopped
+Preparation
+1. Coat a large saute pan with cooking spray and heat over medium-high heat. Add the onion and pepper and saute for about 5 minutes. Remove to a bowl and set aside. 2. Coat the pan again with cooking spray and add the tofu. Fry until each side is crispy, about 10 minutes. Remove to the bowl with the onion mixture and set aside. 3. Coat the pan yet again with cooking spray and add the red curry paste. Fry for about 1 minute. Add the coconut milk, salt and lime juice and whisk to combine. Add the cooked rice noodles and the tofu onion mixture and toss gently to combine. Top with the cilantro and serve.
+More Recipes from farmgirlgourmet
+Dark Chocolate Stout Brownies
+Warm Butternut Squash, Lentil and Feta Salad
+Find farmgirlgourmet elsewhere on the web.
+Website
+No Comments
+Leave a Comment!
+You must be logged in to post a comment.
+No Reviews
+You must be logged in to post a review.
+Food Gifts
+View Recipe
+Slow Cooker Season!
+Related Recipes
+Prep: 20 mins Cook: -
+Serves: 6 Level: Easy
+Share f a e
+Prep: 15 mins Cook: 25 mins
+Prep: 2 hrs Cook: -
+Serves: 9 Level: Easy
+Prep: 30 mins Cook: 1 hr
+Serves: 7 Level: Easy
+Prep: 10 mins Cook: 20 mins
+Serves: 3 Level: Easy

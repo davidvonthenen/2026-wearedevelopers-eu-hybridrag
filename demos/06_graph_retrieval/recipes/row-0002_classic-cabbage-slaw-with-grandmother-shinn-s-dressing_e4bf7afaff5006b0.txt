@@ -1,0 +1,118 @@
+Classic Cabbage Slaw with Grandmother Shinn's Dressing
+======================================================
+
+Recipe Metadata
+---------------
+Recipe ID: e4bf7afaff5006b0
+CSV row number: 2
+Recipe name: Classic Cabbage Slaw with Grandmother Shinn's Dressing
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/classic-cabbage-slaw-with-grandmother-shinns-dressing-recipe-1940391
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0066d6f63e9b4ace21cfdb6a3579251a750aa31719be9b80e032f0fdfafb21c8/21126475.jpg
+Servings: 6
+Calories: 511.28
+Diet labels: Balanced
+Health labels: Vegetarian, Gluten-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Classic Cabbage Slaw with Grandmother Shinn's Dressing
+source: Food Network
+url: https://www.foodnetwork.com/recipes/classic-cabbage-slaw-with-grandmother-shinns-dressing-recipe-1940391
+servings: 6
+calories: 511.28325
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0066d6f63e9b4ace21cfdb6a3579251a750aa31719be9b80e032f0fdfafb21c8/21126475.jpg
+diet_labels: ["Balanced"]
+health_labels: ["Vegetarian","Gluten-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Classic Cabbage Slaw with Grandmother Shinn's Dressing
+
+Recipe category: side-dish
+
+Yield: 6 servings
+
+Prep time: P0Y0M0DT0H40M0.000S
+
+Cook time: P0Y0M0DT0H3M0.000S
+
+Total time: P0Y0M0DT0H45M0.000S
+
+Ingredients:
+- 1 tablespoon kosher salt
+- 2 cups water
+- 4 cups shredded green cabbage
+- 1 cup peeled and shredded carrots
+- 3/4 cup minced scallions
+- 2 large eggs
+- 1/2 cup apple cider vinegar
+- 3 tablespoons granulated sugar
+- 1/2 teaspoon dry mustard
+- 1/2 teaspoon kosher salt
+- 1/4 teaspoon freshly ground black pepper
+- 2 tablespoons sour cream
+
+Instructions:
+1. Dissolve the tablespoon kosher salt in 2 cups water in a large bowl. Add the cabbage and soak for 30 minutes. Rinse the cabbage and drain well. Return it to the bowl and combine with the carrots and the scallions.
+2. To make the dressing, whisk the eggs in a medium bowl until fluffy. Gradually whisk in the vinegar a little at a time. Add the sugar, mustard, salt, and pepper; whisk until uniformly combined. Transfer the mixture to a 2-quart saucepan and place it over medium-low heat. Heat slowly, stirring constantly, until the mixture reaches a gentle boil. Continue cooking and stirring until the mixture thickens, about 1 minute. Cool, then stir in the sour cream.
+3. Add dressing to slaw and mix well. Refrigerate the slaw for 1 to 2 hours. Serve slightly chilled.
+
+Visible page text:
+Home
+Recipes
+Vegetables
+Classic Cabbage Slaw with Grandmother Shinn's Dressing
+Total: 45 min
+Prep: 40 min
+Inactive: 2 min
+Cook: 3 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+1 tablespoon kosher salt
+2 cups water
+4 cups shredded green cabbage
+1 cup peeled and shredded carrots
+3/4 cup minced scallions
+For the dressing:
+2 large eggs
+1/2 cup apple cider vinegar
+3 tablespoons granulated sugar
+1/2 teaspoon dry mustard
+1/2 teaspoon kosher salt
+1/4 teaspoon freshly ground black pepper
+2 tablespoons sour cream
+Dissolve the tablespoon kosher salt in 2 cups water in a large bowl. Add the cabbage and soak for 30 minutes. Rinse the cabbage and drain well. Return it to the bowl and combine with the carrots and the scallions.
+To make the dressing, whisk the eggs in a medium bowl until fluffy. Gradually whisk in the vinegar a little at a time. Add the sugar, mustard, salt, and pepper; whisk until uniformly combined. Transfer the mixture to a 2-quart saucepan and place it over medium-low heat. Heat slowly, stirring constantly, until the mixture reaches a gentle boil. Continue cooking and stirring until the mixture thickens, about 1 minute. Cool, then stir in the sour cream.
+Add dressing to slaw and mix well. Refrigerate the slaw for 1 to 2 hours. Serve slightly chilled.
+Recipe courtesy of David Page and Barbara Shinn, from Recipes from Home, Artisan 2001
+Categories:
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Edamame and Scallion Slaw with Orange Lime...
+Savoy Jicama Slaw with Citrus-Cumin Dressing...
+Lobster-Cod Cakes with Red Cabbage Slaw and Fresh...
+Toasted Couscous Broccoli Slaw with Buttermilk...
+Red and Green Cabbage Slaw with Ginger Sesame...
+Grilled Cabbage Slaw with Creamy Avocado Lime...

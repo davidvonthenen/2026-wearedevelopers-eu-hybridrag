@@ -1,0 +1,71 @@
+Lime Granita
+============
+
+Recipe Metadata
+---------------
+Recipe ID: c03a83f682c90a01
+CSV row number: 133
+Recipe name: Lime Granita
+Source: simplesweetsavory.com
+URL: http://www.simplesweetsavory.com/lime-granita-2/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00d19883c1bf92d3ca40f242294b52624119f45db744be8fd20a809baa0dcd05/21083868.jpg
+Servings: 4
+Calories: 805.19
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean
+Meal type: snack
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Lime Granita
+source: simplesweetsavory.com
+url: http://www.simplesweetsavory.com/lime-granita-2/
+servings: 4
+calories: 805.19
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00d19883c1bf92d3ca40f242294b52624119f45db744be8fd20a809baa0dcd05/21083868.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["snack"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+Skip to footer
+Cool and refreshing, this Lime Granita is the perfect light summer dessert for any occasion! Serve it at your next BBQ or party!
+Riddle me this. If your husband doesn’t like sweets, what on earth do you make for dessert? You wonder and ponder (perhaps finding comfort in a chocolate bar yourself) and then consider your options. I did just that before concocting this delicious Lime Granita.
+I thought about how much my husband preferred more sour things and how my fridge is always stocked with a tree’s worth of citrus fruits. Because though he won’t opt for a piece of cake, my husband has a sweet spot for limes and lemons. Or would that be considered a sour spot?
+And given that the days are getting hotter and nothing sounds more refreshing than yummy flavored crushed ice, a Lime Granita was indeed the answer to all my dessert woes. Cool and fresh, this Lime Granita is perfect for kids and adults alike. You can serve it as a refreshing side at your next cookout, whip some up for your kids and their friends on hot summer days, or enjoy it as a light dessert on a sizzling summer night.
+5.0 from 1 reviews Lime Granita Save Print Prep time 10 mins Cook time 10 mins Total time 20 mins Author: Shannon Recipe type: Dessert Serves: 4-6 servings Ingredients 1 cup sugar 2 cups water ½ cup fresh lime juice (approx. 4 medium limes) 1 tsp lime zest Instructions In a medium saucepan, bring the sugar and water to a boil. Stir until sugar has dissolved. Turn off burner and add lime juice and zest. Allow to cool to room temperature, approximately 30 minutes. Pour into a freezer-safe bowl or 8x8" pan.* Freeze for 2 hours. After 2 hours, shave hardened bits with a fork. Continue to shave hardened bits every 30 minutes until consistency is scoopable and similar to shaved ice. Scoop into bowls and enjoy! Notes *Depending on the size of pan or bowl you use, the mixture may freeze faster or take longer than 2 hours to freeze. Check after 1 hour to make sure it doesn't become too hard. 3.5.3208
+1 cup sugar
+2 cups water
+½ cup fresh lime juice (approx. 4 medium limes)
+1 tsp lime zest
+In a medium saucepan, bring the sugar and water to a boil. Stir until sugar has dissolved.
+Turn off burner and add lime juice and zest.
+Allow to cool to room temperature, approximately 30 minutes.
+Pour into a freezer-safe bowl or 8x8" pan.* Freeze for 2 hours.
+After 2 hours, shave hardened bits with a fork. Continue to shave hardened bits every 30 minutes until consistency is scoopable and similar to shaved ice. Scoop into bowls and enjoy!
+Reader Interactions
+Comments
+My small tip for this is to squeeze the maximum juice from a lime, bring to room temperature and roll under the palm of your hand to soften the fruit and get the juices flowing. Lisa @ NatureImmerse recently posted… INFOGRAPHIC – How To Use Bow & Arrow Great tip! Thanks, Lisa. And thanks for visiting!
+My small tip for this is to squeeze the maximum juice from a lime, bring to room temperature and roll under the palm of your hand to soften the fruit and get the juices flowing. Lisa @ NatureImmerse recently posted… INFOGRAPHIC – How To Use Bow & Arrow
+Great tip! Thanks, Lisa. And thanks for visiting!
+Never miss a recipe
+Subscribe below to receive a 30 day meal plan
+Footer
+Categories
+Error: No feed found. Please go to the Instagram Feed settings page to create a feed.
+Please go to the Instagram Feed settings page to create a feed.

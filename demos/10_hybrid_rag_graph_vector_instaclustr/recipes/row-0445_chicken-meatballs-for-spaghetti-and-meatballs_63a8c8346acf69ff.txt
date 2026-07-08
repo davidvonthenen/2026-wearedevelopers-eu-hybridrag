@@ -1,0 +1,125 @@
+Chicken Meatballs For Spaghetti and Meatballs
+=============================================
+
+Recipe Metadata
+---------------
+Recipe ID: 63a8c8346acf69ff
+CSV row number: 445
+Recipe name: Chicken Meatballs For Spaghetti and Meatballs
+Source: food.com
+URL: http://www.food.com/recipe/chicken-meatballs-for-spaghetti-and-meatballs-52420
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02d47e333f92c68120bb66a5901d1c22f968d2ba9125d37a355f10ae59382b12/21115448.jpg
+Servings: 4
+Calories: 1467.81
+Diet labels: Low-Carb
+Health labels: Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Chicken Meatballs For Spaghetti and Meatballs
+source: food.com
+url: http://www.food.com/recipe/chicken-meatballs-for-spaghetti-and-meatballs-52420
+servings: 4
+calories: 1467.811339
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02d47e333f92c68120bb66a5901d1c22f968d2ba9125d37a355f10ae59382b12/21115448.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Chicken Meatballs For Spaghetti and Meatballs
+
+Description: Once you try these, you'll never go back to beef meatballs.(Well, maybe YOU will!) I searched all over the Internet for chicken meatballs, and found these on eatchicken.com. The texture is much lighter than regular meatballs,and they are downright tasty! Haven't used beef for spaghetti since,and I found this over 2 years ago. The recipe also came with a sauce, but I figured that everyone has their own favorite marinara sauce already. Enjoy!
+
+Recipe category: Chicken
+
+Yield: 4 serving(s)
+
+Prep time: PT20M
+
+Cook time: PT25M
+
+Total time: PT45M
+
+Ingredients:
+- 1 lb ground chicken
+- 1 egg
+- 1/2 cup parmesan cheese
+- 1/2 cup breadcrumbs
+- 2 cloves garlic, minced
+- 2 teaspoons fresh oregano (or the equivalent dried)
+- 1/2 teaspoon salt
+- 2 tablespoons olive oil
+
+Instructions:
+1. Place ground chicken,egg,1/2 cup Parmesan,bread crumbs, garlic,oregano and 1/2 tsp salt in a medium bowl.
+2. Knead mixture together with hand till evenly combined.
+3. Form mixture into 1-inch balls.
+4. In large non-stick skillet,warm olive oil over high heat.
+5. Place meatballs in pan,up to 8 at a time,and cook until all sides are browned,approximately 8 minutes for each meatball.
+6. Remove with slotted spoon,and add to your favorite spaghetti sauce.
+
+Visible page text:
+Chicken Meatballs For Spaghetti and Meatballs
+ingredients
+1 lb ground chicken
+1 egg
+1 ⁄ 2 cup parmesan cheese
+1 ⁄ 2 cup breadcrumbs
+2 cloves garlic , minced
+2 teaspoons fresh oregano (or the equivalent dried)
+1 ⁄ 2 teaspoon salt
+2 tablespoons olive oil
+directions
+Place ground chicken,egg,1/2 cup Parmesan,bread crumbs, garlic,oregano and 1/2 tsp salt in a medium bowl.
+Knead mixture together with hand till evenly combined.
+Form mixture into 1-inch balls.
+In large non-stick skillet,warm olive oil over high heat.
+Place meatballs in pan,up to 8 at a time,and cook until all sides are browned,approximately 8 minutes for each meatball.
+Remove with slotted spoon,and add to your favorite spaghetti sauce.
+Questions & Replies
+How many meatballs does this make? cfs47130 Reply See 1 Reply
+Reviews
+What I love about Recipezaar is that I can take the remarks and suggestions from members and make a good recipe 'better'. Since I am not an intuitive cook I need to be reminded what goes together. So, thank you to each reviewer. My changes:
+
+2 tbsp parmesan cheese (I didn't want it too cheesy)
+Italian breadcrumbs
+3 cloves garlic
+1 tsp each of basil, parsley and oregano (all dried)
+1/4 tsp salt (but I will use 1/2 tsp next time; I always cut the salt when possible, but this wasn't overly salty)
+1/4 tsp pepper (I will probably increase to 1/2 tsp)
+Chopped onion (I love onions, so I just chopped some up and added it to the mixture until it looked good!)
+Baked for 20 min in 350 degree onion.
+
+Again, thanks to MEP and everyone's reviews. Tara Colquitt Reply 10
+I used this recipe as a guide for making Turkey Italian Meatballs. 1 lb. ground turkey 1 large egg 1/2 c. Panko crumbs 1/2 c. grated Parmesan Romano cheese 1/2 T. Italian seasoning 1/4 t. onion powder 1/4 t. garlic powder 1/2 t. salt 1/4 t. pepper I used my PamperChef scoop to make 24 meatballs and cooked in airfryer at 390º for 10 min, turning halfway through. The New Dawn Reply 4
+If you're looking for a simple, basic meatball recipe this one is pretty good...I couldnt find my usual meatball recipe card so naturally I came to Recipezaar & found this one...Using it as a jumping off point, I replaced the chicken w/ ground bison, used organic egg, kept to the parmesan, replaced the breadcrumbs w/ rolled oats, used jarred garlic (1tb), replaced fresh oregano (had none) w/ 1/2 tsp. Mrs. Dash skipped the salt entirely & elected to bake the meatballs rather than frying (@ 375 for 15 min) made @ 15 meatballs or 5 servings...served w/ lofat/losodium spag sauce (Walnut Acres brand) over Veggie Mac (vegetable based pasta)...thanks for sharing the recipe! CookinwithGas Reply 4
+I have never browned my meatballs. I put them into the spaghetti sauce and let them slowly cook in the sauce. Walter C. Reply 3 See 1 Reply
+Where's the six-star option for this one? These meatballs are beyond excellent! Instead of basil, we used a bit of fresh rosemary and parsley as well as a little extra garlic. They were terrific! If I weren't completely full, I'd be going back for seconds now. :)
+
+Well done! Allison Landa Reply 3
+Tweaks
+Followed the recipe until cooking instructions. Browned meatballs lightly, then cooked in the sauce in my InstantPot for 4 minutes with natural release. Came out absolutely perfect. ameliaw90 Reply 2
+Followed the recipe until the cooking part too. Then I browned for about 8minutws and then added tomato sauce and let them simmer for about 15mins. Sooo good. K W.8528 Reply 1
+Panko breadcrumbs and a smidge of milk. Keisha G. Reply
+Avacado oil, penzy apices Paul A. Reply
+This taste great i made personal changes though i dont like garlic so i take it out. i add carrots and ounions and cilantro instead of parsley. great Julia A. Reply
+RECIPE SUBMITTED BY
+29 Followers
+71 Recipes
+48 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

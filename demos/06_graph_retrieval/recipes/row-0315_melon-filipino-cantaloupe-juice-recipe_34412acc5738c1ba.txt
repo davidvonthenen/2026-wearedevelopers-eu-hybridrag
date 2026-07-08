@@ -1,0 +1,112 @@
+Melon (Filipino Cantaloupe Juice) Recipe
+========================================
+
+Recipe Metadata
+---------------
+Recipe ID: 34412acc5738c1ba
+CSV row number: 315
+Recipe name: Melon (Filipino Cantaloupe Juice) Recipe
+Source: Serious Eats
+URL: https://www.seriouseats.com/melon-filipino-cantaloupe-juice
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01ff9c37202f091097a09e481156effed7fa0ac71b78b59e301031825a191831/20948353.jpg
+Servings: 16
+Calories: 808.22
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: asian, american
+Meal type: lunch/dinner
+Dish type: drinks
+
+Original CSV Fields
+-------------------
+recipe_name: Melon (Filipino Cantaloupe Juice) Recipe
+source: Serious Eats
+url: https://www.seriouseats.com/melon-filipino-cantaloupe-juice
+servings: 16
+calories: 808.2159269625001
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01ff9c37202f091097a09e481156effed7fa0ac71b78b59e301031825a191831/20948353.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["asian","american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["drinks"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Melon (Filipino Cantaloupe Juice)
+
+Description: This deeply refreshing Filipino beverage, made from shredded ripe cantaloupe flesh, water, and sugar, is ready to beat even the stickiest tropical heat.
+
+Recipe category: ['Non-Alcoholic']
+
+Recipe cuisine: ['Filipino']
+
+Yield: ['6', '1 1/2 quarts (see note)']
+
+Prep time: PT15M
+
+Total time: PT495M
+
+Ingredients:
+- 1 small ripe cantaloupe (about 3 pounds; see note)
+- 6 ounces granulated sugar (3/4 cup; 170g)
+- 4 cups cold water (about 1 liter)
+- Milk or milk substitute (optional)
+
+Instructions:
+1. Using a large knife, cut cantaloupe in half from stem to stem. With a spoon, remove and discard seeds.
+2. To Shred Flesh Using Fork-and-Spoon Method: Hold one half of the cantaloupe in one hand with the stem end on top; grasp fork with the other hand. Starting at the top, insert fork tines 1/4 inch deep into cantaloupe flesh and drag vertically to the bottom. Using a spoon, scoop out scored flesh and transfer to a 2-quart pitcher. Repeat until all of the orange flesh has been shredded (do not shred the green flesh; it is bitter), then repeat with remaining half. You should have 2 cups of shredded flesh and juice.
+3. To Shred Flesh Using Coconut Grater: Hold one half of the cantaloupe in one hand with the stem end on top; grasp coconut grater with your other hand. Starting at the top, scrape grater vertically across cantaloupe flesh to the bottom. Transfer shredded flesh to a 2-quart pitcher. Repeat until all of the orange flesh has been shredded (do not shred the green flesh; it is bitter), then repeat with remaining half. You should have 2 cups of shredded flesh and juice.
+4. Stir sugar and water into shredded cantaloupe until sugar is dissolved. Cover and chill in refrigerator for at least 8 hours.
+5. To serve, pour the chilled cantaloupe juice over ice (making sure that some shredded cantaloupe ends up in the glass). If desired, add a spoon and straw and/or top with a splash of milk or milk substitute.
+
+Visible page text:
+Recipes
+Recipes By Course
+Drinks
+Non-Alcoholic Drinks
+Melon (Filipino Cantaloupe Juice)
+This deeply refreshing Filipino beverage, made from shredded ripe cantaloupe, water, and sugar, is ready to beat even the stickiest tropical heat.
+Serious Eats / Vicky Wasik
+Why It Works
+Using a fork and spoon or a coconut grater produces those signature long strands of cantaloupe flesh.
+Letting the juice chill thoroughly develops its flavor and sweetness.
+I grew up eating cantaloupe two ways: piercing perfectly ripe cubes with a fork to shovel into my mouth, and sipping melon—sweetened cantaloupe juice—from a cold glass. I have vivid memories of drinking countless glasses of melon, a popular drink that Filipinos imbibe to beat the sweltering tropical heat. The chilled beverage is a staple in our culture—I've enjoyed countless glasses both with my grandparents in the Philippines and at a bustling restaurant in Queens, New York. Served in a tall glass with ice, the long, rounded, pastel-hued strands of cantaloupe swim in their own sweetened juice. Its mellow, floral-sweet taste will quench anyone's thirst on a hot day.
+Traditionally, those signature cantaloupe strands are made using a melon scraper, which is tough to find outside of the Philippines. I couldn’t get my hands on one when developing this recipe, so I experimented with two different options: a fork and spoon, and a coconut grater. The fork-and-spoon method does a decent job of making those long strands, but it’s more time-consuming and the resulting strands aren’t all that pretty. On the other hand, the coconut grater cuts through the cantaloupe’s flesh like butter, yielding beautiful strips that are just slightly heftier than the norm. Either method will produce a delicious melon. (Alternatively, you can cut the cantaloupe into large pieces and then shred it in your food processor using the grating disc to produce shorter strands that, while atypical, will still be tasty).
+Once the entire cantaloupe is shredded, granulated sugar and water are stirred in and the juice is transferred to the refrigerator to chill. When it’s ready, fill a glass with ice and pour the juice over, making sure that some cantaloupe flesh ends up in there. You can add a straw and spoon for easy drinking and scooping. Lately, I’ve been enjoying my melon with a splash of milk (its richness balances out the juice’s sweetness), and I suggest you do the same.
+September 2020
+Recipe Details
+Melon (Filipino Cantaloupe Juice) Recipe
+1 small ripe cantaloupe (about 3 pounds ; see note)
+6 ounces granulated sugar ( 3/4 cup ; 170 g )
+4 cups water (about 1 liter )
+Milk or milk substitute (optional)
+Using a large knife, cut cantaloupe in half from stem to stem. With a spoon, remove and discard seeds.
+To Shred Flesh Using Fork-and-Spoon Method: Hold one half of the cantaloupe in one hand with the stem end on top; grasp fork with the other hand. Starting at the top, insert fork tines 1/4 inch deep into cantaloupe flesh and drag vertically to the bottom. Using a spoon, scoop out scored flesh and transfer to a 2-quart pitcher. Repeat until all of the orange flesh has been shredded (do not shred the green flesh; it is bitter), then repeat with remaining half. You should have 2 cups of shredded flesh and juice. Serious Eats / Vicky Wasik
+To Shred Flesh Using Fork-and-Spoon Method: Hold one half of the cantaloupe in one hand with the stem end on top; grasp fork with the other hand. Starting at the top, insert fork tines 1/4 inch deep into cantaloupe flesh and drag vertically to the bottom. Using a spoon, scoop out scored flesh and transfer to a 2-quart pitcher. Repeat until all of the orange flesh has been shredded (do not shred the green flesh; it is bitter), then repeat with remaining half. You should have 2 cups of shredded flesh and juice.
+To Shred Flesh Using Coconut Grater: Hold one half of the cantaloupe in one hand with the stem end on top; grasp coconut grater with your other hand. Starting at the top, scrape grater vertically across cantaloupe flesh to the bottom. Transfer shredded flesh to a 2-quart pitcher. Repeat until all of the orange flesh has been shredded (do not shred the green flesh; it is bitter), then repeat with remaining half. You should have 2 cups of shredded flesh and juice. Serious Eats / Vicky Wasik
+To Shred Flesh Using Coconut Grater: Hold one half of the cantaloupe in one hand with the stem end on top; grasp coconut grater with your other hand. Starting at the top, scrape grater vertically across cantaloupe flesh to the bottom. Transfer shredded flesh to a 2-quart pitcher. Repeat until all of the orange flesh has been shredded (do not shred the green flesh; it is bitter), then repeat with remaining half. You should have 2 cups of shredded flesh and juice.
+Stir sugar and water into shredded cantaloupe until sugar is dissolved. Cover and chill in refrigerator for at least 8 hours.
+To serve, pour the chilled cantaloupe juice over ice (making sure that some shredded cantaloupe ends up in the glass). If desired, add a spoon and straw and/or top with a splash of milk or milk substitute.
+Special Equipment
+Coconut grater (optional)
+Notes
+This recipe calls for a small cantaloupe, but if you have a large cantaloupe more than 3 pounds in weight, you can either use just a portion of the cantaloupe, or scale the recipe up to match the larger quantity.
+Make-Ahead and Storage
+The juice can be refrigerated in an airtight container for up to 5 days.
+Read More
+Filipino Food 101: Recipes to Get You Started
+How to Make Cucumber Water and Other Flavored Waters
+10 Melon Recipes to Cool Off Your Summer
+Melon-Mint Smoothie Recipe
+Halo-Halo (Filipino Shaved Ice Dessert) Recipe
+Filipino
+Melon
+More Serious Eats Recipes

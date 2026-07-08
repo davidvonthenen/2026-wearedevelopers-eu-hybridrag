@@ -1,0 +1,116 @@
+Instant Pot® Mediterranean Pizza Dip
+====================================
+
+Recipe Metadata
+---------------
+Recipe ID: 82d944c6e0bc6190
+CSV row number: 394
+Recipe name: Instant Pot® Mediterranean Pizza Dip
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/268095/instant-pot-mediterranean-pizza-dip
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/027bf78dad7e12d2d4442d7fcb650489e0b50234a4689a86e7c1f2a8769a2c3b/21060488.jpg
+Servings: 8
+Calories: 2332.16
+Diet labels: Low-Carb
+Health labels: Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites, FODMAP
+Cuisine type: american, mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Instant Pot® Mediterranean Pizza Dip
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/268095/instant-pot-mediterranean-pizza-dip
+servings: 8
+calories: 2332.155512757386
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/027bf78dad7e12d2d4442d7fcb650489e0b50234a4689a86e7c1f2a8769a2c3b/21060488.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites","FODMAP"]
+cuisine_type: ["american","mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Instant Pot® Mediterranean Pizza Dip
+
+Description: Next time you are planning a party, be sure to include this Mediterranean-flavored pizza dip you can make right in your Instant Pot®.
+
+Recipe category: ['Appetizer']
+
+Recipe cuisine: ['Italian Inspired']
+
+Yield: ['8', '8 servings']
+
+Prep time: PT10M
+
+Cook time: PT20M
+
+Total time: PT35M
+
+Ingredients:
+- 1 (8 ounce) package cream cheese, cubed and softened
+- 8 ounces shredded Monterey Jack cheese
+- 1 cup chopped cherry tomatoes
+- 0.75 cup chopped boneless ham steak
+- 0.5 cup sliced black olives, drained
+- 0.5 cup marinated artichoke hearts, drained and chopped
+- 3 ounces crumbled feta cheese
+- 3 cloves garlic, pressed
+- 0.5 tablespoon chopped fresh basil
+- 1 teaspoon Italian seasoning
+
+Instructions:
+1. Combine cream cheese, Monterey Jack cheese, cherry tomatoes, ham steak, olives, artichoke hearts, feta cheese, garlic, basil, and Italian seasoning in a bowl and mix well. Pour into a 1 3/4-quart round glass baking dish and cover with aluminum foil.
+2. Pour 1 cup water into the insert of a multi-functional pressure cooker (such as Instant Pot®). Set the metal trivet inside and place baking dish on top. Close and lock the lid. Select manual pressure and set timer for 10 minutes. Allow 10 to 15 minutes for pressure to build.
+3. Release pressure carefully using the quick-release method according to manufacturer&#39;s instructions, about 5 minutes. Unlock and remove the lid. Stir and serve immediately.
+
+Visible page text:
+Recipes
+Appetizers and Snacks
+Dips and Spreads Recipes
+Cheese Dips and Spreads Recipes
+Instant Pot® Mediterranean Pizza Dip
+Next time you are planning a party, be sure to include this Mediterranean-flavored pizza dip you can make right in your Instant Pot®.
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 8 servings
+1 (8 ounce) package cream cheese, cubed and softened
+8 ounces shredded Monterey Jack cheese
+1 cup chopped cherry tomatoes
+¾ cup chopped boneless ham steak
+½ cup sliced black olives, drained
+½ cup marinated artichoke hearts, drained and chopped
+3 ounces crumbled feta cheese
+3 cloves garlic, pressed
+½ tablespoon chopped fresh basil
+1 teaspoon Italian seasoning
+Directions
+Combine cream cheese, Monterey Jack cheese, cherry tomatoes, ham steak, olives, artichoke hearts, feta cheese, garlic, basil, and Italian seasoning in a bowl and mix well. Pour into a 1 3/4-quart round glass baking dish and cover with aluminum foil.
+Pour 1 cup water into the insert of a multi-functional pressure cooker (such as Instant Pot®). Set the metal trivet inside and place baking dish on top. Close and lock the lid. Select manual pressure and set timer for 10 minutes. Allow 10 to 15 minutes for pressure to build.
+Release pressure carefully using the quick-release method according to manufacturer's instructions, about 5 minutes. Unlock and remove the lid. Stir and serve immediately.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Instant Pot® Mediterranean Pizza Dip
+1
+Most-Saved Recipes Like This
+Hot Pizza Dip 805 Ratings 15 mins Save
+Pizza Dip 97 Ratings 35 mins Save
+Instant Pot Chicken Cacciatore 324 Ratings 1 hr Save
+Magic Pickle Dip 66 Ratings 10 mins Save
+Hot Asiago and Spinach Dip 47 Ratings 40 mins Save
+Individual Greek Pita Pizzas 42 Ratings 30 mins Save
+Pita Pizza 72 Ratings 15 mins Save
+Hot Roasted Red Pepper and Artichoke Dip 25 Ratings 2 hrs 15 mins Save
+Instant Pot Buffalo Chicken Dip 12 Ratings 45 mins Save
+Slow Cooker Pizza Potatoes 24 Ratings 6 hrs 25 mins Save
+You’ll Also Love

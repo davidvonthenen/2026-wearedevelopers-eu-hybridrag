@@ -1,0 +1,97 @@
+Vitamix Whipped Cream
+=====================
+
+Recipe Metadata
+---------------
+Recipe ID: c71276203c1fed6c
+CSV row number: 440
+Recipe name: Vitamix Whipped Cream
+Source: Food Network
+URL: https://www.foodnetwork.com/recipes/vitamix-whipped-cream-recipe-2120629
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02ccdc9d1dbe2316f5d36ff9817b32e7779b502ba8cfef2d16bb04179e494f36/21072476.jpg
+Servings: 8
+Calories: 1803.65
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: french
+Meal type: snack
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Vitamix Whipped Cream
+source: Food Network
+url: https://www.foodnetwork.com/recipes/vitamix-whipped-cream-recipe-2120629
+servings: 8
+calories: 1803.653654472351
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02ccdc9d1dbe2316f5d36ff9817b32e7779b502ba8cfef2d16bb04179e494f36/21072476.jpg
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["french"]
+meal_type: ["snack"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Vitamix Whipped Cream
+
+Recipe category: dessert
+
+Yield: 2 c (240 ml)
+
+Prep time: P0Y0M0DT0H10M0.000S
+
+Total time: P0Y0M0DT0H10M0.000S
+
+Ingredients:
+- 2 cups (480 ml) heavy whipping cream, cold
+- 3 tablespoons (38 g) sugar or other sweetener, to taste (optional)
+- 1 teaspoon vanilla extract
+
+Instructions:
+1. 1. Place all ingredients into the Vitamix container and secure lid.
+2. 2. Select Variable 1.
+3. 3. Turn machine on and slowly increase speed to Variable 10, then to High.
+4. 4. Blend for 12 seconds for soft peaks. Do not over mix. Serve within two hours.
+
+Visible page text:
+Home
+Recipes
+Dessert
+Vitamix Whipped Cream
+Level: Easy
+Total: 10 min
+Prep: 10 min
+Nutrition Info
+Pinterest
+Email
+Deselect All
+2 cups (480 ml) heavy whipping cream, cold
+3 tablespoons (38 g) sugar or other sweetener, to taste (optional)
+1 teaspoon vanilla extract
+1. Place all ingredients into the Vitamix container and secure lid.
+2. Select Variable 1.
+3. Turn machine on and slowly increase speed to Variable 10, then to High.
+4. Blend for 12 seconds for soft peaks. Do not over mix. Serve within two hours.
+Categories:
+Subscribe to our Recipe of the Day newsletter to get Food Network's best ideas for breakfast, lunch, dinner and dessert delivered to your inbox daily.
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy .
+Food Network and its affiliates may use your email address to provide updates, ads, and offers.
+To withdraw your consent or learn more about your rights, see the Privacy Policy .
+Related Pages
+19 Best Healthy Ground Beef Recipes
+Dinner Recipes: From Classics to Weeknight Meals
+10 Protein Shake Recipes You’ll Crave
+Vanilla Whipped Cream Recipe
+Homemade Whipped Cream Recipe
+Whipped Cream Recipe
+Cookie Butter Whipped Cream Recipe
+Chocolate Whipped Cream Recipe
+Brownies with Brandy Whipped Cream Recipe

@@ -1,0 +1,93 @@
+Smokey Veggie Soup
+==================
+
+Recipe Metadata
+---------------
+Recipe ID: 3fc7c1482500bcc6
+CSV row number: 162
+Recipe name: Smokey Veggie Soup
+Source: food.com
+URL: http://www.food.com/recipe/smokey-veggie-soup-280891
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00fd0c46909f0fec9843f7f167fc6f903b51fe4916313ba1c8016a26c77a14ca/21095296.jpg
+Servings: 6
+Calories: 1318.97
+Diet labels: Balanced, High-Fiber
+Health labels: Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: soup
+
+Original CSV Fields
+-------------------
+recipe_name: Smokey Veggie Soup
+source: food.com
+url: http://www.food.com/recipe/smokey-veggie-soup-280891
+servings: 6
+calories: 1318.967541779015
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00fd0c46909f0fec9843f7f167fc6f903b51fe4916313ba1c8016a26c77a14ca/21095296.jpg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["soup"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Smokey Veggie Soup
+
+Description: Make and share this Smokey Veggie Soup recipe from Food.com.
+
+Recipe category: Easy
+
+Yield: 6 serving(s)
+
+Prep time: PT5M
+
+Cook time: PT5H
+
+Total time: PT5H5M
+
+Ingredients:
+- 1/2 lb smoked sausage, sliced thin
+- 1 (14 ounce) can stewed tomatoes, chopped
+- 1 (14 ounce) can beef broth
+- 2 cups water
+- 1 (16 ounce) bag frozen mixed vegetables
+- 2 cups o'brien frozen potatoes
+- salt and pepper, to taste
+
+Instructions:
+1. Put all above ingredients in a 4 quart slow cooker.
+2. Cook on low for about 5 hours.
+
+Visible page text:
+Smokey Veggie Soup
+ingredients
+1 ⁄ 2 lb smoked sausage , sliced thin
+1 (14 ounce) can stewed tomatoes , chopped
+1 (14 ounce) can beef broth
+2 cups water
+1 (16 ounce) bag frozen mixed vegetables
+2 cups o'brien frozen potatoes
+salt and pepper, to taste
+directions
+Put all above ingredients in a 4 quart slow cooker.
+Cook on low for about 5 hours.
+Questions & Replies
+Reviews
+Hearty! I used a 900 ml carton of beef broth instead of the canned broth and water because it roughly equals the 30 oz of liquid. I started it in the slow cooker on high but began to worry when it was an hour before dinner and I didn't see any bubbles. It was stone cold - I guess because of all the frozen vegetables. I transferred it to the stove and it turned out great. I did add one clove of minced garlic. Even better the next day, but there wasn't much broth left, so it was more like a stew. My DH added some Franks Red Hot sauce to his for some added kick. Thanks-it's a keeper! Made for PAC Spring 2009. fluffystew Reply
+This recipe is amazingly simple and quick to put together. I used a lean, well smoked and seasoned sausage and I believe that was the key to having a well-seasoned soup that tastes smokey. It was really very good. I'm glad I picked this recipe for Pick A Chef Spring 2008. PanNan Reply
+Tweaks
+RECIPE SUBMITTED BY
+5 Followers
+21 Recipes
+6 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

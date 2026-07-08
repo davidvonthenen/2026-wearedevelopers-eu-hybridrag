@@ -1,0 +1,114 @@
+Apple Cinnamon Turnovers
+========================
+
+Recipe Metadata
+---------------
+Recipe ID: f31fe66367c12ddd
+CSV row number: 313
+Recipe name: Apple Cinnamon Turnovers
+Source: BigOven
+URL: https://www.bigoven.com/recipe/apple-cinnamon-turnovers/722748
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01fdec6416ba653b00a640841921d7c60e4d3e6d0851d2f3dfa5bfed017216d1/21128798.jpg
+Servings: 8
+Calories: 973.77
+Diet labels: none listed
+Health labels: Vegetarian, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: middle eastern
+Meal type: breakfast
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Apple Cinnamon Turnovers
+source: BigOven
+url: https://www.bigoven.com/recipe/apple-cinnamon-turnovers/722748
+servings: 8
+calories: 973.7725206713571
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01fdec6416ba653b00a640841921d7c60e4d3e6d0851d2f3dfa5bfed017216d1/21128798.jpg
+diet_labels: []
+health_labels: ["Vegetarian","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["middle eastern"]
+meal_type: ["breakfast"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Apple Cinnamon Turnovers
+
+Description: not set
+
+Recipe category: Breakfast
+
+Recipe cuisine: not set
+
+Yield: 8
+
+Prep time: PT30M
+
+Cook time: PT30M
+
+Total time: PT30M
+
+Ingredients:
+- 1 medium Apple peeled and chopped
+- 1/2 cup Applesauce
+- 3/4 teaspoon Cinnamon
+- Dash Nutmeg
+- 7 1/2 ounce can Refrigerated biscuits
+- 1 tablespoon Butter melted
+- 2 tablespoon Sugar
+
+Instructions:
+1. In bowl, combine apple, applesauce, 1/4 teaspoon cinnamon and nutmeg. Separate biscuits; roll out into 6 inch circle. Place on greased baking sheet. Place a heaping tablespoon of apple mixture in the center of each. Fold in half and pinch edges together with fork tines. Brush with butter. Combine sugar and remaining cinnamon; spinkle over tops. Bake at 400 degrees for 10 minutes or until edges are golden brown.
+
+Visible page text:
+Recipes
+Breakfast
+Other Breakfast-Brunch
+Apple Cinnamon Turnovers
+WANT TO TRY
+FAVORITE
+MADE
+CUSTOM FOLDER
+Try this Apple Cinnamon Turnovers recipe, or contribute your own.
+Still searching for what to cook ?
+Find the most delicious recipes here
+Recipe
+Text
+Photos
+Nutr Nutrition
+Notes
+INGREDIENTS
+1 medium Apple ; peeled and chopped
+1/2 cup Apple sauce
+3/4 teaspoon Cinnamon
+Dash Nutmeg
+7 1/2 ounce can Refrigerated biscuits
+1 tablespoon Butter ; melted
+2 tablespoon Sugar
+Copy and Customize
+About BigOven Pro
+INSTRUCTIONS
+In bowl, combine apple, applesauce, 1/4 teaspoon cinnamon and nutmeg. Separate biscuits; roll out into 6 inch circle.
+Place on greased baking sheet. Place a heaping tablespoon of apple mixture in the center of each. Fold in half and pinch edges together with fork tines. Brush with butter. Combine sugar and remaining cinnamon; spinkle over tops. Bake at 400 degrees for 10 minutes or until edges are golden brown.
+Apple Cinnamon Turnovers cathyob
+Nutrition
+View line-by-line Nutrition Insights™ : Discover which ingredients contribute the calories/sodium/etc.
+Disclaimer: Nutrition facts are derived from linked ingredients (shown at left in colored bullets) and may or may not be complete. Always consult a licensed nutritionist or doctor if you have a nutrition-related medical condition.
+Calories per serving : 27
+Get detailed nutrition information, including item-by-item nutrition insights, so you can see where the calories, carbs, fat, sodium and more come from.
+What would you serve with this? Link in another recipe .
+What to make this week
+Keep an eye out for original recipes from the BigOven Kitchen every week! SEE MORE >>
+BigOven Buzz
+Freshly baked content from the creators at BigOven Kitchen . Learn tried and true tips, ticks and methods.
+REVIEW THIS RECIPE
+REVIEWS
+There are no reviews yet. Be the first !

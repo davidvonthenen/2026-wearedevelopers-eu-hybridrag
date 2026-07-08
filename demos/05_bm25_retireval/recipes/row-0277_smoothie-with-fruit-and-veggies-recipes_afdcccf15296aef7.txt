@@ -1,0 +1,164 @@
+Smoothie with Fruit and Veggies recipes
+=======================================
+
+Recipe Metadata
+---------------
+Recipe ID: afdcccf15296aef7
+CSV row number: 277
+Recipe name: Smoothie with Fruit and Veggies recipes
+Source: beyondthechickencoop.com
+URL: http://www.beyondthechickencoop.com/smoothie-with-fruit-and-veggies/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01be35e80ee109679b1e21bac20e5094c735e24eeaac1c43ee5f217d03382c41/21109356.jpeg
+Servings: 2
+Calories: 344.04
+Diet labels: High-Fiber, Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: breakfast
+Dish type: drinks
+
+Original CSV Fields
+-------------------
+recipe_name: Smoothie with Fruit and Veggies recipes
+source: beyondthechickencoop.com
+url: http://www.beyondthechickencoop.com/smoothie-with-fruit-and-veggies/
+servings: 2
+calories: 344.043
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01be35e80ee109679b1e21bac20e5094c735e24eeaac1c43ee5f217d03382c41/21109356.jpeg
+diet_labels: ["High-Fiber","Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["drinks"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Fruit and Vegetable Smoothie
+
+Description: Healthy fruit and veggie smoothie
+
+Recipe category: ['Breakfast']
+
+Recipe cuisine: ['American']
+
+Yield: ['2', '2 servings']
+
+Prep time: PT10M
+
+Total time: PT10M
+
+Ingredients:
+- ½ cup unsweetened/plain greek yogurt
+- 1 cup spinach leaves
+- ½ cup blueberries (fresh or frozen)
+- ½ cup raspberries (fresh or frozen)
+- 1 whole ripe banana
+- 1 whole carrot (washed and chopped into large chunks)
+- ½ teaspoon chia seeds
+- ¼ cup water or juice
+
+Instructions:
+1. Place all items in a blender.
+2. Blend until fully incorporated, stopping to stir or add more water or juice as needed.
+3. Serve right away or cover and store in refrigerator.
+
+Visible page text:
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+As an Amazon Associate, I earn from qualifying purchases. Read the full disclosure here.
+A smoothie with fruit and veggies is a perfect way to start the day or a great afternoon pick-me-up!
+Tips on how to use what's on hand and tailor it to your tastes. You pick your favorite fruits and vegetables to make a delicious smoothie.
+This time of year always inspires me to make some changes....some healthy changes. I need to eat more fruit and veggies and less sugar - so how about a smoothie with fruit and veggies? Yikes....less sugar! That's going to be tough.
+Smoothies with fruit and veggies are healthy and I make them with absolutely no added sugar. And I don't miss it at all!
+I have my go-to items for smoothies. But I also need to have an alternate game plan because we don't always have everything on hand.
+My recipe is my standard go-to smoothie, but I will also give you a list of some options for substitutions and variety!
+My basic rule is to add what you like and try out different ingredients to see what works. I don't like any one ingredient to overpower the smoothie.
+Another great smoothie is this High Fiber Smoothie from Create Kids Club.
+What goes in a Smoothie?
+Use this recipe as a base. Start with plain Greek yogurt and add your favorite fruits and veggies. Mix it up based on what you like and what you have on hand.
+Yogurt
+2-3 choices of fruit, fresh or frozen
+1-2 choices of veggies
+chia seeds, optional
+Best Fruits for Smoothies
+Add what you have on hand or your favorite fruit. Fruit can be fresh or frozen.
+Blueberries
+Strawberries
+Raspberries
+Banana
+Pineapple
+Kiwi
+Peach
+Mango
+Citrus
+Best Vegetables for Smoothies
+Spinach
+Kale
+Swiss Chard
+Carrots
+Cucumber
+How to make a Fruit and Veggie Smoothie
+Place all items in a blender.
+Blend until fully incorporated, stopping to stir, scrape down sides, or add more water or juice as needed.
+Serve right away.
+We love to make these smoothies all year long. My kids make them for breakfast and for snacks. You just can't go wrong with a treat like these smoothies. If you are looking for more smoothie recipes check out this green smoothie recipe .
+How to store leftover Fruit Smoothie
+If you have any leftover smoothies, just pop the extras in the fridge or freezer and enjoy them later. My kids like to put them in the freezer and then eat them when it is frozen.
+The smoothie will become frozen hard and you will need a spoon to scrape it up. As it begins to thaw, the smoothie is easier to eat.
+More from Beyond the Chicken Coop
+Mexican Layered Dip
+Cast Iron Skillet Pork Chops
+Spaghetti and Meatballs Crock Pot
+If you make this recipe, I’d love to hear about it! Leave a comment below and snap a picture and tag me on Instagram @beyondthechickencoop
+Check out all my delicious breakfast recipes !
+Blueberry Peach Muffins
+Confetti Pancakes
+Buttermilk Waffles
+Croissant Breakfast Sandwich
+Fruit and Vegetable Smoothie
+Equipment
+▢ Blender
+Ingredients US Customary Metric 1x 2x 3x
+▢ ½ cup unsweetened/plain greek yogurt
+▢ 1 cup spinach leaves
+▢ ½ cup blueberries (fresh or frozen)
+▢ ½ cup raspberries (fresh or frozen)
+▢ 1 whole ripe banana
+▢ 1 whole carrot (washed and chopped into large chunks)
+▢ ½ teaspoon chia seeds
+▢ ¼ cup water or juice
+Instructions
+Blend until fully incorporated, stopping to stir or add more water or juice as needed.
+Serve right away or cover and store in refrigerator.
+Notes
+Nutritional Disclaimer:
+Nutritional information is provided as a courtesy and should only be construed as an estimate rather than a guarantee. To obtain the most precise nutritional information in a provided recipe, you should calculate the nutritional information with the exact ingredients you are using when preparing the recipe using your preferred nutrition calculator.
+Nutrition
+More Breakfast and Brunch
+Easy Drop Biscuits
+Cranberry Nut Muffins
+Croissant Breakfast Casserole
+Apple Coffee Cake
+Reader Interactions
+Comments
+Can Greek yogurt be replaced with almond milk. Thanks Reply Hi, Yes, you could use almond milk instead. The consistency will be thinner, but that's okay. Enjoy! 🙂 Reply
+Can Greek yogurt be replaced with almond milk. Thanks
+Hi, Yes, you could use almond milk instead. The consistency will be thinner, but that's okay. Enjoy! 🙂 Reply
+Hi, Yes, you could use almond milk instead. The consistency will be thinner, but that's okay. Enjoy! 🙂
+I want to make the healthiest, low or no sugar smoothies with fruits and veggies only, what do you suggest? Reply Hi Denise, I'm not certain I fully understand your question. Are you not wanting to use yogurt at all? My recipe calls for plain yogurt, you could leave it out and add extra fruit juice to make it the right consistency. Kathy Reply
+I want to make the healthiest, low or no sugar smoothies with fruits and veggies only, what do you suggest?
+Hi Denise, I'm not certain I fully understand your question. Are you not wanting to use yogurt at all? My recipe calls for plain yogurt, you could leave it out and add extra fruit juice to make it the right consistency. Kathy Reply
+Hi Denise, I'm not certain I fully understand your question. Are you not wanting to use yogurt at all? My recipe calls for plain yogurt, you could leave it out and add extra fruit juice to make it the right consistency. Kathy
+My husband hates spinach,how can I incorporate it into a smoothie without him noticing? He needs the iron.🤦🏻‍♀️ Reply Try adding spinach with just the yogurt and pureeing it really well. Then add raspberries or strawberries to turn everything a beautiful color. Reply
+My husband hates spinach,how can I incorporate it into a smoothie without him noticing? He needs the iron.🤦🏻‍♀️
+Try adding spinach with just the yogurt and pureeing it really well. Then add raspberries or strawberries to turn everything a beautiful color. Reply
+Try adding spinach with just the yogurt and pureeing it really well. Then add raspberries or strawberries to turn everything a beautiful color.
+Leave a Reply Cancel reply

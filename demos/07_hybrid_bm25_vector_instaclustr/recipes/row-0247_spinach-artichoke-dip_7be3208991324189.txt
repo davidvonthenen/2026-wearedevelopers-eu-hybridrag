@@ -1,0 +1,92 @@
+Spinach Artichoke Dip
+=====================
+
+Recipe Metadata
+---------------
+Recipe ID: 7be3208991324189
+CSV row number: 247
+Recipe name: Spinach Artichoke Dip
+Source: tastykitchen.com
+URL: https://tastykitchen.com/recipes/appetizers-and-snacks/spinach-artichoke-dip-4/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/018bf506ae4c8c8de80ca8972e742bb9200b2a8f5392539bea7b68cc541af67b/21060058.jpg
+Servings: 10
+Calories: 5951.71
+Diet labels: none listed
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Spinach Artichoke Dip
+source: tastykitchen.com
+url: https://tastykitchen.com/recipes/appetizers-and-snacks/spinach-artichoke-dip-4/
+servings: 10
+calories: 5951.706344432813
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/018bf506ae4c8c8de80ca8972e742bb9200b2a8f5392539bea7b68cc541af67b/21060058.jpg
+diet_labels: []
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Spinach Artichoke Dip
+Print
+One Comment
+write a review
+Print Options
+Description
+One of the best homemade spinach artichoke dips I’ve had, and easy to boot!
+Ingredients
+3 Tablespoons Butter
+1 whole Medium Onion, Chopped
+2 cloves Garlic, Minced
+1 package (10 Oz. Package) Frozen Spinach
+1 can (13 3/4 Oz. Can) Artichoke Hearts
+8 ounces, weight Cream Cheese
+½ cups Mayonnaise
+¾ cups Parmesan Cheese
+1 package (8 Oz. Package) 4 Cheese Blend
+2 bags Pita Chips, Bruschetta Chips, Etc. To Serve
+Preparation
+Melt the butter; add onion and garlic. Saute until tender. Add spinach and cook for 3 minutes over medium heat, stirring often.
+Add artichoke hearts, cream cheese, mayonnaise, Parmesan cheese, and 4 cheese blend; stir until blended.
+Spoon into a greased baking dish that will double as a serving piece.
+Bake at 350 degrees for 30 minutes, stirring often.
+If desired, add mozzarella on top and bake for 5-10 minutes more.
+More Recipes from Sassy In the Kitchen
+The Best Pumpkin Bread EVER
+Sloppy Joe Sliders
+Find Sassy In the Kitchen elsewhere on the web.
+Website
+Leave a Comment
+You must be logged in to post a comment.
+Sabi on 4.22.2010
+Oooh so good! I love that this was so easy and cheap to throw together. Now I can get my dip fix without having to get it at local restaurants!
+Only thing I had to change was use wheat thins instead of pita chips. Sadly, my grocery store doesn’t carry them but wheat thins pair really well with the dip. Thank you for sharing!
+No Reviews
+You must be logged in to post a review.
+Food Gifts
+View Recipe
+Slow Cooker Season!
+Related Recipes
+Prep: 5 mins Cook: -
+Serves: 10 Level: Easy
+Share f a e
+Prep: 10 mins Cook: 35 mins
+Serves: 4 Level: Easy
+Prep: 5 mins Cook: 30 mins
+Serves: 20 Level: Easy
+Prep: 10 mins Cook: -
+Prep: 10 mins Cook: 5 mins
+Serves: 6 Level: Easy

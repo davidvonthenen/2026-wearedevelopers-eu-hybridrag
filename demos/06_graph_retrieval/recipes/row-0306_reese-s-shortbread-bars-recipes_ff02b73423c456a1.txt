@@ -1,0 +1,152 @@
+Reese’s Shortbread Bars recipes
+===============================
+
+Recipe Metadata
+---------------
+Recipe ID: ff02b73423c456a1
+CSV row number: 306
+Recipe name: Reese’s Shortbread Bars recipes
+Source: asavoryfeast.com
+URL: http://www.asavoryfeast.com/reeses-shortbread-bars/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01f59044ea713657fe70200ced72f47af59a695fcc6b50b0ae81a9d3620b2553/21097119.jpeg
+Servings: 4
+Calories: 6347.47
+Diet labels: High-Fiber
+Health labels: Vegetarian, Egg-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Soy, Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Reese’s Shortbread Bars recipes
+source: asavoryfeast.com
+url: http://www.asavoryfeast.com/reeses-shortbread-bars/
+servings: 4
+calories: 6347.465802174999
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01f59044ea713657fe70200ced72f47af59a695fcc6b50b0ae81a9d3620b2553/21097119.jpeg
+diet_labels: ["High-Fiber"]
+health_labels: ["Vegetarian","Egg-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Soy","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Reese’s Shortbread Bars
+
+Prep time: PT0S
+
+Cook time: PT0S
+
+Total time: PT0S
+
+Ingredients:
+- 2 cups all-purpose flour
+- 3/4 cup confectioners' sugar
+- 1 cup unsalted butter, at room temperature
+- 1/2 teaspoon salt
+- 1 13 oz container of Reese's Peanut Butter Chocolate Spread
+- 1 12 oz bag of Reese's Pieces
+
+Instructions:
+1. Preheat oven to 350. Grease a 9x13 inch pan.
+2. Use an electric mixer with the paddle attachment to combine the flour, sugar, butter and salt. Beat until mixture is crumbly, about 4 minutes.
+3. Press the shortbread mixture into the pan. Bake until lightly browned, 12 to 15 minutes. Let cool completely.
+4. Use a rubber spatula to spread the Reese's spread in an even layer on top of the shortbread.
+5. Sprinkle with Reese's Pieces. Cut into bars and enjoy!
+6. If you can't find the Reese's spread, you can use Nutella or any chocolate spread.
+
+Visible page text:
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+Skip to footer
+Do you have a favorite childhood treat that isn’t in stores anymore? I don’t remember what brand they were, but we used to get these shortbread bars that had a layer of chocolate and a sprinkle of candy pieces. Does anyone else remember them?
+I used those bars as my inspiration for this recipe. These Reese’s Shortbread Bars are easy to make and are dangerously good! I was doing pretty good with eating better this year until I made these bars…
+I received these products complimentary from Influenster for testing purposes.
+Reese’s has always been one of my favorite candies. I love both their peanut butter cups and Reese’s Pieces. Obviously, peanut butter and chocolate is one of my favorite combos!
+When I heard that Reese’s had a new peanut butter chocolate spread, I couldn’t wait to try it! This spread is great for making a quick snack or dessert. You can top it on apples, spread it on toast, and add it to a s’more!
+This spread also worked great in this recipe! You don’t have to add anything to it, just spread it on top of your shortbread bars and sprinkle with Reese’s Pieces.
+These bars are great for an easy dessert or an afternoon snack. In fact, you don’t need an excuse to make these yummy treats. Go ahead and enjoy them today!
+Ingredients
+For the shortbread crust
+2 cups all-purpose flour
+3/4 cup confectioners' sugar
+1 cup unsalted butter, at room temperature
+1/2 teaspoon salt
+For the topping
+1 13 oz container of Reese's Peanut Butter Chocolate Spread
+1 12 oz bag of Reese's Pieces
+Instructions
+Preheat oven to 350. Grease a 9x13 inch pan.
+Use an electric mixer with the paddle attachment to combine the flour, sugar, butter and salt. Beat until mixture is crumbly, about 4 minutes.
+Press the shortbread mixture into the pan. Bake until lightly browned, 12 to 15 minutes. Let cool completely.
+Use a rubber spatula to spread the Reese's spread in an even layer on top of the shortbread.
+Sprinkle with Reese's Pieces. Cut into bars and enjoy!
+Notes
+If you can't find the Reese's spread, you can use Nutella or any chocolate spread.
+Did you make this recipe?
+Please leave a comment below and rate the recipe to let us know what you thought! You can also share a photo on Instagram and tag us @asavoryfeast and hashtag #asavoryfeast.
+Have you tried Reese’s Spreads? How would you use them in a recipe?
+Share
+Tweet
+Pin
+Email
+Reader Interactions
+Comments
+OMG these look delicious. My husband is allergic to peanut butter, but more for me 😉 xoxo Reply I would be pretty excited to get all of these to myself! I shared them with my family and they disappeared so quickly! Reply
+OMG these look delicious. My husband is allergic to peanut butter, but more for me 😉 xoxo
+I would be pretty excited to get all of these to myself! I shared them with my family and they disappeared so quickly! Reply
+I would be pretty excited to get all of these to myself! I shared them with my family and they disappeared so quickly!
+Uhm…Yum! My fiance loves Reese’s, as do I. I pretty sure I’ll be making these over the weekend. Thanks for sharing! Reply You will both love this treat! Double Reese’s 🙂 Reply
+Uhm…Yum! My fiance loves Reese’s, as do I. I pretty sure I’ll be making these over the weekend. Thanks for sharing!
+You will both love this treat! Double Reese’s 🙂 Reply
+You will both love this treat! Double Reese’s 🙂
+Oh yes!! I will be making these soon! Peanut Butter just speaks to me. I have always been a huge fan of Reese’s!! Reply Reese’s is the best! This spread is so yummy. I hope you can find some! Reply
+Oh yes!! I will be making these soon! Peanut Butter just speaks to me. I have always been a huge fan of Reese’s!!
+Reese’s is the best! This spread is so yummy. I hope you can find some! Reply
+Reese’s is the best! This spread is so yummy. I hope you can find some!
+I feel like there’s a lot of cereals i used to eat that aren’t really in stores anymore. Or maybe I just haven’t been looking for them lately haha I’ll have to check. Also.. what? I love reese’s and had no idea they had a spread! Reply I feel that way about cereals, too. You’ll never guess what was one of my favorites, though… Reese’s Puffs! Hehe, you will love this spread. It’s soooo good! Reply
+I feel like there’s a lot of cereals i used to eat that aren’t really in stores anymore. Or maybe I just haven’t been looking for them lately haha I’ll have to check. Also.. what? I love reese’s and had no idea they had a spread!
+I feel that way about cereals, too. You’ll never guess what was one of my favorites, though… Reese’s Puffs! Hehe, you will love this spread. It’s soooo good! Reply
+I feel that way about cereals, too. You’ll never guess what was one of my favorites, though… Reese’s Puffs! Hehe, you will love this spread. It’s soooo good!
+These look so delicious!! I will definitely have to give them a go! Reply Do it! They are 100% worth the calories. Reply
+These look so delicious!! I will definitely have to give them a go!
+Do it! They are 100% worth the calories. Reply
+Do it! They are 100% worth the calories.
+Oh wow talk about a treat that I won’t be able to stop eating!! Sounds soooo good! 🙂 Can’t wait to try this! Reply Watch out, they are addicting! Reply
+Oh wow talk about a treat that I won’t be able to stop eating!! Sounds soooo good! 🙂 Can’t wait to try this!
+Watch out, they are addicting! Reply
+Watch out, they are addicting!
+Pinned! Reply Thanks, Tayler! I hope you enjoy them. Reply
+Pinned!
+Thanks, Tayler! I hope you enjoy them. Reply
+Thanks, Tayler! I hope you enjoy them.
+Yumm!! These make my mouth water! I absolutely love reeses! Reply Reese’s is the best! These bars are a great way to enjoy the Reese’s flavor. Reply
+Yumm!! These make my mouth water! I absolutely love reeses!
+Reese’s is the best! These bars are a great way to enjoy the Reese’s flavor. Reply
+Reese’s is the best! These bars are a great way to enjoy the Reese’s flavor.
+WOWWW Who in the world can resist such bars? I wouldn’t be able to stop eating them 🙂 Reply I couldn’t resist! They were just so good. Reply
+WOWWW Who in the world can resist such bars? I wouldn’t be able to stop eating them 🙂
+I couldn’t resist! They were just so good. Reply
+I couldn’t resist! They were just so good.
+I never should have clicked through to these bars. They look so yummy!! And I have all the ingredients but the Reese’s pieces in my pantry. I’m going to have to make them tomorrow. Reply You will love them! They are worth it, believe me. Reply I think these are going to be our date night treat tomorrow! Reply
+I never should have clicked through to these bars. They look so yummy!! And I have all the ingredients but the Reese’s pieces in my pantry. I’m going to have to make them tomorrow.
+You will love them! They are worth it, believe me. Reply I think these are going to be our date night treat tomorrow! Reply
+You will love them! They are worth it, believe me.
+I think these are going to be our date night treat tomorrow! Reply
+I think these are going to be our date night treat tomorrow!
+Leave a Reply Cancel reply
+Footer
+Top Posts
+All photographs and content were created by Jenna Owens of A Savory Feast unless otherwise specified. My work may not be used without my express permission.
+Some of my posts are sponsored or contain affiliate links. For more information, please read our disclosure and privacy policy.
+Search Recipes

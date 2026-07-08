@@ -1,0 +1,119 @@
+Beautiful Baked Ziti
+====================
+
+Recipe Metadata
+---------------
+Recipe ID: 144bbef4f3db41c7
+CSV row number: 157
+Recipe name: Beautiful Baked Ziti
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/218849/beautiful-baked-ziti/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00f9f59467355320dd0350b4d2ad9591c1321dcd74d29bd56b1302fda3a55e00/21048886.jpg
+Servings: 9
+Calories: 6263.47
+Diet labels: Low-Carb
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Beautiful Baked Ziti
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/218849/beautiful-baked-ziti/
+servings: 9
+calories: 6263.469015399784
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00f9f59467355320dd0350b4d2ad9591c1321dcd74d29bd56b1302fda3a55e00/21048886.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Beautiful Baked Ziti
+
+Description: Any dinner table benefits from the addition of this great Italian flavor!
+
+Yield: ['9', '1 9x13 pan']
+
+Prep time: PT40M
+
+Cook time: PT35M
+
+Total time: PT75M
+
+Ingredients:
+- 1 (19 ounce) package Johnsonville® Italian Sweet Sausage Links
+- 8 ounces penne pasta (about 2/12 cups), cooked and drained
+- 1 (26 ounce) jar pasta sauce
+- 0.75 cup water
+- 1 tablespoon chopped fresh basil
+- 1 tablespoon chopped fresh garlic
+- 0.5 cup shredded Parmesan cheese
+- 0.25 teaspoon black pepper
+- 1 (10 ounce) package frozen garlic bread, thawed & sliced into 9 slices
+- 3 cups shredded mozzarella cheese
+- 0.25 cup olive oil
+- 2 medium Roma tomatoes, cut into slices
+- 9 fresh whole basil leaves
+
+Instructions:
+1. Cook sausage links according to package directions; drain, cut into 1/4-inch slices.
+2. In a large bowl, combine sausage slices, pasta, pasta sauce, water, basil, garlic, Parmesan cheese, pepper and mix well.
+3. Spoon mixture into a greased 9-in. x 13-in. baking dish. Arrange garlic bread slices on top of meat mixture. Sprinkle evenly with mozzarella cheese.
+4. In a small bowl, dip tomato slices into olive oil. Place one slice of tomato on each piece of bread.
+5. Bake uncovered, at 400F for 25-30 minutes or until heated through. Remove from oven and let rest for 5 minutes before serving. Garnish with basil leaves. Serve.
+
+Visible page text:
+Recipes
+Beautiful Baked Ziti
+Any dinner table benefits from the addition of this great Italian flavor!
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 9 servings
+1 (19 ounce) package Johnsonville® Italian Sweet Sausage Links
+8 ounces penne pasta (about 2/12 cups), cooked and drained
+1 (26 ounce) jar pasta sauce
+¾ cup water
+1 tablespoon chopped fresh basil
+1 tablespoon chopped fresh garlic
+½ cup shredded Parmesan cheese
+¼ teaspoon black pepper
+1 (10 ounce) package frozen garlic bread, thawed & sliced into 9 slices
+3 cups shredded mozzarella cheese
+¼ cup olive oil
+2 medium Roma tomatoes, cut into slices
+9 fresh whole basil leaves
+Directions
+Cook sausage links according to package directions; drain, cut into 1/4-inch slices.
+In a large bowl, combine sausage slices, pasta, pasta sauce, water, basil, garlic, Parmesan cheese, pepper and mix well.
+Spoon mixture into a greased 9-in. x 13-in. baking dish. Arrange garlic bread slices on top of meat mixture. Sprinkle evenly with mozzarella cheese.
+In a small bowl, dip tomato slices into olive oil. Place one slice of tomato on each piece of bread.
+Bake uncovered, at 400F for 25-30 minutes or until heated through. Remove from oven and let rest for 5 minutes before serving. Garnish with basil leaves. Serve.
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Beautiful Baked Ziti
+1
+Most-Saved Recipes Like This
+Baked Ziti 8,978 Ratings 1 hr Save
+Baked Ziti III 1,367 Ratings 50 mins Save
+Easy Baked Ziti 1,248 Ratings 1 hr Save
+Baked Ziti with Sausage 1,063 Ratings 1 hr Save
+Baked Ziti IV 1,266 Ratings 1 hr 30 mins Save
+The Best Baked Ziti 179 Ratings 2 hrs 15 mins Save
+Creamy Baked Ziti 132 Ratings 40 mins Save
+Baked Ziti Casserole 63 Ratings 1 hr 15 mins Save
+Nicole's Best Baked Ziti 37 Ratings 1 hr 25 mins Save
+Carol's Baked Ziti Casserole 120 Ratings 1 hr 10 mins Save
+You’ll Also Love

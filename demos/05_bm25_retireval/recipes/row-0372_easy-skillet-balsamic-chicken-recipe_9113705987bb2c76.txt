@@ -1,0 +1,209 @@
+Easy Skillet Balsamic Chicken Recipe
+====================================
+
+Recipe Metadata
+---------------
+Recipe ID: 9113705987bb2c76
+CSV row number: 372
+Recipe name: Easy Skillet Balsamic Chicken Recipe
+Source: sweetcsdesigns.com
+URL: https://sweetcsdesigns.com/easy-skillet-balsamic-chicken-recipe
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/025d8d0caed2bc7579bcc5d2514879817af01a9be60b454c56cf591d3235f0df/20970909.jpg
+Servings: 6
+Calories: 1935.84
+Diet labels: High-Protein, Low-Carb
+Health labels: Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Easy Skillet Balsamic Chicken Recipe
+source: sweetcsdesigns.com
+url: https://sweetcsdesigns.com/easy-skillet-balsamic-chicken-recipe
+servings: 6
+calories: 1935.837392303925
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/025d8d0caed2bc7579bcc5d2514879817af01a9be60b454c56cf591d3235f0df/20970909.jpg
+diet_labels: ["High-Protein","Low-Carb"]
+health_labels: ["Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Easy Skillet Balsamic Chicken Recipe
+
+Description: This delicious, easy chicken dinner spotlighting the flavors of Italy with genuine Italian-made ingredients for a delicious Italian chicken dinner the whole family will love!
+
+Recipe category: ['Chicken']
+
+Recipe cuisine: ['Italian']
+
+Yield: ['6', '6 people']
+
+Prep time: PT5M
+
+Cook time: PT25M
+
+Total time: PT30M
+
+Ingredients:
+- 8 oz prosciutto (cubed)
+- 1 1/2 lbs boneless chicken breasts (pounded 1/2 inch thick)
+- Sea salt and pepper
+- 2 tablespoons Olive Oil
+- 8 cloves garlic (finely chopped)
+- 1 lb mushrooms (sliced)
+- 3/4 cup chicken broth
+- 1 Bay leaf
+- 1 teaspoon dried thyme
+- ¼ cup shaved Parmigiano Reggiano
+- 1/3 cup Balsamic Vinegar
+
+Instructions:
+1. In a large, heavy skillet, crisp prosciutto over medium heat. Do not drain off any oil.
+2. Remove crispy prosciutto dice it and place in small bowl, set aside.
+3. Season chicken generously with salt and pepper.
+4. Add olive oil to pan and heat until light and shimmery.
+5. Add chicken to pan, browning each side - about 5 minutes per side.
+6. Add mushrooms, garlic, and diced prosciutto to pan, stir. Let cook down until mushrooms are soft and garlic is fragrant.
+7. Drizzle chicken with balsamic vinegar.
+8. Add stock to pan and bring to a boil. Stir up any browned bits that were stuck to the bottom of the pan.
+9. Add herbs to pan.
+10. Let chicken, mushrooms, garlic and stock cook until chicken has reached internal temperature of 160 degrees and stock has reduced.
+11. When chicken is cooked, shave parmesan cheese over the top. Serve immediately.
+
+Visible page text:
+Get updates on the latest posts!
+Home › Recipes › One Pot
+Easy Skillet Balsamic Chicken
+By Courtney ODell
+Sep 28, 2018, Updated Jun 27, 2025
+This post contains affiliate links. Please read our disclosure policy .
+Easy Skillet Balsamic Chicken Recipe – as delicious, easy chicken dinner spotlighting the flavors of Italy with genuine Italian-made ingredients for a delicious Italian chicken dinner the whole family will love!
+Don’t want all the extras in a recipe post? We provide a skip to recipe button in the top left corner, as well as a clickable table of contents, just below, to help make this page easier to navigate.
+At Sweet C’s, I add lots of tips in all of my recipes – because I am a home cook without any formal training , and I find I am more confident making dishes when I understand why it works, and what each ingredient means to the flavor of a recipe. My goal is for even the most beginner home cook to feel empowered in the kitchen.
+Table of Contents
+Simple One Pan Balsamic Chicken
+How to Make Balsamic Chicken
+Tips and Tricks for Perfect Balsamic Glazed Chicken
+What to Enjoy with Skillet Balsamic Chicken
+Easy Skillet Balsamic Chicken Recipe Recipe
+Easy Skillet Balsamic Chicken is a savory delight, featuring tender chicken breasts infused with the rich, tangy sweetness of balsamic vinegar, creating a symphony of flavors in every bite. The simplicity of the dish belies its depth of flavor, as the balsamic reduction glaze caramelizes on the chicken, offering a glossy, flavorful coating that’s irresistible. Paired with aromatic herbs and garlic, the dish strikes a perfect balance between acidity and savory notes, making it a mouthwatering meal that’s both nutritious and satisfying. Its ease of preparation and gourmet appeal make it a go-to for weeknight dinners, impressing both family and guests with its delicious complexity.
+This one pan chicken is one of my kid’s favorites, you can substitute any vegetable you want or have for the mushrooms!
+First assemble the following ingredients:
+Prosciutto (8 oz) – Adds a salty, umami-rich depth and a subtle crispness that complements the tender chicken.
+Boneless chicken breasts (1 1/2 lbs) – Serve as the lean, mild base of the dish, offering a perfect canvas for the balsamic glaze.
+Sea salt and pepper – Provide essential seasoning that enhances the natural flavors of the chicken and vegetables.
+Olive Oil (2 tablespoons) – Used for sautéing, it imparts a fruity richness that adds to the overall depth of the dish.
+Garlic (8) – Infuses the dish with a pungent, aromatic flavor that deepens the savory profile of the sauce.
+Mushrooms (1 lb) – Contribute an earthy, meaty texture and absorb the sauce’s flavors, adding complexity to the dish.
+Chicken broth (3/4 cup) – Adds moisture and a rich, savory background that enhances the sauce and keeps the chicken tender.
+Bay leaf (1) – Offers a subtle, herbal undertone that complements the balsamic and herbs, adding layers to the dish’s aroma.
+Dried thyme (1 teaspoon) – Provides a slight minty, lemony note that brightens the dish and pairs well with the balsamic.
+Parmigiano Reggiano (¼ cup) – Brings a nutty, salty finish that elevates the dish with a touch of Italian flair.
+Balsamic Vinegar (1/3 cup) – The star ingredient, it creates a tangy, slightly sweet glaze that beautifully coats the chicken, offering a burst of vibrant flavor.
+Use this Method:
+Cook Prosciutto. In a large, heavy skillet, crisp prosciutto over medium heat. Do not drain off any oil. Remove crispy prosciutto, dice it up and place in small bowl, set aside.
+Cook Chicken. Season chicken generously with salt and pepper. Add olive oil to pan and heat until light and shimmery. Add chicken to pan, browning each side – about 5 minutes per side.
+Add Veg. Add mushrooms, garlic, and diced prosciutto to pan, stir. Let cook down until mushrooms are soft and garlic is fragrant.
+Make Sauce. Drizzle chicken with balsamic vinegar. Add stock to pan and bring to a boil. Stir up any browned bits that were stuck to the bottom of the pan. Add herbs to pan. Let chicken, mushrooms, garlic and stock cook until chicken has reached internal temperature of 160 degrees and stock has reduced.
+Finish and Garnish. When chicken is cooked, shave parmesan cheese over the top. Serve immediately.
+Use Quality Balsamic Vinegar : Investing in a good balsamic vinegar can significantly enhance the flavor of your glaze.
+Properly Season the Chicken : Season both sides of the chicken breasts with salt and pepper before cooking to ensure they are flavorful.
+Achieve a Good Sear : Make sure your skillet is hot before adding the chicken to get a nice, golden-brown sear on each side.
+Don’t Overcrowd the Pan : Cook the chicken in batches if necessary to ensure each piece has enough space to sear properly.
+Let the Chicken Rest : After cooking, let the chicken rest for a few minutes before slicing to keep it juicy.
+Reduce the Balsamic Glaze on Low Heat : Simmer the balsamic vinegar on low heat to thicken it into a glaze without burning it.
+Add Aromatics : Infuse the balsamic glaze with garlic, herbs, or shallots for added depth of flavor.
+Deglaze the Pan : Use the balsamic vinegar to deglaze the pan and incorporate the browned bits from the chicken into the glaze for more flavor.
+Adjust Sweetness : If the glaze is too tangy, add a touch of honey or brown sugar to balance the flavors.
+Serve with Garnishes : Top the dish with fresh herbs like basil or thyme, or a sprinkle of Parmesan cheese for an extra flavor boost.
+FAQs
+Boneless, skinless chicken breasts or thighs work well; breasts for a leaner option and thighs for more flavor and moisture.
+Yes, you can use a variety like button, cremini, or portobello. Each type will add a unique flavor and texture.
+Avoid overcooking by using a meat thermometer to check for doneness (165°F for chicken) and letting the chicken rest before serving.
+Yes, simply omit the Parmesan cheese or substitute it with a dairy-free alternative.
+Sauté garlic or shallots with the mushrooms, add fresh herbs like thyme or rosemary, and finish with a sprinkle of fresh Parmesan and a drizzle of good quality olive oil.
+While best served fresh, you can cook the chicken and mushrooms ahead of time and reheat gently, adding fresh Parmesan before serving.
+Store in an airtight container in the refrigerator for up to 3 days. Reheat gently to avoid drying out the chicken.
+While balsamic vinegar is ideal for its sweet and tangy flavor, you could experiment with red wine vinegar or apple cider vinegar, adjusted with a bit of honey or sugar to balance the acidity.
+Roasted Vegetables : A medley of roasted vegetables like carrots, Brussels sprouts, and bell peppers pairs beautifully with the tangy glaze of the chicken.
+Garlic Mashed Potatoes : Creamy garlic-infused mashed potatoes make a comforting side that complements the balsamic’s bold flavors.
+Quinoa Salad : A light and nutritious quinoa salad with fresh vegetables and a lemon vinaigrette offers a refreshing contrast.
+Grilled Asparagus : Tender, grilled asparagus drizzled with olive oil and sprinkled with sea salt enhances the meal’s sophistication. Or try my easy oven roasted asparagus.
+Couscous with Herbs : Fluffy couscous mixed with fresh herbs like parsley and mint provides a simple yet flavorful accompaniment.
+Caesar Salad : A classic Caesar salad, with its creamy dressing and crisp romaine, adds a crunchy texture to the meal.
+Risotto : A creamy Parmesan or mushroom risotto adds a luxurious element to the dining experience. Try my pea risotto !
+Steamed Green Beans : Lightly steamed green beans tossed with almonds offer a crunchy and healthy side. My family love roasted parmesan green beans !
+Polenta : Soft polenta serves as a comforting base, soaking up the balsamic glaze deliciously.
+Caprese Salad : Fresh tomatoes, mozzarella, and basil drizzled with balsamic reduction create a side dish that echoes the main’s flavors.
+Mediterranean Barley Salad
+Whole Roasted Cauliflower (Easy + Crispy)
+Scalloped Corn Casserole Recipe
+Garlic and Chive Potatoes
+If you love this easy recipe please click the stars below to give it a five star rating and leave a comment! Please also help me share on Instagram, Facebook, and Pinterest!
+Share on Facebook
+Pin this now to find it later
+Follow on Instagram
+Only have 30 minutes to get dinner on the table? Sign up for my 30 minute dinner plans direct to your inbox! Find and shop my favorite products in my Amazon storefront here!
+Easy Skillet Balsamic Chicken Recipe
+Equipment
+Food Grade Stainless Steel Kitchen Tongs for Cooking,BBQ – 7 ?9 and 12 Inch,Set of 3 Heavy Duty Locking Metal Food Tongs Non-Slip Grip
+365 by Whole Foods Market, Balsamic Vinegar Of Modena, 16.9 Fl Oz
+HexClad Hybrid Nonstick 12-Inch Fry Pan with Tempered Glass Lid, Stay-Cool Handle, Dishwasher and Oven Safe, Induction Ready, Compatible with All Cooktops
+Ingredients 1x 2x 3x
+▢ 8 oz prosciutto , cubed
+▢ 1 ½ lbs boneless chicken breasts , pounded 1/2 inch thick
+▢ Sea salt and pepper
+▢ 2 tablespoons Olive Oil
+▢ 8 cloves garlic , finely chopped
+▢ 1 lb mushrooms , sliced
+▢ ¾ cup chicken broth
+▢ 1 Bay leaf
+▢ 1 teaspoon dried thyme
+▢ ¼ cup shaved Parmigiano Reggiano
+▢ ⅓ cup Balsamic Vinegar
+Instructions
+In a large, heavy skillet, crisp prosciutto over medium heat. Do not drain off any oil.
+Remove crispy prosciutto dice it and place in small bowl, set aside.
+Season chicken generously with salt and pepper.
+Add olive oil to pan and heat until light and shimmery.
+Add chicken to pan, browning each side – about 5 minutes per side.
+Add mushrooms, garlic, and diced prosciutto to pan, stir. Let cook down until mushrooms are soft and garlic is fragrant.
+Drizzle chicken with balsamic vinegar.
+Add stock to pan and bring to a boil. Stir up any browned bits that were stuck to the bottom of the pan.
+Add herbs to pan.
+Let chicken, mushrooms, garlic and stock cook until chicken has reached internal temperature of 160 degrees and stock has reduced.
+When chicken is cooked, shave parmesan cheese over the top. Serve immediately.
+Nutrition
+Nutrition information is automatically calculated, so should only be used as an approximation.
+Additional Info
+Categorized as: Chicken , keto , Keto Chicken , Main Dishes , One Pot , paleo , Recipes
+About Courtney
+Recipe by Courtney O’Dell, creator of Sweet Cs Designs — sharing well-tested comfort food recipes and practical cooking guides.
+10 Minute Pan Seared Thai Chili Scallops
+Smoked Baby Back Ribs Recipe
+Salt and Pepper Shrimp
+The Best Easy Lemon Bars Recipe
+Leave a comment Cancel reply
+9 Comments
+I started the Carnivore Diet this week, and this recipe seemed like a great one to try. Protein grams are high, and carb grams are relatively low without sacrificing flavor. I was very happy with the result. My chicken breasts were a bit on the thick side, and in retrospect I should have split them to keep them from drying out. They were a bit tough by the time they came to temp, but that can be avoided by using a thinner portion. I was unsure when to add back the prosciutto. There is no mention of it. I added about 1/4 of it back into the mushroom and garlic broth, reserving the rest for finishing in order to keep it crispy. The saltiness does go very well with the acidity of the balsamic vinegar. I would definitely make this again. Reply So glad you loved it! You add the prosciutto back with the mushrooms and garlic (you have good instincts), I updated the recipe card to clarify. Thank you for the comment! Reply
+I started the Carnivore Diet this week, and this recipe seemed like a great one to try. Protein grams are high, and carb grams are relatively low without sacrificing flavor. I was very happy with the result. My chicken breasts were a bit on the thick side, and in retrospect I should have split them to keep them from drying out. They were a bit tough by the time they came to temp, but that can be avoided by using a thinner portion.
+I was unsure when to add back the prosciutto. There is no mention of it. I added about 1/4 of it back into the mushroom and garlic broth, reserving the rest for finishing in order to keep it crispy. The saltiness does go very well with the acidity of the balsamic vinegar.
+I would definitely make this again.
+So glad you loved it! You add the prosciutto back with the mushrooms and garlic (you have good instincts), I updated the recipe card to clarify. Thank you for the comment! Reply
+So glad you loved it! You add the prosciutto back with the mushrooms and garlic (you have good instincts), I updated the recipe card to clarify. Thank you for the comment!
+Oh my gosh this is amazing! Thanks so much for sharing! Reply
+Oh my gosh this is amazing! Thanks so much for sharing!
+As Seen In
+©2026 Sweet Cs Designs. All rights reserved. Privacy Policy • Powered by CultivateWP .

@@ -1,0 +1,137 @@
+Chocolate-Banana Protein Smoothie recipes
+=========================================
+
+Recipe Metadata
+---------------
+Recipe ID: ed03e08e96d386a2
+CSV row number: 42
+Recipe name: Chocolate-Banana Protein Smoothie recipes
+Source: livesimply.me
+URL: http://livesimply.me/2014/06/15/chocolate-banana-protein-smoothie/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0034248a66bd1c0b4ae27e3ce30b57e4d476d57f9908a9bd813673f1f680e506/21112585.jpeg
+Servings: 4
+Calories: 788.14
+Diet labels: Balanced, Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Gluten, Wheat, Sulfites
+Cuisine type: american
+Meal type: breakfast
+Dish type: drinks
+
+Original CSV Fields
+-------------------
+recipe_name: Chocolate-Banana Protein Smoothie recipes
+source: livesimply.me
+url: http://livesimply.me/2014/06/15/chocolate-banana-protein-smoothie/
+servings: 4
+calories: 788.141
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0034248a66bd1c0b4ae27e3ce30b57e4d476d57f9908a9bd813673f1f680e506/21112585.jpeg
+diet_labels: ["Balanced","Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Gluten","Wheat","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["drinks"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Chocolate-Banana Protein Smoothie
+
+Description: Smoothies aren’t the first thing that come to mind when I think of a “dad meal”, but this smoothie is here to change all the stigma. Made with hearty peanut butter, cocoa powder, creamy yogurt, ripe bananas, and the secret ingredient- Bob’s Red Mill Scottish Oatmeal– this is a smoothie worthy of Dad.
+
+Recipe category: ['Drinks']
+
+Recipe cuisine: ['American']
+
+Yield: ['1', '1 Person']
+
+Prep time: PT5M
+
+Total time: PT5M
+
+Ingredients:
+- 1/2 cup plain whole milk yogurt
+- 2 bananas (ripe)
+- 2 TB unsweetened cocoa powder
+- 2 TB peanut butter (the only ingredients should be: peanuts and sometimes salt)
+- 1/4 cup scottish oatmeal
+- 2 TB honey
+- 1 tsp pure vanilla extract
+- 1 cup ice (crushed)
+
+Instructions:
+1. The night before (or at least four hours before) soak the Bob's Red Mill Scottish Oats in 1/4 cup warm water. Allow the oats to sit on the counter. Before making the smoothie, strain any extra water from the oats.
+2. In a high-speed blender combine the Bob's Red Mill Scottish Oats, yogurt, bananas, cocoa powder, peanut butter, honey, and vanilla extract. Blend together. Add the ice, blend until creamy and thick.
+
+Visible page text:
+Chocolate Banana Protein Smoothie
+By Kristin Marr • Posted: June 15, 2014 • Updated: January 29, 2022
+5 from 3 votes
+This post may contain affiliate links. Please read our disclosure policy .
+Want to Save This Recipe? Enter your email & I’ll send it straight to your inbox. And you’ll get new recipes & tips each week.
+Want to Save This Recipe?
+Enter your email & I’ll send it straight to your inbox. And you’ll get new recipes & tips each week.
+Certain foods bring back nostalgic childhood memories.
+Growing up, Friday night always equaled a large cheese delivery pizza. Each slice was enjoyed watching an episode of Full House . Who’s with me?
+Every Sunday, pot-roast was carefully cooked and served on my great-grandmother’s china. Carrots and unusually-large potatoes drowning in pot-roast drippings sat next to the shredded meat.
+School mornings were busy and breakfast had to be quick. Oatmeal and hard-boiled eggs ritually graced our kitchen counter. The steamy oatmeal topped with brown sugar crystals and an indulgent amount of milk was served in small, white bowls. The eggs were sprinkled with table salt and cracked pepper.
+My mom spent the weekends working. My dad and I spent our days at Home Depot and playing in the garage. Weekends with my dad also meant peanut butter, white sugar, and bananas! No baking was involved, just big ol’ spoons covered in chunky peanut butter topped with white sugar. Bananas always followed the no-bake peanut butter treat.
+My childhood memories shape my food choices as an adult.
+Pizza night has carried through to adulthood, surviving: overseas living, vacations, and babies. Today, our pizza consists of homemade dough, my simple sauce, and lots of cheese and toppings.
+The thought of a pot-roast cooking for hours in a broth-splattered crock-pot still makes me giddy. In honor of my mom, pot-roast is still served on china with drowning carrots and potatoes.
+Oatmeal and peanut butter still draw me in!
+The warm creaminess of oatmeal flavored with a bit of golden honey and fruit, covered in raw milk puts a huge smile on my face.
+Peanut butter is always close to my heart and taste-buds. I even blogged about the very act of making peanut butter and how to make the perfect homemade peanut butter cookies . Thanks Dad for the sweet memories!
+On Father’s Day peanut butter must be served! In honor of you, Dad!
+Smoothies aren’t the first thing that come to mind when I think of a “dad meal”, but this smoothie is here to change all the stigma. Made with hearty peanut butter, cocoa powder, creamy yogurt, ripe bananas, and the secret ingredient- Bob’s Red Mill Scottish Oatmeal – this is a smoothie worthy of Dad.
+I realize adding oatmeal to a smoothie isn’t conventional, but conventional doesn’t always equal delicious. This recipe calls for Scottish Oatmeal, often called “The Original Oatmeal” , as the oats are ground vs. rolled or cut. The oats are very fine, almost like flour, making a blend-able solution to adding oatmeal and protein to smoothies.
+Let’s make Dad a smoothie and celebrate Dad the right way, with a Chocolate Banana Peanut Butter Smoothie. Happy Father’s Day, Dad! I raise this smoothie to you.
+Chocolate-Banana Protein Smoothie
+Ingredients
+1/2 cup plain whole milk yogurt
+2 bananas ripe
+2 TB unsweetened cocoa powder
+2 TB peanut butter the only ingredients should be: peanuts and sometimes salt
+1/4 cup scottish oatmeal
+2 TB honey
+1 tsp pure vanilla extract
+1 cup ice crushed
+Instructions
+The night before (or at least four hours before) soak the Bob's Red Mill Scottish Oats in 1/4 cup warm water. Allow the oats to sit on the counter. Before making the smoothie, strain any extra water from the oats.
+In a high-speed blender combine the Bob's Red Mill Scottish Oats , yogurt, bananas, cocoa powder, peanut butter, honey, and vanilla extract. Blend together. Add the ice, blend until creamy and thick.
+Nutrition
+Disclosure: This post is sponsored by Bob’s Red Mill . The opinions and photos expressed are completely my own. As a blogger, I’m privileged to partner with companies making a difference in the natural and real food world. I only endorse companies and products I 100% love and believe in.
+Kristin is the creator and editor-in-chief of Live Simply. Kristin is married to her high school sweetheart, Dustin, and is the mom to two kids and two free-roam (litterbox-trained) bunnies, Leo and Estela. Kristin started Live Simply in 2013 to share her passion for real food and natural living.
+Leave a Reply Cancel reply
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+12 Comments
+This is my new favorite smoothie!!!! So yummy and fast to make! Thank you! 🙂 Reply Yay, so glad you’re enjoying it!! Reply
+This is my new favorite smoothie!!!! So yummy and fast to make! Thank you! 🙂
+Yay, so glad you’re enjoying it!! Reply
+Yay, so glad you’re enjoying it!!
+This smoothie recipe sounds absolutely amazing! I love raw cacao! I have an amazing raw cacao based product with only four other all natural heart healthy ingredients, it’s called MitoXcell, that I love putting into different recipes that people have with raw cacao! But I can’t wait to make this chocolate banana protein smoothie so that I can taste its goodness! Reply Thanks, Jordan. Enjoy!! Reply
+This smoothie recipe sounds absolutely amazing! I love raw cacao! I have an amazing raw cacao based product with only four other all natural heart healthy ingredients, it’s called MitoXcell, that I love putting into different recipes that people have with raw cacao! But I can’t wait to make this chocolate banana protein smoothie so that I can taste its goodness!
+Thanks, Jordan. Enjoy!! Reply
+Thanks, Jordan. Enjoy!!
+Would I be able to use rolled oats and grind them in my food processor first? Reply Hey Jessica, I’m not sure as I don’t have any experience grinding oats for a smoothie. I think you will probably need to reduce the amount of oats called for. Let me know how it goes. Reply
+Would I be able to use rolled oats and grind them in my food processor first?
+Hey Jessica, I’m not sure as I don’t have any experience grinding oats for a smoothie. I think you will probably need to reduce the amount of oats called for. Let me know how it goes. Reply
+Hey Jessica, I’m not sure as I don’t have any experience grinding oats for a smoothie. I think you will probably need to reduce the amount of oats called for. Let me know how it goes.
+I love your blog and your recipes look amazing! Reply Thank you so much, Michelle :). Reply
+I love your blog and your recipes look amazing!
+Thank you so much, Michelle :). Reply
+Thank you so much, Michelle :).
+I happened on this and made it without the oatmeal subbing a serving of whey protein powder instead. It was delicious! Reply Hey Shirley, Yummy! Thanks for stopping by to share! Reply
+I happened on this and made it without the oatmeal subbing a serving of whey protein powder instead. It was delicious!
+Hey Shirley, Yummy! Thanks for stopping by to share! Reply
+Hey Shirley, Yummy! Thanks for stopping by to share!
+What a great idea to use oatmeal in the smoothie! Makes for a good breakfast idea. Reply Thanks, No Filter Magazine. It’s a great way to add nutrients in the morning. Reply
+What a great idea to use oatmeal in the smoothie! Makes for a good breakfast idea.
+Thanks, No Filter Magazine. It’s a great way to add nutrients in the morning. Reply
+Thanks, No Filter Magazine. It’s a great way to add nutrients in the morning.
+ABOUT CONTACT

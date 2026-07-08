@@ -1,0 +1,83 @@
+Three Can Casserole
+===================
+
+Recipe Metadata
+---------------
+Recipe ID: 442958e25fa221ac
+CSV row number: 16
+Recipe name: Three Can Casserole
+Source: food.com
+URL: http://www.food.com/recipe/three-can-casserole-104316
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0013b4f667af81f284edeababfd049c16b9b828fdb5989e38093fb6947d15835/21129627.jpg
+Servings: 4
+Calories: 396.54
+Diet labels: Balanced
+Health labels: Vegetarian, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Three Can Casserole
+source: food.com
+url: http://www.food.com/recipe/three-can-casserole-104316
+servings: 4
+calories: 396.5389547109376
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0013b4f667af81f284edeababfd049c16b9b828fdb5989e38093fb6947d15835/21129627.jpg
+diet_labels: ["Balanced"]
+health_labels: ["Vegetarian","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Three Can Casserole
+
+Description: It does not get much simpler than this. By using canned ingredients, the Green Bean Casserole can also be made in an RV Kitchen, or even in a camp site Dutch Oven.
+
+Recipe category: Vegetable
+
+Yield: 4 serving(s)
+
+Prep time: PT5M
+
+Cook time: PT35M
+
+Total time: PT40M
+
+Ingredients:
+- 1 (14 1/2 ounce) can green beans, drained
+- 1 (4 ounce) can mushrooms, and the liquid in the can
+- 1 (10 3/4 ounce) can cream of mushroom soup (DO NOT dilute)
+
+Instructions:
+1. Drain the green beans, put everything into a casserole dish and bake covered in a 350&deg;F oven for 35 minutes.
+2. Add salt and or pepper to taste (optional).
+
+Visible page text:
+Three Can Casserole
+ingredients
+1 (14 1/2 ounce) can green beans , drained
+1 (4 ounce) can mushrooms , and the liquid in the can
+1 (10 3/4 ounce) can cream of mushroom soup (DO NOT dilute)
+directions
+Drain the green beans, put everything into a casserole dish and bake covered in a 350°F oven for 35 minutes.
+Add salt and or pepper to taste (optional).
+Questions & Replies
+Reviews
+Super Easy and Super Tasty. I think next time I will leave the cover off the last few mins. of cooking. I love it and will cook this recipe over and over. Thank You .. Hugs Braunda Reply
+RECIPE SUBMITTED BY
+105 Followers
+170 Recipes
+2 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

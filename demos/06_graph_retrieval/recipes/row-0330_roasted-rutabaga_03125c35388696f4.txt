@@ -1,0 +1,109 @@
+Roasted Rutabaga
+================
+
+Recipe Metadata
+---------------
+Recipe ID: 03125c35388696f4
+CSV row number: 330
+Recipe name: Roasted Rutabaga
+Source: Allrecipes
+URL: https://www.allrecipes.com/recipe/278188/roasted-rutabaga
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02126a6c2905e743aec9231898d900a840c4c5abfe5ba0ed7413d39ace3669a8/21122811.jpg
+Servings: 4
+Calories: 398.82
+Diet labels: none listed
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mediterranean
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Roasted Rutabaga
+source: Allrecipes
+url: https://www.allrecipes.com/recipe/278188/roasted-rutabaga
+servings: 4
+calories: 398.8242500000001
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02126a6c2905e743aec9231898d900a840c4c5abfe5ba0ed7413d39ace3669a8/21122811.jpg
+diet_labels: []
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mediterranean"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Roasted Rutabaga
+
+Description: Rutabaga chunks are drizzled with oil, coated in a tasty spice blend, and roasted to golden perfection in this simple recipe, delivering a delightfully sweet and savory taste.
+
+Recipe category: ['Dinner', 'Side Dish']
+
+Yield: ['4', '4 servings']
+
+Prep time: PT15M
+
+Cook time: PT40M
+
+Total time: PT55M
+
+Ingredients:
+- 1 rutabaga, peeled and cut into 1/2-inch cubes
+- 2 tablespoons olive oil, or more to taste
+- 2 teaspoons kosher salt
+- 1 teaspoon white sugar
+- 0.25 teaspoon dried basil, or to taste
+- 0.25 teaspoon dried oregano, or to taste
+
+Instructions:
+1. Place a rack in the center of the oven and preheat to 400 degrees F (200 degrees C).
+2. Place rutabaga in a large resealable plastic bag and drizzle olive oil over it. Seal the bag tightly and shake until rutabaga is nicely covered with oil. Open the bag and add salt, sugar, basil, and oregano. Seal the bag again and shake gently until spices are evenly distributed. Transfer rutabaga to a nonstick baking sheet.
+3. Roast in the preheated oven until tender and golden, stirring halfway through, about 40 minutes.
+
+Visible page text:
+Recipes
+Side Dish
+Vegetables
+Roasted Vegetable Recipes
+Roasted Rutabaga
+This is a new recipe I discovered this past Thanksgiving. We wanted to try a a new vegetable. I have to admit rutabaga, or yellow turnip as it is sometimes called, was something I wasn't totally wild about trying, but it turned out great. I love it now! Definitely a repeat!
+Ingredients
+This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 4 servings
+1 rutabaga, peeled and cut into 1/2-inch cubes
+2 tablespoons olive oil, or more to taste
+2 teaspoons kosher salt
+1 teaspoon white sugar
+¼ teaspoon dried basil, or to taste
+¼ teaspoon dried oregano, or to taste
+Directions
+Place a rack in the center of the oven and preheat to 400 degrees F (200 degrees C).
+Place rutabaga in a large resealable plastic bag and drizzle olive oil over it. Seal the bag tightly and shake until rutabaga is nicely covered with oil. Open the bag and add salt, sugar, basil, and oregano. Seal the bag again and shake gently until spices are evenly distributed. Transfer rutabaga to a nonstick baking sheet.
+Roast in the preheated oven until tender and golden, stirring halfway through, about 40 minutes.
+Tips
+Cook's Note:
+Normal salt is fine, kosher salt is not needed!
+Nutrition Facts (per serving)
+* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs.
+** Nutrient information is not available for all ingredients. Amount is based on available nutrient data.
+(-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
+Photos of Roasted Rutabaga
+1
+Most-Saved Recipes Like This
+Roasted Brussels Sprouts 4,290 Ratings 45 mins Save
+Roasted Vegetables 2,587 Ratings 1 hr Save
+Simple Roasted Butternut Squash 1,391 Ratings 40 mins Save
+Roasted Beets 'n Sweets 794 Ratings 1 hr 15 mins Save
+Roasted Pumpkin Seeds 819 Ratings 50 mins Save
+Oven Roasted Sweet Potatoes 322 Ratings 40 mins Save
+Savory Roasted Root Vegetables 169 Ratings 1 hr 15 mins Save
+Roasted Duck 381 Ratings 2 hrs 10 mins Save
+Roasted Winter Root Vegetables 37 Ratings 1 hr 30 mins Save
+Rosemary Roasted Butternut Squash 155 Ratings 1 hr 5 mins Save
+You’ll Also Love

@@ -1,0 +1,106 @@
+Linguine With Honey Sauced Prawns
+=================================
+
+Recipe Metadata
+---------------
+Recipe ID: 7d2cfc4a332f740d
+CSV row number: 326
+Recipe name: Linguine With Honey Sauced Prawns
+Source: food.com
+URL: http://www.food.com/recipe/linguine-with-honey-sauced-prawns-513928
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0208ebb3bcbab10817caff24ed256bd34a4e4b22f4c63b2abcb6c4b65ec2b25f/21085128.jpg
+Servings: 2
+Calories: 1281.01
+Diet labels: Low-Fat
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free
+Allergy cautions: Sulfites
+Cuisine type: south east asian
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Linguine With Honey Sauced Prawns
+source: food.com
+url: http://www.food.com/recipe/linguine-with-honey-sauced-prawns-513928
+servings: 2
+calories: 1281.012825200016
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/0208ebb3bcbab10817caff24ed256bd34a4e4b22f4c63b2abcb6c4b65ec2b25f/21085128.jpg
+diet_labels: ["Low-Fat"]
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["south east asian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Linguine With Honey Sauced Prawns
+
+Description: This is another recipe I found hanging around on a piece of paper...it's from the National Honey Board...hope you enjoy...you can replace the prawns with shrimp...that's what I did...
+
+Recipe category: One Dish Meal
+
+Yield: 2 serving(s)
+
+Prep time: PT15M
+
+Cook time: PT10M
+
+Total time: PT25M
+
+Ingredients:
+- 1/2 lb prawns, peeled and deveined
+- 1/4 cup carrot, julienne
+- 1/4 cup celery, sliced
+- 1/4 cup green onion, sliced diagonally
+- 1 1/2 garlic cloves, minced
+- 1 tablespoon olive oil
+- 1/4 cup water
+- 2 tablespoons honey
+- 2 teaspoons salt
+- 1/8 teaspoon crushed red pepper flakes
+- 1/8 teaspoon dried rosemary leaves, crushed
+- 1/2 lb linguine, cooked and kept warm
+
+Instructions:
+1. Stir-fry prawns, carrots, celery, green onions and garlic in oil in large skillet over medium-high heat about 3 minutes or until prawns start to turn pink.
+2. Combine remaining ingredients except pasta in small bowl; mix well.
+3. Add to prawn mixture; stir-fry about 1 minute or until sauce thickens.
+4. Serve over pasta.
+
+Visible page text:
+Linguine With Honey Sauced Prawns
+ingredients
+1 ⁄ 2 lb prawns, peeled and deveined
+1 ⁄ 4 cup carrot , julienne
+1 ⁄ 4 cup celery , sliced
+1 ⁄ 4 cup green onion , sliced diagonally
+1 1 ⁄ 2 garlic cloves , minced
+1 tablespoon olive oil
+1 ⁄ 4 cup water
+2 tablespoons honey
+2 teaspoons salt
+1 ⁄ 8 teaspoon crushed red pepper flakes
+1 ⁄ 8 teaspoon dried rosemary leaves , crushed
+1 ⁄ 2 lb linguine , cooked and kept warm
+directions
+Stir-fry prawns, carrots, celery, green onions and garlic in oil in large skillet over medium-high heat about 3 minutes or until prawns start to turn pink.
+Combine remaining ingredients except pasta in small bowl; mix well.
+Add to prawn mixture; stir-fry about 1 minute or until sauce thickens.
+Serve over pasta.
+Questions & Replies
+Reviews
+Thank you for sharing this delicious recipe Teresa. We enjoyed this dish very much. The shrimp were perfectly cooked and the flavor was amazing. This is very quick and easy to make. I highly recommend this tasty treat. Made for Went To Market Tag game. 2017 Baby Kato Reply 1
+Ridiculously easy recipe which we both loved and highly recommended! I might have liked mine a little more spicy but DH said perfect as is! I hope you dont mind that I had to sub red pepper for the carrot, not realising that I had no carrots until I started preparations, the pepper was good and I will happily use carrots another time! Thank you for sharing a very special recipe that can easily be enjoyed any night of the week, made for PRMR tag game! Karen Elizabeth Reply 1
+RECIPE SUBMITTED BY
+73 Followers
+258 Recipes
+94 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

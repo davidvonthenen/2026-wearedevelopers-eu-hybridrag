@@ -1,0 +1,60 @@
+5-Minute Berry Nana Ice Cream. Vegan Recipe
+===========================================
+
+Recipe Metadata
+---------------
+Recipe ID: 5b167046829a89c6
+CSV row number: 280
+Recipe name: 5-Minute Berry Nana Ice Cream. Vegan Recipe
+Source: crazy-cucumber.com
+URL: http://www.crazy-cucumber.com/5-minute-berry-nana-ice-cream-vegan-recipe/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01c379369f5424f24a861e937a37bdff9b66335ef5911207e06db8e5f01dead9/21094655.jpg
+Servings: 4
+Calories: 550.56
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: snack
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: 5-Minute Berry Nana Ice Cream. Vegan Recipe
+source: crazy-cucumber.com
+url: http://www.crazy-cucumber.com/5-minute-berry-nana-ice-cream-vegan-recipe/
+servings: 4
+calories: 550.56
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01c379369f5424f24a861e937a37bdff9b66335ef5911207e06db8e5f01dead9/21094655.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["snack"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+The long-awaited strawberry season is here!
+Enjoy this light and creamy berry dessert. I love to eat this ice cream for breakfast, lunch or dinner.
+The natural sweetness of banana is a perfect match with berries. Play around the recipe, try adding more berries to get a sorbet-like texture. Or sprinkle over ice cream bowl with your favorite granola or nuts for more nutritional value.
+[embedyt] http://www.youtube.com/watch?v=yto2sCZHw1E[/embedyt]
+Ingredients
+2 Serves
+4 Ripe bananas cut into chunks
+1 Cup strawberry
+1/2 Cup raspberry (I use frozen)
+1 Tbsp rice syrup, optionally
+1/2 Teaspoon vanilla paste (or vanilla extract)
+Directions
+Place the banana chunks in the plastic container and cover well. Freeze for at least few hours, or overnight.
+Throw the berries, vanilla, and syrup into a high-speed blender and whizz until smooth. Add frozen bananas and blend until smooth, but do it quickly or ice cream will be too runny.
+Scoop ice cream into serving bowls then top with granola or nuts. You can also freeze it for about one hour or until solid. Enjoy!
+Comments are closed.
+Rustic Tomato Toast
+Aperol and Blood Orange Panna Cotta

@@ -1,0 +1,49 @@
+Tacos con Puerco
+================
+
+Recipe Metadata
+---------------
+Recipe ID: e21e6745ce5cca04
+CSV row number: 257
+Recipe name: Tacos con Puerco
+Source: BigOven
+URL: http://www.bigoven.com/recipe/Tacos-con-Puerco/159237
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/019c2e315c6bda42cf7b855d97ac62090b1a514bea1c8c2a3980d2b83fa4009f/21028430.jpg
+Servings: 4
+Calories: 1827.61
+Diet labels: High-Fiber
+Health labels: Dairy-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Eggs, Milk
+Cuisine type: mexican
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Tacos con Puerco
+source: BigOven
+url: http://www.bigoven.com/recipe/Tacos-con-Puerco/159237
+servings: 4
+calories: 1827.608922269151
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/019c2e315c6bda42cf7b855d97ac62090b1a514bea1c8c2a3980d2b83fa4009f/21028430.jpg
+diet_labels: ["High-Fiber"]
+health_labels: ["Dairy-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Eggs","Milk"]
+cuisine_type: ["mexican"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe not found.
+That recipe is not available on BigOven.com. It may have been deleted or marked private by its owner. Please visit https://www.bigoven.com and try searching again.
+That recipe is not available on BigOven.com. It may have been deleted or marked private by its owner. Please visit
+https://www.bigoven.com
+and try searching again.
+Add unlimited recipes. Remove ads. Custom folders. Find recipes for your diet.
+Try BigOven Pro Free

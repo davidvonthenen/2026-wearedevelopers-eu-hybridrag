@@ -1,0 +1,157 @@
+Creamy Instant Pot Mac and Cheese
+=================================
+
+Recipe Metadata
+---------------
+Recipe ID: 6ba77e24ad9d820f
+CSV row number: 423
+Recipe name: Creamy Instant Pot Mac and Cheese
+Source: familyfreshmeals.com
+URL: https://www.familyfreshmeals.com/2017/07/creamy-instant-pot-mac-and-cheese.html
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02b124f0fdeb2bcbd8b86563ef53955ce7fedf8a4ded849e85fb5bf409b32aa5/21060757.jpg
+Servings: 16
+Calories: 4356.60
+Diet labels: none listed
+Health labels: Vegetarian, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Creamy Instant Pot Mac and Cheese
+source: familyfreshmeals.com
+url: https://www.familyfreshmeals.com/2017/07/creamy-instant-pot-mac-and-cheese.html
+servings: 16
+calories: 4356.604123
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02b124f0fdeb2bcbd8b86563ef53955ce7fedf8a4ded849e85fb5bf409b32aa5/21060757.jpg
+diet_labels: []
+health_labels: ["Vegetarian","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Creamy Instant Pot Mac and Cheese
+
+Description: With this Creamy Instant Pot Mac and Cheese recipe, you can go from dry pasta to rich, cozy mac and cheese in just 10 minutes. That beats the box any day!
+
+Recipe category: ['Dinner']
+
+Recipe cuisine: ['Instant Pot', 'pasta']
+
+Yield: ['8']
+
+Prep time: PT1M
+
+Cook time: PT10M
+
+Total time: PT11M
+
+Ingredients:
+- 16 oz pasta
+- 3 tablespoons butter
+- 1 tsp dry mustard
+- 1/2 tsp garlic salt
+- 1/2 tsp salt
+- 4 cups water
+- 5 oz can evaporated milk
+- 3 cups shredded extra-sharp cheddar cheese
+- 1 cup shredded Monterey Jack
+- 1/4 cup shredded Parmesan cheese
+
+Instructions:
+1. Place the dry pasta, butter, garlic salt, salt, dry mustard and water into the IP cooker pot. Place the lid on the top and seal the toggle switch. Press manual (high) and timer for 4 minutes.
+2. When cooking time is complete, do a quick release and remove the lid when the pin drops.
+3. Keeping the pressure cooking on low heat (the Instant Pot will automatically go into this warm mode after cooking) Add the evaporated milk, and half the cheeses. Melt the cheeses by stirring, and when the first batch of cheese is melted, add the second half.
+4. Test for seasoning and add more salt (and pepper) if you prefer. Remove mac and cheese from heat source and let rest for about 5 mins to let the sauce thicken.
+
+Visible page text:
+Get ready for the best Instant Pot Mac and Cheese!
+Since I got my Instant Pot, I’ve discovered it’s really good for making comfort food – those warm, cozy dishes that used to take all day to cook. After using it for my favorite beef stew and for corned beef and cabbage , I decided it was time to put this thing to a real test. I wanted to use the Instant Pot to make the most classic comfort food of them all, mac and cheese.
+Well, I don’t mind telling you, this wasn’t that easy. I had to do a little tinkering to get the amounts and the timing just right. But at last, I finally came up with a version that delivers truly perfect mac and cheese: rich, creamy, and incredibly comforting.
+Email Me This Recipe!
+Need to save time? Have this article emailed straight to your inbox + sign up for all the latest recipes !
+The key turns out to be using a combination of different cheeses, plus milk and BUTTER. That way, all you have to do is cook the pasta with seasonings in the Instant Pot, let off the steam, and then stir in the rest of the ingredients. The heat of the pasta is enough to melt the cheeses and cream together into a perfect, creamy sauce in no time.
+With this Creamy Instant Pot Mac and Cheese, you can go from dry pasta to rich, cozy mac and cheese in just 10 minutes. That’s less time than it takes to mix up instant mac and cheese from a box – and this stuff is soooooo much better.
+Creamy Instant Pot Mac and Cheese
+Directions:
+Place the dry pasta, butter, garlic salt, salt, dry mustard and water into the IP cooker pot. Place the lid on the top and seal the toggle switch. Press manual (high) and timer for 4 minutes.
+When cooking time is complete, do a quick release and remove the lid when the pin drops.
+Keeping the pressure cooking on low heat (the Instant Pot will automatically go into this warm mode after cooking) Add the evaporated milk, and half the cheeses. Melt the cheeses by stirring, and when the first batch of cheese is melted, add the second half.
+Test for seasoning and add more salt (and pepper) if you prefer. Remove mac and cheese from heat source and let rest for about 5 mins to let the sauce thicken.
+(As an Amazon Associate I earn from qualifying purchases.)
+TOOLS USED TO MAKE THIS CREAMY INSTANT POT MAC AND CHEESE Instant Pot : This 6qt Instant Pot pressure cooker is always my go to! Measuring Cups and Spoons: Each cup’s “ml” and cup sizes have
+Email this recipe!
+Get this recipe emailed straight to your inbox!
+Ingredients 1x 2x 3x
+▢ 16 oz pasta
+▢ 3 tablespoons butter
+▢ 1 tsp dry mustard
+▢ 1/2 tsp garlic salt
+▢ 1/2 tsp salt
+▢ 4 cups water
+▢ 5 oz can evaporated milk
+▢ 3 cups shredded extra-sharp cheddar cheese
+▢ 1 cup shredded Monterey Jack
+▢ 1/4 cup shredded Parmesan cheese
+Instructions
+Nutrition
+Nutritional Disclaimer: Family Fresh Meals is not a dietician or nutritionist, and any nutritional information shared is only an estimate. We recommend running the ingredients through an online nutritional calculator if you need to verify any information.
+Did You Make This Recipe?
+Make sure to share it with me below!
+LOOKING FOR MORE INSTANT POT FAMILY MEALS?
+Instant Pot Pizza Pasta Recipe – my kids requests this every week!
+Instant Pot Taco Pasta – perfect for Taco Tuesday
+Instant Pot Corned Beef and Cabbage – not just for St. Patricks Day
+Instant Pot Honey Garlic Chicken – fan and family favorite!
+Instant Pot Goulash – a classic
+Post updated December 12, 2019
+Pinterest
+Facebook
+Email
+Leave a Reply Cancel reply
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+137 Comments
+Made this today my wife absolutely loved it…thank you very much Reply
+Made this today my wife absolutely loved it…thank you very much
+Have you tried doubling this recipe? If so, will it affect the cooking time of the pasta? Reply I have not tried doubling this in the IP yet. What size IP do you have? 6 qt I’d like to know what effect there is as well. I doubled it!! I added a bit more water to ensure I had covered the pasta sufficiently – maybe another cup – and then just made sure I doubled the rest of the ingredients. Kept the time to 4 minutes and added some already-cooked ground beef to the mix before adding the cheese. Turned out PERFECT (and was eaten by adults and kids alike). I doubled it as well and had no issues except the quick release sprayed a buttery mess all over my kitchen. Did you have that issue as well? I always cover the vent on top with a dishtowel when I’m doing quick release. That contains any spray and is much easier to clean up! This recipe is a great one. Quick,simple,and easy to add to.
+Have you tried doubling this recipe? If so, will it affect the cooking time of the pasta?
+I have not tried doubling this in the IP yet. What size IP do you have?
+6 qt
+I’d like to know what effect there is as well.
+I doubled it!! I added a bit more water to ensure I had covered the pasta sufficiently – maybe another cup – and then just made sure I doubled the rest of the ingredients. Kept the time to 4 minutes and added some already-cooked ground beef to the mix before adding the cheese. Turned out PERFECT (and was eaten by adults and kids alike).
+I doubled it as well and had no issues except the quick release sprayed a buttery mess all over my kitchen. Did you have that issue as well?
+I always cover the vent on top with a dishtowel when I’m doing quick release. That contains any spray and is much easier to clean up!
+This recipe is a great one. Quick,simple,and easy to add to.
+Do you know if this recipe will freeze well? I am making freezer meals for my son and DIL who are getting ready to have their first baby. Thx Reply
+Do you know if this recipe will freeze well? I am making freezer meals for my son and DIL who are getting ready to have their first baby. Thx
+Does this recipe freeze well? Reply
+Does this recipe freeze well?
+Quick question – what if you use whole milk vs. evaporated? Does it make a difference in the outcome? Reply I didn’t have the condensed Milk and used 1/2 & 1/2 tastes great. Very cheesy. I followed recipe with exception of the above and I added about 1c extra of water to cover pasta, didn’t have excess after cook. However like all other pasta I have cooked in the instant pot I used the slow release of 10 mins to ensure the cook. Pasta was perfect just slightly passed aldante.
+Quick question – what if you use whole milk vs. evaporated? Does it make a difference in the outcome?
+I didn’t have the condensed Milk and used 1/2 & 1/2 tastes great. Very cheesy. I followed recipe with exception of the above and I added about 1c extra of water to cover pasta, didn’t have excess after cook. However like all other pasta I have cooked in the instant pot I used the slow release of 10 mins to ensure the cook. Pasta was perfect just slightly passed aldante.
+Shop our cookbooks!
+Browse my collection of cookbooks available for immediate download! From Make Ahead Crockpot Freezer meals to Family Favorite Casseroles and more, or bundle them all together for 50% off discount !
+join the family!
+Subscribe to get the latest recipes delivered straight to your inbox!
+*your information will never be shared because that’s just not cool.
+Social Media
+let’s connect!
+New recipes +
+free meal plan!
+Terms & Conditions
+Disclosure
+Accessibility
+Cookies
+Family Fresh Meals is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites. Read full disclosure .
+join the family
+Subscribe for our latest family fresh recipes and get our free meal planning printable!

@@ -1,0 +1,85 @@
+Bananas Foster Nice Cream
+=========================
+
+Recipe Metadata
+---------------
+Recipe ID: 8ee6b70c24307890
+CSV row number: 278
+Recipe name: Bananas Foster Nice Cream
+Source: tastykitchen.com
+URL: https://tastykitchen.com/recipes/desserts/bananas-foster-nice-cream/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01bf6b86575e85f00880038a5c0bedf929428632a5ff310ff61ef36fb7a8ab48/21109328.jpg
+Servings: 4
+Calories: 363.62
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: breakfast
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Bananas Foster Nice Cream
+source: tastykitchen.com
+url: https://tastykitchen.com/recipes/desserts/bananas-foster-nice-cream/
+servings: 4
+calories: 363.6191666666666
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01bf6b86575e85f00880038a5c0bedf929428632a5ff310ff61ef36fb7a8ab48/21109328.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["breakfast"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Bananas Foster Nice Cream
+Print
+Leave a comment
+write a review
+Print Options
+Description
+Easy, healthy ice cream made with frozen bananas, milk, caramel, vanilla extract, and cinnamon to make this a delicious treat.
+Ingredients
+3 Frozen Ripe Bananas
+¼ cups Milk (regular, Almond, Coconut, Etc.)
+⅓ cups Caramel
+¼ teaspoons Ground Cinnamon
+¼ teaspoons Pure Vanilla Extract
+1 pinch Salt
+Preparation
+In a blender or food processor, add all ingredients and blend until smooth. Pour mixture into a 9×5 inch baking pan and freeze until frozen (about 1 hour).
+Remove for freezer and scoop up for deliciousness! Add toppings if desired.
+More Recipes from Megan P
+Creamy Chicken Rice Soup
+Simple Oven Roasted Potatoes
+Find Megan P elsewhere on the web.
+Website
+Facebook
+No Comments
+Leave a Comment!
+You must be logged in to post a comment.
+No Reviews
+You must be logged in to post a review.
+Food Gifts
+View Recipe
+Slow Cooker Season!
+Related Recipes
+Prep: 25 mins Cook: 45 mins
+Serves: 6 Level: Easy
+Share f a e
+Prep: 1 hr Cook: 30 mins
+Serves: 12 Level: Intermediate
+Prep: 30 mins Cook: 30 mins
+Serves: 16 Level: Easy
+Prep: 20 mins Cook: 21 mins
+Serves: 24 Level: Intermediate
+Prep: 20 mins Cook: 20 mins
+Serves: 12 Level: Easy

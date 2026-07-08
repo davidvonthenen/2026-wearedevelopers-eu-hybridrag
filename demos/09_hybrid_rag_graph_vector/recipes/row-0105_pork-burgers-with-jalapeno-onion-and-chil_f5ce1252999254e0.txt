@@ -1,0 +1,52 @@
+Pork Burgers with Jalapeno, Onion and Chil
+==========================================
+
+Recipe Metadata
+---------------
+Recipe ID: f5ce1252999254e0
+CSV row number: 105
+Recipe name: Pork Burgers with Jalapeno, Onion and Chil
+Source: thesaucysoutherner.com
+URL: http://www.thesaucysoutherner.com/pork-burgers-with-jalapeno-onion-chili-lime-cookoutweek-giveaway/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/009602bf5b2535485e02b6518b21dc8575942f326737845e70724bba381ab6a0/21113847.jpg
+Servings: 10
+Calories: 2433.97
+Diet labels: Low-Carb
+Health labels: Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: none listed
+Cuisine type: mexican
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Pork Burgers with Jalapeno, Onion and Chil
+source: thesaucysoutherner.com
+url: http://www.thesaucysoutherner.com/pork-burgers-with-jalapeno-onion-chili-lime-cookoutweek-giveaway/
+servings: 10
+calories: 2433.972366199924
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/009602bf5b2535485e02b6518b21dc8575942f326737845e70724bba381ab6a0/21113847.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: []
+cuisine_type: ["mexican"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Affordable, Reliable Web Hosting Solutions
+Help Center
+Contact Us
+About Us
+Affiliates
+Terms
+Affordable, Reliable
+Web Hosting Solutions
+Web Hosting - courtesy of www.bluehost.com
+©2012 Bluehost.com. All rights reserved.

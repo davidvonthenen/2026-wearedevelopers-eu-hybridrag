@@ -1,0 +1,149 @@
+Slow Cooker Apple-and-Pear Sauce
+================================
+
+Recipe Metadata
+---------------
+Recipe ID: 2ebd39d3dbb7aa2d
+CSV row number: 14
+Recipe name: Slow Cooker Apple-and-Pear Sauce
+Source: Real Simple
+URL: https://www.realsimple.com/food-recipes/browse-all-recipes/slow-cooker-apple-and-pear-sauce
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/001080cabc9607d70b6f6ad9963be2fd14531e837809d02b61a0d39bda118c3c/21036324.jpeg
+Servings: 22
+Calories: 1628.94
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegan, Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: french
+Meal type: lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Slow Cooker Apple-and-Pear Sauce
+source: Real Simple
+url: https://www.realsimple.com/food-recipes/browse-all-recipes/slow-cooker-apple-and-pear-sauce
+servings: 22
+calories: 1628.935866600001
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/001080cabc9607d70b6f6ad9963be2fd14531e837809d02b61a0d39bda118c3c/21036324.jpeg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["french"]
+meal_type: ["lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Food
+Recipes
+Try our simple, easy-to-follow recipes for everything you love to eat and all the foods you want to try. We have recipes for tried-and-true classics, trendy meal ideas, cocktails, and more—amaretto sour or mai tai, anyone? With step-by-step recipes and ingredient lists, you'll be cooking up a tasty storm in no time.
+Explore Food
+Tired of losing recipes? Save your favorites on MyRecipes for free.
+How to Blend a Healthy, Great-Tasting Smoothie in Just 5 Steps
+Strawberry Coffee Cake
+2 hrs 30 mins
+Burrata Toast With Scallion-Herb Sauce
+20 mins
+Grapefruit Gin Spritz
+10 mins
+Whole Lemon Drop Martini
+Lemony Golden Beet Hummus
+1 hr 25 mins
+Oven-Baked Chicken Piccata With Roasted Lemons
+1 hr
+Lemon Shrimp With White Beans and Olives
+55 mins
+Springy Orzo Salad With Lemon Vinaigrette
+35 mins
+Lemon Almond Icebox Cake
+10 hrs 40 mins
+Crispy Pork Cutlets With Caesar Salad
+30 mins
+Cheeseburger Tostadas With Tomato-Pickle Relish
+Sweet and Sour Tofu With Pineapple-Ginger Glaze
+Chicken Ramen Salad With Peanut Dressing
+Harissa Butter Mussels With Fries and Garlic Aioli
+40 mins
+This High-Protein, High-Fiber Chicken Dinner Is So Easy, It's Always in My Rotation
+7 Nostalgic Foods That Are Suddenly Cool Again, According to Chefs
+Pomona Cocktail
+Chocolate-Raspberry Mousse
+Chickpea and Chorizo Toasts
+25 mins
+Sheet Pan Pomegranate Chicken With Broccoli
+Pesto, Spinach, and Ricotta Pizza
+45 mins
+Slow Cooker Irish Beef Pot Roast
+5 hrs 35 mins
+Creamy Pasta With Salmon and Peas
+Roasted Beet and Carrot Salad With Burrata
+1 hr 10 mins
+Steak Fajita Salad With Cilantro-Lime Dressing
+2 hrs 50 mins
+Roasted Fingerling Potato and Radicchio Salad With Jammy Eggs
+Winter Panzanella With Roasted Chicken and Squash
+Endive and Tuna Salad With White Beans
+Sausage, Apple, and Cabbage Salad With Cider-Mustard Vinaigrette
+Garlic Lover's Dip
+1 hr 15 mins
+This High-Protein, High-Fiber Nacho Bake Is So Easy—and Perfect for Game Day
+This High-Protein, High-Fiber Pasta Dish Is So Easy and Cozy, I Make It All Winter Long
+Pappardelle With Slow Cooker Beef Ragu
+4 hrs 45 mins
+Skillet Chicken Thighs With Kale and Capers
+Pork Tenderloin Gyros With Feta-Ranch Dressing
+Polenta With Buttery Roasted Mushrooms
+Pan-Fried Fish Tacos
+Curried Cauliflower Bowls With Tahini Sauce
+Autumn Veggie Casserole
+2 hrs 45 mins
+Charred Poblano Soup With Toasted Tofu
+Tomato-Braised Butter Beans and Greens
+Air-Fryer “Stir-Fry” With Beef and Veggies
+Spanakopita-Stuffed Spaghetti Squash
+1 hr 30 mins
+Miso-Buttered Green Beans With Garlic and Panko
+Potato and Leek Gratin
+2 hrs
+Roast Chickens With Shallots and Grapes
+2 hrs 10 mins
+Green Salad With Caper Vinaigrette and Parmesan
+15 mins
+Root Beer-Braised Brisket
+10 hrs
+Squash Galette With Brown Butter Walnuts and Sage
+3 hrs 50 mins
+Our Food Director Ranks Her Top 10 Favorite Recipes of the Year
+Slow-Roasted Salmon With Pomegranate-Orange Gremolata
+Eggnog Cheesecake
+9 hrs 45 mins
+5 Easy, Festive Martinis for All Your Holiday Celebrations
+Rosé Martini
+5 mins
+Loch Ness Martini
+Olive-Oil-Washed Martini
+15 hrs
+Solstice Sprig Martini
+Turkish Coffee Martini
+Chocolate Peppermint Shortbread
+2 hrs 40 mins
+Marbled Cookies
+5 hrs 45 mins
+Cocoa and Coffee Palmiers
+Chewy Chocolate, Date, and Pecan Bars
+Cooking Tips & Techniques
+Recipe Collections
+Kitchen Tools & Products
+Ingredients Guide
+Shopping and Storing
+Drinks and Cocktails
+Newsletter Sign Up
+This website uses tracking technologies to enable our website functionalities, to enhance user experience or to analyze performance and traffic. We may also share or sell information about your use of our site with our social media, advertising, and analytics partners. This allows us to perform targeted advertising and to select ads and content that will be more relevant to you. Below you can Accept Default Settings, Reject All trackers, or exercise your right to opt -in or -out of the sale of personal data, targeted advertising, profiling, and the processing of sensitive data by clicking on “Manage Your Privacy Choices.” For more details on the data we process and how to exercise your rights, see our Privacy Policy
+Opt out of sale of personal data and Targeted Advertising
+Accept All Cookies

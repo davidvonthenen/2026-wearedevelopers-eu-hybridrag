@@ -1,0 +1,95 @@
+Eating Well's Sweet Garlic " Mayonnaise"
+========================================
+
+Recipe Metadata
+---------------
+Recipe ID: b17a53082beca6c0
+CSV row number: 448
+Recipe name: Eating Well's Sweet Garlic " Mayonnaise"
+Source: food.com
+URL: http://www.food.com/recipe/eating-wells-sweet-garlic-mayonnaise-328837
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02e0f20553251d56beebd1bcd8d7092d0929d4e6590f17db31495419474b8990/21102152.jpg
+Servings: 6
+Calories: 2017.33
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Vegan, Vegetarian, Paleo, Dairy-Free, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner, snack
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Eating Well's Sweet Garlic " Mayonnaise"
+source: food.com
+url: http://www.food.com/recipe/eating-wells-sweet-garlic-mayonnaise-328837
+servings: 6
+calories: 2017.32892
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/02e0f20553251d56beebd1bcd8d7092d0929d4e6590f17db31495419474b8990/21102152.jpg
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Paleo","Dairy-Free","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner","snack"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Eating Well's Sweet Garlic &quot; Mayonnaise&quot;
+
+Description: From the original Eating Well magazine. This recipe is from 1990. I wanted to post it here so I don't lose it.
+This sauce is thick and creamy and marvelous on vegetables or meats. It also makes a tasty sandwich spread. Cook time is actually processing in a blender.
+
+Recipe category: Lactose Free
+
+Yield: 1 1/2 cups, 6 serving(s)
+
+Prep time: PT5M
+
+Cook time: PT2M
+
+Total time: PT7M
+
+Ingredients:
+- 1/2 cup eating well's sweet garlic paste
+- 1 cup olive oil
+- salt and pepper
+- lemon juice (optional)
+- Dijon mustard (optional)
+
+Instructions:
+1. Place garlic puree in a blender. With the motor running, gradually drizzle in the oil in a very fine stream.
+2. When the mixture is fully combined, add salt and pepper to taste.
+3. Add lemon juice and/or Dijon mustard to taste, depending on what you plan to use the sauce for.
+4. Keeps in the refrigerator for a week.
+
+Visible page text:
+Eating Well's Sweet Garlic " Mayonnaise"
+ingredients
+1 ⁄ 2 cup eating well's sweet garlic paste
+1 cup olive oil
+salt and pepper
+lemon juice (optional)
+Dijon mustard (optional)
+directions
+Place garlic puree in a blender. With the motor running, gradually drizzle in the oil in a very fine stream.
+When the mixture is fully combined, add salt and pepper to taste.
+Add lemon juice and/or Dijon mustard to taste, depending on what you plan to use the sauce for.
+Keeps in the refrigerator for a week.
+Questions & Replies
+Reviews
+Greetings from Portugal, as a portuguese, I love my garlic, I even grow my own in the back yard. This truelly is fabulous, it goes pretty well with just about anything. This is a keeper in my book, will definitly make it again.
+Thank you soooo much for posting and sharing with all of us. Mia 3 Reply
+FABULOUS! Easy to make and very tasty! I used a local garlic paste and added a few minced wild garlic tips to the sauce. Eaten with grilled chicken the first time and then spread on a toastie the second time. Great recipe thanks. Made for the Aussie/Kiwi Recipe Swap #26 - merci encore. FT:-) French Tart Reply
+Oh yes! Where has this recipe been all my life???? I love "Habib's Garlic Sauce" that we get from a little place in Bankstown and I've been trying to reproduce it to no avail. This comes close. I added a little lemon and salt and that was all, and served on some marinated Turkish chicken kebabs. The leftovers will not last long! Chickee Reply
+RECIPE SUBMITTED BY
+5 Followers
+52 Recipes
+5 Tweaks
+YOU'LL ALSO LOVE
+Find More Recipes

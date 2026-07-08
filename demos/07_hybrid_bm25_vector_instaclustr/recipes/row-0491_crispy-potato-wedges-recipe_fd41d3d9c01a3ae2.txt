@@ -1,0 +1,145 @@
+Crispy Potato Wedges Recipe
+===========================
+
+Recipe Metadata
+---------------
+Recipe ID: fd41d3d9c01a3ae2
+CSV row number: 491
+Recipe name: Crispy Potato Wedges Recipe
+Source: recipetips.com
+URL: https://recipetips.com/recipe-cards/t--153495/crispy-potato-wedges.asp
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/033332a2c6b7f24c418716078c5a9bee816b608e0b8bfcb7c38de709dfade3a7/21037318.jpg
+Servings: 6
+Calories: 1431.09
+Diet labels: none listed
+Health labels: Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: starter
+
+Original CSV Fields
+-------------------
+recipe_name: Crispy Potato Wedges Recipe
+source: recipetips.com
+url: https://recipetips.com/recipe-cards/t--153495/crispy-potato-wedges.asp
+servings: 6
+calories: 1431.09075
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/033332a2c6b7f24c418716078c5a9bee816b608e0b8bfcb7c38de709dfade3a7/21037318.jpg
+diet_labels: []
+health_labels: ["Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["starter"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Crispy Potato Wedges Recipe
+To Recipe Box
+To Cookbook
+To Meal Plan/Menu
+To Grocery List
+Crispy Potato Wedges Recipe Reviews
+crispy potato wedges
+Recipes
+|
+Tips & Advice
+Glossary
+Videos
+Community
+Seasonal
+My Recipe Box
+Join Now
+Sign In
+Loading
+Advanced Search
++
+Larger Image
+Read Reviews
+(1)
+Provided By
+RecipeTips
+A tasty steak fry that is a great side to any meat. Flavored to perfection with a steak seasoning an oil.
+Share this!
+Save ▼
+Add to Grocery List
+Rate & Review
+Email
+Print
+:
+Average of
+5.00
+out of
+5
+stars
+Ratings (
+1
+)
+Rate It!
+Reviews (
+Add A Review Now!
+Comments (0)
+Comment on this
+Reviewed By
+Swanny
+"Simple side for our grilled steak."
+More Similar Recipes
+American Recipes
+Creamed Peas and Potatoes
+Cheesy Potato Casserole
+Red Potato Salad
+Potato Recipes
+Layered Potato Salad
+Potato Roesti or Rosti
+Slow Cooker Potatoes
+Spinach and Potato Latkes
+Quick and Easy Recipes
+Red Potatoes with Purslane
+Hashbrown Casserole
+Slow Cooker Creamy Scalloped Potatoes and Ham
+Golden Scalloped Potatoes
+Roasting Recipes
+Slow Cooker Scalloped Potatoes
+Buffet Potatoes
+Scalloped Potatoes
+Potato Side Dish Recipes
+Sour Cream Potatoes
+Related Glossary Terms
+klondike rose potato
+sweet potato soup
+carrot and sweet potato soup
+chicken broccoli cheese and potato soup
+Follow Us!
+Charts
+Tips
+Beef Cooking Times
+Chicken Cooking Times
+Cooking Temperature and Time
+Food Substitutions
+Ham Cooking Times
+How Much To Buy
+Lamb Cooking Times
+Pork Cooking Times
+Turkey Cooking Times
+Popular Recipe Pages
+Recipe Search
+Recipes A to Z
+Popular Recipes
+Our Newest Recipes
+Cooking Tips Index
+Advertisement
+Mobile Site |
+Contact Us |
+Site Index |
+Promotions |
+Terms of Use | Privacy Policy | Advertise | Licensing
+Reproduction in whole or in part without written permission is strictly prohibited.
+© Copyright
+2026
+Tecstra Systems, All Rights Reserved, RecipeTips.com

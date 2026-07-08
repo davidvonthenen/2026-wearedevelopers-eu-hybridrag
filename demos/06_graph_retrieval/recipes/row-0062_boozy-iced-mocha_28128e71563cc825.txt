@@ -1,0 +1,96 @@
+Boozy Iced Mocha
+================
+
+Recipe Metadata
+---------------
+Recipe ID: 28128e71563cc825
+CSV row number: 62
+Recipe name: Boozy Iced Mocha
+Source: tinaschic.com
+URL: http://tinaschic.com/2015/01/boozy-iced-mocha/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00508db48da28599b456cbba427d97f83af141924ecd19bcb1e5ff38046901e7/21078968.jpg
+Servings: 2
+Calories: 229.35
+Diet labels: Low-Fat, Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: world
+Meal type: lunch/dinner
+Dish type: alcohol cocktail
+
+Original CSV Fields
+-------------------
+recipe_name: Boozy Iced Mocha
+source: tinaschic.com
+url: http://tinaschic.com/2015/01/boozy-iced-mocha/
+servings: 2
+calories: 229.3476421
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00508db48da28599b456cbba427d97f83af141924ecd19bcb1e5ff38046901e7/21078968.jpg
+diet_labels: ["Low-Fat","Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["world"]
+meal_type: ["lunch/dinner"]
+dish_type: ["alcohol cocktail"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Tina's Chic Corner
+Happy Friday! It’s been a long and cold week so let’s celebrate with a cocktail.
+I’m not one for after dinner drinks and by that I mean I don’t like most of them. However, if you give me a chocolate one then I’m all in. Of course. Are you surprised? I mean, I am a chocoholic. The chocolate liqueur by Godiva is simply magnificent. Put it on the rocks and I’m a happy girl.
+I wanted to take the chocolate liqueur to another level and that’s where this fun drink comes in. Picture a boozy combination of iced coffee and iced hot cocoa. Boom. Boozy iced mocha.
+How cool is this ice cube sphere? My husband has an amusing fascination with interesting ice cubes. Some are giant, others have fun shapes, heck, he even has a set that are made of stone. (Is that still even technically ice?) Unfortunately, while this massive spherical ice cube is super cool (heh, ice, cool, get it?) it was too much ice to fit all the liquids in this glass.
+Of course a drink has to be delicious in order for me to share it with you, but it also has to be pretty. I love the milky white in contrast to the dark coffee and chocolate liqueur color. This is definitely a drink to impress the guests (or me, if I’m having a night cap to end a long week)!
+Cheers to it being almost the weekend!
+Boozy Iced Mocha Recipe (1 serving)
+Ingredients:
+2 ounces Godiva Chocolate Liqueur
+6 ounces coffee, chilled
+1 ounce half and half
+some ice cubes
+Directions:
+Put ice into the glass.
+Pour the half and half over the ice.
+Add the Godiva chocolate liqueur.
+Add the chilled coffee and optionally stir. You can also let it mix as you sip which makes it prettier.
+Adapted from: thebar.com
+Rating :
+Here are some other bangin’ boozy beverages.
+Gin and Tonic with Raspberries
+Pomegranate Mojito
+Related
+Comments
+Sarah@Whole and Heavenly Oven says: January 16, 2015 I am SO in for combining the booze with the java! This is pretty much my idea of a perfect sipper! So gorgeous, Tina! Reply Tina says: January 23, 2015 Love it! Thanks Sarah! 🙂 Reply
+I am SO in for combining the booze with the java! This is pretty much my idea of a perfect sipper! So gorgeous, Tina!
+Tina says: January 23, 2015 Love it! Thanks Sarah! 🙂 Reply
+Love it! Thanks Sarah! 🙂
+Alyssa @ My Sequined Life says: January 16, 2015 This is EXACTLY what I need after this week, Tina! I love iced mochas, so jazzing it up and making it boozy is a fab idea. I’ve never tried the Godiva liqueur – I’ll have to look for it! Enjoy your weekend!! Reply Tina says: January 23, 2015 Let me know if you end up trying the Godiva or find a different brand of chocolate liqueur that’s delicious! Reply
+This is EXACTLY what I need after this week, Tina! I love iced mochas, so jazzing it up and making it boozy is a fab idea. I’ve never tried the Godiva liqueur – I’ll have to look for it! Enjoy your weekend!!
+Tina says: January 23, 2015 Let me know if you end up trying the Godiva or find a different brand of chocolate liqueur that’s delicious! Reply
+Let me know if you end up trying the Godiva or find a different brand of chocolate liqueur that’s delicious!
+Bam's Kitchen says: January 16, 2015 Happy weekend to you Tina! I would love to make myself one of these drinks with Godiva chocolate liquor, how decadent is that. Sweet and delicious! Sharing around of course! Reply Tina says: January 23, 2015 You are the best, my friend! xoxo Reply
+Happy weekend to you Tina! I would love to make myself one of these drinks with Godiva chocolate liquor, how decadent is that. Sweet and delicious! Sharing around of course!
+Tina says: January 23, 2015 You are the best, my friend! xoxo Reply
+You are the best, my friend! xoxo
+Medha @ Whisk & Shout says: January 17, 2015 Awesome recipe! Two of the best drinks in one 🙂 Reply Tina says: January 23, 2015 Totally agree! 🙂 Reply
+Awesome recipe! Two of the best drinks in one 🙂
+Tina says: January 23, 2015 Totally agree! 🙂 Reply
+Totally agree! 🙂
+Ashley says: January 18, 2015 This is such a pretty cocktail! And boozy coffee?? I mean obviously I’m in 🙂 Reply Tina says: January 23, 2015 Wahoo! Reply
+This is such a pretty cocktail! And boozy coffee?? I mean obviously I’m in 🙂
+Tina says: January 23, 2015 Wahoo! Reply
+Wahoo!
+Daria says: January 22, 2015 looks delicious and great for a romantic evening for two. 🙂 Reply Tina says: January 23, 2015 Absolutely! Reply
+looks delicious and great for a romantic evening for two. 🙂
+Tina says: January 23, 2015 Absolutely! Reply
+Absolutely!
+Emma @ Flower Wild says: January 22, 2015 Yum, this looks so good! I love interesting ice cube trays too, I have a sphere one as well! Only problem is, I only have the one tray that makes about 20 at a time so takes a while to make enough if I want to impress people at parties haha! Reply Tina says: January 23, 2015 Lol… same here! I need to start making batches of the sphere ice cubes ahead of time and then put the frozen ones in a zip lock bag to have enough for a party. It’s worth it though because it’s always a crowd pleaser. 🙂 Reply
+Yum, this looks so good! I love interesting ice cube trays too, I have a sphere one as well! Only problem is, I only have the one tray that makes about 20 at a time so takes a while to make enough if I want to impress people at parties haha!
+Tina says: January 23, 2015 Lol… same here! I need to start making batches of the sphere ice cubes ahead of time and then put the frozen ones in a zip lock bag to have enough for a party. It’s worth it though because it’s always a crowd pleaser. 🙂 Reply
+Lol… same here! I need to start making batches of the sphere ice cubes ahead of time and then put the frozen ones in a zip lock bag to have enough for a party. It’s worth it though because it’s always a crowd pleaser. 🙂
+Leave a Reply Cancel reply

@@ -1,0 +1,94 @@
+The Macaron Frappé
+==================
+
+Recipe Metadata
+---------------
+Recipe ID: bfa7d10383d4a60d
+CSV row number: 6
+Recipe name: The Macaron Frappé
+Source: French Revolution Food
+URL: http://www.frenchrevolutionfood.com/2013/07/le-macaron-frappe-milkshake-for-bastille-day/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00040113c0b2836ed5b9f8a5036d459c20f90a6a950afadff79520371c8c7094/21054266.jpg
+Servings: 1
+Calories: 276.24
+Diet labels: none listed
+Health labels: Vegetarian, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: french
+Meal type: snack
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: The Macaron Frappé
+source: French Revolution Food
+url: http://www.frenchrevolutionfood.com/2013/07/le-macaron-frappe-milkshake-for-bastille-day/
+servings: 1
+calories: 276.2439032
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00040113c0b2836ed5b9f8a5036d459c20f90a6a950afadff79520371c8c7094/21054266.jpg
+diet_labels: []
+health_labels: ["Vegetarian","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["french"]
+meal_type: ["snack"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Blog
+Eat
+Read
+Watch
+About
+Contact
+Le Macaron Frappé Milkshake for Bastille Day
+Some celebrations of Bastille Day are big and fun and fabulous, like watching the Can-Can dancers perform on the bar in the old Florent in NYC. Some, much more low key, like playing pétanque with Mr. English and a bottle of dry Breton apple cider in the garden. The point is, July is a very patriotic moment, and just like I dragged Mr. English to Pitt Cue at ten o’clock last Thursday to take a bite of Americana on the Fourth, so must I do at least a little something on the Quatorze. A tip of my hat, or my béret, to my heritage.
+I can’t think of any better way to celebrate in the dead of summer heat (even here in London!) than with this utterly ridiculous iced extravaganza of a drink. If you think of Bastille Day as the end of the bread-and-water regimen (although, if it was French bread and water…) of prison, then this pool of decadence couldn’t shout independence any louder. The Macaron Frappé . I buy macarons, and whiz them up with ice cream, milk, and ice, for a thick, cold, creamy, and decidedly unique riff on a milkshake.
+I usually make this with either pistachio or orange flower macarons- -my two favorites. The flavor of the macaron itself flavors the frappé very lightly, and then there are the almondy crunchy crumbs that disperse throughout. The little pellets of perfectly diamond-hard ice. The swish and swirl of the milk and ice cream. It’s insane! Part granita. Part milkshake. Part Frappuccino. Part Ladurée. No French patissier could condone it. But it is beyond bon. I prefer it to regular milkshakes because it has more texture and interest from the macaron, but it’s also lighter, cut with ice and flavored so delicately.
+And, you could adapt it like maman does, and go crazy: pair coffee macarons with coffee ice cream. Pistachio with pistachio. Raspberry with raspberry sorbet. For me, the vanilla lets the macaron shine through best, but who am I to dictate your frappé ? It is independence day, after all.
+Happy Quatorze, mes amis!
+Check out that texture! Like a creamy French-American granita.
+As featured in FrenchEntrée’s 100 French recipes to celebrate 100 issues of FrenchEntrée magazine
+INGREDIENTS
+1 macaron (about ½ ounce), in any flavor you like
+1/2 cup milk
+1/2 cup vanilla ice cream
+1 cup of ice (about 8 ice cubes)
+PROCEDURE
+NOTES
+2 Responses to Le Macaron Frappé Milkshake for Bastille Day
+Search:
+Recipes Restaurants Finds Voyages People Series Guides
+Recipes
+Restaurants
+Finds
+Voyages
+People
+Series
+Guides
+Recent Posts 08.18.20 Creamy Carrot Soup with Coconut and Thyme 08.03.20 “Upstate” Farm Stand Summer Ravioli with Fresh Tomato, Corn, and Basil 07.14.20 Whole-Lemon Zinger Sauce with Thyme and Roasted Trout 06.29.20 Sticky-Icky Ribs with Rhubarb, Rosemary, and Roasted Garlic 06.26.20 Pantry-Dump, One-Pot Glorious Green Thai Curry in a Hurry 06.08.20 COVID Cooking: Ten-Minute Chickpea Pasta with The Easiest Cherry Tomato, Mint, and Chili Sauce 04.29.20 COVID Cooking: Addictive Lazy Guacamole 04.27.20 COVID Cooking: Roasted Whole Cauliflower with Creamy Green Tahini
+Recent Posts
+French Revolution Blog Eat Read Watch About Contact
+French Revolution
+Favorites Chocolate & Zucchini David Lebovitz Deliciously Ella Fathom Goop Manger Rose Water & Orange Blossoms Serious Eats The Amateur Gourmet The French Cuisse The Kitchy Kitchen The New Potato Victoria McGinley
+Favorites
+Chocolate & Zucchini
+David Lebovitz
+Deliciously Ella
+Fathom
+Goop
+Manger
+Rose Water & Orange Blossoms
+Serious Eats
+The Amateur Gourmet
+The French Cuisse
+The Kitchy Kitchen
+The New Potato
+Victoria McGinley
+Recommended
+Copyright © Pomme LLC 2026. All rights reserved. | Terms of Use | Privacy Statement

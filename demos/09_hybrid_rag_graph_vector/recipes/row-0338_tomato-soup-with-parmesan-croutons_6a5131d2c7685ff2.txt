@@ -1,0 +1,145 @@
+Tomato Soup With Parmesan Croutons
+==================================
+
+Recipe Metadata
+---------------
+Recipe ID: 6a5131d2c7685ff2
+CSV row number: 338
+Recipe name: Tomato Soup With Parmesan Croutons
+Source: Pioneer Woman
+URL: http://thepioneerwoman.com/cooking/2015/01/tomato-soup-with-parmesan-croutons/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/021b5fc4ae3c1d4249565a4d8733b7de79ab78243cfd8e672933a6a4ab7d7335/21012664.jpg
+Servings: 12
+Calories: 2273.29
+Diet labels: Balanced, High-Fiber
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: soup
+
+Original CSV Fields
+-------------------
+recipe_name: Tomato Soup With Parmesan Croutons
+source: Pioneer Woman
+url: http://thepioneerwoman.com/cooking/2015/01/tomato-soup-with-parmesan-croutons/
+servings: 12
+calories: 2273.292621
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/021b5fc4ae3c1d4249565a4d8733b7de79ab78243cfd8e672933a6a4ab7d7335/21012664.jpg
+diet_labels: ["Balanced","High-Fiber"]
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["soup"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Tomato Soup with Parmesan Croutons
+
+Description: I made this luscious soup on Saturday’s “Souper Good” episode on Food Network, and it’s also going to be in my next cookbook, which, if I play my card
+
+Recipe category: ['main dish', 'soup']
+
+Recipe cuisine: ['American (US) Cuisine', 'Soul Food Cuisine']
+
+Yield: 12 serving(s)
+
+Prep time: PT10M
+
+Cook time: PT30M
+
+Total time: PT40M
+
+Ingredients:
+- SOUP
+- 1 tbsp. Butter
+- 1 tbsp. Olive Oil
+- 1 clove Garlic, Minced Fine Or Grated
+- 1 whole Onion, Finely Diced
+- 3 whole Large Carrots, Peeled And Finely Diced
+- 2 tbsp. Tomato Paste
+- 3 cans (28 Ounces Each) Whole Tomatoes
+- 32 oz. fluid Vegetable Or Chicken Broth
+- 1 c. Water
+- 1/2 c. Heavy Cream
+- Salt And Pepper, to taste
+- 2 tbsp. Minced Fresh Parsley
+- 2 tbsp. Chopped Fresh Basil
+- Croutons
+- 1/2 whole Baguette, Sliced Into Rounds
+- 1/2 c. Freshly Shredded Parmesan Cheese
+- Fresh Basil, For Garnish
+
+Visible page text:
+Scrumptious, simple tomato soup with the most delectable croutons you'll ever eat!
+Ingredients
+SOUP
+1 Tbsp. Butter
+1 Tbsp. Olive Oil
+1 clove Garlic, Minced Fine Or Grated
+1 whole Onion, Finely Diced
+3 whole Large Carrots, Peeled And Finely Diced
+2 Tbsp. Tomato Paste
+3 cans (28 Ounces Each) Whole Tomatoes
+32 oz. fluid Vegetable Or Chicken Broth
+1 cup Water
+1/2 cup Heavy Cream
+Salt And Pepper, to taste
+2 Tbsp. Minced Fresh Parsley
+2 Tbsp. Chopped Fresh Basil
+Croutons
+1/2 whole Baguette, Sliced Into Rounds
+1/2 cup Freshly Shredded Parmesan Cheese
+Fresh Basil, For Garnish
+Directions
+In a large pot, heat butter and oil over medium-high heat, then add onion, garlic, and carrots. Stir and cook for 5 minutes. Add tomato paste and stir it in, cooking for another 2-3 minutes. Add canned tomatoes with their juice, broth, and water. Stir together and bring to a boil, then reduce the heat, cover the pot, and simmer for 15-20 minutes, longer if you have time. Use an immersion blender to puree, still leaving some texture to the tomatoes. Add cream, salt, pepper, parsley, and basil, and simmer for another 5 minutes. To make the croutons, drizzle crostini rounds lightly with olive oil. Place little piles of Parmesan in a nonstick skillet. Place a crostini round on top of each pile. Turn on the heat to medium. Press with a spatula as you melt the cheese into each round. When set, flip to the other side to toast. Serve soup with one or two croutons on top and a little bit of basil. NOTE: Recipe can easily be halved!
+I made this luscious soup on Saturday’s “Souper Good” episode on Food Network, and it’s also going to be in my next cookbook, which, if I play my cards right (translation: if I get it done), will be out this fall. But it’s so scrumptious, warm, satisfying, and luscious, I wanted to share the recipe here so you could benefit from all the soupy goodness now, not next winter! (Saving recipes for a later time has never been my strong suit. But you probably already knew that.)
+Here’s the step-by-step recipe, friends! (And psssst. As good as the soup is, the croutons are just as yummy.)
+In a big ol’ pot, melt some butter with some olive oil over medium-high heat…
+Then grate in some garlic (or mince it and throw it in)…
+Along with some diced carrots and onions.
+Stir the veggies around and cook ’em for about 5 minutes or so, until they start to soften.
+Now, to get the tomato flavor going, plop in some tomato paste…
+And stir it into the veggies, letting it cook and release its flavor for a couple o’ minutes.
+Next, add a cup of water along with a bunch of broth! I used this gorgeous vegetable broth, which has a nice, deep color, but you can use chicken or beef broth…whatever you’ve got on hand.
+Oh, and this unsalted broth, which I like to use when I can. I added a little salt and pepper, knowing that I could always add more later.
+Next, add a bunch of whole tomatoes: 3 big cans! Stir it around, bring it to a boil, then reduce the heat, cover the pot, and let it simmer for 15 to 20 minutes.
+(Note: This recipe can easily be halved!)
+While it’s simmering, make the croutons! And you can do this well in advance if you want. They freeze really well! Cut a baguette into rounds, then drizzle them with a little olive oil.
+Grate some Parmesan cheese and put little piles (probably a tablespoon or so?) in a nonstick (if you have it) skillet.
+Lay a crostini round on each Parmesan pile…and THEN turn the heat to medium. If you turn on the heat before you start laying on the Parmesan, the crostini won’t stick to the cheese as well and then everything will be roont. (Translation: “ruined.”)
+Pretty soon, the cheese will start to melt…
+And when it’s nice and melted and starting to bubble, carefully flip the croutons over to toast a bit on the other side.
+And guess what? The soup is done! You can serve it as is, but there might be some mighty big chunks of tomatoes and carrots in there. So I like to stick in the immersion blender and puree it about halfway.
+Then I just pour in a little cream (I didn’t use this full amount!) to soften (flavor-wise) the tomatoes a bit and to give the soup a little, well, creaminess.
+Stir it around and let it cook for a few more minutes…
+Then sprinkle in some chopped basil, along with some more salt and pepper to taste.
+Oh, dear. How good does this look?
+That was a rhetorical question.
+Oh, and you can puree the soup until it’s completely smooth if you like; the texture is up to you!
+Serve it in a bowl…
+With a couple of croutons and a little more basil.
+This is very, very yummy.
+And who am I kidding? I ate four croutons.
+Okay, five.
+Six, okay? I ate six croutons.
+I mean seven.
+Recipes
+Pork and Rice Noodle Salad
+Strawberry White Chocolate Granola Bars
+Macaroni Salad
+Breakfast in Bed Ideas to Serve on Mother’s Day
+Strawberry Danish
+Blueberry Pancake Muffins
+Baked French Toast
+Strawberry-Basil Mocktail
+Tea Sandwiches
+Steak Diane
+Margarita Bars
+This Taco Soup Is Ready In 30 Minutes

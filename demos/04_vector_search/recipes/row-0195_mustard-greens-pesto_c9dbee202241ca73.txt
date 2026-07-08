@@ -1,0 +1,84 @@
+Mustard Greens Pesto
+====================
+
+Recipe Metadata
+---------------
+Recipe ID: c9dbee202241ca73
+CSV row number: 195
+Recipe name: Mustard Greens Pesto
+Source: tastykitchen.com
+URL: https://tastykitchen.com/recipes/appetizers-and-snacks/mustard-greens-pesto/
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/013e13e1a84bebf7c91b591648c6e1342679f6b6351239b2e4353ccd4fa85fbe/21103243.jpg
+Servings: 4
+Calories: 973.48
+Diet labels: Low-Carb, Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: italian
+Meal type: lunch/dinner
+Dish type: condiments and sauces
+
+Original CSV Fields
+-------------------
+recipe_name: Mustard Greens Pesto
+source: tastykitchen.com
+url: https://tastykitchen.com/recipes/appetizers-and-snacks/mustard-greens-pesto/
+servings: 4
+calories: 973.484625
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/013e13e1a84bebf7c91b591648c6e1342679f6b6351239b2e4353ccd4fa85fbe/21103243.jpg
+diet_labels: ["Low-Carb","Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["italian"]
+meal_type: ["lunch/dinner"]
+dish_type: ["condiments and sauces"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Mustard Greens Pesto
+Print
+Leave a comment
+write a review
+Print Options
+Description
+Too many greens in your garden? Make pesto! This is a formula for making a rather thick pesto with mustard greens, almonds and cheese.
+Ingredients
+2 cloves Garlic
+¼ cups Whole, Raw Almonds
+¼ cups Finely Shredded Asiago Cheese
+1 cup Clean, Dry, De-stemmed Mustard Greens
+5 Tablespoons Olive Oil
+Preparation
+Chop garlic, almonds, and cheese in the bowl of a food processor with the big blade–go for a medium grind.
+Add the greens, pulse a few times to incorporate. Everything should be the same size.
+With food processor running, pour in olive oil. Don’t over process or you’ll end up with a paste.
+Place in ice cube trays to freeze.
+This is a basic recipe to be used as a platform for other dishes. You can increase the oil as you need, it’s a bit thick and can be used right away over pasta.
+Add salt or other ingredients as you use the pesto, the flavor will vary greatly from green to green.
+Be advised that this pesto is very sharp and bright at first that mellows with age.
+Find muskegharpy elsewhere on the web.
+Website
+No Comments
+Leave a Comment!
+You must be logged in to post a comment.
+No Reviews
+You must be logged in to post a review.
+Food Gifts
+View Recipe
+Slow Cooker Season!
+Related Recipes
+Prep: 5 mins Cook: -
+Serves: 10 Level: Easy
+Share f a e
+Prep: 10 mins Cook: 35 mins
+Serves: 4 Level: Easy
+Prep: 5 mins Cook: 30 mins
+Serves: 20 Level: Easy
+Prep: 10 mins Cook: -
+Prep: 10 mins Cook: 5 mins
+Serves: 6 Level: Easy

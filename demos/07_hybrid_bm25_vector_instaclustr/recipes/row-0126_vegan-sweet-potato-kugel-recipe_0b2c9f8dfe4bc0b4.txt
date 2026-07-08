@@ -1,0 +1,118 @@
+Vegan Sweet Potato Kugel Recipe
+===============================
+
+Recipe Metadata
+---------------
+Recipe ID: 0b2c9f8dfe4bc0b4
+CSV row number: 126
+Recipe name: Vegan Sweet Potato Kugel Recipe
+Source: thespruceeats.com
+URL: https://www.thespruceeats.com/vegan-sweet-potato-kugel-recipe-3377175
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00c7ffe7a460dca37a1f5d595df3ac684294de04c23ee4e5ad4c889ac9bbce56/21112351.jpg
+Servings: 4
+Calories: 2215.20
+Diet labels: High-Fiber, Low-Sodium
+Health labels: Vegan, Vegetarian, Dairy-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: desserts
+
+Original CSV Fields
+-------------------
+recipe_name: Vegan Sweet Potato Kugel Recipe
+source: thespruceeats.com
+url: https://www.thespruceeats.com/vegan-sweet-potato-kugel-recipe-3377175
+servings: 4
+calories: 2215.197
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/00c7ffe7a460dca37a1f5d595df3ac684294de04c23ee4e5ad4c889ac9bbce56/21112351.jpg
+diet_labels: ["High-Fiber","Low-Sodium"]
+health_labels: ["Vegan","Vegetarian","Dairy-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["desserts"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Vegan Sweet Potato Kugel Recipe
+
+Description: This vegetarian and vegan kugel recipe, made with apples, sweet potatoes, and matzo meal, is cholesterol free and low in fat.
+
+Recipe category: ['Side Dish']
+
+Recipe cuisine: ['American', 'Eastern European']
+
+Yield: 4
+
+Prep time: PT15M
+
+Cook time: PT45M
+
+Total time: PT60M
+
+Ingredients:
+- 6 small sweet potatoes (peeled and grated)
+- 3 apples (peeled and grated)
+- 1 cup raisins
+- 1 cup matzo meal
+- 1 teaspoon cinnamon
+- 1/2 teaspoon nutmeg
+- Optional: 1 cup chopped walnuts
+- 1 cup water
+
+Instructions:
+1. Gather the ingredients. Preheat oven to 375 F.
+2. Use a food processor to grate the sweet potatoes and apples. In a medium bowl, combine all ingredients—grated potatoes and apples, raising, matzo meal, cinnamon, nutmeg, water, and walnuts, if using—together.
+3. Gently press into a baking dish.
+4. Bake for 45 minutes, or until lightly crisp on top.
+
+Visible page text:
+Recipes By Diet
+Vegetarian & Vegan Food
+Vegetarian Sides
+Vegan Sweet Potato Kugel Recipe
+This vegetarian and vegan kugel recipe is cholesterol-free and lower in fat than a traditional kugel with eggs. Sweet potatoes and apples are sweetened with raisins and spices in this homemade Jewish kugel recipe. The potatoes and apples are grated in a food processor and then mixed with the remaining ingredients and baked. This kugel recipe is suitable for a vegetarian Passover or for a vegetarian Hanukkah .
+This kugel can be served as an entree or a side dish. Enjoy it with other vegan and vegetarian dishes such as vegan matzo ball soup, beet casserole, or blintzes.
+Never Lose a Recipe Again!
+6 small sweet potatoes , peeled
+3 medium apples , peeled
+1 cup raisins
+1 cup matzo meal
+1 teaspoon ground cinnamon
+1/2 teaspoon ground nutmeg
+1 cup chopped walnuts , optional
+1 cup water
+Gather the ingredients. Preheat oven to 375 F.
+Use a food processor to grate the sweet potatoes and apples. In a medium bowl, combine all ingredients—grated potatoes and apples, raising, matzo meal, cinnamon, nutmeg, water, and walnuts, if using—together.
+Gently press into a baking dish.
+Bake for 45 minutes, or until lightly crisp on top.
+Glass Bakeware Warning
+For premade casseroles or leftovers that are in a glass baking dish and have been refrigerated, do not place directly into a hot oven as the glass can shatter. Instead, place any cold glass bakeware into a cold oven to warm up while it preheats. Or, allow the bakeware to rest outside of the fridge for 30 minutes to reach room temperature while the oven preheats.
+Tips
+For a tarter taste, use Granny Smith or Cortland apples . If you would like more of a sweeter dish, try using Fuji apples.
+Recipe Variation
+Make this kugel without the optional walnuts, so it can be enjoyed by family and guests who have a nut allergy or sensitivity.
+How to Store
+You can refrigerate leftover kugel in a dish that has been covered tightly, with plastic wrap or aluminum foil, for up to three days.
+Plan to eat your kugel within the allotted time frame, as it does not freeze well. Enjoy it while you can!
+What is matzo meal?
+Matzo meal is made from the two-ingredient unleavened Jewish bread, matzo. The bread is ground into meal and then used in many recipes, especially during Passover.
+Helpful Links
+Creative Ways to Use Matzo
+Vegetarian Passover and Seder Dishes (With Vegan Options)
+Jewish Food 101
+Potato Sides
+Potato Recipes
+Passover Sides
+Hanukkah Recipes
+Recipe Tags:
+Potato
+apple
+side dish
+american

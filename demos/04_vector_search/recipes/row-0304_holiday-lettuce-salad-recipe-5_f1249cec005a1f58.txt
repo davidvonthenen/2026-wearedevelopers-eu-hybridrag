@@ -1,0 +1,200 @@
+Holiday Lettuce Salad Recipe 5
+==============================
+
+Recipe Metadata
+---------------
+Recipe ID: f1249cec005a1f58
+CSV row number: 304
+Recipe name: Holiday Lettuce Salad Recipe 5
+Source: Taste of Home
+URL: http://www.tasteofhome.com/Recipes/Holiday-Lettuce-Salad
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01eda4dbcd89521d99ff64991170c3359ab0ab30b5dcc19a406012a62f81dc2f/21111084.jpg
+Servings: 14
+Calories: 2135.94
+Diet labels: Low-Sodium
+Health labels: Vegetarian, Gluten-Free, Egg-Free, Peanut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Sulfites
+Cuisine type: mexican
+Meal type: lunch/dinner
+Dish type: salad
+
+Original CSV Fields
+-------------------
+recipe_name: Holiday Lettuce Salad Recipe 5
+source: Taste of Home
+url: http://www.tasteofhome.com/Recipes/Holiday-Lettuce-Salad
+servings: 14
+calories: 2135.944503525101
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/01eda4dbcd89521d99ff64991170c3359ab0ab30b5dcc19a406012a62f81dc2f/21111084.jpg
+diet_labels: ["Low-Sodium"]
+health_labels: ["Vegetarian","Gluten-Free","Egg-Free","Peanut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Sulfites"]
+cuisine_type: ["mexican"]
+meal_type: ["lunch/dinner"]
+dish_type: ["salad"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Holiday Salad
+
+Description: This holiday salad is a light, bright alternative to heavy seasonal side dishes. Its colors and flavors fit with the holiday theme, but you can also enjoy it as part of a light meal between celebrations.
+
+Recipe category: ['Lunch', 'Side Dishes']
+
+Yield: 14 servings (1 cup each)
+
+Prep time: PT20M
+
+Cook time: PT0M
+
+Total time: PT20M
+
+Ingredients:
+- 10 cups torn romaine
+- 2 medium red apples, cubed
+- 2 medium pears, cubed
+- 1 cup shredded Swiss cheese
+- 1/2 cup dried cranberries
+- 6 tablespoons lemon juice
+- 3 tablespoons canola oil
+- 3 tablespoons light corn syrup
+- 1-1/2 teaspoons grated onion
+- 1-1/2 teaspoons Dijon mustard
+- 1/2 teaspoon salt
+- 1/2 cup chopped lightly salted cashews
+
+Instructions:
+1. In a salad serving bowl, combine the Romaine lettuce, cubed apples and pears, shredded Swiss cheese and dried cranberries.
+2. In a small bowl, whisk together the lemon juice, canola oil, corn syrup, onion, mustard and salt. Pour the dressing over the romaine mixture, and toss the salad ingredients until they’re well coated. Garnish your salad with the chopped cashews before serving.
+
+Visible page text:
+Holiday Salad
+By Fred Decker
+Recipe by Bryan Braack, Eldridge, Iowa
+Tested by Taste of Home Test Kitchen
+Taste of Home's Editorial Process
+Updated on Sep. 17, 2024
+This holiday salad is a light, bright alternative to heavy seasonal side dishes. Its colors and flavors fit with the holiday theme, but you can also enjoy it as part of a light meal between celebrations.
+This holiday salad is a classic example of the “other” kind of seasonal meal. Between bouts of feasting on traditional favorites, it’s nice to have a few healthy weeknight meals or light lunches in your repertoire, for a change of pace.
+This salad splits the difference. You can treat it as a light lunch or as part of a quick meal, but its flavors and colors are still seasonal enough for the holiday table.
+Ingredients for Holiday Salad
+Romaine lettuce: Leaves of torn-up Romaine lettuce give the salad a pleasant crunch and color.
+Apples and pears: The dark skin and pale interior of the diced red apples provide visual contrast with the green lettuce, as well as providing flavor and crunch. Diced pears complement the apples’ flavor and appearance, while adding a subtly different flavor.
+Swiss cheese: Shredded Swiss cheese provides a nutty, pungent complement to the salad’s sweet and tart flavors.
+Dried cranberries: Dried cranberries strike a seasonal note, and they provide a small pop of flavor and color.
+Lemon juice: Lemon juice plays the “vinegar” role in this dressing, adding a fruity element that plays nicely with the apples and pears. It helps keep them from browning too.
+Canola oil: A neutral-flavored oil is needed to let the flavors of the other dressing ingredients shine through.
+Corn syrup: Many vinaigrettes call for a sweet ingredient. Corn syrup works better than sugar in this case, because it’s already liquid and doesn’t need to be dissolved in the dressing.
+Onion: Grated (or minced) onion brings a pungent, savory note to the dressing that neatly complements the fruit flavors of the other ingredients.
+Dijon mustard: Dijon mustard brings a hint of pungent heat to the dressing, balancing the sweetness of the fresh and dried fruit. Mustard also helps emulsify the dressing and keep it from separating.
+Cashews: Choosing chopped, salted cashews as a garnish rounds out the flavors of the salad, as well as adding a shot of protein and fiber.
+Directions
+Step 1: Prepare the salad
+In a salad serving bowl, combine the Romaine lettuce, cubed apples and pears, shredded Swiss cheese and dried cranberries.
+Step 2: Make the dressing
+In a small bowl, whisk together the lemon juice, canola oil, corn syrup, onion, mustard and salt. Pour the dressing over the romaine mixture, and toss the salad ingredients until they’re well coated. Garnish your salad with the chopped cashews before serving.
+Holiday Salad Variations
+Change the lettuce: Romaine is a good choice for this salad, because it’s sturdy and readily available. That doesn’t mean you can’t play around a little, though. Any crisp or semi-crisp lettuce will work in this salad, even the unglamorous (but persistently popular) iceberg. Avoid the tenderest leaf lettuces and butterhead types, which won’t stand up to the chunky add-ins. Medium-textured lettuces like buttercrunch varieties and the sturdier leaf lettuce varieties hold up well.
+Use alternative greens: There’s nothing that says you have to stick with lettuce, or only lettuce. If you want more textures, or just to change things up, plenty of other greens would work well in this salad. Consider pulling together some combination of baby kale, chard or spinach, peppery arugula or sturdy, slightly bitter greens like escarole and Belgian endive. Any combination of those makes a nice complement to the Romaine lettuce.
+Get creative with the garnishes: Cashews are a pleasing option as a garnish, but they aren’t especially in keeping with the holiday theme. Feel free to swap them out for whichever nuts you’re using in your baking, including walnuts, pecans and almonds. Green pumpkin seeds make a colorful option as well, and pomegranate seeds , or arils, are a beautiful (and equally seasonal) alternative to the dried cranberries. If you make candied citrus peel to go into your holiday baking, adding a few strips to each serving would complement the dried cranberries and fresh fruit.
+Opt for a different dressing: The suggested dressing here is very good, but feel free to experiment with others. We have plenty of salad dressing recipes you could try, or you could crib the dressing from another seasonal salad recipe instead.
+How to Store Holiday Salad
+Leftover holiday salad wilts quickly once it’s tossed with the dressing, so cover the bowl and rush it from the table to your fridge. Plan to eat it within the next 24 hours, while the Romaine retains some of its texture and pleasing crunch.
+How long will this holiday salad recipe keep?
+Once you’ve added the dressing you need to serve it almost immediately, and leftovers will last a day at most. If you want to make a big batch to enjoy over a period of days, mix the salad ingredients and keep them in a covered container in your fridge. Toss each portion with a splash of the dressing before you eat it. As long as you check it before serving, and pull out any individual leaves that are becoming wilted, you can stretch its refrigerator life to three to four days.
+Can I make the salad ahead of time?
+You can prep the salad ingredients and the dressing separately earlier in the day, then combine them just before you sit down to your meal. You could also do this up to a day ahead of time, as long as you take a moment to check the salad for prematurely wilted or browning lettuce before you serve it.
+Holiday Salad Tips
+I have romaine left over, is there anything special I can do with it?
+We have lots of not-boring lettuce recipes you can choose from, to help your brain reorient after (or during) all the holiday cooking. It’s certainly a time of year when you’ll appreciate any opportunity to eat something light, between all the holiday feasting. Not a scrap of leftover turkey or stuffing in sight!
+What other toppings can you suggest?
+Well, leaving aside seasonal garnishes (see Variations, above), there are plenty of healthy salad toppings you could try, from shredded raw beets to cooked quinoa or even a few slices of avocado. Any of those would turn this salad into a light meal in its own right. For more inspiration, you could also check out other salad ideas using Romaine lettuce .
+Can I switch the corn syrup for a different sweetener?
+Of course you can. It’s a little more work to use sugar, because you have to dissolve it in the dressing, but extra-fine sugar makes that simpler. Alternatively you could stick with liquid sweeteners like agave syrup, brown rice syrup or honey. Maple syrup adds a nice flavor that complements the fruit. Whichever sweetener you choose, add it a little bit at a time and taste the dressing as you go, so you can stop when you get it right. You could also check our guide to alternative sweeteners for some insight.
+Holiday Lettuce Salad
+Ingredients
+10 cups torn romaine
+2 medium red apples, cubed
+2 medium pears, cubed
+1 cup shredded Swiss cheese
+1/2 cup dried cranberries
+6 tablespoons lemon juice
+3 tablespoons canola oil
+3 tablespoons light corn syrup
+1-1/2 teaspoons grated onion
+1-1/2 teaspoons Dijon mustard
+1/2 teaspoon salt
+1/2 cup chopped lightly salted cashews
+1 In a salad bowl, combine the first five ingredients.
+2 For dressing, in a small bowl, whisk lemon juice, oil, corn syrup, onion, mustard and salt. Pour over romaine mixture; toss to coat. Sprinkle with cashews.
+Nutrition Facts
+We are no longer supporting IE (Internet Explorer) as we strive to provide site experiences for browsers that support new web standards and security practices.
+We recommend our users to update the browser.
+Google Chrome
+Apple Safari
+Mozilla Firefox
+Microsoft Edge
+Recipes More Items SEE ALL RECIPES Cooking Gear & Gadgets Cuisines Cooking Styles Dishes & Beverages Health & Wellness Holidays & Events Ingredients Meal Types Techniques
+SEE ALL RECIPES
+Cooking Gear & Gadgets
+Cuisines
+Cooking Styles
+Dishes & Beverages
+Health & Wellness
+Holidays & Events
+Meal Types
+Techniques
+Contests
+News More Items SEE ALL NEWS People in Food Grocery Stores New Products Recalls Restaurants Trends
+SEE ALL NEWS
+People in Food
+Grocery Stores
+New Products
+Recalls
+Restaurants
+Trends
+Health & Wellness More Items SEE ALL HEALTH & WELLNESS Healthy Eating Healthy Lifestyle Tips Nutrition Tips
+SEE ALL HEALTH & WELLNESS
+Healthy Eating
+Healthy Lifestyle Tips
+Nutrition Tips
+Holidays & Events More Items SEE ALL HOLIDAYS & EVENTS Christmas Easter Halloween St. Patrick’s Day
+SEE ALL HOLIDAYS & EVENTS
+Christmas
+Easter
+Halloween
+St. Patrick’s Day
+Home & Living More Items SEE ALL HOME & LIVING Cleaning & Organizing Entertaining & Hosting Family & Parenting Grocery Shopping Home Decor Outdoor Living Travel
+SEE ALL HOME & LIVING
+Cleaning & Organizing
+Entertaining & Hosting
+Family & Parenting
+Grocery Shopping
+Home Decor
+Outdoor Living
+Travel
+Stuff We Love
+Test Kitchen More Items SEE ALL TEST KITCHEN Cooking Gear & Gadgets How To Meal Planning Taste Tests Test Kitchen Tips
+SEE ALL TEST KITCHEN
+How To
+Meal Planning
+Taste Tests
+Test Kitchen Tips
+Videos
+Submit a Recipe
+Newsletters
+Follow Us More Items Facebook Pinterest Instagram Twitter Feedly
+Facebook
+Pinterest
+Instagram
+Twitter
+Feedly
+Subscribe
+Shop
+Log In / Join
+Recipe Box

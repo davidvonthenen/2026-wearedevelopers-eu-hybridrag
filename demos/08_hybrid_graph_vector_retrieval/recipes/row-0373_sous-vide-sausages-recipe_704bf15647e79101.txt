@@ -1,0 +1,124 @@
+Sous Vide Sausages Recipe
+=========================
+
+Recipe Metadata
+---------------
+Recipe ID: 704bf15647e79101
+CSV row number: 373
+Recipe name: Sous Vide Sausages Recipe
+Source: Serious Eats
+URL: https://www.seriouseats.com/sous-vide-beer-brat-recipe-food-lab
+Image URL: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/025dc2a10d5f149c168cbafc1cab69673a08a95c6173cb64622d3588fcf47def/20948660.jpg
+Servings: 8
+Calories: 4824.90
+Diet labels: Low-Carb
+Health labels: Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free
+Allergy cautions: Milk, Sulfites
+Cuisine type: american
+Meal type: lunch/dinner
+Dish type: main course
+
+Original CSV Fields
+-------------------
+recipe_name: Sous Vide Sausages Recipe
+source: Serious Eats
+url: https://www.seriouseats.com/sous-vide-beer-brat-recipe-food-lab
+servings: 8
+calories: 4824.900855729924
+image_url: https://datahive-prod-dataset-products.s3.eu-central-1.amazonaws.com/dataset/346/025dc2a10d5f149c168cbafc1cab69673a08a95c6173cb64622d3588fcf47def/20948660.jpg
+diet_labels: ["Low-Carb"]
+health_labels: ["Egg-Free","Peanut-Free","Tree-Nut-Free","Soy-Free","Fish-Free","Shellfish-Free"]
+cautions: ["Milk","Sulfites"]
+cuisine_type: ["american"]
+meal_type: ["lunch/dinner"]
+dish_type: ["main course"]
+
+URL Fetch
+---------
+Fetch status: http_200
+Fetch error: none
+
+Recipe Text From URL
+--------------------
+Recipe: Sous Vide Sausages Recipe
+
+Description: Sausages have a reputation for being easy. They&#39;ve got the right ratio of fat to meat built in, and even a convenient skin to ensure that all those juices stay inside. But there&#39;s a difference between &#34;yeah, that&#39;s a good sausage&#34; sausages and &#34;holy crap, how did they fit an entire pig&#39;s worth of flavor and juices into this single five-inch tube&#34; sausages. It&#39;s the latter we&#39;re after, and the latter that sous vide cooking can help produce.
+
+Recipe category: ['Entree', 'Mains', 'Sausage', 'Ingredient']
+
+Recipe cuisine: ['American']
+
+Yield: 8
+
+Prep time: PT5M
+
+Cook time: {'@type': 'Duration', 'minValue': 'PT50M', 'maxValue': 'PT245M'}
+
+Total time: {'@type': 'Duration', 'minValue': 'PT55M', 'maxValue': 'PT250M'}
+
+Ingredients:
+- 3 pounds (1.35kg) natural-casing raw sausage links, such as bratwurst or Italian
+- 6 ounces (170ml) beer (optional)
+- Kosher salt (optional)
+- 1 tablespoon (15ml) butter or oil (if finishing on stovetop)
+- Buns and condiments, for serving
+
+Instructions:
+1. Set your precision cooker to the desired temperature, between 140 and 160°F (60 and 71°C), according to the chart above . Place sausages inside vacuum-sealer bags or zipper-lock bags in a single layer. Optionally, add a few tablespoons beer to each bag, along with 2 teaspoons salt.
+2. Seal the bags, making sure to stop vacuum sealer and seal bags immediately after the air has been removed—do not let the sausages get squeezed or the liquid get sucked up into the vacuum. Alternatively, use the water displacement method: Seal your zipper-lock bag almost all the way up, then gently lower it into a large pot of water, sealing off the bag just before the top is fully submerged.
+3. Add sausages to water bath and cook for at least 45 minutes and up to 4 hours. Remove sausages from bags and discard juices. Dry sausages carefully on a paper towel–lined plate.
+4. To Finish on the Stovetop: Heat 1 tablespoon oil or butter over medium heat in a skillet until shimmering. Add sausages and cook, turning occasionally, until well browned on all sides, about 3 minutes. Serve immediately.
+5. To Finish on the Grill: Grill sausages over medium heat, turning occasionally, until well browned on all sides, about 3 minutes. Serve immediately.
+
+Visible page text:
+Recipes
+Recipes By Method
+Sous Vide
+Sous Vide Pork
+Sous Vide Sausages Recipe
+Temperature and timing for the juiciest sausage.
+Serious Eats / J. Kenji López-Alt
+The Advantages of Sous Vide
+Temperature and Timing Chart for Sausages
+Special Tips for Bagging Sausages
+Should I Add Beer to the Bag?
+What's the Best Way to Brown a Sous Vide Sausage?
+Will This Method Work for Precooked Sausages?
+Why It Works
+Cooking sausages sous vide gives you complete control over their finished texture and juiciness.
+Browning the sausages on the grill or in a skillet after cooking them sous vide gives them color and external texture.
+Sausages have a reputation for being easy. They've already got the right ratio of fat to meat built in and the right level of salt and seasoning, and they even have a convenient skin around them to ensure that all those juices stay inside where they're supposed to be. But there's a difference between "yeah, that's a good sausage" sausages and "holy crap, how did they fit an entire pig's worth of flavor and juices into this single five-inch tube" sausages. It's the latter we're after, and the latter that sous vide cooking techniques can help produce.
+There are a number of factors that make cooking sausage more forgiving than cooking straight-up meat. First off, the ratio of fat to lean meat in a sausage is generally high—around 25 to 30%. Aside from adding flavor (most of the identifying flavorful compounds in a given meat are found in its fat), fat both helps lubricate meat as it cooks and acts as an insulator, allowing it to cook more gently. Salt also helps sausages stay moist. When meat is salted, some of its protein structure breaks down. As it is subsequently kneaded and forced into casings, those proteins cross-link, creating an interlocking network that helps the sausage retain juices and gives it a snappy texture.
+All of that means that even if you overcook a sausage or let it dry out, it'll still be juicier and moister than, say, a chicken breast or a pork chop. But that's no excuse to be lazy about it. Temperature is the real key to the juiciest sausages.
+The timing and temperature charts in this guide are used in the Anova Precision Cooker App, a free app that provides sous vide recipes and temperature and timing charts. If you've got an Anova, you can even control it directly from the app via Bluetooth.
+Of course, this information should prove useful to anyone who owns a functional sous vide device, or even someone hacking it with a home rig or a plain old beer cooler .
+The doneness of a sausage is determined by the maximum internal temperature it reaches during cooking. For instance, so long as a sausage does not rise above 140°F (60°C), it will never cook beyond medium (a rather low temperature for a sausage). With traditional cooking methods, there is a very short window of time during which your meat is perfectly cooked. A minute too long will mean overcooked meat. With sous vide cooking, on the other hand, that window of time is stretched into hours, which means your sausage will be hot and ready to go whenever you're ready to sear and serve it.
+To find the ideal final temperature for sausages, I cooked sausages using a precision cooker to hold a water bath at temperatures ranging from 130°F up to 185°F (54 to 85°C). The sweet spot is right in the middle. Just like with chicken and steak, a sausage cooked sous vide can be held for a long time, but not indefinitely. Once you hold the meat for longer than four hours or so, it'll start to take on a mushy, mealy texture. I recommend cooking sausages for between 45 minutes and 4 hours.
+One problem I immediately ran into with sous vide sausages was their shape. Sausages are extremely soft when raw. Packing them into vacuum bags and using a sealer ends up giving them an unnatural pinched appearance. To combat this, you have two options: manually hitting the "seal" button on the vacuum sealer before it's had an opportunity to start compressing the sausages, or using the water displacement method in lieu of a countertop vacuum sealer. Just place your sausages inside a heavy-duty zipper-lock bag, seal the bag almost all the way up, then gently lower it into a large pot of water, sealing off the bag just before the top is fully submerged.
+The idea of simmering a bratwurst in beer is an appealing one, but how well does it really work? I tried adding various beers to the sealed bags as I cooked bratwurst sausages (I used a hop-heavy IPA, a light lager, and a fresh and fruity saison to cover all my bases), expecting the sausages to come out with extra flavor. Much to my surprise, I found the exact opposite to be the case: The sausages actually lost flavor as they cooked in beer. The problem is that even though beer has a few flavorful compounds, it's mostly water, which means that it ends up drawing salt and other compounds out of the sausages as they cook. Try to cook a sausage in beer, and instead of adding beer flavor to the sausage, you really wind up adding sausage flavor to the beer.
+The solution? Heavily season the beer with salt as you add it to the bag. Adding salt to the beer helps to balance out the osmotic pressure on the sausages' cell walls, keeping what's inside them inside while also adding a small amount of beer flavor to the outer layers.
+As with other meats, cooking sausages sous vide doesn't produce any color or texture on the exterior. For that, you need to finish them on the grill or in a skillet. This is very simple to do: Take the sausages out of their bags, dry them very thoroughly with paper towels (surface moisture is the number one enemy of good browning), then cook them over moderate heat in a skillet with a little butter or over a preheated grill. Where you finish them is a matter of personal taste.
+Yes, you can use this method to reheat and brown precooked sausages—though, bear in mind that heat-and-eat precooked sausages may have already been cooked to a temperature higher than you are aiming for with sous vide, which makes it difficult to control moisture loss.
+February 2016
+This guide was produced for Serious Eats as part of a partnership with Anova, the makers of the Anova Precision Cooker.
+Recipe Details
+3 pounds ( 1.35 kg ) natural-casing raw sausage links , such as bratwurst or Italian
+6 ounces ( 170 ml ) beer (optional)
+Kosher salt (optional)
+1 tablespoon ( 15 ml ) butter or oil (if finishing on stovetop)
+Buns and condiments , for serving
+Set your precision cooker to the desired temperature, between 140 and 160°F (60 and 71°C), according to the chart above . Place sausages inside vacuum-sealer bags or zipper-lock bags in a single layer. Optionally, add a few tablespoons beer to each bag, along with 2 teaspoons salt.
+Seal the bags, making sure to stop vacuum sealer and seal bags immediately after the air has been removed—do not let the sausages get squeezed or the liquid get sucked up into the vacuum. Alternatively, use the water displacement method: Seal your zipper-lock bag almost all the way up, then gently lower it into a large pot of water, sealing off the bag just before the top is fully submerged.
+Add sausages to water bath and cook for at least 45 minutes and up to 4 hours. Remove sausages from bags and discard juices. Dry sausages carefully on a paper towel–lined plate.
+To Finish on the Stovetop: Heat 1 tablespoon oil or butter over medium heat in a skillet until shimmering. Add sausages and cook, turning occasionally, until well browned on all sides, about 3 minutes. Serve immediately.
+To Finish on the Grill: Grill sausages over medium heat, turning occasionally, until well browned on all sides, about 3 minutes. Serve immediately.
+Special Equipment
+Sous vide precision cooker , charcoal grill or gas grill (optional), chimney starter (optional)
+Read More
+The Best Way to Grill Sausages
+Homemade Sausage Recipes
+Dairy-free Mains
+Gluten-free Mains
+Sausages
+Pork Mains
+More Serious Eats Recipes
