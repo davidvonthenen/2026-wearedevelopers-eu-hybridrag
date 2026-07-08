@@ -70,7 +70,7 @@ podman run -d \
 
 We are going to reuse the Instaclustr USER_INDEX you claimed in`Section 3` and the we are going to reuse the same dataset that we already ingested.
 
-If you need a reminder, the [Google Sheet at this location](https://bit.ly/4gm2h6v), has the list of `USER_INDEX` and `USER_PASSWORD` that you claimed.
+If you need a reminder, the [Google Sheet at this location](XXXXXXXX), has the list of `USER_INDEX` and `USER_PASSWORD` that you claimed.
 
 For the commands in this section, you will always preface the `python` command with your `USER_INDEX` and `USER_PASSWORD` values.
 
