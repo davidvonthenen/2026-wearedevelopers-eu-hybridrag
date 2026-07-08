@@ -9,7 +9,7 @@ This project demonstrates Knowledge Graph retrieval over a recipe dataset using 
 
 - Python 3.10 **ONLY**
 - Neo4j 5.26.16 running locally
-- TODO: DATASET TODO
+- [recipes-with-nutrition on Huggingface](https://huggingface.co/datasets/datahiveai/recipes-with-nutrition). This already exists within this directory.
 
 ## Installation
 

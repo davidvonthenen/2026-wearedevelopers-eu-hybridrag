@@ -15,7 +15,7 @@ The project has three entry points:
 
 - Python 3.10 **ONLY**
 - OpenSearch 3.5 running in AWS via [NetApp Instaclustr](https://www.instaclustr.com/)
-- TODO: DATASET TODO
+- [recipes-with-nutrition on Huggingface](https://huggingface.co/datasets/datahiveai/recipes-with-nutrition). This already exists within this directory.
 
 ## Installation
 

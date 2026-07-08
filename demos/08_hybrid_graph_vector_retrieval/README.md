@@ -25,7 +25,7 @@ The intended retrieval design is:
 - Python 3.10 **ONLY**
 - Neo4j 5.26.16 running locally
 - OpenSearch 3.5 running locally
-- TODO: DATASET TODO
+- [recipes-with-nutrition on Huggingface](https://huggingface.co/datasets/datahiveai/recipes-with-nutrition). This already exists within this directory.
 
 ## Installation
 
