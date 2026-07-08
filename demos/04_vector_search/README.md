@@ -8,7 +8,7 @@ No LLM is involved in this section. The point is to observe what dense vector re
 
 - Python 3.10 **ONLY**
 - OpenSearch 3.5 running locally with security disabled
-- TODO: DATASET TODO
+- [recipes-with-nutrition on Huggingface](https://huggingface.co/datasets/datahiveai/recipes-with-nutrition). This already exists within this directory.
 
 ## Installation
 
