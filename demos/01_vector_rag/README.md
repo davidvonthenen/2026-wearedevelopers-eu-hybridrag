@@ -37,6 +37,12 @@ podman machine start
 If you don't have OpenSearch running (you can check by running: `podman ps`). You can run the following command:
 
 ```bash
+# create directories
+mkdir -p \
+    "$HOME/models" \
+    "$HOME/opensearch/data" \
+    "$HOME/opensearch/snapshots"
+
 # create the network for opensearch
 podman network create opensearch-net
 
