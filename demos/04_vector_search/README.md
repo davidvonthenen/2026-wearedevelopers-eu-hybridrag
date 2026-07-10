@@ -46,6 +46,7 @@ podman run -d \
     -e "discovery.type=single-node" \
     -e "DISABLE_SECURITY_PLUGIN=true" \
     -e "cluster.routing.allocation.disk.threshold_enabled=false" \
+    --userns="keep-id" \
     -v "$HOME/opensearch/data:/usr/share/opensearch/data" \
     -v "$HOME/opensearch/snapshots:/mnt/snapshots" \
     opensearchproject/opensearch:3.5.0
@@ -57,6 +58,7 @@ podman run -d \
     -p 5601:5601 \
     -e 'OPENSEARCH_HOSTS=["http://opensearch-single:9200"]' \
     -e 'DISABLE_SECURITY_DASHBOARDS_PLUGIN=true' \
+    --userns="keep-id" \
     opensearchproject/opensearch-dashboards:3.5.0
 ```
 

@@ -52,6 +52,7 @@ podman run -d \
     -e NEO4JLABS_PLUGINS='["apoc"]' \
     -e NEO4J_apoc_export_file_enabled=true \
     -e NEO4J_apoc_import_file_enabled=true \
+    --userns="keep-id" \
     -v "$HOME/neo4j/data:/data" \
     -v "$HOME/neo4j/plugins:/plugins" \
     -v "$HOME/neo4j/import:/var/lib/neo4j/import" \
@@ -68,6 +69,7 @@ podman run -d \
     -e "discovery.type=single-node" \
     -e "DISABLE_SECURITY_PLUGIN=true" \
     -e "cluster.routing.allocation.disk.threshold_enabled=false" \
+    --userns="keep-id" \
     -v "$HOME/opensearch/data:/usr/share/opensearch/data" \
     -v "$HOME/opensearch/snapshots:/mnt/snapshots" \
     opensearchproject/opensearch:3.5.0
@@ -78,6 +80,7 @@ podman run -d \
     -p 5600:5601 \
     -e 'OPENSEARCH_HOSTS=["http://opensearch-single:9200"]' \
     -e 'DISABLE_SECURITY_DASHBOARDS_PLUGIN=true' \
+    --userns="keep-id" \
     opensearchproject/opensearch-dashboards:3.5.0
 ```
 
