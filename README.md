@@ -30,9 +30,9 @@ LLM / Model to Pre-Download :
   - On the HuggingFace page, navigate to “files” and [download this model](https://huggingface.co/bartowski/Qwen2.5-7B-Instruct-1M-GGUF/blob/main/Qwen2.5-7B-Instruct-1M-Q5_K_M.gguf).
   - Drop the file into your ~/models folder. (You might need to create this.)
 - Pre-pull the following containers:
-  - podman pull opensearchproject/opensearch:3.5.0
-  - podman pull opensearchproject/opensearch-dashboards:3.5.0
-  - podman pull neo4j:5.26.16
+  - `podman pull docker.io/opensearchproject/opensearch:3.5.0`
+  - `podman pull docker.io/opensearchproject/opensearch-dashboards:3.5.0`
+  - `podman pull docker.io/neo4j:5.26.16`
 
 ## Python Software Prerequisities
 
