@@ -66,6 +66,7 @@ podman run -d \
     -e NEO4JLABS_PLUGINS='["apoc"]' \
     -e NEO4J_apoc_export_file_enabled=true \
     -e NEO4J_apoc_import_file_enabled=true \
+    --userns="keep-id" \
     -v "$HOME/neo4j/data:/data" \
     -v "$HOME/neo4j/plugins:/plugins" \
     -v "$HOME/neo4j/import:/var/lib/neo4j/import" \
