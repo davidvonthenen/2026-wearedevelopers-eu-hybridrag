@@ -17,7 +17,17 @@ This project demonstrates Knowledge Graph retrieval over a recipe dataset using 
 
 **If** you haven't created a [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install/overview), [venv](https://docs.python.org/3/library/venv.html), or [uv](https://pydevtools.com/handbook/how-to/how-to-install-uv/) virtual environment yet, please do so now. This single environment can be used throughout this entire lab exercise. Call this environment `2026-wearedevs-eu-workshop`.
 
-Install all the Python libraries we will be using in this section by running the following command:
+```bash
+conda create -n 2026-wearedevs-eu-workshop python=3.10
+```
+
+Please activate this environment:
+
+```bash
+conda activate 2026-wearedevs-eu-workshop
+```
+
+To install the software dependencies:
 
 ```bash
 # if you are using: miniconda or venv
