@@ -51,7 +51,7 @@ podman run -d \
     -v "$HOME/neo4j/data:/data" \
     -v "$HOME/neo4j/plugins:/plugins" \
     -v "$HOME/neo4j/import:/var/lib/neo4j/import" \
-    neo4j:5.26.16
+    docker.io/neo4j:5.26.16
 ```
 
 ## Step 1: Prerequisite Setup

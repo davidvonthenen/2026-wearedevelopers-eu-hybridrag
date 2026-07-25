@@ -67,7 +67,7 @@ podman run -d \
     -v "$HOME/neo4j/data:/data" \
     -v "$HOME/neo4j/plugins:/plugins" \
     -v "$HOME/neo4j/import:/var/lib/neo4j/import" \
-    neo4j:5.26.16
+    docker.io/neo4j:5.26.16
 
 # create the network for opensearch
 podman network create opensearch-net
@@ -82,7 +82,7 @@ podman run -d \
     -e "cluster.routing.allocation.disk.threshold_enabled=false" \
     -v "$HOME/opensearch/data:/usr/share/opensearch/data" \
     -v "$HOME/opensearch/snapshots:/mnt/snapshots" \
-    opensearchproject/opensearch:3.5.0
+    docker.io/opensearchproject/opensearch:3.5.0
 
 podman run -d \
     --name "opensearch-single-dashboards" \
@@ -90,7 +90,7 @@ podman run -d \
     -p 5600:5601 \
     -e 'OPENSEARCH_HOSTS=["http://opensearch-single:9200"]' \
     -e 'DISABLE_SECURITY_DASHBOARDS_PLUGIN=true' \
-    opensearchproject/opensearch-dashboards:3.5.0
+    docker.io/opensearchproject/opensearch-dashboards:3.5.0
 ```
 
 ## Step 1: Prerequisite Setup
