@@ -48,6 +48,12 @@ podman machine start
 If you don't have Neo4j running (you can check by running: `podman ps`). You can run the following command:
 
 ```bash
+# create directories
+mkdir -p \
+    "$HOME/neo4j/data" \
+    "$HOME/neo4j/import" \
+    "$HOME/neo4j/plugins"
+
 # create the network for neo4j
 podman network create graph-net
 

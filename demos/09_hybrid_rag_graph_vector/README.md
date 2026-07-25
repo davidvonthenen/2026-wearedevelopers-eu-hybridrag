@@ -50,6 +50,15 @@ podman machine start
 If Neo4j and OpenSearch are not running, you can start local containers with the following commands. The Neo4j password shown here matches the default password in `common/config.py`; if you use a different password, set `NEO4J_PASSWORD` before running the scripts.
 
 ```bash
+# create directories
+mkdir -p \
+    "$HOME/models" \
+    "$HOME/neo4j/data" \
+    "$HOME/neo4j/import" \
+    "$HOME/neo4j/plugins" \
+    "$HOME/opensearch/data" \
+    "$HOME/opensearch/snapshots"
+
 # create the network for Neo4j
 podman network create graph-net
 

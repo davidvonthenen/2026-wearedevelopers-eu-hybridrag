@@ -62,6 +62,15 @@ podman machine start
 If you don't have OpenSearch running (you can check by running: `podman ps`). You can run the following command:
 
 ```bash
+# create directories
+mkdir -p \
+    "$HOME/models" \
+    "$HOME/neo4j/data" \
+    "$HOME/neo4j/import" \
+    "$HOME/neo4j/plugins" \
+    "$HOME/opensearch/data" \
+    "$HOME/opensearch/snapshots"
+
 # create the network for Neo4j
 podman network create graph-net
 
