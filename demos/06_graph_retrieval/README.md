@@ -17,7 +17,17 @@ This project demonstrates Knowledge Graph retrieval over a recipe dataset using 
 
 **If** you haven't created a [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install/overview), [venv](https://docs.python.org/3/library/venv.html), or [uv](https://pydevtools.com/handbook/how-to/how-to-install-uv/) virtual environment yet, please do so now. This single environment can be used throughout this entire lab exercise. Call this environment `2026-wearedevs-eu-workshop`.
 
-Install all the Python libraries we will be using in this section by running the following command:
+```bash
+conda create -n 2026-wearedevs-eu-workshop python=3.10
+```
+
+Please activate this environment:
+
+```bash
+conda activate 2026-wearedevs-eu-workshop
+```
+
+To install the software dependencies:
 
 ```bash
 # if you are using: miniconda or venv
@@ -36,6 +46,12 @@ podman machine start
 If you don't have OpenSearch running (you can check by running: `podman ps`). You can run the following command:
 
 ```bash
+# create directories
+mkdir -p \
+    "$HOME/neo4j/data" \
+    "$HOME/neo4j/import" \
+    "$HOME/neo4j/plugins"
+
 # create the network for neo4j
 podman network create graph-net
 
@@ -52,7 +68,7 @@ podman run -d \
     -v "$HOME/neo4j/data:/data" \
     -v "$HOME/neo4j/plugins:/plugins" \
     -v "$HOME/neo4j/import:/var/lib/neo4j/import" \
-    neo4j:5.26.16
+    docker.io/neo4j:5.26.16
 ```
 
 ## Step 1: Prerequisite Setup

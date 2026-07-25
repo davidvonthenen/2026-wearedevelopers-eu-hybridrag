@@ -30,13 +30,25 @@ LLM / Model to Pre-Download :
   - On the HuggingFace page, navigate to “files” and [download this model](https://huggingface.co/bartowski/Qwen2.5-7B-Instruct-1M-GGUF/blob/main/Qwen2.5-7B-Instruct-1M-Q5_K_M.gguf).
   - Drop the file into your ~/models folder. (You might need to create this.)
 - Pre-pull the following containers:
-  - podman pull opensearchproject/opensearch:3.5.0
-  - podman pull opensearchproject/opensearch-dashboards:3.5.0
-  - podman pull neo4j:5.26.16
+  - `podman pull docker.io/opensearchproject/opensearch:3.5.0`
+  - `podman pull docker.io/opensearchproject/opensearch-dashboards:3.5.0`
+  - `podman pull docker.io/neo4j:5.26.16`
 
 ## Python Software Prerequisities
 
 This workshop will **only work with Python version 3.10**. I would highly recommend using [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install/overview), [uv](https://docs.astral.sh/uv/getting-started/installation/), or [venv](https://docs.python.org/3/library/venv.html) so you can run **Python 3.10** in its own isolated environment.
+
+**If** you haven't created a [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install/overview), [venv](https://docs.python.org/3/library/venv.html), or [uv](https://pydevtools.com/handbook/how-to/how-to-install-uv/) virtual environment yet, please do so now. This single environment can be used throughout this entire lab exercise. Call this environment `2026-wearedevs-eu-workshop`.
+
+```bash
+conda create -n 2026-wearedevs-eu-workshop python=3.10
+```
+
+Please activate this environment:
+
+```bash
+conda activate 2026-wearedevs-eu-workshop
+```
 
 To install the software dependencies:
 
