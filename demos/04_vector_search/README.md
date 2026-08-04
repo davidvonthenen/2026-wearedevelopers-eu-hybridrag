@@ -4,79 +4,9 @@ This project demonstrates a small vector-based retrieval pipeline for recipe dat
 
 No LLM is involved in this section. The point is to observe what dense vector retrieval does well, where it becomes fuzzy, and why negation is not the same thing as filtering. Apparently geometry did not volunteer to become a Boolean logic engine. Rude, but mathematically consistent.
 
-## Prerequisites
+## Installation Prerequisite Software
 
-- Python 3.10 **ONLY**
-- OpenSearch 3.5 running locally with security disabled
-- [recipes-with-nutrition on Huggingface](https://huggingface.co/datasets/datahiveai/recipes-with-nutrition). This already exists within this directory.
-
-## Installation
-
-<span style="color: red;">**IMPORTANT NOTE:** If you are running this hands-on lab in sequence, you do not need to perform these **Installation Step** again.</span>
-
-**If** you haven't created a [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install/overview), [venv](https://docs.python.org/3/library/venv.html), or [uv](https://pydevtools.com/handbook/how-to/how-to-install-uv/) virtual environment yet, please do so now. This single environment can be used throughout this entire lab exercise. Call this environment `2026-wearedevs-eu-workshop`.
-
-```bash
-conda create -n 2026-wearedevs-eu-workshop python=3.10
-```
-
-Please activate this environment:
-
-```bash
-conda activate 2026-wearedevs-eu-workshop
-```
-
-To install the software dependencies:
-
-```bash
-# if you are using: miniconda or venv
-pip install -r requirements.txt
-
-# OR, if using  uv
-uv pip install -r requirements.txt 
-```
-
-**If** you need to start your `podman` VM instance to host containers, run the following command:
-
-```bash
-podman machine start
-```
-
-If you don't have OpenSearch running (you can check by running: `podman ps`). You can run the following command:
-
-```bash
-# create directories
-mkdir -p \
-    "$HOME/models" \
-    "$HOME/opensearch/data" \
-    "$HOME/opensearch/snapshots"
-
-# create the network for opensearch
-podman network create opensearch-net
-
-# deploy the OpenSearch container
-podman run -d \
-    --name "opensearch-single" \
-    --network "opensearch-net" \
-    -p 9200:9200 -p 9600:9600 \
-    -e "discovery.type=single-node" \
-    -e "DISABLE_SECURITY_PLUGIN=true" \
-    -e "cluster.routing.allocation.disk.threshold_enabled=false" \
-    --userns="keep-id" \
-    -v "$HOME/opensearch/data:/usr/share/opensearch/data" \
-    -v "$HOME/opensearch/snapshots:/mnt/snapshots" \
-    docker.io/opensearchproject/opensearch:3.5.0
-
-# deploy OpenSearch Dashboards
-podman run -d \
-    --name "opensearch-single-dashboards" \
-    --network "opensearch-net" \
-    -p 5601:5601 \
-    -e 'OPENSEARCH_HOSTS=["http://opensearch-single:9200"]' \
-    -e 'DISABLE_SECURITY_DASHBOARDS_PLUGIN=true' \
-    --userns="keep-id" \
-    docker.io/opensearchproject/opensearch-dashboards:3.5.0
-```
+Please see the README.md at the root of the repo.
 
 ## Step 1: Prerequisite Setup
 

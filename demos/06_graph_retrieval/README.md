@@ -5,71 +5,9 @@ This project demonstrates Knowledge Graph retrieval over a recipe dataset using 
 - `ingest.py` loads recipe CSV rows into Neo4j, optionally fetches recipe page text from each URL, and stores both structured metadata and graph content chunks.
 - `query.py` shows how recipe records can be retrieved from Neo4j using graph metadata filters and lightweight text predicates.
 
-## Prerequisites
+## Installation Prerequisite Software
 
-- Python 3.10 **ONLY**
-- Neo4j 5.26.16 running locally
-- [recipes-with-nutrition on Huggingface](https://huggingface.co/datasets/datahiveai/recipes-with-nutrition). This already exists within this directory.
-
-## Installation
-
-<span style="color: red;">**IMPORTANT NOTE:** If you are running this hands-on lab in sequence, you do not need to perform these **Installation Step** again.</span>
-
-**If** you haven't created a [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install/overview), [venv](https://docs.python.org/3/library/venv.html), or [uv](https://pydevtools.com/handbook/how-to/how-to-install-uv/) virtual environment yet, please do so now. This single environment can be used throughout this entire lab exercise. Call this environment `2026-wearedevs-eu-workshop`.
-
-```bash
-conda create -n 2026-wearedevs-eu-workshop python=3.10
-```
-
-Please activate this environment:
-
-```bash
-conda activate 2026-wearedevs-eu-workshop
-```
-
-To install the software dependencies:
-
-```bash
-# if you are using: miniconda or venv
-pip install -r requirements.txt
-
-# OR, if using  uv
-uv pip install -r requirements.txt 
-```
-
-**If** you need to start your `podman` VM instance to host containers, run the following command:
-
-```bash
-podman machine start
-```
-
-If you don't have OpenSearch running (you can check by running: `podman ps`). You can run the following command:
-
-```bash
-# create directories
-mkdir -p \
-    "$HOME/neo4j/data" \
-    "$HOME/neo4j/import" \
-    "$HOME/neo4j/plugins"
-
-# create the network for neo4j
-podman network create graph-net
-
-# deploy the Neo4j container image
-podman run -d \
-    --name "neo4j-single" \
-    --network "graph-net" \
-    -p 7474:7474 -p 7687:7687 \
-    -e NEO4J_AUTH=neo4j/neo4jneo4j \
-    -e NEO4JLABS_PLUGINS='["apoc"]' \
-    -e NEO4J_apoc_export_file_enabled=true \
-    -e NEO4J_apoc_import_file_enabled=true \
-    --userns="keep-id" \
-    -v "$HOME/neo4j/data:/data" \
-    -v "$HOME/neo4j/plugins:/plugins" \
-    -v "$HOME/neo4j/import:/var/lib/neo4j/import" \
-    docker.io/neo4j:5.26.16
-```
+Please see the README.md at the root of the repo.
 
 ## Step 1: Prerequisite Setup
 

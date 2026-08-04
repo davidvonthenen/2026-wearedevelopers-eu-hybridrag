@@ -7,77 +7,9 @@ The main scripts are:
 - `ingest.py`: reads `./bbc/<category>/*.txt`, chunks articles, embeds each chunk, and writes the chunk plus metadata to OpenSearch.
 - `query.py`: loads the local GGUF model, embeds the question, retrieves vector hits from OpenSearch, builds a grounded prompt, and prints the answer plus retrieved hit metadata.
 
-## Prerequisites
+## Installation Prerequisite Software
 
-- Python 3.10 only
-- OpenSearch 3.5 running locally with security disabled
-- A **modified** BBC dataset located at `./bbc` (original version from [derekgreene/bbc-datasets](https://github.com/derekgreene/bbc-datasets))
-- Small Language Model: [Qwen2.5-7B-Instruct-1M-Q5_K_M.gguf](https://huggingface.co/bartowski/Qwen2.5-7B-Instruct-1M-GGUF/blob/main/Qwen2.5-7B-Instruct-1M-Q5_K_M.gguf) saved to this path: `~/models`
-
-## Installation
-
-**If** you haven't created a [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install/overview), [venv](https://docs.python.org/3/library/venv.html), or [uv](https://pydevtools.com/handbook/how-to/how-to-install-uv/) virtual environment yet, please do so now. This single environment can be used throughout this entire lab exercise. Call this environment `2026-wearedevs-eu-workshop`.
-
-```bash
-conda create -n 2026-wearedevs-eu-workshop python=3.10
-```
-
-Please activate this environment:
-
-```bash
-conda activate 2026-wearedevs-eu-workshop
-```
-
-Install all the Python libraries we will be using in this section by running the following command:
-
-```bash
-# if you are using: miniconda or venv
-pip install -r requirements.txt
-
-# OR, if using  uv
-uv pip install -r requirements.txt 
-```
-
-You need to start your `podman` VM instance to host containers (if you haven't done so already).
-
-```bash
-podman machine start
-```
-
-If you don't have OpenSearch running (you can check by running: `podman ps`). You can run the following command:
-
-```bash
-# create directories
-mkdir -p \
-    "$HOME/models" \
-    "$HOME/opensearch/data" \
-    "$HOME/opensearch/snapshots"
-
-# create the network for opensearch
-podman network create opensearch-net
-
-# deploy the container images
-podman run -d \
-    --name "opensearch-single" \
-    --network "opensearch-net" \
-    -p 9200:9200 -p 9600:9600 \
-    -e "discovery.type=single-node" \
-    -e "DISABLE_SECURITY_PLUGIN=true" \
-    -e "cluster.routing.allocation.disk.threshold_enabled=false" \
-    --userns="keep-id" \
-    -v "$HOME/opensearch/data:/usr/share/opensearch/data" \
-    -v "$HOME/opensearch/snapshots:/mnt/snapshots" \
-    docker.io/opensearchproject/opensearch:3.5.0
-
-podman run -d \
-    --name "opensearch-single-dashboards" \
-    --network "opensearch-net" \
-    -p 5601:5601 \
-    -e 'OPENSEARCH_HOSTS=["http://opensearch-single:9200"]' \
-    -e 'DISABLE_SECURITY_DASHBOARDS_PLUGIN=true' \
-    --userns="keep-id" \
-    docker.io/opensearchproject/opensearch-dashboards:3.5.0
-```
+Please see the README.md at the root of the repo.
 
 ## Step 1: Ingest the BBC Dataset
 
