@@ -82,7 +82,7 @@ We are saving our **vector embeddings** to the OpenSearch index named `recipes-b
 USER_INDEX=YOUR_USER_INDEX USER_PASSWORD=YOUR_PASSWORD python ingest.py
 ```
 
-Using the [Google Sheet at this location](XXXXXXXX), claim a `USER_INDEX` and `USER_PASSWORD` by placing your name on the row you are claiming. This prevents others from using your same OpenSearch indexes.
+Using the [Google Sheet at this location](https://bit.ly/4gm2h6v), claim a `USER_INDEX` and `USER_PASSWORD` by placing your name on the row you are claiming. This prevents others from using your same OpenSearch indexes.
 
 For the commands in this section, you will always preface the `python` command with your `USER_INDEX` and `USER_PASSWORD` values.
 
