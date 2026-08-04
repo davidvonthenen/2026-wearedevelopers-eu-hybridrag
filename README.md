@@ -20,14 +20,14 @@ Participants should ensure they have the minimum requirements:
     - If you opt for this, you must provide your own instances
 - Python Version: **Using Only 3.10** 
   - **Sections of the workshop will not function using a version other than 3.10**
-  - (HIGHLY Recommended) Use [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install/overview), [uv](https://docs.astral.sh/uv/getting-started/installation/), or [venv](https://docs.python.org/3/library/venv.html) virtual development environment. (I prefer miniconda or uv)
+  - (HIGHLY Recommended) Use [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install/overview), [uv](https://docs.astral.sh/uv/getting-started/installation/), or [venv](https://docs.python.org/3/library/venv.html) virtual development environment. (I prefer miniconda and will provide instructions usig it)
 - (HIGHLY Recommended) [Huggingface developer token](https://huggingface.co/settings/tokens) saved to `HF_TOKEN` environment variable.
 - Install [Podman](https://podman.io/docs/installation) (or equivalent container runtime).
   - Will use [OpenSearch](https://opensearch.org/) and [Neo4j](https://neo4j.com/) containers.
 
-LLM / Model to Pre-Download :
-- [Qwen2.5-7B-Instruct-1M-GGUF](https://huggingface.co/bartowski/Qwen2.5-7B-Instruct-1M-GGUF) – Specifically the [Q5_K_M version](https://huggingface.co/bartowski/Qwen2.5-7B-Instruct-1M-GGUF/blob/main/Qwen2.5-7B-Instruct-1M-Q5_K_M.gguf)
-  - On the HuggingFace page, navigate to “files” and [download this model](https://huggingface.co/bartowski/Qwen2.5-7B-Instruct-1M-GGUF/blob/main/Qwen2.5-7B-Instruct-1M-Q5_K_M.gguf).
+Software Downloads:
+- [Qwen2.5-7B-Instruct-1M-GGUF](https://huggingface.co/bartowski/Qwen2.5-7B-Instruct-1M-GGUF)
+  – Specifically the [Q5_K_M version](https://huggingface.co/bartowski/Qwen2.5-7B-Instruct-1M-GGUF/blob/main/Qwen2.5-7B-Instruct-1M-Q5_K_M.gguf)
   - Drop the file into your ~/models folder. (You might need to create this.)
 - Pre-pull the following containers:
   - `podman pull docker.io/opensearchproject/opensearch:3.5.0`
@@ -38,7 +38,9 @@ LLM / Model to Pre-Download :
 
 This workshop will **only work with Python version 3.10**. I would highly recommend using [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install/overview), [uv](https://docs.astral.sh/uv/getting-started/installation/), or [venv](https://docs.python.org/3/library/venv.html) so you can run **Python 3.10** in its own isolated environment.
 
-**If** you haven't created a [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install/overview), [venv](https://docs.python.org/3/library/venv.html), or [uv](https://pydevtools.com/handbook/how-to/how-to-install-uv/) virtual environment yet, please do so now. This single environment can be used throughout this entire lab exercise. Call this environment `2026-wearedevs-eu-workshop`.
+**If** you have never used one of these tools before, [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install/overview), [venv](https://docs.python.org/3/library/venv.html) is the absolutely easiest and I will provide instructions using it going forward. If you prefer another tool, then use what you are familiar with.
+
+We will use `2026-wearedevs-eu-workshop` as the environment for our workshop today.
 
 ```bash
 conda create -n 2026-wearedevs-eu-workshop python=3.10
@@ -53,48 +55,97 @@ conda activate 2026-wearedevs-eu-workshop
 To install the software dependencies:
 
 ```bash
-# if you are using: miniconda or venv
 pip install -r requirements.txt
-
-# OR, if using  uv
-uv pip install -r requirements.txt 
 ```
 
-Then:
+Then we need to install the model for spacey:
 
 ```bash
-# For miniconda or venv:
 pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
-# OR, if using uv:
-uv pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
 ```
 
 Done!
 
-## Python Software Prerequisities
+## Starting OpenSearch and Neo4j Containers
 
-This workshop will **only work with Python version 3.10**. I would highly recommend using [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install/overview), [uv](https://docs.astral.sh/uv/getting-started/installation/), or [venv](https://docs.python.org/3/library/venv.html) so you can run **Python 3.10** in its own isolated environment.
+If you haven't installed [Podman](https://podman.io/docs/installation) (or you can use whatever container runtime you are familiar with, like Docker), you can find instructions for install [here](https://podman.io/docs/installation).
 
-To install the software dependencies:
-
-```bash
-# if you are using: miniconda or venv
-pip install -r requirements.txt
-
-# OR, if using  uv
-uv pip install -r requirements.txt 
-```
-
-Then:
+You need to start your `podman` VM instance to host containers (if you haven't done so already).
 
 ```bash
-# For miniconda or venv:
-pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
-# OR, if using uv:
-uv pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
+podman machine start
 ```
 
-Done!
+Download the container images:
+
+```bash
+podman pull docker.io/opensearchproject/opensearch:3.5.0
+podman pull docker.io/opensearchproject/opensearch-dashboards:3.5.0
+podman pull docker.io/neo4j:5.26.16
+```
+
+Start the OpenSearch by running the following command:
+
+```bash
+# create directories
+mkdir -p \
+    "$HOME/models" \
+    "$HOME/opensearch/data" \
+    "$HOME/opensearch/snapshots"
+
+# create the network for opensearch
+podman network create opensearch-net
+
+# deploy the container images
+podman run -d \
+    --name "opensearch-single" \
+    --network "opensearch-net" \
+    -p 9200:9200 -p 9600:9600 \
+    -e "discovery.type=single-node" \
+    -e "DISABLE_SECURITY_PLUGIN=true" \
+    -e "cluster.routing.allocation.disk.threshold_enabled=false" \
+    --userns="keep-id" \
+    -v "$HOME/opensearch/data:/usr/share/opensearch/data" \
+    -v "$HOME/opensearch/snapshots:/mnt/snapshots" \
+    docker.io/opensearchproject/opensearch:3.5.0
+
+podman run -d \
+    --name "opensearch-single-dashboards" \
+    --network "opensearch-net" \
+    -p 5601:5601 \
+    -e 'OPENSEARCH_HOSTS=["http://opensearch-single:9200"]' \
+    -e 'DISABLE_SECURITY_DASHBOARDS_PLUGIN=true' \
+    --userns="keep-id" \
+    docker.io/opensearchproject/opensearch-dashboards:3.5.0
+```
+
+Start Neo4j by running the following command:
+
+```bash
+# create directories
+mkdir -p \
+    "$HOME/neo4j/data" \
+    "$HOME/neo4j/import" \
+    "$HOME/neo4j/plugins"
+
+# create the network for neo4j
+podman network create graph-net
+
+# deploy the container images
+podman run -d \
+    --name "neo4j-single" \
+    --network "graph-net" \
+    -p 7474:7474 -p 7687:7687 \
+    -e NEO4J_AUTH=neo4j/neo4jneo4j \
+    -e NEO4JLABS_PLUGINS='["apoc"]' \
+    -e NEO4J_apoc_export_file_enabled=true \
+    -e NEO4J_apoc_import_file_enabled=true \
+    --userns="keep-id" \
+    -v "$HOME/neo4j/data:/data" \
+    -v "$HOME/neo4j/plugins:/plugins" \
+    -v "$HOME/neo4j/import:/var/lib/neo4j/import" \
+    docker.io/neo4j:5.26.16
+```
 
 ## Workshop Materials
 

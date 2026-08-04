@@ -4,74 +4,9 @@ This project provides a compact Graph-based Retrieval Augmented Generation (RAG)
 
 The retrieval path is intentionally graph-first: documents are ingested into Neo4j as `Document`, `Paragraph`, and `Entity` nodes. At query time, the user question is sent to the NER service, matching entities are used to retrieve related paragraphs from Neo4j, and BM25 reranks those paragraph candidates before the local model receives the final context.
 
-## Prerequisites
+## Installation Prerequisite Software
 
-- Python 3.10 only
-- Neo4j 5.26.16 running locally
-- A **modified** BBC dataset located at `./bbc` (original version from [derekgreene/bbc-datasets](https://github.com/derekgreene/bbc-datasets))
-- Small Language Model: [Qwen2.5-7B-Instruct-1M-Q5_K_M.gguf](https://huggingface.co/bartowski/Qwen2.5-7B-Instruct-1M-GGUF/blob/main/Qwen2.5-7B-Instruct-1M-Q5_K_M.gguf) saved to this path: `~/models`
-
-## Installation
-
-<span style="color: red;">**IMPORTANT NOTE:** If you are running this hands-on lab in sequence, you do not need to perform these **Installation Step** again.</span>
-
-**If** you haven't created a [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install/overview), [venv](https://docs.python.org/3/library/venv.html), or [uv](https://pydevtools.com/handbook/how-to/how-to-install-uv/) virtual environment yet, please do so now. This single environment can be used throughout this entire lab exercise. Call this environment `2026-wearedevs-eu-workshop`.
-
-```bash
-conda create -n 2026-wearedevs-eu-workshop python=3.10
-```
-
-Please activate this environment:
-
-```bash
-conda activate 2026-wearedevs-eu-workshop
-```
-
-To install the software dependencies:
-
-```bash
-# if you are using: miniconda or venv
-pip install -r requirements.txt
-
-# OR, if using  uv
-uv pip install -r requirements.txt 
-```
-
-**If** you need to start your `podman` VM instance to host containers, run the following command:
-
-```bash
-podman machine start
-```
-
-<span style="color: cyan;">**IMPORTANT NOTE:** This is a NEW step. We need to download and run our Neo4j database.</span>
-
-If you don't have Neo4j running (you can check by running: `podman ps`). You can run the following command:
-
-```bash
-# create directories
-mkdir -p \
-    "$HOME/neo4j/data" \
-    "$HOME/neo4j/import" \
-    "$HOME/neo4j/plugins"
-
-# create the network for neo4j
-podman network create graph-net
-
-# deploy the container images
-podman run -d \
-    --name "neo4j-single" \
-    --network "graph-net" \
-    -p 7474:7474 -p 7687:7687 \
-    -e NEO4J_AUTH=neo4j/neo4jneo4j \
-    -e NEO4JLABS_PLUGINS='["apoc"]' \
-    -e NEO4J_apoc_export_file_enabled=true \
-    -e NEO4J_apoc_import_file_enabled=true \
-    --userns="keep-id" \
-    -v "$HOME/neo4j/data:/data" \
-    -v "$HOME/neo4j/plugins:/plugins" \
-    -v "$HOME/neo4j/import:/var/lib/neo4j/import" \
-    docker.io/neo4j:5.26.16
-```
+Please see the README.md at the root of the repo.
 
 ## Step 1: Prerequisite Setup
 
@@ -80,13 +15,6 @@ podman run -d \
 <span style="color: cyan;">**IN A NEW TERMINAL:** We need to start our NER service. Run the following commands FROM THIS DIRECTORY and don't forget to start your virtual environment if you are using one:</span>
 
 ```bash
-# If you are using the same virtual environment: 2026-wearedevs-eu-workshop, you don't need to run the command below:
-# For miniconda or venv:
-# pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
-# OR, if using uv:
-# uv pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
-
-# BUT YOU DO NEED TO START THE NER SERVICE USING THE COMMAND BELOW
 python ner_service.py
 ```
 

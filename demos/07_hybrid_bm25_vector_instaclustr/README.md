@@ -11,37 +11,11 @@ The project has three entry points:
 - `query.py` inspects retrieval results without calling an LLM.
 - `inference.py` runs a two-stage inference demonstration using hardcoded BM25 and vector evidence so prompt behavior can be studied independently from retrieval behavior.
 
-## Prerequisites
+## Installation Prerequisite Software
 
-- Python 3.10 **ONLY**
-- OpenSearch 3.5 running in AWS via [NetApp Instaclustr](https://www.instaclustr.com/)
-- [recipes-with-nutrition on Huggingface](https://huggingface.co/datasets/datahiveai/recipes-with-nutrition). This already exists within this directory.
+Please see the README.md at the root of the repo.
 
-## Installation
-
-<span style="color: red;">**IMPORTANT NOTE:** If you are running this hands-on lab in sequence, you do not need to perform these **Installation Step** again.</span>
-
-**If** you haven't created a [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install/overview), [venv](https://docs.python.org/3/library/venv.html), or [uv](https://pydevtools.com/handbook/how-to/how-to-install-uv/) virtual environment yet, please do so now. This single environment can be used throughout this entire lab exercise. Call this environment `2026-wearedevs-eu-workshop`.
-
-```bash
-conda create -n 2026-wearedevs-eu-workshop python=3.10
-```
-
-Please activate this environment:
-
-```bash
-conda activate 2026-wearedevs-eu-workshop
-```
-
-To install the software dependencies:
-
-```bash
-# if you are using: miniconda or venv
-pip install -r requirements.txt
-
-# OR, if using  uv
-uv pip install -r requirements.txt 
-```
+## Step 1: Prerequisite Setup
 
 The step uses a managed OpenSearch instance provided through [NetApp Instaclustr](https://www.instaclustr.com/) that I am providing for this workshop. The code uses standard OpenSearch APIs, so the same project can also run against a compatible local or cloud-hosted OpenSearch instance when configured with the appropriate environment variables.
 
@@ -50,20 +24,11 @@ The only thing you will need (which will be provided in a Google Sheet in `Step 
 - an User Index
 - an OpenSearch User Password
 
-## Step 1: Prerequisite Setup
-
 ### Start Our Named Entity Reognition Service
 
 <span style="color: cyan;">**IN A NEW TERMINAL:** We need to start our NER service. Run the following commands FROM THIS DIRECTORY and don't forget to start your virtual environment if you are using one:</span>
 
 ```bash
-# If you are using the same virtual environment: 2026-wearedevs-eu-workshop, you don't need to run the command below:
-# For miniconda or venv:
-# pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
-# OR, if using uv:
-# uv pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
-
-# BUT YOU DO NEED TO START THE NER SERVICE USING THE COMMAND BELOW
 python ner_service.py
 ```
 

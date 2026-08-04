@@ -2,79 +2,9 @@
 
 This project provides an end-to-end Retrieval Augmented Generation (RAG) workflow using **BM25-style lexical retrieval** with OpenSearch and a local GGUF model for generation. OpenSearch stores both full BBC-style documents and fixed-size overlapping chunks. A small Flask service provides Named Entity Recognition (NER) using spaCy, and `query.py` loads the local model directly with `llama.cpp` for inference.
 
-## Prerequisites
+## Installation Prerequisite Software
 
-- Python 3.10 only
-- OpenSearch 3.5 running locally with security disabled
-- A **modified** BBC dataset located at `./bbc` (original version from [derekgreene/bbc-datasets](https://github.com/derekgreene/bbc-datasets))
-- Small Language Model: [Qwen2.5-7B-Instruct-1M-Q5_K_M.gguf](https://huggingface.co/bartowski/Qwen2.5-7B-Instruct-1M-GGUF/blob/main/Qwen2.5-7B-Instruct-1M-Q5_K_M.gguf) saved to this path: `~/models`
-
-## Installation
-
-<span style="color: red;">**IMPORTANT NOTE:** If you are running this hands-on lab in sequence, you do not need to perform these **Installation Step** again.</span>
-
-**If** you haven't created a [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install/overview), [venv](https://docs.python.org/3/library/venv.html), or [uv](https://pydevtools.com/handbook/how-to/how-to-install-uv/) virtual environment yet, please do so now. This single environment can be used throughout this entire lab exercise. Call this environment `2026-wearedevs-eu-workshop`.
-
-```bash
-conda create -n 2026-wearedevs-eu-workshop python=3.10
-```
-
-Please activate this environment:
-
-```bash
-conda activate 2026-wearedevs-eu-workshop
-```
-
-Install all the Python libraries we will be using in this section by running the following command:
-
-```bash
-# if you are using: miniconda or venv
-pip install -r requirements.txt
-
-# OR, if using  uv
-uv pip install -r requirements.txt 
-```
-
-**If** you need to start your `podman` VM instance to host containers, run the following command:
-
-```bash
-podman machine start
-```
-
-If you don't have OpenSearch running (you can check by running: `podman ps`). You can run the following command:
-
-```bash
-# create directories
-mkdir -p \
-    "$HOME/models" \
-    "$HOME/opensearch/data" \
-    "$HOME/opensearch/snapshots"
-
-# create the network for opensearch
-podman network create opensearch-net
-
-# deploy the container images
-podman run -d \
-    --name "opensearch-single" \
-    --network "opensearch-net" \
-    -p 9200:9200 -p 9600:9600 \
-    -e "discovery.type=single-node" \
-    -e "DISABLE_SECURITY_PLUGIN=true" \
-    -e "cluster.routing.allocation.disk.threshold_enabled=false" \
-    --userns="keep-id" \
-    -v "$HOME/opensearch/data:/usr/share/opensearch/data" \
-    -v "$HOME/opensearch/snapshots:/mnt/snapshots" \
-    docker.io/opensearchproject/opensearch:3.5.0
-
-podman run -d \
-    --name "opensearch-single-dashboards" \
-    --network "opensearch-net" \
-    -p 5601:5601 \
-    -e 'OPENSEARCH_HOSTS=["http://opensearch-single:9200"]' \
-    -e 'DISABLE_SECURITY_DASHBOARDS_PLUGIN=true' \
-    --userns="keep-id" \
-    docker.io/opensearchproject/opensearch-dashboards:3.5.0
-```
+Please see the README.md at the root of the repo.
 
 ## Step 1: Prerequisite Setup
 
@@ -83,12 +13,6 @@ podman run -d \
 <span style="color: cyan;">**IN A NEW TERMINAL:** We need to start our NER service. Run the following commands FROM THIS DIRECTORY and don't forget to start your virtual environment if you are using one:</span>
 
 ```bash
-# For miniconda or venv:
-pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
-# OR, if using uv:
-uv pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
-
-# start the service
 python ner_service.py
 ```
 
